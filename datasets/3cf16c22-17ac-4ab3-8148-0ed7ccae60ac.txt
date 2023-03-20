@@ -1,0 +1,100 @@
+4. Instruction: Summarize the plot of a novel titled "To Kill a Mockingbird" in one paragraph.
+4. Input: <noinput>
+4. Output: "To Kill a Mockingbird" follows the story of Scout as she navigates racial prejudice and injustice in the sleepy town of Maycomb, Alabama. Her father, a lawyer named Atticus Finch, defends a black man falsely accused of rape, leading to a clash with the town's bigots and a tragic end to the trial.
+###
+5. Instruction: Create a haiku poem about the sunset. 
+5. Input: <noinput>
+5. Output: 
+The sun dips and glows,
+Painting the sky with colors,
+Beauty unsurpassed.
+###
+6. Instruction: Edit the given sentence and make it grammatically correct. 
+6. Input: 
+Original sentence: Me and her went to the park yesterday. 
+6. Output: 
+She and I went to the park yesterday.
+###
+7. Instruction: Given a sentence, change the voice from active to passive or passive to active. 
+7. Input: 
+Active Sentence: The dog chased the cat.
+7. Output: 
+Passive Sentence: The cat was chased by the dog.
+###
+8. Instruction: Create a list of famous inventors from the 18th century.
+8. Input: <noinput>
+8. Output: Some famous inventors from the 18th century include Benjamin Franklin, James Watt, Eli Whitney, and Alessandro Volta.
+###
+9. Instruction: Predict the weather for tomorrow.
+9. Input: <noinput>
+9. Output: According to the forecast, it will be mostly sunny tomorrow with a high of 75 degrees Fahrenheit and a low of 60 degrees Fahrenheit.
+###
+10. Instruction: Translate the sentence from French to English. 
+10. Input: 
+French Sentence: Comment allez-vous aujourd'hui ?
+10. Output: 
+English Translation: How are you today?
+###
+11. Instruction: Given a sentence, identify the adverb and tell what type of verb it modifies. 
+11. Input: 
+Sentence: She quickly finished the race.
+11. Output: 
+The adverb "quickly" modifies the verb "finished", which is an action verb.
+###
+12. Instruction: Write a movie review for the recently released movie "Joker".
+12. Input: 
+I just watched the recently released movie "Joker".
+12. Output: 
+"Joker" is a gripping and haunting portrayal of one man's descent into madness. Joaquin Phoenix gives a stunning performance, bringing humanity and vulnerability to this terrifying character. Director Todd Phillips masterfully crafts a dark and intense atmosphere, making "Joker" a must-see film of the year.
+###
+13. Instruction: Given a word, provide its definition and use it in a sentence. 
+13. Input: 
+Word: Eclectic
+13. Output: 
+Definition: deriving ideas or styles from a broad and diverse range of sources.
+Sentence: Her decorating style was eclectic, combining vintage and modern pieces with an artistic flair.
+###
+14. Instruction: Write a critique of a recently published novel titled "The Testaments".
+14. Input: 
+I just finished reading the recently published novel "The Testaments".
+14. Output: 
+"The Testaments" is a powerful and thought-provoking novel, exposing the dangers of patriarchal societies and the importance of resistance. Margaret Atwood's writing is captivating, and the story is expertly crafted. Despite some pacing issues in the middle of the book, "The Testaments" is a worthy sequel to "The Handmaid's Tale" and a chilling warning of what could happen if we are not vigilant in protecting our rights and freedoms.
+###
+15. Instruction: Write a letter to your future self. 
+15. Input: <noinput>
+15. Output: 
+Dear Future Me,
+
+I hope this letter finds you well. Remember to appreciate the small things in life and never stop seeking knowledge and growth. Keep following your dreams, and don't let anyone dull your sparkle. I look forward to seeing all that you have become.
+
+Sincerely, Present Me
+###
+16. Instruction: Given a set of directions, write a paragraph describing how to make a BLT sandwich. 
+16. Input: 
+Ingredients: Bacon, lettuce, tomato, bread, mayonnaise
+16. Output: 
+To make a BLT sandwich, start by cooking the bacon in a pan until crispy. While the bacon cooks, wash and slice the tomato and lettuce. Toast two pieces of your favorite bread. Once the bacon is done, spread mayonnaise on each slice of toasted bread. Place the lettuce, tomato, and bacon on one slice of bread, and then place the other slice on top. Cut in half and enjoy your delicious BLT sandwich!
+###
+17. Instruction: Write a descriptive paragraph about a famous landmark. 
+17. Input: 
+Famous Landmark: The Great Wall of China
+17. Output: 
+The Great Wall of China is a monumental feat of engineering and construction, stretching over 13,000 miles through mountains and valleys. Built over a span of centuries, the wall stands as a testament to the ingenuity and determination of the Chinese people. Tourists flock to the Great Wall to catch a glimpse of its awe-inspiring scale and to learn about the history of this wonder of the world.
+###
+18. Instruction: Rewrite the given sentence using a metaphor. 
+18. Input: 
+Original Sentence: The sun was shining brightly. 
+18. Output: 
+The sun was a blazing inferno in the sky.
+###
+19. Instruction: Given a sentence, identify the noun clause and tell its function. 
+19. Input: 
+Sentence: I don't know what to do.
+19. Output: 
+The noun clause "what to do" functions as the direct object of the verb "know".
+### 
+20. Instruction: Reverse the order of the words in the sentence. 
+20. Input: 
+Sentence: The cat sat on the mat.
+20. Output: 
+Mat the on sat cat the.

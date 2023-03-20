@@ -1,0 +1,86 @@
+4. Instruction: Organize the given recipe ingredients into a bullet list format.
+4. Input: 
+2 cups of sugar, 3/4 cup of cocoa powder, 1/2 cup of butter, 1/2 teaspoon of salt, 3 eggs, 1 teaspoon of vanilla, 1/4 teaspoon of baking powder, 1 and 1/2 cups of flour
+4. Output: 
+- 2 cups of sugar
+- 3/4 cup of cocoa powder
+- 1/2 cup of butter
+- 1/2 teaspoon of salt
+- 3 eggs
+- 1 teaspoon of vanilla
+- 1/4 teaspoon of baking powder
+- 1 and 1/2 cups of flour
+###
+5. Instruction: Write a summary of the provided movie synopsis.
+5. Input: 
+In a world where mutants are feared and rejected by society, Charles Xavier opens a school to provide a safe haven for mutants and offer them education and understanding. Xavier brings together a group of students, including Jean Grey, Cyclops, and Storm, to form the X-Men, a team committed to protecting humans and mutants alike. As they work together to defeat their enemies and ensure the survival of their species, the X-Men navigate the challenges of friendship, love, and betrayal.
+5. Output: 
+The X-Men, a group of mutants led by Charles Xavier, work together to protect both humans and mutants while navigating the challenges of friendship, love, and betrayal in a world where they are feared and rejected.
+###
+6. Instruction: Translate the given sentence from English to French.
+6. Input: 
+People usually go to the beach during the summer.
+6. Output: 
+Les gens vont généralement à la plage pendant l'été.
+###
+7. Instruction: Pick out the main idea from the text about the company's mission.
+7. Input: 
+Our company, GreenTech Innovations, is dedicated to creating and implementing environmentally sustainable technologies in various industries. We strive to be at the forefront of the green revolution, making our planet a cleaner and more habitable place for future generations. We believe it is our responsibility as a company to help combat climate change and protect our environment.
+7. Output: 
+GreenTech Innovations is dedicated to creating and implementing environmentally sustainable technologies to combat climate change and protect the environment.
+###
+8. Instruction: Write a haiku inspired by the provided nature scene description. 
+8. Input: 
+It was a peaceful evening by the lake, with birds singing and a gentle breeze flowing through the trees, making the water ripple gently.
+8. Output: 
+Birds sing at twilight,
+A gentle breeze stirs the lake,
+Ripples dance softly.
+###
+9. Instruction: What are the top three search engine websites?
+9. Input: 
+<noinput>
+9. Output: 
+1. Google
+2. Bing
+3. Yahoo Search
+###
+10. Instruction: Write a compelling opening sentence for a mystery novel.
+10. Input: 
+<noinput>
+10. Output: 
+As the eerie darkness swallowed the estate, Marissa knew the unspoken secret would finally emerge, one shadow at a time.
+###
+11. Instruction: Rank the given actions in order of increasing environmental impact, from the least to the most impactful.
+11. Input: 
+Carpooling, using disposable plastic bottles, recycling, planting a tree
+11. Output: 
+Planting a tree, recycling, carpooling, using disposable plastic bottles
+###
+12. Instruction: Rewrite the given sentence in the passive voice.
+12. Input: 
+The detective solved the mystery and caught the culprit.
+12. Output: 
+The mystery was solved, and the culprit was caught by the detective.
+###
+13. Instruction: Proofread the provided text for spelling and grammar errors and correct them.
+13. Input: 
+She wanted too go to teh beach, but the rain was poring all day, so she stayed in and watched a moovie with her familly.
+13. Output: 
+She wanted to go to the beach, but the rain was pouring all day, so she stayed in and watched a movie with her family.
+###
+14. Instruction: Use the provided quote as inspiration to create a piece of advice.
+14. Input: 
+"Life is what happens when you're busy making other plans." - John Lennon
+14. Output: 
+Remember to enjoy and live in the present moment, as life's unexpected joys may be happening while you are planning for the future.
+###
+15. Instruction: What precautions should one take during an earthquake if they are indoors?
+15. Input:
+<noinput>
+15. Output:
+1. Drop to the ground and take cover under sturdy furniture such as a table or desk.
+2. Hold on to the furniture and cover your head and neck with your arms.
+3. Stay away from windows, glass, and heavy objects that could fall.
+4. Do not attempt to leave the building during the shaking.
+5. Remain indoors until the shaking stops, and it is safe to exit.

@@ -1,0 +1,11 @@
+4. Instruction: Generate a short paragraph describing the history of the Eiffel Tower in Paris. 
+4. Input: <noinput>
+4. Output: 
+The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It was named after the engineer Gustave Eiffel, whose company designed and built the tower. It is the most famous landmark in France and was originally built for the 1889 World's Fair. Today, the tower serves as a popular tourist attraction, offering visitors breathtaking views of the city from its top observation decks. 
+###
+5. Instruction: Convert the following string to all uppercase letters. 
+5. Input: 
+s = 'hello, world!'
+5. Output: 
+s.upper()
+###

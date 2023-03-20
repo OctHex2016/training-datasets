@@ -1,0 +1,106 @@
+4. Instruction: Rewrite the following sentence in the passive voice.
+4. Input:
+The manager reviewed their report before the deadline.
+4. Output:
+Their report was reviewed by the manager before the deadline.
+###
+5. Instruction: Summarize the key points of the provided article excerpt.
+5. Input:
+The unprecedented spread of the COVID-19 virus has had a profound impact on global economies and disrupted people's daily lives. It has also forced mankind to rely on digital technology to adapt to the new normal. The rapid adoption of digital platforms in the workforce, education, and entertainment sectors has shown that technology has the potential to reshape the world, presenting new opportunities for the growth of the tech industry. This increased reliance on digital tools is expected to continue beyond the pandemic, supporting lasting changes in how we live, work, and interact.
+5. Output:
+The COVID-19 pandemic has greatly affected global economies and daily lives, leading to increased reliance on digital technology. Rapid adoption of digital platforms in various sectors like workforce, education, and entertainment highlights the potential for technology to reshape the world and suggests lasting changes in how we live, work, and interact beyond the pandemic.
+###
+6. Instruction: Translate the following text from English to French.
+6. Input:
+Please find enclosed my resume for your review. I have recently graduated and am now seeking an opportunity to use my skills in a practical setting.
+6. Output:
+Veuillez trouver ci-joint mon CV pour votre examen. Je viens de terminer mes études et je cherche maintenant une occasion d'utiliser mes compétences dans un cadre pratique.
+###
+7. Instruction: Can you give an example of an idiom and explain its meaning?
+7. Input:
+<noinput>
+7. Output:
+An example of an idiom is "barking up the wrong tree." It means to pursue a mistaken course of action or make a false assumption.
+###
+8. Instruction: Recommend three things to do during an upcoming vacation in Lisbon, Portugal.
+8. Input:
+<noinput>
+8. Output:
+1. Visit Jerónimos Monastery, an example of Manueline architecture and a UNESCO World Heritage site.
+2. Explore the historic Alfama District, featuring narrow streets, colorful houses, and stunning viewpoints.
+3. Ride the iconic Tram 28, which passes by many of Lisbon's famous landmarks and neighborhoods.
+###
+9. Instruction: Critique the given painting based on its use of color, composition, and technique.
+9. Input:
+The painting depicts a busy cityscape with towering skyscrapers and a multitude of bright lights against the nocturnal sky. The artist utilized bold, contrasting colors and provided great attention to the details of the buildings, creating a sense of depth in the composition.
+9. Output:
+The artist made excellent use of color in the painting, using bold and contrasting hues to emphasize the vibrancy of the bustling city life. The composition is well-executed, with the arrangement of the skyscrapers effectively leading the viewer's eye through the cityscape. Moreover, the attention to the fine details of the buildings showcases the artist's technical skill and adds depth to the scene.
+###
+10. Instruction: Identify two areas of improvement for the provided business proposal.
+10. Input:
+In this proposal, we seek to open a new coffee sho in the heart of downtown. Our main intention is to supply delicious cffee and exceled pastres and sandwiches to customers on the g. We will utilize local ingdients when possible and keep our menu constantly evolving based on customer feedback. High-quality servoce is also a priority.
+10. Output:
+1. Correct spelling and grammatical errors to improve the readability and professionalism of the proposal.
+2. Provide more specific details on the business model, target market, and competitive advantages to strengthen the case for investment.
+###
+11. Instruction: What are the consequences of drinking alcohol excessively?
+11. Input:
+<noinput>
+11. Output:
+Excessive alcohol consumption can have various negative consequences, including short-term effects like impaired judgement, coordination issues, and hangovers, and long-term effects such as addiction, liver disease, cardiovascular problems, cognitive decline, and social and interpersonal issues.
+###
+12. Instruction: Explain the significance of the Turing Test in artificial intelligence.
+12. Input:
+<noinput>
+12. Output:
+The Turing Test, proposed by Alan Turing in 1950, is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. It serves as a benchmark for assessing the progress of artificial intelligence, and achieving this level of human-like AI is considered a significant goal in the field.
+###
+13. Instruction: Evaluate the customer review by determining its positivity or negativity. You can answer "Positive" or "Negative".
+13. Input: 
+I recently dined at this restaurant and was thoroughly disappointed. The service was inattentive, and the food arrived cold and tasted bland. I won't be returning anytime soon.
+13. Output:
+Negative
+###
+14. Instruction: Suggest an alternative sentence without changing the core meaning of the original.
+14. Input:
+The dog leaped into the air and caught the frisbee in its mouth.
+14. Output:
+The dog jumped up and grabbed the frisbee with its teeth.
+###
+15. Instruction: List three types of renewable energy sources.
+15. Input:
+<noinput>
+15. Output:
+1. Solar energy
+2. Wind energy
+3. Hydroelectric power
+###
+16. Instruction: Identify the type of logical fallacy in the following statement.
+16. Input:
+Everyone loves this popular singer, so she must be extremely talented.
+16. Output:
+Bandwagon fallacy
+###
+17. Instruction: Express gratitude and congratulations to someone for their recent promotion.
+17. Input:
+<noinput>
+17. Output:
+Congratulations on your well-deserved promotion! Your hard work and dedication have truly paid off, and I am so happy to see you achieve this new milestone. Wishing you all the best in your new role!
+###
+18. Instruction: Describe the Mona Lisa painting.
+18. Input:
+<noinput>
+18. Output:
+The Mona Lisa is a famous portrait painting by the Italian Renaissance artist Leonardo da Vinci, created around 1503-1517. It features a woman with a serene facial expression and a subtle smile. The painting is known for its unique use of the sfumato technique, which results in soft transitions between the colors and the blurred edges. The detailed background consists of a distant landscape with rocky formations.
+###
+19. Instruction: Compare and contrast solar energy and wind energy.
+19. Input:
+<noinput>
+19. Output:
+Solar energy and wind energy are both renewable and environmentally-friendly sources of power. Solar energy harnesses sunlight using solar panels, while wind energy is generated through wind turbines capturing kinetic energy from wind. The efficiency of solar energy depends on the availability of sunlight, whereas wind energy relies on wind speed and consistency. Solar panels typically require more space for installation than wind turbines. However, solar energy systems often have lower maintenance costs and longer lifespans than wind energy systems.
+###
+20. Instruction: Provide a plausible explanation for the mysterious event.
+20. Input:
+Louise noticed that her keys, which she always keeps on the kitchen counter, were suddenly missing. She searched everywhere but could not find them.
+20. Output:
+Louise might have accidentally knocked the keys off the counter, and they landed in a hard-to-notice spot, like under the nearby furniture or in a small crevice. Alternatively, a family member or guest could have temporarily moved or borrowed her keys without informing her, leading to the confusion.

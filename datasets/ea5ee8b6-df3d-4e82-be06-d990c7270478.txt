@@ -1,0 +1,107 @@
+4. Instruction: Paraphrase the given text.
+4. Input: 
+Welcome to the world of programming! Learn how to develop the necessary skills and improve your existing ones.
+4. Output: 
+Embark on the journey of coding! Acquire the essential abilities and enhance your current skillset.
+
+5. Instruction: Identify the type of pattern and name it.
+5. Input: 
+7, 5, 3, 1, -1, -3, -5
+5. Output: 
+This is an arithmetic progression with a common difference of -2.
+
+6. Instruction: Describe the painting technique used by Vincent van Gogh in his "Starry Night" artwork.
+6. Input: 
+<noinput>
+6. Output: 
+Vincent van Gogh used the impasto technique in "Starry Night", characterized by thick, textured brushstrokes to evoke movement and emotion.
+
+7. Instruction: Factor the given polynomial.
+7. Input: 
+x^3 - 3x^2 - 4x + 12
+7. Output: 
+(x-2)(x^2-x-6)
+
+8. Instruction: Translate the following English sentence to French.
+8. Input: 
+Please do me a favor and take out the trash.
+8. Output: 
+S'il te plaît, rends-moi un service et sors les poubelles.
+
+9. Instruction: Fix the grammatical mistakes in the given text.
+9. Input: 
+He walk to the store very quickly because they are about closing soon.
+9. Output: 
+He walks to the store very quickly because they are about to close soon.
+
+10. Instruction: Name one potential impact of the greenhouse effect.
+10. Input: 
+<noinput>
+10. Output: 
+One potential impact of the greenhouse effect is an increase in global temperatures, leading to climate change.
+
+11. Instruction: Fill in the blank with a suitable idiomatic expression.
+11. Input: 
+You can't expect to be an expert overnight. It takes time, so just be patient and take it one step at a __________.
+11. Output: 
+You can't expect to be an expert overnight. It takes time, so just be patient and take it one step at a time.
+
+12. Instruction: List the world's five most populous countries, in order of population size.
+12. Input: 
+<noinput>
+12. Output: 
+1. China
+2. India
+3. United States
+4. Indonesia
+5. Pakistan
+
+13. Instruction: Find the sum of the series below.
+13. Input: 
+4 + 12 + 36 + 108 + ...
+13. Output: 
+This is a geometric series with a common ratio of 3. The sum cannot be calculated as it is an infinite series and doesn't converge.
+
+14. Instruction: Describe one of the primary functions of carbohydrates in the human body.
+14. Input: 
+<noinput>
+14. Output: 
+One primary function of carbohydrates in the human body is to provide a major source of energy for cells.
+
+15. Instruction: Rewrite the following passive sentence in an active voice.
+15. Input: 
+The cake was baked by Susan.
+15. Output: 
+Susan baked the cake.
+
+16. Instruction: From Shakespeare's "Hamlet," identify the character who uttered the famous line, "To be, or not to be: that is the question."
+16. Input: 
+<noinput>
+16. Output: 
+The character who uttered the famous line, "To be, or not to be: that is the question," is Hamlet himself.
+
+17. Instruction: How many inches are there in 1 meter?
+17. Input: 
+<noinput>
+17. Output: 
+There are approximately 39.37 inches in 1 meter.
+
+18. Instruction: Explain the action to be taken to address the following phishing email.
+18. Input: 
+I received an email from my bank, but I am not sure if it's genuine. It says my account has been compromised and asked me to click a link to reset my password.
+18. Output: 
+Do not click the link. Forward the suspicious email to your bank's official fraud department and then delete it. Visit your bank's website or call their customer service to verify the legitimacy of the email.
+
+19. Instruction: Provide a brief summary of Charles Dickens' novel "A Tale of Two Cities."
+19. Input: 
+<noinput>
+19. Output: 
+"A Tale of Two Cities" is a historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. It tells the story of French doctor Manette, his 18-year-long imprisonment in the Bastille, and his eventual release to live in London with his daughter Lucie, whom he had never met.
+
+20. Instruction: Create a haiku poem about nature.
+20. Input: 
+<noinput>
+20. Output: 
+Gentle morning breeze
+Dewdrops on a green meadow
+Nature wakes from slumber

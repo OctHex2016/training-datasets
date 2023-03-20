@@ -1,0 +1,42 @@
+4. Instruction: Critique a piece of writing for grammar and punctuation mistakes.
+4. Input: 
+I am have never ben to London befor, but i've a;ways dreamed of visitin the city. According to some informations Harry Potter was filming in severl location in London I really, want to go and see thoose places.
+4. Output: 
+I have never been to London before, but I've always dreamed of visiting the city. According to some information, Harry Potter was filmed in several locations in London. I really want to go and see those places.
+###
+5. Instruction: Summarize a movie plot.
+5. Input: 
+Inception
+5. Output: 
+Inception is a science fiction thriller about a professional thief, Dom Cobb, who specializes in stealing secrets from people's subconscious by entering their dreams. He's approached to do the opposite - plant an idea into someone's mind, a process called "inception." To complete this high-stakes mission, Cobb assembles a team of experts to navigate the dream world, where the laws of reality don't apply. As they delve deeper into the target's mind, the line between reality and dream begins to blur, with life-changing consequences for all involved.
+###
+6. Instruction: Convert the given text message with abbreviations and slang to a formal sentence.
+6. Input: 
+Hey dude, srsly, this new app is so lit. Imma check it out l8r. ttyl.
+6. Output: 
+Hello, my friend, seriously, this new application is quite impressive. I will be examining it later. I will talk to you later.
+###
+7. Instruction: Review a product based on the provided description and user experience.
+7. Input: 
+I bought a new wireless Bluetooth speaker that boasts 24-hour battery life, 100-foot Bluetooth range, and water resistance. It was easy to connect it to my phone, and I enjoyed using it by the pool. The sound quality was clear, and it was loud enough for outdoor events as well.
+7. Output: 
+The wireless Bluetooth speaker is an excellent purchase for those seeking an outdoor audio solution. With an impressive 24-hour battery life, a generous 100-foot Bluetooth range, and water resistance, it's perfect for poolside use and outdoor events. The speaker's simple phone pairing and clear, powerful sound quality make it a fantastic choice for entertaining or personal enjoyment.
+###
+8. Instruction: A sentence is given. Define the term used in this sentence.
+8. Input: 
+Culinary tourism, also known as food tourism, is a way for people to explore different cultures through local cuisines.
+8. Output: 
+Culinary tourism, or food tourism, is a type of travel experience centered around discovering and experiencing the unique food and culinary traditions of a particular region or country. It enables travelers to immerse themselves in different cultures by tasting local dishes, visiting food markets, attending cooking classes, and engaging with local food experts.
+###
+9. Instruction: What strategies can one practice to improve their communication skills?
+9. Input: 
+<noinput>
+9. Output: 
+1. Active listening: Show interest and focus on the speaker, make eye contact, ask questions, and respond appropriately.
+2. Expand vocabulary: Read more, use a dictionary or thesaurus, and learn new words to better express yourself.
+3. Practice empathy: Put yourself in the other person's shoes and try to understand their perspective.
+4. Improve nonverbal communication: Be mindful of your body language, gestures, facial expressions, and tone of voice.
+5. Be concise and clear: Avoid unnecessary jargon and keep your message simple to avoid confusion.
+6. Ask for feedback: Request constructive feedback from others and work on improving your weak areas.
+7. Public speaking practice: Develop confidence by speaking in front of small and large groups regularly.
+8. Join communication workshops: Attend workshops or clubs that help develop and enhance communication skills.

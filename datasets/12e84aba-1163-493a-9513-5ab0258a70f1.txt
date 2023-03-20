@@ -1,0 +1,107 @@
+4. Instruction: Translate the following sentence from English to French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Calculate the percentage change from 2018 to 2020 for the given data. (Decrease is negative.)
+5. Input: 
+2018: 500, 2020: 425
+5. Output: 
+-15%
+###
+6. Instruction: Reorder the sentence given to make it grammatically correct.
+6. Input: 
+age her is 25 years.
+6. Output: 
+Her age is 25 years.
+###
+7. Instruction: Can you tell me a popular book about personal finance?
+7. Input: 
+<noinput>
+7. Output: 
+"Rich Dad Poor Dad" by Robert Kiyosaki is a popular book about personal finance.
+###
+8. Instruction: Identify the logical fallacy in the line of reasoning given.
+8. Input: 
+People in Europe drink more red wine than Americans, and they have lower rates of heart diseases. Therefore, drinking red wine leads to better heart health.
+8. Output: 
+Post hoc ergo propter hoc (correlation does not imply causation)
+###
+9. Instruction: Convert the following given temperature from Fahrenheit to Celsius.
+9. Input: 
+82°F
+9. Output: 
+27.8°C
+###
+10. Instruction: Edit the following given text by correcting any grammar mistakes, punctuation errors, or other issues.
+10. Input: 
+in august I am planning to visite France with my family we’re are so excited and planning to remain there two weeks i thinks will be a wonderful exprience.
+10. Output: 
+In August, I am planning to visit France with my family. We're so excited and planning to stay there for two weeks. I think it will be a wonderful experience.
+###
+11. Instruction: Identify the author who wrote the science fiction novel "1984".
+11. Input: 
+<noinput>
+11. Output: 
+George Orwell
+###
+12. Instruction: Explain the process of photosynthesis in a brief and simple manner.
+12. Input: 
+<noinput>
+12. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy. This process involves absorbing sunlight via chlorophyll, using it to convert water and carbon dioxide into glucose (a sugar) and oxygen. The glucose is used as a source of energy to power the organism's growth and other processes, while oxygen is released as a byproduct.
+###
+13. Instruction: Find the common factor between the given numbers while considering only their positive divisors.
+13. Input: 
+12, 16
+13. Output: 
+4
+###
+14. Instruction: Complete the analogy: surgeon : scalpel :: painter : ____
+14. Input: 
+<noinput>
+14. Output: 
+brush
+###
+15. Instruction: Rearrange the following given words to form a coherent sentence.
+15. Input: 
+knowledge power is
+15. Output: 
+Knowledge is power.
+###
+16. Instruction: List three vitamin deficiencies and their corresponding symptoms.
+16. Input: 
+<noinput>
+16. Output: 
+1. Vitamin A deficiency: night blindness, dry skin, poor immune function.
+2. Vitamin C deficiency: scurvy, bleeding gums, slow wound healing.
+3. Vitamin D deficiency: rickets, bone pain, weakened immune system.
+###
+17. Instruction: Please answer the question based on the given text.
+17. Input: 
+Theta Technologies is a leading provider of server solutions for small and medium-sized businesses worldwide. Established in 2003, the company is headquartered in New York City with regional offices in San Francisco, London, and Singapore.
+
+What year was Theta Technologies established?
+17. Output: 
+Theta Technologies was established in 2003.
+###
+18. Instruction: Write a haiku about nature.
+18. Input: 
+<noinput>
+18. Output: 
+Whispering wind gusts,
+Leaves flutter in the sunlight,
+Nature's dance begins.
+###
+19. Instruction: Solve the given math equation for x.
+19. Input: 
+3x - 7 = 11
+19. Output: 
+x = 6
+###
+20. Instruction: Is the given statement fact or opinion?
+20. Input: 
+New York City is the best place to live.
+20. Output: 
+opinion

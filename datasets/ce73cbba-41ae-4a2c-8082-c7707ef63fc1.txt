@@ -1,0 +1,107 @@
+4. Instruction: List activity ideas for children on a rainy day.
+4. Input:
+<noinput>
+4. Output:
+Indoor treasure hunt, pillow fort building, baking cookies, board games, arts and crafts, movie marathon, indoor obstacle course, playdough, read books together, and homemade science experiments.
+
+5. Instruction: Create a haiku about nature.
+5. Input:
+<noinput>
+5. Output:
+River winding free,
+Whispers through lush canopy,
+Autumn leaves falling.
+
+6. Instruction: Summarize the text in one sentence.
+6. Input:
+On August 6th, 1945, the United States dropped the atomic bomb on Hiroshima, Japan. This devastating event led to the deaths of 80,000 people immediately with another 100,000 individuals dying later from radiation and injuries sustained.
+6. Output:
+The atomic bombing of Hiroshima on August 6th, 1945, led to the immediate and eventual deaths of nearly 180,000 people in total.
+
+7. Instruction: Translate the English sentence to French.
+7. Input:
+I would like a cup of coffee, please.
+7. Output:
+Je voudrais une tasse de café, s'il vous plaît.
+
+8. Instruction: Classify the type of question given.
+8. Input:
+How long does it take to travel from London to Paris by train?
+8. Output:
+Factual question
+
+9. Instruction: Write a short bio for a celebrity chef.
+9. Input:
+Gordon Ramsay
+9. Output:
+Gordon Ramsay is a renowned British chef, author, TV personality, and restaurateur known for his fiery temperament and cooking expertise. He has twelve Michelin stars, owns numerous restaurants worldwide, and has appeared on popular shows like 'Hell's Kitchen' and 'MasterChef US.'
+
+10. Instruction: What's the main difference between the terms?
+10. Input:
+Vegetarian and Vegan
+10. Output:
+The main difference is that vegetarians avoid consuming meat, poultry, and fish, while vegans exclude all animal products, including dairy, eggs, and honey, from their diet.
+
+11. Instruction: Recommend a book for learning how to build a website and explain why.
+11. Input:
+<noinput>
+11. Output:
+I recommend "HTML and CSS: Design and Build Websites" by Jon Duckett, as it provides a visually appealing, engaging, and beginner-friendly guide to creating websites using HTML and CSS.
+
+12. Instruction: Edit the given passage for grammar and punctuation.
+12. Input:
+Once upon a time their was a little girl who lived in the forrest. She named her self, Forest Fairy One day she noiced a beautiful chromatic creature.
+12. Output:
+Once upon a time, there was a little girl who lived in the forest. She named herself Forest Fairy. One day, she noticed a beautiful chromatic creature.
+
+13. Instruction: Write a motivational quote about moving forward in life.
+13. Input:
+<noinput>
+13. Output:
+"Life is a journey, not a destination; embrace each step, learn from the falls, and keep moving forward with courage and determination."
+
+14. Instruction: Identify the instrumental played in a famous song.
+14. Input:
+"In the Air Tonight" by Phil Collins
+14. Output:
+Iconic drum solo
+
+15. Instruction: Come up with a science trivia question and answer.
+15. Input:
+<noinput>
+15. Output:
+Question: What is the most abundant element in Earth's crust?
+Answer: Oxygen
+
+16. Instruction: Describe the main function of the given plant part.
+16. Input:
+Stem
+16. Output:
+The main function of the stem is to support the plant, transport water and nutrients between the roots and leaves, and serve as the location for photosynthesis and food storage in some plants.
+
+17. Instruction: Write a short poem with a positive message using the given theme.
+17. Input:
+Friendship
+17. Output:
+A friend stands by your side,
+Through stormy days and clear blue skies,
+With open heart and understanding mind,
+A bond that weathers time.
+
+18. Instruction: Explain the meaning of the idiomatic expression.
+18. Input:
+Bite the bullet
+18. Output:
+"Bite the bullet" means to face a difficult or unpleasant situation with courage and determination.
+
+19. Instruction: Identify the literary device used in the given sentence.
+19. Input:
+"The sun smiled down on the bustling city."
+19. Output:
+Personification
+
+20. Instruction: Provide a fact about the given animal.
+20. Input:
+Dolphin
+20. Output:
+Dolphins are highly intelligent marine mammals known for their complex social structures, vocal communication, and problem-solving abilities.

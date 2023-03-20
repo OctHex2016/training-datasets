@@ -1,0 +1,76 @@
+4. Instruction: Rewrite the given text in passive voice.
+4. Input: 
+The cat chased the mouse through the kitchen.
+4. Output: 
+The mouse was chased by the cat through the kitchen.
+
+5. Instruction: Predict the weather characteristics of a location based on the geographical description provided.
+5. Input: 
+The location is situated in a valley surrounded by mountains, with a river running through it, and a dense forest nearby.
+5. Output: 
+The location is likely to have cooler temperatures, higher humidity, and more rainfall due to its position in a valley, surrounded by mountains, and close proximity to a river and dense forest.
+
+6. Instruction: Correct the grammar and punctuation errors in the following sentences.
+6. Input: 
+their is a restaurant on this steet; it's serves the best mexican food in town, isn't that great?
+6. Output: 
+There is a restaurant on this street; it serves the best Mexican food in town. Isn't that great?
+
+7. Instruction: Analyze the strengths and weaknesses of the given resume.
+7. Input: 
+Alex Smith
+123 Main St, City, State
+Email: alexsmith@email.com
+Phone: 555-123-4567
+
+Objective:
+I are a highly motivated graduate with a background in marketing seeking an entry-level position in the industry.
+
+Education:
+Prestige University, City, State
+Bachelor of Arts in Marketing, May 2020
+GPA: 3.8/4.0
+
+Skills:
+- Strong communication skills
+- Proficient in Microsoft Office Suite
+- Knowledge of social media platforms and their use in marketing strategies
+- Organized and detail-oriented
+
+Work Experience:
+Store Associate, Company, City, State (June 2017 - August 2019)
+- Responded to customer inquiries and complaints
+- Maintained inventory by checking and restocking shelves
+- Processed transactions accurately
+
+Hobbies:
+- Running
+- Playing soccer
+7. Output: 
+Strengths:
+- High academic achievement (GPA 3.8/4.0)
+- Good understanding of social media platforms and their role in marketing
+- Strong communication skills and organized approach
+
+Weaknesses:
+- Limited work experience and not directly related to the marketing field
+- Typo in the Objective statement ("I are")
+- Hobbies section may be irrelevant for the position
+
+8. Instruction: What are the key elements to consider while designing a website for a restaurant?
+8. Input: 
+<noinput>
+8. Output: 
+1. Responsive design
+2. High-quality images and visual appeal
+3. Clear and concise menu with pricing information
+4. Contact information and location
+5. Online reservation system
+6. Social media integration
+7. Reviews and testimonials
+8. Food delivery options
+9. Promotions and deals
+10. About the restaurant and its history
+11. Search Engine Optimization (SEO)
+
+9. Instruction: Briefly summarize the main points of the given article.

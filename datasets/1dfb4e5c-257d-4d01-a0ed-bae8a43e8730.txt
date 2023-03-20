@@ -1,0 +1,67 @@
+4. Instruction: Rewrite the given paragraph in passive voice.
+4. Input: 
+John bought the newspaper at the store, and then he read it while eating breakfast. Mary baked cookies in the afternoon and shared them with neighbors.
+4. Output: 
+The newspaper was bought at the store by John, and then it was read by him while eating breakfast. Cookies were baked in the afternoon by Mary and shared with neighbors.
+
+###
+5. Instruction: Summarize the main points of the given text.
+5. Input: 
+The purpose of a conservatorship is to appoint someone at the court's discretion to act as a guardian and handle the personal affairs of someone who is unable to do so themselves. In Britney Spears' case, her father, Jamie Spears, was appointed as her conservator in 2008. The conservatorship was initially a temporary arrangement, but it became permanent by the end of 2008. Recently, Britney has started expressing dissatisfaction with the arrangement and is trying to regain control of her life. It has also led to the rise of the #FreeBritney movement, focusing on her fans who want to see her regain her independence.
+5. Output: 
+A conservatorship is a court-appointed guardian for those incapable of managing personal affairs. In Britney Spears' case, her father became her conservator in 2008. She's now expressing dissatisfaction with the arrangement, leading to the rise of the #FreeBritney movement, which focuses on her fans who want her to regain independence.
+
+###
+6. Instruction: Convert the given recipe from metric to imperial units.
+6. Input: 
+* 200g of sugar
+* 150ml of water
+* 500g of flour
+* 250g of butter
+6. Output: 
+* 7.05 oz of sugar
+* 5.07 fl oz of water
+* 17.64 oz of flour
+* 8.82 oz of butter
+
+###
+7. Instruction: What are the health benefits of apple cider vinegar?
+7. Input: 
+<noinput>
+7. Output: 
+Apple cider vinegar has various health benefits, such as:
+1. Aiding in weight loss by promoting satiety
+2. Lowering blood sugar in people with type 2 diabetes
+3. Reducing cholesterol levels and supporting heart health
+4. Containing antimicrobial properties for fighting infections
+5. Improving digestion and gut health
+
+###
+8. Instruction: Translate the given text from English to French.
+8. Input: 
+Please find attached the invoice for your recent purchase. Kindly review the information and let us know if there are any discrepancies.
+8. Output: 
+Veuillez trouver ci-joint la facture de votre achat récent. Veuillez vérifier les informations et nous faire savoir s'il y a des divergences.
+
+###
+9. Instruction: Identify and correct the grammar mistakes in the given paragraph.
+9. Input: 
+Their are several factors that contribut to global warming, including deforestation, excess use of fosil fuels, and pollution. Many scientists believes that global warming is causing more seasonale disturbances such as hurricanes, floods, and drought.
+9. Output: 
+There are several factors that contribute to global warming, including deforestation, excess use of fossil fuels, and pollution. Many scientists believe that global warming is causing more seasonal disturbances such as hurricanes, floods, and drought.
+
+###
+10. Instruction: Provide advice on how to make friends in a new city.
+10. Input: 
+<noinput>
+10. Output: 
+1. Be open and approachable
+2. Attend social events and gatherings
+3. Join clubs or organizations related to your interests
+4. Take up local hobbies or classes
+5. Engage with locals, ask for recommendations and share stories
+6. Volunteer for community events and initiatives
+7. Try local meetup groups and online friend-making apps
+8. Stay consistent, persistent, and be patient
+
+###

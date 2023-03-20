@@ -1,0 +1,40 @@
+4. Instruction: Summarize the main points of the given text in one sentence.
+4. Input:
+Advanced Driver Assistance Systems (ADAS) are becoming increasingly popular in vehicles, with systems such as blind-spot detection, forward collision warning, and adaptive cruise control being installed in more cars than ever before. In addition to enhancing safety, ADAS often provide cost savings for drivers by helping to prevent accidents and lowering the cost of insurance. As the automotive industry continues to evolve, it is expected that the presence of ADAS will become increasingly common, leading to safer roads and more efficient driving.
+4. Output:
+Advanced Driver Assistance Systems are gaining popularity in modern vehicles, enhancing safety, reducing accidents, lowering insurance costs, and paving the way for safer and more efficient driving experiences.
+
+5. Instruction: Correct the grammar and punctuation in this paragraph.
+5. Input:
+There is many benefits, to living a healthy lifestyle. It can help! you manage stress, maintain a healthy weight and feel better overall. One of important aspects of a healthy lifestyle is, regular physical activity: it can improve your mood, give you more energy and even help you, sleep better. Eating a balanced diet and getting enough rest, also contribute to a healthy lifestyle.
+5. Output:
+There are many benefits to living a healthy lifestyle. It can help you manage stress, maintain a healthy weight, and feel better overall. One of the important aspects of a healthy lifestyle is regular physical activity; it can improve your mood, give you more energy, and even help you sleep better. Eating a balanced diet and getting enough rest also contribute to a healthy lifestyle.
+
+6. Instruction: Provide a brief description of the term "cryptocurrency".
+6. Input: <noinput>
+6. Output:
+Cryptocurrency is a digital or virtual form of currency that uses cryptography for security and operates on decentralized systems called blockchain technology, making it resistant to government interference and fraud.
+
+7. Instruction: Translate the given English sentence to French.
+7. Input: 
+I have a dog named Max.
+7. Output:
+J'ai un chien qui s'appelle Max.
+
+8. Instruction: Compose a haiku (5-7-5 syllable pattern) about a rainy day.
+8. Input: <noinput>
+8. Output:
+Raindrops softly fall,
+Umbrellas dance in the breeze,
+Nature sighs with peace.
+
+9. Instruction: Calculate the tip amount for a $88.96 bill with a 15% tip rate.
+9. Input: <noinput>
+9. Output:
+$13.34
+
+10. Instruction: Should the student choose to write on this topic for their research paper? Please answer 'yes' or 'no'.
+10. Input: 
+The influence of social media on teenagers' mental health and self-esteem.
+10. Output:
+yes

@@ -1,0 +1,23 @@
+4. Instruction: Identify the errors and correct the given sentence. 
+4. Input: 
+Me and him goes to movies on saturtadays.
+4. Output: 
+He and I go to the movies on Saturdays.
+###
+5. Instruction: Find the synonyms of the following word.
+5. Input: 
+<noinput>
+5. Output: 
+Please provide a word to find its synonyms. 
+###
+6. Instruction: Rewrite the following text in passive voice.
+6. Input: 
+The dog bit the man.
+6. Output: 
+The man was bitten by the dog.
+###
+7. Instruction: Explain in a brief paragraph the difference between a hurricane and a tornado.
+7. Input: 
+<noinput>
+7. Output: 
+A hurricane is a large tropical storm system that forms over warm ocean waters, typically featuring strong winds and heavy rain. They can last several days and cover vast areas, causing flooding, storm surges, and significant damage to structures. In contrast, a tornado is a rapidly rotating column of air that extends from a thunderstorm to the ground, usually characterized by its funnel-shaped appearance. Tornadoes typically have a much smaller diameter and shorter lifespan than hurricanes, but they can cause severe localized damage due to their high-speed winds and potential to form suddenly. They mostly occur over land, primarily in areas like the Great Plains of the United States.

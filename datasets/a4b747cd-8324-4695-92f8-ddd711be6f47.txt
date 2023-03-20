@@ -1,0 +1,45 @@
+4. Instruction: Complete the following sentence with the appropriate word: "The ____ is the largest mammal on Earth."
+4. Input: 
+<noinput>
+4. Output: 
+The blue whale is the largest mammal on Earth.
+###
+5. Instruction: Rewrite the following sentence in the present perfect continuous tense: "She is studying for her exam."
+5. Input: 
+<noinput>
+5. Output: 
+She has been studying for her exam.
+###
+6. Instruction: Write a review for a restaurant you recently visited.
+6. Input: 
+I recently had dinner at the Metropolitan Grill in Seattle, WA. 
+6. Output: 
+The food was delicious and cooked to perfection. The service was also exceptional, and the staff was attentive to our needs throughout the meal. The atmosphere of the restaurant was elegant and sophisticated, making for an enjoyable experience overall.
+###
+7. Instruction: Given a statement, identify the type of logical fallacy present in it. 
+7. Input: 
+You can either support the war effort or you can support the terrorists.
+7. Output: 
+This statement uses a false dilemma fallacy because it is presenting only two possible options in a complex issue.
+###
+8. Instruction: Generate a list of recommended books on the topic of artificial intelligence.
+8. Input: 
+<noinput>
+8. Output: 
+- "Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom
+- "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
+- "Human Compatible: Artificial Intelligence and the Problem of Control" by Stuart Russell
+- "The Hundred-Page Machine Learning Book" by Andriy Burkov
+- "Machine Learning Yearning" by Andrew Ng
+###
+9. Instruction: Write a summary of a news article on the topic of climate change.
+9. Input: 
+I read an article on CNN titled "UN climate chief warns of 'catastrophe' if planet continues to warm."
+9. Output: 
+According to the article, UN climate chief Patricia Espinosa has warned that the world is headed towards a "catastrophe" if action is not taken to reduce greenhouse gas emissions. She calls for immediate and urgent action from countries to meet the goals set out in the Paris Agreement.
+###
+10. Instruction: Given a sentence, identify the part of speech for a specific word. 
+10. Input: 
+What part of speech is the word "run" in the sentence "I like to run in the park." 
+10. Output: 
+In this sentence, "run" is a verb.

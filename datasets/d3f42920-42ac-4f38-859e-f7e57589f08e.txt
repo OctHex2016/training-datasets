@@ -1,0 +1,160 @@
+4. Instruction: Assist me in locating the error in this paragraph and suggest a correction.
+4. Input: 
+Savanna has always been passionate about painting since she was a little gir. She enjoys exploring a variety of mediums, from acrylics to watercolors. Her favorite subjects to paint are landscapes, portraits and abstract designs.
+4. Output: 
+Error: "little gir"
+Correction: "little girl"
+
+Corrected paragraph: Savanna has always been passionate about painting since she was a little girl. She enjoys exploring a variety of mediums, from acrylics to watercolors. Her favorite subjects to paint are landscapes, portraits, and abstract designs.
+###
+5. Instruction: Change this text into passive voice.
+5. Input: 
+They built the house in 1989.
+5. Output: 
+The house was built in 1989.
+###
+6. Instruction: Provide a brief summary of the following passage.
+6. Input: 
+The professional field of graphic design encompasses a wide range of creative solutions for visual communication. These solutions are typically applied to areas such as branding, print design, web design, and user experience design. A graphic designer's primary responsibility is to develop visual concepts and designs that effectively communicate a message or idea, using elements such as typography, imagery, color, and composition. Additionally, graphic designers must consider end-users and maintain a balance between artistic vision and usability when creating designs. This can involve working with other professionals, such as photographers, illustrators, and web developers, to achieve desired outcomes.
+6. Output: 
+The field of graphic design involves visual communication through branding, print design, web design, and user experience design. Graphic designers develop concepts and designs, using typography, imagery, color, and composition, while considering end-users and balancing artistic vision with usability. Collaboration with other professionals such as photographers, illustrators, and web developers may also be needed.
+###
+7. Instruction: Write a brief description of the steps involved in photosynthesis.
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis consists of two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). During light-dependent reactions, chlorophyll absorbs sunlight, producing ATP and NADPH. In the Calvin cycle, CO2 is converted into glucose using the energy from ATP and NADPH. Oxygen is released as a byproduct.
+###
+8. Instruction: Which country does this flag belong to? Provide the country name.
+8. Input: 
+Red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side.
+8. Output: 
+Denmark
+###
+9. Instruction: In which movie does Christopher Nolan's character wear a tuxedo during a hallway fight scene?
+9. Input: 
+<noinput>
+9. Output: 
+Inception
+###
+10. Instruction: Rewrite the sentence in a more formal tone.
+10. Input: 
+Hey buddy, can you lend me some dough?
+10. Output: 
+Excuse me, would you mind lending me some money?
+11. Instruction: Convert the following text into a limerick.
+11. Input: 
+There once was a frog from a bog,
+Who would sing praises to its favorite log.
+The nightingale heard,
+Moved by its words,
+Together they sang a joyful song.
+11. Output: 
+A frog from a bog did adore
+A log where it often would snore,
+Then by nightingale spied,
+Its tune did provide,
+A duet together they'd roar.
+###
+12. Instruction: Write a tongue-twister using the words "sheep," "ship," and "shoestring."
+12. Input: 
+<noinput>
+12. Output: 
+She sells sheep on a ship with shoestrings, shaping sheep ships swiftly shifting shoestring shapes.
+###
+13. Instruction: Create an original palindrome phrase.
+13. Input: 
+<noinput>
+13. Output: 
+A Santa lived as a devil at NASA.
+###
+14. Instruction: Determine the rhyming pattern of the given poem stanza.
+14. Input: 
+Shall I compare thee to a summer's day?
+Thou art more lovely and more temperate:
+Rough winds do shake the darling buds of May,
+And summer's lease hath all too short a date:
+14. Output: 
+ababcdcd
+###
+15. Instruction: Choose the correct spelling of the word from the options given: a) irresistable b) irrezistible c) irresistible
+15. Input: 
+<noinput>
+15. Output: 
+c) irresistible
+###
+16. Instruction: Rearrange the words into a coherent sentence.
+16. Input: 
+basket a fruit full of saw she
+16. Output: 
+She saw a basket full of fruit.
+17. Instruction: Provide the capital city of Australia.
+17. Input: 
+<noinput>
+17. Output: 
+Canberra
+###
+18. Instruction: Change the sentence into a question.
+18. Input: 
+You are going to the concert tonight.
+18. Output: 
+Are you going to the concert tonight?
+###
+19. Instruction: Identify the subject in this sentence.
+19. Input: 
+The curious cat climbed the tall tree.
+19. Output: 
+The curious cat
+###
+20. Instruction: Convert the number 485 to its Roman numeral equivalent.
+20. Input: 
+<noinput>
+20. Output: 
+CDLXXXV
+###
+21. Instruction: What were the main reasons for the decline of the Mayan civilization?
+21. Input: 
+<noinput>
+21. Output: 
+The main reasons for the decline of the Mayan civilization include overpopulation, environmental degradation, warfare, and severe droughts.
+###
+22. Instruction: Write a brief explanation of the Turing Test.
+22. Input: 
+<noinput>
+22. Output: 
+The Turing Test is a measure of a machine's ability to exhibit human-like intelligence. Created by Alan Turing, it involves a human evaluator who engages in a natural language conversation with a computer and a human, without knowing which is which. If the evaluator cannot consistently distinguish between the two, the computer is considered to have passed the test, demonstrating artificial intelligence.
+23. Instruction: In which Shakespearean play does the famous quote "To be, or not to be: that is the question:" appear?
+23. Input: 
+<noinput>
+23. Output: 
+Hamlet
+###
+24. Instruction: Name two famous Vincent van Gogh paintings.
+24. Input: 
+<noinput>
+24. Output: 
+Starry Night and The Sunflowers
+###
+25. Instruction: Rewrite this excerpt using synonyms to replace the underlined words.
+25. Input: 
+The boy petted the cute puppy gently, with a tender smile on his face.
+25. Output: 
+The child caressed the adorable pup softly, with a loving grin on his visage.
+###
+26. Instruction: Describe, in simple terms, the difference between weather and climate.
+26. Input: 
+<noinput>
+26. Output: 
+Weather refers to the short-term atmospheric conditions in a specific area, including temperature, humidity, precipitation, and wind. Climate, on the other hand, describes the long-term average of weather patterns in a region, usually observed over a period of 30 years or more.
+###
+27. Instruction: Convert the time 5:30 PM to 24-hour format.
+27. Input: 
+<noinput>
+27. Output: 
+17:30
+###
+28. Instruction: Find the square root of 144.
+28. Input: 
+<noinput>
+28. Output: 
+12

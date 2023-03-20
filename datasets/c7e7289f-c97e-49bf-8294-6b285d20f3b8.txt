@@ -1,0 +1,103 @@
+4. Instruction: Translate the following sentence from English to Spanish.
+4. Input: 
+The sun is shining in the afternoon.
+4. Output: 
+El sol brilla en la tarde.
+###
+5. Instruction: Explain the stock market in simple terms.
+5. Input: 
+<noinput>
+5. Output: 
+The stock market is a place where buyers and sellers come together to trade shares of companies. It allows businesses to raise money to grow and investors to potentially earn returns on their investment.
+###
+6. Instruction: Rewrite the given sentence in active voice.
+6. Input: 
+The masterpiece was painted by the artist.
+6. Output: 
+The artist painted the masterpiece.
+###
+7. Instruction: Can you provide a haiku about nature?
+7. Input: 
+<noinput>
+7. Output: 
+Gentle winds whisper
+Leaves rustle and dance in breeze
+Nature's harmony
+###
+8. Instruction: Identify the grammatical error in the sentence.
+8. Input: 
+She put the pen into shes pocket.
+8. Output: 
+The error is "shes" - it should be "her" instead.
+###
+9. Instruction: Recommend a vegetarian dinner that includes quinoa as an ingredient.
+9. Input: 
+<noinput>
+9. Output: 
+Quinoa and vegetable stir-fry with tofu and soy sauce.
+###
+10. Instruction: Calculate the tip (15%) for a $37.50 bill.
+10. Input: 
+<noinput>
+10. Output: 
+$5.63
+###
+11. Instruction: Fact-check the following statement regarding Rosa Parks.
+11. Input: 
+Rosa Parks refused to give up her seat to a white passenger on a public bus in December 1, 1960.
+11. Output: 
+The statement is mostly true but the year is incorrect. The correct date is December 1, 1955.
+###
+12. Instruction: Share a famous quote about success.
+12. Input: 
+<noinput>
+12. Output: 
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+###
+13. Instruction: Identify the differences between a crocodile and an alligator.
+13. Input:
+<noinput>
+13. Output: 
+Crocodiles have a V-shaped snout, are generally found in saltwater habitats, and have a more aggressive nature. Alligators have a U-shaped snout, prefer freshwater habitats, and are less aggressive.
+###
+14. Instruction: Provide a suitable title for the given essay.
+14. Input: 
+The essay discusses the benefits of a healthy lifestyle, including regular exercise, balanced diet, and adequate sleep, and how these components contribute to increased happiness, productivity, and longevity.
+14. Output: 
+"Path to Wellness: The Synergy of Exercise, Diet, and Sleep for a Happier and Healthier Life"
+###
+15. Instruction: Convert the measurements to metric units.
+15. Input: 
+12 inches, 3 feet, and 2 miles
+15. Output: 
+30.48 cm, 0.914 meters, and 3.218 km
+###
+16. Instruction: List three renewable energy sources.
+16. Input: 
+<noinput>
+16. Output: 
+Solar, wind, and hydropower
+###
+17. Instruction: Compose an alliteration phrase about love.
+17. Input: 
+<noinput>
+17. Output: 
+Lovingly lured by the luminous light of loyalty and laughter
+###
+18. Instruction: Edit the following sentence to be more concise.
+18. Input: 
+She was someone who was always running around, doing various errands and tasks, and being quite busy because she never liked to sit still even though there was not much to do.
+18. Output: 
+She always kept busy with errands and tasks, never able to sit still even when there was little to do.
+###
+19. Instruction: Summarize the main point of the given text in a single sentence.
+19. Input: 
+The article discusses the negative effects of air pollution on human health, citing numerous scientific studies that link elevated pollutant levels to respiratory issues, heart disease, and even cognitive decline. The author calls for stronger regulations to help mitigate these harmful effects by reducing emissions from vehicles, factories, and other sources.
+19. Output: 
+The article emphasizes the detrimental health effects of air pollution, advocating for stricter regulations to mitigate them by reducing emissions from various sources.
+###
+20. Instructor: Evaluate the quality of the given film review.
+20. Input: 
+The film captured the essence of the story, but the inconsistent pacing and lack of character development left viewers feeling like an observer rather than an integral part of the journey. The visuals were stunning, complemented by an unforgettable soundtrack that truly elevated the movie-watching experience. Overall, the film was enjoyable – a visual and auditory feast, but fell short on emotional connection and engagement.
+20. Output: 
+The film review is well-balanced, highlighting both strong and weak aspects of the movie, creating a comprehensive evaluation that addresses visuals, soundtrack, pacing, and character development.

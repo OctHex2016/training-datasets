@@ -1,0 +1,97 @@
+4. Instruction: Transform the following sentences into passive voice.
+4. Input: 
+The company hired a new employee. The dog bit the mailman.
+4. Output: 
+A new employee was hired by the company. The mailman was bitten by the dog.
+###
+5. Instruction: Write a brief summary of the text.
+5. Input: 
+During the Tang dynasty, Chinese emperors invested heavily in developing infrastructure projects, such as roads, bridges, and canals. These projects expanded trade and facilitated access to resources. Some of the lasting projects from this era include the Grand Canal, which remains the longest canal in the world today, and the Silk Road, which connected China to Europe and played a key role in global trade. The Tang dynasty also saw great advancements in culture and education, as well as a growth in the global influence of China. The poetry, music, art, and architecture from this period continue to influence modern Chinese thought and expression.
+5. Output: 
+The Tang dynasty in China saw significant infrastructure development, such as the Grand Canal and the Silk Road, which boosted trade and access to resources. This period also experienced notable cultural, educational, and artistic advancements that continue to influence contemporary Chinese ideas and expressions.
+###
+6. Instruction: Explain how photosynthesis works.
+6. Input: 
+<noinput>
+6. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose molecules. It occurs in two main stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). In the light-dependent reactions, chlorophyll pigments within the chloroplasts absorb sunlight, generating ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate hydrogen). These energy-rich molecules are then used in the light-independent reactions to fix carbon dioxide (CO2) from the atmosphere into glucose, which can be utilized by the organism as an energy source or building block for growth. Oxygen is released as a byproduct during this process.7. Instruction: Translate the following English text into French.
+7. Input: 
+Please, can you give me directions to the nearest bookstore?
+7. Output: 
+S'il vous plaît, pouvez-vous me donner les directions pour la librairie la plus proche?
+###
+8. Instruction: Correct the grammar and punctuation errors in the text.
+8. Input: 
+Last night; my Friends decided, to visit to the newest amusement park in town. They had a great time, and they told me that the rollercoasters were amazing!
+8. Output: 
+Last night, my friends decided to visit the newest amusement park in town. They had a great time, and they told me that the rollercoasters were amazing!
+###
+9. Instruction: Create a haiku about a summer rain.
+9. Input: 
+<noinput>
+9. Output: 
+Soft summer downpour,
+Quenching the thirsty earth's sighs,
+Nature's symphony.
+###
+10. Instruction: Describe the process of evaporation.
+10. Input: 
+<noinput>
+10. Output: 
+Evaporation is the process by which a liquid substance, such as water, turns into a vapor or gas. It occurs when molecules at the surface of the liquid absorb sufficient energy from their surroundings to overcome their intermolecular forces and escape into the air. Evaporation is a cooling process because the most energetic molecules are the ones that tend to escape, leaving the remaining liquid with a lower average energy, thus cooler. Factors that increase the rate of evaporation include higher temperatures, lower humidity, increased surface area, and stronger air currents above the liquid's surface.11. Instruction: Rank the following countries by population, from largest to smallest.
+11. Input: 
+Australia, Nigeria, United States, Brazil
+11. Output: 
+Nigeria, United States, Brazil, Australia
+###
+12. Instruction: What is the capital city of Spain?
+12. Input: 
+<noinput>
+12. Output: 
+Madrid
+###
+13. Instruction: Identify the logical fallacy in the following statement.
+13. Input: 
+Ben dislikes sushi, so it must taste terrible for everyone.
+13. Output: 
+Hasty generalization
+###
+14. Instruction: Write a condolence message for the death of a family member.
+14. Input: 
+<noinput>
+14. Output: 
+I am deeply saddened to hear of the loss of your beloved family member. During this difficult time, please know that my thoughts and condolences are with you and your family. May loving memories of your dearly departed bring you comfort and strength. My deepest sympathies for your loss.
+###
+15. Instruction: Based on the given information, decide whether the following statement is true or false.
+15. Input: 
+John has completed 5 tasks out of 10 tasks. The following statement: "John has finished all of his tasks."
+15. Output: 
+False16. Instruction: Arrange these historical events in chronological order from earliest to latest.
+16. Input: 
+World War II, The French Revolution, The American Revolution, The Fall of the Berlin Wall
+16. Output: 
+The American Revolution, The French Revolution, World War II, The Fall of the Berlin Wall
+###
+17. Instruction: Write a short slogan promoting gym membership.
+17. Input: 
+<noinput>
+17. Output: 
+Energize Your Life – Shape Your Future at Our Gym!
+###
+18. Instruction: In 50 words or less, describe the challenges of living on Mars.
+18. Input: 
+<noinput>
+18. Output: 
+Mars poses numerous challenges for human habitation, including extreme cold temperatures, thin unbreathable atmosphere, limited water resources, deadly cosmic radiation, global dust storms, reduced sunlight for solar energy, and the psychological implications of isolation in a harsh, barren environment, far from family and friends on Earth.
+###
+19. Instruction: Write an alliteration using the letter C.
+19. Input: 
+<noinput>
+19. Output: 
+Cunning cats cautiously crept, catching crafty critters, concealed in the cool, crackling cornfield.
+###
+20. Instruction: Which of these colors is not a primary color: red, blue, green or yellow?
+20. Input: 
+<noinput>
+20. Output: 
+Green

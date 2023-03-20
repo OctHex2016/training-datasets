@@ -1,0 +1,123 @@
+4. Instruction: Given the math equation, simplify it.
+4. Input: 
+1 / (1/(x+1) + 1/(x-1))
+4. Output: 
+(x^2 - 1)
+
+5. Instruction: Write a restaurant review based on the description provided.
+5. Input: 
+Name: Grandma's Kitchen; Cuisine: Southern; Atmosphere: Cozy, homey, with vintage decor; Food: Amazing comfort food, large portions, fair prices; Service: Friendly and attentive; Location: Downtown; Highlights: Chicken and Waffles, Southern Fried Chicken, and Homemade Biscuits.
+5. Output: 
+Grandma's Kitchen, located in downtown, offers a cozy and homey atmosphere, complete with vintage decor that will instantly make you feel like you're in the heart of the South. This restaurant serves top-notch comfort food with generous portions and fair prices. Among the standouts on the menu are their signature Chicken and Waffles, mouth-watering Southern Fried Chicken, and irresistible Homemade Biscuits. The friendly and attentive service just adds to the overall experience, making Grandma's Kitchen a must-visit for anyone craving delicious, authentic Southern cuisine.
+
+6. Instruction: What are some essential tips for a job interview?
+6. Input:
+<noinput>
+6. Output: 
+1. Research the company and role beforehand.
+2. Dress professionally and appropriately for the position.
+3. Arrive early to the interview location.
+4. Bring extra copies of your resume and any other applicable materials.
+5. Prepare relevant examples and accomplishment stories.
+6. Maintain positive body language and eye contact.
+7. Listen carefully to the interviewer's questions and respond thoughtfully.
+8. Show enthusiasm for the company and role.
+9. Ask insightful questions to highlight your interest.
+10. Send a thank-you note or email after the interview to express your gratitude.
+
+7. Instruction: Write a brief summary of the article given.
+7. Input: 
+The recently discovered exoplanet dubbed Proxima Centauri b has the potential to harbor life, as it resides in the habitable zone of its red dwarf star Proxima Centauri. Scientists believe that the surface temperature of the planet could support the existence of liquid water. The exoplanet's close proximity to Earth, being only 4.24 light-years away, has sparked interest for further exploration. Upcoming missions, including the Breakthrough Starshot project, are looking to develop the technology needed to reach Proxima Centauri b within a matter of decades.
+
+7. Output: 
+Proxima Centauri b, an exoplanet located in the habitable zone of its red dwarf star, may support life due to its surface temperature potentially allowing for liquid water. Only 4.24 light-years away from Earth, the exoplanet has gained interest for exploration, with missions like the Breakthrough Starshot project aiming to develop necessary technology for a visit within decades.
+
+8. Instruction: Give me three examples of idioms and explain their meanings.
+8. Input:
+<noinput>
+8. Output: 
+1. "Break a leg" - This is a way to wish someone good luck, especially before a performance.
+2. "Bite the bullet" - This means to face a difficult or unpleasant situation with courage.
+3. "The ball is in your court" - This expression is used to indicate that it's someone else's turn to take action or make a decision.
+
+9. Instruction: Classify the following food items as fruits or vegetables.
+9. Input: 
+Tomato, cucumber, apple, bell pepper, carrot
+9. Output: 
+Fruits: Tomato, cucumber, apple, bell pepper
+Vegetables: Carrot
+
+10. Instruction: Compose a haiku about a peaceful forest.
+10. Input:
+<noinput>
+10. Output: 
+Whispers among leaves,
+Sunlight dances on soft earth,
+The forest breathes, still.11. Instruction: Prioritize the following tasks from most to least important for launching a successful online business.
+11. Input: 
+Social media presence, customer support, competitive pricing, user-friendly website, product quality.
+11. Output: 
+Product quality, user-friendly website, customer support, competitive pricing, social media presence.
+
+12. Instruction: What are the main differences between a parliamentary and a presidential system of government?
+12. Input:
+<noinput>
+12. Output: 
+1. Executive Leadership: In a parliamentary system, the executive leader (prime minister) is chosen from the legislature, while in a presidential system, the executive leader (president) is elected independently.
+2. Separation of Powers: A parliamentary system has a fusion of powers between the executive and legislative branches, while a presidential system has a clear separation of powers.
+3. Accountability: The prime minister in a parliamentary system is accountable to the legislature and can be removed by a vote of no confidence; the president in a presidential system serves a fixed term and can only be removed through impeachment under certain conditions.
+4. Political Stability: Parliamentary systems may experience more frequent changes in leadership, while presidential systems offer greater stability through fixed terms.
+
+13. Instruction: Translate the English text provided into French.
+13. Input: 
+The weather is beautiful today, and I am excited to go for a long walk in the park.
+13. Output: 
+Le temps est magnifique aujourd'hui et je suis ravi de faire une longue promenade dans le parc.
+
+14. Instruction: Given the musical notes, arrange them in ascending order.
+14. Input: 
+A, F#, G, D, E, C, B
+14. Output: 
+C, D, E, F#, G, A, B
+
+15. Instruction: Proofread the following sentence and correct any grammatical errors.
+15. Input: 
+Me and her was at the store yesterday when we ran into a old friend called John.
+15. Output: 
+She and I were at the store yesterday when we ran into an old friend named John.
+
+16. Instruction: Come up with a creative name for a clothing store that sells eco-friendly and sustainable products.
+16. Input:
+<noinput>
+16. Output: 
+GreenThreads Boutique
+
+17. Instruction: Explain the process of photosynthesis in simple terms.
+17. Input:
+<noinput>
+17. Output: 
+Photosynthesis is a process that occurs in plants, algae, and certain bacteria. Using sunlight as an energy source, photosynthesis converts water and carbon dioxide absorbed from the environment into glucose, which the organism uses for energy and growth. Oxygen is released as a byproduct.
+
+18. Instruction: Based on the personality traits provided, suggest the most suitable work environment.
+18. Input: 
+Analytical, detail-oriented, introverted, enjoys problem-solving, skilled in programming.
+18. Output: 
+A suitable work environment would be a software development company, research lab, or a tech-focused workspace where the person can focus on programming tasks, solve complex problems, and work independently or with a small team.
+
+19. Instruction: Give me a list of seven countries and their capitals in Europe.
+19. Input:
+<noinput>
+19. Output: 
+1. France - Paris
+2. Germany - Berlin
+3. Italy - Rome
+4. Spain - Madrid
+5. United Kingdom - London
+6. Greece - Athens
+7. Norway - Oslo
+
+20. Instruction: Describe the painting style and subject matter of Vincent van Gogh.
+20. Input:
+<noinput>
+20. Output: 
+Vincent van Gogh's painting style is characterized by expressive brushstrokes, vivid colors, and bold textures. His subject matter often included landscapes, still lifes, portraits, and scenes from everyday life. He had a profound influence on the development of modern art and is particularly famous for works like "Starry Night," "Sunflowers," and his self-portraits.

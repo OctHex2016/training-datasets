@@ -1,0 +1,106 @@
+4. Instruction: Given an animal, provide an interesting fact about it.
+4. Input: 
+Dolphins
+4. Output: 
+Dolphins are known for their exceptional intelligence, and they're one of the few animal species that can recognize themselves in a mirror, indicating self-awareness.
+
+5. Instruction: Summarize the news article provided.
+5. Input: 
+Apple has announced a new software update for its iPhone and iPad devices, called iOS 15. This latest update will bring several new features, including FaceTime improvements, a redesigned notifications system, and enhanced privacy options. FaceTime will now support spatial audio, providing users with a more natural and immersive sound experience. The notification system includes a new "Focus" mode, allowing users to customize which alerts they receive during specific times or activities. Additionally, iOS 15 introduces new privacy features, such as Mail Privacy Protection, which prevents senders from collecting data on when users open and read their emails.
+5. Output:
+Apple's upcoming iOS 15 software update will introduce various enhancements, including FaceTime improvements with spatial audio, a revamped notification system offering a "Focus" mode for customized alerts, and increased privacy features, such as Mail Privacy Protection.
+
+6. Instruction: Translate the provided sentence into French.
+6. Input: 
+She is an excellent swimmer.
+6. Output:
+Elle est une excellente nageuse.
+
+7. Instruction: Given the root word, provide its antonym.
+7. Input:
+Achieve
+7. Output: 
+Fail
+
+8. Instruction: Suggest a creative name for a new fictional online dating platform.
+8. Input:
+<noinput>
+8. Output:
+HeartSync
+
+9. Instruction: Describe what happens during the process of photosynthesis.
+9. Input:
+<noinput>
+9. Output:
+Photosynthesis is a process by which plants, algae, and some bacteria convert sunlight into chemical energy in the form of glucose or other sugars. It consists of two main stages: the light-dependent reactions and the light-independent reactions (Calvin Cycle). During the light-dependent reactions, pigments like chlorophyll absorb light energy, which is used to split water molecules, releasing oxygen gas and producing ATP and NADPH. In the light-independent reactions, ATP and NADPH provide energy to convert carbon dioxide into glucose using Rubisco enzyme, which is stored or used by the organism for further growth and energy needs.
+
+10. Instruction: Identify if the provided joke is a pun, a knock-knock joke, or a one-liner.
+10. Input: 
+Why did the coffee file a police report? It got mugged.
+10. Output:
+Pun
+
+11. Instruction: Edit the provided text to fix any grammar and punctuation issues.
+11. Input: 
+Theres a lot to learn about cooking, it's not just about mixing ingredients together; you have to learn about differnet cuisnes, techniques and experiment with your own flavours.
+11. Output:
+There's a lot to learn about cooking; it's not just about mixing ingredients together. You have to learn about different cuisines, techniques, and experiment with your own flavors.
+
+12. Instruction: Generate a rhyming couplet.
+12. Input:
+<noinput>
+12. Output:
+Upon the ocean blue I sail, my heart is strong, I shall not fail.
+Through storms and waves, I find my way, and hope for clearer skies someday.
+
+13. Instruction: Write a brief definition for the word "quantum mechanics".
+13. Input:
+<noinput>
+13. Output:
+Quantum mechanics is a branch of physics that describes the behavior of matter and energy at the atomic and subatomic scale, accounting for phenomena such as wave-particle duality and quantum superposition.
+
+14. Instruction: Given a sport, provide three essential pieces of equipment required for playing it.
+14. Input:
+Hockey
+14. Output:
+1. Hockey stick
+2. Puck or ball (depending on ice or field hockey)
+3. Protective gear, including helmet, pads, and gloves
+
+15. Instruction: Explain how to plant and care for a tomato plant.
+15. Input:
+<noinput>
+15. Output:
+To plant a tomato plant, start by choosing a well-draining location with at least 6-8 hours of direct sunlight daily. Prepare the soil by mixing in organic compost and fertilizer. Plant seedlings about 18-24 inches apart, burying them deep enough that the first set of true leaves is just above the soil. Water regularly, providing the plant with a deep watering every few days, rather than a shallow daily watering. To prevent diseases, avoid overhead watering and keep the leaves dry. Stake or cage the plant for support as it grows. Prune suckers and lower leaves to promote airflow, and apply additional fertilizer when the plant begins to flower and set fruit.
+
+16. Instruction: Perform sentiment analysis on the provided text.
+16. Input:
+I'm really tired of this nonsense. Every single day, the situation just keeps getting worse.
+16. Output:
+Negative
+
+17. Instruction: Compose a haiku related to the theme of nature.
+17. Input:
+<noinput>
+17. Output:
+Mountain peaks at dusk,
+Whispers of the autumn wind,
+Nature's symphony.
+
+18. Instruction: Discuss the main differences between reptiles and amphibians.
+18. Input:
+<noinput>
+18. Output:
+The main differences between reptiles and amphibians are related to their morphology, habitats, and lifecycle. Reptiles have dry, scaly skin, while amphibians have moist, permeable skin. Reptiles are typically found in diverse habitats, such as deserts, forests, or wetlands, while amphibians are usually found near water. In their lifecycle, reptiles lay hard-shelled eggs or give live birth, whereas amphibians lay jelly-like eggs in water, with most undergoing an aquatic larval stage before becoming terrestrial adults.
+
+19. Instruction: Convert the provided sentence from active voice to passive voice.
+19. Input:
+She wrote the letter in the morning.
+19. Output:
+The letter was written by her in the morning.
+
+20. Instruction: Identify the logical fallacy in the provided statement.
+20. Input:
+You can't trust psychologists because my cousin, who is a psychologist, is terrible at giving advice.
+20. Output:
+Hasty generalization

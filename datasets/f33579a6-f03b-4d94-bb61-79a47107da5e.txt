@@ -1,0 +1,45 @@
+4. Instruction: Find two potential errors in the following English sentence and suggest corrections.
+4. Input: 
+The dog's enjoys playing at the park, they loves chasing there favorite ball.
+4. Output: 
+Error 1: "dog's enjoys" should be "dog enjoys"
+Error 2: "they loves chasing there" should be "it loves chasing its"
+
+Corrected Sentence: 
+The dog enjoys playing at the park; it loves chasing its favorite ball.
+###
+5. Instruction: In five sentences, summarize the main idea of the following text.
+5. Input: 
+Neural networks are a set of algorithms, modeled loosely after the human brain, designed to recognize patterns. They help us cluster and classify information. You can think of them as a clustering and classification layer on top of the data you store and manage. The core component of neural networks is the artificial neuron, or perceptron. Perceptrons receive multiple input signals and produce a single output signal, which can then be used as input for another perceptron in the network.
+
+Neural networks can be used for a wide array of tasks, ranging from image recognition to natural language processing. They excel at identifying complex patterns and making predictions based on those patterns. To train a neural network, you need a large dataset that contains examples of the patterns you want your network to recognize. The more examples, the better your network will be at pattern recognition. As your network learns, it adjusts the weights of the connections between neurons, allowing it to make better predictions and recognize new patterns.
+5. Output: 
+Neural networks are algorithms inspired by the human brain designed to recognize patterns for clustering and classification. The core component of these networks is the artificial neuron, or perceptron, which processes multiple inputs to produce a single output. They can be utilized for various tasks, such as image recognition and natural language processing. To train a neural network, a large dataset containing patterns to recognize is needed, with increased accuracy resulting from more examples. During learning, the network adapts connection weights between neurons, improving predictions and pattern recognition.
+###
+6. Instruction: Compare and contrast dogs and cats as pets based on the given information.
+6. Input: 
+Dogs:
+- Loyal and protective
+- Require regular exercise
+- Need social interaction
+- Can be trained to perform various tasks
+
+Cats:
+- Independent, can be affectionate or aloof
+- Don't require much exercise
+- Tend to be less social, but still enjoy company
+- Can learn tricks but are generally less trainable
+6. Output: 
+Dogs are loyal, protective, and require regular exercise, making them active pets. They need social interaction and can be trained to perform various tasks. In contrast, cats are more independent, with varying levels of affection and aloofness. Cats don't need much exercise and, while they enjoy company, tend to be less social than dogs. Although some cats can learn tricks, they are generally less trainable than dogs.
+###
+7. Instruction: Redesign the given slogan to make it more catchy and memorable.
+7. Input: 
+Improve the air quality around you with our eco-friendly air purifiers.
+7. Output: 
+Breathe easy! Go green with our eco-friendly air purifiers.
+###
+8. Instruction: Identify the missing word in the sentence and complete the sentence.
+8. Input: 
+Pineapples grow on the ground on a _____, not on trees.
+8. Output: 
+Pineapples grow on the ground on a plant, not on trees.

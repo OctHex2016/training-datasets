@@ -1,0 +1,118 @@
+4. Instruction: Translate the given English sentence to French.
+4. Input:
+Sentence: The sun is shining brightly today.
+4. Output:
+Le soleil brille intensément aujourd'hui.
+
+###
+5. Instruction: Explain the concept in simpler terms.
+5. Input:
+Concept: Photosynthesis
+5. Output:
+Photosynthesis is a process used by plants, algae, and some bacteria to make their own food using sunlight, water, and carbon dioxide.
+
+###
+6. Instruction: Identify the name of the movie or series based on the given quote.
+6. Input:
+Quote: "I am the one who knocks!"
+6. Output:
+Breaking Bad
+
+###
+7. Instruction: Calculate the missing number in the pattern.
+7. Input:
+Pattern: 2, 4, 8, 16, __, 64
+7. Output:
+32
+
+###
+8. Instruction: Proofread the given sentence and correct any errors.
+8. Input:
+Sentence: Theirs a lot of bad weather forcasted for this weekand.
+8. Output:
+There's a lot of bad weather forecasted for this weekend.
+
+###
+9. Instruction: Identify the given brand's tagline.
+9. Input:
+Brand: Nike
+9. Output:
+Just Do It
+
+###
+10. Instruction: Rewrite the given sentence into passive voice.
+10. Input:
+Sentence: The cat chased the mouse.
+10. Output:
+The mouse was chased by the cat.
+
+###
+11. Instruction: Provide a synonym for the chosen word from the provided context.
+11. Input:
+Word: Difficult
+Context: The exam was quite difficult for the students.
+11. Output:
+Challenging
+
+###
+12. Instruction: Analyze the provided poem and give a brief meaning.
+12. Input:
+Poem: "Two roads diverged in a yellow wood, And sorry I could not travel both."
+12. Output:
+The poem suggests a moment of decision and regret, as the speaker encounters two paths in a forest and must choose only one, knowing they cannot explore the other.
+
+###
+13. Instruction: Summarize the given article passage in one to two sentences.
+13. Input:
+Passage: "The World Health Organization (WHO) recently released a report indicating that air pollution is a leading cause of premature death worldwide. It is responsible for over 7 million deaths annually, with 90% occurring in low- and middle-income countries. The report highlights the need for better monitoring and control measures to improve air quality and protect public health."
+13. Output:
+The WHO reports air pollution as a major cause of premature deaths, accounting for over 7 million deaths yearly, mostly in low- and middle-income countries. Better monitoring and control measures are needed to improve air quality and public health.
+
+###
+14. Instruction: Choose the correct word to complete the popular idiomatic phrase.
+14. Input:
+Phrase: The early bird catches the ____.
+14. Output:
+worm
+
+###
+15. Instruction: Identify the author of the given book.
+15. Input:
+Book: Moby-Dick
+15. Output:
+Herman Melville
+
+###
+16. Instruction: Formulate a suitable question for the given response.
+16. Input:
+Response: I majored in Computer Science.
+16. Output:
+What did you major in at college?
+
+###
+17. Instruction: Briefly describe the person's occupation based on the given description.
+17. Input:
+Description: Jane works with a team of people to help clients create their dream homes, choosing the right materials, colors, and furniture.
+17. Output:
+Jane is an interior designer.
+
+###
+18. Instruction: What is the main conflict in the provided short story excerpt?
+18. Input:
+Excerpt: "For days, Alex had been unable to decide which item to purchase with his birthday money. Each time he visited the store, he stared at the options before him – the latest video game console or the new drone that had just come in stock. His friends had offered their opinions, but it only made the choice harder."
+18. Output:
+The main conflict is Alex's indecision between purchasing the latest video game console or the new drone.
+
+###
+19. Instruction: Provide a brief outline of a potential story based on the given sentence.
+19. Input:
+Sentence: Jack discovered an ancient map in his grandfather's attic.
+19. Output:
+Jack uncovers an old map hidden in his grandfather's attic, revealing a forgotten treasure. As Jack deciphers the map's clues, he embarks on an adventure with his friends to locate it. Along the way, they face challenges and uncover secrets about Jack's family history, ultimately finding the treasure and learning valuable life lessons.
+
+###
+20. Instruction: Determine the type of fallacy in the given argument.
+20. Input:
+Argument: We can't trust the doctor's advice on this new treatment because I heard he was recently divorced and is having personal problems.
+20. Output:
+Ad Hominem Fallacy

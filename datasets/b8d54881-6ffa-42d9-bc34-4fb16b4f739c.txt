@@ -1,0 +1,125 @@
+4. Instruction: Rewrite the given recipe instructions into an active voice.
+4. Input: 
+The onions should be sautéed until translucent, then the garlic should be added and cooked for another minute. The tomatoes, salt, and oregano should be stirred in and simmered for 25-30 minutes until the sauce thickens.
+4. Output: 
+Sauté the onions until translucent, add the garlic and cook for another minute. Stir in the tomatoes, salt, and oregano, then simmer for 25-30 minutes until the sauce thickens.
+
+###
+5. Instruction: Provide a brief summary of the given article. 
+5. Input: 
+A recent study in the Journal of Clinical Sleep Medicine has found that daytime napping could greatly improve memory consolidation, leading to enhanced memory recall. The study involved undergraduate students who were divided into two groups, one who napped and one who remained awake. Both groups were required to memorize a list of words before and after a 90-minute interval. Surprisingly, the group that napped showed a 10% increase in memory recall compared to the non-napping participants. The authors of the study suggest that napping provides an opportunity for the brain to consolidate and reorganize information, leading to better memory recall.
+5. Output: 
+A study in the Journal of Clinical Sleep Medicine found that daytime napping might improve memory consolidation, leading to better memory recall. Undergraduate students who were asked to memorize a list of words then took a nap showed a 10% increase in memory recall compared to non-napping participants, implying napping helps the brain consolidate and reorganize information.
+
+###
+6. Instruction: Come up with a creative and original marketing slogan for the given product.
+6. Input: 
+Vegan protein bars
+6. Output: 
+Fuel your passion, power your soul – Go Vegan Protein!
+
+###
+7. Instruction: What is the missing word in the following sentence? Provide your answer in the parenthesis. 
+7. Input: 
+The quick brown fox ( ) over the lazy dog.
+7. Output: 
+(jumps)
+
+###
+8. Instruction: Give advice on dealing with public speaking anxiety.
+8. Input: 
+<noinput>
+8. Output: 
+To manage public speaking anxiety, try these tips: practice deep breathing exercises, mentally visualize success, rehearse and become familiar with the content, focus on the audience's needs, and try using positive affirmations to boost your self-confidence.
+
+###
+9. Instruction: Describe the given concept in simple, plain language.
+9. Input: 
+Stock market
+9. Output: 
+A stock market is like a big marketplace where people buy and sell parts of companies. These parts, called stocks, give the buyer a little ownership of the company, and the owners make money if the company does well.
+
+###
+10. Instruction: Compare and contrast the given two items.
+10. Input: 
+Netflix and Hulu
+10. Output: 
+Netflix and Hulu are both popular streaming platforms. Netflix offers a vast library of movies and TV shows, including their original productions, and has no ads. Hulu, on the other hand, carries a mix of movies, TV shows, and live TV content, with an ad-free option available at a higher subscription price. Both platforms update their content regularly, but Hulu releases TV episodes sooner than Netflix.
+
+###
+11. Instruction: Rewrite the given paragraph to give it a more formal tone.
+11. Input: 
+So, I just heard that our company might be moving to a new location in a few months. I'm totally freaking out about having to commute longer, and I'm worried about where I'll have lunch every day. Also, what are we gonna do about organizing our team meetings?
+11. Output: 
+I have recently been informed that our company may relocate to a new office within the next few months. I express concern regarding the potential increase in my commute time and the availability of convenient lunch options. Furthermore, I would like to address the organization of our team meetings moving forward.
+
+###
+12. Instruction: Identify the logical fallacy in the given statement.
+12. Input: 
+"You're not a vegetarian, so you can't have an opinion on animal rights."
+12. Output: 
+Ad Hominem
+
+###
+13. Instruction: What would be an appropriate response to the given customer complaint?
+13. Input: 
+"I recently ordered a sweater from your online store, but it arrived with a hole in the fabric. This is very disappointing as I was expecting a high-quality product."
+13. Output: 
+We apologize for the inconvenience you have experienced with the damaged sweater. We strive to provide high-quality products, and we understand your disappointment. Please email our customer support team with your order number and pictures of the damaged product so that we can process a refund or send you a replacement as soon as possible.
+
+###
+14. Instruction: Decipher the main idea hidden in the given jumbled sentence.
+14. Input: 
+Jane deeply life calm water of a dream sailing desired on through.
+14. Output: 
+Jane desired a calm life, sailing through like water on a deep dream.
+
+###
+15. Instruction: Correct any grammatical errors in the given sentence.
+15. Input: 
+Me and John was excited for going to the amusement park on weekend.
+15. Output: 
+John and I were excited about going to the amusement park on the weekend.
+
+###
+16. Instruction: Suggest a potential theme or lesson for the given story.
+16. Input: 
+A young boy, raised in a small village, discovers his true heritage as a royal when he is chosen to save the kingdom. Along the way, he encounters danger, makes new friends, and uncovers the truth about his past, eventually being crowned king.
+16. Output: 
+A potential theme could be the importance of self-discovery and embracing one's true identity, despite uncertainties and challenges along the way.
+
+###
+17. Instruction: Identify the given statement as a fact or an opinion.
+17. Input: 
+Chocolate is the best flavor of ice cream.
+17. Output: 
+Opinion
+
+###
+18. Instruction: List three positive consequences of the following action.
+18. Input: 
+Planting trees in your neighborhood
+18. Output: 
+1. Improved air quality
+2. Increased aesthetic appeal
+3. Habitats for local wildlife
+
+###
+19. Instruction: Based on the given information, determine the best course of action. 
+19. Input: 
+The weather forecast predicts thunderstorms and heavy rain all day, but your friend insists you should still have the outdoor picnic you planned.
+19. Output: 
+Considering the weather forecast, it would be best to postpone the outdoor picnic or move it to an indoor location to avoid the thunderstorms and rain.
+
+###
+20. Instruction: Write a thank-you note for a coworker who helped you on a project.
+20. Input: 
+<noinput>
+20. Output: 
+Dear [Coworker's Name],
+
+I wanted to take a moment to express my sincere gratitude for your invaluable help on our recent project. Your expertise and dedication made a significant impact on its success. I truly appreciate your willingness to step in and lend a hand when I needed it most. I look forward to collaborating again in the future.
+
+Warm regards,
+
+[Your Name]

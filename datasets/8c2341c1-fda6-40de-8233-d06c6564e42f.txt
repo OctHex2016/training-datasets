@@ -1,0 +1,109 @@
+4. Instruction: Rewrite the given sentence as a passive voice sentence.
+4. Input: 
+The dog bit the man.
+4. Output: 
+The man was bitten by the dog.
+###
+5. Instruction: Based on the description, recommend a country as a vacation spot.
+5. Input: 
+I would like to go someplace beautiful and relaxing, with white sandy beaches, clear blue water, delicious seafood, and lots of outdoor activities like snorkeling, hiking, and scuba diving.
+5. Output: 
+Thailand would be a great vacation spot for you, offering all the features you're looking for.
+###
+6. Instruction: Give advice on how to successfully host a dinner party.
+6. Input: 
+<noinput>
+6. Output: 
+To successfully host a dinner party, start by planning your menu, ensuring it caters to any dietary requirements of your guests. Choose recipes you're comfortable with and can prepare in advance. Create a comfortable and intimate atmosphere, setting the dining table with care and selecting appropriate background music. During the party, be welcoming and attentive to your guests' needs. Engage in conversation and remember to check on food preparation and serving times. Finally, enjoy yourself, as your relaxed and happy demeanor will make your guests feel at ease.
+###
+7. Instruction: Translate the given sentence into French.
+7. Input: 
+I love to eat ice cream on a hot day.
+7. Output: 
+J'adore manger de la glace par une chaude journée.
+###
+8. Instruction: List three possible reasons someone might be unable to fall asleep.
+8. Input: 
+<noinput>
+8. Output: 
+1. Anxiety or stress
+2. Consuming too much caffeine or sugar during the day
+3. Uncomfortable sleeping environment, such as temperature or noise
+###
+9. Instruction: Fix the grammar in the following sentence.
+9. Input: 
+Yesterday me went to the store and buyed some apples.
+9. Output: 
+Yesterday, I went to the store and bought some apples.
+###
+10. Instruction: Identify two literary devices used in this sentence.
+10. Input: 
+The sun blazed down like an unforgiving oven, searing the earth with its fiery rays.
+10. Output: 
+1. Simile
+2. Personification
+###
+11. Instruction: Provide the chemical formula for water.
+11. Input: 
+<noinput>
+11. Output: 
+H2O
+###
+12. Instruction: What is the capital city of Australia?
+12. Input: 
+<noinput>
+12. Output: 
+Canberra
+###
+13. Instruction: Write a haiku about winter.
+13. Input: 
+<noinput>
+13. Output: 
+Snow blankets the ground,
+Frosty breath in crisp, cold air,
+Winter's silent touch.
+###
+14. Instruction: Compose a short, heartfelt apology.
+14. Input: 
+I accidentally spilled coffee on my colleague's laptop, causing it to stop working.
+14. Output: 
+Dear [Colleague's Name],
+
+I wanted to personally apologize for the incident earlier when I accidentally spilled coffee on your laptop. This was a thoughtless mistake on my part, and I feel terrible about the inconvenience and potential harm it may cause. Please let me know how I can make amends and if necessary, cover the repair cost or replacement. Again, I sincerely apologize for my carelessness.
+
+Sincerely,
+[Your Name]
+###
+15. Instruction: Summarize the main idea of this article.
+15. Input: 
+The article discusses the recent wave of cyberattacks targeting large companies and their potential long-term effects on the market. The author highlights how these attacks have been growing not only in frequency but also in sophistication, making it difficult for businesses to protect themselves. As a result, companies are now investing more resources in cybersecurity, putting pressure on financial performance and innovation. The author argues that this environment could result in a slowdown of technological advancement and hinder global economic growth.
+15. Output: 
+The article emphasizes the increasing frequency and sophistication of cyberattacks on large companies, leading to a surge in cybersecurity investments which may negatively impact financial performance, innovation, and global economic growth.
+###
+16. Instruction: Based on the list, which sport has the most calories burnt per hour?
+16. Input: 
+Swimming (700 cal/hour)
+Badminton (400 cal/hour)
+Cycling (550 cal/hour)
+Running (900 cal/hour)
+Yoga (250 cal/hour)
+16. Output: 
+Running (900 cal/hour)
+###
+17. Instruction: Convert this Fahrenheit temperature to Celsius.
+17. Input: 
+95°F
+17. Output: 
+35°C
+###
+18. Instruction: Explain the main difference between a vegan diet and a vegetarian diet.
+18. Input: 
+<noinput>
+18. Output: 
+The main difference between a vegan diet and a vegetarian diet is that vegans avoid all animal products, including dairy, eggs, and honey, while vegetarians typically only abstain from consuming meat and fish.
+###
+19. Instruction: Describe the process of photosynthesis in simple terms.
+19. Input: 
+<noinput>
+19. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into oxygen and glucose, which are required for their growth and maintenance.

@@ -1,0 +1,128 @@
+4. Instruction: Rewrite the input text in an informal and friendly tone.
+4. Input: 
+Thank you for contacting our company regarding the pricing of our product. We would like to notify you that the special discount is available for your bulk order. Please, find the updated price quote attached. If you need any further assistance, do not hesitate to reach out.
+4. Output: 
+Hey there! Thanks for getting in touch about our product prices. Great news! We've got a special discount just for you, since you're ordering in bulk. Check out the attached updated price quote. If you need any help, just give us a shout!
+
+5. Instruction: Write a persuasive invitation to join an environmental awareness seminar.
+5. Input: 
+<noinput>
+5. Output: 
+Hey there! You're warmly invited to an upcoming environmental awareness seminar happening in our community. This engaging and thought-provoking event will open your eyes to the pressing issues our planet is facing, and help you become part of the solution. Join us to learn valuable information, participate in lively discussions, and meet fellow eco-warriors who share your passion for protecting our environment. Don't miss out on this fantastic opportunity to make a difference - together, we can create a better world for future generations. Secure your seat today, and let's make a lasting impact!
+
+6. Instruction: Generate 3 potential names for a vegetarian restaurant.
+6. Input: 
+<noinput>
+6. Output: 
+1. Green Sprout Café
+2. The Veggie Haven
+3. Plantiful Delights
+
+7. Instruction: Change the input text to passive voice.
+7. Input: 
+The award-winning chef prepared a delicious meal for the guests.
+7. Output: 
+A delicious meal was prepared for the guests by the award-winning chef.
+
+8. Instruction: Select a title for the attached article about growing plants indoors. Output "Article Title: XXX". 
+8. Input: 
+In the attached article, we discuss the benefits of growing plants indoors, provide guidelines on selecting the right plants for indoor conditions, and offer tips on caring for indoor plants to ensure healthy growth.
+8. Output: 
+Article Title: The Ultimate Guide to Thriving Indoor Gardens
+
+9. Instruction: Describe the main benefits of drinking green tea.
+9. Input: 
+<noinput>
+9. Output: 
+The main benefits of drinking green tea include:
+1. Rich in antioxidants, which help protect cells from damage caused by free radicals.
+2. May improve brain function and mental alertness due to its caffeine content.
+3. Supports weight loss by boosting metabolism and fat burning.
+4. May reduce the risk of developing certain types of cancer.
+5. Promotes a healthy cardiovascular system by improving blood flow and reducing cholesterol levels.
+6. May help prevent type 2 diabetes by improving insulin sensitivity and lowering blood sugar levels.
+
+10. Instruction: Write a horoscope for Libra for today.
+10. Input: 
+<noinput>
+10. Output: 
+Libra, today you might find yourself seeking balance and harmony in all aspects of your life. Embrace your diplomatic nature as you mediate between differing opinions at work or at home. Spend some time on self-reflection, analyzing your priorities and goals. Embrace partnerships and collaborations, as they will enhance your productivity and creativity. A potential opportunity for personal growth might come your way, so be open to new experiences. Remember to breathe and trust your instincts, Libra. It's your time to shine!
+
+11. Instruction: List three weaknesses of renewable energy sources.
+11. Input: 
+<noinput>
+11. Output: 
+1. Intermittent and unpredictable: Renewable energy sources like solar and wind power are dependent on weather conditions, making them less reliable and predictable than non-renewable energy sources.
+2. High initial investment: The cost of setting up renewable energy systems (e.g., solar panels, wind turbines) can be significantly higher upfront than traditional power sources, even though it pays off in the long run.
+3. Limited availability in certain locations: Some areas may not have access to adequate sunlight, wind, or other renewable resources, which makes it challenging to implement renewable energy systems on a large scale.
+
+12. Instruction: Should I borrow money from friends to support my business? Justify your response.
+12. Input: 
+<noinput>
+12. Output: 
+It's generally not recommended to borrow money from friends to support your business, as it may strain your personal relationships and create conflicts if you're unable to repay the loan promptly. Instead, explore alternative financing options like bank loans, grants, or crowdfunding platforms to minimize the risk of damaging important friendships.
+
+13. Instruction: Create a mnemonic to remember the order of the planets in the solar system.
+13. Input: 
+<noinput>
+13. Output: 
+My Very Eager Mother Just Served Us Nachos
+
+This mnemonic represents:
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+
+14. Instruction: Develop a positive affirmation to boost someone's self-confidence.
+14. Input: 
+<noinput>
+14. Output: 
+I am strong, capable, and empowered to face any challenge with courage and grace.
+
+15. Instruction: Create a jingle for a new laundry detergent called "SparkleWash".
+15. Input: 
+<noinput>
+15. Output: 
+(Verse 1)
+"Got stains? Don't fret, no need to despair,
+SparkleWash is here, your laundry we'll repair!
+Just a scoop or two, and watch the magic start,
+Our detergent works wonders, setting us apart!
+
+(Chorus)
+SparkleWash, SparkleWash, it's no surprise,
+We make your clothes shine bright, like sunny skies!
+SparkleWash, SparkleWash, give us a try,
+With our powerful clean, you'll be on cloud nine!
+
+16. Instruction: Rate the quality of the following movie plot from 1 to 5 stars. Output "X out of 5 stars".
+16. Input: 
+In a not-so-distant future, humanity struggles to rebuild society after a catastrophic event. Jake, a roguish gunslinger, forms an unexpected bond with an enigmatic android named Eve. They embark on a treacherous quest to restore order and bring peace to a dystopian world ruled by ruthless warlords and merciless machines.
+16. Output: 
+4 out of 5 stars
+
+17. Instruction: Write a haiku about a snowstorm.
+17. Input: 
+<noinput>
+17. Output: 
+Silent snowflakes fall,
+Painting a white wonderland,
+Nature's symphony.
+
+18. Instruction: Can I use my hairdryer to defrost my freezer? Explain why or why not.
+18. Input: 
+<noinput>
+18. Output: 
+It is not recommended to use a hairdryer to defrost your freezer. The combination of heat and electricity from the hairdryer can create a risk of electrical shock or cause damage to the freezer's components, particularly if water comes in contact with the electrical parts. Instead, try using safer methods like unplugging the freezer, allowing it to defrost naturally, and using towels to catch the melting ice.
+
+19. Instruction: Edit the input text for grammar and sentence structure.
+19. Input: 
+I enjoys visiting diferent countreys and disovering their foods. Every time, me go somewheres new, I make it shoore to try out the local specialities. Food can tell you alot about a kulture?
+19. Output: 
+I enjoy visiting different countries and discovering their foods. Every time I go somewhere new, I make sure to try out the local specialties. Food can tell you a lot about a culture, don't you think?
+
+20. Instruction: Create three potential opening lines for a story about a mysterious lighthouse keeper.
+20. Input: 
+<noinput>
+20. Output: 
+1. Waves battered the shore, thunder echoing across the night sky as Arthur approached the lighthouse, and the cryptic, lone figure who guarded its haunting beam.
+2. Balancing on the boundary between sea and shore, the lighthouse stood proudly, silently housing the mysterious keeper whose story led many to wonder about the man behind the glow.
+3. With each rotation of its piercing light, the lighthouse unveiled a secret to those who dared approach - a keeper who carried shadows from an unknown past, locked within its walls.

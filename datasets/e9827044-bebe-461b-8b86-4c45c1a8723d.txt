@@ -1,0 +1,105 @@
+4. Instruction: Write a summary of the following scientific abstract in one sentence.
+4. Input: 
+Polar bears are an important species to study due to their sensitivity to climate change, and while camera traps have proven useful for studying polar bears, analyzing the vast quantity of images obtained can be a daunting task. On Svalbard, the Institute for Marine Research at the University of Tromsø collected hundreds of thousands of images of polar bears in their natural habitat using 20 camera traps over two years. In order to efficiently analyze these images, we developed an algorithm that uses computer vision techniques and deep learning to automatically detect polar bears, making it possible to extract important ecological data both quickly and with minimal cost.
+4. Output:
+Researchers developed an algorithm using computer vision and deep learning to efficiently analyze hundreds of thousands of polar bear images collected from camera traps in their natural habitat on Svalbard, which will extract important ecological data quickly and at a low cost. 
+
+5. Instruction: List five possible effects of climate change on agricultural production.
+5. Input: 
+<noinput>
+5. Output:
+1. Changing precipitation patterns leading to floods or droughts.
+2. Temperature increase causing heat stress on plants.
+3. Shifts in geographical regions suitable for specific crops.
+4. Increased prevalence of pests and diseases due to warmer conditions.
+5. Altered crop yields and nutrient content due to elevated CO2 levels.
+
+6. Instruction: Create five rhyming couplets about a travel to ancient Greece.
+6. Input:
+<noinput>
+6. Output:
+1. To ancient Greece my journey goes,
+   With tales and myths my mind bestows.
+
+2. Amongst philosophers, I'll walk,
+   With Socrates, I'll share a talk.
+
+3. In Athens' market, I will discover,
+   Culture and trade like no other.
+
+4. To temples grand, like Parthenon,
+   A fabled site to gaze upon.
+
+5. From Delphi's oracle I will learn,
+   To navigate life's twists and turns.
+
+7. Instruction: Identify the typos and their corrected versions in the following paragraph.
+7. Input: 
+Unieval clients just can't seen to get enough of their product, which doesn't exactly break tehm bank, either.From smartfmomes thermostats that help to conserve engery, to smart office systems that encorage collaboration and cooperation, there is no shortage of unique, innovative ways the Internet of Things is repidly changing the way we leave and work.
+7. Output: 
+Unieval -> Universal
+seen -> seem
+tehm -> the
+smartfmomes -> smart home
+thermostats -> thermostats
+engery -> energy
+encorage -> encourage
+raplidly -> rapidly
+leave -> live
+
+8. Instruction: Rewrite the following sentence in passive voice.
+8. Input: 
+The dog chased the cat up the tree.
+8. Output:
+The cat was chased up the tree by the dog.9. Instruction: Describe the main differences between aerobic and anaerobic exercises.
+9. Input:
+<noinput>
+9. Output:
+Aerobic exercises are low to moderate-intensity activities that rely on oxygen to generate energy from carbohydrates and fat, such as jogging, cycling, and swimming. They are performed for longer durations and improve cardiovascular endurance. Anaerobic exercises, on the other hand, are high-intensity activities that do not use oxygen to generate energy, relying instead on immediate energy sources like glucose, such as weightlifting, sprinting, and high-intensity interval training. They are performed for shorter durations and primarily focus on building strength, power, and muscle mass.
+
+10. Instruction: Convert the following measurements to their equivalents in centimeters: 2 feet 3 inches, 5 feet 8 inches, and 7 feet 9 inches.
+10. Input:
+<noinput>
+10. Output:
+2 feet 3 inches = 68.58 centimeters
+5 feet 8 inches = 172.72 centimeters
+7 feet 9 inches = 236.22 centimeters
+
+11. Instruction: Create an imaginary conversation between an astronaut and a physicist about the effects of a black hole on time.
+11. Input:
+<noinput>
+11. Output:
+Astronaut: As we approach a black hole, what would happen to our perception of time?
+
+Physicist: As we get closer to the event horizon, time would appear to slow down for us relative to an observer far away from the black hole.
+
+Astronaut: Would the observer notice any difference in their own time?
+
+Physicist: No, their perception of time remains unchanged, but they would see our time slowing down as we approach the black hole.
+
+Astronaut: So, in theory, we could spend a short amount of time near a black hole and come back to find much more time has passed on Earth?
+
+Physicist: Yes, exactly. This phenomenon is called time dilation, a prediction of Einstein's General Theory of Relativity.
+
+12. Instruction: Create a short poem using the following words: moonlight, whispers, secrets, and dreams.
+12. Input:
+<noinput>
+12. Output:
+In moonlight's soft embrace, we dwell,
+Where whispers paint our dreams so well.
+The secrets shared, both yours and mine,
+In twilight's dance, they come to shine.
+
+13. Instruction: Write a movie pitch involving a search for a long-lost treasure.
+13. Input:
+<noinput>
+13. Output:
+Title: "Secrets of the Lost Isle"
+
+Pitch: When a brilliant but disillusioned historian stumbles upon a mysterious map leading to a long-lost island, she assembles an eclectic team of explorers and adventurers to uncover the ancient treasure hidden within. As they embark on a thrilling journey full of unexpected perils, deceit, and alliances, the team must contend with rival treasure hunters and confront their own demons to unravel the island’s secrets. This action-packed adventure filled with romance, betrayals, and twists will leave audiences captivated as the heroes ultimately discover that the true treasure was unity, friendship, and self-discovery.
+
+14. Instruction: Write a short introduction for a fictional novel about a boy who can talk to animals.
+14. Input:
+<noinput>
+14. Output:
+In the quaint village of Norensbrooke, life was simple, yet there was something extraordinary about a young boy named Samuel. Since he was a child, Samuel had an inexplicable ability to communicate with animals - wild, domestic, and even mythical. Guided by his gift, Samuel found solace in the company of his animal companions, as it opened doors to friendships, adventures, and a world that transcended human understanding. In a village where secrets often lay hidden beneath the surface, it is up to Samuel to harness his unique power and embark on a journey both magical and perilous to protect his newfound friends, his family, and ultimately, his destiny.

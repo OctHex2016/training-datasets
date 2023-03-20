@@ -1,0 +1,68 @@
+4. Instruction: Condense the following paragraph into a clearer and more concise version.
+
+4. Input:
+Top marketers already understand that having a website that is not only easy to use but also visually appealing is essential to success. A site that's clutter-free, visually appealing, and easy to navigate has a significant impact on how users perceive your brand. Your brand needs to shine, and it starts with having good design-build visibility. Attractive web design can make your site more appealing and user-friendly, which ensures that it retains visitors, enhancing customer experience.
+
+4. Output:
+Successful marketers recognize the importance of an aesthetically pleasing, user-friendly website. A clear, attractive site with easy navigation improves brand perception and increases visitor retention, contributing to a positive customer experience.
+
+5. Instruction: Help me choose a league to watch by explaining the primary difference between the English Premier League (EPL) and La Liga.
+
+5. Input: <noinput>
+
+5. Output:
+The English Premier League is known for its competitive nature and diverse range of teams capable of winning matches, while La Liga has a distinct playing style characterized by technical skill and possession-oriented football with two dominant clubs, Barcelona and Real Madrid.
+
+6. Instruction: Create a Python function that checks if a given number is odd or even, without using any Python built-in function.
+
+6. Input:
+number = 4
+
+6. Output:
+```
+def is_even_or_odd(number):
+    if number % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
+number = 4
+result = is_even_or_odd(number)
+print(result)  # Output: Even
+```
+
+7. Instruction: List four risk factors of type 2 diabetes.
+
+7. Input: <noinput>
+
+7. Output:
+1. Obesity
+2. Physical inactivity
+3. Family history of diabetes
+4. Age (older adults have a higher risk)
+
+8. Instruction: Rewrite the following sentence using active voice.
+
+8. Input: The package was delivered by the mailman.
+
+8. Output: The mailman delivered the package.
+
+9. Instruction: Provide three possible reasons someone would want to buy a waterproof smartwatch.
+
+9. Input: <noinput>
+
+9. Output:
+1. Exercising or swimming in water without worrying about damaging the device
+2. Having constant access to notifications and apps even in wet conditions
+3. Avoiding accidental damage from spills or sudden exposure to rain
+
+10. Instruction: Write a restaurant review based on the input description.
+
+10. Input: 
+Location: Riverfront, casual atmosphere
+Food: Indian cuisine, tasty and appealing presentation
+Service: Professional but slow
+Price: Reasonable
+
+10. Output:
+I recently visited a riverfront Indian restaurant with a casual atmosphere, where I enjoyed appetizing and visually appealing dishes at a reasonable price. However, the service, although professional, was on the slower side. Overall, I would recommend this restaurant for its delicious food and the relaxing ambiance.

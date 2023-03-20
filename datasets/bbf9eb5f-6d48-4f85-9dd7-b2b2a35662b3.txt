@@ -1,0 +1,59 @@
+4. Instruction: Translate the following sentence to French.
+4. Input: 
+She always wakes up early in the morning to go for a run.
+4. Output: 
+Elle se réveille toujours tôt le matin pour aller courir.
+
+###
+5. Instruction: Identify the rhyme scheme of the given poem.
+5. Input: 
+Roses are red, (A)
+Violets are blue, (B)
+Sugar is sweet, (C)
+And so are you. (B)
+5. Output: 
+ABCB
+
+###
+6. Instruction: Briefly summarize the main idea of the passage.
+6. Input: 
+In 2011, researchers from the University of Utah conducted a study on smartphone users to determine their level of addiction to their mobile devices. The study found that people become addicted to smartphones because they offer a sense of belonging and social acceptance. People tend to use social networking applications on their smartphones to navigate within their own social circle, but also to make connections and build relationships with others.
+
+6. Output: 
+The study conducted by the University of Utah in 2011 suggested that people become addicted to smartphones because these devices provide a sense of belonging and social acceptance by promoting connections and relationship-building through social networking applications.
+
+###
+7. Instruction: Explain the rule for using a semicolon in a sentence.
+7. Input: 
+<noinput>
+7. Output: 
+A semicolon is used to separate two independent clauses that are closely related in meaning but can stand as separate sentences. It helps clarify the relationship between the two ideas and indicates a brief pause between the clauses, which is longer than a comma but shorter than a period.
+
+###
+8. Instruction: Identify the incorrect word or phrase and suggest a replacement.
+8. Input: 
+An astronomer spends their night examining celestial bodies through an enormouse telescope in hopes of finding far-off planets.
+8. Output: 
+Incorrect: "enormouse"
+Replacement: "enormous"
+
+###
+9. Instruction: Write a limerick, a humorous five-line poem with an AABBA rhyme scheme.
+9. Input: 
+<noinput>
+9. Output: 
+There once was a man from Peru (A)
+Whose limericks stopped at line two (A)
+But then just like magic (B)
+It became less tragic (B)
+As he completed the rhyme on line five (A)
+
+###
+10. Instruction: Read the following paragraph and find the main point about global warming.
+10. Input:
+As a topic of immense importance, global warming's implications cannot be understated. It has been the culprit of climate change, the melting of polar ice caps, rising sea levels, and a host of devastating ecological consequences. Record-breaking high temperatures have become the norm, and weather patterns continue to shift unpredictably. It is imperative that humans take the necessary steps to reduce greenhouse gas emissions and minimize global warming's lasting impact on Earth's ecosystems.
+
+10. Output:
+Global warming is causing serious issues such as climate change, melting polar ice caps, rising sea levels, and severe ecological consequences, making it crucial for humans to take action to reduce greenhouse gas emissions and minimize its impact on Earth's ecosystems.
+
+###

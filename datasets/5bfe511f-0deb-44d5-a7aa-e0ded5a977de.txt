@@ -1,0 +1,43 @@
+4. Instruction: Edit the thread of an email conversation by removing unnecessary or repetitive information.
+4. Input:
+Subject: Re: Lunch reservations for Wednesday
+Hi team, 
+
+I have reached out to the restaurant and they confirmed that our reservation for the meeting scheduled on Wednesday will be for 3 pm. Just a reminder, we are planning to be there at 3 pm on Wednesday.
+Please let me know if there are any issues with the timing or with our reservation.
+
+Best,
+Dave
+
+Subject: Re: Re: Lunch reservations for Wednesday
+Dave,
+
+Thanks for the update, and for making the reservation. Will confirm if the reservation time is right for everyone.
+
+Cheers, 
+Cindy
+
+Subject: Re: Re: Re: Lunch reservations for Wednesday
+Hi all, 
+
+I have checked with everyone and the 3 pm reservation time works for all of us. So, the meeting on Wednesday will be at the restaurant at 3 pm as planned.
+Looking forward to it!
+
+Best,
+Cindy
+
+Subject: Re: Re: Re: Re: Lunch reservations for Wednesday
+Hi all, 
+
+This is just to reiterate the details. The lunch meeting on Wednesday is confirmed for 3 pm at the restaurant. Don't forget! 
+
+Best,
+Dave
+4. Output:
+Subject: Lunch reservations for Wednesday
+Hi team, 
+
+Our lunch meeting is scheduled for Wednesday at 3 pm. I have made a reservation at the restaurant. Let me know if there are any issues with the timing or reservation.
+
+Best,
+Dave

@@ -1,0 +1,88 @@
+4. Instruction: Rewrite the given paragraph using a more academic tone.
+4. Input: 
+The new phone model is known for its screen, which is like, super clear. By that, I mean you can make out the minute details in a photo. A big number of people opted to buy this model because of its features, and they say that its speed is off the charts. Users who got this phone are quite satisfied, especially those who love taking pictures.
+4. Output: 
+The latest phone model is renowned for its high-resolution display, allowing for the discernment of intricate details within images. A significant number of consumers have chosen this model due to its attributes, and they report exceptional performance speed. Users who have purchased this device express high levels of satisfaction, particularly those with a passion for photography.
+
+5. Instruction: Identify three reasons the author provides why drinking water is beneficial for health.
+5. Input: 
+Drinking water is crucial for maintaining overall health, as it aids in digestion, supports proper bodily functions, and helps regulate body temperature. Water is needed to break down and transport nutrients and waste, ensuring that our bodies function efficiently. Additionally, our body temperature needs to be maintained at a consistent level; water is beneficial here because it acts as a thermal regulator, preventing overheating. Finally, water is essential for digestion, as it assists in the process of breaking down and dissolving food particles.
+5. Output: 
+1. Aids in digestion
+2. Supports proper bodily functions
+3. Helps regulate body temperature
+
+6. Instruction: Utilize the information provided to calculate the total number of pet owners surveyed.
+6. Input: 
+According to the survey, 40% of respondents own dogs, 30% own cats, 10% own both dogs and cats, and the remaining 20% do not own either. In total, 300 people participated in the survey.
+6. Output: 
+Total pet owners: [(40% + 30%) - 10%] * 300 = 60% * 300 = 180
+
+7. Instruction: Turn the given statement into a question.
+7. Input: 
+Dragons are mythical creatures.
+7. Output: 
+Are dragons mythical creatures?
+
+8. Instruction: Suggest a healthier alternative to the given meal.
+8. Input: 
+Burger, fries, and a soda.
+8. Output: 
+Grilled chicken sandwich, a side salad with light dressing, and water.
+
+9. Instruction: Write a haiku about a sunset by the ocean.
+9. Input: 
+<noinput>
+9. Output: 
+Sun sinks in the sea,
+Orange, pink hues fill the sky,
+Soft waves whisper peace.
+
+10. Instruction: Write a brief summary of the given news article.
+10. Input: 
+WhatsApp, the popular messaging app, will soon stop functioning on millions of smartphones worldwide. The company has announced that it is ending support for older Android and iOS models, urging users to update their devices in order to continue using the service. The move is reportedly aimed at ensuring users have access to the latest features and updates, while older devices might not be able to support these features. Affected users will need to upgrade their phones or switch to alternative messaging platforms before this change takes effect.
+10. Output: 
+WhatsApp is ending support for older Android and iOS models, which will result in the app no longer functioning on millions of smartphones worldwide. Users with affected devices must either update their phones or turn to alternative messaging platforms to maintain access to the service.
+
+11. Instruction: Generate a couple of rhyming lines for a poem about rain.
+11. Input: 
+<noinput>
+11. Output: 
+Gentle raindrops fall,
+Nature's rhythm, nature's call
+
+12. Instruction: Rank the provided books in order of their publishing date.
+12. Input: 
+1. The Great Gatsby by F. Scott Fitzgerald
+2. To Kill a Mockingbird by Harper Lee
+3. Animal Farm by George Orwell
+4. Pride and Prejudice by Jane Austen
+12. Output: 
+1. Pride and Prejudice by Jane Austen
+2. The Great Gatsby by F. Scott Fitzgerald
+3. Animal Farm by George Orwell
+4. To Kill a Mockingbird by Harper Lee
+
+13. Instruction: Write a one-line motivating quote for pursuing dreams.
+13. Input: 
+<noinput>
+13. Output: 
+"Chase your dreams with courage, for they hold the keys to your boundless potential."
+
+14. Instruction: Write the title and the opening line of a mystery novel.
+14. Input: 
+<noinput>
+14. Output: 
+Title: "The Hidden House of Heights"
+Opening Line: "The first time Eleanor stumbled upon the decaying mansion, she knew there was more than what met the eye."
+
+15. Instruction: Describe how photosynthesis works and why it is essential for plants in brief.
+15. Input: 
+<noinput>
+15. Output: 
+Photosynthesis is the process by which plants convert light energy into chemical energy to fuel their growth. It involves the absorption of sunlight, water, and carbon dioxide to produce oxygen and glucose, a simple sugar that provides energy for the plant. This process is vital for plants as it enables them to generate the food they require to grow and maintain their structure, while also releasing oxygen into the atmosphere, which benefits other living organisms.
+16. Instruction: Tell me the capital city of Australia.
+16. Input: 
+<noinput>
+16. Output: 
+Canberra

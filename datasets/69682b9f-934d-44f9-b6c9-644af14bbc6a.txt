@@ -1,0 +1,43 @@
+4. Instruction: Convert the given recipe to serve 8 people instead of 4.
+4. Input: 
+Recipe for a Tofu Scramble - serves 4
+Ingredients:
+14 oz firm tofu
+1/4 cup nutritional yeast
+1/4 cup diced bell pepper
+1/4 cup diced onion
+1/4 cup diced tomato
+2 cloves garlic, minced
+2 tbsp olive oil
+1 tsp turmeric
+1/4 tsp salt
+1/4 tsp black pepper
+4. Output: 
+Recipe for a Tofu Scramble - serves 8
+Ingredients:
+28 oz firm tofu
+1/2 cup nutritional yeast
+1/2 cup diced bell pepper
+1/2 cup diced onion
+1/2 cup diced tomato
+4 cloves garlic, minced
+4 tbsp olive oil
+2 tsp turmeric
+1/2 tsp salt
+1/2 tsp black pepper
+
+5. Instruction: Write a short love story.
+5. Input:
+<noinput>
+5. Output: 
+Once upon a time in a small village, lived a beautiful girl named Lily, who had bright eyes and a smile that shone like the sun. She was known for her kindness and wisdom. One day, while visiting the market, she met Tom, a young painter who expressed emotions through his paintings, capturing the village's beauty.
+
+As time went on, the bond between them grew stronger, and Tom started spending hours painting Lily's radiant smile whenever they talked. Unaware at first, Lily finally discovered Tom's artwork and, with a mixture of joy and embarrassment, realized his feelings for her.
+
+In return, she shared her warmth and wisdom, inspiring Tom to create masterpieces that filled the village with love and colors. The two, now united in their love, married in a quaint little church, and their love story became a legend that filled the village with hope and happiness for generations.
+
+6. Instruction: Proofread and correct the paragraph.
+6. Input:
+Most people agree that sleep its very important for their health. However, not Every1 takes the time to make sure they get atlease 7 to 8 hours of rest each nite. One solution to this issue may be estblishing a fixed bed time and sticking too it, including on weekends.
+6. Output: 
+Most people agree that sleep is very important for their health. However, not everyone takes the time to make sure they get at least 7 to 8 hours of rest each night. One solution to this issue may be establishing a fixed bedtime and sticking to it, including on weekends.

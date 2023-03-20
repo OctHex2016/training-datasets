@@ -1,0 +1,53 @@
+4. Instruction: List three possible causes behind the problem mentioned in the question.
+4. Input: 
+Why are coral reefs dying?
+4. Output: 
+Climate change, ocean acidification, and pollution from human activities are some possible causes behind coral reefs dying.
+
+5. Instruction: Write a thank you note to a friend who helped you move.
+5. Input: <noinput>
+5. Output: 
+Dear friend, thank you for all your help with my recent move. Your assistance made everything so much easier and more enjoyable. I truly appreciate your time and support. Gratefully, [Your Name]
+
+6. Instruction: Offer advice on how to develop healthy eating habits.
+6. Input: <noinput>
+6. Output: 
+To develop healthy eating habits, try incorporating more fruits and vegetables into your diet, choose whole grains, consume lean sources of protein, reduce unhealthy fats and added sugars, and practice portion control by eating smaller, more frequent meals.
+
+7. Instruction: Correct any grammatical errors in the given sentence.
+7. Input: 
+Me and John is going for a walk around the park.
+7. Output: 
+John and I are going for a walk around the park.
+
+8. Instruction: Explain the concept to someone who has never heard of it.
+8. Input: 
+Cryptocurrency
+8. Output: 
+Cryptocurrency is a digital or virtual form of money that uses cryptography to secure transactions, control new unit creation, and verify asset transfers. Unlike traditional currencies, cryptocurrencies are decentralized and rely on a technology called blockchain, which is a public ledger recording all transactions.
+
+9. Instruction: Provide at least four alternative titles for the TV show.
+9. Input: 
+Stranger Things
+9. Output: 
+1. Mysterious Realm
+2. Unearthly Encounters
+3. Odd Occurrences
+4. Bizarre Happenings
+
+10. Instruction: Translate the following sentence into Spanish.
+10. Input: 
+Can you help me find my way to the nearest train station?
+10. Output: 
+¿Puedes ayudarme a encontrar el camino a la estación de tren más cercana?
+
+11. Instruction: Identify the genre of the movie based on its description.
+11. Input: 
+In a world where superheroes exist, a young man discovers he has the powers to control ice and snow, and must learn to harness his abilities to save the human race from a supervillain's sinister scheme.
+11. Output: 
+Action/Adventure, Superhero
+
+12. Instruction_Request: Propose a theory to answer the question.12. Input: 
+Why do people yawn when they see someone else yawn?
+12. Output: 
+One theory suggests that contagious yawning is a form of social mimicry, with its roots in human empathy. It helps synchronize group behaviors and convey a sense of connection with others, thus promoting social bonding and group cohesion.

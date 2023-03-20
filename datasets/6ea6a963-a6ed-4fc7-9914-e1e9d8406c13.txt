@@ -1,0 +1,150 @@
+
+
+4. Instruction: Generate a list of popular hiking trails in California. 
+4. Input: 
+<noinput>
+4. Output: 
+1. The Mist Trail to Vernal and Nevada Falls in Yosemite National Park
+2. The Bridge to Nowhere trail in San Gabriel Mountains National Monument
+3. The Dipsea Trail to Steep Ravine and Matt Davis Loop in Mount Tamalpais State Park
+4. Mount Whitney via Whitney Portal in Inyo National Forest
+5. The Lost Coast Trail in King Range National Conservation Area
+6. The Skyline to the Sea Trail in Big Basin Redwoods State Park
+7. Mt. Wilson via Chantry Flat in Angeles National Forest
+8. The John Muir Trail through the Sierra Nevada Mountains
+9. Half Dome in Yosemite National Park
+10. The Pacific Crest Trail through California
+### 
+5. Instruction: Classify the given sentence as a declarative or interrogative or exclamatory. 
+5. Input: 
+I don't like pizza!
+5. Output: 
+exclamatory
+###
+6. Instruction: Write a short summary of the book "To Kill A Mockingbird" by Harper Lee. 
+6. Input: 
+<noinput>
+6. Output: 
+"To Kill a Mockingbird" is a novel by Harper Lee that was published in 1960. The book takes place in the 1930s in a small Alabama town called Maycomb. The story is told through the eyes of a young girl named Scout Finch, who along with her brother Jem, witnesses the events that unfold during a controversial trial in their community. The trial involves a black man named Tom Robinson who is accused of raping a white woman, and the themes of racism and justice are central to the story. 
+### 
+7. Instruction: Create a rhyming poem about autumn. 
+7. Input: 
+<noinput>
+7. Output: 
+As leaves turn gold and red and brown,
+And gently tumble to the ground,
+The crunch beneath our feet we hear,
+As autumn's beauty draws so near.
+
+The air is crisp, relief from heat,
+And cozy sweaters now we'll meet,
+With pumpkin spice and apple pies,
+We cherish the season, no goodbyes.
+
+So let us cherish autumn's hues,
+Before winter comes to takeover.
+Let's embrace the beauty of fall,
+Promise to return next year's call. 
+### 
+8. Instruction: Explore a controversial topic of your choice and provide the pros and cons of both sides. 
+8. Input: 
+Should euthanasia be legalized?
+8. Output: 
+Pros: 
+1. Provides relief to patients who are suffering and have no hope of recovery. 
+2. Allows patients to die with dignity instead of enduring prolong pain and suffering. 
+3. Reduces medical costs and the burden on hospitals and doctors to care for terminally ill patients. 
+
+Cons: 
+1. Euthanasia is against the moral and ethical standards of some religions. 
+2. The risk of abuse is high, with the possibility of relatives or medical staff pressuring the patient to undergo euthanasia against their will. 
+3. The value of human life is undermined when it is legally permitted to end life at will. 
+
+It is a highly controversial topic that divides people and has no easy answer.  
+### 
+9. Instruction: Correct the grammatical error in the following sentence. 
+9. Input: 
+He have two dogs and a cat. 
+9. Output: 
+He has two dogs and a cat. 
+### 
+10. Instruction: Generate an original recipe for a vegetarian dish. 
+10. Input: 
+<noinput>
+10. Output: 
+Quinoa & Veggie Stuffed Peppers
+
+Ingredients:
+4 large bell peppers, halved lengthwise and seeded
+1 cup quinoa, rinsed
+1 teaspoon olive oil
+2 cups vegetable broth
+1/2 teaspoon salt
+1/4 teaspoon black pepper
+1 can black beans, drained and rinsed
+1 red onion, diced
+1 red bell pepper, diced
+1 green bell pepper, diced
+2 cloves garlic, minced
+1/2 teaspoon cumin
+1/2 teaspoon chili powder
+1/4 teaspoon smoked paprika
+1/2 cup grated cheddar cheese
+1/2 avocado, diced
+1/4 cup chopped cilantro
+
+Instructions:
+1. Preheat the oven to 375 degrees F. 
+2. Place the bell pepper halves on a baking sheet and set aside. 
+3. In a large saucepan, heat the olive oil over medium heat. 
+4. Add the quinoa and toast for 2-3 minutes, stirring frequently. 
+5. Add the vegetable broth, salt, and black pepper and bring to a boil. 
+6. Reduce the heat to low and cover the pan. 
+7. Simmer for 15-20 minutes, until the quinoa is cooked and the liquid is absorbed. 
+8. In a large skillet, sauté the red onion, red bell pepper, green bell pepper, and garlic over medium heat until the vegetables are softened, about 5-7 minutes. 
+9. Add the black beans, cumin, chili powder, and smoked paprika to the skillet and stir to combine. 
+10. Add the cooked quinoa to the skillet and stir to combine. 
+11. Divide the quinoa and vegetable mixture evenly among the bell pepper halves. 
+12. Top each pepper with grated cheddar cheese. 
+13. Cover the baking sheet with foil and bake for 25 minutes. 
+14. Remove the foil and bake for an additional 5-10 minutes, until the cheese is melted and bubbly. 
+15. Top each pepper with diced avocado and chopped cilantro before serving. 
+### 
+11. Instruction: Translate the following phrase to Spanish. 
+11. Input: 
+Where is the nearest bus station? 
+11. Output: 
+¿Dónde está la estación de autobuses más cercana? 
+### 
+12. Instruction: Complete the following analogy. 
+12. Input: 
+Apple is to fruit as broccoli is to ______
+12. Output: 
+vegetable 
+### 
+13. Instruction: Summarize the plot of "Pride and Prejudice" by Jane Austen. 
+13. Input: 
+<noinput>
+13. Output: 
+"Pride and Prejudice" is a novel by Jane Austen that was published in 1813. The story revolves around the Bennet family, consisting of Mr. and Mrs. Bennet and their five daughters. The plot centers on the prejudice and pride of Elizabeth Bennet and Mr. Darcy, two individuals with strong personalities who initially clash but eventually fall in love through a series of misunderstandings and social events. Austen's work is known for its insight into British Regency society and its commentary on issues of marriage, social class, and gender. 
+### 
+14. Instruction: Write a news headline for the following event. 
+14. Input: 
+A team of scientists has discovered a new species of bird in South America. 
+14. Output: 
+New species of bird discovered in South America. 
+### 
+15. Instruction: Generate a list of tips for studying effectively. 
+15. Input: 
+<noinput>
+15. Output: 
+1. Create a study schedule and stick to it.
+2. Eliminate distractions by turning off your phone and limiting social media use.
+3. Take breaks every hour to prevent burnout and fatigue.
+4. Use active learning techniques to reinforce concepts, such as flashcards or practice questions.
+5. Review your notes each day after class to reinforce what you've learned.
+6. Find a study group or study partner to share notes and quiz each other.
+7. Stay organized by keeping a binder or folder for each subject.
+8. Use mnemonic devices to remember information, such as acronyms or memory palaces.
+9. Take care of your physical health by getting enough sleep, exercise, and nutritious food.
+10. Reward yourself after a successful study session or exam to stay motivated.

@@ -1,0 +1,136 @@
+4. Instruction: Translate the given text into French.
+
+4. Input: 
+The weather is sunny and warm today.
+4. Output: 
+Le temps est ensoleillé et chaud aujourd'hui.
+
+###
+5. Instruction: Correct any grammar or punctuation errors in the following text.
+
+5. Input: 
+Its a nice day; isnt it You should come! over to my. house and enjoy the day together
+5. Output: 
+It's a nice day, isn't it? You should come over to my house and enjoy the day together.
+
+###
+6. Instruction: Write a haiku related to nature.
+
+6. Input: 
+<noinput>
+6. Output: 
+Autumn leaves whisper,
+Rustling dance in cool, crisp air,
+Nature's song begins.
+
+###
+7. Instruction: Identify the logical inconsistency in the following argument.
+
+7. Input: 
+All cars can fly. A bicycle is a car. Therefore, bicycles can fly.
+7. Output: 
+The logical inconsistency lies in the statement, "A bicycle is a car." This is incorrect, as a bicycle is not a car.
+
+###
+8. Instruction: Provide award-winning advice on productivity.
+
+8. Input: 
+<noinput>
+8. Output: 
+To increase productivity, prioritize tasks using the Eisenhower Matrix, set SMART goals, break tasks into smaller steps, use the Pomodoro Technique, avoid multitasking, and set designated breaks to recharge.
+
+###
+9. Instruction: Find the name of the book and author in the given text.
+
+9. Input: 
+Last week, I read a thrilling novel called "The Silent Patient" by Alex Michaelides. You should give it a try!
+9. Output: 
+The book's name is "The Silent Patient" and the author is Alex Michaelides.
+
+###
+10. Instruction: Write a one-sentence summary of the given article.
+
+10. Input: 
+The study reveals that meditation can lead to the secretion of the "happiness hormone", serotonin, which is related to positive mental states, offering a significant reduction in stress and anxiety levels; continuous practice of meditation can bring lifelong benefits.
+10. Output: 
+Meditation increases serotonin release, reducing stress and anxiety while offering lifelong mental health benefits through consistent practice.
+
+###
+11. Instruction: Classify the following text as positive, negative, or neutral in sentiment.
+
+11. Input: 
+The restaurant was packed with smiling customers who enjoyed their meals.
+11. Output: 
+Positive
+
+###
+12. Instruction: Which historical event and year are mentioned in the provided text?
+
+12. Input: 
+The Treaty of Tordesillas was signed on 7th June 1494 between Spain and Portugal, dividing the newly discovered lands outside of Europe.
+12. Output: 
+The Treaty of Tordesillas, 1494
+
+###
+13. Instruction: Explain the purpose of the given object.
+
+13. Input: 
+compass 
+13. Output: 
+A compass is a navigational instrument used to determine direction relative to the Earth's magnetic poles, typically for outdoor activities like hiking or sailing.
+
+###
+14. Instruction: Provide a brief explanation of the concept introduced in the following sentence.
+
+14. Input: 
+The Heisenberg uncertainty principle states that you cannot precisely know both the position and the velocity of an electron at the same time.
+14. Output: 
+The Heisenberg uncertainty principle is a fundamental concept in quantum mechanics, asserting that it is inherently impossible to determine an electron's exact position and velocity simultaneously due to the wave-particle duality.
+
+###
+15. Instruction: List three possible reasons for the given scenario.
+
+15. Input: 
+The plants in the garden are starting to wilt.
+15. Output: 
+1. Lack of water or overwatering 2. Insufficient sunlight or too much sunlight 3. Soil imbalances or nutrient deficiencies
+
+###
+16. Instruction: Provide the following information based on the given context in a rephrased form.
+
+16. Input: 
+The Louvre Museum is the largest art museum in the world and a historic monument in Paris, France. It holds approximately 38,000 artworks.
+16. Output: 
+Located in Paris, France, the Louvre Museum is a historic monument and the world's largest art museum, containing around 38,000 pieces of art.
+
+###
+17. Instruction: Identify the persuasive technique used in the following statement.
+
+17. Input: 
+Join our gym today – over 10,000 satisfied customers can't be wrong!
+17. Output: 
+Bandwagon
+
+###
+18. Instruction: Provide three examples of the main topic of the given text.
+
+18. Input: 
+Renewable energy sources are becoming increasingly important for a sustainable future as they help to mitigate climate change and reduce dependence on fossil fuels.
+18. Output: 
+1. Solar power 2. Wind energy 3. Hydroelectric power
+
+###
+19. Instruction: Write a possible cause for the problem described in the following sentence.
+
+19. Input: 
+My computer is constantly freezing and running slowly.
+19. Output: 
+The computer may have insufficient RAM, a high number of running applications, or possibly malware slowing it down.
+
+###
+20. Instruction: Create a short alliteration using the given word.
+
+20. Input: 
+The word is "tiger."
+20. Output: 
+Tenacious tigers tactfully trek through tangled terrain.

@@ -1,0 +1,104 @@
+4. Instruction: Create an acronym for a mythical creature.
+4. Input: 
+<noinput>
+4. Output: 
+DROGAS - Dragon Ogre/Giant Amphibious Serpent
+###
+5. Instruction: Identify the dominant language in a piece of text.
+5. Input: 
+안녕하세요, 저는 홍길동입니다. 잘 부탁드립니다.
+5. Output: 
+Korean
+###
+6. Instruction: Propose a thesis title based on the provided area of research.
+6. Input: 
+Environmental Science: Climate changes impact on bird migration.
+6. Output: 
+"Avian Adaptation: Analyzing the Effects of Climate Change on Bird Migration Patterns and Ecosystem Dynamics"
+###
+7. Instruction: Summarize the movie plot in one sentence.
+7. Input: 
+The Shawshank Redemption (1994)
+7. Output: 
+A wrongfully convicted banker befriends other prison inmates, ultimately seeking redemption and a daring escape from the oppressive prison he is confined to.
+###
+8. Instruction: Recommend a classic novel based on interests.
+8. Input: 
+I love adventure, history, and European culture.
+8. Output: 
+I recommend reading "The Count of Monte Cristo" by Alexandre Dumas, a historical adventure novel set in European context full of intrigue, suspense, and revenge.
+###
+9. Instruction: Create a haiku based on the provided theme.
+9. Input: 
+The autumn leaves
+9. Output: 
+Autumn leaves flutter,
+Whispers with the cool, brisk breeze;
+Nature's symphony.
+###
+10. Instruction: Provide the origin of the given quotation from a famous speech.
+10. Input: 
+"I have a dream..."
+10. Output: 
+The quote "I have a dream" is from Martin Luther King Jr.'s famous speech during the 1963 March on Washington for Jobs and Freedom.
+###
+11. Instruction: In a friendly tone, gently point out a possible error in the provided text.
+11. Input: 
+I can't wait to loose weight!
+11. Output: 
+Hey there! I think you meant "lose weight" instead of "loose weight." Good luck on your journey!
+###
+12. Instruction: Describe the process of making coffee with a pour-over method.
+12. Input: 
+<noinput>
+12. Output: 
+Begin by boiling water and grinding coffee beans to a medium-fine consistency. Place a filter into the pour-over dripper, and rinse with hot water to eliminate any paper taste. Add the coffee grounds (use 1:15 coffee-to-water ratio) into the filter and level the surface. Put the dripper on top of your mug. Slowly pour just enough hot water (approx 195-205°F) to cover and saturate the grounds, allowing them to bloom for about 30 seconds. Continue pouring hot water in a circular motion, wetting whole area of coffee grounds while avoiding the filter edges. Let the water flow through the filter, wait a few seconds, and repeat the process. Once the desired amount of brewed coffee has been collected, remove the dripper from your mug, dispose of the grounds and filter, and enjoy your coffee.
+###
+13. Instruction: Detect the logical fallacy in the given argument.
+13. Input: 
+People who drink water die, so water must be deadly.
+13. Output: 
+False cause (post hoc) fallacy, assuming correlation means causation.
+###
+14. Instruction: Explain the first law of thermodynamics.
+14. Input: 
+<noinput>
+14. Output: 
+The first law of thermodynamics, also known as the Law of Energy Conservation, states that energy can neither be created nor destroyed but only converted from one form to another, implying the total energy in a closed system remains constant.
+###
+15. Instruction: Identify the author of the given poem excerpt.
+15. Input: 
+“Two roads diverged in a wood, and I— / I took the one less traveled by, / And that has made all the difference.”
+15. Output: 
+Robert Frost, from his poem "The Road Not Taken."
+###
+16. Instruction: Generate a possible career choice for the given personality traits.
+16. Input: 
+Introverted, analytical, detail-oriented, patient.
+16. Output: 
+Data Analyst
+###
+17. Instruction: Predict the result of the following hypothetical situation.
+17. Input: 
+Bringing a large carnivore like a lion into a backyard filled with common house cats.
+17. Output: 
+The lion would likely establish dominance and potentially attack the house cats, leading to chaos, injuries, or even fatalities.
+###
+18. Instruction: Write a rhyming couplet that incorporates the provided theme.
+18. Input: 
+Moonlit night
+18. Output: 
+In the moonlit night, a dance of shadows cast,
+A secret world awakes, the starry sky vast.
+###
+19. Instruction: Name the genre of the book given its plot.
+19. Input: 
+A detective investigates a series of murders in a small town, uncovering hidden secrets and dark motives.
+19. Output: 
+Crime/Mystery Thriller
+###
+20. Instruction: Define the term and provide an example.
+20. Input: 
+Oxymoron
+20. Output: 
+An oxymoron is a figure of speech that combines two seemingly contradictory words or concepts to create a new meaning. An example is the phrase "bittersweet memories."

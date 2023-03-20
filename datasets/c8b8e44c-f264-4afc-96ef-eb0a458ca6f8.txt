@@ -1,0 +1,108 @@
+4. Instruction: Translate the given phrase from English to French.
+4. Input: 
+I love traveling and exploring new places.
+4. Output: 
+J'aime voyager et explorer de nouveaux endroits.
+
+5. Instruction: Identify the literary device used in the provided sentence.
+5. Input: 
+All the world's a stage, and all the men and women merely players.
+5. Output: 
+Metaphor
+
+6. Instruction: Rewrite the provided sentence in passive voice.
+6. Input: 
+John completed his homework before dinner.
+6. Output: 
+The homework was completed by John before dinner.
+
+7. Instruction: Explain the meaning of the idiom in the given context.
+7. Input: 
+After a day of meetings, Jane was feeling under the weather.
+7. Output: 
+In this context, "feeling under the weather" means Jane was feeling unwell or sick.
+
+8. Instruction: Point out the main error in the given sentence and correct it.
+8. Input: 
+She have two brothers and a sister.
+8. Output: 
+Error: incorrect verb form "have". Corrected sentence: She has two brothers and a sister.
+
+9. Instruction: Rank the given items from the strongest to the weakest.
+9. Input: 
+Steel, wood, diamond, plastic, paper
+9. Output: 
+Diamond, steel, wood, plastic, paper
+
+10. Instruction: Select the most suitable product tagline for a fitness wearable.
+10. Input: 
+A) Track Your Fitness, Achieve Your Goals
+B) Revolutionize Your Morning Routine
+C) Add Some Spice to Your Life
+10. Output: 
+A) Track Your Fitness, Achieve Your Goals
+
+11. Instruction: Briefly summarize the main idea in the provided text.
+11. Input: 
+Air pollution has become a major problem in many countries. Polluted air consists of toxic substances that can cause harm to people, plants, and animals. Due to rapid industrialization and urbanization, air pollution levels continue to rise, causing respiratory illnesses, reduced visibility, and damage to ecosystems. Efforts should be made to reduce air pollution by promoting eco-friendly solutions and educating people about its harmful effects.
+11. Output: 
+Air pollution is a widespread issue caused by industrialization and urbanization, leading to negative effects on human health, visibility, and ecosystems. Efforts should focus on eco-friendly solutions and education to mitigate this problem.
+
+12. Instruction: Describe the given object from a futuristic perspective.
+12. Input: 
+Car
+12. Output: 
+In the future, cars operate on advanced technology, featuring self-driving capabilities and utilizing renewable energy sources, such as solar power or biofuel. They possess AI integration for seamless communication with passengers and other vehicles, significantly enhancing safety and efficiency during travels.
+
+13. Instruction: Generate a limerick poem based on the provided topic.
+13. Input: 
+Frogs living in a pond
+13. Output: 
+There once were some frogs in a pond,
+Whose lifestyles made them quite fond,
+They'd leap and they'd play,
+All night and all day,
+In their watery haven they'd respond.
+
+14. Instruction: Connect the given words to form a coherent sentence.
+14. Input: 
+movie, Friday, night, friends, popcorn
+14. Output: 
+On Friday night, my friends and I enjoyed a movie with some popcorn.
+
+15. Instruction: Select the most appropriate movie genre for the given plot.
+15. Input: 
+Sherlock Holmes and Dr. Watson work together to solve a high-profile murder case in Victorian London.
+15. Output: 
+Mystery
+
+16. Instruction: Provide a possible theme for the given nursery rhyme.
+16. Input: 
+Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall.
+16. Output: 
+The fragility of life
+
+17. Instruction: Correct the misplaced modifier in the provided sentence.
+17. Input: 
+We bought some wine glasses for my mother on clearance.
+17. Output: 
+We bought some wine glasses on clearance for my mother.
+
+18. Instruction: Suggest two ways to improve work-life balance.
+18. Input: 
+<noinput>
+18. Output: 
+1) Set boundaries between work and personal activities by scheduling dedicated time for each.
+2) Prioritize self-care activities, such as exercise, meditation, and hobbies, to rejuvenate your mind and body.
+
+19. Instruction: Write a concise movie review for the given film.
+19. Input: 
+Inception (2010)
+19. Output: 
+Inception is a visually enthralling, mind-bending sci-fi thriller directed by Christopher Nolan. The film's captivating premise of dream hacking is supported by an exceptional ensemble cast, thrilling action sequences, and a thought-provoking narrative. It's a must-watch for anyone seeking an immersive cinematic experience.
+
+20. Instruction: Paraphrase the given quote.
+20. Input: 
+"Do not go gentle into that good night. Rage, rage against the dying of the light." - Dylan Thomas
+20. Output: 
+Don't passively accept the approach of darkness. Resist fiercely against the impending loss of brightness.

@@ -1,0 +1,113 @@
+4. Instruction: Correct any grammar mistakes in the following text.
+4. Input: 
+Their are three reasons we enjoys watching soccer. Firstly, it brings us together as a family. Second, it teaches teamworks and good sportsmanship. And finally, it's helps relieve stress.
+4. Output: 
+There are three reasons we enjoy watching soccer. Firstly, it brings us together as a family. Second, it teaches teamwork and good sportsmanship. And finally, it helps relieve stress.
+###
+5. Instruction: List three possible causes of heartburn.
+5. Input:
+<noinput>
+5. Output: 
+1. Overeating or consuming large meals.
+2. Eating spicy, fatty, or acidic foods.
+3. Laying down or going to bed soon after eating.
+###
+6. Instruction: Summarize the plot of the movie in one sentence.
+6. Input: 
+Titanic
+6. Output: 
+Titanic tells the tragic love story of Jack and Rose, who come from different social classes, by connecting their fate on the ill-fated voyage of the RMS Titanic. 
+###
+7. Instruction: Invent a rhyming couplet in iambic pentameter.
+7. Input: 
+<noinput>
+7. Output: 
+Upon the winding path, my journey lies,
+My heart, it dreams of distant azure skies.
+###
+8. Instruction: Write a short travel itinerary for a weekend in Paris.
+8. Input: 
+<noinput>
+8. Output: 
+Day 1: Visit the Louvre Museum, admire Notre Dame Cathedral, and enjoy a Seine River cruise.
+Day 2: Explore the Eiffel Tower, wander through the charming Montmartre neighborhood, and dine at a classic French bistro. 
+###
+9. Instruction: Find the continuity error in the following sequence.
+9. Input: 
+John was wearing a blue shirt and black pants. He talked to Sarah for 10 minutes before leaving. When he arrived at the coffee shop, he was wearing a red shirt and black pants.
+9. Output: 
+The continuity error is the change in John's shirt color from blue to red.
+###
+10. Instruction: What type of cooking technique is described in this passage?
+10. Input: 
+Submerge the food in water or another liquid and heat the water to a gentle temperature below boiling point, allowing the food to cook slowly and evenly.
+10. Output: 
+The cooking technique described is poaching.
+###
+11. Instruction: Choose the best synonym for the underlined word.
+11. Input: 
+He requested an adjournment of the meeting.
+11. Output: 
+Postponement
+###
+12. Instruction: Provide an example of alliteration.
+12. Input: 
+<noinput>
+12. Output: 
+She sells seashells by the seashore.
+###
+13. Instruction: Match the following body parts to the respective human organ systems.
+13. Input: 
+Kidney, Lungs, Stomach, Femur
+13. Output: 
+Kidney - Urinary system
+Lungs - Respiratory system
+Stomach - Digestive system
+Femur - Musculoskeletal system
+###
+14. Instruction: Convert the given sentence into passive voice.
+14. Input: 
+The dog chased the cat.
+14. Output: 
+The cat was chased by the dog.
+###
+15. Instruction: Explain the primary function of a router in a computer network.
+15. Input: 
+<noinput>
+15. Output: 
+The primary function of a router in a computer network is to route or forward data packets between different networks, connecting devices and efficiently managing the data flow across the entire network.
+###
+16. Instruction: Translate the following English sentence to Spanish.
+16. Input: 
+How are you feeling today?
+16. Output: 
+¿Cómo te sientes hoy?
+###
+17. Instruction: Identify the oxymoron in the sentence.
+17. Input: 
+She had a love-hate relationship with her job.
+17. Output: 
+Love-hate
+###
+18. Instruction: Propose the name of an imaginary planet and describe its environment.
+18. Input: 
+<noinput>
+18. Output: 
+Planet: Zephyros
+Environment: Zephyros has a vibrant, turquoise atmosphere with floating islands, large crystal formations, and a variety of exotic, bioluminescent plant and animal species.
+###
+19. Instruction: List three prominent figures from the American Civil Rights Movement.
+19. Input: 
+<noinput>
+19. Output: 
+1. Martin Luther King Jr.
+2. Rosa Parks
+3. Malcolm X
+###
+20. Instruction: Analyze the following statement and suggest a few potential logical fallacies.
+20. Input: 
+My friend says that watching TV is a waste of time because she heard about a study where 90% of people who watch TV excessively don't have successful careers.
+20. Output: 
+1. Hasty generalization: The statement relies on a single study rather than considering the broader context or other factors affecting career success.
+2. Post hoc ergo propter hoc: The statement assumes that watching TV excessively causes a lack of career success, implying a causal relationship without direct evidence.
+3. Anecdotal Evidence: The statement is based on the personal account of the friend, which may not be representative of the general population.

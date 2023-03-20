@@ -1,0 +1,113 @@
+4. Instruction: Summarize the given text in one sentence.
+4. Input: 
+In an extensive study, researchers found that adding more plant-based foods to one's diet can significantly lower the risk of developing type 2 diabetes. Furthermore, the findings revealed that even a moderate shift towards greater intake of plants and reduced consumption of animal products could make a substantial difference in reducing diabetic risks.
+4. Output: 
+A diet with more plant-based foods and fewer animal products can significantly reduce the risk of developing type 2 diabetes.
+
+5. Instruction: Create a limerick about an astronaut exploring Mars.
+5. Input: 
+<noinput>
+5. Output: 
+There once was an astronaut named Lars,
+Who longed for a chance to see Mars,
+He took to the skies,
+With stars in his eyes,
+And now he's exploring the stars.
+
+6. Instruction: Rank in order the top three sustainable methods to charge electronic devices, according to their impact on the environment.
+6. Input: 
+Solar power, hand-crank chargers, kinetic energy charging
+6. Output: 
+1. Solar power
+2. Kinetic energy charging
+3. Hand-crank chargers
+
+7. Instruction: Translate this English idiom into Spanish without losing its original meaning: "a chip off the old block."
+7. Input: 
+<noinput>
+7. Output: 
+De tal palo, tal astilla
+
+8. Instruction: Identify whether this statement is true or false: the Battle of Gettysburg took place during the Vietnam War.
+8. Input: 
+<noinput>
+8. Output: 
+False
+
+9. Instruction: Estimate the cooking time for a 12-pound turkey given that it is cooked at 325°F, and it takes 15 minutes for each pound.
+9. Input: 
+<noinput>
+9. Output: 
+Approximately 180 minutes
+
+10. Instruction: Proofread and correct the following passage for any grammatical, syntactic, or punctuation errors.
+10. Input: 
+On a sunny morning; Tom readed a book in the park, a story it was about pirates he was happy because the pirates, sailed together they had fun;
+10. Output: 
+On a sunny morning, Tom read a book in the park. The story was about pirates. He was happy because the pirates sailed together, and they had fun.
+
+11. Instruction: Classify the given book quote by identifying its genre.
+11. Input: 
+“It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.”
+11. Output: 
+Romance
+
+12. Instruction: Write a short instructional step on how to upload a photo to a social media platform.
+12. Input: 
+<noinput>
+12. Output: 
+Click the "+" or "upload" icon/button, locate the desired photo on your device, and click "open" or "select" to add it to your social media post.
+
+13. Instruction: Explain what a palindrome is.
+13. Input: 
+<noinput>
+13. Output: 
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward, such as "madam" or "level."
+
+14. Instruction: Invent an acronym for "DIRECTORY" that could serve as the name for a company.
+14. Input: 
+<noinput>
+14. Output: 
+DREAM - Dynamic Resources for Efficient Applications and Management
+
+15. Instruction: Create a tagline for a company that offers online food delivery services.
+15. Input: 
+<noinput>
+15. Output: 
+Delivering deliciousness right to your doorstep!
+
+16. Instruction: Generate a response given the previous chat history.
+16. Input: 
+Student: I just got my report card, and my grades are terrible.
+Parent: Well, let's have a look and see where we can make improvements.
+Student: But I've been studying so hard, I don't know what I'm doing wrong.
+16. Output: 
+Parent: Let's discuss your study habits and strategies to figure out how we can change our approach for better results.
+
+17. Instruction: Write a haiku about a snowy winter landscape.
+17. Input: 
+<noinput>
+17. Output: 
+Snowflakes gently fall,
+Blanketing the silent woods,
+Nature's purest shawl.
+
+18. Instruction: Generate a creative name for a company that sells eco-friendly party decorations.
+18. Input: 
+<noinput>
+18. Output: 
+GreenBash Creations
+
+19. Instruction: Replace the underlined words in the sentence with a single fitting word or phrase.
+19. Input: 
+Her knowledge of computers is limited, at best she will manage to send an email.
+19. Output: 
+Her knowledge of computers is rudimentary, at best she will manage to send an email.
+
+20. Instruction: Name three items that are typically found in a first aid kit.
+20. Input: 
+<noinput>
+20. Output: 
+1. Band-aids
+2. Gauze
+3. Antiseptic wipes

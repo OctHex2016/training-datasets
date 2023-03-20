@@ -1,0 +1,112 @@
+4. Instruction: Translate the given sentence into French.
+4. Input: 
+The quick brown fox jumps over the lazy dog.
+4. Output: 
+Le renard brun rapide saute par-dessus le chien paresseux.
+
+5. Instruction: Write a haiku about autumn leaves.
+5. Input: 
+<noinput>
+5. Output: 
+Crisp amber cascades,
+Softly rustling whispers fall,
+Autumn's breath exhaled.
+
+6. Instruction: Explain the difference between weather and climate.
+6. Input: 
+<noinput>
+6. Output: 
+Weather refers to short-term atmospheric conditions (temperature, humidity, precipitation, wind) at a specific time and location. Climate, on the other hand, is the average of weather patterns over a longer period (typically 30 years or more) in a particular region.
+
+7. Instruction: Edit the following paragraph for clarity and conciseness.
+7. Input: 
+In order to be more effective at their jobs, it is highly important for people who are involved in these occupations where they have to deal with computers and networks on a all-the-time basis to constantly be learning about new and improved ways that they can use in order to ensure that their computer processes are running smoothly and efficiently.
+7. Output: 
+To be more effective in computer-related professions, individuals must continuously learn and adopt new techniques to ensure smooth and efficient computer processes.
+
+8. Instruction: Classify the following text as either a positive, negative, or neutral review.
+8. Input: 
+The movie had stunning graphics and a lively soundtrack, but the plot was predictable and shallow.
+8. Output: 
+negative
+
+9. Instruction: Summarize the given article in one sentence.
+9. Input: 
+Researchers at XYZ University have successfully developed a new technology that uses AI algorithms to help predict future outbreaks of diseases like Covid-19. By analyzing data from various sources including social media, healthcare records, and environmental factors, the AI system is able to detect a potential outbreak before it becomes a widespread issue, allowing authorities to respond and take preventive measures accordingly.
+9. Output: 
+Researchers at XYZ University developed AI technology to predict disease outbreaks, enabling early preventive measures by analyzing social media, healthcare, and environmental data.
+
+10. Instruction: Write a limerick about a clever cat.
+10. Input: 
+<noinput>
+10. Output: 
+A clever old cat named McVee
+Had a talent for climbing a tree
+From the branches he dangled
+His rivals were tangled
+In the game of the smart, kitty wins hands-free!
+
+11. Instruction: From the given excerpt, identify the main argument of the author.
+11. Input: 
+The increasing privatization of public land is a dangerous trend. These lands, which should be accessible to all of us, are instead being commercially exploited for profit. The result is that as private interests take precedence over public good, we are losing essential green spaces that serve as a refuge for wildlife and a place for people to connect with nature.
+11. Output: 
+The author argues that the privatization of public land is dangerous, as it prioritizes profit over public good and leads to the loss of essential green spaces for wildlife and human connection to nature.
+
+12. Instruction: Write lyrics to a chorus for a pop song about friendship.
+12. Input: 
+<noinput>
+12. Output: 
+(Chorus)
+Together we stand, hand in hand,
+Through the good times and the bad we'll band,
+Our friendship's a fire, never to tire
+In a world of change, we'll never expire!
+
+13. Instruction: Evaluate the truth of the given statement, and provide a short explanation for your answer.
+13. Input: 
+All dogs can bark.
+13. Output: 
+Mostly true. While most dogs can bark, certain breeds, such as the Basenji, do not typically bark. However, they can produce other vocalizations.
+
+14. Instruction: Write a suitable closing paragraph for an article aimed at motivating individuals to adopt a healthier lifestyle.
+14. Input: 
+<noinput>
+14. Output: 
+In conclusion, embracing a healthier lifestyle not only improves our physical well-being but also promotes a positive mindset and overall balance in our lives. By integrating regular exercise, a balanced diet, and proper self-care practices, you are investing in a better future for yourself and setting an inspiring example for those around you. Don't wait for tomorrow, start your journey toward a healthier and more fulfilling life today.
+
+15. Instruction: Choose the correct synonym for the given word from the provided options.
+15. Input: 
+Word: frugal 
+Options: a) wasteful, b) thrifty, c) luxurious
+15. Output: 
+b) thrifty
+
+16. Instruction: Write a short explanation about the greenhouse effect.
+16. Input: 
+<noinput>
+16. Output: 
+The greenhouse effect is a natural process in which certain gases in Earth's atmosphere (such as water vapor, carbon dioxide, and methane) trap heat from the sun, preventing it from escaping into space. This trapped heat warms the planet, making it habitable for life. However, human activities, like burning fossil fuels, have increased greenhouse gas concentrations, amplifying the greenhouse effect and contributing to global warming.
+
+17. Instruction: Identify and correct any grammar mistakes in the given sentence.
+17. Input: 
+She is one of the woman that always go above and beyond.
+17. Output: 
+She is one of the women who always goes above and beyond.
+
+18. Instruction: Write a brief character description for a fictional horror story set in a haunted house.
+18. Input: 
+<noinput>
+18. Output: 
+Olivia, a young and fearless paranormal investigator, possesses an uncanny ability to communicate with the supernatural world. With her raven hair, intense green eyes, and a curious nature, she is drawn to unravel the chilling mysteries engrained within the haunted walls of the once grand estate.
+
+19. Instruction: Calculate the resulting amount after applying a 10% discount on a product priced at $120.
+19. Input: 
+<noinput>
+19. Output: 
+$108
+
+20. Instruction: Write a persuasive sentence convincing someone to adopt a plant-based diet.
+20. Input: 
+<noinput>
+20. Output: 
+Adopt a plant-based diet to improve your health, protect the environment, and contribute to the welfare of animals – a small change with a significant positive impact!

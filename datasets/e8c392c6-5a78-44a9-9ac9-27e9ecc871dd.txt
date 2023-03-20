@@ -1,0 +1,109 @@
+4. Instruction: Generate a haiku based on the following input: 
+4. Input: 
+Cherry blossoms bloom,
+Pink petals fall gracefully,
+Spring is a delight.
+4. Output: 
+Pink petals falling,
+Spring dances in the gentle breeze,
+Delightful beauty. 
+###
+5. Instruction: Rewrite the following paragraph in passive voice:
+5. Input: 
+Mark Zuckerberg designed and developed Facebook in 2004 with roommates Dustin Moskovitz and Chris Hughes while he was a student at Harvard University. 
+5. Output: 
+Facebook was designed and developed by Mark Zuckerberg in 2004 with roommates Dustin Moskovitz and Chris Hughes while he was a student at Harvard University. 
+###
+6. Instruction: Identify the main idea of the following article. 
+6. Input: 
+https://www.bbc.com/news/world-us-canada-58701004 
+6. Output: 
+The article discusses the plans of the United States to reopen its borders to fully vaccinated foreign travelers. 
+###
+7. Instruction: Generate a suitable title for the following article.
+7. Input: 
+https://www.nytimes.com/2021/10/01/science/mites-arthropods-fossils.html
+7. Output:
+Mites and Arthropods Reveal Clues To The Past In Fossil Form. 
+###
+8. Instruction: Translate the following sentence to Spanish.
+8. Input: 
+Whales are the largest animals on Earth.
+8. Output: 
+"Las ballenas son los animales más grandes de la Tierra." 
+###
+9. Instruction: Correct the grammatical error in the following sentence:
+9. Input: 
+Him and I went to the movies last night.
+9. Output: 
+"He and I went to the movies last night."
+###
+10. Instruction: Paraphrase the following sentence:
+10. Input: 
+"If you want to succeed in life, you need to be willing to take risks."
+10. Output: 
+"To achieve success, a person must possess a willingness to take risks." 
+###
+11. Instruction: Generate a two-sentence overview of the following company's services.
+11. Input: 
+Company: HelloFresh 
+11. Output:
+HelloFresh is a meal-kit delivery service that aims to provide customers with easy-to-follow recipes and fresh ingredients that are delivered straight to their door. They provide a variety of meals ranging from vegetarian to meat-based dishes. 
+###
+12. Instruction: List three ingredients commonly used in Mexican cuisine.
+12. Input: 
+<noinput>
+12. Output: 
+"Commonly used ingredients in Mexican cuisine include chili peppers, beans, and tomatoes." 
+###
+13. Instruction: Edit the following sentence to eliminate redundancy:
+13. Input: 
+She wore a red hat on top of her head.
+13. Output: 
+"She wore a red hat." 
+###
+14. Instruction: Generate a one-sentence summary of the following book:
+14. Input: 
+Book: The Great Gatsby by F. Scott Fitzgerald 
+14. Output: 
+The Great Gatsby follows the story of Jay Gatsby, a wealthy man in Long Island, as he tries to win back his former lover, Daisy Buchanan. 
+###
+15. Instruction: Complete the following analogy: 
+Bicycle is to wheel as airplane is to________.
+15. Input: 
+<noinput>
+15. Output: 
+"Airplane is to wing." 
+###
+16. Instruction: Suggest a synonym for the following word:
+16. Input: 
+Word: Excessive 
+16. Output: 
+"Superfluous." 
+###
+17. Instruction: Fill in the blank with an appropriate word:
+17. Input: 
+The dog wagged its _________ when the little girl picked it up.
+17. Output: 
+"The dog wagged its tail when the little girl picked it up." 
+###
+18. Instruction: Generate a one-sentence summary of the following movie:
+18. Input: 
+Movie: Inception 
+18. Output: 
+Inception follows the story of a skilled thief who is hired to extract information by entering the minds of the target through their dreams. 
+###
+19. Instruction: Identify the type of poem and the author of the following poem:
+19. Input: 
+"Whose woods these are I think I know.
+His house is in the village though;
+He will not see me stopping here
+To watch his woods fill up with snow."
+19. Output: 
+The poem is a Robert Frost poem titled "Stopping by Woods on a Snowy Evening" and it is a lyric poem. 
+###
+20. Instruction: Provide a suitable caption for the following image:
+20. Input: 
+https://www.pexels.com/photo/strawberry-ice-cream-on-white-ceramic-bowl-4019401/
+20. Output: 
+"Satisfy your sweet tooth with a bowl of creamy strawberry ice cream."

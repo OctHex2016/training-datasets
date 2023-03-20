@@ -1,0 +1,157 @@
+4. Instruction: Write a short poem about a majestic mountain.
+4. Input:
+<noinput>
+4. Output:
+Upon the peak, a throne of stone,
+A mountain stands, aloof, alone,
+Against the winds, against the rain,
+A silent king, with endless reign.
+
+Majestic, with its head held high,
+Its soaring pillars touch the sky,
+A canvas for the sun's descent,
+Awe-inspiring, circumference bent.
+
+The mountain, regal in its stance,
+With every summit's grace, enchants,
+And in its presence, we shall find,
+The humbling force of nature's grind.
+###
+5. Instruction: Paraphrase the following quote while preserving its essence.
+5. Input:
+Quote: "All animals are equal, but some animals are more equal than others." - George Orwell
+5. Output:
+"All creatures share equality, yet a few stand above the rest in the hierarchy." - George Orwell
+###
+6. Instruction: Convert this passage into an activist slogan.
+6. Input:
+Passage: The oceans have been polluted with plastics and other debris, posing a danger to both marine life and the environment. Immediate action must be taken to minimize further damage and clean up the oceans.
+6. Output:
+Save our seas, ditch the debris! Act now, protect marine life!
+###
+7. Instruction: Debate the pros and cons of eating organic food.
+7. Input:  
+<noinput>
+7. Output:
+Pros:
+1. No synthetic pesticides or fertilizers, fewer chemicals.
+2. Better nutrition and higher antioxidants.
+3. Environmentally friendly and sustainable farming practices.
+4. Reduced exposure to antibiotic-resistant bacteria.
+5. Better taste and overall freshness.
+
+Cons:
+1. Higher prices compared to non-organic food.
+2. Limited availability in certain areas.
+3. Shorter shelf life due to lack of preservatives.
+4. Inconsistent quality and appearance.
+5. Organic labeling oversight and possible marketing gimmicks.
+###
+8. Instruction: Remove repetitive information from this paragraph.
+8. Input:
+Paragraph: The course content is very thorough, covering all aspects of the topic. The lectures are informative and detailed, with comprehensive explanations about each subject. The course goes in-depth on all aspects, ensuring that students have a firm understanding of the topic.
+8. Output:
+The course content is very thorough, covering all aspects of the topic. The lectures are informative and detailed, with comprehensive explanations about each subject. The course ensures that students have a firm understanding of the topic.
+###
+9. Instruction: List five practical ways to save energy in daily life.
+9. Input:
+<noinput>
+9. Output:
+1. Switch off appliances when not in use.
+2. Replace incandescent bulbs with LED lights.
+3. Use energy-efficient appliances.
+4. Unplug chargers and electronics when not in use.
+5. Set thermostat to appropriate temperatures in heating and cooling seasons.
+###
+10. Instruction: Describe the five most essential skills to excel as a project manager.
+10. Input:
+<noinput>
+10. Output:
+1. Leadership: Guide, motivate, and support the team.
+2. Communication: Clear, concise, and effective exchanges with team members, stakeholders, and clients.
+3. Time management: Schedule, prioritize, and allocate time and resources efficiently.
+4. Problem-solving: Analyze, identify, and implement solutions for project challenges.
+5. Risk management: Identify, assess, and mitigate risks that can impact project progress and completion.11. Instruction: Write a summary of the given news article.
+11. Input:
+Article: "Tech giant XYZ announces the launch of its latest phone, XYZ Pro 7, which boasts a range of innovative features, including a 5-layer camera system, advanced facial recognition technology, and an enhanced battery life. The smartphone is set to hit the market on September 7 at a starting price of $999. The company also revealed its plan to introduce a new eco-friendly packaging initiative."
+
+11. Output:
+XYZ has unveiled the XYZ Pro 7, featuring a 5-layer camera, advanced facial recognition, and improved battery life. The phone will be available on September 7 for $999. Also, the company plans to introduce eco-friendly packaging.
+###
+12. Instruction: Provide three categories to classify the given list of items.
+12. Input:
+List: (apple, sunflower, strawberry, daisy, oak tree, rose, banana)
+12. Output:
+1. Fruits: apple, strawberry, banana
+2. Flowers: sunflower, daisy, rose
+3. Trees: oak tree
+###
+13. Instruction: Fact-check the sentence and correct it if necessary.
+13. Input:
+Sentence: The Great Wall of China is visible from the Moon with the naked eye.
+13. Output:
+Correction: The Great Wall of China is not visible from the Moon with the naked eye.
+###
+14. Instruction: Suggest three research topic ideas about the effects of social media on mental health.
+14. Input:
+<noinput>
+14. Output:
+1. The impact of social media usage on anxiety and depression levels in individuals.
+2. The correlation between social media addiction and self-esteem.
+3. The role of social media in fostering positive versus negative social comparison behaviors.
+###
+15. Instruction: Describe any potential biases in the study design, given the following scenario.
+15. Input:
+Scenario: A research study recruited participants who were already running a marathon to investigate the effect of marathon running on overall health.
+
+15. Output:
+1. Self-selection bias: Participants who voluntarily participate in a marathon might inherently be healthier or more fitness-oriented than the general population.
+2. Lack of control group: Without a non-marathon running comparison group, it is difficult to differentiate the effects of marathon running from other lifestyle factors.
+3. Confounding variables: Many factors, such as diet, genetics, and exercise habits, can influence overall health, making it challenging to isolate the impact of marathon running.
+###
+16. Instruction: List three primary sources a historian might use to study ancient Rome.
+16. Input:
+<noinput>
+16. Output:
+1. Roman literature and historical texts, such as Livy's "Ab Urbe Condita" or Cicero's letters and speeches.
+2. Archaeological artifacts, such as coins, pottery, mosaics, and inscriptions.
+3. Architectural structures and ruins, like the Colosseum, the Roman Forum, or the Pantheon.
+###
+17. Instruction: Given a problem, use the 5 Whys technique to identify the root cause.
+17. Input:
+Problem: The company's revenues have declined over the past quarter.
+17. Output:
+1. Why? Sales have decreased.
+2. Why? Customers are not purchasing products as frequently.
+3. Why? Competitors have introduced new, innovative products.
+4. Why? The company's product development process is slow and outdated.
+5. Why? There is a lack of investment in research and development and collaboration among departments.
+Root cause: Inadequate investment in research and development and poor interdepartmental collaboration.
+###
+18. Instruction: Rewrite the following paragraph to focus on benefits instead of features.
+18. Input:
+Paragraph: Our latest vacuum cleaner has an advanced cyclonic system, a HEPA filter, and a noise reduction feature. It's lightweight, easy to maneuver, and comes with multiple attachments.
+
+18. Output:
+Our newest vacuum cleaner offers powerful suction for a thorough clean, traps allergens with a HEPA filter, and operates quietly for a disturbance-free experience. Its lightweight and maneuverable design makes cleaning effortless, while a variety of attachments ensure flexibility for multiple cleaning tasks.
+###
+19. Instruction: Devise a SMART goal for a person aiming to improve their fitness.
+19. Input: 
+<noinput>
+19. Output:
+Goal: Increase the weekly running distance to 10 miles within 12 weeks, by consistently running 3 times a week and gradually increasing the distance of each run, to improve cardiovascular fitness and endurance.
+###
+20. Instruction: Suggest a step-by-step tutorial for creating a simple website. 
+20. Input:
+<noinput>
+20. Output:
+1. Choose a website builder platform (e.g., Wix, WordPress, or Squarespace).
+2. Sign up for an account with your preferred platform.
+3. Select a suitable template for your website.
+4. Customize the design, layout, and color scheme of your template.
+5. Add, edit, or delete web pages as needed (e.g., Home, About, Contact, Blog, etc.).
+6. Upload high-quality images, and write engaging and relevant content for each page.
+7. (Optional) Set up a blog, portfolio, or online store if desired.
+8. Connect a custom domain name (e.g., www.yourwebsite.com) to your website.
+9. Optimize the website for search engines (SEO).
+10. Publish your website and share it on your social media channels.

@@ -1,0 +1,130 @@
+4. Instruction: Write a haiku about the sunset at the beach.
+4. Input:
+<noinput>
+4. Output:
+Crimson horizon,
+Waves whisper their last farewells,
+Day meets night at sea.
+
+###
+5. Instruction: Provide a brief summary of the passage.
+5. Input:
+The Waterfall Model is one of the earliest software development life cycle models. It is a linear-sequential process that is incredibly structured and often inflexible. It involves a series of distinct, non-overlapping stages that must be completed in sequence. These stages include requirements gathering, system design, implementation, testing, deployment, and maintenance. One of the advantages of the Waterfall Model is that it is easy to understand and manage. However, its inflexible nature and lack of customer involvement during development make it less suitable for modern software projects that require rapid iteration.
+5. Output:
+The Waterfall Model is an early software development life cycle model known for its linear-sequential process and non-overlapping stages, including requirements gathering, system design, implementation, testing, deployment, and maintenance. While easy to understand and manage, its inflexibility and limited customer involvement make it less suitable for modern projects that require rapid iteration.
+
+###
+6. Instruction: Identify the grammatical error in the sentence and provide a corrected version.
+6. Input:
+Either Jane or I are supposed to lead the meeting tomorrow.
+6. Output:
+Error: verb agreement
+Corrected: Either Jane or I am supposed to lead the meeting tomorrow.
+
+###
+7. Instruction: Suggest three possible names for a new modern fusion restaurant.
+7. Input:
+<noinput>
+7. Output:
+1. Infusion Flavors
+2. Urban Palette
+3. Contemporary Indulgence
+
+###
+8. Instruction: Determine if the following image description is logical or illogical:
+8. Input:
+A red apple floating in mid-air, next to a watermelon that's playing the piano.
+8. Output:
+Illogical
+
+###
+9. Instruction: Convert the following sentence into passive voice.
+9. Input:
+The chef cooked a delicious dinner.
+9. Output:
+A delicious dinner was cooked by the chef.
+
+###
+10. Instruction: Answer the following riddle.
+10. Input:
+What comes once in a minute, twice in a moment, but never in a thousand years?
+10. Output:
+The letter 'M'
+
+###
+11. Instruction: Evaluate the given algebraic expression for the given values of x and y. 
+11. Input:
+Expression: 3x^2 - y
+x = 2
+y = 1
+11. Output:
+11
+
+###
+12. Instruction: Name three pieces of literature authored by Charles Dickens.
+12. Input:
+<noinput>
+12. Output:
+1. A Tale of Two Cities
+2. Great Expectations
+3. Oliver Twist
+
+###
+13. Instruction: Edit the following paragraph, fixing grammar and punctuation errors.
+13. Input:
+Their are many resources available too learn about sustainability. books, websites, and seminars can help people understand the importance of preserving the environment. If more individuals take up the responsibility to learn, the world could be a better place to live in!
+13. Output:
+There are many resources available to learn about sustainability. Books, websites, and seminars can help people understand the importance of preserving the environment. If more individuals take up the responsibility to learn, the world could be a better place to live in!
+
+###
+14. Instruction: Determine the percentage of test questions answered correctly.
+14. Input:
+Number of questions: 25
+Number of questions answered correctly: 22
+14. Output:
+88%
+
+###
+15. Instruction: Explain the use of semicolons in English grammar.
+15. Input:
+<noinput>
+15. Output:
+Semicolons are used primarily to join two closely related, independent clauses without using a coordinating conjunction (such as "and" or "but"). They can also be used to separate items in a list when the items themselves contain commas, for better clarity.
+
+###
+16. Instruction: Create a short tongue twister using alliteration with the letter "s".
+16. Input:
+<noinput>
+16. Output:
+She sells slippery sea shells by the shimmering seashore.
+
+###
+17. Instruction: Translate the following sentence from English to French.
+17. Input:
+I am going to the library to study.
+17. Output:
+Je vais à la bibliothèque pour étudier.
+
+###
+18. Instruction: List three renewable energy sources.
+18. Input:
+<noinput>
+18. Output:
+1. Solar power
+2. Wind power
+3. Hydroelectric power
+
+###
+19. Instruction: Come up with a positive and a negative aspect of telecommuting.
+19. Input:
+<noinput>
+19. Output:
+Positive: Flexible schedule and work environment
+Negative: Potential isolation and lack of in-person collaboration
+
+###
+20. Instruction: Reorder the words to form a coherent sentence.
+20. Input:
+spirit team strong a within lies unity
+20. Output:
+Unity lies within a strong team spirit.

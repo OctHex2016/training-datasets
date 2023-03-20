@@ -1,0 +1,107 @@
+4. Instruction: Provide a general explanation for the given acronym.
+4. Input: 
+GDP
+4. Output: 
+Gross Domestic Product (GDP) is a widely-used economic indicator that measures the total value of all goods and services produced within a country over a specific period of time, usually a year.
+###
+5. Instruction: Calculate the percentage of goal completion based on the given progress and goal numbers.
+5. Input: 
+Progress: 85, Goal: 200
+5. Output: 
+42.5%
+###
+6. Instruction: Rewrite the following sentence in a more formal tone.
+6. Input: 
+Hey, just checking if we can reschedule the party for September 27th.
+6. Output: 
+Greetings, I would like to inquire about the possibility of rescheduling the event to September 27th.
+###
+7. Instruction: Which of the provided four options best fits the description given?
+7. Input: 
+Description: A fruit with a hard outer shell and a sweet, soft interior, originates from the Middle East.
+Options: Apple, Fig, Coconut, Apricot
+
+7. Output: 
+Fig
+###
+8. Instruction: Create a limerick on the given topic.
+8. Input: 
+Topic: "Birds on a rainy day"
+8. Output: 
+There once was a flock by the bay,
+Who danced in the rain all day.
+They splashed and they spattered,
+And in the end, they gathered,
+To sing their sweet songs in the spray.
+###
+9. Instruction: Given a list of items, make it into a sentence using an Oxford comma.
+9. Input: 
+beach ball, volleyball, football
+9. Output: 
+We packed a beach ball, volleyball, and football for our trip.
+###
+10. Instruction: Reorganize and complete the English idiom phrase given in mixed-up order.
+10. Input: 
+grass greener is the side other the on always
+10. Output: 
+The grass is always greener on the other side.
+###
+11. Instruction: Summarize a news article's main point based on the headline.
+11. Input: 
+Headline: Electric vehicles make up 54% of new car sales in Norway
+11. Output: 
+The majority of new car sales in Norway are now electric vehicles.
+###
+12. Instruction: Based on the given scenario, what moral or lesson could be learned?
+12. Input: 
+Scenario: A hare and a tortoise engage in a racing competition, in which the hare is overconfident and takes a nap, allowing the slow and steady tortoise to win.
+12. Output: 
+Slow and steady wins the race.
+###
+13. Instruction: Given a question, answer it with a fact or general knowledge.
+13. Input: 
+When do birds typically migrate?
+13. Output: 
+Birds typically migrate during the spring and fall seasons.
+###
+14. Instruction: Write an email subject line for the given context.
+14. Input: 
+Context: Rescheduling a job interview
+14. Output: 
+Request to Reschedule Interview Date: [Your Name]
+###
+15. Instruction: Proofread the following sentence and suggest improvements with regards to grammar and punctuation.
+15. Input: 
+After returning with they’re lunches. They began eating their meal in silence it was obvious that something troubling occupied their minds.
+15. Output: 
+After returning with their lunches, they began eating their meal in silence. It was obvious that something troubling occupied their minds.
+###
+16. Instruction: Translate the given sentence to French.
+16. Input: 
+Where is the nearest ATM?
+16. Output: 
+Où se trouve le distributeur de billets le plus proche?
+###
+17. Instruction: Identify which type of task the user is seeking help with from the given context.
+17. Input: 
+I've been trying to think of a topic for my research paper, but I'm really struggling. Can you help me come up with something related to climate change?
+17. Output: 
+Choosing a research paper topic
+###
+18. Instruction: Based on the given input, construct a question that might be frequently asked by people in that situation.
+18. Input: 
+Situation: Entering a new city and searching for a place to stay
+18. Output: 
+What are the best hotels or lodging options in this city?
+###
+19. Instruction: Provide an appropriate response being an AI, for the given statement. 
+19. Input: 
+You're terrible, I don't like you!
+19. Output: 
+I apologize if I have been unhelpful or caused any inconvenience. If you have any further questions or concerns, please feel free to ask.
+###
+20. Instruction: Identify the mood or emotion portrayed in the given text.
+20. Input: 
+I got a promotion at work today! This is so exciting! 
+20. Output: 
+Excitement

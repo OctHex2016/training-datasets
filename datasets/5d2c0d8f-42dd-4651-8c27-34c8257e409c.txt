@@ -1,0 +1,33 @@
+4. Instruction: Summarize the main points of the provided article.
+4. Input: 
+A new report from the World Health Organization (WHO) reveals that 9 out of 10 people around the world breathe polluted air on a daily basis, with many regions exceeding the safe limits. This finding emphasizes the severity of the problem, with dangerous contaminants contributing to respiratory and cardiovascular diseases. The report states that exposure to polluted air is responsible for an estimated 7 million deaths per year. The primary sources of this pollution are road transport, industry, and domestic burning. Solutions for better air quality include switching to cleaner transportation alternatives, improving waste management, and promoting more efficient energy use. The WHO urges countries to take action and protect their citizens, stating that effective policies and interventions can significantly reduce health risks associated with poor air quality.
+4. Output: 
+The WHO report highlights that 90% of people worldwide breathe polluted air regularly, which contributes to 7 million deaths yearly. Key sources of pollution include road transport, industry, and domestic burning. To combat this issue, the WHO recommends cleaner transportation, better waste management, and efficient energy use. Effective policies can significantly reduce health risks linked to poor air quality.
+
+5. Instruction: Translate the given paragraph into French.
+5. Input: 
+The rainforest is a complex ecosystem, rich with diverse plant and animal species. It plays a critical role in maintaining Earth's climate by absorbing carbon dioxide and releasing oxygen. However, deforestation driven by logging, agriculture, and infrastructure development is threatening the rainforest's delicate balance, putting numerous species at risk of extinction and contributing to global warming.
+5. Output: 
+La forêt tropicale est un écosystème complexe, riche en diverses espèces de plantes et d'animaux. Elle joue un rôle crucial dans le maintien du climat terrestre en absorbant le dioxyde de carbone et en libérant de l'oxygène. Cependant, la déforestation causée par l'exploitation forestière, l'agriculture et le développement des infrastructures menace l'équilibre délicat de la forêt tropicale, mettant de nombreuses espèces en danger d'extinction et contribuant au réchauffement climatique.
+
+6. Instruction: Find the errors in the given text and suggest corrections.
+6. Input: 
+The dog it ran down the strt and it crossed the strets without even looking ate traffic.
+6. Output: 
+The dog ran down the street and crossed the streets without even looking at traffic.
+
+7. Instruction: What are the main differences between snakes and lizards?
+7. Input: <noinput>
+7. Output: 
+Snakes and lizards differ in several key ways: 
+1. Leglessness: Snakes have no legs, whereas most lizards have limbs.
+2. Eyelids: Snakes have fixed transparent scales covering their eyes, while lizards have movable eyelids.
+3. External ears: Lizards have external ear openings, but snakes do not.
+4. Tongue structure: Snakes have forked tongues; whereas, lizards typically have rounded and notched tongues.
+5. Body elongation: Snakes have elongated bodies and internal organs, while lizards have more standard body proportions.
+
+8. Instruction: Identify the fallacy in the following argument.
+8. Input: 
+All men are mortal. Socrates was a man. Therefore, all men are Socrates.
+8. Output: 
+The fallacy in this argument is an equivocation, specifically a fallacious composition. The conclusion does not logically follow from the premises, attempting to ascribe a property of one specific man (Socrates) to all men.

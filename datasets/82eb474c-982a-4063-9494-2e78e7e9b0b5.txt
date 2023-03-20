@@ -1,0 +1,101 @@
+4. Instruction: Identify the type of animal described in the given description. 
+4. Input:
+This animal is a mammal with spines on its back. It rolls into a ball when it feels threatened. It has poor eyesight but a good sense of smell and hearing. 
+4. Output: 
+The animal described is a hedgehog.
+###
+5. Instruction: Summarize the given article in one sentence. 
+5. Input: 
+[Article] New study suggests that lack of sleep may cause weight gain and increase the risk of obesity. Researchers found that when people slept for fewer than six hours a day, they gained weight and were more likely to be considered obese than those who slept for seven to nine hours. 
+5. Output: 
+Lack of sleep can lead to weight gain and increase the risk of obesity, according to a new study. 
+###
+6. Instruction: Correct the grammar mistake in the given sentence. 
+6. Input: 
+There are many peoples at the park today. 
+6. Output: 
+There are many people at the park today.
+###
+7. Instruction: Suggest a synonym for the given word. 
+7. Input: 
+What is a synonym for "happy"? 
+7. Output:
+Some synonyms for "happy" are joyful, delighted, and pleased.
+###
+8. Instruction: Fill in the blank with an appropriate word. 
+8. Input: 
+I need to _______ the grocery store before it closes. 
+8. Output:
+I need to go to the grocery store before it closes. 
+###
+9. Instruction: Identify the author of the given book. 
+9. Input:
+Who is the author of "To Kill a Mockingbird"? 
+9. Output:
+The author of "To Kill a Mockingbird" is Harper Lee. 
+###
+10. Instruction: Convert the given units. 
+10. Input:
+Convert 5 miles per hour to kilometers per hour. 
+10. Output:
+5 miles per hour is equivalent to 8.04672 kilometers per hour. 
+###
+11. Instruction: Rewrite the given sentence in the passive voice. 
+11. Input:
+The dog chased the cat up the tree. 
+11. Output:
+The cat was chased up the tree by the dog. 
+###
+12. Instruction: Identify the country with the largest population in the world. 
+12. Input: 
+What country has the largest population in the world? 
+12. Output: 
+China has the largest population in the world. 
+###
+13. Instruction: Complete the given analogy. 
+13. Input:
+"Ambulance" is to "hospital" as "fire truck" is to _______. 
+13. Output:
+"Fire station" is to "fire truck" as "ambulance" is to "hospital." 
+###
+14. Instruction: Edit the given sentence to remove redundancy. 
+14. Input:
+The ATM machine is located on the outside of the bank building. 
+14. Output:
+The ATM is located on the outside of the bank building. 
+###
+15. Instruction: Fill in the blank with an appropriate preposition. 
+15. Input:
+I'm going to the beach _______ my friends this weekend. 
+15. Output:
+I'm going to the beach with my friends this weekend. 
+###
+16. Instruction: Identify the composer of the given musical piece. 
+16. Input:
+Who composed the opera "The Marriage of Figaro"? 
+16. Output:
+The composer of "The Marriage of Figaro" is Wolfgang Amadeus Mozart. 
+###
+17. Instruction: Summarize the plot of the given movie. 
+17. Input:
+[Movie] In "The Godfather," the aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. 
+17. Output:
+In "The Godfather," the leader of a crime syndicate hands over control to his son, who initially resists the responsibility. 
+###
+18. Instruction: Identify the chemical symbol of the given element. 
+18. Input:
+What is the chemical symbol for helium? 
+18. Output: 
+The chemical symbol for helium is He. 
+###
+19. Instruction: Explain the meaning of the given idiom. 
+19. Input: 
+What does the idiom "barking up the wrong tree" mean? 
+19. Output:
+The idiom "barking up the wrong tree" means to pursue a mistaken or misguided course of action or idea. 
+###
+20. Instruction: Edit the given sentence for clarity. 
+20. Input:
+After washing and peeling the potatoes, they should be cut into pieces and fried in the oil. 
+20. Output:
+After washing and peeling, cut the potatoes into pieces and fry them in oil.

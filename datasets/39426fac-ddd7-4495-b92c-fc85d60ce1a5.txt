@@ -1,0 +1,38 @@
+4. Instruction: Rewrite the following paragraph in future tense.
+4. Input:
+I work on my project until it's almost midnight. I'm exhausted but I don't give up. I finally complete the task and feel proud of my accomplishment.
+4. Output:
+I will work on my project until it's almost midnight. I will be exhausted but I won't give up. I will finally complete the task and feel proud of my accomplishment.
+###
+5. Instruction: Provide a brief summary of the given text.
+5. Input: 
+"A Brief History of Time" is a book by physicist Stephen Hawking that aims to present the major scientific breakthroughs of modern cosmology, from the first theories of the universe to the present. The book presents these scientific discoveries in a way that is accessible to non-specialist readers, making complex theories and ideas understandable to a wider audience. Some of the key topics covered in the book include the Big Bang Theory, black holes, and the search for a unified theory of physics that could combine the principles of quantum mechanics and general relativity.
+5. Output: 
+Stephen Hawking's "A Brief History of Time" simplifies complex scientific breakthroughs in modern cosmology for non-specialists, covering topics such as the Big Bang Theory, black holes, and the search for a unified theory of physics.
+###
+6. Instruction: Provide a suitable title for the given excerpt.
+6. Input: 
+"Many people believe that the sand dunes of Namibia were created naturally by the wind, but there are several factors that contribute to their formation. The dunes are formed as a result of wind and water interactions, soil and rock composition, and climate change. These factors all work together to create the stunning desert landscape that is now a popular tourist destination for those looking to experience the beauty of the natural world"
+6. Output: 
+The Complex Origins of Namibia's Sand Dunes: Nature's Artistry and Intricacy.
+###
+7. Instruction: List three potential ways to resolve the conflict in the given scenario.
+7. Input: 
+Two roommates constantly argue over the cleanliness of their shared apartment. One roommate is extremely tidy and constantly picks up after the other, causing resentment to build.
+7. Output: 
+1. Establish a clear and reasonable chore rotation to split tasks fairly.
+2. Set expectations and boundaries regarding the cleanliness of shared spaces.
+3. Have a genuine and open conversation about how the current situation affects both parties and find a mutually agreeable solution.
+###
+8. Instruction: Translate the following phrase to French: "I love spending time with my friends."
+8. Input: 
+<noinput>
+8. Output: 
+J'aime passer du temps avec mes amis.
+###
+9. Instruction: Correct any grammar or punctuation errors in the given text.
+9. Input: 
+Their is an apple; laying next too the pile of banana's.
+9. Output: 
+There is an apple, lying next to the pile of bananas.
+###

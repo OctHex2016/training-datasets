@@ -1,0 +1,126 @@
+4. Instruction: Rewrite the given sentence using active voice.
+4. Input:
+The book was written by Jane Austen.
+4. Output:
+Jane Austen wrote the book.
+
+5. Instruction: Correct any grammar or punctuation errors you find in the passage.
+5. Input:
+Its not true that I dont have time, cause I do. I just prioritize working out, spending time with friends, and meeting with others. However, i'm willing to give it a shot; alright, maybe sometimes.
+5. Output:
+It's not true that I don't have time, because I do. I just prioritize working out, spending time with friends, and meeting with others. However, I'm willing to give it a shot; alright, maybe sometimes.
+
+6. Instruction: Determine if the given statement is a fact or opinion.
+6. Input:
+Video games cause violence in youth.
+6. Output:
+opinion
+
+7. Instruction: Translate the following sentence into Spanish.
+7. Input:
+I need to buy a new pair of shoes.
+7. Output:
+Necesito comprar un nuevo par de zapatos.
+
+8. Instruction: Identify the genre of the given movie title.
+8. Input:
+The Lord of the Rings
+8. Output:
+Fantasy
+
+9. Instruction: Explain what is wrong with the following thesis statement.
+9. Input:
+There are both advantages and disadvantages to owning a car.
+9. Output:
+The thesis statement is too vague and lacks a clear argument or position.
+
+10. Instruction: List three advantages of renewable energy.
+10. Input:
+<noinput>
+10. Output:
+1. Reduces greenhouse gas emissions 2. Provides sustainable and infinite energy sources 3. Lowers dependence on fossil fuels
+
+11. Instruction: Describe the main character's personality using three adjectives from the given movie.
+11. Input:
+The Godfather
+11. Output:
+Determined, cunning, and loyal
+
+12. Instruction: Review the movie in one sentence.
+12. Input:
+The Incredibles
+12. Output:
+A brilliantly animated, action-packed, and fun family movie that celebrates the power of teamwork and love.
+
+13. Instruction: Provide three pieces of advice for interacting with someone from a different culture.
+13. Input:
+<noinput>
+13. Output:
+1. Be patient and open-minded 2. Show respect for their traditions and beliefs 3. Learn some basic greetings and phrases in their language
+
+14. Instruction: Summarize the teaching of Karl Marx in three sentences or less.
+14. Input:
+<noinput>
+14. Output:
+Karl Marx believed that class struggles drive history, and he championed the cause of the working class. He saw capitalism as an exploitative system and advocated for social ownership of the means of production. To achieve this, Marx called for a revolution by the proletariat to overthrow the bourgeoisie and create a classless, communist society.
+
+15. Instruction: Identify the central theme of the following poem.
+15. Input:
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+- "The Road Not Taken" by Robert Frost
+15. Output:
+Individuality and decision making
+
+16. Instruction: Create a title for the following short story idea.
+16. Input:
+A boy finds a magical garden in his backyard where animals talk to him and plants grow overnight.
+16. Output:
+The Enchanted Oasis
+
+17. Instruction: Write a brief summary of the American Revolutionary War.
+17. Input:
+<noinput>
+17. Output:
+The American Revolutionary War (1775-1783) was a conflict between the 13 British colonies in North America and Great Britain. The colonists fought for their independence from British rule, eventually leading to the formation of the United States of America. The war was marked by significant events such as the Boston Tea Party, the Battles of Lexington and Concord, and the signing of the Declaration of Independence, ultimately resulting in a hard-fought victory for the American colonies.
+
+18. Instruction: Write a rhyming couplet based on the given theme.
+18. Input:
+Unrequited love
+18. Output:
+In my heart, your love I stow, but endlessly it seems unknown.
+I give to you my soul's sweet song, yet unreturned it lingers on.
+
+19. Instruction: Pick the most appropriate response to the given complaint.
+19. Input:
+My hotel room was dirty and the air conditioner didn't work.
+19. Output:
+I apologize for this unsatisfactory experience, and I assure you that your concerns will be addressed immediately. We will do everything possible to ensure that your stay with us improves and you are comfortable.
+
+20. Instruction: What is the significance of Jane Austen's novel "Pride and Prejudice" in the context of 19th-century England?
+20. Input:
+<noinput>
+20. Output:
+"Pride and Prejudice" is significant in its portrayal of early 19th-century England's societal norms and values, particularly regarding gender roles, social hierarchy, and marriage. The novel challenges these societal expectations through its strong, intelligent female protagonist, Elizabeth Bennet, and her relationships with the characters in the story. Moreover, Jane Austen's sharp wit and eloquent writing established her as a gifted literary figure in a time when female authors were uncommon.

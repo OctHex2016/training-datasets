@@ -1,0 +1,135 @@
+4. Instruction: Determine which profession would be best suited for this person based on their characteristics.
+4. Input: 
+Detail-oriented, patient, empathetic, teamwork, strong interpersonal skills
+4. Output: 
+Psychotherapist or social worker
+
+5. Instruction: Outline a simple morning workout routine.
+5. Input: 
+<noinput>
+5. Output: 
+1. 5-minute dynamic stretching.
+2. 3 sets of 10 push-ups.
+3. 3 sets of 20 bodyweight squats.
+4. 3 sets of 20 bicycle crunches.
+5. 2-minute plank.
+
+6. Instruction: Correct any grammar errors in the given text.
+6. Input: 
+This is the first sentence. I am an Apple. She is looseing wight, therefor the dress have been to big on her. The caar wont start!
+6. Output: 
+This is the first sentence. I am an apple. She is losing weight; therefore, the dress has been too big on her. The car won't start!
+
+7. Instruction: Which country should this person visit on their next holiday based on their preferences?
+7. Input: 
+Loves history, ancient architecture, mild weather, and authentic Mediterranean cuisine.
+7. Output: 
+Italy
+
+8. Instruction: Write a short story synopsis based on the provided prompt.
+8. Input: 
+A time traveler discovers a secret society in the 16th century.
+8. Output: 
+In 2540, an intrepid time traveler, Samantha, stumbles upon a hidden society in the 16th century. As she investigates their clandestine activities, she uncovers shocking truths with implications that span centuries. Plunged into a dangerous game of deception, Samantha must unmask the society's intentions, bridge the gap between eras, and expose their dark secrets to preserve the timeline and safeguard the future.
+
+9. Instruction: Summarize the plot of "The Lion King" in four sentences.
+9. Input: 
+<noinput>
+9. Output: 
+Simba, a young lion cub and heir to the throne, is tricked by his uncle Scar into believing he caused the death of his father, Mufasa. Fleeing the Pride Lands in shame, Simba befriends the wise-cracking duo of Timon, a meerkat, and Pumbaa, a warthog. The grown Simba reclaims his place as king of the Pride Lands after learning valuable lessons in responsibility and courage. Simba defeats Scar and restores balance to the land, ensuring the circle of life continues.
+
+10. Instruction: Provide a piece of advice for managing time effectively.
+10. Input: 
+<noinput>
+10. Output: 
+Prioritize tasks based on their importance and urgency, and allocate time for regular breaks to maintain focus and productivity.
+
+11. Instruction: Describe a simple vegan recipe for lunch.
+11. Input: 
+<noinput>
+11. Output: 
+Vegan Chickpea Salad Sandwich:
+1. Mash one can of chickpeas in a bowl.
+2. Add ¼ cup vegan mayonnaise, 1 tablespoon mustard, ½ teaspoon paprika, salt, and pepper to taste.
+3. Stir in ¼ cup finely chopped celery and 2 tablespoons chopped red onion.
+4. Mix until well combined.
+5. Spread the chickpea salad mixture on whole wheat bread, add lettuce and tomato, and enjoy!
+
+12. Instruction: What kind of plant is best for a small apartment with limited sunlight?
+12. Input: 
+<noinput>
+12. Output: 
+Snake plant (Sansevieria)
+
+13. Instruction: Paraphrase the given quote: "Success is not final, failure is not fatal: it is the courage to continue that counts."
+13. Input:
+<noinput>
+13. Output: 
+Achievement isn't permanent and defeat isn't deadly; the determination to keep going is what truly matters.
+
+14. Instruction: Analyze the tone of the following text.
+14. Input:
+"It was an absolutely dreadful day. The storm had been brewing all morning, and by noon it let loose a torrent of rain."
+14. Output:
+Gloomy and ominous
+
+15. Instruction: Write a poem about the nighttime sky.
+15. Input:
+<noinput>
+15. Output:
+Shimmering veil of night unfurls,
+To trace the heavens, silver swirls.
+A starlit canvas whispers dreams,
+Of realms unseen, in darkness gleams.
+
+Moon's tender glow, a beacon bright,
+Guides longing hearts through endless night,
+While far-off worlds unravel tales,
+In cosmic dance, the sky unveils.
+
+Eternal waltz, nocturnal show,
+The galaxies in harmony flow,
+In twilight's hush, the whispers cease,
+Beneath the heavens, we find our peace.
+
+16. Instruction: What musical genre does this song belong to based on its characteristics?
+16. Input: 
+High energy, strong bassline, up-tempo beats, electronic elements
+16. Output: 
+Electronic Dance Music (EDM)
+
+17. Instruction: Provide dietary recommendations for someone with high cholesterol.
+17. Input:
+<noinput>
+17. Output: 
+Limit saturated and trans fats, increase intake of fiber-rich foods, consume lean protein sources, and eat plenty of fruits and vegetables.
+
+18. Instruction: Write a brief, professional email requesting a meeting.
+18. Input:
+<noinput>
+18. Output:
+Subject: Meeting Request
+
+Dear [Recipient's Name],
+
+I hope this message finds you well. I would like to discuss [topic of discussion] with you and was wondering if we could schedule a brief meeting at your earliest convenience.
+
+Please let me know your availability, and I will arrange a suitable time for both of us. If you have any questions or require additional information, feel free to reach out.
+
+Looking forward to our discussion.
+
+Best regards,
+
+[Your Name]
+
+19. Instruction: Which sport would this person most likely enjoy based on their attributes?
+19. Input: 
+A team player, good hand-eye coordination, strategic thinking, endurance.
+19. Output: 
+Basketball
+
+20. Instruction: Convert the given phrase from passive voice to active voice.
+20. Input: 
+The cat was chased by the dog.
+20. Output: 
+The dog chased the cat.

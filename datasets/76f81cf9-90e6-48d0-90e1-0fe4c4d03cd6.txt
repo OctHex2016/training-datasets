@@ -1,0 +1,110 @@
+4. Instruction: Determine the main idea of the following passage.
+4. Input: 
+With the advent of technology, society has witnessed a significant transformation in the way we communicate, work, and live our lives. The massive growth in the use of smartphones and other portable devices has enabled us to accomplish a wide range of tasks and obtain information easily. This has fostered greater independence and convenience for users, as well as improved efficiency.
+4. Output: 
+The main idea of the passage is the significant impact of technology on society, particularly in communication, work, and daily life, by providing greater convenience, efficiency, and independence.
+
+5. Instruction: Please rewrite the following sentence with passive voice.
+5. Input: 
+The workers completed the project ahead of schedule.
+5. Output: 
+The project was completed ahead of schedule by the workers.
+
+6. Instruction: Identify the grammatical error in the following sentence.
+6. Input: 
+Neither the students nor the teacher was aware of the fire drill.
+6. Output: 
+No error.
+
+7. Instruction: List three benefits and three drawbacks of using public transportation.
+7. Input: 
+<noinput>
+7. Output: 
+Benefits: 1. Reduced air pollution, 2. Reduced traffic congestion, 3. Cost-effective.
+
+Drawbacks: 1. Limited schedules and routes, 2. Overcrowding, 3. Lack of privacy.
+
+8. Instruction: Find the adjective(s) in this sentence.
+8. Input: 
+She painted the tiny room a bright yellow.
+8. Output: 
+tiny, bright
+
+9. Instruction: Given a scenario, provide a suitable idiom to describe the situation.
+9. Input: 
+John studied all night for the exam, but he still failed.
+9. Output: 
+John hit a dead end despite his efforts.
+
+10. Instruction: Translate the following sentence into Spanish.
+10. Input: 
+I would like to buy a cup of coffee, please.
+10. Output: 
+Me gustaría comprar una taza de café, por favor.
+
+11. Instruction: Summarize the main points of this text.
+11. Input: 
+Online learning has gained popularity in recent years, providing students across the globe with greater access to education. Students can pursue their desired courses from renowned institutions without having to travel and incur costly expenses. Moreover, flexible scheduling allows them to participate in lessons and assignments according to their convenience. However, not all students thrive in an online environment, as it requires self-discipline and effective time management skills. Plus, face-to-face interaction and hands-on learning opportunities might be limited, potentially hindering collaboration and practical skill development.
+11. Output: 
+Online learning provides easy access to education from renowned institutions, offers flexible scheduling, and eliminates the need for travel. However, it requires self-discipline, time management skills, and might limit face-to-face interaction and hands-on learning opportunities.
+
+12. Instruction: Identify the author's purpose in the given excerpt.
+12. Input: 
+April is the cruelest month, breeding lilacs out of the dead land, mixing memory and desire, stirring dull roots with spring rain.
+
+- T.S. Eliot, "The Waste Land"
+12. Output: 
+The author's purpose in this excerpt is to convey a vivid and evocative image of the contrast between the renewal of spring and the death and decay that still linger.
+
+13. Instruction: Write an acrostic poem using the word "FRIEND."
+13. Input: 
+<noinput>
+13. Output: 
+Faithful in times of triumph and trial,
+Radiating warmth across the miles,
+Inspiring, supportive, and kind,
+Endlessly there, our hearts intertwined,
+Nurturing hope when the path seems unclear,
+Dedicated companion, forever near.
+
+14. Instruction: Propose a suitable title for the following article.
+14. Input: 
+This article discusses the great strides achieved in artificial intelligence, including machine learning, natural language processing, and robotics. Furthermore, it delves into the ethical implications, potential consequences, and the need for responsible development within the field.
+14. Output: 
+The Future of Artificial Intelligence: Achievements, Ethics, and Responsible Development
+
+15. Instruction: Name the type of logical fallacy in this argument.
+15. Input: 
+"Thousands of people have tried this weight loss product and claim that it works. Therefore, it must be effective."
+15. Output: 
+Appeal to popularity
+
+16. Instruction: Suggest a solution to the following problem.
+16. Input: 
+Jamie is struggling to manage her time effectively as she is overwhelmed with both work and personal commitments.
+16. Output: 
+Jamie can try using time management techniques such as prioritizing tasks, organizing her schedule, setting goals, and learning to delegate or ask for help when needed.
+
+17. Instruction: Determine if the given statement is an opinion or a fact.
+17. Input: 
+Water boils at 100 degrees Celsius.
+17. Output: 
+Fact
+
+18. Instruction: How many syllables are present in the word "organization"?
+18. Input: 
+<noinput>
+18. Output: 
+5
+
+19. Instruction: Name two major causes of deforestation.
+19. Input: 
+<noinput>
+19. Output: 
+1. Agricultural expansion, 2. Logging and timber extraction
+
+20. Instruction: Evaluate the following argument: "I am not surprised Mark got promoted. He is the boss's nephew."
+20. Input: 
+<noinput>
+20. Output: 
+The argument makes an assumption that Mark's promotion is solely based on nepotism, disregarding other factors like skills, qualifications, or performance. Therefore, it is a flawed and biased evaluation.

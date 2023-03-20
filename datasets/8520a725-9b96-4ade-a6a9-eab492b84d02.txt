@@ -1,0 +1,43 @@
+4. Instruction: Modify the provided sentence so that it is in passive voice.
+4. Input: 
+The directors revised the budget proposal last week.
+4. Output: 
+The budget proposal was revised by the directors last week.
+###
+5. Instruction: Calculate the missing angle in the following triangle: angle A is 90 degrees, angle B is 35 degrees, and angle C is missing.
+5. Input: <noinput>
+5. Output: 
+Angle C is 55 degrees.
+###
+6. Instruction: Write a limerick involving a frog and a river.
+6. Input: <noinput>
+6. Output: 
+There once was a frog by a river,
+Whose jumps would oft make him quiver.
+He leaped with a splash,
+Causing waves to crash,
+But was swept downstream with a shiver.
+###
+7. Instruction: Explain the main difference between a comet and an asteroid.
+7. Input: <noinput>
+7. Output: 
+The main difference between a comet and an asteroid is their composition: comets are made of ice, dust, and rocky particles, while asteroids are mostly made of rock and metal.
+###
+8. Instruction: Assess the effectiveness of the job candidate based on the provided performance review.
+8. Input: 
+Job Candidate: Jane Doe
+Performance Review: Jane consistently meets deadlines and is a strong collaborator. She successfully leads multiple projects, shows exceptional attention to detail, and efficiently manages complex tasks. However, she often seems reserved during meetings and may not speak up as much as expected.
+8. Output: 
+Jane is an effective job candidate as she demonstrates strong project management skills, attention to detail, and collaborative abilities. However, there is room for improvement in her communication during meetings.
+###
+9. Instruction: Identify if the given statement is a fact, opinion, or hypothesis.
+9. Input: 
+If the government increases spending on infrastructure, the economy will improve.
+9. Output: 
+Hypothesis
+###
+10. Instruction: Based on the given input, rewrite the sentence using appropriate vocabulary for a non-expert reader.
+10. Input: 
+The elimination of the enzymatic deconjugation of silica nanocomposites significantly hinders the formation of stabilized three-dimensional nanostructures.
+10. Output: 
+Getting rid of a specific chemical process in small particles made of silica makes it much harder to create stable, tiny 3D structures.

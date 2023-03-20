@@ -1,0 +1,108 @@
+4. Instruction: Rewrite the given sentence in the passive voice.
+4. Input: 
+John ate the entire pizza.
+4. Output: 
+The entire pizza was eaten by John. 
+###
+5. Instruction: Given a paragraph make it more concise. 
+5. Input: 
+While she was running her first marathon, Julie couldn't help but feel overwhelmed by the intensity of the experience, despite months of practicing and running several half-marathons before. She realized that running a marathon is not just a physical feat but also requires mental strength and endurance. This realization made her more determined than ever to finish the race even if it meant slowing down her pace.
+5. Output: 
+Julie was overwhelmed during her first marathon but determined to finish, despite the mental and physical challenges.
+###
+6. Instruction: Given a sentence, change it to a negative statement. 
+6. Input: 
+Mark likes cats.
+6. Output: 
+Mark does not like cats. 
+###
+7. Instruction: Explain a complex scientific concept in simple terms.
+7. Input: 
+Quantum mechanics
+7. Output: 
+Quantum mechanics is the science of studying really small things like atoms, electrons, and photons. It helps us understand how these things behave and interact with each other, and its principles are used in technology like lasers and computers.
+###
+8. Instruction: Given a list of ingredients, write out the steps for making a dish.
+8. Input: 
+Ingredients: 
+1 pound of pasta
+1 jar of marinara sauce
+1/2 cup of grated parmesan cheese
+Steps: 
+8. Output: 
+Cook the pasta until it is al dente, then drain it. Heat up the marinara sauce in a separate pan. Combine the pasta and sauce, then top off with grated parmesan cheese. Enjoy!
+###
+9. Instruction: Write a short story using the given prompt.
+9. Input: 
+Prompt: An astronaut on a solo mission to space discovers a mysterious object floating. 
+9. Output: 
+As the astronaut's heart raced, she examined the peculiar object that had abruptly come into view. Was it a piece of debris or a foreign spacecraft? As she investigated further, she sensed an unexpected tension in the air. Suddenly, the object's shiny surface opened up, and a small creature emerged, wearing some kind of space suit, and began to communicate in an alien language. 
+###
+10. Instruction: Explain the meaning of a complex word.
+10. Input: 
+Epistemology
+10. Output: 
+Epistemology is the study of knowledge and belief, and how we come to know what we know. It looks at how people acquire new information and understand it, and how we evaluate that information to form beliefs and make decisions.
+### 
+11. Instruction: Given a question, provide a well-researched answer. 
+11. Input: 
+Question: What is the best treatment for migraine headaches?
+11. Output: 
+There are several common treatments for migraines, including medication, relaxation techniques, and changes in daily habits. For most people, medication is the most effective treatment option, and there are several different types of drugs that can help treat the symptoms of migraines. However, some people may find that relaxation techniques like massage or yoga can help reduce the frequency and severity of migraines. Additionally, making lifestyle changes like avoiding triggers such as caffeine, bright lights or certain foods, can also help prevent migraines. It is important to speak to a healthcare professional before starting any treatment plan.
+###
+12. Instruction: Given a set of data, categorize them according to a specific characteristic.
+12. Input: 
+List of cars: 
+Toyota Camry, Honda Accord, Ford Focus, Chevrolet Malibu, Tesla Model S
+12. Output: 
+Categorization by fuel type: 
+Gasoline powered cars: Toyota Camry, Honda Accord, Ford Focus, Chevrolet Malibu.
+Electric car: Tesla Model S
+###
+13. Instruction: Given a sentence, write a short paragraph that elaborates and explains the idea.
+13. Input: 
+Sentence: The book is better than the movie.
+13. Output: 
+The reason I think the book version is always better than the movie is because it allows the author to describe their vision in great detail without any outside influence. In contrast, movies can be limited in their portrayal of the story, causing people to miss out on some of the most beautiful and profound aspects of the book. For instance, written works allow readers to imagine possible outcomes and envision characters in ways that may be different from the film adaptation. With a book, readers are free to explore their own perspectives, which makes the reading experience much more gratifying than watching a movie depiction.
+###
+14. Instruction: Evaluate a question and provide an appropriate response.
+14. Input: 
+Question: Can you make me a sandwich?
+14. Output: 
+I'm sorry, but as a language model, I do not have the capability to make sandwiches or any physical object, but I'm happy to assist you in any way that I can with your writing or research needs.
+###
+15. Instruction: Given a short passage, make a summary of it.
+15. Input: 
+Passage: During World War II, women worked in factories producing munitions, building ships, and airplanes. They became known as "Rosie the Riveter". One campaign that encouraged women entered the workforce and changed the dominant societal norms was America's federal government's "Women in War Jobs" incentive, which led to the hiring of nearly 6 million women during the war.
+15. Output: 
+During WWII, the US government encouraged women to work, which led to nearly 6 million women entering the workforce. These women worked in factories producing munitions, building ships and airplanes, and became known as "Rosie the Riveter".
+###
+16. Instruction: Given a sentence, rewrite it in a completely different structure.
+16. Input: 
+Nick set up the tent before the sun went down.
+16. Output: 
+Before the sun went down, the tent was already set up by Nick.
+###
+17. Instruction: Given a phrase, write a sentence using it as a metaphor.
+17. Input: 
+Phrase: Life is like a box of chocolates.
+17. Output: 
+Just like how opening a box of chocolates is exciting and unpredictable, so is living your life, as life unfolds presents of opportunities and challenges that we must take and overcome each time. 
+###
+18. Instruction: Given a paragraph, identify the main idea.
+18. Input: 
+Paragraph: The internet is a complex and constantly evolving platform that has changed the way humans interact with computers and other devices. From the early days of dial-up connections to modern broadband networks, the internet has grown exponentially in just a few decades. It has brought about email, e-commerce, social media, mobile technologies, and many other innovations that have had a profound impact on our daily lives.
+18. Output: 
+The main idea of the paragraph is to illustrate the growth and the impact of the internet on our daily lives by introducing some of its many remarkable inventions, both in networking technology and in online applications. 
+###
+19. Instruction: Paraphrase the given sentence so that it sounds more formal.
+19. Input: 
+The professor is a really cool guy.
+19. Output: 
+The lecturer is a highly agreeable and respectable individual. 
+###
+20. Instruction: Given a question, provide a short answer that narrows down specific information.
+20. Input: 
+Question: What are the most common symptoms of COVID-19?
+20. Output: 
+Some of the most common symptoms of COVID-19 include fever, dry cough, and tiredness. In more severe cases, patients may experience difficulty breathing or shortness of breath, chest pain, or loss of speech or movement. If you experience any of these symptoms, it is recommended that you contact a healthcare professional.

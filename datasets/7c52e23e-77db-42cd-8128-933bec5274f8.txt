@@ -1,0 +1,52 @@
+4. Instruction: Summarize the main idea of an article.
+4. Input: 
+At its annual conference, the International Society of Sleep Medicine (ISSM) presented a new study that suggests an interesting relationship between artificial illumination and health. The research indicates that exposure to blue light emitted by electronic screens—such as smartphones, tablets, and laptops—at night has a direct impact on human sleep quality.
+
+Over 500 participants filled out questionnaires about their exposure to electronic devices and their sleeping habits. Sleep quality was then assessed using the Pittsburgh Sleep Quality Index (PSQI), which measures several factors, including sleep onset latency, total sleep time, sleep efficiency, and daytime dysfunction.
+
+A deep association between exposure to artificial blue-rich light at night and the prevalence of sleep disturbances was revealed. Based on these observations, the ISSM declared that limiting exposure to artificial blue light at night could lead to improved sleep and overall health.
+
+4. Output: 
+A study presented by the International Society of Sleep Medicine indicates an association between nighttime exposure to artificial blue light from electronic screens and sleep quality. Limiting exposure to blue light at night may lead to better sleep and overall health.
+
+5. Instruction: Translate the given sentence into French.
+5. Input: 
+She ran through the fields, laughing in the sun.
+5. Output: 
+Elle a couru à travers les champs, riant au soleil.
+
+6. Instruction: List five positive effects of exercise on mental health.
+6. Input: 
+<noinput>
+6. Output: 
+1. Reduces stress
+2. Boosts self-confidence
+3. Improves mood and mental well-being 
+4. Enhances cognitive function and memory
+5. Alleviates anxiety and depression
+
+7. Instruction: Create a title for an article about adopting a zero-waste lifestyle.
+7. Input: 
+<noinput>
+7. Output: 
+"Embracing Sustainability: Your Guide to a Zero-Waste Lifestyle."
+
+8. Instruction: Which emotion is most strongly conveyed in the given text?
+8. Input:
+Suddenly, her heart raced as her stomach tightened. Her palms were sweating, and her breaths were short and shallow. It seemed impossible to regain control.
+8. Output:
+Fear
+
+9. Instruction: List three questions for a product review of a vacuum cleaner.
+9. Input:
+<noinput>
+9. Output:
+1. How efficient is the vacuum cleaner in picking up dirt, dust, and pet hair?
+2. How easy is it to maneuver and navigate around furniture?
+3. Does the vacuum cleaner have any additional attachments or features for specific cleaning needs?
+
+10. Instruction: Compare and contrast the main ideas of the two ideologies provided.
+10. Input:
+Capitalism and socialism
+10. Output:
+Capitalism focuses on individual property rights, free markets, and market competition, which leads to wealth accumulation for those who can effectively compete. In contrast, socialism emphasizes collective ownership, worker control, and wealth redistribution to achieve social equality and public welfare.

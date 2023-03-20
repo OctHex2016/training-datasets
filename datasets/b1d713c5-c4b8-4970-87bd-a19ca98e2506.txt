@@ -1,0 +1,114 @@
+4. Instruction: Compose an opening sentence for an email explaining a technical issue you encountered.
+4. Input: 
+<noinput>
+4. Output: 
+I hope this email finds you well; I am reaching out to report an issue I encountered while using the software and to seek your assistance in resolving it.
+###
+5. Instruction: Describe how to make a simple guacamole in 5 steps.
+5. Input: 
+<noinput>
+5. Output: 
+1. Gather the necessary ingredients: ripe avocados, a lime, a small red onion, a clove of garlic, a ripe tomato, fresh cilantro, and salt.
+2. Cut the avocados in half, remove the pits, and scoop out the flesh into a mixing bowl.
+3. Finely chop the red onion, garlic, and cilantro, then dice the tomato.
+4. Add the chopped ingredients to the mixing bowl with the avocado, squeeze the lime juice over the mixture, and season with salt to taste.
+5. Combine everything by mashing the avocado and mixing the ingredients together until you achieve your desired consistency.
+###
+6. Instruction: Identify any suspicious activities in the given text, if any.
+6. Input: 
+Karen visited the bank twice in the same day, first at 9:30 am and later at 3:45 pm. Later that evening, she transferred $10,000 to John's account, which seemed to have been recently created. John then transferred half of that amount to an overseas account.
+6. Output: 
+The suspicious activities in the text include Karen visiting the bank twice in the same day, transferring a sizable amount of $10,000 to a recently created account, and John transferring half of the received amount to an overseas account.
+###
+7. Instruction: Rewrite the following text to correct any grammatical or spelling errors, and improve clarity.
+7. Input: 
+Whiles it is importanth to remember the rooles about unpluging electrial equipment, wen we are nott using them, it can alsoo create problems. If you constantly unplugged and re-plug electronics, it will wear down thee connectors and lead to damage.
+7. Output: 
+While it is important to remember the rules about unplugging electrical equipment when we are not using them, it can also create problems. If you constantly unplug and re-plug electronics, it will wear down the connectors and lead to damage.
+###
+8. Instruction: Choose a fitting match for the idiom "Barking up the wrong tree" and provide an explanation.
+8. Input: 
+<noinput>
+8. Output: 
+The idiom "Barking up the wrong tree" is most similar in meaning to the phrase "Being on the wrong track." Both expressions refer to making a mistake, pursuing a false idea or belief, or accusing the wrong person. This implies that the individual engaged in the activity is not likely to achieve the desired results due to following an incorrect course of action.
+###
+9. Instruction: Evaluate the following statement: "Turtles are mammals because they have a hard outer shell."
+9. Input: 
+<noinput>
+9. Output: 
+The statement is incorrect. Turtles are not mammals; they are reptiles. The classification of an animal as a mammal is not determined by having a hard outer shell but rather by attributes such as having hair or fur, giving birth to live young, and producing milk for nourishment. Turtles possess a hard shell and lay eggs, which are characteristics of reptiles rather than mammals.
+###
+10. Instruction: Determine whether the following scenario is a chemical change or a physical change: Ice melts and becomes water.
+10. Input: 
+<noinput>
+10. Output: 
+The scenario is a physical change. When ice melts and becomes water, it undergoes a change in state from solid to liquid; however, the chemical composition of the substance remains the same (H2O).
+###
+11. Instruction: Given the statement, paraphrase it to convey the same meaning in a different way.
+11. Input: 
+Further developments made to the project were a result of the feedback received from the clients.
+11. Output: 
+Improvements to the project came about due to the client feedback received.
+###
+12. Instruction: Convert the following recipe's ingredient list into a shopping list format.
+12. Input: 
+For the cake: 
+1 1/2 cups sugar
+3/4 cup unsalted butter, softened
+3 eggs
+5 tablespoons cocoa powder
+1 1/2 teaspoons baking soda
+1 1/2 teaspoons baking powder
+1/4 teaspoon salt
+2 cups all-purpose flour
+
+For the frosting: 
+4 cups powdered sugar
+1 cup unsalted butter, softened
+1/4 cup heavy cream
+1 teaspoon vanilla extract
+12. Output: 
+- 1 1/2 cups sugar
+- 3/4 cup unsalted butter, softened (for the cake)
+- 3 eggs
+- 5 tablespoons cocoa powder
+- 1 1/2 teaspoons baking soda
+- 1 1/2 teaspoons baking powder
+- 1/4 teaspoon salt
+- 2 cups all-purpose flour
+- 4 cups powdered sugar (for the frosting)
+- 1 cup unsalted butter, softened (for the frosting)
+- 1/4 cup heavy cream
+- 1 teaspoon vanilla extract
+###
+13. Instruction: Name five things to consider when choosing a new laptop.
+13. Input: 
+<noinput>
+13. Output: 
+1. Performance: Assess the processor speed, RAM, and storage capacity based on your needs.
+2. Battery life: Consider laptops with longer battery life if you plan to use it on-the-go.
+3. Display: Think about screen resolution, size, and quality for your convenience and comfort.
+4. Portability: Choose the right balance between weight and size according to how often you'll be carrying it.
+5. Budget: Set a price range and compare laptops within that range to find the best value for your money. 
+###
+14. Instruction: Summarize the following paragraph in one sentence.
+14. Input: 
+During a total solar eclipse, the Moon moves between Earth and the Sun, blocking the sunlight and casting a shadow on the Earth's surface. The area where the darkest part of the shadow (the umbra) falls is where the total solar eclipse is visible. Observing a total solar eclipse is a rare and awe-inspiring experience because the Moon's orbit is tilted at an angle to the Earth's orbit, which means that total solar eclipses don't happen very often.
+14. Output: 
+A total solar eclipse, a rare celestial phenomenon, occurs when the Moon moves between Earth and the Sun, blocking sunlight and casting the darkest shadow on Earth's surface.
+###
+15. Instruction: Brainstorm three ways in which a local library can raise funds for a new children's section.
+15. Input: 
+<noinput>
+15. Output: 
+1. Organize a fundraising event like a book sale, offering donated books at discounted prices to patrons.
+2. Host a fun-filled family event with activities such as storytelling sessions, face painting, and crafts, charging a small entrance fee.
+3. Launch a crowdfunding campaign online, allowing the community to contribute towards the new children's section.
+###
+16. Instruction: State three positive effects of social media on individuals and society.
+16. Input: 
+<noinput>
+16. Output: 
+1. Improved communication: Social media enables people to easily connect with each other, fostering relationships and sharing information.
+2. Access to information: Social media platforms serve as sources of real-time news and updates, keeping users informed of current events.
+3. Community building: Social media aids in creating communities where individuals with similar interests can collaborate, discuss, and support each other.

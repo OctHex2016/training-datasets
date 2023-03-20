@@ -1,0 +1,105 @@
+4. Instruction: Summarize the main points of the given article. 
+4. Input: 
+https://www.nytimes.com/2021/10/31/world/europe/spain-far-right-party-security-law.html
+4. Output: 
+Sorry, this task involves accessing external sources and extracting information from a specific article. Due to privacy and ethical concerns, we cannot complete this task.
+###
+5. Instruction: Convert the given JSON object into a Python dictionary. 
+5. Input: 
+{
+    "name": "John",
+    "age": 30,
+    "city": "New York"
+}
+5. Output: 
+{'name': 'John', 'age': 30, 'city': 'New York'}
+###
+6. Instruction: Generate the next sentence given the input sentence. 
+6. Input: 
+I love eating sushi.
+6. Output: 
+My favorite sushi restaurant is always packed on weekends. 
+###
+7. Instruction: Find synonyms for the word "intelligent". 
+7. Input: 
+intelligent
+7. Output: 
+bright, smart, clever, brilliant, adept
+###
+8. Instruction: Rewrite the sentence using passive voice. 
+8. Input: 
+The cat chased the mouse.
+8. Output: 
+The mouse was chased by the cat. 
+###
+9. Instruction: What is the length of the longest river in the world? 
+9. Input: 
+<noinput>
+9. Output: 
+The longest river in the world is the Nile River, which is approximately 4,130 miles long. 
+###
+10. Instruction: What's the origin of the word 'butterfly'? 
+10. Input: 
+<noinput>
+10. Output: 
+The origin of the word 'butterfly' comes from the Old English word 'buttorfleoge', which means 'butterfly'. 
+###
+11. Instruction: Convert kilometer per hour (km/h) into meters per second (m/s). 
+11. Input: 
+30 km/h
+11. Output: 
+8.33 m/s
+###
+12. Instruction: What is the capital of Chile? 
+12. Input: 
+<noinput>
+12. Output: 
+The capital of Chile is Santiago. 
+###
+13. Instruction: Rearrange the words in the sentence to form a grammatically correct statement. 
+13. Input: 
+crazy like reading Alice's books she is adventures
+13. Output: 
+She is crazy about reading Alice's adventures books. 
+###
+14. Instruction: Given a number, return the factored form of the number. 
+14. Input: 
+90
+14. Output: 
+2 x 3 x 3 x 5 
+###
+15. Instruction: Find the synonym for the word 'fortuitous'. 
+15. Input: 
+fortuitous
+15. Output: 
+serendipitous, lucky, opportunistic, fortunate, chance
+###
+16. Instruction: Rewrite the sentence as an affirmative statement. 
+16. Input: 
+Didn't you see the movie yet?
+16. Output: 
+You have seen the movie, haven't you? 
+###
+17. Instruction: Generate a sentence using the word 'mesmerizing'. 
+17. Input: 
+mesmerizing
+17. Output: 
+The painting was mesmerizing, with its vibrant colors and intricate details. 
+###
+18. Instruction: What is the square root of 25? 
+18. Input: 
+<noinput>
+18. Output: 
+The square root of 25 is 5. 
+###
+19. Instruction: Remove all the duplicates in the given list. 
+19. Input: 
+[1, 2, 2, 3, 4, 5, 5, 5]
+19. Output: 
+[1, 2, 3, 4, 5]
+###
+20. Instruction: Convert the given Celsius temperature into Fahrenheit. 
+20. Input: 
+30 degrees Celsius
+20. Output: 
+86 degrees Fahrenheit.

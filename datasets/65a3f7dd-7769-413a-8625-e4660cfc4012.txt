@@ -1,0 +1,141 @@
+4. Instruction: Explain how to make a classic Margherita pizza. 
+4. Input: 
+Ingredients: 
+- 1 ball of pizza dough
+- 1/2 cup tomato sauce
+- 4 ounces fresh mozzarella cheese
+- Fresh basil leaves
+4. Output: 
+Preheat the oven to 425 degrees Fahrenheit. Roll out the pizza dough and transfer it to a baking sheet. Spread the tomato sauce on the dough, leaving some room around the edges for the crust. Bake for 10 minutes. Remove from the oven and add the mozzarella cheese. Bake for another 5-7 minutes or until the cheese is melted and bubbly. Garnish with fresh basil leaves before serving. Enjoy!
+###
+5. Instruction: Generate a creative title for a romantic novel. 
+5. Input: 
+<noinput>
+5. Output: 
+"Whispers In The Wind"
+###
+6. Instruction: Rewrite this sentence to be in the active voice: "The cake was baked by John." 
+6. Input: 
+<noinput>
+6. Output: 
+John baked the cake.
+###
+7. Instruction: Tell me a joke. 
+7. Input: 
+<noinput>
+7. Output: 
+What do you call a fake noodle? An impasta.
+###
+8. Instruction: Summarize the plot of the movie Inception. 
+8. Input: 
+<noinput>
+8. Output: 
+In Inception, a thief is hired to plant an idea in someone's subconscious using dream-sharing technology. The film follows his team's journey through multiple levels of dreams to achieve their mission, while facing challenges from their own subconscious minds and a relentless antagonist.
+###
+9. Instruction: Write a tweet to promote a new skincare product. 
+9. Input: 
+Name of product: Glow Getter Serum 
+9. Output: 
+"Get ready to glow like never before! Our new Glow Getter Serum is a game changer for your skincare routine. Say goodbye to dull, tired skin and hello to a radiant glow that lasts all day. #GlowGetter #Skincare"
+###
+10. Instruction: Explain the concept of supply and demand in economics. 
+10. Input: 
+<noinput>
+10. Output: 
+Supply and demand is a fundamental concept in economics where the price and quantity of a product are determined by the interaction between buyers and sellers. When demand is high for a product, but the supply is low, the price will naturally increase. Conversely, when supply is high, but demand is low, the price will decrease.
+###
+11. Instruction: Write a product description for a new fitness tracker. 
+11. Input: 
+Name of product: MoveMore Tracker 
+11. Output: 
+The MoveMore Tracker is the ultimate fitness companion, designed to help you achieve your fitness goals quickly and easily. With features like real-time heart rate monitoring, step tracking, sleep tracking, and calorie counting, you'll know exactly how much progress you're making every step of the way. Plus, its sleek and lightweight design makes it the perfect accessory for any workout. Stay motivated, stay on track, and MoveMore with the MoveMore Tracker.
+###
+12. Instruction: Describe the steps to change a car tire. 
+12. Input: 
+<noinput>
+12. Output: 
+First, find a safe location to change the tire and apply the parking brake. Use the lug wrench to loosen the lug nuts, but do not remove them yet. Use the jack to lift the car until the tire is off the ground. Remove the lug nuts and the flat tire. Place the spare tire onto the lug bolts and hand tighten the lug nuts. Lower the car back down to the ground and tighten the lug nuts with the wrench. Check the spare tire's pressure and get the flat tire repaired.
+###
+13. Instruction: Explain the rules of the card game, Go Fish. 
+13. Input: 
+<noinput>
+13. Output: 
+Go Fish is a simple card game played with a standard deck. The goal is to collect as many matching pairs of cards as possible. To start, each player is dealt 5 cards. Players take turns asking each other if they have a particular rank of card (e.g. "Do you have any 5's?"). If the player asks for a card and the other player has it they must give it to them. If a player collects a pair, they lay it down and get another turn. If the player asks for a card that the other player doesn't have, THEY "go fish" and draw a card from the deck. The game ends when all pairs have been collected and the player with the most pairs wins.
+###
+14. Instruction: Write a persuasive paragraph about why people should adopt pets from animal shelters. 
+14. Input: 
+<noinput>
+14. Output: 
+Adopting a pet from an animal shelter is one of the most humane and rewarding things a person can do. By doing so, you are not only providing a loving home for an animal in need, but also helping to reduce the number of animals in shelters. Moreover, when you adopt a pet from a shelter, it is typically already spayed/neutered, vaccinated and microchipped, saving you lots of money in the long run. Finally, adopting a pet leads to a lifetime of companionship, love and memories - a priceless investment that we all need in our lives.
+###
+15. Instruction: Write a business memo to your team asking for volunteers for a charity event. 
+15. Input: 
+<noinput>
+15. Output: 
+To: [Team Name]
+From: [Your Name], [Position]
+Subject: [Charity Event]
+
+Dear colleagues,
+
+It is with great pleasure that I invite all of you to participate in the upcoming charity event that our company will be hosting. The event will take place on [Date], and all proceeds will go towards [Cause].
+
+We are looking for volunteers to help us make this event a success. The various roles available include event planning, setup,, registration and more. Volunteering at this event is not only a great opportunity to give back to our community, but also a chance to work together towards a common goal outside of the workplace.
+
+We would like to encourage as many team members as possible to volunteer their time and expertise for this worthy event. Please contact me directly if you are interested in volunteering, or if you have any questions about the event.
+
+Thank you.
+
+Sincerely,
+[Your Name] 
+###
+16. Instruction: Write an informative news article about a new scientific discovery. 
+16. Input: 
+Discovery: Scientists discover a new planet outside of our solar system that may be hospitable to life.
+16. Output: 
+In a groundbreaking discovery, scientists have found a new exoplanet that may have conditions suitable for life to exist. The planet, named "Kepler-186f", was discovered by astronomers using NASA's Kepler spacecraft. It is located 490 light-years away from Earth and is roughly the same size as our planet. Kepler-186f is also located in the "habitable zone" of its star, where temperatures are not too hot, nor too cold - making it an ideal candidate for supporting life. While more research is needed to confirm whether the planet hosts life, the discovery is a major step forward in our understanding of the potential for life beyond our solar system.
+###
+17. Instruction: Edit this sentence to correct any grammar errors: "The cat chased it's toy across the yard." 
+17. Input: 
+<noinput>
+17. Output: 
+The cat chased its toy across the yard.
+###
+18. Instruction: Write a personal statement for a job application. 
+18. Input: 
+<noinput>
+18. Output: 
+Dear [Hiring Manager],
+
+I am excited to submit my application for the [Position] role at [Company Name]. As a highly skilled [field] professional with [number] years of experience in the industry, I am confident that I would make a valuable addition to your team.
+
+Throughout my career, I have cultivated a diverse skill set, including [Skill 1], [Skill 2], and [Skill 3], which I believe would allow me to excel in this position. I have a proven track record of delivering results, as evidenced by my success in [specific accomplishment].
+
+Overall, I am eager for the opportunity to contribute my expertise and passion to [Company Name], and I am confident that I can help drive the company forward. Thank you for your consideration.
+
+Sincerely,
+[Your Name]
+###
+19. Instruction: Write a letter of recommendation for a colleague. 
+19. Input: 
+Colleague's name: [Name]
+Position: [Position]
+19. Output: 
+Dear [Recipient],
+
+I am writing to wholeheartedly recommend [Name] for [Position]. Over the years, I have had the pleasure of working with [Name] in a number of roles, and have consistently been impressed by their exceptional talent, work ethic, and leadership skills.
+
+In their role as [Position], [Name] has demonstrated a remarkable ability to [specific accomplishment]. Their tireless dedication, attention to detail, and collaboration skills have been integral to numerous successful projects.
+
+Above all, however, what sets [Name] apart is their unwavering commitment to excellence, both in their own work and in motivating and inspiring those around them. I am confident that they would make a valuable addition to any team, and I wholeheartedly recommend them for the position they are seeking.
+
+Sincerely,
+[Your Name]
+###
+20. Instruction: Generate a haiku about a sunrise. 
+20. Input: 
+<noinput>
+20. Output: 
+Golden sun rising
+Birds chirp, sky painted with hues
+A new day begins.

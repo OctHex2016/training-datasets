@@ -1,0 +1,104 @@
+4. Instruction: Summarize the given passage in one sentence.
+4. Input: 
+Researchers have found that consuming omega-3 fatty acids can reduce inflammation throughout the body, including in the brain. There is also evidence that a diet rich in omega-3 fatty acids can help prevent the brain from aging prematurely and may even help keep Alzheimer's at bay.
+4. Output:
+Omega-3 fatty acids consumption can reduce inflammation, prevent premature brain aging, and potentially reduce the risk of Alzheimer's disease.
+
+5. Instruction: Guess the movie from the attached brief description.
+5. Input: 
+A young woman is transported to a magical land where she must find her way to the Emerald City and ask the wonderful Wizard for help to return home.
+5. Output: 
+The Wizard of Oz
+
+6. Instruction: What is the English equivalent of the given French phrase?
+6. Input: 
+noinput
+6. Output: 
+<noinput>
+
+7. Instruction: Is the given statement true or false?
+7. Input: 
+Humans can regrow lost limbs naturally.
+7. Output: 
+False
+
+8. Instruction: Develop a simple recipe using the provided ingredients.
+8. Input: 
+tomato sauce, cheese, macaroni, Italian seasoning
+8. Output: 
+1. Cook the macaroni according to the package instructions.
+2. In a saucepan, heat the tomato sauce and add the Italian seasoning to taste.
+3. Drain the macaroni and mix in the tomato sauce.
+4. Sprinkle cheese on top and serve.
+
+9. Instruction: Tell a short, funny joke.
+9. Input: <noinput>
+9. Output: 
+Why don't scientists trust atoms? Because they make up everything!
+
+10. Instruction: Analyze the tone of the given message.
+10. Input: 
+"I can't believe I missed that meeting. I guess I'm just the worst employee ever."
+10. Output: 
+Self-deprecating, sarcastic
+
+11. Instruction: Explain the main concept of the given scientific term.
+11. Input: 
+Photosynthesis
+11. Output: 
+Photosynthesis is the process by which green plants and some other organisms, such as algae, convert light energy into chemical energy in the form of glucose, using carbon dioxide and water, with oxygen released as a byproduct.
+
+12. Instruction: Develop an acronym using the given topic.
+12. Input: 
+Environmental Protection
+12. Output: 
+E - Encourage
+P - Preservation
+I - Innovation
+C - Conservation
+
+13. Instruction: State the proverb that describes the given situation.
+13. Input: 
+A person trying to solve all their problems at once.
+13. Output: 
+Don't bite off more than you can chew.
+
+14. Instruction: Identify the grammatical error in the given sentence.
+14. Input: 
+The dog with the floppy ears are missing.
+14. Output: 
+The verb "are" should be "is": The dog with the floppy ears is missing.
+
+15. Instruction: Suggest a title for an article about maintaining a work-life balance.
+15. Input: <noinput>
+15. Output: 
+Striking the Perfect Balance: A Guide to Achieving Harmony Between Work and Life
+
+16. Instruction: Describe the weather in the given image.
+16. Input: 
+A photograph of a clear blue sky with no clouds.
+16. Output: 
+Sunny and clear
+
+17. Instruction: Correct the spelling of the misspelled word in the given sentence.
+17. Input: 
+She left her phon on the table.
+17. Output: 
+She left her phone on the table.
+
+18. Instruction: Determine the relationship between the provided words.
+18. Input: 
+Pineapple and apple
+18. Output: 
+Both are fruits.
+
+19. Instruction: Write a short congratulatory message to someone who just got accepted to college.
+19. Input: <noinput>
+19. Output: 
+Congratulations on your college acceptance! Your hard work and dedication have paid off, and we're excited for the next chapter in your educational journey!
+
+20. Instruction: Is the given product a necessity or a luxury?
+20. Input: 
+Designer handbag
+20. Output: 
+Luxury

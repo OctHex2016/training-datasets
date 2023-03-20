@@ -1,0 +1,109 @@
+4. Instruction: Suggest healthy menu options for breakfast, lunch, and dinner based on the ingredients listed.
+4. Input: 
+Oats, Greek yogurt, berries, spinach, grilled chicken, brown rice, sweet potato, broccoli, salmon, quinoa, mixed vegetables, almonds, walnuts
+4. Output: 
+Breakfast: Oats with Greek yogurt, mixed berries, and a sprinkle of walnuts
+Lunch: Grilled chicken, brown rice, spinach, and mixed vegetables
+Dinner: Lemon-garlic baked salmon, quinoa, broccoli, and a side of sweet potato
+
+5. Instruction: State the benefits of meditation.
+5. Input: 
+<noinput>
+5. Output:
+Reduced stress, improved focus and concentration, increased self-awareness, better emotional health, enhanced creativity, and better sleep quality.
+
+6. Instruction: Summarize the story in one sentence.
+6. Input:
+In a land far away, a courageous knight embarked on a treacherous journey to rescue the princess from the clutches of an evil dragon, learning the value of friendship along the way.
+6. Output:
+A knight overcomes adversity and learns about friendship while rescuing the princess from a dragon.
+
+7. Instruction: Explain the Doppler effect.
+7. Input:
+<noinput>
+7. Output:
+The Doppler effect is the change in frequency and wavelength of a wave in relation to an observer who is moving relative to the wave source.
+
+8. Instruction: Write a haiku poem about autumn.
+8. Input:
+<noinput>
+8. Output:
+Golden leaves descend,
+Cool breeze whispers to the trees,
+Autumn's song begins.
+
+9. Instruction: Identify the type of text, whether it is fiction, non-fiction, news, or educational.
+9. Input:
+NASA's Perseverance rover successfully collected samples from Mars that scientist suspect may contain signs of ancient life.
+9. Output:
+News
+
+10. Instruction: List three possible causes for the given problem.
+10. Input:
+A smartphone battery is draining quickly.
+10. Output:
+1. Background apps and processes using resources
+2. Weak cellular signal causing the phone to work harder
+3. Faulty or degraded battery
+
+11. Instruction: Correct the grammar in the given sentence.
+11. Input:
+Their going too the park to play catch with there dog.
+11. Output:
+They're going to the park to play catch with their dog.
+
+12. Instruction: Recommend three potential tourist attractions in Paris, France.
+12. Input:
+<noinput>
+12. Output:
+1. Eiffel Tower
+2. Louvre Museum
+3. Notre-Dame Cathedral
+
+13. Instruction: Describe the plot of the given movie in two to three sentences.
+13. Input:
+Jurassic Park
+13. Output:
+A group of scientists recreate dinosaurs using DNA found in mosquitoes trapped in amber. When they open the dinosaur-themed amusement park called Jurassic Park, the security system fails, releasing the prehistoric beasts and putting the visitors in grave danger.
+
+14. Instruction: Identify the logical fallacy in the argument.
+14. Input:
+Smoking must not be dangerous because my grandfather smoked all his life and lived to be 90 years old.
+14. Output:
+Anecdotal fallacy
+
+15. Instruction: Write a brief answer to the question "Why is the sky blue?"
+15. Input:
+<noinput>
+15. Output:
+The sky appears blue due to Rayleigh scattering, which causes shorter-wavelength blue light to scatter more than longer-wavelength red light as sunlight interacts with Earth's atmosphere.
+
+16. Instruction: Rearrange the words in the jumbled sentence to form a coherent statement.
+16. Input:
+collected have travel restrictions data that show during COVID-19 air pollution decreased.
+16. Output:
+Data have shown that air pollution decreased during travel restrictions collected during COVID-19.
+
+17. Instruction: Suggest a title for the short story based on the given plot.
+17. Input:
+A time traveler struggles to return home when their time machine is damaged during a trip to Ancient Egypt.
+17. Output:
+Lost Sands of Time
+
+18. Instruction: Point out the difference between the terms "psychopathy" and "sociopathy."
+18. Input:
+<noinput>
+18. Output:
+Psychopathy generally involves a lack of empathy or conscience and manipulative behavior, whereas sociopathy is characterized by antisocial behavior and disregard for social norms; both conditions, however, share significant overlap in traits.
+
+19. Instruction: Create a mnemonic to remember the planets in the solar system in order from the closest to the sun.
+19. Input:
+<noinput>
+19. Output:
+My Very Eager Mother Just Served Us Noodles - Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+
+20. Instruction: Analyze the tone or mood of the provided quote.
+20. Input:
+"Once upon a midnight dreary, while I pondered, weak and weary..."
+20. Output:
+Dark and melancholic

@@ -1,0 +1,110 @@
+4. Instruction: Translate the following English text into French.
+4. Input: 
+My favorite food is spaghetti and I often cook it at home.
+4. Output: 
+Mon plat préféré est les spaghetti et je les cuisine souvent à la maison.
+
+###
+5. Instruction: Identify the grammatical error(s) in the given sentence and correct it.
+5. Input: 
+Me and him went to see the movie last night.
+5. Output: 
+He and I went to see the movie last night.
+
+###
+6. Instruction: Provide a brief and concise explanation of photosynthesis.
+6. Input: 
+<noinput>
+6. Output: 
+Photosynthesis is a process by which green plants and some microorganisms convert sunlight into chemical energy, using carbon dioxide and water and releasing oxygen as a byproduct.
+
+###
+7. Instruction: List three potential health benefits of regular physical exercise.
+7. Input: 
+<noinput>
+7. Output: 
+1. Improved cardiovascular health.
+2. Enhanced mood and reduced stress levels.
+3. Increased muscle strength and flexibility.
+
+###
+8. Instruction: What are the signs, symptoms and prevention methods of food poisoning?
+8. Input: 
+<noinput>
+8. Output: 
+Signs and symptoms: nausea, vomiting, diarrhea, abdominal pain, and fever.
+Prevention methods: proper food storage, routine handwashing, thorough cooking, and avoiding cross-contamination of raw and cooked foods.
+
+###
+9. Instruction: Compose a short poem about nature.
+9. Input: 
+<noinput>
+9. Output: 
+In the verdant fields, where sunlight gleams,
+Lies a world where nature breathes and teems.
+Birds sing melodies from every tree,
+As rivers flow gently to the sea.
+
+Flowers blossom, colors bright and bold,
+Their fragrant scent a tale untold,
+The breeze whispers softly, at ease,
+In nature's embrace, tranquility we seize.
+
+###
+10. Instruction: Write an apology email responding to a client who had a poor experience at your hotel.
+10. Input: 
+<noinput>
+10. Output: 
+Subject: Sincere Apologies for Your Recent Stay
+
+Dear [Client's Name],
+
+I am truly sorry to hear that your recent stay at our hotel did not meet your expectations. It is our goal to provide excellent service to our guests, and your feedback about the poor room condition and lack of attentive staff is extremely concerning.
+
+Please accept our sincerest apologies, and know that we will be addressing these issues with our team. To make amends, we would like to offer you a complimentary stay in one of our upgraded rooms during your next visit. 
+
+Kindly get in touch with me to arrange the details. Again, our deepest apologies, and we hope to have the opportunity to serve you better in the future.
+
+Warm Regards,
+
+[Your Name]
+[Your Title]
+
+###
+11. Instruction: Explain briefly how a smartphone's GPS system works.
+11. Input: 
+<noinput>
+11. Output: 
+A smartphone's GPS system works by connecting to a network of satellites that orbit Earth to calculate the user's precise location. The satellites transmit signals to the smartphone, which then uses trilateration and the data from at least three satellites to determine its exact position.
+
+###
+12. Instruction: Write a 30-word story that includes a ghost, a curse, and a revelation.
+12. Input: 
+<noinput>
+12. Output: 
+A desolate house, haunted by a ghost. Decades passed, a curse unbroken. I ventured inside, fear wavering. I discovered the truth: the ghost desired liberation, the curse lifted, peace restored.
+
+###
+13. Instruction: Recommend a good book and provide a brief reason why.
+13. Input: 
+<noinput>
+13. Output: 
+I recommend "To Kill a Mockingbird" by Harper Lee, a thought-provoking novel that addresses racism, social inequality, and moral growth through the eyes of a young girl in the American South.
+
+###
+14. Instruction: List the main five components of a computer and provide a brief function for each.
+14. Input: 
+<noinput>
+14. Output: 
+1. Processor (CPU): Executes instructions and controls the computer's operation.
+2. Memory (RAM): Stores data temporarily for processing tasks.
+3. Storage: Holds data long-term (e.g., hard drives, SSDs).
+4. Motherboard: Connects and houses all main hardware components.
+5. Power Supply: Provides electrical power to the computer's components.
+
+###
+15. Instruction: Explain the main difference between weather and climate.
+15. Input: 
+<noinput>
+15. Output: 
+Weather refers to the short-term atmospheric conditions (temperature, precipitation, humidity) in a specific location, while climate considers those conditions over a long period, typically over multiple decades.

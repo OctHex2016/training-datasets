@@ -1,0 +1,126 @@
+4. Instruction: Rewrite the following sentence in a formal tone.
+4. Input: 
+Hey, what's up? Hope everything's cool, man.
+4. Output: 
+Greetings, I hope everything is going well for you.
+
+###
+5. Instruction: Translate the following sentence from French to English.
+5. Input: 
+Le chat dort sur le canapé.
+5. Output: 
+The cat sleeps on the couch.
+
+###
+6. Instruction: What are the main characteristics of Art Deco architecture?
+6. Input: 
+<noinput>
+6. Output: 
+Art Deco architecture is characterized by geometric shapes, stepped forms, sweeping curves, streamlined design, chevron patterns, and the use of modern materials such as glass, steel, and concrete.
+
+###
+7. Instruction: Identify any grammatical errors in the following sentence and suggest corrections.
+7. Input: 
+She always wake up at 6 AM in the morning to runs on the beach.
+7. Output: 
+She always wakes up at 6 AM in the morning to run on the beach.
+
+###
+8. Instruction: Determine if the following statement is true or false: "Venus is the closest planet to Earth."
+8. Input: 
+<noinput>
+8. Output: 
+True
+
+###
+9. Instruction: Explain the term "inflation" in economics.
+9. Input:
+<noinput>
+9. Output:
+Inflation is the rate at which the general level of prices for goods and services is rising over time, leading to a decrease in the purchasing power of currency.
+
+###
+10. Instruction: Provide two synonyms for the given word.
+10. Input:
+Ambitious
+10. Output:
+Aspiring, Driven
+
+###
+11. Instruction: Rearrange the following words to form a meaningful sentence.
+11. Input:
+on beach walking the were they morning in the
+11. Output:
+They were walking on the beach in the morning.
+
+###
+12. Instruction: Describe the three primary components of the water cycle.
+12. Input: 
+<noinput>
+12. Output:
+The three primary components of the water cycle are evaporation, condensation, and precipitation. 
+
+###
+13. Instruction: Write a creative, engaging opening line for a mystery novel.
+13. Input: 
+<noinput>
+13. Output:
+As a thick fog descended upon the town, the faint sound of eerie footsteps echoed cryptically through the damp alleyways.
+
+###
+14. Instruction: Identify and correct any punctuation errors in the given sentence.
+14. Input: 
+The books were delivered : yesterday, she began to read them immediately.
+14. Output:
+The books were delivered; yesterday, she began to read them immediately.
+
+###
+15. Instruction: List three non-renewable energy sources.
+15. Input:
+<noinput>
+15. Output:
+Coal, Oil, Natural gas
+
+###
+16. Instruction: Take the following conversation and paraphrase it to convey the same meaning.
+16. Input: 
+Person A: "I'm tired."
+Person B: "You should rest."
+Person A: "But there's so much work to do."
+Person B: "You can't do the work properly if you're exhausted."
+16. Output:
+Person A: "I feel worn out."
+Person B: "You ought to take a break."
+Person A: "There's just a lot to get done."
+Person B: "Performing tasks efficiently is challenging when fatigued."
+
+###
+17. Instruction: Write a haiku poem on the theme of autumn.
+17. Input: 
+<noinput>
+17. Output:
+Crimson leaves falling,
+Chilly winds whisper softly,
+Autumn's breath takes hold.
+
+###
+18. Instruction: Summarize the main points of the provided paragraph.
+18. Input: 
+Smart thermostats, part of the modern smart home suite, are revolutionizing the way we interact with our home's temperature control. These thermostats connect to the internet, allowing users to adjust the temperature remotely, either from a computer or a smartphone app. They also learn a user's preferences over time, automatically adjusting to create the optimal home environment while conserving energy and saving users money on their energy bills.
+18. Output: 
+Smart thermostats transform temperature control by connecting to the internet, allowing remote adjustments, learning user preferences, and promoting energy conservation resulting in cost savings.
+
+###
+19. Instruction: Write the missing word in the blanks of the given sentence.
+19. Input: 
+Albert Einstein is _______ for his theory of relativity.
+19. Output: 
+Albert Einstein is famous for his theory of relativity.
+
+###
+20. Instruction: Convert the currency amount from US Dollars to Euros using the given exchange rate. Round the answer to two decimal places.
+20. Input: 
+Amount: $150
+Exchange rate: 1.18 USD = 1 EUR
+20. Output:
+127.12 EUR

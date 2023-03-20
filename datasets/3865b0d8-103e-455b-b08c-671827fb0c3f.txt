@@ -1,0 +1,111 @@
+4. Instruction: Convert the sentence into passive voice.
+4. Input: 
+The dog chased the cat.
+4. Output: 
+The cat was chased by the dog.
+###
+5. Instruction: List three side effects of the medication.
+5. Input: 
+Zonopar is a medication used to treat chronic pain. Common side effects of Zonopar include drowsiness, dizziness, nausea, constipation, and dry mouth. Do not use Zonopar if you are pregnant or breastfeeding.
+5. Output: 
+1. Drowsiness
+2. Dizziness
+3. Nausea
+###
+6. Instruction: Write a haiku about winter.
+6. Input: 
+<noinput>
+6. Output: 
+Snowflakes gently fall,
+Whispers in the frozen air,
+Winter's breath unfolds.
+###
+7. Instruction: Correct the grammatical errors. 
+7. Input: 
+Me and John gonna go to there house tommorow.
+7. Output: 
+John and I are going to their house tomorrow.
+###
+8. Instruction: Identify whether the given number is prime or not.
+8. Input: 
+37
+8. Output: 
+Prime
+###
+9. Instruction: Summarize the short story in two sentences. 
+9. Input: 
+Once there was a girl named Emily who lived in a small village. One day, she woke up to find that all the people in the village had disappeared. Distraught, she started searching for her friends and family. In her search, she discovered a magical portal that led her to an alternate world. Through hard work, determination, and courage, she managed to gather all the villagers and bring them back to their original world, saving the village and reuniting everyone.
+9. Output: 
+Emily discovers that her village's inhabitants have disappeared and finds a magical portal to an alternate world. She bravely rescues them, bringing everyone back to their original world and saving the village.
+###
+10. Instruction: Describe a sunset in a poetic manner.
+10. Input: 
+<noinput>
+10. Output: 
+As the sun descends, a melody of colors unfolds, painting the sky with warm hues of gold, orange, and crimson. The day's symphony slows, ushering in the calm embrace of twilight, whispering its tender goodnight.
+###
+11. Instruction: Identify and list the literary devices found in the passage.
+11. Input: 
+The thunderous roar of the river cascaded through the valley, its unrelenting power carving a path through the stubborn earth. The tree's branches danced wildly to the tune of the howling wind, and overhead, a velvet sky adorned with twinkling diamonds.
+11. Output: 
+1. Alliteration: thunderous roar, velvet sky
+2. Onomatopoeia: roar, howling
+3. Personification: river cascaded, tree's branches danced
+4. Hyperbole: unrelenting power, howling wind
+5. Metaphor: velvet sky, twinkling diamonds
+##
+12. Instruction: Which amendment of the US Constitution guarantees freedom of speech?
+12. Input: 
+<noinput>
+12. Output: 
+First Amendment
+###
+13. Instruction: Correct the spelling errors in the sentences.
+13. Input: 
+She made nesessary arragements for the ceremony. I was ecsatic about the invitation.
+13. Output: 
+She made necessary arrangements for the ceremony. I was ecstatic about the invitation.
+###
+14. Instruction: Based on the information provided, which university has a higher acceptance rate?
+14. Input: 
+University A has an acceptance rate of 9.7% while University B has a 7% acceptance rate.
+14. Output: 
+University A
+###
+15. Instruction: Describe how to find the area of a rectangle.
+15. Input: 
+<noinput>
+15. Output: 
+To find the area of a rectangle, multiply its length by its width. The result will be the area, typically expressed in square units.
+###
+16. Instruction: Translate the following English sentence into French.
+16. Input: 
+The weather is beautiful today.
+16. Output: 
+Le temps est beau aujourd'hui.
+###
+17. Instruction: List three inventions attributed to Thomas Edison.
+17. Input: 
+<noinput>
+17. Output: 
+1. Light bulb
+2. Phonograph
+3. Motion picture camera
+###
+18. Instruction: Rewrite the paragraph using formal language.
+18. Input: 
+Hey, true story here. A dude once totally screwed up by burning a big batch of cash cuz he wanted a hot date to think he was super cool. Man, the look on his face when he realized he couldn't get it back was priceless!
+18. Output: 
+It is a true story that a gentleman once made a grave mistake by burning a large sum of money in order to impress a woman he was romantically interested in. The expression on his face when he understood he could not retrieve the money was truly unforgettable.
+###
+19. Instruction: What gas is released during the process of cellular respiration?
+19. Input: 
+<noinput>
+19. Output: 
+Carbon dioxide
+###
+20. Instruction: Identify the author's tone in the following sentence: "Ah, of course, nothing is more delightful than spending a Sunday afternoon in bumper-to-bumper traffic."
+20. Input: 
+<noinput>
+20. Output: 
+Sarcastic

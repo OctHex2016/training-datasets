@@ -1,0 +1,126 @@
+4. Instruction: Generate a poem about the changing of seasons. 
+4. Input: <noinput>
+4. Output:
+The leaves fall softly to the ground,
+Their colors crisp and bright.
+The chill of autumn in the air,
+A harbinger of night.
+
+Winter snows come on the wind,
+Their whiteness pure and true.
+Cold and frost they bring to earth,
+A wonderland anew.
+
+The melting snows of spring arrive,
+Their promise sweet and dear.
+The warmth of sun and lengthening days,
+Renewal of the year.
+
+Summer's heat and vibrant blooms,
+Their colors bright and bold.
+But life is fleeting all too soon,
+As autumn comes once more to hold.
+###
+5. Instruction: Reorder the words to create a sentence. 
+5. Input: side / toast / buttered / with / the / egg / up / sunny
+5. Output: Toast buttered up, with the sunny-side egg on the side. 
+###
+6. Instruction: Explain what biological evolution is. 
+6. Input: <noinput>
+6. Output: Biological evolution is the process by which organisms change over time through the gradual accumulation of small modifications, which can lead to the emergence of new species. This occurs through mechanisms such as natural selection, genetic drift, and mutation. The process of evolution can result in greater adaptation and survival for organisms in changing environments, leading to the diversity of life on Earth today.
+###
+7. Instruction: Find the synonym for the given word. 
+7. Input: Smart 
+7. Output: Intelligent. 
+###
+8. Instruction: Convert a table into a line graph. 
+8. Input: 
+
+| Year | Revenue |
+|------|---------|
+| 2015 | 200     |
+| 2016 | 400     |
+| 2017 | 600     |
+| 2018 | 800     |
+| 2019 | 1000    |
+
+8. Output: 
+Line graph with horizontal axis labeled from 2015 to 2019 and vertical axis labeled from 0 to 1000. Line starts at approximately y=200 at x=2015, and ends at approximately y=1000 at x=2019, passing through the points for each year. 
+###
+9. Instruction: Convert a text to all capital letters. 
+9. Input: 
+This is a sample text.
+9. Output: 
+THIS IS A SAMPLE TEXT.
+###
+10. Instruction: Which countries are located on the Amazon river?
+10. Input: <noinput>
+10. Output: Several countries are located along the course of the Amazon river, including Brazil, Peru, Bolivia, Colombia, Ecuador, Venezuela, and Suriname. 
+###
+11. Instruction: Convert a list of bullet points into a paragraph. 
+11. Input:
+
+- Apples
+- Oranges
+- Bananas
+- Grapes
+
+11. Output: Apples, oranges, bananas, and grapes are all common types of fruit found at grocery stores and markets worldwide. Each of these fruits is rich in vitamins, minerals, and fiber, making them healthy choices for a balanced diet. Apples are often eaten raw or baked, while oranges are enjoyed either whole or squeezed to make juice. Bananas are a popular snack food owing to their sweetness and convenience, while grapes are commonly eaten fresh or made into wine.
+###
+12. Instruction: Calculate the net income for an individual. 
+12. Input:
+Gross income: $50,000
+Tax rate: 20%
+12. Output: 
+The tax on the gross income of $50,000 would be $10,000 (20% of $50,000), leaving a net income of $40,000 after taxes. 
+###
+13. Instruction: Write a summary of the news article. 
+13. Input: 
+News article: "Electricity blackouts hit parts of New York"
+13. Output: 
+Parts of New York experienced power outages recently, leaving thousands of homes and businesses without electricity. The utility company responsible for the outages has cited high demand for electricity during hot weather as the likely cause, but some residents have expressed frustration with the frequency and duration of these outages in recent years.
+###
+14. Instruction: What is the formula for calculating the area of a triangle? 
+14. Input: <noinput>
+14. Output: The formula for calculating the area of a triangle is 1/2 x base x height, where the base and height are the length and perpendicular height from the base, respectively.
+###
+15. Instruction: Correct the spelling error. 
+15. Input: Apole 
+15. Output: Apple. 
+###
+16. Instruction: Explain what the Fibonacci sequence is. 
+16. Input: <noinput>
+16. Output: The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The sequence begins with 0 and 1 and continues indefinitely, with each subsequent number being the sum of the two before it (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, etc.). The sequence exhibits a number of interesting mathematical properties and occurs naturally in many areas of science and nature. 
+###
+17. Instruction: Find the antonym for the word "happy". 
+17. Input: Happy 
+17. Output: Sad. 
+###
+18. Instruction: Write a letter of recommendation for a former employee. 
+18. Input:
+Employee Name: John Smith
+Position: Marketing Analyst
+Duration of Employment: 2 years
+18. Output: 
+To Whom It May Concern, 
+
+I am writing to heartily recommend John Smith for any position that may be available at your organization. John was a dedicated and hardworking member of our team for two years, during which time he was instrumental in the development and execution of numerous successful marketing campaigns. He consistently demonstrated a deep understanding of both the company's goals and market conditions, and was able to translate that understanding into actionable insights and strategies that helped us stay ahead of our competitors. 
+
+John's exceptional analytical skills, creativity, and work ethic make him a valuable asset to any team, and I have no doubt that he would excel in any position he takes on in the future. Please do not hesitate to reach out to me if you have any further questions about John's abilities or qualifications. 
+
+Sincerely, [Your Name] 
+###
+19. Instruction: Give an example of a verb in the past tense. 
+19. Input: <noinput>
+19. Output: "Jumped" is an example of a commonly used verb in the past tense. 
+###
+20. Instruction: Rearrange the sentences to create a coherent paragraph. 
+20. Input:
+
+- He went grocery shopping.
+- He bought milk, bread, and cheese.
+- He arrived home and put the groceries away.
+- He went for a run.
+
+20. Output: 
+After going grocery shopping and buying milk, bread, and cheese, he arrived home and put the groceries away. He then went for a run.

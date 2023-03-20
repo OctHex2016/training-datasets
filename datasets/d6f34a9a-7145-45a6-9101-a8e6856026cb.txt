@@ -1,0 +1,163 @@
+4. Instruction: Given a movie title, write a short and fun unboxing review of a related merchandise. 
+4. Input: 
+Harry Potter and the Philosopher's Stone
+4. Output: 
+Wow, I just got this cool Harry Potter wand replica in the mail! The details are amazing and it even lights up when I wave it around. Now I can pretend I'm casting spells and attending Hogwarts with Harry and his friends. I'm so excited to add this to my Harry Potter collection! 
+###
+5. Instruction: Write a haiku about the ocean. Remember, a haiku follows the 5-7-5 syllable count rule.
+5. Input: 
+<noinput>
+5. Output: 
+The waves kiss the shore,
+Saltwater fills my senses,
+Peaceful, timeless tides.
+###
+6. Instruction: Rewrite the given sentence in an active voice. 
+6. Input: 
+The cake was eaten by the dog.
+6. Output: 
+The dog ate the cake. 
+###
+7. Instruction: Write a synopsis of a fictional TV show with a mysterious and suspenseful atmosphere. 
+7. Input: 
+Title: The Silent Forest
+7. Output: 
+The Silent Forest follows the story of a small town haunted by unexplainable events. The disappearance of a girl and the strange occurrences happening in the forest surrounding the town force the characters to dig deeper into the secrets of the town's past. As they uncover the truth, they realize they may have gotten in way over their heads. 
+###
+8. Instruction: Given a list of numbers, sort them in ascending order. 
+8. Input: 
+5 6 2 8 1 9
+8. Output: 
+1 2 5 6 8 9
+###
+9. Instruction: Rewrite the given sentence in a more formal language. 
+9. Input: 
+I gotta go to the store to buy some milk.
+9. Output: 
+I need to go to the store to purchase some milk. 
+###
+10. Instruction: Write a product review for a backpack that can hold a laptop and many other items. 
+10. Input: 
+Black Diamond Creek Transit 32L Backpack
+10. Output: 
+This backpack is amazing! It's spacious and is capable of fitting all of my essentials, including my laptop, notebook, and books. The design is stylish and is made of quality material. It's also very durable and is comfortable to wear. I would highly recommend this backpack to anyone in need of a reliable and trendy backpack. 
+###
+11. Instruction: Given a recipe, reformat it into a more concise and easy-to-follow form. 
+11. Input: 
+
+Classic Chocolate Chip Cookies
+
+Ingredients:
+- 2 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, at room temperature
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 large eggs
+- 2 tsp vanilla extract
+- 2 cups semisweet chocolate chips
+
+Instructions:
+
+1. Preheat the oven to 375 degrees F.
+2. Mix the flour, baking soda, and salt in a bowl and set aside.
+3. In a larger separate mixing bowl, beat the butter, white sugar, and brown sugar together with an electric mixer until smooth.
+4. Beat the eggs and vanilla extract into the butter mixture until smooth.
+5. Gradually stir in the flour mixture and mix until blended.
+6. Fold in the chocolate chips.
+7. Drop heaping spoonfuls of dough onto an ungreased cookie sheet.
+8. Bake for 8-10 minutes or until light brown.
+
+11. Output: 
+
+Classic Chocolate Chip Cookies
+
+Ingredients:
+- 2 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, at room temperature
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 large eggs
+- 2 tsp vanilla extract
+- 2 cups semisweet chocolate chips
+
+Instructions:
+
+1. Preheat oven to 375 degrees F.
+2. In a bowl, mix the flour, baking soda, and salt.
+3. Beat the butter, white sugar, and brown sugar in a large mixing bowl until smooth.
+4. Beat in the eggs and vanilla extract until smooth.
+5. Gradually stir in the flour mixture.
+6. Fold in the chocolate chips.
+7. Place spoonfuls of dough onto ungreased baking sheet.
+8. Bake for 8-10 minutes until light brown.
+###
+12. Instruction: Write an email to a company's customer service to complain about a faulty product. 
+12. Input: 
+Product: Wireless earbuds
+12. Output: 
+Dear Sir/Madam, 
+I am writing to inform you that the wireless earbuds I recently purchased from your company are not functioning properly. The sound quality is poor and the earbuds frequently disconnect from my device. It is very disappointing as I was really excited about the product. Please let me know what can be done to resolve this issue. 
+Sincerely, [Your Name] 
+###
+13. Instruction: Given a sentence, replace every noun with a synonym. 
+13. Input: 
+The quick brown fox jumped over the lazy dog.
+13. Output: 
+The fast tawny fox leaped over the sluggish hound. 
+###
+14. Instruction: Write a description of a cozy and relaxing reading nook. 
+14. Input: 
+<noinput>
+14. Output: 
+Imagine a nook filled with natural light, a comfy armchair, and a soft throw blanket. The shelves are lined with your favorite books and a side table with your favorite snack and drink. Soft instrumental music plays in the background. A perfect place to unwind and dive into your favorite novel. 
+###
+15. Instruction: Given a list of words, arrange them to create a meaningful sentence.
+15. Input: 
+Camera / the / in / captured / sunset / the / stunning
+15. Output: 
+The camera captured the stunning sunset in. 
+###
+16. Instruction: Write a weather report for a rainy day. 
+16. Input: 
+<noinput>
+16. Output: 
+Today, we can expect a rainy day with thunderstorms in the area. Temperatures will be slightly cooler with a high of 68 degrees Fahrenheit. Don't forget your umbrella and be careful on the roads! 
+###
+17. Instruction: Given a sentence with missing punctuation, add the necessary punctuation marks. 
+17. Input: 
+The quick brown fox jumped over the lazy dog
+17. Output: 
+The quick brown fox jumped over the lazy dog. 
+###
+18. Instruction: Write a brief summary of a current news article. 
+18. Input: 
+News Article: CDC recommends wearing masks indoors for fully vaccinated people in areas with high transmission rates.
+18. Output: 
+The Centers for Disease Control and Prevention suggests that people fully vaccinated should wear masks indoors in certain situations due to the Covid-19 Delta variant surge. The CDC also recommends universal masking for K-12 schools. 
+###
+19. Instruction: Create a list of best restaurants in a particular city with a brief description for each.
+19. Input: 
+City: San Francisco
+19. Output: 
+1. State Bird Provisions - Creative small plates combining Asian and New American flavors.
+2. Tartine Bakery & Cafe - Famous for their world-class bread and pastries.
+3. House of Prime Rib - High-end steakhouse with table-carved prime rib.
+4. Swan Oyster Depot - Long-running seafood market and counter-service cafe.
+5. El Farolito - Legendary burritos and Mexican fare with numerous locations in San Francisco. 
+###
+20. Instruction: Write a birthday poem for someone special. 
+20. Input: 
+Name: Sarah
+20. Output: 
+Happy Birthday to Sarah,
+May your day be full of cheer!
+Another year older, 
+But more beautiful, have no fear!
+Celebrate all your blessings,
+And make today a perfect sphere!
+Grow, flourish and chase your dreams,
+You deserve all that you hold dear!

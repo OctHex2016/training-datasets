@@ -1,0 +1,46 @@
+4. Instruction: Convert the given text into a haiku poem.
+4. Input: 
+Snow gently falls down
+Covering the ground in white
+Cold winter embrace
+4. Output: 
+Softly falls the snow,
+White blanket on the ground laid,
+Embrace of winter.
+
+###
+5. Instruction: Identify the logical fallacy in the statement provided below. If there's no fallacy, write "No fallacy detected".
+5. Input: 
+You can't prove that there isn't a teapot orbiting the sun, so it must be true that there is one.
+5. Output: 
+Argument from ignorance
+
+###
+6. Instruction: Summarize the plot of the movie based on the synopsis given in input.
+6. Input: 
+During World War II, a group of Jewish-American soldiers known as "The Basterds" is chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. Led by lieutenant Aldo Raine, the Basterds join forces with German actress and undercover agent Bridget von Hammersmark with a plan to take down the Nazi leaders, including Adolf Hitler himself. In a series of escalating encounters, the Basterds converge with an enormous conspiracy orchestrated by Shosanna, a Jewish cinema owner who has her own plan to exact revenge on the Nazis.
+6. Output: 
+In WWII, the Basterds, a group of Jewish-American soldiers who scalp and kill Nazis to spread fear, join forces with a German actress turned undercover agent. Together, they conspire with a Jewish cinema owner to take down Nazi leaders, including Adolf Hitler.
+
+###
+7. Instruction: Correct the spelling and grammatical errors in the given text.
+7. Input: 
+I recently when to the library with my friend, and while we was there he started taking too loud. The librarian came ovr to quite us down.
+7. Output: 
+I recently went to the library with my friend, and while we were there he started talking too loud. The librarian came over to quiet us down.
+
+###
+8. Instruction: Explain the concept of opportunity cost in simple terms.
+8. Input: 
+<noinput>
+8. Output: 
+Opportunity cost is the value of the next best choice you give up when you make a decision. In other words, it's what you could have gained from choosing a different option but decided not to because you chose another one.
+
+###
+9. Instruction: Rewrite the given sentence in passive voice.
+9. Input: 
+They finished the work last week.
+9. Output: 
+The work was finished last week.
+
+###

@@ -1,0 +1,93 @@
+4. Instruction: Generate a question using the word "onomatopoeia".
+4. Input: <noinput>
+4. Output: What is the definition of "onomatopoeia"? 
+###
+5. Instruction: Write a parody of a famous song about pizza toppings. 
+5. Input: 
+I've got sunshine, on a cloudy day
+When it's cold outside, I've got the month of May
+5. Output: 
+I've got pepperoni on my pizza plate
+When it's meatless Mondays, I still can't wait.
+###
+6. Instruction: Find the missing word in the following sentence. 
+6. Input: 
+"The _______ of water is two parts hydrogen and one part oxygen."
+6. Output: 
+The composition of water is two parts hydrogen and one part oxygen.
+###
+7. Instruction: Provide a definition for the following musical term. 
+7. Input: 
+Andante:
+7. Output: Andante is a musical term used to indicate a moderate tempo, usually slightly faster than adagio and slower than allegro.
+###
+8. Instruction: Reformat the following citation to be in MLA-style.
+8. Input: 
+APA-style: Last name, First initial. (Year Published). Title of Book in Title Case. Publisher Name. 
+8. Output: 
+MLA-style: Last name, First name. Title of Book in Title Case. Publisher Name, Year Published.
+###
+9. Instruction: Edit the following paragraph for spelling errors. 
+9. Input: 
+"Accross the strret there was a bueatifull tree."
+9. Output: 
+"Across the street there was a beautiful tree."
+###
+10. Instruction: Generate an analogy for the relationship between a cell and its nucleus. 
+10. Input: <noinput>
+10. Output: Just as a king has a castle to protect and regulate the kingdom, a cell has a nucleus to protect and regulate the cell's processes.
+###
+11. Instruction: Write a haiku about a sunset. 
+11. Input: <noinput>
+11. Output: 
+Golden sun sets low
+Vibrant hues fill sky with light
+Peaceful day finds rest
+###
+12. Instruction: Provide a brief explanation of the Monty Hall problem. 
+12. Input: <noinput>
+12. Output: The Monty Hall problem is a probability puzzle based on a game show scenario where a contestant is presented with three doors, two of which have a goat behind them and one with a car. The contestant chooses a door, and then the host, who knows what's behind each door, opens one of the other doors to reveal a goat. The contestant can then choose to switch or stick with their original choice, leading to a counterintuitive probability solution.
+###
+13. Instruction: Provide a recipe for vegetable lasagna. 
+13. Input: 
+Ingredients:
+pasta, zucchini, spinach, ricotta cheese, tomato sauce, mozzarella cheese
+13. Output: 
+1. Cook lasagna pasta.
+2. Slice zucchini and steam spinach.
+3. Mix cooked spinach and ricotta cheese. 
+4. Layer lasagna noodles, ricotta mixture, and zucchini on baking dish.
+5. Cover with tomato sauce and sprinkle with mozzarella cheese.
+6. Bake in oven at 375°F for 30-35 minutes.
+###
+14. Instruction: Write a movie synopsis for an action-thriller. 
+14. Input: <noinput>
+14. Output: A retired assassin is forced back into action when his friend and former employer is targeted by a vengeful rival. Caught in a web of danger, the assassin must use his skills to protect his friend and uncover the truth behind the attack, before it's too late.
+###
+15. Instruction: Translate the following sentence to French. 
+15. Input: 
+"That's a beautiful dress."
+15. Output: 
+"C'est une belle robe."
+###
+16. Instruction: Provide three examples of renewable energy sources. 
+16. Input: <noinput>
+16. Output: Three examples of renewable energy sources are solar power, wind power, and hydro power.
+###
+17. Instruction: Summarize the main difference between a virus and bacteria. 
+17. Input: <noinput>
+17. Output: The main difference between a virus and bacteria is that bacteria can survive and reproduce on their own, while viruses require a host cell to survive and reproduce.
+###
+18. Instruction: Write a persuasive argument for why everyone should learn to code. 
+18. Input: <noinput>
+18. Output: Learning to code is not only a valuable job skill in today's tech-driven world, but it also teaches critical thinking, problem solving, and creativity. Coding allows individuals to bring their ideas to life and create programs that can make a positive impact on society. In addition, as technology continues to advance, coding will become an increasingly essential skill in many industries.
+###
+19. Instruction: Provide an example of a homophone. 
+19. Input: <noinput>
+19. Output: An example of a homophone is "write" and "right". 
+###
+20. Instruction: Write a Yelp review for a restaurant you recently visited. 
+20. Input: 
+Restaurant Name: The Green Bean Cafe
+Dish Tried: Vegan Breakfast Burrito
+20. Output: The Green Bean Cafe exceeded my expectations with its cozy atmosphere and delicious food. The Vegan Breakfast Burrito was packed with flavor and the perfect start to my day. The service was friendly and attentive, making me feel right at home. Highly recommend a visit to this charming cafe!

@@ -1,0 +1,130 @@
+4. Instruction: Find the five consecutive Fibonacci numbers that come after the given number in the sequence.
+4. Input: 
+8
+4. Output: 
+13, 21, 34, 55, 89
+
+5. Instruction: Rewrite the given sentences while maintaining the meaning and replacing the underlined word(s) with a suitable synonym or phrase.
+5. Input: 
+She has an _innate_ talent for painting.
+His heart _sank_ when he read the letter.
+5. Output: 
+She has a natural talent for painting.
+His heart dropped when he read the letter.
+
+6. Instruction: From the given passage, identify the name of the city mentioned.
+6. Input: 
+We were assigned to Portland, Oregon, for a month-long training program. The city's unique coffee shops, amazing street art, and artisanal donut shops made our stay memorable.
+6. Output: 
+Portland
+
+7. Instruction: Describe a technology-focused theme for a conference targeting IT professionals in two sentences.
+7. Input: 
+<noinput>
+7. Output: 
+The theme for the conference is "Embracing the Future: Shaping the Digital Landscape." It focuses on exploring cutting-edge innovations, discussing strategies for driving digital transformation, and exchanging ideas on current and emerging technology trends.
+
+8. Instruction: Summarize the key points of the given passage.
+8. Input: 
+NASA's Artemis program, named after the twin sister of the moon-god Apollo in Greek mythology, sets a new chapter in lunar exploration. Artemis aims to land astronauts on the moon's South Pole by 2024, as part of a project that would eventually pave the way for a manned mission to Mars. The mission outlines collaborations with commercial and international partners to establish sustainable lunar exploration by the end of the decade.
+8. Output: 
+NASA's Artemis program aims to land astronauts on the moon's South Pole by 2024, with a goal of sustainable lunar exploration by the end of the decade. The mission will collaborate with commercial and international partners, laying groundwork for a manned mission to Mars.
+
+9. Instruction: Translate the given English text into simple and clear Esperanto.
+9. Input: 
+Stay healthy and keep a positive mindset.
+9. Output: 
+Restu sana kaj konservu pozitivan menson.
+
+10. Instruction: Choose the appropriate category for the given item.
+10. Input: 
+Gymnastics
+10. Output: 
+Sports
+
+###
+
+11. Instruction: Explain the difference between problem-based learning (PBL) and project-based learning.
+11. Input: 
+<noinput>
+11. Output: 
+Problem-based learning (PBL) involves students working collaboratively to solve a specific problem or challenge, typically formulated as a real-world scenario. Project-based learning focuses on completing a complex, open-ended project that usually has a tangible end product. While both approaches emphasize collaboration and critical thinking skills, PBL tackles specific problems, while project-based learning focuses on creating finished products.
+
+12. Instruction: Verify if the given statement is grammatically correct.
+12. Input: 
+I has been working on this assignment all day.
+12. Output: 
+Incorrect
+
+13. Instruction: Combine the two given sentences into one using a suitable conjunction.
+13. Input: 
+She wanted to buy a new phone. She didn't have enough money.
+13. Output: 
+She wanted to buy a new phone, but she didn't have enough money.
+
+14. Instruction: Identify the figure of speech used in the given sentence.
+14. Input: 
+She has a heart of gold.
+14. Output: 
+Metaphor
+
+15. Instruction: Correct the given sentence for spelling and grammar errors.
+15. Input: 
+Me and my freinds went to thee concert last week.
+15. Output: 
+My friends and I went to the concert last week.
+
+16. Instruction: What is the recommended daily amount of water intake for an average adult?
+16. Input: 
+<noinput>
+16. Output: 
+For an average adult, the recommended daily water intake is about 3.7 liters (125 ounces) for men and 2.7 liters (91 ounces) for women. This can vary depending on individual factors such as physical activity level, climate, and health conditions.
+
+17. Instruction: Arrange the events in chronological order based on the given paragraph.
+17. Input: 
+Emma graduated from college in 2010, and she started her first job in 2011. Two years later, she was promoted to a managerial position. She left the company in 2016 to pursue a master's degree, and she rejoined the company in 2018 after completing her studies.
+17. Output: 
+1. Emma graduated from college (2010).
+2. Emma started her first job (2011).
+3. Emma was promoted to a managerial position (2013).
+4. Emma left the company for her master's degree (2016).
+5. Emma rejoined the company after completing her studies (2018).
+
+18. Instruction: Write a beginner-level haiku about a snowflake.
+18. Input: 
+<noinput>
+18. Output: 
+Delicate and light,
+Graceful snowflake gently falls,
+Winter's silent dance.
+
+19. Instruction: Describe an ignition interlock device (IID) and explain how it operates.
+19. Input:
+<noinput>
+19. Output: 
+An Ignition Interlock Device (IID) is a breathalyzer installed in a vehicle to prevent intoxicated individuals from driving. The driver must breathe into the device before starting the vehicle. If the IID detects a blood alcohol concentration (BAC) above a preset limit (usually around 0.02 or 0.025%), the engine will not start, preventing the driver from operating the vehicle under the influence.
+
+20. Instruction: Compose a brief congratulatory message for someone who has received a promotion.
+20. Input: 
+<noinput>
+20. Output: 
+Congratulations on your well-deserved promotion! Your hard work, dedication, and professionalism truly paid off. Wishing you the best of luck in your new role and continued success in your career.
+1. Instruction: Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no. 
+1. Input: 
+The next US president should be white.
+1. Output: 
+There is a potential stereotype in this sentence because it implies that white people are better than people of other races for being the president.
+###
+2. Instruction: Identify the pos tag of the word in the given sentence. 
+2. Input: 
+Word: excited
+Sentence: She felt so excited that her application got approval.
+2. Output: 
+Adjective, JJ.
+###
+3. Instruction: Answer the following question. 
+3. Input: 
+When did US land human on the moon?
+3. Output: 
+July 20, 1969.
+###

@@ -1,0 +1,41 @@
+4. Instruction: Write a brief summary of the given passage.
+4. Input:
+In the 18th century, enlightened absolutism emerged as an important political and cultural movement in Europe. Essentially, enlightened absolutism is a form of absolute monarchy or despotism that attempted to incorporate Enlightenment ideas and reforms. Some of the key features include bureaucratic efficiency, religious tolerance, freedom of the press, and Enlightenment-based education initiatives. Several rulers, like Frederick the Great of Prussia, Catherine the Great of Russia, and Joseph II of Austria, adopted ideas central to the Enlightenment, although their interpretations and implementations varied greatly. Critics argue that the concept of enlightened absolutism falls short in practice, as these rulers rarely relinquished any significant amount of power while claiming to be enlightened reformers.
+4. Output:
+Enlightened absolutism was a 18th-century European movement where absolute monarchs embraced Enlightenment ideas, promoting bureaucratic efficiency, religious tolerance, press freedom, and education reforms. Rulers such as Frederick the Great, Catherine the Great, and Joseph II incorporated these ideas, yet their interpretations and implementations differed significantly. Critics argue that in practice, enlightened absolutism failed, as rulers retained power without implementing meaningful reforms.
+
+5. Instruction: Rewrite the following sentence in future passive voice.
+5. Input: 
+The team will deliver the project next week.
+5. Output:
+The project will be delivered by the team next week.
+
+6. Instruction: Briefly explain the difference between a simile and a metaphor.
+6. Input: <noinput>
+6. Output:
+A simile is a figure of speech that compares two unlike things using words "like" or "as," while a metaphor is an indirect comparison, stating that one thing is (or represents) another, without using "like" or "as."
+
+7. Instruction: Translate the following sentence from English to Spanish.
+7. Input:
+How much does this backpack cost?
+7. Output:
+¿Cuánto cuesta esta mochila?
+
+8. Instruction: Compose a haiku about nature.
+8. Input: <noinput>
+8. Output:
+Whispers of the breeze,
+Dancing leaves in autumn shade,
+Nature's symphony.
+
+9. Instruction: Identify the type of logical fallacy present in the following statement.
+9. Input:
+You can't trust anything he says because he's a politician, and all politicians are liars.
+9. Output:
+Hasty generalization
+
+10. Instruction: Convert the given Celsius temperature to Fahrenheit.
+10. Input:
+35 degrees Celsius
+10. Output:
+95 degrees Fahrenheit

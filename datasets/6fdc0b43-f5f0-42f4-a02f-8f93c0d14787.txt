@@ -1,0 +1,118 @@
+4. Instruction: Identify the emotion portrayed in the text.
+4. Input: 
+I can't believe they left me out of their plans again! I feel so betrayed and unimportant.
+4. Output: 
+Hurt
+
+###
+5. Instruction: Convert the given text into a rhyming poem.
+5. Input: 
+A cat wandered the streets looking for a path, hungry and tired, it needed a bath. In the dark alley, it found a warm place, hoping to relax and enjoy some space.
+5. Output: 
+A feline strayed, searching its way,
+In hunger, fatigue, its fur in disarray.
+A shadowed lane, a cozy space,
+To rest and breathe, its haven embraced.
+
+###
+6. Instruction: What is the square root of 49?
+6. Input: <noinput>
+6. Output: 
+7
+
+###
+7. Instruction: Rewrite the given sentence in passive voice.
+7. Input: 
+The teacher praised the students for their hard work.
+7. Output: 
+The students were praised by the teacher for their hard work.
+
+###
+8. Instruction: Summarize the key points of the passage.
+8. Input: 
+Reforestation is the natural or intentional restocking of existing forests and woodlands that have been depleted. It helps combat climate change as trees absorb carbon dioxide, which is one of the sources of global warming. Besides that, reforestation provides habitat for diverse species of plants and animals, which helps maintain the balance of ecosystems. It also reduces the risks of natural disasters such as floods and landslides, and supports local economies by providing jobs and resources for sustainable practices.
+8. Output: 
+Reforestation replenishes depleted forests, combats climate change, provides habitat for diverse species, reduces disaster risks, and supports local economies.
+
+###
+9. Instruction: Translate the given text into French.
+9. Input: 
+The weather is perfect for a walk in the park.
+9. Output: 
+Le temps est parfait pour une promenade dans le parc.
+
+###
+10. Instruction: List the ingredients needed for making a Margherita pizza.
+10. Input: <noinput>
+10. Output: 
+Pizza dough, tomato sauce, mozzarella cheese, fresh basil leaves, olive oil, salt.
+
+###
+11. Instruction: Identify the type of the given logical fallacy.
+11. Input: 
+You shouldn't trust John's opinions on sports because he's not a professional athlete.
+11. Output: 
+Ad Hominem
+
+###
+12. Instruction: Combine both sentences into one concise sentence.
+12. Input: 
+The manager tried to motivate the employees. The employees were highly demotivated.
+12. Output: 
+The manager tried to motivate the highly demotivated employees.
+
+###
+13. Instruction: How many days are there in a leap year?
+13. Input: <noinput>
+13. Output: 
+366
+
+###
+14. Instruction: Advise on how to handle stress during exams.
+14. Input: <noinput>
+14. Output: 
+Create a study schedule, take regular breaks, exercise, practice relaxation techniques like deep breathing, maintain a healthy diet, get plenty of sleep, and seek support from friends or a counselor if needed.
+
+###
+15. Instruction: Write a limerick about a baker.
+15. Input: <noinput>
+15. Output: 
+There once was a baker named Claire,
+Whose pies flew high in the air.
+With a flick of her wrist,
+Her secret twist,
+Made customers smile everywhere.
+
+###
+16. Instruction: Correct the grammar mistakes in the following sentence.
+16. Input: 
+Me and him are going to they're house this evening for dinner.
+16. Output: 
+He and I are going to their house this evening for dinner.
+
+###
+17. Instruction: Determine the animal described based on the given characteristics.
+17. Input: 
+marsupial, native to Australia, long tail, carries its offspring in a pouch
+17. Output: 
+Kangaroo
+
+###
+18. Instruction: What is the main cause of ocean tides?
+18. Input: <noinput>
+18. Output: 
+The gravitational pull of the Moon
+
+###
+19. Instruction: Write a persuasive argument in favor of sustainable energy sources.
+19. Input: <noinput>
+19. Output: 
+Sustainable energy sources, such as solar, wind, and hydro power, are vital to our planet's future. They provide clean, renewable energy, reducing our reliance on harmful fossil fuels that cause air pollution and contribute to climate change. By investing in sustainable energy, we promote economic growth, create jobs in the green energy sector, and safeguard our ecosystem for future generations. It's crucial that we take collective action to adopt sustainable energy sources to secure a healthier, more prosperous future for all.
+
+###
+20. Instruction: Write a Haiku about a snowy day.
+20. Input: <noinput>
+20. Output: 
+Soft flakes from the sky,
+Silent whispers, world in white,
+Nature's icy touch. 

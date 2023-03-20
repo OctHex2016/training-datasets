@@ -1,0 +1,101 @@
+4. Instruction: Generate a summary of the given news article.
+4. Input: 
+https://edition.cnn.com/2021/05/03/politics/joe-biden-climate-change-initiatives-satellite-infrastructure/index.html
+4. Output: 
+President Joe Biden announced a set of new initiatives to address climate change including the creation of an office to map climate risks in the financial system, development of new technologies to monitor emissions, and a plan to launch a satellite to track the emissions of other countries. Biden also proposed a $2 trillion dollar infrastructure plan aimed at cutting greenhouse gas emissions and creating jobs.
+###
+5. Instruction: Correct the grammatical mistakes in the given sentence.
+5. Input: 
+Her and him was at the party last night.
+5. Output: 
+She and he were at the party last night.
+###
+6. Instruction: Paraphrase the given sentence.
+6. Input: 
+Mallory swam faster than she had ever swum before.
+6. Output: 
+Mallory swam at a faster pace than she had previously.
+###
+7. Instruction: Generate a question based on the given paragraph.
+7. Input: 
+Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.
+7. Output: 
+Where is the Taj Mahal located and who commissioned it to be built?
+###
+8. Instruction: Continue the given story in 2-3 sentences.
+8. Input: 
+"The prince could not believe his eyes when he saw that the entire kingdom was in ruins. He knew he had to act fast or it would be too late."
+8. Output: 
+He called for his advisors and they quickly formed a plan to rebuild the kingdom. They worked day and night and soon the kingdom was restored to its former glory.
+###
+9. Instruction: Correct the spelling mistakes in the given paragraph.
+9. Input: 
+Barrick Obama was the fourty-fourth President of the United States of America. He served two terms in office from tweleve January two thousand and nine to twenry January two thousand and seventeen.
+9. Output: 
+Barack Obama was the forty-fourth President of the United States of America. He served two terms in office from January 12, 2009, to January 20, 2017.
+###
+10. Instruction: Rearrange the words in the given sentence to form a coherent one.
+10. Input: 
+for the beach music people watching sunglasses wear.
+10. Output: 
+Wear sunglasses for people watching beach music. 
+###
+11. Instruction: Generate a synonym for the given word.
+11. Input: 
+magnificent
+11. Output: 
+Sublime
+###
+12. Instruction: Complete the sentence with the correct preposition.
+12. Input: 
+We should arrive ____ the airport at least an hour before our flight.
+12. Output: 
+We should arrive at the airport at least an hour before our flight.
+###
+13. Instruction: Generate a two-word adjective describing the given noun.
+13. Input: 
+candle
+13. Output: 
+Waxen flame
+###
+14. Instruction: Rewrite the sentence in the passive voice.
+14. Input: 
+The teacher graded the exams and returned them to the students.
+14. Output: 
+The exams were graded by the teacher and returned to the students.
+###
+15. Instruction: Correct the article in the given sentence.
+15. Input: 
+An banana is a nutritious fruit that is high in potassium.
+15. Output: 
+A banana is a nutritious fruit that is high in potassium.
+###
+16. Instruction: Generate a description of the given image.
+16. Input: 
+https://www.unsplash.com/photos/hIoE8gXazFg
+16. Output: 
+A close-up of a red apple with visible water droplets on its surface.
+###
+17. Instruction: Complete the given analogy.
+17. Input: 
+Hot is to cold as fire is to ___.
+17. Output: 
+Ice
+###
+18. Instruction: Generate a homophone for the given word.
+18. Input: 
+knight
+18. Output: 
+Night
+###
+19. Instruction: Rewrite the sentence using a different tense.
+19. Input: 
+She will be jogging in the park at six o'clock.
+19. Output: 
+She was jogging in the park at six o'clock.
+###
+20. Instruction: Generate a rhyming word for the given one.
+20. Input: 
+cat
+20. Output: 
+Mat

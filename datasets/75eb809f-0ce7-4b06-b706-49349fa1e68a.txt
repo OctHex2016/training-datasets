@@ -1,0 +1,309 @@
+4. Instruction: Check the input text for grammatical errors and suggest corrections.
+4. Input: 
+I wants to went to the park yesterday but it rained so heavily.
+4. Output: 
+I wanted to go to the park yesterday, but it rained so heavily.
+
+5. Instruction: Calculate the square root of the given number.
+5. Input: 
+144
+5. Output: 
+12
+
+6. Instruction: Explain the meaning of the given idiom.
+6. Input:
+Bite the bullet
+6. Output:
+"Bite the bullet" is an idiom that means to face a difficult or unpleasant situation with courage and determination, even though it's hard.
+
+7. Instruction: Write a short poem about the beauty of nature.
+7. Input:
+<noinput>
+7. Output:
+In the woods, serenity abounds,
+Beyond the walls, a world unbound.
+Crisp winds whisper amongst the leaves,
+Nature's beauty, the heart receives.
+
+A river flows with gentle grace,
+Reflecting skies and mountains' face.
+The birds above, they sing their song,
+In nature's arms, we all belong.
+
+8. Instruction: What is the capital of the given country?
+8. Input:
+Spain
+8. Output:
+Madrid
+
+9. Instruction: Rewrite the sentence in passive voice.
+9. Input:
+The dog chased the cat.
+9. Output:
+The cat was chased by the dog.
+
+10. Instruction: List three benefits of regular exercise.
+10. Input:
+<noinput>
+10. Output:
+1. Improved cardiovascular health.
+2. Better mental health and decreased stress.
+3. Increased muscle strength and flexibility.
+
+11. Instruction: Determine if the given statement is a fact or an opinion.
+11. Input:
+Chocolate ice cream is the best flavor.
+11. Output:
+Opinion
+
+12. Instruction: Identify the literary device used in the given sentence.
+12. Input:
+The winds howled in anger, fiercely striking the night.
+12. Output:
+Personification
+
+13. Instruction: Rearrange the words to form a coherent sentence.
+13. Input:
+beans coffee around the world are popular
+13. Output:
+Coffee beans are popular around the world.
+
+14. Instruction: Summarize the main points of the following paragraph.
+14. Input:
+Recent studies have shown that exercising in the morning can help improve cognitive function and boost mental benefits. Early morning workouts, in particular, have been found to improve focus throughout the day, leading to increased productivity at work. In addition to this, morning exercises can also help with weight management by promoting better eating habits throughout the day.
+14. Output:
+Morning exercises have been shown to improve cognitive function, boost focus, leading to increased productivity at work, and promote better eating habits for weight management.
+
+15. Instruction: Write an opening sentence for a horror story.
+15. Input:
+<noinput>
+15. Output:
+As darkness enveloped the town, an eerie silence was abruptly shattered by blood-curdling screams from the old, abandoned house on the hill.
+
+16. Instruction: What should you avoid while crafting a strong thesis statement for an essay?
+16. Input:
+<noinput>
+16. Output:
+You should avoid making your thesis statement too broad or generic, making it overly complicated, and using vague language or unsupported opinions.
+
+17. Instruction: Turn the given input into a slogan for a product.
+17. Input:
+eco-friendly reusable shopping bags
+17. Output:
+Choose Greener, Shop Smarter: Your Eco-Friendly Reusable Bags!
+
+18. Instruction: Provide a brief definition of the given term in biology.
+18. Input:
+Photosynthesis
+18. Output:
+Photosynthesis is the process by which green plants and some microorganisms convert light energy into chemical energy in the form of glucose, using carbon dioxide and water, and releasing oxygen as a byproduct.
+
+19. Instruction: Identify and fix the logical fallacy in the argument.
+19. Input:
+If eating too much junk food is unhealthy, then not eating junk food must be healthy.
+19. Output:
+Correction: Just because eating too much junk food is unhealthy, it doesn't necessarily mean that not eating junk food alone is enough to be healthy; a balanced diet and proper nutrition are essential as well.
+
+20. Instruction: Write a recipe for making scrambled eggs for two servings.
+20. Input:
+<noinput>
+20. Output:
+Ingredients:
+- 4 large eggs
+- Salt and pepper to taste
+- 1 tablespoon butter or cooking oil
+- Optional: Milk/cream, cheese, or herbs of choice
+
+Instructions:
+1. Crack the eggs into a bowl and whisk them together until well mixed.
+2. Add a pinch of salt and pepper, and optional ingredients like milk/cream or herbs, if desired.
+3. Heat a non-stick skillet over medium heat and add butter or cooking oil.
+4. Pour the egg mixture into the skillet, and let it cook for a minute until the edges start to set.
+5. Gently stir the eggs with a spatula, folding and stirring until desired firmness is reached.
+6. Remove from heat, add optional cheese if desired, and serve immediately.
+
+21. Instruction: Classify the given animal into its correct animal group.
+21. Input:
+sparrow
+21. Output:
+Bird
+
+22. Instruction: Name a famous person who was influential in the field of the given invention.
+22. Input:
+telephone
+22. Output:
+Alexander Graham Bell
+
+23. Instruction: Solve the given math equation.
+23. Input:
+3 + 5 * 2
+23. Output:
+13
+
+24. Instruction: Write a creative and engaging tagline for a travel agency.
+24. Input:
+<noinput>
+24. Output:
+Venture Beyond: Unleash Your Wanderlust
+
+25. Instruction: Name a historical event that occurred in the given year.
+25. Input:
+1492
+25. Output:
+Christopher Columbus discovered America.26. Instruction: Describe the given painting technique briefly.
+26. Input:
+Impressionism
+26. Output:
+Impressionism is a painting technique characterized by the use of short, loose brushstrokes, a focus on capturing the essence of light and color, and often depicting everyday scenes or landscapes. This movement originated in the late 19th century with artists like Claude Monet and Pierre-Auguste Renoir.
+
+27. Instruction: Identify the author of the given book title.
+27. Input:
+To Kill a Mockingbird
+27. Output:
+Harper Lee
+
+28. Instruction: What event or process does the given phrase represent in biology?
+28. Input:
+Survival of the fittest
+28. Output:
+The phrase 'survival of the fittest' represents the process of natural selection in biology.
+
+29. Instruction: Rewrite the following paragraph in a more formal tone.
+29. Input:
+Hey there, I just wanted to let you guys know that there's gonna be a huge sale at our shop next week. You really don't wanna miss it – it's gonna be awesome. Make sure to stop by and bring all your friends, we've got tons of cool stuff.
+29. Output:
+Greetings, we are pleased to inform you that there will be a significant sale at our store next week. We highly recommend attending, as the event promises to be remarkable. We encourage you to visit and invite your acquaintances, as we have a vast selection of exciting items.
+
+30. Instruction: Write a motivational quote that encourages taking risks.
+30. Input:
+<noinput>
+30. Output:
+"Embrace uncertainty and step outside your comfort zone, for it is only in moments of risk that greatness is achieved."
+
+31. Instruction: In three sentences, describe the main plot of the given movie.
+31. Input:
+The Lion King
+31. Output:
+The Lion King tells the story of Simba, a young lion cub, who is destined to become the King of Pride Rock. After his father Mufasa's tragic death, Simba is manipulated into exile by his deceitful uncle Scar. As Simba grows up and learns valuable life lessons, he eventually returns to reclaim his throne and restore balance to the Pride Lands.
+
+32. Instruction: Convert the given temperature to Celsius.
+32. Input:
+68 degrees Fahrenheit
+32. Output:
+20 degrees Celsius
+
+33. Instruction: Revise the following sentence to improve the word choice and remove redundancies.
+33. Input:
+She walked very quickly down the hallway because she was in a great hurry.
+33. Output:
+She hurried down the hallway due to her pressing urgency.
+
+34. Instruction: Translate the given sentence into French.
+34. Input:
+The cat is sleeping on the couch.
+34. Output:
+Le chat dort sur le canapé.
+
+35. Instruction: Explain the significance of the given date in American history.
+35. Input:
+July 4, 1776
+35. Output:
+On July 4, 1776, the Declaration of Independence was adopted, marking the founding of the United States and the formal break from British rule, making it an important and celebrated day in American history.
+
+36. Instruction: List three common symptoms of the given medical condition.
+36. Input:
+flu
+36. Output:
+1. Fever.
+2. Body aches.
+3. Cough.
+
+37. Instruction: What is the full name of the world leader represented by the given abbreviation?
+37. Input:
+FDR
+37. Output:
+Franklin Delano Roosevelt
+
+38. Instruction: Provide a brief overview of the given mythological creature.
+38. Input:
+Cerberus
+38. Output:
+Cerberus is a mythological creature from Greek mythology, known as a three-headed dog that guards the entrance to the Underworld, ensuring that the dead cannot escape and the living cannot enter without permission from Hades, the god of the dead.
+
+39. Instruction: Write a sentence using the given homophones correctly.
+39. Input:
+they're, their, there
+39. Output:
+They're going to their beach house over there this weekend.
+
+40. Instruction: Identify a prominent figure from the given scientific field.
+40. Input:
+physics
+40. Output:
+Albert Einstein
+
+41. Instruction: Explain the meaning of the given acronym.
+41. Input:
+NASA
+41. Output:
+NASA stands for the National Aeronautics and Space Administration, which is the United States government agency responsible for the nation's civil space program and for aeronautics and aerospace research.
+
+42. Instruction: List three key elements of the given musical genre.
+42. Input:
+Blues
+42. Output:
+1. Emotional lyrics centered around themes of hardship and personal struggle.
+2. The use of the "blues scale" with flattened notes.
+3. A distinctive chord progression, often featuring the I-IV-V progression.
+
+43. Instruction: Name the primary colors in the color wheel.
+43. Input:
+<noinput>
+43. Output:
+The primary colors are red, blue, and yellow.
+
+44. Instruction: Name a popular celebration or holiday in the given country.
+44. Input:
+Mexico
+44. Output:
+Día de los Muertos (Day of the Dead)
+
+45. Instruction: What is the official language of the given country?
+45. Input:
+Brazil
+45. Output:
+Portuguese
+
+46. Instruction: Write a haiku about a rainy day.
+46. Input:
+<noinput>
+46. Output:
+Soft whispers of rain,
+Patter on the window pane,
+Droplets sooth the soul.
+
+47. Instruction: Identify the mathematical term that represents the following description.
+47. Input:
+The middle value in a data set when the numbers are listed in ascending order.
+47. Output:
+Median
+
+48. Instruction: Name a famous painting by the given artist.
+48. Input:
+Vincent van Gogh
+48. Output:
+The Starry Night
+
+49. Instruction: List the given movie's main characters.
+49. Input:
+Harry Potter and the Philosopher's Stone
+49. Output:
+1. Harry Potter
+2. Hermione Granger
+3. Ron Weasley
+
+50. Instruction: Identify the main cause of the given historical event.
+50. Input:
+American Civil War
+50. Output:
+The main cause of the American Civil War was the disagreement and conflict between the Northern and Southern states over the issues of slavery and states' rights.

@@ -1,0 +1,117 @@
+4. Instruction: Summarize the plot of the book "To Kill a Mockingbird".
+4. Input:
+<noinput>
+4. Output:
+To Kill a Mockingbird is set in the 1930s in Maycomb, a fictitious small town in Alabama. The story follows Jean Louise Finch, more commonly referred to as Scout, a young girl growing up in a time of racism and prejudice. The novel focuses on Scout’s relationship with her father, Atticus Finch, as he defends a black man, Tom Robinson, from the false accusations of a white woman.
+###
+5. Instruction: Based on a provided list of items, write a grocery shopping list for dinner. 
+5. Input:
+Salmon, spinach, lemon, rice, soy sauce, garlic
+5. Output: 
+Grocery Shopping List: 
+- Salmon 
+- Spinach 
+- Lemon 
+- Rice 
+- Soy sauce 
+- Garlic
+###
+6. Instruction: Rewrite the following sentence in the passive voice: "She wrote the novel in six weeks.”
+6. Input:
+<noinput>
+6. Output: 
+The novel was written in six weeks by her.
+###
+7. Instruction: Given a sentence, rewrite it using proper grammar and punctuation. 
+7. Input: 
+he don’t know what he’s talking about with his alligator shoes 
+7. Output: 
+He doesn't know what he's talking about with his alligator shoes.
+###
+8. Instruction: Briefly describe the history of the internet.
+8. Input:
+<noinput>
+8. Output: 
+The internet as we know it started with the development of ARPANET in the late 1960s. It allowed multiple computers to communicate and share resources with diverse network components. ARPANET eventually evolved into what we know today as the internet.
+###
+9. Instruction: Given a company's mission statement, identify any keywords that reflect their values. 
+9. Input: 
+"To inspire and nurture the human spirit— one person, one cup, and one neighborhood at a time." (Starbucks mission statement)
+9. Output: 
+The keywords that reflect Starbucks’ values are human spirit, nurture, neighborhood, and one cup at a time.
+###
+10. Instruction: Given a sentence, rephrase it in a polite and professional tone. 
+10. Input: 
+Hey, I need you to get that report done today!
+10. Output: 
+Hello, it would be great if you could complete the report by the end of the day. Thank you very much.
+###
+11. Instruction: Given a sentence, transform it into a rhetorical question. 
+11. Input: 
+The moon is a natural satellite of Earth.
+11. Output: 
+Did you know that the moon is a natural satellite of Earth?
+###
+12. Instruction: Given a film genre, list five characteristic features of that genre. 
+12. Input: 
+Horror
+12. Output: 
+1. High suspense and tension
+2. Emphasis on fear and terror 
+3. Use of darkness and the unknown 
+4. Elements of surprise or shock 
+5. Exploration of the uncanny or supernatural 
+###
+13. Instruction: Given a personal anecdote, write a brief lesson learned from that experience. 
+13. Input: 
+I once tried baking a cake without following the recipe and it turned out to be a disaster. 
+13. Output: 
+The lesson I learned from this experience is that in baking, precision and following the recipe is extremely important. 
+###
+14. Instruction: Given a technical process, write instructions on how to perform the process in a clear and concise manner.
+14. Input: 
+How to scan a document to your computer. 
+14. Output: 
+1. Place the document you want to scan face down onto the scanner glass. 
+2. Press the scan button on the printer. 
+3. Select the document type as either PDF or image. 
+4. Choose the appropriate resolution for the image. 
+5. Select the location that you wish to save the scanned image. 
+6. Press the scan button and wait for the scanning to complete.
+###
+15. Instruction: Explain a concept as if you were speaking to someone with no prior knowledge. 
+15. Input: 
+Explain the placebo effect. 
+15. Output: 
+The placebo effect refers to the phenomenon where patients exhibit noticeable change or improvement in an illness or condition while receiving an ineffective treatment, like a sugar pill. 
+###
+16. Instruction: Given a topic, provide three interesting facts about it. 
+16. Input: 
+Space exploration 
+16. Output: 
+1. Apollo 11, the mission that landed man on the moon, was launched on July 16, 1969.
+2. The Voyager 1 spacecraft, launched in 1977, is currently the most distant human-made object in space.
+3. In 2018, Elon Musk's SpaceX sent a Tesla Roadster into space, and it is still orbiting the Sun.
+###
+17. Instruction: Given two similar but distinct concepts, explain the key differences between them. 
+17. Input: 
+Turtles and tortoises 
+17. Output: 
+Turtles and tortoises are both reptiles with hard shells. However, turtles live in water and tortoises live on land. Additionally, turtles have flatter, more streamlined shells and webbed feet, whereas tortoises have dome-shaped shells and feet that are more like elephant’s feet with claws.
+###
+18. Instruction: Given a topic, provide an opinion or take a stance and briefly explain why. 
+18. Input: 
+The effectiveness of online learning. 
+18. Output: 
+Online learning has become an effective alternative to traditional classroom learning, especially during the COVID-19 pandemic. The advantages of online learning include more flexibility, cost savings, and accessibility. However, it can also be challenging for students who require more structure and interaction to stay motivated.
+###
+19. Instruction: Based on a picture, describe the scene in a creative and imaginative way. 
+19. Input: 
+<noinput> (picture of a sunset over the ocean)
+19. Output: 
+The sun was a giant orange ball that slowly dripped into the horizon, leaving sticky, liquid gold in its wake. The ocean, a multicolored painting of blue, orange and pink, swished and splashed against the shore, enjoying its last moments of the day in frothy merriment.###
+20. Instruction: Given a question, provide a well-reasoned answer. 
+20. Input: 
+What is the best way to improve your memory? 
+20. Output: 
+The best way to improve your memory is to focus on techniques such as repetition, association, and elaboration. Repetition involves repeating information multiple times, while association involves linking information to familiar concepts. Elaboration involves creating explanations for new information in order to help you learn it more effectively. Additionally, maintaining a healthy lifestyle, eating nutritious foods, getting enough sleep, and reducing stress can also help improve memory retention.

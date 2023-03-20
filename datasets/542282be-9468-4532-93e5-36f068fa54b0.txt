@@ -1,0 +1,67 @@
+4. Instruction: Correct the grammatical errors in the following paragraph.
+4. Input:
+I has accepted the new position on the school, but now I am second-guessiving myself. My spouse thinked it was good idea, but now she starting to doubt it two. We was happy at first, until realising the long hours I would had to work.
+
+4. Output:
+I have accepted the new position in the school, but now I am second-guessing myself. My spouse thought it was a good idea, but now she is starting to doubt it too. We were happy at first, until we realized the long hours I would have to work.
+
+5. Instruction: Perform sentiment analysis on the given customer review, and provide an overall sentiment score: positive, negative, or neutral.
+5. Input:
+I recently purchased this product and to be honest, I am quite disappointed. The packaging was great, but the product itself just didn't live up to the expectations. The performance was underwhelming and the battery life was far worse than advertised.
+
+5. Output:
+Negative
+
+6. Instruction: Create a riddle related to a kitchen object.
+6. Input:
+<noinput>
+6. Output:
+I stand on four legs and help to create your meals,
+I'm a platform for pots, pans, peels, and spills.
+You gather 'round me in the heart of your home,
+And I warm you up on days you're alone.
+What am I?
+
+7. Instruction: Write a brief summary of a news article that reports on a marathon world record.
+7. Input:
+Title: Kipchoge Stuns the World With New Marathon World Record
+Content: Eliud Kipchoge, a Kenyan long-distance runner, broke the marathon world record on Sunday with a stunning time of 2 hours, 1 minute, and 39 seconds at the Berlin Marathon. Kipchoge's exceptional achievement led him to shave 78 seconds off the previous record set in 2014, which was held by fellow Kenyan runner, Dennis Kimetto. The 33-year-old runner's performance has been lauded as an inspiration and has given new hope for athletes pushing for the under two-hour marathon. The organizers were thrilled with Kipchoge's record-breaking feat, and the running community has widely celebrated this new milestone.
+
+7. Output:
+Kenyan long-distance runner Eliud Kipchoge set a new marathon world record with a time of 2 hours, 1 minute, and 39 seconds at the Berlin Marathon, beating the previous record by 78 seconds. Athletes and spectators are inspired by Kipchoge's accomplishment, which has sparked renewed hope for achieving a sub-two-hour marathon.
+
+8. Instruction: Rewrite the following list of ingredients in a more concise and organized format.
+8. Input:
+- all-purpose flour: 2 cups
+- 1 1/2 cups of sugar
+- seven eggs
+- 1 teaspoon vanilla extract
+- ½ teaspoon of salt 
+- 1 teaspoon of baking powder
+- two tablespoons of cocoa powder
+- Butter: 1 stick (1/2 cup)
+
+8. Output:
+- 2 cups all-purpose flour
+- 1.5 cups sugar
+- 7 eggs
+- 1 tsp vanilla extract
+- 1/2 tsp salt
+- 1 tsp baking powder
+- 2 tbsp cocoa powder
+- 1 stick (1/2 cup) butter
+
+9. Instruction: Translate the following English text into French.
+9. Input:
+I am going to the library to study and prepare for my exam. If you need anything, please call me later. Have a great day!
+
+9. Output:
+Je vais à la bibliothèque pour étudier et me préparer pour mon examen. Si vous avez besoin de quelque chose, s'il vous plaît appelez-moi plus tard. Passez une bonne journée!
+
+10. Instruction: Suggest three possible names for a new organic coffee shop.
+10. Input:
+<noinput>
+10. Output:
+1. EarthBean Cafe
+2. Green Aroma Coffee House
+3. PureBrew Haven

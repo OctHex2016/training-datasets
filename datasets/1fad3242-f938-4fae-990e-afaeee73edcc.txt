@@ -1,0 +1,110 @@
+4. Instruction: Summarize the key points of the given article. 
+4. Input: 
+Article Title: "The Benefits of Mindful Breathing in the Workplace"
+
+Article Content: The article discusses the benefits of incorporating mindful breathing exercises into the daily routine of employees. The practice can help reduce stress, enhance focus, improve productivity and boost overall wellbeing. The article also provides tips for implementing the practice in the workplace, such as offering on-site meditation sessions or encouraging employees to take breathing breaks throughout the day.
+4. Output: 
+Mindful breathing exercises offer a range of benefits in the workplace, including improved focus and productivity, reduced stress and an overall boost in wellbeing. Companies can implement the practice by offering on-site meditation sessions or encouraging breathing breaks throughout the day.
+###
+5. Instruction: Correct the given sentence for proper grammar and clarity. 
+5. Input: 
+The dog ate they're food while they were sleeping on there bed.
+5. Output: 
+The dog ate their food while they were sleeping in their bed.
+###
+6. Instruction: Identify the reason for the error in the given Python code. 
+6. Input: 
+code snippet: 
+for i in range(0, 10)
+    print(i)
+6. Output: 
+The code is missing a colon after the range function in the for loop.
+###
+7. Instruction: Generate a new ending to the given short story. 
+7. Input: 
+Once upon a time, in a far-off land, there was a prince who lived in a magnificent castle. He was kind and generous to his people, but he was sad because he had never found love. One day, he met a beautiful young woman who had been brought to the castle as a prisoner. She was strong and brave, and they fell in love. But their happiness did not last long, and they were soon separated by warring factions.
+7. Output: 
+But the prince didn't give up that easy. He rallied his army and fought valiantly to rescue his love. With the help of his knights, he was able to defeat the warring factions and bring peace to the land. Together, the prince and his love ruled the kingdom with kindness and compassion, and they lived happily ever after.
+###
+8. Instruction: Classify the given image as a dog, cat or neither. 
+8. Input: 
+Image URL: https://www.publicdomainpictures.net/pictures/330000/velka/cat-playing-with-toilet-paper-1582751674MQM.jpg
+8. Output: 
+Cat.
+###
+9. Instruction: Identify the literary device used in the given poem. 
+9. Input: 
+Poem: 
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+9. Output: 
+The literary device used in this poem is repetition.
+###
+10. Instruction: Rewrite the given sentence to make it more concise. 
+10. Input: 
+Despite the fact that he was feeling a bit sick, he decided to go to work anyway.
+10. Output: 
+He went to work despite feeling sick.
+###
+11. Instruction: Identify the type of figurative language used in the given sentence. 
+11. Input: 
+Sentence: Her smile was as bright as the sun.
+11. Output: 
+Simile.
+###
+12. Instruction: Translate the given phrase from French to English. 
+12. Input: 
+Phrase: Je m'appelle Maxime.
+12. Output: 
+My name is Maxime.
+###
+13. Instruction: Suggest a new title for the given book based on its plot. 
+13. Input: 
+Book Title: The Catcher in the Rye
+Book Plot: The story follows the life of Holden, a teenage boy who struggles to find his place in the world and deal with the hypocrisy of society.
+13. Output: 
+Lost in the Maze of Adulthood.
+###
+14. Instruction: Choose the best conclusion to the given scientific experiment. 
+14. Input: 
+Experiment: Testing the effects of different fertilizers on tomato plant growth.
+14. Output: 
+Fertilizer A produced the best growth results, followed by Fertilizer B. Fertilizer C did not produce significant growth and may not be effective for tomato plants.
+###
+15. Instruction: Identify the missing word in the given sentence. 
+15. Input: 
+Sentence: The ________ is the largest land animal on earth.
+15. Output: 
+Elephant.
+###
+16. Instruction: Create a rhyming couplet based on the given word. 
+16. Input: 
+Word: Blue
+16. Output: 
+The sky is a beautiful blue,
+And it reflects the oceans too.
+###
+17. Instruction: Identify the logical fallacy used in the given argument. 
+17. Input: 
+Statement: "You can't prove that unicorns don't exist, so they must be real."
+17. Output: 
+The logical fallacy used in this argument is appeal to ignorance.
+###
+18. Instruction: Fix the error in the given SQL query. 
+18. Input: 
+SQL Query: SELECT Name, Age FROM Employees WHERE Age < 30 AND Department = "Sales"
+18. Output: 
+The query is correct.
+###
+19. Instruction: Generate a creative new business slogan for the given company. 
+19. Input: 
+Company: Green Solutions Inc.
+19. Output: 
+"Be Green, Think Clean with Green Solutions."
+###
+20. Instruction: Provide the definition of the given scientific term. 
+20. Input: 
+Term: Photosynthesis
+20. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll.

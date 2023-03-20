@@ -1,0 +1,30 @@
+4. Instruction: Generate a short story including the following elements: a haunted house, a lost key, and a mysterious note. 
+4. Input: 
+<noinput>
+4. Output: 
+As John approached the old haunted mansion, he remembered the lost key he had found earlier that day. He began to feel his heart beating faster as he inserted the key into the rusty lock. Once inside, he found a mysterious note on the floor which read, "Beware, they are watching you". John felt a chill run down his spine, and quickly made his way out of the creepy mansion.
+###
+5. Instruction: Identify the emotion expressed in the given sentence. 
+5. Input: 
+"I can't believe I was accepted into my dream school!"
+5. Output: 
+Positive/Excited
+###
+6. Instruction: Generate an 8-digit random number. 
+6. Input: 
+<noinput>
+6. Output: 
+84916237
+###
+7. Instruction: Find the missing word in the following sentence: "The cat sat on the <mask>." 
+7. Input: 
+<noinput>
+7. Output: 
+mat
+###
+8. Instruction: Summarize the main points of the article below. 
+8. Input: 
+Article: 
+New study suggests that regular exercise helps improve cognitive abilities in older adults.
+8. Output: 
+Regular exercise can improve cognitive abilities in older adults, according to a new study.

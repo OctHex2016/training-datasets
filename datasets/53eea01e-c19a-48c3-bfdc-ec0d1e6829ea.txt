@@ -1,0 +1,101 @@
+4. Instruction: Generate a one-sentence summary of the given article. 
+4. Input: 
+Link to an article about the recent advancements in AI.
+4. Output: 
+AI is undergoing rapid advancements which have the potential to revolutionize various industries.
+###
+5. Instruction: Complete the following sentence. 
+5. Input: 
+The quick brown fox...
+5. Output: 
+jumps over the lazy dog.
+###
+6. Instruction: Rewrite the following sentence to make it passive. 
+6. Input: 
+John ate the pizza.
+6. Output: 
+The pizza was eaten by John.
+###
+7. Instruction: Translate the following sentence to German. 
+7. Input: 
+Hello, my name is Sarah.
+7. Output: 
+Hallo, mein Name ist Sarah.
+###
+8. Instruction: Suggest corrections to the following sentence. 
+8. Input: 
+I are going to the store.
+8. Output: 
+The correct sentence is "I am going to the store."
+###
+9. Instruction: Provide me with the synonym for the word 'excellent'. 
+9. Input: 
+Excellent
+9. Output: 
+A synonym for 'excellent' is 'outstanding'.
+###
+10. Instruction: What is the capital of Canada? 
+10. Input: 
+<noinput>
+10. Output: 
+The capital of Canada is Ottawa.
+###
+11. Instruction: Generate a rhyming word for 'orange'. 
+11. Input: 
+Orange
+11. Output: 
+A word that rhymes with 'orange' is 'sporange'.
+###
+12. Instruction: Tell me a joke. 
+12. Input: 
+<noinput>
+12. Output: 
+Why couldn't the bicycle stand up by itself? Because it was two tired.
+###
+13. Instruction: What is the main idea of this paragraph? 
+13. Input: 
+Paragraph from a news article.
+13. Output: 
+The main idea of this paragraph is that the government plans to invest in infrastructure improvements.
+###
+14. Instruction: Generate a pun using the word 'bass'. 
+14. Input: 
+Bass
+14. Output: 
+Why did the bass break up with the other fish? He found out they were all catfish.
+###
+15. Instruction: What is the square root of 64? 
+15. Input: 
+<noinput>
+15. Output: 
+The square root of 64 is 8.
+###
+16. Instruction: Correct the grammar mistake in the following sentence. 
+16. Input: 
+Me and my friend went to the park.
+16. Output: 
+The correct sentence is "My friend and I went to the park."
+###
+17. Instruction: Generate a list of five random numbers between 1 and 20. 
+17. Input: 
+<noinput>
+17. Output: 
+The list of five random numbers, between 1 and 20, are 7, 12, 3, 19, and 6.
+###
+18. Instruction: What is the opposite of 'hot'? 
+18. Input: 
+Hot
+18. Output: 
+The opposite of 'hot' is 'cold'.
+###
+19. Instruction: Translate the following phrase to French. 
+19. Input: 
+Good evening.
+19. Output: 
+"Bonne soirée." is the translation of "Good evening." in French.
+###
+20. Instruction: Write a sentence using the word 'supercalifragilisticexpialidocious'. 
+20. Input: 
+Supercalifragilisticexpialidocious
+20. Output: 
+"Supercalifragilisticexpialidocious" is a long and complex word which means extraordinarily good.

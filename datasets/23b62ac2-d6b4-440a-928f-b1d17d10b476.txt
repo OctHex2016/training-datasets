@@ -1,0 +1,42 @@
+4. Instruction: Paraphrase this short description in a professional tone.
+4. Input: 
+Dude, this new smartphone is like crazy good! Has a massive battery, takes super sick pictures, and the speed is insane! Trust me, you gotta get one!
+4. Output: 
+The latest smartphone model offers impressive features, including an extensive battery life, exceptional photo quality, and remarkable processing speed. I highly recommend considering this device for your next purchase.
+
+5. Instruction: Write a brief summary of the following passage.
+5. Input: 
+SpaceX, a rocket-producing company founded by Elon Musk, is on a mission to make space travel affordable and sustainable, all while exploring the possibility of colonizing Mars. Recently, SpaceX gained global attention when they successfully launched and landed the Falcon Heavy. This achievement signifies a major step forward in the company's goal to provide reusable rockets, consequently reducing the cost of space travel. Looking ahead, SpaceX is working towards something far more ambitious: the Starship, a massive spacecraft designed to bring humans to the Red Planet with the ultimate aim of establishing a self-sustaining community on Mars.
+5. Output: 
+Elon Musk's SpaceX aims to make space travel more affordable and sustainable, while also exploring the possibility of colonizing Mars. The company gained attention with the successful launch and landing of the Falcon Heavy, a step towards reusable rockets and reduced space travel costs. SpaceX is currently working on the ambitious Starship project, a spacecraft designed to transport humans to Mars for the creation of a self-sustaining community on the planet.
+
+6. Instruction: Translate the given text into Spanish.
+6. Input: 
+Please turn off the lights when you leave the room.
+6. Output: 
+Por favor, apaga las luces cuando salgas de la habitación.
+
+7. Instruction: Does this review sound negative or positive? Quote words or phrases that support your answer.
+7. Input: 
+I had an amazing time at this hotel. The staff were incredibly friendly and went above and beyond to accommodate our needs. The room was clean and comfortable with a great view of the city. Highly recommended!
+7. Output: 
+Positive; "amazing time," "incredibly friendly," "above and beyond," "clean and comfortable," "great view," "Highly recommended"
+
+8. Instruction: Write an "If I were you" advice for the given situation.
+8. Input: 
+Caroline has a job interview but she's feeling anxious about it.
+8. Output: 
+If I were you, Caroline, I would practice answering common interview questions, research the company, and focus on your strengths and experiences. This preparation will boost your confidence and help you feel at ease during the interview.
+
+9. Instruction: Which one of the images and accompanying text probably raises awareness about pollution in the ocean?
+9. Input: 
+A. Picture of a cute baby dolphin swimming with its mother - "The ocean's beauty: A baby dolphin spending time with her mom."
+B. Picture of sea turtles swimming around plastic waste - "Sea turtles and pollution: The devastating impact of human waste on marine life."
+9. Output: 
+B. Picture of sea turtles swimming around plastic waste - "Sea turtles and pollution: The devastating impact of human waste on marine life."
+
+10. Instruction: Based on the given information, provide an estimated monthly budget for the person.
+10. Input: 
+Rent: $1200, Groceries: $300, Utilities: $150, Car Payment: $400, Gas: $100, Insurance: $200, Miscellaneous Expenses: $250
+10. Output: 
+$2600

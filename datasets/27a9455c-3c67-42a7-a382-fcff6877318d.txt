@@ -1,0 +1,75 @@
+4. Instruction: Edit the given sentence to remove passive voice. 
+4. Input: 
+The cake was baked by Mary.
+4. Output: 
+Mary baked the cake.
+###
+5. Instruction: Summarize the key points of an article about climate change. 
+5. Input: 
+Article: "The Human Fingerprints on the Climate System" by NASA
+https://climate.nasa.gov/evidence/
+5. Output: 
+Climate scientists agree: climate change is happening here and now. Based on well-established evidence, about 97% of climate scientists have concluded that human-caused climate change is happening. This consensus is supported by evidence of warming of the climate system that is unequivocal, including:
+• Sea level rise
+• Widespread melting of snow and ice
+• Increased global average surface temperature
+• Increased frequency and intensity of heatwaves, droughts and storms.
+ 
+###
+6. Instruction: Write a persuasive email to convince someone to donate to a charity. 
+6. Input: 
+Charity: American Red Cross
+Donation amount: $50
+6. Output: 
+Hello [Name],
+I hope this email finds you well. I am writing to you today to bring your attention to the increasing number of people who are in desperate need of help. The American Red Cross works tirelessly every day to provide aid and support to those who have been impacted by natural disasters and other emergencies. They are in dire need of funds to provide vital services to millions of people across the country.
+I urge you to consider making a donation of $50 to this worthy cause. Every contribution, no matter the amount, makes a significant difference. Thank you for your time and consideration.
+ 
+###
+7. Instruction: Write a cinquain poem about autumn. 
+7. Input: 
+<noinput>
+7. Output: 
+Autumn
+Leaves falling, chilly air
+Harvest moon shining bright
+Golden days, hazy nights
+Thanksgiving
+###
+8. Instruction: Write a short story about a character encountering their biggest fear. 
+8. Input: 
+Character name: Max
+Fear: Heights 
+8. Output: 
+Max had always been afraid of heights. He avoided tall buildings, rollercoasters, and anything else that could trigger his fear. One day, Max's friends surprised him with a hot air balloon ride. Max was hesitant at first but eventually agreed to give it a shot. As the balloon rose into the sky, Max began to feel his fear take over. However, as the balloon reached its peak, Max realized that he had overcome his fear. He felt a newfound sense of confidence and accomplishment that stayed with him for years to come. 
+###
+9. Instruction: Write a product review for a pair of wireless earbuds. 
+9. Input: 
+Product: Apple AirPods Pro
+9. Output: 
+The Apple AirPods Pro are the best wireless earbuds I have ever used. The fit is comfortable and secure, and the noise-cancellation feature really works wonders in noisy environments. The audio quality is on par with wired headphones, if not better. The battery life is impressive, and the ability to quickly charge them in the case is extremely convenient. I appreciate the seamless connectivity with Apple devices, and the touch controls are a fantastic addition. Overall, I highly recommend these earbuds to anyone looking for a premium audio experience. 
+###
+10. Instruction: Write a response to an email from a dissatisfied customer. 
+10. Input: 
+Customer name: John
+Complaint: Product was damaged during delivery 
+10. Output: 
+Dear John,
+Thank you for bringing this issue to our attention. We apologize for the inconvenience and disappointment that you have experienced with the damaged product that was delivered to you. We make every effort to keep our products in perfect condition during transit, but it appears that this was not the case with your order. 
+We'd like to rectify the situation as soon as possible, and will be happy to replace the damaged item free of charge. Please let us know if this works for you, or if you have any other concerns or questions regarding your order. 
+Best regards, 
+[Your Name]
+###
+11. Instruction: Identify and correct the error in a piece of code. 
+11. Input:
+Code sample: 
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+Expected output: 
+5! = 120
+
+11. Output: 
+The code is correct as is.

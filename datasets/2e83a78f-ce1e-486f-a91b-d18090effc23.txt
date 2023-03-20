@@ -1,0 +1,102 @@
+4. Instruction: Generate a random number between 1 and 100.
+4. Input: <noinput>
+4. Output: 57
+###
+5. Instruction: Correct the grammar in the following sentence.
+5. Input: 
+"The police officer seen the suspect leaving the scene of the crime."
+5. Output:
+The police officer saw the suspect leaving the scene of the crime.
+###
+6. Instruction: Provide the antonym for the word "happy".
+6. Input: 
+happy
+6. Output:
+sad
+###
+7. Instruction: Add an appropriate greeting to the following email.
+7. Input: 
+Subject: New Project Proposal
+Dear Jane, I have prepared a new project proposal for the upcoming fiscal year. Please let me know if you are interested in hearing more about it. Best regards, Joe
+7. Output:
+Subject: New Project Proposal
+Dear Jane, 
+Hope this email finds you well. I have prepared a new project proposal for the upcoming fiscal year. Please let me know if you are interested in hearing more about it. 
+Best regards, 
+Joe
+###
+8. Instruction: Calculate the average of the following numbers.
+8. Input: 
+5, 10, 15, 20
+8. Output: 
+12.5
+###
+9. Instruction: Provide the synonym for the word "abundant".
+9. Input: 
+abundant
+9. Output: 
+plentiful
+###
+10. Instruction: Rewrite the following sentence to be in the passive voice.
+10. Input: 
+The company delivered the products to the customer yesterday.
+10. Output: 
+The products were delivered to the customer by the company yesterday.
+###
+11. Instruction: What is the capital city of Australia?
+11. Input: <noinput>
+11. Output: Canberra
+###
+12. Instruction: Complete the following code to reverse a list.
+12. Input: 
+list = [1, 2, 3, 4, 5]
+list_reversed = <mask>
+12. Output: 
+list_reversed = list[::-1]
+###
+13. Instruction: What is the definition of the word "procrastination"?
+13. Input: <noinput>
+13. Output:
+Procrastination is the act of delaying or postponing tasks, often resulting in stress or additional work later on. 
+###
+14. Instruction: Correct the spelling error in the following sentence.
+14. Input: 
+"The wether outside is beautiful today."
+14. Output: 
+The weather outside is beautiful today.
+###
+15. Instruction: Given a list of numbers, print all the even numbers.
+15. Input: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+15. Output: 
+[2, 4, 6, 8, 10]
+###
+16. Instruction: Create a sentence using the following words:
+16. Input: 
+book, read, yesterday
+16. Output: 
+I read a book yesterday.
+###
+17. Instruction: In the following paragraph, replace all instances of "he" with "she". 
+17. Input: 
+Hannah had a meeting with her boss yesterday. He told her that they would be starting a new project next week. He also mentioned that she would be the lead on the project. Hannah was excited about the new opportunity.
+17. Output: 
+Hannah had a meeting with her boss yesterday. She told her that they would be starting a new project next week. She also mentioned that she would be the lead on the project. Hannah was excited about the new opportunity.
+###
+18. Instruction: Simplify the following algebraic expression.
+18. Input: 
+3x + 4x - 2x
+18. Output: 
+5x
+###
+19. Instruction: What countries does the equator pass through?
+19. Input: <noinput>
+19. Output: 
+The equator passes through 13 countries including Ecuador, Colombia, Brazil, Democratic Republic of the Congo, Republic of the Congo, Sao Tome and Principe, Gabon, Uganda, Kenya, Somalia, Indonesia, Kiribati, and the Maldives.
+###
+20. Instruction: Write a Python function to calculate the area of a circle.
+20. Input: <noinput>
+20. Output: 
+def calculate_area(radius):
+    area = 3.14 * radius**2
+    return area

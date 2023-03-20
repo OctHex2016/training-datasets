@@ -1,0 +1,115 @@
+4. Instruction: Rewrite the following sentence to remove passive voice. 
+4. Input: 
+"The cake was baked by the chef." 
+4. Output: 
+"The chef baked the cake." 
+###
+5. Instruction: Provide a summary of the plot of the movie "The Godfather". 
+5. Input: 
+<noinput>
+5. Output: 
+"The Godfather" is a classic movie about the Corleone family, a powerful Italian-American mafia family, and the struggles and violence that come with their way of life. Michael Corleone, the youngest son and family outsider, becomes involved with the family business after his father is nearly assassinated, and he must navigate the criminal underworld to maintain their power and legacy. 
+###
+6. Instruction: Explain how to make a paper airplane. 
+6. Input: 
+A sheet of A4 paper
+6. Output: 
+Start with a sheet of A4 paper positioned long side up. Fold the paper in half lengthwise, crease it, and then unfold it. Fold the corners of the top edge down to meet the center crease, then fold the new top edge down to the bottom of the previous folds. Fold the wings in once more, and your paper airplane is ready to fly!
+###
+7. Instruction: Describe the history of the internet. 
+7. Input: 
+<noinput>
+7. Output: 
+The internet was invented in the 1960s as a way for government researchers to share information with each other. It evolved over the decades to become a worldwide network of interconnected computers and devices, accessible to anyone with an internet connection. The internet has revolutionized communication, commerce, and culture, and continues to be an essential part of everyday life for billions of people around the world.
+###
+8. Instruction: Write a witty caption for a photo of a cat sitting in a cardboard box.
+8. Input: 
+<noinput>
+8. Output: 
+"I'm not fat, I'm just big-boned...and this box is too small!"
+###
+9. Instruction: Edit the following sentence to remove unnecessary words. 
+9. Input: 
+"Myself and my co-workers are going out to lunch together today." 
+9. Output: 
+"My co-workers and I are going out to lunch today." 
+###
+10. Instruction: Describe how to make a proper cup of tea. 
+10. Input: 
+A tea kettle, loose tea leaves, and a tea cup.
+10. Output: 
+Fill the tea kettle with fresh water and bring it to a boil. While waiting for the water to boil, place 1-2 teaspoons of loose tea leaves in a tea strainer or infuser. Place the tea strainer or infuser in your tea cup. Once the water has boiled, let it cool briefly (around 1-2 minutes) before pouring it over the tea leaves. Steep the tea for 2-5 minutes, depending on your preference. Remove the tea strainer or infuser, and enjoy your freshly brewed cup of tea! 
+###
+11. Instruction: Write a message to congratulate someone on their graduation. 
+11. Input: 
+Name of the person who graduated
+11. Output: 
+Dear [Name],
+Congratulations on your graduation! It's been an honor to watch you grow and succeed, and I'm excited to see where your future takes you. I know that you have worked hard to get to this point, and I'm so proud of all that you've accomplished. Best wishes for your future endeavors. 
+Sincerely, [Your Name]
+###
+12. Instruction: Come up with a new flavor for ice cream. 
+12. Input: 
+<noinput>
+12. Output: 
+Introducing our newest flavor, "Peanut Butter Jelly Time"! This creamy ice cream combines the classic flavors of peanut butter and jelly, with swirls of grape jelly and crunchy peanut butter pieces in every bite. Perfect for those craving a nostalgic, childhood treat.
+###
+13. Instruction: Summarize the benefits of practicing yoga. 
+13. Input: 
+<noinput>
+13. Output: 
+Practicing yoga has been shown to have numerous physical and mental health benefits, including increased flexibility, strength, and balance, improved cardiovascular health and respiratory function, reduced stress and anxiety, and improved overall well-being. Regular yoga practice can also promote better sleep, increased mindfulness, and improved body awareness. 
+###
+14. Instruction: Write a caption for a photo of a picturesque sunset. 
+14. Input: 
+<noinput>
+14. Output: 
+"Life is a series of sunsets, each one a new beginning and a step closer to the end." 
+###
+15. Instruction: Edit the following sentence to fix the grammar mistake. 
+15. Input: 
+"I seen that movie last weekend." 
+15. Output: 
+"I watched that movie last weekend." 
+###
+16. Instruction: Explain how to change a flat tire on a car. 
+16. Input: 
+A car with a flat tire and a spare tire.
+16. Output: 
+Park the car on a flat, level surface away from traffic, and engage the parking brake. Use a lug wrench to loosen the lug nuts on the flat tire, but do not remove them yet. Place the jack near the flat tire, using the owner's manual to locate the proper jack points. Raise the car until the flat tire is off the ground, and then remove the lug nuts and take off the flat tire. Replace the flat tire with the spare, tightening the lug nuts carefully in a diagonal pattern. Lower the car back to the ground, and then use the lug wrench to tighten the lug nuts securely. Double-check that all lug nuts are tightened, and then stow the flat tire and all tools in the trunk of the car. 
+###
+17. Instruction: Write a message to decline a job offer. 
+17. Input: 
+Name of the company offering the job
+17. Output: 
+Dear [Hiring Manager],
+Thank you so much for offering me the position at [company]. After careful consideration, I have decided to decline the offer at this time. I really appreciated the opportunity to learn more about the position and the company, and I deeply respect what you do. Please keep me in mind for any future roles, and I hope to have the chance to work with you in the future.
+Best regards, [Your Name]
+###
+18. Instruction: Provide a list of recommended books for a beginner to learn the basics of programming. 
+18. Input: 
+<noinput>
+18. Output: 
+For beginners interested in programming, we recommend the following books:
+
+- "Python Crash Course" by Eric Matthes
+- "Head First Java" by Bert Bates and Kathy Sierra
+- "Learn Python 3 the Hard Way" by Zed A. Shaw
+- "Automate the Boring Stuff with Python" by Al Sweigart
+- "JavaScript and JQuery" by Jon Duckett
+
+These books offer comprehensive and practical tutorials for learning the fundamentals of programming languages, and will give beginners a solid foundation to build upon. 
+###
+19. Instruction: Write a message to apologize for being late to a meeting. 
+19. Input: 
+Name of the person you're meeting with
+19. Output: 
+Dear [Name],
+I am so sorry to have kept you waiting today. I was caught in unexpected traffic, and despite my best efforts, I arrived much later than I intended. I understand that your time is valuable, and I apologize for any inconvenience or frustration this may have caused. I hope that we can still make the most of the time we have together today. 
+Sincerely, [Your Name]
+###
+20. Instruction: Write a paragraph discussing the impact of social media on modern society. 
+20. Input: 
+<noinput>
+20. Output: 
+Social media has become an integral part of modern society, with billions of people around the world using platforms like Facebook, Twitter, and Instagram to connect with others, share information, and express themselves. While social media has brought many benefits, such as enabling global communication and social activism, it has also had negative impacts, such as sometimes promoting disinformation and misinformation, fueling addictive behaviors, and straining our relationships and mental health. As social media continues to evolve and shape our lives, it is important that we recognize both the positive and negative consequences, and work to mitigate the harms while maximizing the benefits.

@@ -1,0 +1,53 @@
+4. Instruction: Paraphrase the given sentence.  
+4. Input: 
+"Success is not the key to happiness, happiness is the key to success."
+4. Output: 
+Achieving happiness leads to success, rather than success being the source of happiness.
+
+5. Instruction: Write a limerick using the given line. 
+5. Input: 
+"There once was a woman from Maine"
+5. Output: 
+There once was a woman from Maine
+Who danced in the wind and the rain
+With a skip and a twirl
+This adventurous girl
+Spread laughter and joy through the plain
+
+6. Instruction: Predict the consequences of consistently getting less than five hours of sleep per night. 
+6. Input: 
+<noinput>
+6. Output: 
+Some of the consequences of consistently getting less than five hours of sleep per night include poor concentration, cognitive impairment, mood disturbances, weakened immune system, increased risk of developing obesity, cardiovascular diseases, weakened skin aging recovery process, poor decision making, and a higher likelihood of getting involved in accidents.
+
+7. Instruction: Convert the text to passive voice.
+7. Input: 
+Researchers continue to study the impact of climate change on our planet.
+7. Output: 
+The impact of climate change on our planet continues to be studied by researchers.
+
+8. Instruction: List the errors in the given paragraph and suggest corrections. 
+8. Input: 
+Horrible weater conditions often lead to car accidnets on the road. Icy conditions and pour visibility can make it extremly difficult to opeerate vehicles safely. Drivers should allways be preparred and cautios when driving in these condition.
+8. Output: 
+1. Horrible weater -> Horrible weather
+2. accidnets -> accidents
+3. pour -> poor
+4. extremly -> extremely
+5. opeerate -> operate
+6. allways -> always
+7. preparred -> prepared
+8. cautios -> cautious
+9. condition -> conditions
+
+9. Instruction: Identify the verb tense of the given sentence. 
+9. Input: 
+By the time we arrived, the others had already left.
+9. Output: 
+Past perfect tense.
+
+10. Instruction: Summarize the main idea of the provided text in one sentence.
+10. Input: 
+In recent years, the rise of smartphones has been unparalleled. Mobile technology has practically infiltrated every aspect of our lives, changing the way we communicate, work, and even relax. Companies have capitalized on this trend by developing millions of apps that cater to our every need and desire. Now, it's not just teenagers glued to their screens; people of all ages have become dependent on smartphones for their daily needs, and it's clear that these devices are not a passing fad.
+10. Output: 
+The rise of smartphones has dramatically changed our daily lives and communication habits, with apps catering to various needs and people of all ages relying on this technology.

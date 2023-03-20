@@ -1,0 +1,46 @@
+4. Instruction: Transform the given text from first-person perspective to third-person perspective.
+4. Input: 
+I went to the store and I bought some milk. Then, I went to the park to enjoy the nice weather.
+4. Output: 
+He went to the store and bought some milk. Then, he went to the park to enjoy the nice weather.
+###
+5. Instruction: Summarize the text in one sentence.
+5. Input: 
+During last night's game, the New York Yankees defeated the Boston Red Sox in a close match. The final score was 7-6.
+5. Output: 
+The New York Yankees narrowly beat the Boston Red Sox 7-6 in last night's game.
+###
+6. Instruction: Can you draw parallels between the two plots and highlight their similarities?
+6. Input: 
+Plot 1: A young orphan discovers they have magical powers and must use them to defeat a powerful dark lord.
+Plot 2: An ordinary teenager learns that they possess unique powers that can save the world from a villainous sorcerer.
+6. Output: 
+Both plots involve the protagonist discovering their hidden powers, and both protagonists use their newfound abilities to fight against a powerful antagonist.
+###
+7. Instruction: Translate the provided English text into German.
+7. Input: 
+How are you doing today?
+7. Output: 
+Wie geht es dir heute?
+###
+8. Instruction: Evaluate the level of formality of the text and suggest a more informal alternative.
+8. Input: 
+Greetings, please find the attached document and review at your earliest convenience.
+8. Output: 
+Hey, check out the attached document when you get a chance.
+###
+9. Instruction: Construct a limerick based on the given phrase.
+9. Input: 
+A cat with a hat
+9. Output: 
+There once was a cat with a hat
+Who caught a big mouse where it sat
+The cat then did prance
+With such style and stance
+And kept the mouse for a chat
+###
+10. Instruction: What is the origin of the idiom 'break a leg'?
+10. Input: 
+<noinput>
+10. Output: 
+The origin of the idiom 'break a leg' is uncertain, but it is commonly believed to be a theatrical superstition, originating from wishing actors good luck in reverse or the tradition of bending a knee (curtsy) after a performance.

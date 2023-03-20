@@ -1,0 +1,104 @@
+4. Instruction: Summarize the given article in 3-4 sentences.
+4. Input: 
+Article: "Climate Change Could Cut Southern Africa’s Food Output by a Third" (source: Bloomberg)
+4. Output: 
+According to a report by the International Food Policy Research Institute, southern Africa could face a 30% reduction in the amount of food produced by 2050 as a result of climate change. The report also identified the countries most at risk, including Malawi, Mozambique, and Zimbabwe. The reduction in food production could lead to higher food prices and food shortages, particularly for vulnerable communities.
+###
+5. Instruction: Translate the given phrase into Spanish.
+5. Input: 
+"I love you"
+5. Output: 
+"Te quiero"
+###
+6. Instruction: Generate a haiku poem.
+6. Input: 
+<noinput>
+6. Output: 
+Leaves rustle gently,
+Softly falling to the ground,
+Nature's lullaby.
+###
+7. Instruction: Correct the grammar and punctuation errors in the given sentence.
+7. Input: 
+"The childeren is going to theyre classroom to learn math this morning."
+7. Output: 
+"The children are going to their classroom to learn math this morning."
+###
+8. Instruction: What is the highest peak in the world?
+8. Input: 
+<noinput>
+8. Output: 
+Mount Everest is the highest peak in the world, with an elevation of 29,029 feet.
+###
+9. Instruction: Identify the author of the given quote.
+9. Input: 
+"Be the change that you wish to see in the world."
+9. Output: 
+Mahatma Gandhi
+###
+10. Instruction: Rewrite the given sentence in the passive voice.
+10. Input: 
+The company will launch a new product next month.
+10. Output: 
+A new product will be launched by the company next month.
+###
+11. Instruction: Generate a list of five countries that have a population over 100 million.
+11. Input: 
+<noinput>
+11. Output: 
+China, India, United States, Indonesia, Pakistan
+###
+12. Instruction: What is the capital city of the given country?
+12. Input: 
+Portugal
+12. Output: 
+Lisbon is the capital city of Portugal.
+###
+13. Instruction: Correct the spelling errors in the given sentence.
+13. Input: 
+"Recieveing this massage is enought to make my day!"
+13. Output: 
+"Receiving this message is enough to make my day!"
+###
+14. Instruction: Complete the given analogy.
+14. Input: 
+"Cat is to meow as dog is to _______"
+14. Output: 
+"Bark"
+###
+15. Instruction: Simplify the given math equation.
+15. Input: 
+(2x^2y^3)(4x^3y^2)
+15. Output: 
+8x^5y^5
+###
+16. Instruction: Generate a rhyming couplet.
+16. Input: 
+<noinput>
+16. Output: 
+The dog chased the cat under the mat,
+But in the end, it just got fat.
+###
+17. Instruction: What is the birthplace of the given historical figure?
+17. Input: 
+Albert Einstein
+17. Output: 
+Ulm, Wurttemberg, Germany is the birthplace of Albert Einstein.
+###
+18. Instruction: Rewrite the given sentence in the past perfect tense.
+18. Input: 
+I had finished my homework before my friend arrived.
+18. Output: 
+I had finished my homework before my friend had arrived.
+###
+19. Instruction: Describe the given image in 2-3 sentences.
+19. Input: 
+<insert image of the Eiffel Tower>
+19. Output: 
+The Eiffel Tower is a famous monument located in Paris, France that was built in 1887. It is a symbol of French culture and a popular tourist attraction.
+###
+20. Instruction: Generate a pun using the word "book".
+20. Input: 
+<noinput>
+20. Output: 
+I have a good book about teleportation, but it just didn't transport me.

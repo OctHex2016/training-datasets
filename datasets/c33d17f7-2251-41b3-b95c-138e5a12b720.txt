@@ -1,0 +1,129 @@
+4. Instruction: Convert the following sentence to Title Case: "the quick brown fox jumps over the lazy dog."
+4. Input: 
+the quick brown fox jumps over the lazy dog.
+4. Output: 
+The Quick Brown Fox Jumps Over The Lazy Dog.
+###
+5. Instruction: Write a persuasive paragraph about a topic of your choice.
+5. Input: 
+Topic: Why recycling is important.
+5. Output: 
+Recycling is an essential part of our daily lives. It helps reduce the amount of waste we produce and ultimately helps protect our environment. By recycling, we can conserve resources, reduce pollution, and save energy. Additionally, recycling helps create jobs for the community and promotes a sustainable lifestyle that benefits future generations. We should all make an effort to recycle and do our part to protect the planet.
+###
+6. Instruction: Given a date, find the day of the week it falls on.
+6. Input: 
+August 5, 2021.
+6. Output: 
+Thursday.
+###
+7. Instruction: Write a short love story that is set in New York City.
+7. Input: 
+<noinput>
+7. Output: 
+A young couple from opposite sides of the city meet in the middle of Central Park one summer day. They talk, laugh, and share their dreams and fears. As the sun sets behind Manhattan's skyline, they realize they never want to let each other go. They continue to meet in Central Park every day, no matter the weather. Eventually, they get married in the park, surrounded by the beauty and energy of the city they fell in love in.
+###
+8. Instruction: Given a list of numbers, remove all even numbers and return the updated list.
+8. Input: 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+8. Output: 
+[1, 3, 5, 7, 9]
+###
+9. Instruction: Write a brief summary of Albert Einstein's theory of relativity.
+9. Input: 
+<noinput>
+9. Output: 
+Einstein's theory of relativity explains how gravity works and how objects move through space and time. It describes how space and time are interconnected and provides a framework for understanding the fundamental laws of the universe. The theory has been widely accepted and has led to new discoveries in physics and astronomy.
+###
+10. Instruction: Convert the following sentence to Pig Latin: "The quick brown fox jumps over the lazy dog"
+10. Input: 
+The quick brown fox jumps over the lazy dog.
+10. Output: 
+heTay ickquay ownbray oxfay umpsjay overway hetay azylay ogday.
+###
+11. Instruction: Write a poem about the ocean.
+11. Input: 
+<noinput>
+11. Output: 
+The waves crash against the shore
+A symphony of sound
+The ocean's rhythm forevermore
+A song that can't be drowned
+
+The sea, a world in itself
+Vastness that can't be seen
+A force that cannot be belittled
+A sight that will ever be pristine
+###
+12. Instruction: Given a sentence, rephrase it in a grammatically correct manner.
+12. Input: 
+Him and me is going to the store.
+12. Output: 
+He and I are going to the store.
+###
+13. Instruction: What are the ingredients and steps to make a classic margarita? 
+13. Input: 
+<noinput>
+13. Output: 
+Ingredients: 
+- 2 oz tequila 
+- 1 oz lime juice 
+- 1 oz Cointreau 
+
+Steps: 
+1. Rim a glass with salt 
+2. Combine all ingredients in a shaker filled with ice 
+3. Shake until well combined 
+4. Strain into the salt-rimmed glass 
+5. Garnish with a lime wedge and enjoy!
+###
+14. Instruction: Write a news report detailing the aftermath of a major earthquake in Los Angeles.
+14. Input: 
+<noinput>
+14. Output: 
+Los Angeles has been struck by a major earthquake, causing widespread damage and injuries. The epicenter of the quake was located in the San Fernando Valley. Buildings have collapsed, roads are blocked, and many people are missing. Emergency crews are working tirelessly to search for survivors and provide medical attention to those in need. The city has declared a state of emergency and is calling for assistance from neighboring areas. Residents are advised to stay indoors and avoid travel until further notice.
+###
+15. Instruction: Given a list of names, sort them alphabetically.
+15. Input: 
+[John, Tom, Sarah, Emily, Alex]
+15. Output: 
+[Alex, Emily, John, Sarah, Tom]
+###
+16. Instruction: Write a short story that centers around a time traveler.
+16. Input: 
+<noinput>
+16. Output: 
+Adam had always been fascinated by time travel. He had spent his entire life studying the principles of physics and had become an expert on the subject. One day, he built a time machine and decided to take it for a spin.
+
+He landed in ancient Rome and was amazed by the sights and sounds around him. As he explored the city, he came across a group of soldiers who were about to execute a man. Without thinking, Adam jumped in and rescued the prisoner.
+
+As it turned out, the man was a great philosopher who would go on to change the course of history. Adam knew he couldn't let him be executed, so he took him back to his own time.
+
+Together, they worked on solving the world's problems, using their combined knowledge to create a better future for everyone. And all the while, Adam knew that he had changed the course of history forever.
+###
+17. Instruction: Given a word, provide a list of synonyms.
+17. Input: 
+playful
+17. Output: 
+jovial, lighthearted, sprightly, mischievous, frolicsome.
+###
+18. Instruction: Write a product review for your favorite book.
+18. Input: 
+Book: 1984 by George Orwell.
+18. Output: 
+1984 is a brilliant and thought-provoking book about the dangers of totalitarianism. Orwell's writing is both elegant and powerful, as he takes the reader on a journey through a dystopian world that feels terrifyingly real. The characters are complex and nuanced, and the story is gripping from start to finish. This book is a must-read for anyone who cares about freedom, justice, and the power of words.
+###
+19. Instruction: Given a set of coordinates, find the distance between them.
+19. Input: 
+(25, 46), (34, 70)
+19. Output: 
+The distance between the two points is approximately 24.2 units.
+###
+20. Instruction: Write a short story that takes place in a post-apocalyptic world.
+20. Input: 
+<noinput>
+20. Output: 
+In a world destroyed by a global pandemic, a small group of survivors band together to try and rebuild society. They scavenge for supplies and search for other survivors, all while trying to avoid the marauding gangs that roam the wasteland.
+
+As they explore the ruins of the old world, they discover a hidden bunker filled with advanced technology and ancient knowledge. With the help of a brilliant scientist, they begin to build a new world, one that is free from disease and hunger.
+
+But the journey is not easy, and they must face new challenges every day. Will they be able to overcome the obstacles before them and build a better future for themselves and their children? Only time will tell.

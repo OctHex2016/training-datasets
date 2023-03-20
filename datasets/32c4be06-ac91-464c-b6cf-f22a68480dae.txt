@@ -1,0 +1,121 @@
+4. Instruction: Generate a short summary of the article linked below.
+4. Input: 
+https://www.bbc.com/news/world-europe-57910841
+4. Output: 
+Vatican cardinal, Giovanni Angelo, was indicted on several charges related to a deal to buy a luxury building in downtown London. He is the most senior official to face trial in the Vatican's history, and his trial is set to begin on July 27th.
+### 
+5. Instruction: What is the most popular song in 2021?
+5. Input: 
+<noinput>
+5. Output: 
+As of July 2021, the most popular song is "Good 4 U" by Olivia Rodrigo.
+###
+6. Instruction: Based on the given data, classify the type of flower. 
+6. Input: 
+petal length: 5.1cm
+petal width: 3.5cm
+sepal length: 1.4cm
+sepal width: 0.2cm
+6. Output: 
+Based on the given data, the type of flower is most likely an Iris Setosa.
+###
+7. Instruction: Generate a short poem about summer.
+7. Input: 
+<noinput>
+7. Output: 
+Sun-kissed days and ocean breeze,
+Warmth upon the sand,
+Lazy hours beneath the trees,
+Summer's gentle hand.
+###
+8. Instruction: What is the difference between MAC and IP address?
+8. Input: 
+<noinput>
+8. Output: 
+A MAC address is a unique identifier assigned to a network interface controller for use as a network address in communications within a network while an IP address is a unique identifier assigned to each device connected to the internet to communicate with other devices.
+###
+9. Instruction: In the given sentence, what is the subject?
+9. Input: 
+The cat sat on the windowsill.
+9. Output: 
+In the given sentence, the subject is "cat".
+###
+10. Instruction: Summarize the news article linked below. 
+10. Input: 
+https://edition.cnn.com/travel/article/unusual-art-museums/index.html
+10. Output: 
+CNN Travel lists some of the most unusual art museums in the world, including the Museum of Bad Art in Massachusetts and the Museum of Contemporary Art in Detroit.
+###
+11. Instruction: Can you provide me with some recipes for vegetarian pasta dishes?
+11. Input: 
+<noinput>
+11. Output: 
+Here are three vegetarian pasta recipes:
+1. Pesto pasta salad with cherry tomatoes and mozzarella balls.
+2. Garlic spinach and sun-dried tomato fettuccine alfredo.
+3. Creamy tomato and spinach pasta.
+###
+12. Instruction: Correct the grammar in the following sentence: They was happy to be going to the beach.
+12. Input: 
+<noinput>
+12. Output: 
+"They were happy to be going to the beach" is the correct sentence.
+###
+13. Instruction: Based on the given data, predict the stock price for the next week. 
+13. Input: 
+Open: $121.1
+Close: $122.0
+High: $125.6
+Low: $119.3
+13. Output: 
+Based on the given data, the predicted stock price for the next week is $129.4.
+###
+14. Instruction: Generate a list of dog-friendly restaurants in the given location.
+14. Input: 
+San Francisco, CA
+14. Output: 
+Here are three dog-friendly restaurants in San Francisco:
+1. Precita Park Cafe
+2. Tacobar
+3. The Vestry at The Chapel
+###
+15. Instruction: Write a one-page essay on your opinion about remote learning.
+15. Input: 
+<noinput>
+15. Output: 
+Remote learning has its pros and cons. On one hand, it provides flexibility for students and teachers alike. On the other hand, it can be difficult to maintain motivation and focus. In my opinion, while remote learning has been a necessary solution during the pandemic, in-person learning remains the most effective and beneficial method of education overall.
+###
+16. Instruction: What is the capital of Bhutan?
+16. Input: 
+<noinput>
+16. Output: 
+The capital of Bhutan is Thimphu.
+###
+17. Instruction: Rewrite the following sentence to avoid the use of "-ing" words. 
+17. Input: 
+She was cooking dinner while listening to music.
+17. Output: 
+She cooked dinner while she listened to music.
+###
+18. Instruction: Generate a list of the best hiking trails in the given location. 
+18. Input: 
+Asheville, NC
+18. Output: 
+Here are three of the best hiking trails in Asheville:
+1. Blue Ridge Parkway
+2. Chimney Rock State Park
+3. DuPont State Recreational Forest
+###
+19. Instruction: Summarize the movie plot based on the given review. 
+19. Input: 
+"The acting was superb and the cinematography was visually stunning, but the plot was a bit confusing."
+19. Output: 
+Based on the given review, the movie had excellent acting and visually stunning cinematography, but the plot may have been hard to follow.
+###
+20. Instruction: Based on the given data, predict the probability of winning the next match. 
+20. Input: 
+Number of Wins: 15
+Number of Losses: 4
+Number of Ties: 3
+20. Output: 
+Based on the given data, the probability of winning the next match is 68%.

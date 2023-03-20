@@ -1,0 +1,125 @@
+4. Instruction: Rewrite the following paragraph in a passive voice.
+4. Input: 
+The dog chased the cat through the garden, knocking over pots and trampling plants. The cat quickly climbed a tree to escape as the dog barked frantically below.
+4. Output: 
+The cat was chased by the dog through the garden, where pots were knocked over and plants were trampled. A tree was quickly climbed by the cat to escape, while the dog barked frantically below.
+
+5. Instruction: Categorize the following text into one of these categories: Horror, Romance, Sci-Fi, or Comedy.
+5. Input: 
+He walked along the edge of the cliff, looking down at the raging sea below as the wind whipped around him. The air smelled faintly of salt and decay, an ominous presence lurking around the corner.
+5. Output: 
+Horror
+
+6. Instruction: Translate the following English sentence to French.
+6. Input: 
+I have a meeting at 3 pm today.
+6. Output: 
+J'ai une réunion à 15h aujourd'hui.
+
+7. Instruction: Explain the Pythagorean theorem in one or two sentences.
+7. Input: 
+<noinput>
+7. Output: 
+The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.
+
+8. Instruction: Create a haiku describing a tranquil forest.
+8. Input: 
+<noinput>
+8. Output: 
+Tall trees stand serene,
+Birds sing softly, leaves rustle,
+Nature breathes in peace.
+
+9. Instruction: Compose a 3-sentence story with a plot twist.
+9. Input: 
+<noinput>
+9. Output: 
+Lucy hid the treasure in her favorite spot beneath the ancient oak tree. Years later, she attempted to retrieve her fortune, only to find it missing. Unbeknownst to her, she had unwittingly buried it in a time capsule, now used by children as their secret hiding place.
+
+10. Instruction: What holiday would you recommend for a couple in their 60s who enjoy cultural experiences and sightseeing?
+10. Input: 
+<noinput>
+10. Output: 
+A European river cruise through countries such as France, Germany, and Hungary, visiting historical sites, museums, and enjoying local cuisine and culture.
+
+11. Instruction: Provide a six-word phrase that would make a great motivational quote.
+11. Input: 
+<noinput>
+11. Output: 
+Believe, achieve, succeed – no regrets.
+
+12. Instruction: Generate an acrostic poem using the word "kindness."
+12. Input: 
+<noinput>
+12. Output: 
+Keen to help, understanding springs forth,
+In times of need, a friendly hand,
+Nature's beauty surrounds us, we
+Deliver compassion with smiles wide,
+Extending warmth, a gentle embrace,
+Soft spoken words of love and care,
+Sowing seeds of unity, far and wide.
+
+13. Instruction: Write a persuasive argument to encourage people to recycle.
+13. Input: 
+<noinput>
+13. Output: 
+Recycling is not only a responsible choice for the environment, but it also combats litter and pollution, contributes to lessening global warming, and makes our local communities healthier places to live in. By recycling responsibly, you are playing a vital role in conserving valuable resources, reducing energy use, and curbing landfill growth. Together we can make a positive difference in the world and leave a lasting, sustainable future for generations to come.
+
+14. Instruction: Write a formal complaint letter about loud neighbors.
+14. Input: 
+<noinput>
+14. Output: 
+Dear [Landlord's Name],
+
+I am writing this letter to formally complain about the unacceptable level of noise coming from the neighboring apartment, [Apartment Number]. I have been experiencing consistent loud music, late-night conversations, and general disturbances from the aforementioned neighbors for several weeks now.
+
+Despite my attempts to address the issue politely and offer them solutions to minimize noise, such as using headphones or lowering the volume, the situation has not improved. Since this disturbance is affecting my sleep and daily life, I kindly request that you intervene and provide the necessary measures to address this issue.
+
+Thank you for your attention to this matter, and I look forward to a swift and effective resolution.
+
+Sincerely,
+[Your Name]
+
+15. Instruction: Create a one-paragraph story that includes a twist involving time travel.
+15. Input: 
+<noinput>
+15. Output: 
+While archaeologist Peter Dawson conducted an extensive excavation in Egypt's Valley of the Kings, he discovered a peculiar artifact: a golden, gem-encrusted watch, unlike anything he had ever seen in ancient history. Upon winding and activating the timepiece, a brilliant flash of light briefly engulfed Peter, transporting him 3,000 years back in time. Mystified, he suddenly found himself face to face with the very Pharaoh who had, millennia prior, discovered his own time-traveling future corpse, clutching the same watch, which the Pharaoh had then coveted as a prized possession.
+
+16. Instruction: Write a recipe for a quick and easy vegetarian dish suitable for one person.
+16. Input: 
+<noinput>
+16. Output: 
+Single-serving Tomato Basil Pasta:
+1. Boil 2 ounces of spaghetti in salted water until al dente.
+2. While the pasta cooks, heat 1 tablespoon of olive oil in a pan over medium heat.
+3. Add 1 clove of minced garlic and cook for 1-2 minutes.
+4. Add 1 cup of chopped fresh tomatoes, 1 teaspoon of balsamic vinegar, salt, and pepper to taste. Cook for another 3-5 minutes.
+5. Add 1 tablespoon of chopped fresh basil to the sauce.
+6. Drain the pasta and combine it with the tomato-basil sauce.
+7. Top with grated Parmesan cheese (optional) and enjoy!
+
+17. Instruction: Given a few keywords, create an imaginary book title.
+17. Input: 
+vampire, forbidden love, moon
+17. Output: 
+Midnight Embrace: A Vampire's Forbidden Love
+
+18. Instruction: Explain how photosynthesis works in basic terms.
+18. Input: 
+<noinput>
+18. Output: 
+Photosynthesis is the process by which green plants and some microorganisms use sunlight to convert carbon dioxide and water into glucose (a type of sugar) and oxygen. This chemical reaction occurs in the chlorophyll-containing chloroplasts found within the cells of plants, allowing them to produce their own food and release oxygen as a byproduct, which is essential for all oxygen-breathing organisms.
+
+19. Instruction: Provide advice for someone looking to start jogging for the first time.
+19. Input: 
+<noinput>
+19. Output: 
+Begin with a comfortable walking pace and gradually incorporate short intervals of jogging. Warm up before each session with light stretching or walking, and wear proper footwear to support your feet and reduce the risk of injuries. Listen to your body and avoid pushing too hard too fast – aim for a steady, manageable pace that allows you to maintain a conversation while jogging. Increase your jogging intervals and distance over time, tracking your progress along the way.
+
+20. Instruction: Suggest a birthday gift for a 7-year-old who loves dinosaurs.
+20. Input: 
+<noinput>
+20. Output: 
+A dinosaur-themed LEGO set, enabling the child to build and engage with their favorite prehistoric creatures.

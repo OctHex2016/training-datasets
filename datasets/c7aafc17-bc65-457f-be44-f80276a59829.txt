@@ -1,0 +1,147 @@
+4. Instruction: Rewrite the given text in a more formal tone.
+4. Input: 
+Dude, I gotta say this new report is looking pretty sick. Our team rocked it, and boss man will definitely be stoked.
+4. Output: 
+I must express that the new report is quite impressive. Our team has done an outstanding job, and I am confident that our supervisor will be pleased with the results.
+
+###
+5. Instruction: Given the following words, create a rhyming poem.
+5. Input: 
+stars, Mars, afar, guitars, memoirs, spar, bizarre
+5. Output: 
+In the night of shining stars,
+One might wonder life on Mars.
+Venture out into the afar,
+Playing melodies on guitars.
+
+Whispers of past memoirs,
+In the moonlight we might spar.
+A cosmic dance so bizarre,
+As the universe reveals who we are.
+
+###
+6. Instruction: Translate the given English text into French.
+6. Input: 
+The sun is shining, and the birds are singing. It's going to be a beautiful day.
+6. Output: 
+Le soleil brille, et les oiseaux chantent. Ce sera une belle journée.
+
+###
+7. Instruction: Summarize the given passage in one sentence.
+7. Input: 
+"Call of the Wild" is a novel by Jack London, published in 1903. It tells the story of a domesticated dog named Buck, who is stolen from his home in California and sold to sled dog traders. He undergoes a series of adventures in the wilds of the Yukon, discovering his primal nature and becoming the leader of a wolf pack.
+7. Output: 
+"Call of the Wild" follows a domesticated dog named Buck as he is stolen from California, thrust into the Yukon's wilderness, and ultimately becomes the leader of a wolf pack.
+
+###
+8. Instruction: Correct the grammar and punctuation of the given text.
+8. Input: 
+Their going to they're friends house later to discuss about there vacation plans
+8. Output: 
+They're going to their friend's house later to discuss their vacation plans.
+
+###
+9. Instruction: Explain the purpose of photosynthesis in plants.
+9. Input:
+<noinput>
+9. Output: 
+The purpose of photosynthesis in plants is to convert light energy from the sun into chemical energy, which is stored as glucose, fueling their growth and various cellular activities. Additionally, photosynthesis produces oxygen as a byproduct, which is essential for the survival of humans and other aerobic organisms.
+
+###
+10. Instruction: Name three historical events that happened in the 20th century.
+10. Input:
+<noinput>
+10. Output: 
+1. World War I (1914-1918)
+2. The Great Depression (1929-1939)
+3. World War II (1939-1945)
+
+###
+11. Instruction: Compare and contrast the Renaissance period and the Middle Ages in terms of art and culture.
+11. Input:
+<noinput>
+11. Output: 
+The Renaissance period (14th to 17th century) was marked by a revival of classical ideas, humanism, and a focus on individualism, leading to a flourishing of arts, sciences, and new techniques in painting, sculpture, and architecture. In contrast, the art and culture of the Middle Ages (5th to 14th century) followed a predominantly religious and feudal theme, incorporating less realistic depictions and focusing largely on biblical stories. The transition from the Middle Ages to the Renaissance reflects the shift from theocratic dominance to a more human-centric approach to arts and learning.
+
+###
+12. Instruction: Detect the tense of the given sentence and rewrite it in future tense.
+12. Input: 
+She was playing the piano when the guests arrived.
+12. Output: 
+Tense: Past Continuous
+She will be playing the piano when the guests arrive.
+
+###
+13. Instruction: Classify the following animal into one of these categories: mammal, reptile, amphibian, bird, or fish. Explain your classification.
+13. Input: 
+Penguin
+13. Output: 
+Classification: Bird
+Explanation: Penguins are classified as birds because they have feathers, lay eggs, and possess the skeletal structure and physiological characteristics typical of birds, even though they cannot fly and are adapted for swimming in aquatic environments.
+
+###
+14. Instruction: Find a logical fallacy in the argument and explain it briefly.
+14. Input: 
+Eat your broccoli because I said so, and I am your parent.
+14. Output: 
+Logical Fallacy: Appeal to Authority
+Explanation: The argument implies that the parent's authority is sufficient reasoning for the child to eat their broccoli, rather than providing a reasonable, logical explanation for the action.
+
+###
+15. Instruction: Identify the literary device used in the given sentence.
+15. Input: 
+The wind whispered softly through the trees.
+15. Output: 
+Literary Device: Personification
+Explanation: Personification is used in this sentence by attributing the human-like action of 'whispering' to the non-human entity, the wind.
+
+###
+16. Instruction: Calculate the percentage of each subject's marks.
+16. Input: 
+Math: 75/100, English: 90/100, Science: 65/100, History: 80/100
+16. Output: 
+Math: 75%
+English: 90%
+Science: 65%
+History: 80%
+
+###
+17. Instruction: List five ways to reduce plastic waste in daily life.
+17. Input:
+<noinput>
+17. Output: 
+1. Use reusable or cloth shopping bags instead of single-use plastic bags.
+2. Choose products with minimal or eco-friendly packaging when purchasing.
+3. Use a reusable water bottle and coffee cup instead of single-use plastic bottles or cups.
+4. Avoid using plastic straws and utensils; opt for reusable, biodegradable, or metal alternatives.
+5. Recycle properly to ensure that plastic waste is disposed of in an eco-friendly manner.
+
+###
+18. Instruction: Explain the pros and cons of using nuclear energy.
+18. Input:
+<noinput>
+18. Output: 
+Pros:
+1. Nuclear energy is a low-carbon energy source, which contributes less to greenhouse gas emissions.
+2. It has a high energy density, providing a large amount of energy from a small amount of fuel.
+3. Nuclear power plants can operate continuously, ensuring consistent energy supply.
+
+Cons:
+1. Nuclear accidents pose significant environmental and health risks, as evident in Chernobyl or Fukushima disasters.
+2. Nuclear power plants generate radioactive waste, which requires safe and secure long-term storage solutions.
+3. The construction and decommissioning of nuclear plants can be expensive and time-consuming.
+
+###
+19. Instruction: Define the term "inflation" in the context of economics.
+19. Input:
+<noinput>
+19. Output: 
+Inflation refers to the rate at which the general price level of goods and services in an economy increases over a specified period, resulting in a decrease in the purchasing power of money.
+
+###
+20. Instruction: Provide two possible solutions to traffic congestion in urban areas.
+20. Input:
+<noinput>
+20. Output: 
+1. Implement and expand the public transportation systems, such as buses, subways, and trains, to encourage people to use public transit instead of personal vehicles.
+2. Implement congestion pricing, which involves charging vehicles for entering high-traffic areas during peak hours, thereby encouraging the use of alternative routes or transportation methods.

@@ -1,0 +1,139 @@
+4. Instruction: Correct the grammar errors in the following sentence.
+4. Input: 
+"Their are many people who loves to travel, specially during the summer."
+4. Output: 
+"There are many people who love to travel, especially during the summer."
+###
+5. Instruction: Given a sentence with a missing word, provide the missing word.
+5. Input: 
+"Her coffee tasted __________ today."
+5. Output: 
+"Her coffee tasted bitter today."
+###
+6. Instruction: Generate a list of 5 countries that are currently accepting visitors during the pandemic.
+6. Input: 
+<noinput>
+6. Output: 
+Currently, the following countries are accepting visitors during the pandemic:
+- Mexico 
+- Costa Rica
+- Brazil 
+- Turkey 
+- Maldives
+Please note that travel policies and restrictions are subject to change frequently, so be sure to check with local authorities before booking your trip.
+###
+7. Instruction: Complete the following sentence with one word. "The Great Barrier Reef is a world __________."
+7. Input: 
+<noinput>
+7. Output: 
+"The Great Barrier Reef is a world treasure."
+###
+8. Instruction: Provide a step-by-step guide on how to make chocolate chip cookies.
+8. Input: 
+Ingredients:
+- 1 cup of butter
+- 1 cup of brown sugar
+- 1 cup of white sugar
+- 2 eggs
+- 1 tsp of baking soda
+- 1 tsp of salt
+- 3 cups of flour
+- 2 cups of chocolate chips
+
+Equipment:
+- Mixing bowls 
+- Whisk or electric beater 
+- Measuring cups and spoons
+- Baking sheets
+- Parchment paper
+
+8. Output: 
+Step-by-step guide on how to make chocolate chip cookies:
+1. Preheat the oven to 375°F (190°C).
+2. In a large mixing bowl, cream together 1 cup of butter, 1 cup of brown sugar, and 1 cup of white sugar until smooth.
+3. Beat in 2 eggs one at a time, then stir in the baking soda and salt.
+4. Gradually add in 3 cups of flour until the dough is formed.
+5. Fold in 2 cups of chocolate chips.
+6. Scoop the dough using a tablespoon and place them on a parchment-lined baking sheet.
+7. Bake for 10-12 minutes or until the edges are golden brown.
+8. Let the cookies cool on the baking sheet for 2 minutes, then transfer them to a wire rack to cool completely. Enjoy!
+###
+9. Instruction: Explain the concept of Blockchain in less than 100 words.
+9. Input: 
+<noinput>
+9. Output: 
+Blockchain is a distributed digital ledger technology that records transactions in a secure and verifiable way. It uses a decentralized system that eliminates the need for intermediaries and creates a tamper-proof, transparent system that can reduce the risk of fraud and corruption. Each block of data contains a unique cryptographic hash that links to the previous block, forming a chain of blocks that cannot be altered, making it ideal for financial transactions, supply chain management, and other industries.
+###
+10. Instruction: Write a haiku about autumn.
+10. Input: 
+<noinput>
+10. Output: 
+Golden leaves falling
+Crisp air whispers through the trees
+Autumn has arrived
+###
+11. Instruction: Identify the longest river in South America.
+11. Input: 
+<noinput>
+11. Output: 
+The longest river in South America is the Amazon River, with a length of approximately 6,400 km (4,000 miles).
+###
+12. Instruction: Given a set of coordinates, find the name of the city nearest to it.
+12. Input: 
+Latitude: 40.7128° N 
+Longitude: 74.0060° W 
+12. Output: 
+The city nearest to the given coordinates is New York City, New York, USA.
+###
+13. Instruction: Identify the chemical symbol for gold.
+13. Input: 
+<noinput>
+13. Output: 
+The chemical symbol for gold is Au.
+###
+14. Instruction: Given a word, provide a list of synonyms for that word.
+14. Input: 
+Word: happy
+14. Output: 
+Synonyms for the word happy include:
+- Joyful
+- Delighted
+- Ecstatic
+- Cheerful
+- Content
+###
+15. Instruction: Identify the author of the book "The Catcher in the Rye".
+15. Input: 
+<noinput>
+15. Output: 
+The author of the book "The Catcher in the Rye" is J.D. Salinger.
+###
+16. Instruction: Translate the phrase "hello, how are you?" into Spanish.
+16. Input: 
+<noinput>
+16. Output: 
+The phrase "hello, how are you?" translates to "hola, ¿cómo estás?" in Spanish.
+###
+17. Instruction: Edit the following sentence to remove redundancy. "The reason why I didn't come to the party is because I was feeling sick."
+17. Input: 
+<noinput>
+17. Output: 
+"I didn't come to the party because I was feeling sick." 
+###
+18. Instruction: Given a sentence, reverse the order of the words.
+18. Input: 
+"The quick brown fox jumps over the lazy dog."
+18. Output: 
+"Dog lazy the over jumps fox brown quick the."
+###
+19. Instruction: A given text has several spelling errors. Correct all the errors.
+19. Input: 
+"The shcool is opne today butt the students aren't comeing in. The teahcers are still reequired to be there."
+19. Output: 
+"The school is open today but the students aren't coming in. The teachers are still required to be there."
+###
+20. Instruction: Identify the capital of Australia.
+20. Input: 
+<noinput>
+20. Output: 
+The capital of Australia is Canberra.

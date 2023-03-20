@@ -1,0 +1,113 @@
+4. Instruction: Identify and correct grammatical errors in the following text.
+4. Input: 
+The cats likes climbing up the trees, whereas dogs are prefer to stays on the ground.
+4. Output: 
+The cats like climbing up the trees, whereas dogs prefer to stay on the ground.
+###
+5. Instruction: Write a short news article summary based on the following information.
+5. Input: 
+Title: Apple Announces New iPhone 14
+Highlights: 
+- iPhone 14 features an all-glass design
+- Improved battery life
+- Advanced AR capabilities
+- New A16 chip for faster performance
+- Available in four colors and three size options
+5. Output: 
+Apple has announced the release of their latest smartphone, the iPhone 14. The new phone boasts an all-glass design, improved battery life, advanced Augmented Reality (AR) capabilities, a faster A16 chipset, and availability in four colors and three sizes.
+###
+6. Instruction: Translate the following English text to French.
+6. Input: 
+The weather is beautiful today, and everyone is enjoying it.
+6. Output: 
+Le temps est magnifique aujourd'hui, et tout le monde en profite.
+###
+7. Instruction: Identify the logical fallacy in the following argument.
+7. Input: 
+If we allow people to drive cars, then people will inevitably get into accidents. Therefore, we should not allow people to drive cars.
+7. Output: 
+Slippery slope
+###
+8. Instruction: Write a haiku about winter.
+8. Input: 
+<noinput>
+8. Output: 
+Frost-gilded branches,
+Warmth of breath in frigid air,
+Silent snowfall's grace.
+###
+9. Instruction: List three measures that can help reduce plastic pollution.
+9. Input: 
+<noinput>
+9. Output: 
+1. Implementing plastic bag bans or fees.
+2. Encouraging the use of reusable products.
+3. Improving recycling infrastructure and efforts.
+###
+10. Instruction: Explain the meaning of the idiom "barking up the wrong tree."
+10. Input: 
+<noinput>
+10. Output: 
+The idiom "barking up the wrong tree" means to pursue a mistaken or misguided course of action, or to focus on the wrong issue or problem.
+###
+11. Instruction: Rewrite the following passive sentence in active voice.
+11. Input: 
+The cake was eaten by the children.
+11. Output: 
+The children ate the cake.
+###
+12. Instruction: Given a short plot summary, classify the movie genre. You should respond with "Drama", "Action", "Comedy", "Romance", "Sci-fi", "Horror", "Thriller", or "Fantasy".
+12. Input: 
+A group of scientists discovers that Earth is about to be destroyed by a large asteroid. Together, they must come up with a plan to save humanity.
+12. Output: 
+Sci-fi
+###
+13. Instruction: Describe three differences between aerobic and anaerobic respiration.
+13. Input: 
+<noinput>
+13. Output: 
+1. Aerobic respiration requires oxygen, while anaerobic respiration doesn't.
+2. Aerobic respiration releases a larger amount of energy, while anaerobic respiration releases a smaller amount of energy.
+3. Aerobic respiration produces carbon dioxide and water as waste products, while anaerobic respiration produces lactic acid or ethanol, depending on the organism.
+###
+14. Instruction: Calculate the perimeter of a rectangle with a length of 12 units and a width of 6 units.
+14. Input: 
+<noinput>
+14. Output: 
+36 units
+###
+15. Instruction: Write a brief summary of the importance of the ozone layer.
+15. Input: 
+<noinput>
+15. Output: 
+The ozone layer is essential for life on Earth as it acts as a protective shield, absorbing and filtering out the harmful UV radiation coming from the sun. This helps to prevent skin cancer, cataracts, and other health problems, and it also plays a crucial role in safeguarding the delicate balance of ecosystems and climates.
+###
+16. Instruction: Provide a short piece of critical feedback for the following artwork description: "Abstract art piece of blue and red circles overlapping, creating a field of purple squares making a new visual image."
+16. Input: 
+<noinput>
+16. Output: 
+The description could use more clarity regarding how the overlapping circles create a field of purple squares, to help the reader better visualize the artwork's composition and structure.
+###
+17. Instruction: Explain the difference between reversible and irreversible changes in the context of chemistry.
+17. Input: 
+<noinput>
+17. Output: 
+In chemistry, a reversible change is a process in which reactants can be transformed into products and the products can be transformed back into the original reactants. These changes are often represented by a double arrow in chemical equations. Conversely, irreversible changes are processes in which the products formed cannot be converted back into their original reactants, and the reaction proceeds in one direction only, typically represented by a single arrow in chemical equations.
+###
+18. Instruction: Turn the following question into an imperative statement.
+18. Input: 
+Can you tell me a story?
+18. Output: 
+Tell me a story.
+###
+19. Instruction: Identify the literary device used in the following sentence: "A torrent of rain poured down on the small town, as if the heavens themselves were weeping."
+19. Input: 
+<noinput>
+19. Output: 
+Personification
+###
+20. Instruction: Summarize the Fibonacci sequence, its origin, and its uses.
+20. Input: 
+<noinput>
+20. Output: 
+The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, typically starting from 0 and 1 (0, 1, 1, 2, 3, 5, ...). It was introduced by Leonardo Fibonacci in 1202, as a solution to a problem involving the growth of rabbit populations. The sequence is found in various natural phenomena, such as the arrangement of spirals in sunflower seeds or nautilus shells, and it has applications in art, architecture, and mathematics, including the golden ratio and fractals.

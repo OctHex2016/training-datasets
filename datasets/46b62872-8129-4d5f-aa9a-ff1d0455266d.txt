@@ -1,0 +1,118 @@
+4. Instruction: Rewrite the following phrase in formal language.
+4. Input: 
+"What's the big deal?"
+4. Output: 
+What is the significance of this matter?
+
+###
+5. Instruction: Identify the main idea of the given paragraph.
+5. Input: 
+Earthquakes are one of the most destructive natural disasters. They occur when tectonic plates grind or slip past each other at a fault line. This causes vibrations, or seismic waves, that travel through the Earth's crust, shaking the Earth's surface. The intensity of an earthquake depends on how much energy is released at its source, known as the focus or hypocenter. The location directly above the focus is called the epicenter, which is often the most affected area. Earthquakes can result in extensive damage to infrastructure, loss of human life, and long-term economic consequences.
+5. Output: 
+The main idea of the paragraph is that earthquakes are destructive natural disasters caused by the movement of tectonic plates and can lead to significant damage and consequences.
+
+###
+6. Instruction: Summarize the given text.
+6. Input: 
+While it might seem insignificant, the simple act of washing your hands frequently can help prevent the spread of various diseases and infections. Touching contaminated surfaces, such as doorknobs, phones, or handrails, can easily transfer pathogens to your hands, which can then be ingested or transferred to other surfaces when you touch your face, eat, or touch other objects. By washing your hands with soap and water for at least 20 seconds, you effectively remove harmful pathogens, reducing your chances of getting sick and spreading illnesses to others.
+6. Output: 
+Washing your hands frequently can protect against diseases and infections by removing pathogens picked up from contaminated surfaces, thereby reducing the risk of illness for you and others.
+
+###
+7. Instruction: Translate the given sentence into French.
+7. Input: 
+"Can you please pass the salt?"
+7. Output: 
+Pouvez-vous me passer le sel, s'il vous plaît?
+
+###
+8. Instruction: Check the spelling and grammar of the following sentence and correct any mistakes.
+8. Input: 
+"The pomegrante juice has a vibrant coluor and a uniquely tart flvour."
+8. Output: 
+The pomegranate juice has a vibrant color and a uniquely tart flavor.
+
+###
+9. Instruction: Based on the provided information, create an interesting fact.
+9. Input: 
+Jellyfish can be found in every ocean, from the cold Arctic to the warm tropical waters. Some jellyfish even live in freshwater environments.
+9. Output: 
+Did you know that jellyfish are incredibly adaptable and can be found in every ocean, from the chilly Arctic to the balmy tropical waters, and even in freshwater environments?
+
+###
+10. Instruction: Identify two contrasting themes from the provided excerpt.
+10. Input: 
+It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way – in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.
+- Charles Dickens, A Tale of Two Cities
+10. Output: 
+Two contrasting themes from the excerpt are hope and despair, and wisdom and foolishness.
+
+###
+11. Instruction: Explain the possible reason for not providing the entire story in a movie trailer.
+11. Input: 
+<noinput>
+11. Output: 
+The purpose of a movie trailer is to generate interest and excitement for the upcoming film without giving away the entire plot. By withholding the complete story, viewers are enticed to watch the full movie to see how the narrative unfolds and to discover the resolution of the storylines presented in the trailer.
+
+###
+12. Instruction: Describe the benefits of exercise on mental health.
+12. Input: 
+<noinput>
+12. Output: 
+Exercise has numerous benefits on mental health, including reducing stress, anxiety, and depression, improving mood, boosting self-esteem, and enhancing cognitive function. Physical activity releases endorphins, which are natural mood elevators that can create a sense of well-being, and it also promotes better sleep, providing an overall sense of mental well-being.
+
+###
+13. Instruction: What is one way on how to save energy at home?
+13. Input: 
+<noinput>
+13. Output: 
+One way to save energy at home is by turning off lights and electronic devices when not in use, effectively reducing electricity consumption and lowering energy costs.
+
+###
+14. Instruction: Recommend a fictional book to someone who enjoys mystery novels with a strong female lead.
+14. Input: 
+<noinput>
+14. Output: 
+I recommend "The Girl with the Dragon Tattoo" by Stieg Larsson, a thrilling mystery novel featuring a strong and complex female character, Lisbeth Salander.
+
+###
+15. Instruction: Sum up the possible consequences of not wearing a helmet while riding a bicycle.
+15. Input: 
+<noinput>
+15. Output: 
+Not wearing a helmet while riding a bicycle increases the risk of sustaining head injuries, traumatic brain injuries, or even death in the event of an accident, making helmet use essential for personal safety.
+
+###
+16. Instruction: Suggest a vegetarian dish that is rich in protein.
+16. Input: 
+<noinput>
+16. Output: 
+Lentil soup is a delicious vegetarian dish that is rich in protein, making it a great option for those seeking plant-based, protein-rich meals.
+
+###
+17. Instruction: What could be the reason for better animal welfare in zoos compared to in the wild?
+17. Input: 
+<noinput>
+17. Output: 
+In zoos, animals receive consistent care, protection, and medical attention, reducing threats from predators, natural disasters, or disease, and ensuring their well-being compared to the unpredictability and harsh conditions of the wild.
+
+###
+18. Instruction: Correct the following sentence by replacing the idiomatic expression with a more suitable one.
+18. Input: 
+"We need to think of a game plan before the meeting, so we don't just start running around like headless chickens."
+18. Output: 
+"We need to think of a game plan before the meeting, so we don't just start acting aimlessly or without direction."
+
+###
+19. Instruction: Describe a creative way to reuse or recycle old books.
+19. Input: 
+<noinput>
+19. Output: 
+A creative way to reuse or recycle old books is to transform them into a unique piece of home decor, like a bookshelf or a lamp, giving new life to the literature while adding a personalized touch to your living space.
+
+###
+20. Instruction: Share an interesting historic fact about the invention of the telephone.
+20. Input: 
+<noinput>
+20. Output: 
+Did you know that the telephone was invented by Alexander Graham Bell in 1876, and his first words spoken into the device were "Mr. Watson, come here, I want to see you," directed at his assistant, Thomas Watson?

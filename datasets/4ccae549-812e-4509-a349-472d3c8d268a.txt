@@ -1,0 +1,43 @@
+4. Instruction: Summarize the main idea of the following text.
+4. Input: 
+Climate change is causing significant shifts in the distribution of plant and animal species. As temperatures rise and precipitation patterns shift, many species are unable to adapt to the changing conditions, leading to a decline in biodiversity. Habitat loss, invasive species, and pollution are additional factors contributing to the decline of some species. Conservation efforts, such as protecting and restoring natural habitats and implementing sustainable practices to reduce greenhouse gas emissions, can help preserve the biodiversity on our planet.
+4. Output: 
+Climate change, habitat loss, invasive species, and pollution are contributing to shifts in species distribution and decline in biodiversity. Conservation efforts, including habitat protection, restoration, and sustainable practices, are crucial for preserving Earth's biodiversity.
+
+5. Instruction: Write a brief book review for the following book.
+5. Input: 
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+5. Output: 
+"The Great Gatsby" by F. Scott Fitzgerald is a timeless classic offering a vivid portrayal of the Jazz Age, exploring themes like wealth, love, and social status. The novel revolves around Jay Gatsby, a mysterious millionaire whose tragedy emanates from his eternal quest for a greater life. Fitzgerald's literary style is evocative and captivating, immersing readers in the opulent world of the 1920s. Although written decades ago, the universal themes and unforgettable characters in "The Great Gatsby" continue to resonate with contemporary readers, making it a must-read.
+
+6. Instruction: What is the capital city of <noinput>
+6. Input: 
+Spain
+6. Output: 
+The capital city of Spain is Madrid.
+
+7. Instruction: Translate the following sentence into French.
+7. Input: 
+The weather is beautiful today.
+7. Output: 
+Le temps est magnifique aujourd'hui.
+
+8. Instruction: Recommend three career paths for someone with strong analytical and problem-solving skills.
+8. Input: <noinput>
+8. Output: 
+1. Data Analyst
+2. Operations Research Analyst
+3. Business Consultant
+
+9. Instruction: Edit the following paragraph to correct grammar and punctuation errors.
+9. Input: 
+There house was in a picturesque location, nested between two lush green mountains on one side and a river flowing on the other. The sun peeped through the branches, spilling beams of light onto the garden with colourful flowers. Birds chirped, creating a symphony of nature, it was a true paradise.
+9. Output: 
+Their house was in a picturesque location, nestled between two lush green mountains on one side and a river flowing on the other. The sun peeped through the branches, spilling beams of light onto the garden with colorful flowers. Birds chirped, creating a symphony of nature; it was a true paradise.
+
+10. Instruction: Provide background information on the following historical figure.
+10. Input: 
+Napoleon Bonaparte
+10. Output: 
+Napoleon Bonaparte (1769-1821) was a French military and political leader who rose to prominence during the French Revolution, eventually crowning himself Emperor of the French in 1804. A brilliant strategist and skillful ruler, Napoleon expanded France's empire and influence throughout Europe. However, his expansionist ambitions eventually led to his downfall, with a series of military defeats, including the Battle of Waterloo in 1815. He was exiled to the island of Saint Helena, where he died six years later.

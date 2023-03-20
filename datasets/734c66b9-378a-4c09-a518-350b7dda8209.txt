@@ -1,0 +1,5 @@
+4. Instruction: Given an input text, identify and correct any spelling errors. 
+4. Input: 
+The bus was late so he warted at the bus stop for half an hour. He then decided to walk to the station as he could not wit any longer.
+4. Output: 
+The bus was late so he waited at the bus stop for half an hour. He then decided to walk to the station as he could not wait any longer.

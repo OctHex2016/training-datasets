@@ -1,0 +1,114 @@
+4. Instruction: Make the following request for a recipe sound more polite.
+4. Input: 
+Give me the recipe for lasagna.
+4. Output: 
+Could you please provide me with the recipe for lasagna? Thank you.
+
+5. Instruction: Analyze the tone of the following sentence and provide a 1-2 word description.
+5. Input: 
+I cannot believe you forgot the meeting again!
+5. Output: 
+Frustrated
+
+6. Instruction: Convert the following sentence into passive voice. 
+6. Input: 
+John finished the crossword puzzle in ten minutes.
+6. Output: 
+The crossword puzzle was finished by John in ten minutes.
+
+7. Instruction: Identify and correct any grammatical errors in this sentence.
+7. Input: 
+The girl's, who were playing volleyball, loves the beach.
+7. Output: 
+The girls, who were playing volleyball, love the beach.
+
+8. Instruction: Provide a possible reason for the following statement.
+8. Input: 
+Unemployment rates have increased in the past year.
+8. Output: 
+The COVID-19 pandemic might have led to business closures, resulting in higher unemployment rates in the past year.
+
+9. Instruction: Elaborate on the following statement with some context.
+9. Input: 
+People need to exercise more.
+9. Output: 
+With the rise of sedentary lifestyles and the increasing prevalence of obesity, it is important for people to engage in regular physical activity to maintain good health and well-being.
+
+10. Instruction: Translate the following sentence into French.
+10. Input: 
+Please pass me the salt.
+10. Output: 
+Veuillez me passer le sel.
+
+11. Instruction: What are the benefits of learning another language?
+11. Input: <noinput>
+11. Output: 
+- Enhances cognitive skills
+- Boosts memory and problem-solving abilities
+- Increases creativity
+- Fosters cultural understanding
+- Expands career opportunities
+
+12. Instruction: List the main components of a desktop computer.
+12. Input: <noinput>
+12. Output: 
+- Motherboard
+- Processor (CPU)
+- Memory (RAM)
+- Storage (Hard Disk Drive or Solid State Drive)
+- Graphics Card
+- Power Supply Unit
+- Computer Case
+
+13. Instruction: Write a haiku about mountains.
+13. Input: <noinput>
+13. Output: 
+Majestic mountains
+Silent guardians stand tall,
+Nature's mighty rocks.
+
+14. Instruction: Choose the most likely emotion conveyed in the statement: "Wow, you keep outdoing yourself! Impressive!"
+14. Input: <noinput>
+14. Output: 
+Admiration
+
+15. Instruction: Identify the logical fallacy in this statement: "Bill Gates dropped out of college, and he's a billionaire – so, dropping out of college must be the key to becoming rich."
+15. Input: <noinput>
+15. Output: 
+Hasty Generalization
+
+16. Instruction: Can you rephrase the sentence to make it more formal?
+16. Input: 
+I kinda like that restaurant.
+16. Output: 
+I find that restaurant quite enjoyable.
+
+17. Instruction: Describe the Krebs cycle in simple terms.
+17. Input: <noinput>
+17. Output: 
+The Krebs cycle, also known as the citric acid cycle, is a series of chemical reactions that convert food into cellular energy. It takes place in the mitochondria of cells and is a critical step in the process of aerobic respiration.
+
+18. Instruction: What is the significance of the Turing Test in artificial intelligence?
+18. Input: <noinput>
+18. Output: 
+The Turing Test evaluates a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. It measures the performance of an artificial intelligence system and is considered a benchmark for determining if the AI has human-level intelligence.
+
+19. Instruction: Compare and contrast DSL and cable broadband internet access.
+19. Input: <noinput>
+19. Output: 
+DSL:
+- Delivers internet via telephone lines
+- Typically offers slower speeds compared to cable
+- Less affected by network congestion
+- Distance-dependent performance (speed decreases further from exchange)
+
+Cable:
+- Delivers internet via coaxial cable TV lines
+- Generally offers faster speeds than DSL
+- More likely to experience network congestion
+- Performance not dependent on distance from exchange
+
+20. Instruction: Recommend a suitable gift for someone who enjoys reading.
+20. Input: <noinput>
+20. Output: 
+A Kindle e-reader would make a suitable gift for someone who enjoys reading, as it can store thousands of books and provide a comfortable reading experience with adjustable font size and lighting.

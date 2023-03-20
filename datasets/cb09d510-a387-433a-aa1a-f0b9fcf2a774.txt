@@ -1,0 +1,100 @@
+4. Instruction: Rewrite the provided passage in an optimistic tone.
+4. Input: 
+Even though the situation seemed quite gloomy, and they knew they would have to face many challenges and obstacles ahead, they remained determined to not give up without a fight.
+4. Output: 
+Despite encountering a challenging situation, they faced it with enthusiasm and optimism, knowing that overcoming the hurdles and obstacles ahead would only make their victory sweeter.
+
+5. Instruction: Classify the following dishes into vegan, vegetarian or non-vegetarian.
+5. Input: 
+Caesar salad, eggplant parmesan, clam chowder, tofu stir fry
+5. Output: 
+Vegan: tofu stir fry
+Vegetarian: eggplant parmesan
+Non-vegetarian: Caesar salad, clam chowder
+
+6. Instruction: Write a brief history of the Eiffel Tower.
+6. Input: <noinput>
+6. Output: 
+The Eiffel Tower, designed by engineer Gustave Eiffel, was constructed between 1887 and 1889. It was built as the entrance arch for the 1889 World's Fair in Paris, which marked the 100th anniversary of the French Revolution. Initially criticized for its unique design, the Eiffel Tower has since become one of the world's most recognizable landmarks and a symbol of Paris.
+
+7. Instruction: Explain the main difference between aerobic and anaerobic exercise.
+7. Input: <noinput>
+7. Output: 
+The main difference between aerobic and anaerobic exercise is the energy production process. Aerobic exercise requires oxygen to produce energy and includes activities like jogging or swimming. Anaerobic exercise does not rely on oxygen to produce energy, and includes activities like sprinting or weightlifting.
+
+8. Instruction: Suggest three ways to improve work-life balance.
+8. Input: <noinput>
+8. Output: 
+1. Set boundaries: Establish clear lines between work hours and personal time.
+2. Prioritize well-being: Implement daily exercise, healthy eating, and stress reduction techniques.
+3. Delegate and collaborate: Learn to share workloads, streamline workflows, and rely on your team's strengths.
+
+9. Instruction: Identify the passive voice in the following sentences and rewrite them in active voice.
+9. Input: 
+The cake was eaten by the kids. The report will be finished by Jenny tonight. The car has been washed by Dave.
+9. Output: 
+The kids ate the cake. Jenny will finish the report tonight. Dave washed the car.
+
+10. Instruction: Write an example of a palindrome.
+10. Input: <noinput>
+10. Output: 
+A man, a plan, a canal, Panama.
+
+11. Instruction: Is the statement true or false? Explain your answer.
+11. Input: 
+A square is a type of rectangle but a rectangle is not a square.
+11. Output: 
+True. A square is a type of rectangle because it has all the properties of a rectangle: four right angles and opposite sides equal in length. However, a rectangle is not a square because it does not meet the additional condition of having all four sides equal in length.
+
+12. Instruction: Summarize the given text.
+12. Input: 
+Scientists have discovered a new species of dinosaur named Gualicho shinyae, which belonged to the theropod family of carnivorous dinosaurs. The newly discovered dinosaur, found in Argentina, had arms that were similar to those of Tyrannosaurus rex in terms of size, but with fingers like a human's. Despite having small arms, the dinosaur was still more than 6 meters (20 feet) in length and, as a carnivore, would likely have been a substantial threat to other animals that lived around it.
+12. Output: 
+A new dinosaur species, Gualicho shinyae, has been discovered in Argentina. With a length of over 6 meters, this carnivorous theropod had small T-rex-like arms but human-like fingers, making it a considerable predator in its environment.
+
+13. Instruction: Replace the underlined word with a synonym. Maintain the meaning of the sentence.
+13. Input: 
+She felt ecstatic when she won the competition.
+13. Output: 
+She felt elated when she won the competition.
+
+14. Instruction: Translate the following sentence into French.
+14. Input: 
+The weather is beautiful today.
+14. Output: 
+Le temps est magnifique aujourd'hui.
+
+15. Instruction: Provide an antonym for the word "prolific".
+15. Input: <noinput>
+15. Output: 
+Scant
+
+16. Instruction: Write a rhyming couplet about the ocean.
+16. Input: <noinput>
+16. Output: 
+Beneath the waves, the ocean's treasures hide,
+A vast, mysterious world where wonders reside.
+
+17. Instruction: Explain the basic idea of the theory of evolution.
+17. Input: <noinput>
+17. Output: 
+The theory of evolution, proposed by Charles Darwin, postulates that all species of organisms arise and develop through the process of natural selection, which favors inheritable traits that increase the organism's ability to survive and reproduce in its environment.
+
+18. Instruction: Identify the main conflict in the following passage.
+18. Input: 
+Tom could no longer stand the noise coming from his neighbor's house. It was driving him crazy and affecting his sleep. He considered confronting his neighbor but dreaded the confrontation because he knew it might escalate the situation.
+18. Output: 
+The main conflict in the passage is an external one between Tom and his noisy neighbor, which also presents an internal conflict within Tom as he struggles to decide whether or not to confront the situation.
+
+19. Instruction: Write a haiku about spring.
+19. Input: <noinput>
+19. Output: 
+Petals gently fall,
+Nature awakens anew,
+Songbirds sing of spring.
+
+20. Instruction: Express the following percentage as a fraction.
+20. Input: 
+35%
+20. Output: 
+35/100 or 7/20.

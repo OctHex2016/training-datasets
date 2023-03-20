@@ -1,0 +1,132 @@
+4. Instruction: Explain the origins of the given idiom or phrase.
+4. Input: 
+Bite the bullet
+4. Output: 
+"Bite the bullet" originates from the days of battlefield surgery during the early 19th century. Soldiers were given a bullet to bite on during painful procedures without any anesthesia. The phrase now means to face up to a tough or difficult situation with determination and courage.
+
+###
+5. Instruction: Create an acrostic poem using the provided word.
+5. Input: 
+Mars.
+5. Output: 
+Mysterious red sphere,
+Ancient tales of life it bears,
+Rugged terrain haunts,
+Silent whispers from a cosmic bazaar.
+
+###
+6. Instruction: Elaborate on how the given device works.
+6. Input: 
+GPS (Global Positioning System)
+6. Output: 
+The GPS (Global Positioning System) is a satellite-based navigation system that determines a user's precise location by using a combination of timing, positioning, and velocity measurements. This network of satellites continuously transmits signals to GPS receivers on Earth. When a receiver picks up signals from at least four satellites, it calculates the user's position based on the difference in time it takes for each signal to arrive. This enables the receiver to pinpoint the user's exact location in terms of latitude, longitude, and altitude.
+
+###
+7. Instruction: Convert the provided text from first person point of view to third person point of view.
+7. Input: 
+I walked to the store to buy some groceries. Once I was there, I realized I forgot my wallet at home.
+7. Output: 
+He walked to the store to buy some groceries. Once he was there, he realized he forgot his wallet at home.
+
+###
+8. Instruction: Identify the number of syllables in each word of the given phrase.
+8. Input: 
+Tradition appeases generations
+8. Output: 
+Tradition: 3 syllables
+Appeases: 3 syllables
+Generations: 4 syllables
+
+###
+9. Instruction: What would be a critical analysis of the given situation?
+9. Input: 
+Schools switching to remote learning during the pandemic.
+9. Output: 
+Switching to remote learning during the pandemic has had both positive and negative implications. On the positive side, it has allowed students to continue their education without interruption, demonstrated the adaptability of educational systems, and exposed the possibilities of online learning. Conversely, it also exacerbated the digital divide, hindered the social development of students, and revealed potential deficiencies in at-home learning environments, such as lack of access to resources and support.
+
+###
+10. Instruction: Generate a response to the given customer complaint.
+10. Input: 
+Customer: I purchased a large bag of apples, and when I got home, I noticed that several of them were rotten.
+10. Output: 
+Dear Customer, we apologize for the inconvenience caused. Please bring your receipt and the rotten apples to the store. We will happily provide a replacement or a full refund for your purchase. Your satisfaction is our priority, and we'll take necessary measures to prevent this issue in the future.
+
+###
+11. Instruction: Create a limerick with the given theme.
+11. Input: 
+A cat and a dog playing together.
+11. Output: 
+There once was a cat and a hound,
+Together, they played and they bound,
+Their antics were grand,
+The best in the land,
+Their friendship, forevermore sound.
+
+###
+12. Instruction: Write a haiku about the given topic.
+12. Input: 
+Autumn leaves falling.
+12. Output: 
+Leaves dance in the breeze,
+Crimson and gold melodies,
+Silent hush of fall.
+
+###
+13. Instruction: Determine whether the provided sentence is written in active voice or passive voice.
+13. Input: 
+The package was delivered by the postman.
+13. Output: 
+Passive voice.
+
+###
+14. Instruction: Translate the given text into 21st-century teenagers' language.
+14. Input: 
+Hello, my friend! Do you think it's going to rain this afternoon?
+14. Output: 
+Hey, dude! U think it's gonna rain l8r today?
+
+###
+15. Instruction: Name the literary device used in the given sentence.
+15. Input: 
+Her eyes were shining like stars.
+15. Output: 
+Simile.
+
+###
+16. Instruction: Write a brief plot summary about the given book title.
+16. Input: 
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+16. Output: 
+"The Lion, the Witch and the Wardrobe" is the story of four siblings, Peter, Susan, Edmund, and Lucy, who discover a magical wardrobe that transports them to the enchanted world of Narnia. In Narnia, they meet the talking animals and mythological creatures who are under the oppressive rule of the White Witch. Guided by the wise lion, Aslan, the children embark on an epic journey to save Narnia from the Witch's eternal winter and restore peace and freedom to the kingdom.
+
+###
+17. Instruction: Explain the difference between the given two terms.
+17. Input: 
+Biodegradable vs non-biodegradable materials
+17. Output: 
+Biodegradable materials are substances that can be broken down naturally by microorganisms and decompose into harmless elements, such as carbon dioxide, water, and biomass, within a relatively short period. In contrast, non-biodegradable materials are those that do not decompose easily, either due to the complexity of their composition or their resistance to natural degradation processes. These materials can persist in the environment for years, decades, or even centuries, leading to pollution and posing a threat to ecosystems.
+
+###
+18. Instruction: Write a short dialogue in which an old man gives some life advice to a teenager.
+18. Input: 
+<noinput>
+18. Output: 
+Old man: My dear, always remember that true wisdom comes from experience and learning from our mistakes.
+
+Teenager: But what if I'm scared to make mistakes, what if I fail?
+
+Old man: Failure is a natural part of life. Embrace it, learn from it, and grow stronger. Remember, growth begins at the edge of your comfort zone.
+
+###
+19. Instruction: Rank the items in the given list based on their environmental impact, from the least to the most harmful.
+19. Input: 
+Reusable glass bottle, disposable plastic bottle, paper bag, cloth bag
+19. Output: 
+Cloth bag, reusable glass bottle, paper bag, disposable plastic bottle.
+
+###
+20. Instruction: Describe a possible solution to the given problem.
+20. Input: 
+Increasing traffic congestion in a city.
+20. Output: 
+A possible solution to increasing traffic congestion in a city could involve the development of a comprehensive public transportation system, including buses, trains, and bike-sharing programs. By offering affordable, accessible, and convenient public transit options, more people will be encouraged to use these alternatives instead of private cars, thereby reducing the overall number of vehicles on the roads. Additionally, the city could implement congestion pricing to discourage single-occupancy vehicle use during peak hours, promote carpooling, and invest in infrastructure improvements for safer walking and cycling.

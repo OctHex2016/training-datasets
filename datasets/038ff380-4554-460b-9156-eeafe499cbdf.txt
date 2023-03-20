@@ -1,0 +1,111 @@
+4. Instruction: Design an exercise program for a week.
+4. Input: 
+Goal: Maintain fitness and flexibility
+Age: 32
+Health: No major health concerns
+4. Output: 
+Monday:
+1. Warm-up: 10-minute light cardio (jogging, brisk walking)
+2. Full-body strength workout: 3 sets of 12 reps (squats, lunges, push-ups, dumbbell rows, plank)
+3. Stretching: 5 minutes
+
+Tuesday:
+1. Warm-up: 5 minutes dynamic stretching
+2. Yoga or Pilates: 40 minutes
+3. Cool down: 5 minutes deep breathing exercises
+
+Wednesday:
+1. Warm-up: 10-minute light cardio (jogging, brisk walking)
+2. High-Intensity Interval Training (HIIT): 20 minutes
+3. Stretching: 5 minutes
+
+Thursday:
+1. Warm-up: 5 minutes dynamic stretching
+2. Swimming or cycling: 40 minutes (moderate intensity)
+3. Cool down: 5 minutes stretching
+
+Friday:
+1. Warm-up: 10-minute light cardio (jogging, brisk walking)
+2. Full-body strength workout: 3 sets of 12 reps (squats, lunges, push-ups, dumbbell rows, plank)
+3. Stretching: 5 minutes
+
+Saturday:
+1. Warm-up: 5 minutes dynamic stretching
+2. Yoga, Tai Chi, or dance class: 45 minutes
+3. Cool down: 5 minutes deep breathing exercises
+
+Sunday: Rest day (optional leisurely walk)
+
+###
+5. Instruction: Generate pros and cons of using solar energy.
+5. Input: <noinput>
+5. Output: 
+Pros:
+1. Renewable energy source
+2. Reduces electricity bills
+3. Low maintenance costs
+4. Environmentally friendly (reduces carbon emissions)
+5. Diverse applications (home heating, electricity, water heating)
+6. Provides energy access to remote or off-grid locations
+
+Cons:
+1. Initial installation cost
+2. Dependent on weather conditions (less efficient on cloudy or rainy days)
+3. Requires a large surface area for installation
+4. Energy storage can be expensive
+5. Limited energy production during nighttime
+6. Potential aesthetic impact on the landscape
+###
+6. Instruction: Translate the text into English.
+6. Input:
+Text: Je suis très heureux de partager ces informations avec vous.
+Language: French
+6. Output: 
+I am very happy to share this information with you.
+
+###
+7. Instruction: Perform a PEST analysis on the autonomous vehicle industry.
+7. Input: <noinput>
+7. Output: 
+Political factors:
+1. Regulatory framework for autonomous vehicles
+2. Government incentives for electric vehicle adoption
+3. Infrastructure development (smart cities, charging stations)
+4. Global agreements on reducing greenhouse gas emissions
+
+Economic factors:
+1. Consumer demand for autonomous vehicles
+2. Impact on traditional automobile industries
+3. R&D investments and collaborations
+4. Changes in supply chain dynamics and logistics
+
+Social factors:
+1. Public perception and trust in autonomous vehicles
+2. Impact on employment (potential loss of jobs in the driving profession)
+3. Changes in city planning and road systems
+4. Shift in car ownership patterns and mobility services
+
+Technological factors:
+1. Advancements in AI, machine learning, and sensor technology
+2. Vehicle connectivity and Internet of Things (IoT) applications
+3. Cybersecurity concerns and data privacy regulations
+4. Continuous improvement in battery technology and charging infrastructure
+###
+8. Instruction: Extract the main idea from the provided text.
+8. Input: Advances in technology have made the modern workplace more flexible and brought together people from different parts of the world. With digital tools like video conferencing and instant messaging apps, remote work is now feasible and well-accepted. Thanks to this, companies can now hire skilled employees from around the world, leading to a more diverse and inclusive workplace.
+8. Output: The main idea is that advances in technology have enabled remote work, making the modern workplace more flexible, diverse, and inclusive by allowing companies to hire employees from around the world.
+
+###
+9. Instruction: Estimate the future price of the product.
+9. Input: 
+Current price: $1000
+Annual inflation rate: 3%
+Duration: 5 years
+9. Output: 
+Using the simple formula for compound interest, the future price (FP) can be calculated as follows:
+FP = Current price * (1 + Inflation rate)^Duration
+FP = $1000 * (1 + 0.03)^5
+FP = $1000 * (1.03)^5
+FP = $1000 * 1.159274
+FP ≈ $1159.27
+In 5 years, the estimated future price of the product will be approximately $1159.27.

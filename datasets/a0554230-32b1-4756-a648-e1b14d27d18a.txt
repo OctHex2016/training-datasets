@@ -1,0 +1,157 @@
+4. Instruction: Translate the following English sentence into French.
+4. Input: 
+She has a beautiful voice and always sings in the choir at church.
+4. Output: 
+Elle a une belle voix et chante toujours dans la chorale à l'église.
+
+5. Instruction:
+Correct any grammatical errors in the given text.
+5. Input: 
+If I would have known about the party, I should of gone.
+5. Output:
+If I had known about the party, I should have gone.
+
+6. Instruction: Which planet is nearest to the Sun? 
+6. Input:
+<noinput>
+6. Output:
+Mercury
+
+7. Instruction: Identify the author of the given quote.
+7. Input:
+"The only way to do great work is to love what you do."
+7. Output:
+Steve Jobs
+
+8. Instruction: Summarize the article provided.
+8. Input:
+Scientists from the California Institute of Technology have discovered a new type of battery material that could revolutionize the way we store and use energy. The material is called "High-Performance Polymer," and it can dramatically increase the capacity and safety of lithium-ion batteries, enabling electric vehicles to travel even greater distances on a single charge. The researchers have also found that this new material eliminates the risk of battery fires often associated with lithium-ion batteries. This groundbreaking discovery has the potential to change the electric vehicle market, making cars cleaner, safer, and more energy-efficient.
+8. Output:
+Scientists discovered a new material called "High-Performance Polymer" that can significantly improve the capacity and safety of lithium-ion batteries. This innovation could enable electric vehicles to travel longer distances and reduce the risk of battery fires, potentially revolutionizing the electric vehicle market.
+
+9. Instruction: Provide a recipe for a vegetarian lasagna.
+9. Input:
+<noinput>
+9. Output:
+Ingredients:
+- 12 lasagna noodles
+- 2 tablespoons olive oil
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 1 zucchini, chopped
+- 1 bell pepper, chopped
+- 1 cup spinach, chopped
+- 2 cups marinara sauce
+- 2 cups ricotta cheese
+- 1 cup grated mozzarella cheese
+- 1 cup grated parmesan cheese
+- Salt and pepper
+
+Instructions:
+1. Preheat the oven to 350°F (180°C).
+2. Boil lasagna noodles according to package instructions, then drain and set aside.
+3. In a large skillet, heat olive oil over medium heat. Add onion and garlic, cook until softened.
+4. Add zucchini, bell pepper, and spinach, cook until softened. Season with salt and pepper.
+5. Spread a thin layer of marinara sauce in the bottom of a 9x13-inch baking dish.
+6. Add a layer of lasagna noodles, followed by a layer of ricotta, vegetables, marinara sauce, and grated cheeses.
+7. Repeat layers until all ingredients are used, finishing with a layer of grated cheeses.
+8. Bake for 45 minutes, or until the cheese is golden and bubbly.
+9. Let rest for 10 minutes before slicing and serving.
+
+10. Instruction: Identify the speech disorder where people unconsciously replace certain sounds or letters with others.
+10. Input:
+<noinput>
+10. Output:
+Spoonerism
+11. Instruction: Write a brief biography of William Shakespeare.
+11. Input:
+<noinput>
+11. Output:
+William Shakespeare (1564-1616) was an English playwright, poet, and actor known as the greatest writer in the English language and the world's greatest dramatist. Born in Stratford-upon-Avon, he married Anne Hathaway at the age of 18 and had three children. He started his career as a playwright in the late-1580s and went on to write approximately 39 plays, 154 sonnets, and several narrative poems. His most famous works include Romeo and Juliet, Macbeth, Hamlet, and Othello. Shakespeare's works have been translated into every major living language and are performed more often than those of any other playwright.
+
+12. Instruction: Classify the following animals into mammals, reptiles or birds.
+12. Input:
+Dolphin, python, sparrow
+12. Output:
+Dolphin: Mammal
+Python: Reptile
+Sparrow: Bird
+
+13. Instruction: Provide a brief explanation of photosynthesis.
+13. Input:
+<noinput>
+13. Output:
+Photosynthesis is a chemical process by which plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose or other sugars. During photosynthesis, the organisms take in carbon dioxide and water, and with the help of sunlight and chlorophyll, they produce oxygen and glucose. This process plays a critical role in supporting life on Earth, as it generates oxygen and serves as the basis for the food chain.
+
+14. Instruction: Recommend two books that promote personal growth and self-improvement.
+14. Input:
+<noinput>
+14. Output:
+1. "The 7 Habits of Highly Effective People" by Stephen R. Covey
+2. "How to Win Friends and Influence People" by Dale Carnegie
+
+15. Instruction: Describe an appropriate exercise routine for beginners who want to improve cardiovascular health.
+15. Input:
+<noinput>
+15. Output:
+To improve cardiovascular health, beginners can start with a simple exercise routine consisting of 3-4 sessions per week. Each session should include 5 minutes of warm-up (light stretching and gentle movements), followed by 20-30 minutes of moderate-intensity aerobic exercises such as brisk walking, cycling, or swimming. Conclude each session with a 5-minute cool-down consisting of gentle stretches and deep breathing exercises. Gradually increase the duration and intensity of the aerobic exercises over time as your fitness level improves.
+
+16. Instruction: Determine the main theme of the following poem.
+16. Input:
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+- Robert Frost
+16. Output:
+The main theme of this poem is the importance of making choices in life and the impact those choices have on shaping our future.
+
+17. Instruction: Explain how to calculate gross profit.
+17. Input:
+<noinput>
+17. Output:
+To calculate gross profit, subtract the cost of goods sold (COGS) from the total revenue. Gross profit is a measure of a company's profitability, as it indicates the profit generated from sales before accounting for operating expenses, taxes, and other deductions. The formula for gross profit is: Gross Profit = Total Revenue - Cost of Goods Sold.
+
+18. Instruction: Name two types of tissue found in the human body and describe their functions.
+18. Input:
+<noinput>
+18. Output:
+1. Muscle tissue: Muscle tissue is responsible for producing force and movement in the body. There are three types of muscle tissue: skeletal, smooth, and cardiac.
+2. Nervous tissue: Nervous tissue is specialized for transmitting information throughout the body in the form of electrical impulses. It is primarily composed of neurons and glial cells and is the primary component of the nervous system.
+
+19. Instruction: Write a short news article about a library that hosts a free computer skills course for local residents.
+19. Input:
+<noinput>
+19. Output:
+The Downtown Community Library has recently launched a free computer skills course designed to help local residents who have limited knowledge of technology. Open to participants of all ages, the library hopes the course will empower the community to navigate today's digital world confidently.
+
+The six-week course covers essential computer skills, including using word processors, browsing the internet, creating and managing email accounts, and managing digital media such as images and documents. Local volunteers, proficient in computing and eager to share their expertise, lead the weekly interactive sessions.
+
+Library manager Jane Smith said, "We want to give our community members the tools they need to thrive in today's technology-driven society. The response so far has been overwhelming, and we're excited to see how these classes help improve residents' digital literacy."
+
+For those interested in joining the next round of classes, registration is available at the Downtown Community Library or via their website.
+
+20. Instruction: Describe the contribution of Nikola Tesla to the field of electricity and magnetism.
+20. Input:
+<noinput>
+20. Output:
+Nikola Tesla was an inventor, electrical engineer, and physicist who made groundbreaking contributions to the field of electricity and magnetism. He developed the alternating current (AC) electrical system, which is the foundation of modern-day power transmission and distribution. Tesla was also instrumental in the invention of the induction motor, transformers, and early wireless communication devices. His work in these fields led to advances in the generation and utilization of electrical power, making it more efficient and practical for widespread use.

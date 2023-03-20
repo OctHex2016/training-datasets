@@ -1,0 +1,122 @@
+4. Instruction: Convert the given sentence into a question form.
+4. Input: 
+She is going to the library to study.
+4. Output: 
+Is she going to the library to study?
+
+###
+5. Instruction: State the main message of the provided passage in a concise sentence.
+5. Input: 
+The increasing awareness about the harmful effects of plastic pollution has spurred many people to reduce their single-use plastic consumption. Everyday items like plastic bags, straws, and utensils can have severe consequences on marine ecosystems and contribute to landfill waste. By opting for reusable alternatives, individuals can significantly reduce their environmental impact and help preserve the natural world for future generations.
+5. Output: 
+Reducing single-use plastic consumption and using reusable alternatives helps protect the environment and marine ecosystems.
+
+###
+6. Instruction: Classify the given song lyrics into the appropriate genre.
+6. Input: 
+I wanna hold your hand
+I wanna kiss your lips
+I wanna fall in love with you
+Underneath a sky so blue
+6. Output: 
+Pop
+
+###
+7. Instruction: Determine if the statement is a fact or an opinion.
+7. Input: 
+Apple is the best technology company.
+7. Output: 
+Opinion
+
+###
+8. Instruction: Describe the weather in the given text as either sunny, cloudy, foggy, or rainy.
+8. Input: 
+As I looked up, I could see the fluffy white clouds drifting slowly and gently across the sky creating patches of sunlight against the backdrop of blue.
+8. Output: 
+Sunny
+
+###
+9. Instruction: Translate the following English sentence into Spanish.
+9. Input: 
+I will have dinner with my friends tonight.
+9. Output: 
+Cenaré con mis amigos esta noche.
+
+###
+10. Instruction: Identify the author of the quote.
+10. Input: 
+<noinput>
+10. Output: 
+"The only way to do great work is to love what you do." - Steve Jobs
+
+###
+11. Instruction: List three synonyms for the provided word.
+11. Input: 
+Convenient
+11. Output: 
+Handy, accessible, practical
+
+###
+12. Instruction: Write a haiku about the natural beauty of spring season.
+12. Input: 
+<noinput>
+12. Output: 
+Blossoms fill the air,
+Rivers awaken with song,
+Nature's color blooms.
+
+###
+13. Instruction: Provide the full name of the abbreviation "NASA".
+13. Input: 
+<noinput>
+13. Output: 
+National Aeronautics and Space Administration
+
+###
+14. Instruction: Summarize the main purpose of the article below.
+14. Input: 
+Amazon is set to expand its pharmacy offering with the introduction of "Amazon Pharmacy," a new online store that allows customers to order prescription medications for home delivery easily. The company is moving to reshape the healthcare industry further, utilizing its extensive distribution network and extensive customer data. Amazon Pharmacy will streamline the entire process of prescription and non-prescription drug ordering and tracking, giving customers more control and convenience over their medication needs.
+14. Output: 
+Amazon Pharmacy aims to reshape the healthcare industry by offering convenient home delivery of prescription and non-prescription medications through an online store.
+
+###
+15. Instruction: Rewrite the given sentence into passive voice.
+15. Input: 
+He wrote the letter.
+15. Output: 
+The letter was written by him.
+
+###
+16. Instruction: Identify the main problem that the character faced in the story.
+16. Input: 
+In the children's story, Hansel and Gretel, the siblings get lost in the woods and stumble upon a witch's house made of candy. The evil witch tricks them and takes them captive. Hansel and Gretel must work together and use their cleverness to escape.
+16. Output: 
+Hansel and Gretel face the challenge of escaping the captivity of an evil witch.
+
+###
+17. Instruction: Find two adjectives in the following sentence.
+17. Input: 
+The majestic tiger slowly approached the calm river to drink water.
+17. Output: 
+Majestic, calm
+
+###
+18. Instruction: What city was Albert Einstein born in?
+18. Input: 
+<noinput>
+18. Output: 
+Ulm, Germany
+
+###
+19. Instruction: Explain the significance of water for living organisms in a few words.
+19. Input: 
+<noinput>
+19. Output: 
+Water is essential for life as it maintains cellular functions, provides a medium for chemical reactions, and regulates the organism's temperature.
+
+###
+20. Instruction: Find the total word count in the given excerpt.
+20. Input: 
+After the rain had finally stopped, Nina went to the park to enjoy the fragrance of damp earth and blooming flowers. With the sun shining and birds singing, she felt completely refreshed.
+20. Output: 
+23

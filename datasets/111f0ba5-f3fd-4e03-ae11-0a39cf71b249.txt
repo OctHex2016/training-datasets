@@ -1,0 +1,30 @@
+4. Instruction: Can you paraphrase the sentence below while retaining its meaning?
+4. Input: 
+The new shopping center in our town is enormously popular and attracts numerous customers every day.
+4. Output: 
+The recently opened mall in our community is extremely well-liked and draws a large number of shoppers daily.
+###
+5. Instruction: Detect spelling mistakes in the given sentence and suggest corrections.
+5. Input: 
+I like meeting my freinds in the leibrary to discus our school asignments.
+5. Output: 
+freinds -> friends, leibrary -> library, discus -> discuss, asignments -> assignments
+###
+6. Instruction: List three pros and three cons for using electric vehicles as opposed to gasoline cars.
+6. Input: 
+<noinput>
+6. Output: 
+Pros: 1. Reduced greenhouse gas emissions, 2. Lower operating costs, 3. Quieter operation.
+Cons: 1. Limited driving range, 2. Longer refueling times, 3. Limited charging infrastructure.
+###
+7. Instruction: Rewrite the following sentence to reflect a formal tone.
+7. Input: 
+Hey, do you wanna grab a bite to eat at that new Japanese place tonight?
+7. Output: 
+Would you like to join me for dinner at the newly opened Japanese restaurant this evening?
+###
+8. Instruction: Point out the major flaw in this argument: "If 2 + 3 = 5, and 3 + 4 = 7, then 4 + 5 must equal 9."
+8. Input: 
+<noinput>
+8. Output:
+The flaw in this argument is assuming a pattern based on only two examples, and then applying it to another case without verifying its validity. It is claiming that addition always results in an increment of 2 between each successive computation, which is not accurate.

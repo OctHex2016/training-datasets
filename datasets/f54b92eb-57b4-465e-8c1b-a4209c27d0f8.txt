@@ -1,0 +1,51 @@
+4. Instruction: Summarize the following passage in one sentence.
+4. Input: 
+Passive solar design refers to the use of the sun's energy to heat and cool living spaces in a building. This design strategy takes advantage of building elements such as windows, walls, and floors to absorb, store, and release solar energy in the form of heat, thus passively providing thermal comfort to the occupants throughout the year. It can be as simple as incorporating strategically placed windows that let in natural light and manage heat gain, or more complex, involving earth sheltering, thermal mass, and other building materials and techniques.
+4. Output: 
+Passive solar design utilizes the sun's energy and strategic building elements to heat and cool living spaces, providing thermal comfort year-round through methods such as windows for natural light and heat management or advanced techniques like earth sheltering and thermal mass.
+
+5. Instruction: Transform the given text into a poem.
+5. Input: 
+"The little orange fish swam gracefully through the crystal-clear ocean water, dodging coral reefs and playing hide-and-seek with other colorful and vibrant fish from the deep sea. The world beneath the water seemed magical and mysterious, full of life and wonder."
+5. Output: 
+In crystal-clear depths, an ocean realm,
+The little orange fish, at the helm,
+Gracefully it swam, coral reefs it weaved,
+Hide-and-seek with vibrant friends, conceived.
+
+A magical world, beneath the waves,
+Deep sea's mystery, life it paves,
+A realm of color, waters so clear,
+The enchanted little fish, knows no fear.
+
+6. Instruction: Suggest a possible ending to the story given the beginning.
+6. Input: 
+Jenny was walking her dog, Spot, in the park. She decided to take a new trail that led her deeper into the woods. The trees overhead seemed to block out the sunlight, giving the entire area a mysterious atmosphere.
+6. Output: 
+As Jenny and Spot ventured deeper into the mysterious woods, they stumbled upon an abandoned treehouse. Intrigued, they climbed up to explore and found a chest filled with vintage coins and jewelry. Jenny later learned that these artifacts belonged to a local legend who once lived in the area, and she decided to donate her findings to a museum, immortalizing the story of the mysterious woods and their hidden treasures.
+
+7. Instruction: Generate a clickbait headline using the information provided.
+7. Input: 
+"10 Foods You Never Thought Could Help You Lose Weight"
+7. Output: 
+"10 Surprising Foods That Secretly Melt Away Pounds: You Won't Believe Number 7!"
+
+8. Instruction: Provide a relevant, in-text citation using the given source details.
+8. Input: 
+Author: John Smith
+Title: The Art of Mountain Climbing
+Publication Year: 2018
+Publisher: Mountain Trail Publications
+Page number: 62
+8. Output: 
+(Smith 62)
+
+9. Instruction: Is the given statement true or false?
+9. Input: <noinput>
+9. Output: 
+I cannot answer without a provided statement.
+
+10. Instruction: How can I avoid procrastination when working on a project?
+10. Input: <noinput>
+10. Output: 
+To avoid procrastination, break your project into smaller tasks, set reasonable deadlines, create a distraction-free environment, prioritize tasks, have a clear goal in mind, and set aside dedicated time for work. Reward yourself for completing milestones and remember to take breaks to prevent burnout.

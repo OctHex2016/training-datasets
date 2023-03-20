@@ -1,0 +1,110 @@
+4. Instruction: Provide a movie recommendation based on genre and year. 
+4. Input: 
+Genre: Comedy, Year: 2020
+4. Output: 
+I would recommend "Palm Springs" (2020), a time-looped film with hilarious characters and dynamic storyline that definitely brings laughter to you. 
+###
+5. Instruction: Identify the spelling mistake(s) in the following sentence. 
+5. Input: 
+The cerimonies of the academy are solem and dignified.
+5. Output: 
+The correct spelling is "ceremonies", and "solemn". 
+###
+6. Instruction: Provide a synonym for the following word. 
+6. Input: 
+Discombobulated
+6. Output: 
+A synonym for "Discombobulated" could be "flustered". 
+###
+7. Instruction: Complete the following analogy. 
+7. Input: 
+Hot is to cold as day is to ____.
+7. Output:
+"Night". The first analogy refers to opposite temperature, while the second analogy refers to the opposite time. 
+###
+8. Instruction: Translate the following sentence in Spanish. 
+8. Input: 
+Hello, how are you? 
+8. Output: 
+Hola, ¿cómo estás? 
+###
+9. Instruction: Rewrite the following sentence in passive voice. 
+9. Input: 
+The company produced a new line of smartphones. 
+9. Output: 
+A new line of smartphones was produced by the company. 
+###
+10. Instruction: Provide a summary of the following article. 
+10. Input: 
+https://www.bbc.com/news/world-europe-59095387
+10. Output: 
+The article reports that Kaja Kallas, the first female Prime Minister of Estonia, has apologized for a lack of transparency and communication in the country's COVID-19 vaccination program. The vaccination rate in Estonia is among the lowest in Europe. Kallas has pledged to improve the situation by increasing communication about the vaccine and offering it to other age groups.
+###
+11. Instruction: Explain the concept of artificial intelligence in layman's terms. 
+11. Input: 
+<noinput>
+11. Output: 
+Artificial Intelligence refers to the ability of machines to perform actions that normally require human intelligence, such as visual perception, speech recognition, decision making and language translation. This technology is used in various areas like autonomous vehicles, virtual assistants, and continually evolves and improves through machine learning.
+###
+12. Instruction: Identify the author of the following book.
+12. Input: 
+To Kill a Mockingbird 
+12. Output: 
+The author of "To Kill a Mockingbird" is Harper Lee.
+###
+13. Instruction: Provide a step-by-step instruction on how to make an omelette.
+13. Input: 
+<noinput>
+13. Output: 
+1. Crack 2-3 eggs in a bowl, beat with a fork. 
+2. Add cheese, salt, and pepper to taste.
+3. Heat a non-stick skillet over medium heat with butter.
+4. Pour the egg mixture into the skillet.
+5. When the edges of the omelette start to cook and solidify, use a spatula to lift up the edges and let the uncooked egg flow underneath.
+6. Add any fillings you like (chopped vegetables, ham, etc.).
+7. Fold the omelette in half with spatula.
+8. Serve and enjoy.
+### 
+14. Instruction: Identify the chemical formula for the following compound. 
+14. Input: 
+Sodium chloride 
+14. Output: 
+The chemical formula for Sodium Chloride, commonly known as table salt, is NaCl. 
+### 
+15. Instruction: Provide a definition for the following term. 
+15. Input: 
+Biodiversity 
+15. Output: 
+Biodiversity refers to the variety of living organisms on Earth, including their genetic diversity, species diversity, and ecosystem diversity. Biodiversity plays an important role in keeping the ecosystem balanced and provides numerous benefits to our planet's health and well-being. 
+### 
+16. Instruction: Identify the capital city of the following country. 
+16. Input: 
+Niger 
+16. Output: 
+The capital city of Niger is Niamey. 
+### 
+17. Instruction: Generate a haiku poem on a given topic. 
+17. Input: 
+Autumn 
+17. Output: 
+Leaves fall quietly 
+Nature's canvas turns gold, red 
+Autumn, a farewell 
+### 
+18. Instruction: Provide an explanation for the following proverb. 
+18. Input: 
+"Rome was not built in a day." 
+18. Output: 
+The proverb "Rome was not built in a day" means that great things take time and effort to build. It emphasizes the importance of patience, persistence and hard work in achieving long-term goals. 
+### 
+19. Instruction: Classify the following as a renewable or non-renewable resource.
+19. Input: 
+Wind energy 
+19. Output: 
+Wind energy is classified as a renewable resource, because it is generated from the natural and ongoing movement of air in the atmosphere. 
+### 
+20. Instruction: Edit the following sentence for clarity. 
+20. Input: 
+The dog chased the cat jumping over the fence barking loudly. 
+20. Output: 
+The dog chased the cat, jumping over the fence and barking loudly.

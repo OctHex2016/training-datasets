@@ -1,0 +1,103 @@
+4. Instruction: Summarize the plot of a book.
+4. Input: 
+The Great Gatsby by F. Scott Fitzgerald.
+4. Output: 
+The Great Gatsby is a story about a man named Jay Gatsby who throws lavish parties in hopes of winning back his lost love, Daisy Buchanan. The novel explores themes of wealth, social status, and the American Dream.
+###
+5. Instruction: Translate this phrase to French.
+5. Input:
+"Where is the nearest pharmacy?"
+5. Output: 
+"Où est la pharmacie la plus proche?"
+###
+6. Instruction: Given a set of numbers, sort them in descending order.
+6. Input: 
+5, 7, 1, 9, 3
+6. Output: 
+9, 7, 5, 3, 1
+###
+7. Instruction: Rewrite the following sentence in the passive voice.
+7. Input: 
+The chef prepares the meal in the kitchen.
+7. Output: 
+The meal is prepared in the kitchen by the chef. 
+###
+8. Instruction: Write the opening line of a mystery novel.
+8. Input:
+<noinput>
+8. Output: 
+As soon as Sarah saw the body, she knew she was in over her head.
+###
+9. Instruction: Given a movie, recommend a similar movie to watch.
+9. Input: 
+The Shawshank Redemption.
+9. Output: 
+If you enjoyed The Shawshank Redemption, you may also like The Green Mile or The Godfather.
+###
+10. Instruction: Complete the following analogy.
+10. Input: 
+Glove is to hand as sock is to ___________.
+10. Output: 
+foot 
+###
+11. Instruction: Given a paragraph, shorten it by 50% without losing its essence.
+11. Input: 
+
+The Industrial Revolution was a period of great change and innovation in the 18th and 19th centuries. It was characterized by the introduction of new machinery and technologies, which greatly improved the efficiency of manufacturing and led to increased productivity. However, the Industrial Revolution also had many negative impacts, including harsh working conditions for laborers, environmental pollution, and a widening gap between the rich and poor.
+
+11. Output: 
+During the Industrial Revolution, new machinery and technologies were introduced, increasing efficiency and productivity. Unfortunately, this brought along with it harsh working conditions for laborers, environmental pollution, and a growing gap between the rich and poor.
+###
+12. Instruction: Summarize a news article on recent scientific discoveries. 
+12. Input: 
+https://www.sciencedaily.com/releases/2022/01/220107144107.htm
+12. Output: 
+Scientists have discovered a way to inhibit the spread of a deadly virus using a specific peptide. The peptide has shown promising results in tests and could be used in future treatments.
+###
+13. Instruction: Given a foreign word, provide its English translation and usage in a sentence.
+13. Input: 
+"Saudade"
+13. Output: 
+"Saudade" is a Portuguese word that describes the feeling of longing or nostalgia for something that may never be experienced again. Example: I felt a sense of saudade as I reminisced about my childhood home. 
+###
+14. Instruction: Given a piece of text with grammar errors, correct the grammar. 
+14. Input: 
+"I likes to eat pizza, it is my favorite food."
+14. Output: 
+"I like to eat pizza; it is my favorite food." 
+###
+15. Instruction: Given a company name and industry, provide a list of competitors.
+15. Input: 
+Apple, technology
+15. Output: 
+Apple's competitors include Samsung, Google, and Microsoft in the technology industry.
+###
+16. Instruction: Given a piece of text in a foreign language, provide its English translation.
+16. Input: 
+"La vita è bella."
+16. Output: 
+"La vita è bella" is an Italian phrase that translates to "life is beautiful." 
+###
+17. Instruction: Given a list of ingredients, provide a recipe that utilizes all ingredients. 
+17. Input: 
+chicken, broccoli, carrots, soy sauce, garlic, honey
+17. Output: 
+Stir-Fried Chicken with Broccoli and Carrots. Ingredients: 1 lb chicken breast, 2 cups broccoli florets, 2 cups sliced carrots, 2 tbsp soy sauce, 2 cloves of minced garlic, 3 tbsp honey. Instructions: 1. Cut the chicken into small cubes and cook in a pan over medium heat until browned. 2. Add the broccoli and carrots and cook for 5-7 minutes. 3. Add the soy sauce, garlic, and honey and cook for an additional 2-3 minutes.
+###
+18. Instruction: Given a sentence, provide its antonym.
+18. Input: 
+"I am happy."
+18. Output: 
+"I am unhappy."
+###
+19. Instruction: Provide the definition and usage of an uncommon word.
+19. Input: 
+"Callipygian"
+19. Output: 
+"Callipygian" is an adjective that describes someone with well-shaped buttocks. Example: The statue of the goddess Aphrodite was known for her callipygian curves.
+###
+20. Instruction: Given a location, provide the current weather forecast.
+20. Input: 
+New York City, NY
+20. Output: 
+The weather in New York City is currently cloudy with a high of 40 degrees Fahrenheit and a low of 30 degrees Fahrenheit. There is a chance of rain or snow in the afternoon.

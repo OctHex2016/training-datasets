@@ -1,0 +1,45 @@
+4. Instruction: Which year did the historical event described occur?
+4. Input: 
+The world witnessed a horrific incident that claimed the lives of approximately 2,977 people in a series of coordinated terrorist attacks using hijacked passenger airlines. One aircraft crashed into the North Tower of the World Trade Center, another into the South Tower, a third into the Pentagon, and the last one crashed in a field in Pennsylvania. The tragic events of this day continue to be remembered annually.
+4. Output: 
+2001
+###
+5. Instruction: Write a haiku about the natural scenery.
+5. Input:
+<noinput>
+5. Output: 
+Mountain peaks so high,
+Rivers flow, the green forest,
+Nature's silent hymn.
+###
+6. Instruction: Why is plastic pollution a major concern for the environment?
+6. Input: 
+<noinput>
+6. Output: 
+Plastic pollution is a major concern for the environment because it takes a very long time to degrade, leading to accumulation in landfills, oceans, and other ecosystems. It harms various species, as animals can ingest or become entangled in plastic, which can be lethal. Additionally, plastic pollution can lead to the contamination of soil and water sources, thereby affecting the health and well-being of humans and wildlife in the long term.
+###
+7. Instruction: Suggest three improvements for the following paragraph.
+7. Input: 
+People usually goes to grocery store. That is right way. They need foods and also a daily used household product. It's no doubt that for grocery shopping is an essential.
+7. Output: 
+1. Correct grammatical errors: "People usually go to grocery stores. That is the right way."
+2. Clarify the sentence about needs: "They need food and various daily-used household products."
+3. Improve sentence structure and coherence: "There's no doubt that grocery shopping is essential."
+###
+8. Instruction: List five possible ingredients for a healthy salad.
+8. Input:
+<noinput>
+8. Output: 
+1. Mixed greens (such as spinach, kale, and arugula)
+2. Cherry tomatoes
+3. Cucumbers
+4. Red bell pepper
+5. Sliced almonds
+###
+9. Instruction: Summarize the main points of the text.
+9. Input: 
+Exercise is an essential component of a healthy lifestyle, offering numerous physical and psychological benefits. Regular physical activity can help increase cardiovascular fitness, strengthen muscles and bones, and improve flexibility and balance. Additionally, it can help to maintain a healthy weight and reduce the risk of chronic diseases, such as diabetes, heart disease, and some cancers.
+
+Aside from physical benefits, exercise also has positive effects on psychological well-being. Regular physical activity can promote mental health by reducing stress, anxiety, and depression. Studies have shown that exercise can help to improve mood, cognitive function, and overall well-being. Furthermore, participating in group exercises or sports can foster social connections, provide support, and enhance self-esteem.
+9. Output: 
+Exercise is an essential part of a healthy lifestyle, providing numerous physical and psychological benefits. It can help increase cardiovascular fitness, strengthen muscles and bones, improve flexibility, and reduce the risk of chronic diseases. Exercise also supports psychological well-being by reducing stress, anxiety, and depression, and improving mood, cognitive function, and social connections.

@@ -1,0 +1,146 @@
+4. Instruction: Reformat the following sentence without changing its meaning.
+4. Input: 
+I have a dog at home, and I named it Max.
+4. Output: 
+I named my dog Max, who stays at my home.
+
+###
+5. Instruction: Identify the type of animal that the following passage is about.
+5. Input: 
+This creature is a mammal with a pouch, where its tiny undeveloped offspring complete their development.
+5. Output: 
+Marsupial
+
+###
+6. Instruction: What are some possible negative consequences of using social media excessively?
+6. Input: 
+<noinput>
+6. Output: 
+- Increased isolation and loneliness
+- Depression and anxiety
+- Decreased self-esteem
+- Poor sleep quality or sleep disorder
+- Distraction and reduced productivity
+- Privacy violations and security issues
+- Online harassment or cyberbullying
+- Negative body image
+
+###
+7. Instruction: Correct the grammatical errors in the following sentence.
+7. Input: 
+She don't take a responsibility, it's not her problem.
+7. Output: 
+She doesn't take responsibility; it's not her problem.
+
+###
+8. Instruction: Write a brief bio about the following individual.
+8. Input: 
+Name: Sean Ellis
+Occupation: Entrepreneur, Author, and Speaker
+Claim to Fame: Coined the term "Growth Hacking"
+8. Output: 
+Sean Ellis is an entrepreneur, author, and speaker best known for coining the term "Growth Hacking." As a pioneer in this field, he has successfully helped multiple start-ups and businesses improve their growth and expansion strategies using innovative marketing techniques. Ellis's insightful approach to growth hacking continues to inspire others in the industry.
+
+###
+9. Instruction: How can one avoid plagiarism in academic writing?
+9. Input: 
+<noinput>
+9. Output: 
+- Cite all sources used and provide proper references
+- Understand and use appropriate citation styles (e.g., MLA, APA, Chicago)
+- Paraphrase and summarize information without copying verbatim
+- Use quotation marks for direct quotes
+- Provide your own analysis, interpretation, and perspective on the information
+- Double-check your work for unintentional plagiarism using a plagiarism checker
+
+###
+10. Instruction: Describe the basic storyline of the following book title.
+10. Input: 
+Harry Potter and the Prisoner of Azkaban
+10. Output: 
+In "Harry Potter and the Prisoner of Azkaban," the third book in the Harry Potter series, Harry returns to Hogwarts for his third year. He learns about the escape of the dangerous convict, Sirius Black, from the wizarding prison Azkaban. As the story unfolds, Harry discovers some hidden truths about his past and forms an unexpected bond with Sirius, changing his life forever. 
+
+###
+11. Instruction: Explain the symbolism of the following item.
+11. Input: 
+a phoenix
+11. Output: 
+A phoenix symbolizes rebirth, renewal, and transformation. It represents the cyclical nature of life, as it is believed to rise from its own ashes after its death, signifying the ability to overcome challenges and emerge even stronger.
+
+###
+12. Instruction: What are some health benefits of the following activity?
+12. Input: 
+yoga
+12. Output: 
+- Improved flexibility, strength, and balance
+- Reduced stress and anxiety
+- Increased relaxation and calmness
+- Enhanced mental clarity and focus
+- Better management of chronic health conditions (e.g., pain, depression, hypertension)
+- Improved sleep quality
+- Boosted immune system
+- Increased self-awareness and mindfulness
+
+###
+13. Instruction: Transform the following phrase into an acronym.
+13. Input: 
+Greener Environment Action Team
+13. Output: 
+G.E.A.T
+
+###
+14. Instruction: Identify the problem with the following logical argument.
+14. Input: 
+The human body needs water to survive; soda contains water; therefore, drinking soda is necessary for survival.
+14. Output: 
+The logical fallacy in this argument is the false equivalence between water and soda. The argument incorrectly assumes that the water content in soda is adequate for meeting the body's water requirements despite the presence of other unhealthy substances in soda.
+
+###
+15. Instruction: Complete the following phrase with a suitable word.
+15. Input: 
+Better late than __________.
+15. Output: 
+never
+
+###
+16. Instruction: Translate the following sentence into simple English.
+16. Input: 
+The clandestine meeting transpired during the nocturnal hours to avoid detection.
+16. Output: 
+The secret meeting took place at night to avoid being discovered.
+
+###
+17. Instruction: What is the best course of action based on this situation?
+17. Input: 
+Jamie is struggling with her studies and has poor time management skills.
+17. Output: 
+The best course of action would be for Jamie to seek academic support, such as tutoring or study groups, and develop better time management strategies, including creating a study schedule, setting priorities, and breaking tasks into smaller segments.
+
+###
+18. Instruction: Give the plural form of the following word.
+18. Input: 
+octopus
+18. Output: 
+octopuses
+
+###
+19. Instruction: Compose an original haiku poem.
+19. Input: 
+<noinput>
+19. Output: 
+Gentle breeze whispers,
+Leaves dance through autumn's colors,
+Nature's symphony.
+
+###
+20. Instruction: What precautions should be taken when using public Wi-Fi networks?
+20. Input: 
+<noinput>
+20. Output: 
+- Ensure the Wi-Fi network is legitimate and secure
+- Avoid accessing sensitive or personal data (banking, passwords)
+- Use VPN (Virtual Private Network) for secure browsing
+- Keep device's software and antivirus updated
+- Disable file sharing and avoid connecting to unknown devices
+- Log out of accounts when finished and clear browsing history
+- Use HTTPS websites for enhanced encryption and security

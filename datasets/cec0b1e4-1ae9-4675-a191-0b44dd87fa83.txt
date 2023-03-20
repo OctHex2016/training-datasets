@@ -1,0 +1,131 @@
+4. Instruction: Translate the given French phrase into English.
+4. Input:
+"La vie est belle."
+4. Output:
+"Life is beautiful."
+
+###
+5. Instruction: Correct the grammar and punctuation errors in the given paragraph.
+5. Input:
+Life is a journey? Full of surprises, with all its ups and downs. That's what makes it exciting; how ever sometimes it can be challenging. to keep up the pace.
+5. Output:
+Life is a journey, full of surprises, with all its ups and downs. That's what makes it exciting; however, sometimes it can be challenging to keep up the pace.
+
+###
+6. Instruction: Recommend three books for entrepreneurs.
+6. Input:
+<noinput>
+6. Output:
+1. "The Lean Startup" by Eric Ries
+2. "Zero to One" by Peter Thiel
+3. "The E-Myth Revisited" by Michael E. Gerber
+
+###
+7. Instruction: Identify the poetic structure of the given poem.
+7. Input:
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler,
+7. Output:
+This poem follows an ABAAB rhyme scheme and is written in iambic tetrameter.
+
+###
+8. Instruction: Summarize the key points of the following article on climate change.
+8. Input:
+Climate change is one of the most significant challenges humanity faces in the 21st century, as evidence continues to mount regarding its adverse effects on the planet. According to scientists, increased levels of greenhouse gases in the atmosphere are causing our climate to change at an unprecedented rate. As a result, sea levels are rising, wildlife habitats are being destroyed, and extreme weather events are becoming more frequent and severe. Many organizations and governments are taking steps to address these consequences, including implementing cleaner energy sources like solar and wind and promoting more sustainable lifestyles among their citizens. However, experts warn that much more still needs to be done if we are to avoid the worst-case scenarios associated with climate change.
+8. Output:
+Climate change, caused by increasing greenhouse gases, is leading to rising sea levels, habitat destruction, and more severe weather events. Organizations and governments are implementing cleaner energy sources and sustainable practices, but more action is needed to avoid the worst consequences.
+
+###
+9. Instruction: Calculate the volume of a cylindrical bottle with a radius of 4 cm and a height of 16 cm.
+9. Input: 
+<noinput>
+9. Output:
+256π cubic centimeters
+
+###
+10. Instruction: Briefly explain the primary difference between classical conditioning and operant conditioning.
+10. Input:
+<noinput>
+10. Output:
+Classical conditioning involves associating an involuntary response with a stimulus, while operant conditioning involves associating a voluntary response with a consequence or reward.
+
+###
+11. Instruction: What are three essential steps in developing an effective marketing strategy?
+11. Input:
+<noinput>
+11. Output:
+1. Target audience identification
+2. Creation of clear, achievable objectives
+3. Development of a comprehensive plan of action
+
+###
+12. Instruction: In 3-4 sentences, explain the significance of the Battle of Thermopylae.
+12. Input:
+<noinput>
+12. Output:
+The Battle of Thermopylae in 480 BC was a key battle between Greek city-states and the invading Persian Empire. A small Greek force, led by the Spartans, held off a vastly larger Persian force for three days at a narrow mountain pass. Their sacrifice and heroic defense inspired the Greek city-states to unite against the common enemy and ultimately defeat the Persian invasion.
+
+###
+13. Instruction: List five healthy food items for gaining muscle mass.
+13. Input:
+<noinput>
+13. Output:
+1. Lean chicken breast
+2. Greek yogurt
+3. Quinoa
+4. Salmon
+5. Almonds
+
+###
+14. Instruction: Edit and rephrase the given sentence to make it more formal and professional.
+14. Input:
+You'd better check out the details before you buy that house.
+14. Output:
+It is advisable to thoroughly examine the property details before proceeding with the purchase.
+
+###
+15. Instruction: Explain the six degrees of separation theory in one sentence.
+15. Input:
+<noinput>
+15. Output:
+The six degrees of separation theory posits that every person is connected to any other person through a chain of acquaintances with no more than six links between them.
+
+###
+16. Instruction: Identify the three most important elements of a balanced diet.
+16. Input:
+<noinput>
+16. Output:
+1. Carbohydrates
+2. Proteins
+3. Fats
+
+###
+17. Instruction: Provide a concise description of a waterfall.
+17. Input:
+<noinput>
+17. Output:
+A waterfall is a natural feature where water drops over a vertical slope or cliff, creating a dramatic and often picturesque cascade.
+
+###
+18. Instruction: Convert 8 miles per hour (mph) to kilometers per hour (kph).
+18. Input:
+<noinput>
+18. Output:
+12.87 kph
+
+###
+19. Instruction: Briefly describe the function of mitochondria in eukaryotic cells.
+19. Input:
+<noinput>
+19. Output:
+Mitochondria are the cellular organelles responsible for producing adenosine triphosphate (ATP), the primary energy currency in eukaryotic cells and are often referred to as the "powerhouses" of the cell.
+
+###
+20. Instruction: List three major advantages of using renewable energy sources over fossil fuels.
+20. Input:
+<noinput>
+20. Output:
+1. Lower greenhouse gas emissions
+2. Sustainable and inexhaustible resources
+3. Reduced dependence on foreign sources of energy

@@ -1,0 +1,144 @@
+4. Instruction: Translate the following English sentence into French.
+4. Input: 
+I would like to visit Paris in the spring.
+4. Output: 
+J'aimerais visiter Paris au printemps.
+
+###
+5. Instruction: Summarize the main points of this news article.
+5. Input: 
+Tesla CEO Elon Musk announced that the company is now accepting Bitcoin as a form of payment for its electric vehicles in the United States. The company will soon expand this option for customers outside the US. Musk also noted that Tesla is using only internal and open-source software to operate Bitcoin nodes and will retain the cryptocurrency it receives without converting it into fiat currency.
+5. Output: 
+Tesla is now accepting Bitcoin as payment for its electric vehicles in the US, with plans to expand this option internationally. The company uses internal and open-source software to operate Bitcoin nodes and will keep the cryptocurrency without converting it to fiat currency.
+
+###
+6. Instruction: Correct the grammar mistakes in the following paragraph.
+6. Input: 
+Once upon the time their was a young boy name Jack who lived with his mother deep in a forest. They was very poor but Jack's mother alway tryed to provide best for Jack. Jack love his mother very much, even thought he know they struggle.
+6. Output: 
+Once upon a time, there was a young boy named Jack who lived with his mother deep in a forest. They were very poor, but Jack's mother always tried to provide the best for Jack. Jack loved his mother very much, even though he knew they struggled.
+
+###
+7. Instruction: Can you describe a five-step process for making a successful presentation?
+7. Input: 
+<noinput>
+7. Output: 
+1. Define the goal: Determine the purpose of the presentation and identify the main message you want to convey.
+2. Research and gather information: Collect relevant facts, examples, and data to support your main message.
+3. Organize and structure: Arrange the information in a logical flow, starting with an attention-grabbing introduction, followed by main points, and ending with a strong conclusion.
+4. Design visual aids: Create visually appealing and easy-to-understand slides that complement and enhance your verbal content.
+5. Rehearse and deliver: Practice the presentation multiple times to gain confidence, ensure smooth transitions, and maintain appropriate pacing. Finally, deliver the presentation with enthusiasm and engagement.
+
+###
+8. Instruction: Can you identify the mistakes in this math equation and give the correct equation and solution?
+8. Input: 
+\(5 + 3 * 4 = 32\)
+8. Output: 
+The mistake in the equation is the order of operations. The correct equation is:
+\(5 + (3 * 4) = 5 + 12 = 17\)
+
+###
+9. Instruction: Compare and contrast classical music and jazz music.
+9. Input: 
+<noinput>
+9. Output: 
+Classical music is typically characterized by its highly structured compositions, elaborate orchestration, and reliance on written sheet music. It focuses on harmony, melody, and form. Classical works are often performed by large ensembles such as orchestras or chamber groups. Jazz, on the other hand, is an improvised and spontaneous genre with a strong emphasis on syncopation, improvisation, and individual expression. It often features smaller ensembles and combines various instruments, such as the saxophone, trumpet, and piano. While classical music has deep historical roots, jazz emerged more recently as a distinct genre, arising from the African-American communities in the early 20th century.
+
+###
+10. Instruction: Explain how to perform a push-up correctly.
+10. Input: 
+<noinput>
+10. Output: 
+1. Start in a plank position with your hands placed slightly wider than shoulder-width apart, arms fully extended, and feet together or hip-width apart.
+2. Keep your body aligned, engaging your core, glutes, and leg muscles, with your back straight and head facing forward.
+3. Lower your body by bending your elbows until your chest is about an inch from the ground.
+4. As you descend, keep your elbows tucked in at around a 45-degree angle to your body.
+5. Push through the palms of your hands to raise your body back up to the starting position, maintaining proper form throughout the movement.
+
+###
+11. Instruction: Write a haiku about the beauty of autumn.
+11. Input: 
+<noinput>
+11. Output: 
+Golden leaves fall soft,
+Cool winds whisper through tree limbs,
+Autumn's song begins.
+
+###
+12. Instruction: List three advantages and three disadvantages of using solar energy.
+12. Input: 
+<noinput>
+12. Output: 
+Advantages:
+1. Renewable and sustainable energy source.
+2. Reduces greenhouse gas emissions and lowers carbon footprint.
+3. Low operational and maintenance costs.
+
+Disadvantages:
+1. High initial installation costs.
+2. Dependent on weather and daylight availability.
+3. Limited efficiency in converting sunlight to electricity.
+
+###
+13. Instruction: Rewrite the following sentence in passive voice.
+13. Input: 
+The dog chased the cat up a tree.
+13. Output: 
+The cat was chased up a tree by the dog.
+
+###
+14. Instruction: Identify the author of the given quote and describe the main idea expressed in it.
+14. Input: 
+"The unexamined life is not worth living."
+14. Output: 
+The quote is by the ancient Greek philosopher Socrates. The main idea expressed is the importance of self-awareness, critical thinking, and reflection in leading a meaningful life.
+
+###
+15. Instruction: Based on the given information, recommend the best laptop option for a college student.
+15. Input: 
+Laptop A: 14-inch display, 8GB RAM, 256GB SSD, Intel Core i5, $700
+Laptop B: 15.6-inch display, 16GB RAM, 512GB SSD, Intel Core i7, $1,100
+Laptop C: 13.3-inch display, 4GB RAM, 128GB SSD, Intel Core i3, $450
+15. Output: 
+I recommend Laptop A for a college student as it offers a balance of performance, storage, and affordability. Its specifications are sufficient for typical student needs, such as web browsing, document editing, and multimedia consumption, and the price is reasonable compared to Laptop B.
+
+###
+16. Instruction: Explain the benefits of regularly practicing yoga.
+16. Input: 
+<noinput>
+16. Output: 
+1. Increases flexibility and muscle strength.
+2. Enhances balance and body awareness.
+3. Reduces stress and promotes relaxation.
+4. Improves posture and alignment.
+5. Encourages better breathing habits.
+6. Supports mental clarity and focus.
+7. Boosts overall wellbeing and quality of life.
+
+###
+17. Instruction: Analyze the character development of Elizabeth Bennet in Jane Austen's "Pride and Prejudice."
+17. Input: 
+<noinput>
+17. Output: 
+Elizabeth Bennet's character development revolves around her learning to recognize her own prejudices and limitations. She initially judges Mr. Darcy based on his aloof demeanor and gossip, attributing him with unjust pride. However, as she becomes more acquainted with Darcy and learns of his kindness and honorable deeds, she reevaluates her initial opinions. She also acknowledges her own tendency to be too quick in forming judgments. Through these experiences, Elizabeth matures in her understanding of herself, others, and society's expectations, ultimately leading to her union with Mr. Darcy and a more balanced approach to life.
+
+###
+18. Instruction: Arrange the following historical events in chronological order.
+18. Input: 
+American Revolutionary War, Renaissance, World War II, French Revolution
+18. Output: 
+Renaissance, American Revolutionary War, French Revolution, World War II
+
+###
+19. Instruction: Define the term "satire" and give an example of a satirical work.
+19. Input: 
+<noinput>
+19. Output: 
+Satire is a literary or artistic genre that uses humor, irony, sarcasm, or exaggeration to expose, critique, or ridicule human vice, folly, or societal issues. An example of a satirical work is Jonathan Swift's "Gulliver's Travels," which mocks human nature and challenges societal norms.
+
+###
+20. Instruction: Can you identify the cognitive bias described below and how it impacts decision-making?
+20. Input: 
+People tend to overestimate the probability of a negative outcome occurring, primarily because negative events evoke stronger emotional responses and are easier to recall.
+20. Output: 
+The cognitive bias described is the negativity bias. It impacts decision-making by causing people to disproportionately prioritize potential negative outcomes, which may lead to overly cautious behavior, risk aversion, and flawed evaluations of situations.

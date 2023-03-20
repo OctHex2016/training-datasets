@@ -1,0 +1,106 @@
+4. Instruction: Translate the following English sentence to French.
+4. Input: 
+Where is the nearest bakery?
+4. Output: 
+Où se trouve la boulangerie la plus proche?
+
+5. Instruction: Evaluate the validity of the argument given.
+5. Input: 
+All birds can fly. Penguins are birds. Therefore, penguins can fly.
+5. Output: 
+The argument is invalid because not all birds can fly, and penguins are an example of flightless birds.
+
+6. Instruction: Proofread the following passage for any grammatical errors.
+6. Input: 
+There dog’s are chasing after they’re owner who is running too fast down the road.
+6. Output: 
+Their dogs are chasing after their owner, who is running too fast down the road.
+
+7. Instruction: Identify the type of logical fallacy in the given statement.
+7. Input: 
+If we allow students to use their cellphones during class, they'll be texting and watching videos all day. We might as well not even have class.
+7. Output: 
+Slippery slope
+
+8. Instruction: <noinput>
+8. What is a haiku and what is its structure?
+8. Output: 
+A haiku is a traditional Japanese form of poetry. Its structure consists of three lines with a syllable pattern of 5-7-5.
+
+9. Instruction: Suggest three alternative titles for the given book title.
+9. Input: 
+The Girl on the Train
+9. Output: 
+1. The Woman Aboard
+2. Passengers and Secrets
+3. Train Ride Mysteries
+
+10. Instruction: List five healthy breakfast options based on the given dietary preference.
+10. Input: 
+Vegan
+10. Output: 
+1. Overnight oats with almond milk and fruits
+2. Avocado toast with cherry tomatoes
+3. Smoothie bowl with mixed berries and chia seeds
+4. Chickpea scramble with spinach and mushrooms
+5. Quinoa porridge with almond butter and banana
+
+11. Instruction: Write an opening sentence that will grab the reader's attention.
+11. Input: 
+Genre: Mystery
+11. Output: 
+As Detective Lawrence followed the trail of blood through the dark, winding alley, he felt the shadows closing in around him.
+
+12. Instruction: Explain the given concept in simple terms.
+12. Input: 
+Blockchain
+12. Output: 
+A blockchain is like a digital ledger that stores data in a secure and transparent way. It’s made up of blocks that are connected in a chain, and once a block is added, its information cannot be easily altered.
+
+13. Instruction: Determine the genre of the given movie title.
+13. Input: 
+Jurassic Park
+13. Output: 
+Science Fiction/Adventure
+
+14. Instruction: Choose the most suitable synonym for the given word.
+14. Input: 
+Expedite
+14. Output: 
+Accelerate
+
+15. Instruction: Provide a concise analysis of the given data.
+15. Input: 
+City A: Population 500,000, Annual crime rate: 5,000 incidents
+City B: Population 200,000, Annual crime rate: 3,000 incidents
+15. Output: 
+City B has a higher crime rate per capita compared to City A, considering their respective populations.
+
+16. Instruction: Describe the given object in a creative way.
+16. Input: 
+A tree
+16. Output: 
+A towering arboreal sentinel, standing tall amidst a sea of green, with limbs that stretch out like a mother's loving embrace – whispering tales of old to the leaves that rustle to the rhythm of the wind.
+
+17. Instruction: Summarize the given plotline in one sentence.
+17. Input: 
+In a dystopian future, a boy named Jonas is chosen to become the community's new Receiver of Memory and learns of the hidden truths and horrors behind their seemingly perfect society.
+17. Output: 
+Jonas discovers the dark secrets of his seemingly utopian society while assuming the role of Receiver of Memory.
+
+18. Instruction: Rewrite the given sentence in passive voice.
+18. Input: 
+The company will promote Tim to the position of manager.
+18. Output: 
+Tim will be promoted to the position of manager by the company.
+
+19. Instruction: Identify the primary emotion conveyed in the given sentence.
+19. Input: 
+Her face crumpled and tears streamed down her cheeks as she clutched the letter tightly to her chest.
+19. Output: 
+Sadness
+
+20. Instruction: <noinput>
+20. Explain the concept of a circadian rhythm.
+20. Output: 
+A circadian rhythm is a natural, internal process that regulates the sleep-wake cycle and repeats roughly every 24 hours, helping our bodies adapt to the daily changes in our environment, such as light and temperature.

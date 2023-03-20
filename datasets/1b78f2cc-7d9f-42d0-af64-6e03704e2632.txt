@@ -1,0 +1,104 @@
+4. Instruction: Write a summary of the provided text.
+4. Input: 
+Text: The European Union has introduced a series of ambitious new goals to reduce greenhouse gas emissions as part of the bloc's Green Deal. The new proposals call for cutting emissions by 55% by 2030, compared to 1990 levels. The plan includes enacting more aggressive climate policies that include phasing out internal combustion engine vehicles within the next 15 years, promoting renewable energy sources, and investing in green infrastructure projects. Several major European automakers have already announced plans to halt production of internal combustion engines and transition to electric vehicles in the coming years.
+4. Output: 
+The European Union, as a part of its Green Deal, aims to cut greenhouse gas emissions by 55% by 2030 compared to 1990 levels. The plan includes phasing out internal combustion engine vehicles within 15 years, promoting renewable energy, and investing in green infrastructure projects. Major European automakers are already working towards transitioning to electric vehicles.
+
+5. Instruction: Create a palindrome from any word given.
+5. Input: 
+Word: caterpillar
+5. Output: 
+caterpillarallipretac
+
+6. Instruction: Evaluate the given expression.
+6. Input: 
+Expression: (12 - 5) * 3 / 7 + 4^2
+6. Output: 
+20.4285714286
+
+7. Instruction: Rearrange the words in alphabetical order.
+7. Input: 
+Sentence: The quick brown fox jumps over the lazy dog
+7. Output: 
+brown dog fox jumps lazy over quick the The
+
+8. Instruction: Translate the given sentence from English to Spanish.
+8. Input: 
+Sentence: The library is open every day from 9 am to 5 pm.
+8. Output: 
+La biblioteca está abierta todos los días de 9 am a 5 pm.
+
+9. Instruction: Identify the parts of speech of the given word.
+9. Input: 
+Word: fly
+9. Output: 
+Verb, Noun
+
+10. Instruction: Provide a two-sentence story for the given image description.
+10. Input: 
+Image description: A young girl holding an umbrella and wearing a raincoat stands in the rain.
+10. Output: 
+Sara bravely stepped outside, holding her umbrella tightly against the pouring rain. The downpour couldn't dampen her adventurous spirit as she explored the puddle-covered streets.
+
+11. Instruction: Compute the tip required to pay at a restaurant if the bill amount is $45 and the tip percentage is 15%.
+11. Input: 
+Bill amount: $45
+Tip percentage: 15%
+11. Output: 
+$6.75
+
+12. Instruction: Recommend a novel based on the given preferences.
+12. Input: 
+Preferences: sci-fi, dystopian future, strong female lead
+12. Output: 
+The Handmaid's Tale by Margaret Atwood
+
+13. Instruction: Explain the difference between a plant cell and an animal cell.
+13. Input: 
+<noinput>
+13. Output: 
+Plant cells have a cell wall, chloroplasts, and large central vacuole, while animal cells do not. Animal cells have a rounded shape, while plant cells have a more rectangular shape due to their cell wall.
+
+14. Instruction: Suggest a vegetarian alternative for the given dish.
+14. Input: 
+Dish: chicken noodle soup
+14. Output: 
+vegetable noodle soup
+
+15. Instruction: What technology would you recommend to a visually impaired person to assist in using a computer?
+15. Input: 
+<noinput>
+15. Output: 
+Screen reader software (such as JAWS or NVDA) to read content on the screen aloud and navigate websites using keyboard commands.
+
+16. Instruction: Identify the literary device used in the given sentence.
+16. Input: 
+Sentence: All the world's a stage, and all the men and women merely players.
+16. Output: 
+Metaphor
+
+17. Instruction: Suggest an exercise that can be done indoors without any equipment.
+17. Input: 
+<noinput>
+17. Output: 
+Jumping jacks
+
+18. Instruction: Calculate the area of a right-angled triangle with a base of 6 units and height of 8 units.
+18. Input: 
+Base: 6 units
+Height: 8 units
+18. Output: 
+24 square units
+
+19. Instruction: Create a rhyming couplet using the given word.
+19. Input: 
+Word: sky
+19. Output: 
+Up above, the birds soar high,
+Painting pictures in the endless sky.
+
+20. Instruction: Create a reason for delay in delivery of a package.
+20. Input: 
+<noinput>
+20. Output: 
+Severe weather conditions caused disruptions in transportation, resulting in a delay in the delivery of your package.

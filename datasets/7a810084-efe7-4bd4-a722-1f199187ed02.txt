@@ -1,0 +1,110 @@
+4. Instruction: List three possible benefits of using solar energy instead of fossil fuels.
+4. Input:
+<noinput>
+4. Output:
+1. Reduced greenhouse gas emissions: Solar energy produces significantly fewer emissions compared to fossil fuels.
+2. Renewable and sustainable: Solar energy is a virtually endless and non-depleting resource, unlike fossil fuels.
+3. Lower long-term energy costs: Although the upfront investment may be high, the cost of producing electricity from solar panels decreases over time.
+
+5. Instruction: Summarize the main idea of the following passage in one sentence.
+5. Input:
+Modern life is all about speed and instant gratification. People, nowadays, have very little patience when it comes to waiting. Take for example our growing dependency on instant messaging services like WhatsApp and social media platforms like Facebook or Twitter that provide instant updates on what’s happening around the world. This need for speed can also be seen in commerce, as more people opt for shopping online to save time and effort, as well as for the comfort of having everything available in a single click.
+5. Output:
+Modern life focuses on speed, instant gratification, and convenience, as demonstrated by our reliance on technology and preference for online shopping.
+
+6. Instruction: Create a haiku about autumn.
+6. Input:
+<noinput>
+6. Output:
+Golden leaves descend,
+Crisp air whispers to the trees,
+Autumn's touch is near.
+
+7. Instruction: Describe how to change a flat tire on a car.
+7. Input:
+<noinput>
+7. Output:
+To change a flat tire on a car, follow these steps: 1. Park the car on level ground and engage the parking brake; 2. Locate the spare tire, jack, and lug wrench; 3. Loosen the lug nuts but do not remove them yet; 4. Place the jack under the car, following the owner's manual for guidance, and lift it until the flat tire is off the ground; 5. Remove the lug nuts and the flat tire; 6. Mount the spare tire on the wheel studs and tighten the lug nuts by hand; 7. Lower the car back to the ground, remove the jack, and tighten the lug nuts securely with the lug wrench; 8. Put away the tools and flat tire, and check the spare tire's pressure as soon as possible.
+
+8. Instruction: Which technology is better for the given scenario? Choose between Lidar and traditional cameras for an autonomous car driving in a heavy fog. Explain why.
+8. Input:
+<noinput>
+8. Output:
+Lidar is better for an autonomous car driving in heavy fog. This is because Lidar uses laser pulses to measure distances and create a 3D map of the environment, which makes it less affected by weather conditions like fog, compared to traditional cameras that rely on visible light and can have limited visibility.
+
+9. Instruction: Rewrite the following phrase in passive voice: "The dog chased the cat."
+9. Input:
+<noinput>
+9. Output:
+The cat was chased by the dog.
+
+10. Instruction: Among indoor cycling and outdoor cycling, which one is better for those living in a heavily polluted city? Explain your reasoning.
+10. Input:
+<noinput>
+10. Output:
+Indoor cycling is better for those living in a heavily polluted city, as it allows individuals to exercise in a controlled environment with cleaner air, reducing the risk of inhaling harmful pollutants while cycling outside.
+
+11. Instruction: Provide a one-sentence definition of "cryptocurrency."
+11. Input:
+<noinput>
+11. Output:
+Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently from a central bank.
+
+12. Instruction: Suggest a way to improve the following email subject line: "Important company update for all employees."
+12. Input:
+<noinput>
+12. Output:
+"Urgent: Company Update Affecting All Employees - Please Read"
+
+13. Instruction: Determine the format of the given text. Is it written in prose or in poetry?
+13. Input:
+He thought he saw an elephant,
+That practiced on a fife:
+He looked again, and found it was
+A letter from his wife.
+"At length I realize," he said,
+"The bitterness of Life!"
+13. Output:
+poetry
+
+14. Instruction: Explain the term "opportunity cost" with a brief example.
+14. Input:
+<noinput>
+14. Output:
+Opportunity cost refers to the potential benefit an individual or organization missed out on when choosing one alternative over another. For example, if you choose to spend your weekend working overtime at your job instead of attending a friend's party, the opportunity cost could be the fun and social connections you missed out on by not going to the party.
+
+15. Instruction: Is the following statement true or false? "A hypothesis is a proven scientific fact."
+15. Input:
+<noinput>
+15. Output:
+false
+
+16. Instruction: Generate a motivational quote about perseverance.
+16. Input:
+<noinput>
+16. Output:
+"Perseverance is the foundation of achievements; when faced with adversity, keep pushing forward, and you will find your way to success."
+
+17. Instruction: Calculate the sum of two given numbers and provide the result.
+17. Input:
+18 and 35
+17. Output:
+53
+
+18. Instruction: Determine whether the given statement is an opinion or a fact: "Mount Everest is the tallest mountain in the world."
+18. Input:
+<noinput>
+18. Output:
+fact
+
+19. Instruction: Explain the role of photosynthesis in a plant's life.
+19. Input:
+<noinput>
+19. Output:
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen, providing them with the energy they need to grow, maintain their functions, and release oxygen vital for other organisms' respiration.
+
+20. Instruction: Offer a recommendation for a sci-fi book to someone new to the genre.
+20. Input:
+<noinput>
+20. Output:
+I recommend starting with "Ender's Game" by Orson Scott Card, as it is a captivating and accessible introduction to the sci-fi genre, exploring themes of empathy, leadership, and the human cost of war.

@@ -1,0 +1,35 @@
+4. Instruction: Rewrite the following sentence in active voice.
+4. Input:
+The book was written by the author in 1850.
+4. Output:
+The author wrote the book in 1850.
+###
+5. Instruction: What are the three most widely spoken languages in the world?
+5. Input:
+<noinput>
+5. Output:
+English, Mandarin Chinese, and Spanish.
+###
+6. Instruction: Identify the subject, verb, and object in the following sentence.
+6. Input:
+Charles plays the piano.
+6. Output:
+Subject: Charles, Verb: plays, Object: the piano.
+###
+7. Instruction: Translate the following sentence into French.
+7. Input:
+I love traveling and exploring new places.
+7. Output:
+J'aime voyager et explorer de nouveaux endroits.
+###
+8. Instruction: Provide a rhyming word for the given word.
+8. Input:
+delight
+8. Output:
+fright
+###
+9. Instruction: Explain the main difference between a metaphor and a simile.
+9. Input:
+<noinput>
+9. Output:
+A metaphor is a figure of speech that describes an object or action by comparing it directly to something else, while a simile is a figure of speech that compares two different things using "like" or "as".

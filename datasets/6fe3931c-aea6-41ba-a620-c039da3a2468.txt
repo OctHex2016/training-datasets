@@ -1,0 +1,122 @@
+4. Instruction: Describe the given photo in one sentence.
+4. Input: 
+A golden retriever is playing with a flying disc in a park.
+4. Output: 
+A joyful golden retriever skillfully catches a flying disc mid-air at a sunny park.
+
+###
+5. Instruction: Summarize the main argument of the given paragraph.
+5. Input: 
+Global warming is a significant issue, and human activities notably contribute to the release of greenhouse gases into the Earth's atmosphere. The industrial revolution has fueled unregulated human emissions, leading to a significant increase in greenhouse gases like carbon dioxide, methane, and nitrous oxide. These gases trap heat in the Earth's atmosphere, leading to increased temperatures and causing severe consequences like devastating weather patterns, ocean acidification, and extinction of several species.
+5. Output: 
+The main argument is that human activities, particularly since the industrial revolution, have significantly contributed to global warming by releasing greenhouse gases into the Earth's atmosphere, leading to dire consequences.
+
+###
+6. Instruction: Validate the given statement and provide a reason if it is false.
+6. Input: 
+Oxygen is heavier than hydrogen.
+6. Output: 
+The statement is true. Oxygen is heavier than hydrogen because oxygen has more protons, neutrons, and electrons than hydrogen, resulting in a higher atomic mass.
+
+###
+7. Instruction: Transform the given sentence into passive voice.
+7. Input: 
+The researchers conducted a detailed study on the effects of climate change.
+7. Output: 
+A detailed study on the effects of climate change was conducted by the researchers.
+
+###
+8. Instruction: Explain the given term in simple words.
+8. Input: 
+Inflation
+8. Output: 
+Inflation is a general increase in the prices of goods and services over time, which results in less purchasing power for money.
+
+###
+9. Instruction: Classify the given food item as healthy or unhealthy.
+9. Input: 
+Fried Chicken
+9. Output: 
+Unhealthy
+
+###
+10. Instruction: Combine the two given sentences into one concise sentence.
+10. Input: 
+She loves to dance. Dancing makes her happy.
+10. Output: 
+She loves to dance as it makes her happy.
+
+###
+11. Instruction: Generate three possible titles for a beginner's guide on cryptocurrency.
+11. Input: 
+<noinput>
+11. Output: 
+1. "Crypto for Beginners: A Comprehensive Introduction"
+2. "Cryptocurrency Demystified: Your First Steps into Digital Money"
+3. "The Newbie's Guide to Cryptocurrency: Understanding the Basics"
+
+###
+12. Instruction: Identify the main error in the following sentence and correct it.
+12. Input: 
+There is a mice in the room.
+12. Output: 
+There is a mouse in the room.
+
+###
+13. Instruction: Generate two questions that would be appropriate for a job interview.
+13. Input: 
+<noinput>
+13. Output: 
+1. "Can you describe a time when you faced a challenging situation and how you overcame it?"
+2. "How do you maintain a healthy work-life balance?"
+
+###
+14. Instruction: How to care for a newly planted tree? Provide three tips.
+14. Input: 
+<noinput>
+14. Output: 
+1. Choose the right location with sufficient sunlight and make sure the soil is well-draining.
+2. Mulch around the base of the tree to retain moisture and regulate temperature, but avoid direct contact with the trunk.
+3. Water the tree deeply and regularly, particularly during the first few weeks and during dry periods.
+
+###
+15. Instruction: Rephrase the given statement as a question.
+15. Input: 
+You are doing a great job on this project.
+15. Output: 
+Are you doing a great job on this project?
+
+###
+16. Instruction: Can you provide a brief description of the process of photosynthesis?
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is the process through which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into glucose (food) and oxygen. It primarily occurs in chlorophyll-containing cells called chloroplasts, where sunlight is absorbed and used to produce the energy required for converting water and carbon dioxide into glucose.
+
+###
+17. Instruction: Remove any redundant words from the given sentence.
+17. Input: 
+Please revert back to me with your response.
+17. Output: 
+Please revert to me with your response.
+
+###
+18. Instruction: Make a prediction based on the given information.
+18. Input: 
+Mary has been studying for 6 hours for her upcoming history exam.
+18. Output: 
+Mary is likely to be well-prepared and perform well on her history exam.
+
+###
+19. Instruction: Create an introductory sentence for a blog post about the ecological benefits of electric cars.
+19. Input: 
+<noinput>
+19. Output: 
+Discover the ecological benefits of electric cars and how driving one can contribute to a cleaner, greener, and more sustainable future for all.
+
+###
+20. Instruction: Recommend an effective strategy for a student who is struggling to stay focused during online classes.
+20. Input: 
+<noinput>
+20. Output: 
+An effective strategy would be to minimize distractions by finding a quiet, dedicated space for learning, creating a routine schedule, and taking short breaks to help maintain focus during online classes.

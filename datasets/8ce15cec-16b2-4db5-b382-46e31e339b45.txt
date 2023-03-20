@@ -1,0 +1,102 @@
+4. Instruction: Summarize the main points of the newspaper article.
+4. Input:
+The airline industry continues to struggle in the wake of the COVID-19 pandemic, with many carriers facing financial difficulties. However, some have taken a proactive approach in adapting to the new normal. One example is BigAir, which has introduced new safety measures, such as frequent testing of flight crew and regular sanitization of aircraft cabins. Thanks to these measures, BigAir managed to maintain a significant portion of its pre-pandemic flight schedule, even during the peak of the crisis. Industry experts believe that BigAir's success lies in its ability to quickly adapt and respond to changing consumer behavior, ensuring peace of mind while traveling.
+4. Output:
+The airline industry is struggling due to the COVID-19 pandemic, with many carriers facing financial difficulties. BigAir, however, has introduced new safety measures like frequent testing of flight crew and regular sanitization of aircraft cabins, allowing them to maintain a portion of their pre-pandemic flight schedule. Experts credit BigAir's adaptability and focus on traveler safety as their keys to success.
+
+5. Instruction: Evaluate the validity of the argument.
+5. Input:
+All humans are mortal. Socrates is a human. Therefore, Mary Poppins is immortal.
+5. Output:
+The argument is invalid because the conclusion does not logically follow from the premises. The argument states that humans are mortal and that Socrates is human. However, these premises do not support the claim that Mary Poppins is immortal.
+
+6. Instruction: Rewrite the following sentence in active voice.
+6. Input:
+The laptop was stolen by the burglar.
+6. Output:
+The burglar stole the laptop.
+
+7. Instruction: Identify the poetic device used in the given line.
+7. Input:
+Her laughter is like a melody that lingers on.
+7. Output:
+The poetic device used in the given line is a simile.
+
+8. Instruction: Write a brief overview of the Industrial Revolution.
+8. Input:
+<noinput>
+8. Output:
+The Industrial Revolution, occurring between the mid-18th to mid-19th centuries, marked a period of significant change in agriculture, manufacturing, mining, and transportation. It began in Britain and spread to Europe and later, North America. Innovations in textiles, steam power, and iron production transformed the economy and society, contributing to urbanization and a shift from rural life to factory jobs. The Industrial Revolution dramatically improved productivity, but also raised numerous social and economic issues.
+
+9. Instruction: What would happen if the Earth stopped rotating?
+9. Input:
+<noinput>
+9. Output:
+If the Earth stopped rotating, several drastic changes would occur. Firstly, the planet would experience extreme temperature differences, with one side constantly facing the sun and experiencing intense heat while the other side remaining in perpetual darkness and cold. Secondly, Earth's atmosphere and oceans would redistribute, creating massive storms, flooding, and considerably altering weather patterns. Finally, the lack of centrifugal force from Earth's rotation would cause the planet's shape to change, resulting in a more uniform distribution of landmasses and oceans.
+
+10. Instruction: Check the input for grammar and spelling errors and suggest corrections.
+10. Input:
+Their going to by a new car becouse the old one broke down on the high way.
+10. Output:
+They're going to buy a new car because the old one broke down on the highway.
+
+11. Instruction: Classify the animal.
+11. Input:
+This creature has a shell, a muscular foot, and tentacles. It's usually found in moist or wet environments.
+11. Output:
+The described animal is classified as a mollusk.
+
+12. Instruction: Decide whether the following statement is an opinion or a fact.
+12. Input:
+Chocolate is the best dessert.
+12. Output:
+The statement is an opinion.
+
+13. Instruction: Calculate the area of a triangle.
+13. Input:
+Base: 10 units
+Height: 6 units
+13. Output:
+The area of the triangle is 30 square units.
+
+14. Instruction: Name the figure of speech used in the given phrase.
+14. Input:
+It's raining cats and dogs.
+14. Output:
+The figure of speech used in the phrase is an idiom.
+
+15. Instruction: Can living organisms survive without water?
+15. Input:
+<noinput>
+15. Output:
+In general, living organisms cannot survive without water. Water is essential for maintaining cell structure, enabling metabolic reactions, and regulating temperature in most living beings. However, some organisms have unique adaptations that allow them to survive in extreme dehydration conditions for extended periods, such as tardigrades and brine shrimp.
+
+16. Instruction: Explain the process of photosynthesis.
+16. Input:
+<noinput>
+16. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into chemical energy. It involves absorbing light energy through pigments, such as chlorophyll, which are present in chloroplasts of plant cells. This energy is used to drive a series of reactions that combine carbon dioxide (CO2) and water (H2O) to produce glucose, a source of energy and building block for plants. Oxygen is released as a byproduct during this process.
+
+17. Instruction: Write a brief introduction for an essay on the effects of social media on mental health.
+17. Input:
+<noinput>
+17. Output:
+In today's digital age, social media has become an integral part of our daily lives. With its ability to connect people globally, social media has also given rise to potential mental health concerns. This essay aims to explore the complex relationship between social media use and its impact on mental health, discussing both its positive and negative effects on individuals and the need for a balanced approach in navigating the vast world of online communication.
+
+18. Instruction: Paraphrase the following sentence.
+18. Input:
+The teacher asked the students to write a short story as part of the creative writing assignment.
+18. Output:
+For the creative writing task, the instructor requested that the students compose a brief narrative.
+
+19. Instruction: Identify the fallacy used in the argument.
+19. Input:
+Everyone says that the earth is round, so it must be true.
+19. Output:
+The fallacy used in the argument is an appeal to popularity or ad populum.
+
+20. Instruction: Which planet is the seventh from the sun?
+20. Input:
+<noinput>
+20. Output:
+The seventh planet from the sun is Uranus.

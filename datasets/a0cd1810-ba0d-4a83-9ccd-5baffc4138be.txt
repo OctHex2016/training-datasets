@@ -1,0 +1,164 @@
+4. Instruction: Classify the following document as positive or negative sentiment. 
+4. Input: 
+"I absolutely loved the new restaurant in town! The food was delicious and the service was impeccable." 
+4. Output: 
+Positive 
+###
+5. Instruction: Can you suggest a research topic in the field of natural language processing? 
+5. Input: 
+<noinput>
+5. Output: 
+Sure! Here is an interesting research topic in the field of natural language processing:
+"Automatic generation of emojis for sentences using deep learning models."
+###
+6. Instruction: Rewrite the following sentence using a passive voice. 
+6. Input: 
+"Jim wrote a novel in three months." 
+6. Output: 
+"A novel was written by Jim in three months." 
+###
+7. Instruction: Can you generate a paragraph about the benefits and risks of genetically modified foods? 
+7. Input: 
+<noinput>
+7. Output: 
+Genetically modified foods (GM foods) are foods that have had their genetic composition altered in some way. Supporters argue that GM foods help to increase food production, decrease pesticide use, and decrease the cost of food. However, some people are concerned that there may be risks to human health, the environment, and biodiversity. While the science behind GM foods is still a topic of debate, it is important for consumers to be informed and make their own decisions about consuming GM foods.
+###
+8. Instruction: Generate a summary of the given article on the latest COVID-19 updates. 
+8. Input: 
+https://www.bbc.com/news/world-54722434 (Copy-paste the text here)
+8. Output: 
+A second wave of Covid-19 is sweeping Europe, with France, the UK and the Netherlands reporting record numbers of daily cases. Lockdowns have been imposed in several European countries, as authorities try to control the spread of the virus. Meanwhile, the US continues to see a surge in cases, with daily numbers exceeding 100,000 for the first time. Globally, total cases have now surpassed 50 million.
+###
+9. Instruction: Can you list the five longest rivers in the world and their length in kilometers? 
+9. Input: 
+<noinput>
+9. Output: 
+The five longest rivers in the world and their length in kilometers are:
+1) The Nile: 6,650 km
+2) The Amazon: 6,400 km
+3) The Yangtze: 6,300 km
+4) The Mississippi-Missouri: 6,275 km
+5) The Yenisei: 5,539 km
+###
+10. Instruction: Correct the following sentence for grammatical errors. 
+10. Input: 
+"I seen that movie before." 
+10. Output: 
+"I have seen that movie before." 
+###
+11. Instruction: Generate a rhyming poem with at least four stanzas. 
+11. Input: 
+<noinput>
+11. Output:
+The sun was shining in the sky,
+A bird flew by, way up high.
+The flowers bloomed, sweet perfume,
+Summer time will end so soon.
+
+A gentle breeze, rustling leaves,
+The sound of music, up on the eaves.
+Children playing, imagination swaying,
+Memories we'll always be saving.
+
+The stars will sparkle in the night,
+The moon so bright, what a sight.
+Quiet whispers, hearts flutter,
+Life is more than just a mutter.
+
+So let us cherish each moment true,
+With friends and family, old and new.
+Life is fleeting, time is fleeting,
+Let us enjoy our life, just by being.
+###
+12. Instruction: Suggest an opening sentence for a cover letter for a job interview. 
+12. Input: 
+Applying for the position of Data Analyst at XYZ Corporation.
+12. Output: 
+"As a highly motivated and data-driven individual, I am excited to apply for the position of Data Analyst at XYZ Corporation."
+###
+13. Instruction: Given a dataset, can you help me find the correlation between two variables? 
+13. Input: 
+Dataset: https://www.kaggle.com/andonians/random-linear-regression/version/2
+Variables: x and y
+13. Output: 
+The correlation between variables x and y is -0.93, indicating a strong negative correlation between the two.
+###
+14. Instruction: Can you generate a catchy slogan for a new line of organic skin care products? 
+14. Input: 
+<noinput>
+14. Output: 
+"Transform your skin the natural way with our organic skin care products - because healthy is beautiful."
+###
+15. Instruction: Could you help me with the formatting of my thesis document? 
+15. Input: 
+<noinput>
+15. Output: 
+Of course! Do you have any particular formatting requirements, such as font size and style, spacing, page margins, etc.?
+###
+16. Instruction: Rearrange the following words to form a grammatically correct sentence. 
+16. Input: 
+"on the was the road bicycle lying." 
+16. Output: 
+"The bicycle was lying on the road." 
+###
+17. Instruction: Can you summarize the history of ancient Greece? 
+17. Input: 
+<noinput>
+17. Output: 
+Ancient Greece is known for its many contributions to modern civilization, including the creation of democracy, philosophy, mathematics, and the Olympic Games. The Greek civilization peaked around 300 BCE and was divided into many city-states, including Athens, Sparta, and Corinth. They also made significant contributions in the fields of literature, art, and architecture, visible in the works of philosophers like Plato and Aristotle, and in artistic masterpieces like the Parthenon and Olympia.
+###
+18. Instruction: Suggest a cocktail recipe for a party of 10 people. 
+18. Input: 
+<noinput>
+18. Output: 
+Here's a recipe for a pitcher of margaritas to serve 10 people:
+- 3 cups of tequila
+- 2 cups of lime juice
+- 2 cups of simple syrup
+- 1 cup of triple sec
+- Salt for rimming the glasses
+Pour all ingredients into a pitcher and stir well. Rim glasses with salt and fill with ice. Pour margarita mix over ice and serve.
+### 
+19. Instruction: Can you explain the concept of blockchain technology? 
+19. Input: 
+<noinput>
+19. Output: 
+Blockchain is a specific type of technology that allows for the creation of decentralized digital ledgers of transactions across a network of computers. It forms the backbone of cryptocurrencies like Bitcoin, but its potential applications extend far beyond that. Blockchain can be used to create secure digital identities, manage supply chains, prevent fraud, and establish trust between parties of different fields.
+### 
+20. Instruction: Simplify the following instructions for a general audience. 
+20. Input: 
+"Using a Phillips head screwdriver, unscrew the back panel of the computer case to access the internal components." 
+20. Output: 
+"Remove the screws on the back of your computer case to access its insides." 
+### 
+21. Instruction: Can you generate a list of three good books to read for the summer? 
+21. Input: 
+<noinput>
+21. Output: 
+Sure! Here are three great books to read this summer:
+1. "The Immortal Life of Henrietta Lacks" by Rebecca Skloot
+2. "The Nightingale" by Kristin Hannah
+3. "The Alchemist" by Paulo Coelho 
+###
+
+22. Instruction: Given a dataset, can you train a machine learning model to predict the price of a house? 
+22. Input: 
+Dataset: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+22. Output: 
+Sure! We can use a regression model, such as linear regression or random forest regression, to predict the price of a house based on various features in the dataset, such as number of bedrooms, overall quality, and the presence of a fireplace. We can also perform data preprocessing steps, such as imputing missing values and scaling numerical features, to improve model accuracy.
+### 
+
+23. Instruction: Can you generate three questions for a general knowledge quiz? 
+23. Input: 
+<noinput>
+23. Output: 
+1. Who wrote the novel "To Kill a Mockingbird"?
+2. What is the tallest mammal in the world?
+3. Who painted the famous artwork "The Scream"?
+### 
+
+24. Instruction: Could you help me edit my resume for a job application? 
+24. Input: 
+<noinput>
+24. Output: 
+Of course! Can you send me a copy of your resume and the job posting you are applying for? I can review your resume and suggest any changes or improvements to make it stand out to the employer.

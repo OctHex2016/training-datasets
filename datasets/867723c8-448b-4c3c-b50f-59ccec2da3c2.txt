@@ -1,0 +1,105 @@
+4. Instruction: Given a short paragraph, summarize the main idea in one sentence. 
+4. Input: 
+The impact of COVID-19 on the economy has been devastating. Small businesses have closed down, unemployment rates have soared, and many industries such as travel and hospitality have been hit hard. However, some industries such as online retail and telemedicine have seen increased demand.
+4. Output: 
+COVID-19 has severely affected the economy causing widespread closures, unemployment and a downturn in certain industries, while others have seen increased demand. 
+###
+5. Instruction: Identify the tense used in the provided sentence. 
+5. Input: 
+He will be traveling to Europe next week.
+5. Output: 
+Future tense. 
+###
+6. Instruction: Given a word and its definition, use the word in a sentence. 
+6. Input: 
+Word: Altruistic 
+Definition: Showing a disinterested and selfless concern for the well-being of others; unselfish. 
+6. Output: 
+Despite his rich background, the philanthropist maintained an altruistic approach in his dealings with the needy in the society. 
+### 
+7. Instruction: Identify the personality type based on the list of traits. 
+7. Input: 
+Traits: reserved, serious, analytical, logical, impersonal
+7. Output: 
+INTJ (Introverted, Intuition, Thinking, Judgment) 
+### 
+8. Instruction: Rearrange the sentences in the provided paragraph to form a coherent sequence. 
+8. Input: 
+Many natives avoid the area because of the dogs. Some of the dogs have attacked people in the past. A few pedestrians walk through the area apprehensively. The area is notorious for violent dog attacks.
+8. Output:
+The area is notorious for violent dog attacks. Some of the dogs have attacked people in the past. A few pedestrians walk through the area apprehensively. Many natives avoid the area because of the dogs.
+###
+9. Instruction: Given a phrase, identify the part of speech of the underlined word. 
+9. Input: 
+The cat sat on the mat. 
+9. Output: 
+Noun (mat) 
+###
+10. Instruction: Given a text, edit for grammar and punctuation errors. 
+10. Input: 
+The company provides it's customers with high-quality products at an affordable price. We believe in creating a lasting relationships with our customers.
+10. Output: 
+The company provides its customers with high-quality products at an affordable price. We believe in creating lasting relationships with our customers. 
+###
+11. Instruction: Given two numbers, calculate the remainder of the first number when divided by the second number. 
+11. Input: 
+Number 1: 25
+Number 2: 8
+11. Output: 
+The remainder is 1. 
+###
+12. Instruction: Identify the type of weather given the provided description. 
+12. Input: 
+The warm wind picks up, the sky darkens, and eventually, it starts to pour heavily. 
+12. Output: 
+Rainy 
+### 
+13. Instruction: Given a sentence, change the verb to the past tense. 
+13. Input: 
+She walks on the beach every morning.
+13. Output: 
+She walked on the beach every morning. 
+###
+14. Instruction: Identify the type of animal that the following characteristics belong to. 
+14. Input: 
+- Cold-blooded
+- Lives in the water 
+- Has scales 
+14. Output: 
+Fish 
+### 
+15. Instruction: Correct the following sentence. 
+15. Input: 
+Me and him went to the store.
+15. Output: 
+He and I went to the store. 
+### 
+16. Instruction: Identify the form of the verb given in the provided sentence. 
+16. Input: 
+I am studying for my exams. 
+16. Output: 
+Present continuous tense (verb: studying) 
+### 
+17. Instruction: Given a movie title, provide the names of the three main actors/actresses. 
+17. Input: 
+The Dark Knight 
+17. Output: 
+Christian Bale, Heath Ledger, Aaron Eckhart 
+### 
+18. Instruction: Given a word, provide a synonym. 
+18. Input: 
+Word: Grand 
+18. Output: 
+Majestic 
+### 
+19. Instruction: Identify the type of fruit given in the provided description. 
+19. Input: 
+Small and round, it has a red and green exterior, is sweet and juicy when ripe, and is rich in Vitamin C. 
+19. Output: 
+Kiwi fruit 
+### 
+20. Instruction: Given a sentence, change it from an active voice to a passive voice. 
+20. Input: 
+The teacher graded the papers. 
+20. Output: 
+The papers were graded by the teacher.

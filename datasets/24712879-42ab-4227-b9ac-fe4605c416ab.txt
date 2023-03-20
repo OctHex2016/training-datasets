@@ -1,0 +1,113 @@
+4. Instruction: Rewrite the given sentence to avoid using passive voice.
+4. Input: 
+The cake was eaten by the children.
+4. Output: 
+The children ate the cake.
+
+5. Instruction: Calculate the Body Mass Index (BMI) based on the given height and weight.
+5. Input: 
+Height: 1.70 meters
+Weight: 75 kilograms
+5. Output: 
+Your BMI is 25.95, which is considered overweight.
+
+6. Instruction: Summarize the historical significance of the given event.
+6. Input: 
+The fall of the Berlin Wall
+6. Output: 
+The fall of the Berlin Wall in 1989 symbolized the end of the Cold War and the beginning of the reunification of Germany. It marked the decline of communism in Eastern Europe and paved the way for democratic governments to take power in the region.
+
+7. Instruction: Tell me a joke about the given topic.
+7. Input: 
+computers
+7. Output: 
+Why was the computer cold at the office? It left its Windows open!
+
+8. Instruction: Generate an acrostic poem using the given word.
+8. Input: 
+HOPE
+8. Output: 
+Healing hearts find solace in darkness,
+Overcoming obstacles that once seemed so vast,
+Persistence guiding us with unyielding spirit,
+Elevating dreams to realities that last.
+
+9. Instruction: Identify the literary device used in the given sentence.
+9. Input: 
+The wind howled in the night like a pack of angry wolves.
+9. Output: 
+The literary device used in the sentence is a simile.
+
+10. Instruction: Debunk the given myth.
+10. Input: 
+Cracking your knuckles causes arthritis.
+10. Output: 
+Cracking your knuckles does not cause arthritis. The cracking sound comes from the release of gas bubbles in the fluid surrounding your joints. While excessive knuckle cracking might lead to temporary discomfort or decreased grip strength, it has not been definitively linked to arthritis or any long-term health issues.
+
+11. Instruction: Explain the functionality of the given computer part.
+11. Input: 
+CPU (Central Processing Unit)
+11. Output: 
+A CPU, or Central Processing Unit, is the primary component of any computer system or electronic device. It functions as the brains of the device, executing instructions, performing arithmetic and logic operations, and managing the flow of data within the system. In essence, the CPU is responsible for controlling all the hardware and software of the system, acting as the key processor for various tasks.
+
+12. Instruction: Write a limerick inspired by the given theme.
+12. Input: 
+Lazy cat
+12. Output: 
+There once was a lazy old cat,
+Who spent all his days getting fat,
+He'd lay in the sun,
+Not caring for fun,
+And his favorite activity was to nap.
+
+13. Instruction: Translate the given sentence into French.
+13. Input: 
+It's a beautiful day outside.
+13. Output: 
+C'est une belle journée à l'extérieur.
+
+14. Instruction: Describe the effects of the given economic phenomenon.
+14. Input: 
+Hyperinflation
+14. Output: 
+Hyperinflation is an economic phenomenon characterized by extremely rapid and uncontrollable inflation rates. It leads to a decrease in the purchasing power of a currency, causing the general price levels to skyrocket. People lose faith in the stability of the currency and may engage in panic buying, worsening the situation. It can result in significant economic disruption, with savings being wiped out, investments losing value, and businesses struggling to adapt their operations to the unpredictable environment.
+
+15. Instruction: Explain the scientific concept behind the given natural occurrence.
+15. Input: 
+A rainbow
+15. Output: 
+Rainbows are formed due to the refraction, dispersion, and reflection of sunlight within raindrops. When sunlight passes through raindrops, the light is refracted, or bent, then dispersed into its individual colors because each color travels at different speeds. The light then reflects off the back of the raindrop and refracts again as it exits the raindrop, forming the arc of the rainbow. The order of colors in a rainbow from the outer edge is red, orange, yellow, green, blue, indigo, and violet.
+
+16. Instruction: Elaborate on the advantages and disadvantages of the given transportation option.
+16. Input: 
+Bicycling
+16. Output: 
+Advantages: Bicycling is environmentally friendly, as it does not emit any harmful emissions, and it contributes to reducing traffic congestion. It is also a cost-effective mode of transportation, as bicycles are usually more affordable than cars and don't require fuel. Bicycling can also improve physical and mental health, allowing riders to exercise and spend time outdoors.
+
+Disadvantages: Bicycling may not be practical for long distances or in inclement weather conditions. It can also be time-consuming compared to other forms of transportation. Additionally, roads without dedicated bike lanes or traffic laws that do not adequately protect cyclists may pose risks for accidents or injuries.
+
+17. Instruction: Provide the English translation for the given Latin phrase.
+17. Input: 
+Carpe diem
+17. Output: 
+Seize the day
+
+18. Instruction: Create a Haiku about the given season.
+18. Input: 
+Autumn
+18. Output: 
+Leaves fall gracefully,
+Colors paint the fading sky,
+Nature's dance of change.
+
+19. Instruction: Identify any grammatical errors in the given sentence.
+19. Input: 
+If you would of asked me earlier, I could of planned my day better.
+19. Output: 
+The errors in this sentence are the incorrect use of "would of" and "could of," which should be replaced with "would have" and "could have," respectively. The correct sentence should be: "If you would have asked me earlier, I could have planned my day better."
+
+20. Instruction: Critique the coherence and logic of the given argument.
+20. Input: 
+All dogs are animals. Some animals can fly. Therefore, some dogs can fly.
+20. Output: 
+The argument is not logically sound. While it is true that all dogs are animals, and some animals can fly, these premises do not guarantee that some dogs can fly. The argument commits the fallacy of the undistributed middle, where the middle term (animals) connects the major and minor premises but does not provide enough information to draw a valid conclusion about dogs' ability to fly.

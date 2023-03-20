@@ -1,0 +1,56 @@
+4. Instruction: Translate the following English sentence into French: "I love eating ice cream on a hot summer day."
+4. Input:
+<noinput>
+4. Output:
+J'aime manger de la glace lors d'une chaude journée d'été.
+
+5. Instruction: Suggest a title for a book about a detective who solves crimes using astrology.
+5. Input:
+<noinput>
+5. Output:
+Stars of Justice: An Astrological Detective's Quest
+
+6. Instruction: Edit the following paragraph for grammar, punctuation, and coherence.
+6. Input:
+It was a dark and stormy night; The rain fell in torrents. We seeking for shelters under the trees. Jonn saw a light in the distance, we found out it was a mysterious abandoned house? After entering the house, it had ghostly appearance, but we chose to wait out the storm there.
+6. Output:
+It was a dark and stormy night. The rain fell in torrents, forcing us to seek shelter under the trees. John spotted a light in the distance, which turned out to be a mysterious, abandoned house. Although the house had a ghostly appearance, we decided to wait out the storm there.
+
+7. Instruction: List five questions one might ask during an interview for a software developer position.
+７. Input:
+<noinput>
+7. Output:
+1. Can you describe your experience with different programming languages?
+2. How do you approach problem-solving when faced with a coding challenge?
+3. Can you provide an example of a project you completed, and explain the development process you went through?
+4. Do you have experience working in a team, and how do you handle collaborating with others on a project?
+5. How do you stay up-to-date with new technologies and advancements in the software development industry?
+
+8. Instruction: Write a short poem about springtime.
+8. Input:
+<noinput>
+8. Output:
+Blossoms bloom, a gentle sigh,
+Spring awakes, as winter dies.
+Colors dance with pure delight,
+As days grow long and lose the night.
+
+Birdsongs fill the morning air,
+Nature's symphony so fair.
+Gentle breezes softly blow,
+As rivers rise, and flowers grow.
+
+A time of life and love reborn,
+With hope and joy for all adorned.
+
+9. Instruction: Describe Impressionism in art in a couple of sentences.
+9. Input:
+<noinput>
+9. Output:
+Impressionism is an art movement that emerged in the late 19th century, characterized by its focus on the effects of light and color. Artists aimed to capture the fleeting and transient atmosphere of a scene by using loose brushstrokes and vibrant hues, often depicting everyday subjects and landscapes.
+
+10. Instruction: Determine the total cost of the following purchases: three books at $12.99 each, two shirts at $17.50 each, and one hat for $9.89.
+10. Input:
+<noinput>
+10. Output:
+$84.86

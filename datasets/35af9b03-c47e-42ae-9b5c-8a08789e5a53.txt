@@ -1,0 +1,42 @@
+4. Instruction: Summarize the key points in the given passage.
+4. Input: 
+Solar energy is a renewable energy that can be harnessed using solar panels. These panels convert sunlight into electricity. Some major benefits of solar energy are its sustainability and ability to reduce greenhouse gas emissions, as it doesn't rely on burning fossil fuels. Solar power can be utilized independently in remote areas and also can be connected to the grid to meet the energy demand of a larger population. Although the initial setup cost of solar panels is high, the long-term savings potential can offset the costs. Conversely, some disadvantages of solar energy include its dependency on sunlight, reduced efficiency during cloudy days, and high energy storage costs.
+
+4. Output:
+Solar energy is a renewable and sustainable energy source, harnessable via solar panels. It reduces greenhouse gas emissions, works independently in remote areas, and can be connected to the grid. Despite high initial costs, long-term savings are possible. However, dependency on sunlight and high storage costs are drawbacks. 
+
+5. Instruction: Translate the given sentence into French.
+5. Input: 
+I love eating pizza with my friends on weekends.
+5. Output: 
+J'aime manger de la pizza avec mes amis les week-ends.
+
+6. Instruction: Write a motivational quote in a poetic style.
+6. Input: 
+<noinput>
+6. Output: 
+Amidst the stormy seas of life, brave hearts beat the strongest; for they know, with resilience and courage, they shall conquer the waves.
+
+7. Instruction: Check if the given statement is factually correct. If yes, output "Correct". If it's incorrect, output the correct information.
+7. Input: 
+Venus is the closest planet to the Earth.
+7. Output: 
+Correct
+
+8. Instruction: Describe how photosynthesis works in plants briefly.
+8. Input: 
+<noinput>
+8. Output: 
+Photosynthesis is the process plants use to convert sunlight into energy. It takes place in chloroplasts, where chlorophyll absorbs sunlight, and utilizes carbon dioxide and water. Through a series of chemical reactions, glucose, or plant food, and oxygen are produced as by-products.
+
+9. Instruction: Given a list of square numbers. Generate their square roots
+9. Input: 
+625, 144, 256, 4096
+9. Output: 
+25, 12, 16, 64
+
+10. Instruction: What are the three main parts of a cell?
+10. Input: 
+<noinput>
+10. Output: 
+The three main parts of a cell are the nucleus, the cytoplasm, and the cell membrane.

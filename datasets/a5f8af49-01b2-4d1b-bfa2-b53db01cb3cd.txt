@@ -1,0 +1,137 @@
+4. Instruction: Suggest a main course, dessert, and drink for a vegan dinner party.
+4. Input: 
+<noinput>
+4. Output: 
+Main Course: Vegan Lentil Mushroom Stew
+Dessert: Chocolate Avocado Mousse with Fresh Berries
+Drink: Cucumber, Lemon, and Mint Infused Water
+
+5. Instruction: Calculate compound interest for the given investment details.
+5. Input: 
+Principal Amount: $5,000
+Interest Rate: 5%
+Duration: 7 years
+Compound Frequency: Annually
+5. Output: 
+Formula for compound interest: A = P(1 + r/n)^(nt)
+A = Future value, P = Principal amount, r = Interest rate, n = Compound frequency, t = Duration
+
+A = 5000 * (1 + 0.05/1)^(1*7)
+A = 5000 * (1.05)^7
+A = 5000 * 1.4071
+A = $7,035.50
+
+6. Instruction: Rearrange and format the following string into a standard phone number format: "1234567890"
+6. Input: 
+1234567890
+6. Output: 
+(123) 456-7890
+
+7. Instruction: Select the most culturally sensitive way to address a greeting for an international business email.
+7. Input: 
+- Hi there!
+- Dear sir or madame,
+- Hi [Recipient Name],
+- Greetings,
+7. Output: 
+Dear sir or madame,
+
+8. Instruction: Explain a concept from physics named "Newton's First Law of Motion."
+8. Input: 
+<noinput>
+8. Output: 
+Newton's First Law of Motion, also known as the Law of Inertia, states that an object at rest will stay at rest and an object in motion will stay in motion with the same speed and direction unless acted upon by an unbalanced external force. This law highlights the resistance of an object to any change in its state of motion or rest.
+
+9. Instruction: Write a haiku about autumn.
+9. Input: 
+<noinput>
+9. Output: 
+Leaves fall gracefully
+Golden, red hues paint the ground
+Chill breeze whispers peace
+
+10. Instruction: Identify the tenses of the verbs in the given paragraph.
+10. Input: 
+She has been living in the city for a year, and he moved there just last month. He likes the fast-paced lifestyle, while she is growing tired of it. They will be meeting for coffee next week to share experiences.
+10. Output: 
+has been living: present perfect continuous
+moved: simple past
+likes: simple present
+is growing: present continuous
+will be meeting: future continuous
+
+11. Instruction: Provide a synonym, antonym, and a pertinent example sentence for the word "originate."
+11. Input: 
+<noinput>
+11. Output: 
+Synonym: Begin
+Antonym: Terminate
+Example Sentence: Many forms of modern dance originate from traditional and cultural roots.
+
+12. Instruction: Convert the given temperature from Fahrenheit to Celsius.
+12. Input: 
+98.6°F
+12. Output: 
+Formula: Celsius = (Fahrenheit - 32) * 5/9
+Celsius = (98.6 - 32) * 5/9
+Celsius ≈ 37°C
+
+13. Instruction: Rewrite the given sentence in passive voice.
+13. Input: 
+The team completed the project before the deadline.
+13. Output: 
+The project was completed by the team before the deadline.
+
+14. Instruction: Locate grammar and punctuation errors and fix them in the given sentence.
+14. Input: 
+If your walking to the store,. don't forget: to buy some bread, eggs and milk; also get some vegetables fruits since they're healthy?
+14. Output: 
+If you're walking to the store, don't forget to buy some bread, eggs, and milk. Also, get some vegetables and fruits since they're healthy.
+
+15. Instruction: Select the correctly constructed sentence from the given options.
+15. Input: 
+- I can't believing how tall he is.
+- She not likes to eat ice cream.
+- The library have many books.
+- They're working on their project.
+15. Output: 
+They're working on their project.
+
+16. Instruction: Paraphrase the given quote without changing its meaning.
+16. Input: 
+"Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference."
+- Robert Frost
+16. Output: 
+In the forest, two paths split apart and I chose the lesser trodden one, which ultimately marked a significant distinction in my life.
+
+17. Instruction: Identify the logical fallacy in the following argument.
+17. Input: 
+People who live in cold climates are always smarter than those in warmer climates because their brains must work harder to keep warm.
+17. Output: 
+The logical fallacy in this argument is "False Cause," as it incorrectly assumes that living in a cold climate is the cause of having higher intelligence.
+
+18. Instruction: Explain the health benefits of drinking green tea.
+18. Input: 
+<noinput>
+18. Output: 
+Green tea has numerous health benefits, including boosting the immune system, improving brain function, aiding in weight loss, and reducing the risk of heart disease. It is rich in antioxidants, particularly catechins, which help combat cell damage and have anti-inflammatory properties, promoting overall well-being.
+
+19. Instruction: Suggest five podcasts related to self-improvement and personal growth.
+19. Input: 
+<noinput>
+19. Output: 
+1. The Tony Robbins Podcast
+2. The Life Coach School Podcast
+3. The Best One Yet
+4. The Ed Mylett Show
+5. The Brendon Show
+
+20. Instruction: List three essential elements to consider when designing a mobile application's user interface (UI).
+20. Input:
+<noinput>
+20. Output:
+1. Clarity: User-friendly icons, simple navigation, and intuitive design.
+2. Responsiveness: Fast loading time, quick response to user actions, and adaptable display across various devices.
+3. Consistency: Uniform visual elements, similar fonts, and a constant color scheme throughout the application.

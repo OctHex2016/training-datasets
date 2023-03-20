@@ -1,0 +1,123 @@
+4. Instruction: Identify the mistake in the following question and rewrite it correctly.
+4. Input: 
+What are most favorite fruits you like?
+4. Output: 
+What are your most favorite fruits?
+
+###
+5. Instruction: Write a short summary of the given text.
+5. Input: 
+During the summer of 2022, widespread droughts affected large areas of North America. The droughts created increased stress on water supplies and agriculture, leading to several negative consequences. Drought-affected regions faced rising food prices as crop yields declined, prompting a surge in demand for imported goods. Additionally, many residents faced water restrictions as reservoir levels dropped. Scientists linked the extreme weather events to climate change, which is expected to lead to more intense and frequent droughts in the future. As a result, governments are urged to take action to mitigate the impacts of climate change.
+5. Output: 
+In the summer of 2022, droughts in North America led to food price hikes, water restrictions, and increased reliance on imported goods. Climate change is blamed for the extreme weather, and governments are urged to mitigate its impacts.
+
+###
+6. Instruction: List three actions recommended to improve the environmental sustainability of a grocery store.
+6. Input: 
+<noinput>
+6. Output: 
+1. Reduce plastic packaging and encourage reusable bags.
+2. Implement energy-efficient lighting and refrigeration systems.
+3. Source local and seasonal products to reduce carbon emissions from transportation.
+
+###
+7. Instruction: Write a one-sentence review of the following movie.
+7. Input: 
+The Godfather
+7. Output: 
+The Godfather is a cinematic masterpiece with remarkable storytelling, powerful performances, and enduring cultural impact.
+
+###
+8. Instruction: Propose an alternative solution for the discussed issue.
+8. Input: 
+Issue: Traffic congestion in city centers.
+Solution: Implementing congestion pricing to discourage car use during peak hours.
+8. Output: 
+Alternative solution: Improve public transportation infrastructure and promote cycling and walking to reduce car dependency in city centers.
+
+###
+9. Instruction: Convert the statement into a question.
+9. Input: 
+She can speak three languages.
+9. Output: 
+Can she speak three languages?
+
+###
+10. Instruction: Write a two-line poem about autumn leaves.
+10. Input: 
+<noinput>
+10. Output: 
+Golden leaves descend gently in October's breeze,
+A tapestry of color, a farewell masterpiece.
+
+###
+11. Instruction: What is the main theme of the following short story?
+11. Input:
+In a small village, a group of friends reunited. Years had passed, and each one of them shared how their lives had changed. They remembered the dreams they once had and realized they had all taken different paths. Fear of the unknown and the struggle to stay within the limits set by society made some of them abandon those youthful aspirations. That evening, they decided to gather every year, reminding each other of their dreams and the importance of pursuing them.
+11. Output: 
+The main theme of the story is the importance of pursuing one's dreams and not letting fear or societal expectations hinder personal growth.
+
+###
+12. Instruction: Rewrite the following text in a passive voice.
+12. Input:
+The manager introduced the new employee to the team.
+12. Output: 
+The new employee was introduced to the team by the manager.
+
+###
+13. Instruction: Summarize the scientific article provided below in one sentence.
+13. Input:
+Recent research in AI-powered robotics has led to significant advancements in imitation learning, a subdomain of machine learning where robots acquire motor skills by observing human demonstrations. The study upends traditional imitation learning approaches, employing modular deep neural networks and employing visual representation learning to allow robots to tackle manipulation tasks with minimal human intervention.
+13. Output: 
+The study presents AI-powered robots utilizing modular deep neural networks and visual representation learning to improve imitation learning, resulting in more efficient acquisition of motor skills from human demonstrations.
+
+###
+14. Instruction: Write a persuasive argument highlighting the importance of clean energy.
+14. Input:
+<noinput>
+14. Output: 
+Clean energy plays a pivotal role in mitigating climate change and reducing reliance on finite natural resources. By transitioning from fossil fuels to renewable sources such as wind, solar, and hydroelectric power, we contribute to a more sustainable future, reducing greenhouse gas emissions, and fostering economic growth within green industries. Embracing clean energy is a collective responsibility that benefits both current and future generations, safeguarding our planet's health and biodiversity.
+
+###
+15. Instruction: Translate the English sentence into Spanish.
+15. Input:
+I want a glass of water, please.
+15. Output: 
+Quiero un vaso de agua, por favor.
+
+###
+16. Instruction: Recommend a good sci-fi book and give a brief reason why.
+16. Input:
+<noinput>
+16. Output: 
+I recommend "Neuromancer" by William Gibson, adding its innovative blend of technology, artificial intelligence and a gripping narrative has made it a seminal work within cyberpunk literature.
+
+###
+17. Instruction: Propose a title for the essay that discusses the role of technology in enhancing education.
+17. Input:
+<noinput>
+17. Output: 
+Empowering Minds: Harnessing Technology to Transform the Educational Landscape
+
+###
+18. Instruction: List the three main causes of the conflict in the given context.
+18. Input: 
+The conflict between two neighboring countries has escalated in recent years, with border disputes being the most visible issue. However, underlying factors include competition for regional leadership and trade, exploitation of natural resources, and historical grievances.
+18. Output: 
+1. Border disputes
+2. Competition for regional leadership and trade
+3. Exploitation of natural resources and historical grievances
+
+###
+19. Instruction: Explain the significance of the following historical event.
+19. Input:
+The Cuban Missile Crisis
+19. Output: 
+The Cuban Missile Crisis signified a critical moment during the Cold War, where the United States and the Soviet Union were at the brink of a nuclear confrontation, ultimately leading to increased diplomatic efforts to reduce tensions and establish communication channels between the superpowers.
+
+###
+20. Instruction: Give a brief description of the character's personality, based on the provided text.
+20. Input:
+Samantha walks into a room with a radiant smile that lights up her face, making everyone around her feel welcome. She withstands adversity with grace, always striving to seek goodness and beauty in the world. Samantha's empathetic nature allows her to listen attentively and provide comfort to those in need.
+20. Output: 
+Samantha has a warm and welcoming personality, marked by resilience, optimism, and empathy, making her a comforting presence for those around her.

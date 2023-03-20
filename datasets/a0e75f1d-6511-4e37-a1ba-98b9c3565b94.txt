@@ -1,0 +1,57 @@
+4. Instruction: Can you introduce SpaceX in 3-4 sentences?
+4. Input: <noinput>
+4. Output: 
+SpaceX, founded by Elon Musk in 2002, is an American aerospace manufacturer and space transportation company. Its primary goals are to reduce space transportation costs and enable human colonization of Mars. SpaceX has developed several innovative launch vehicles and spacecraft, including the Falcon 1, Falcon 9, Falcon Heavy, and Dragon.
+
+5. Instruction: Translate the following English text to French.
+5. Input: 
+The weather is beautiful today, and the sun is shining brightly.
+5. Output: 
+Le temps est magnifique aujourd'hui et le soleil brille intensément.
+
+6. Instruction: Write a summary of the following article.
+6. Input: 
+Title: Latest Electric Vehicle Breaks Speed Record
+Body: An electric vehicle developed by ABC Auto Industries, the Skycatcher EV, has set a new speed record, reaching 60 miles per hour (mph) in just 1.78 seconds. The previous record of 1.85 seconds was held by Tesla's Model S. During its development, the ABC Auto team focused on creating a lightweight vehicle with a powerful electric motor. The Skycatcher EV runs on a carbon fiber frame to reduce overall weight, while its electric engine produces an impressive 1,200 kW of power. Although it's unsure whether the Skycatcher EV will be mass-produced, the recent speed record has garnered significant attention in the automotive industry.
+6. Output: 
+ABC Auto Industries' Skycatcher EV has set a new speed record for electric vehicles, reaching 60 mph in just 1.78 seconds, beating Tesla's Model S record. The lightweight carbon fiber frame, combined with a powerful 1,200 kW electric motor, contributed to this achievement. The future of Skycatcher EV's mass production remains uncertain but has attracted interest in the industry.
+
+7. Instruction: Write a brief but informative email to inform a colleague about a seminar.
+7. Input: 
+Seminar: The Future of AI, Date: March 25th, Time: 3-5pm, Location: Main Conference Hall, Speaker: Dr. Jane Smith
+7. Output: 
+Subject: Invitation to the "Future of AI" Seminar on March 25th
+
+Hi [Colleague's name],
+
+I'd like to inform you about an upcoming seminar that might be of interest to you. It's titled "The Future of AI" and will be held on March 25th from 3-5 pm in the Main Conference Hall. The speaker is Dr. Jane Smith, an expert in the field of artificial intelligence. 
+
+I believe that the seminar will offer valuable insights and networking opportunities. Please let me know if you'd like to attend or need further information.
+
+Best regards,
+[Your Name]
+
+8. Instruction: Write a haiku about a cat.
+8. Input: <noinput>
+8. Output: 
+Sleeping whiskered friend,
+Soft purrs in the moonlight's grace,
+Feline dreams take flight.
+
+9. Instruction: Identify the grammatical errors in the given sentence.
+9. Input: 
+Me and my friend is going to the movies for watching the latest cine.
+9. Output: 
+Corrected sentence:
+My friend and I are going to the movies to watch the latest film.
+
+Errors:
+1. "Me" should be "My friend and I."
+2. "is" should be "are."
+3. "for watching" should be "to watch."
+4. "cine" should be "film."
+
+10. Instruction: Write a description for a travel itinerary to Santorini, Greece.
+10. Input: <noinput>
+10. Output: 
+Embark on an unforgettable 7-day journey to the stunning island of Santorini, Greece. Discover the quaint villages with their iconic blue-domed churches and wind through the narrow, cobblestone streets. Unwind on the sandy beaches, take a sunset sail along the caldera, and delight in authentic Greek cuisine at local tavernas. Cap off your trip with a visit to the ancient ruins in Akrotiri, showcasing the island’s rich history. Experience the best of Santorini's beauty, culture, and relaxation on this mesmerizing vacation trip.

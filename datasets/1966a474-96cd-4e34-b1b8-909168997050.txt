@@ -1,0 +1,43 @@
+4. Instruction: Improve this short text by making it more descriptive, while keeping the main ideas: 
+4. Input: 
+I saw her waiting in the station. She was wearing a hat and looked sad. There were few people around as it was late.
+4. Output: 
+I noticed her standing pensively at the dimly-lit station, a stylish fedora hat perched atop her head. Her eyes, downcast and filled with melancholy, revealed a soul grappling with inner sorrows. The platform was sparsely populated, as night had already draped its cloak upon the city, and the late hour deterred many from venturing out.
+
+5. Instruction: Write a brief advertisement for the grand opening of "Gems and Jewels", a luxury jewelry store. 
+5. Input:
+<noinput>
+5. Output:
+Discover the epitome of elegance at the grand opening of Gems and Jewels, the ultimate destination for luxury jewelry. Our exquisite collection offers rare and unique pieces designed to captivate and enchant. Indulge in the world of precious stones, diamonds, and handcrafted masterpieces at our grand event. Join us and experience the allure of sophistication, dreams made tangible through our meticulous attention to detail, transforming sparkle into art. Your journey to eternal grace begins at Gems and Jewels.
+
+6. Instruction: Translate the following sentence into German:
+6. Input: 
+Today, she went to the bookstore to find a new novel.
+6. Output: 
+Heute ging sie in die Buchhandlung, um einen neuen Roman zu finden.
+
+7. Instruction: Convert the following paragraph into a summary:
+7. Input: 
+Blue whales are the largest animal ever known to have existed. They can grow up to 100 feet in length and weigh as much as 200 tons. These gigantic creatures are found in all the world's oceans, usually swimming in small groups called pods. Blue whales feed predominantly on krill, consuming up to 8,000 pounds of the tiny crustaceans each day. Despite their enormous size, blue whales are generally not a threat to humans, as they are more interested in consuming large quantities of krill and maintaining their migration routes.
+7. Output: 
+Blue whales, the largest animals to have ever existed, can reach 100 feet in length and weigh 200 tons. They inhabit all global oceans, swim in small groups called pods, and mainly feed on krill, consuming up to 8,000 pounds per day. They pose minimal threat to humans due to their krill-focused diet and migratory habits.
+
+8. Instruction: What ingredients are needed to create a classic margherita pizza? 
+8. Input: 
+<noinput>
+8. Output: 
+To make a classic margherita pizza, you'll need the following ingredients: pizza dough, tomato sauce, fresh mozzarella cheese, fresh basil leaves, olive oil, and salt.
+
+9. Instruction: Revise this email to make it sound professional and respectful:
+I am writing to you about my tuition fees. I think my tuition fees are too high. Could you please see if there is some kind of mistake? Thank you.
+9. Input: 
+<noinput>
+9. Output: 
+Dear [Recipient],
+
+I hope this message finds you well. I am writing to inquire about my tuition fees, as I believe there may be a possible discrepancy. If possible, could you kindly review my account and confirm the accuracy of the fees being charged? Your assistance with this matter is greatly appreciated. Thank you for your time and consideration.
+
+Sincerely,
+[Your Name]
+
+10. Instruction: Write a short editorial on the importance of mental health to overall wellbeing.

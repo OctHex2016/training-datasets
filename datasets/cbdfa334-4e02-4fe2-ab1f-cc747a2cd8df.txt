@@ -1,0 +1,135 @@
+4. Instruction: Identify which emotion is most likely being expressed in the given quote.
+4. Input: 
+"I can't believe they just left without saying anything! Who does that?"
+4. Output: 
+Frustration
+
+5. Instruction: Calculate the percentage of the given statistics.
+5. Input: 
+Total interviews: 422, selected candidates: 126
+5. Output: 
+29.86%
+
+6. Instruction: Correct any spelling or grammar mistakes in the following paragraph.
+6. Input: 
+Its the best day of my live! I just recieved a call from the universety of my dreems, that I have been accepted into there pretsigious medical program. Am so exited!
+6. Output: 
+It's the best day of my life! I just received a call from the university of my dreams, that I have been accepted into their prestigious medical program. I'm so excited!
+
+7. Instruction: Rewrite the given paragraph using simpler words.
+7. Input: 
+A burgeoning assortment of literary masterpieces await readers desiring to partake in a cornucopia of engrossing narratives penned by erudite authors.
+7. Output: 
+A growing collection of great books await readers who want to enjoy a variety of interesting stories written by knowledgeable authors.
+
+8. Instruction: Write a brief synopsis of the given movie plot.
+8. Input: 
+Sophie is an orphan who discovers a magical creature called Big Friend Giant with incredibly large ears. The gentle giant takes her to the land of giants, where they try to stop evil giants that are kidnapping and eating children.
+8. Output: 
+Orphan Sophie encounters a gentle giant named Big Friend Giant, who takes her on an adventure to the land of giants. Together, they work to stop the evil giants that are kidnapping and eating children.
+
+9. Instruction: Identify the tone of the given sentence.
+9. Input: 
+"It's absolutely delightful to finally meet you after hearing so much about you!"
+9. Output: 
+Enthusiastic
+
+10. Instruction: Predict the given job candidate's chance of getting hired based on their resume.
+10. Input: 
+Experience: 
+- 5 years as a sales clerk
+- 1-year internship at a marketing company
+- 3 years as a junior marketing specialist at a tech company
+
+Education:
+- Bachelor's degree in Business Administration
+- Certification in Digital Marketing
+
+Skills:
+- Advanced Microsoft Office proficiency
+- Content creation
+- Excellent communication skills
+10. Output: 
+High
+
+11. Instruction: Write a brief analysis of the given painting.
+11. Input: 
+The Starry Night, Vincent van Gogh, 1889
+11. Output: 
+The Starry Night, created by Vincent van Gogh in 1889, depicts a night sky full of swirling blue and yellow shapes, stars, and a crescent moon. The painting has a dream-like quality, with vibrant colors and expressive brushstrokes. The composition balances the heavenly elements with the earthly landscape, including a small village and a looming cypress tree in the foreground. Van Gogh's unique use of color and technique in The Starry Night make it one of the most famous and recognizable works of art in history.
+
+12. Instruction: Explain how to make French toast in simple steps.
+12. Input: 
+<noinput>
+12. Output: 
+1. Combine eggs, milk, sugar, cinnamon, and vanilla extract in a shallow bowl.
+2. Heat a skillet or griddle over medium heat and melt butter.
+3. Dip both sides of a slice of bread into the egg mixture.
+4. Place the soaked bread on the heated skillet and cook until golden brown.
+5. Flip and cook the other side until golden brown.
+6. Remove from heat and repeat with remaining bread slices.
+7. Serve with syrup and/or powdered sugar.
+
+13. Instruction: Identify the most significant event in the given historical fact.
+13. Input: 
+On July 20, 1969, Apollo 11 successfully landed on the moon and Neil Armstrong became the first man to set foot on the lunar surface.
+13. Output: 
+Neil Armstrong becoming the first man to set foot on the moon
+
+14. Instruction: Determine whether the given statement is true or false.
+14. Input: 
+Lightning never strikes the same place twice.
+14. Output: 
+False
+
+15. Instruction: Elaborate on the impact of the given invention.
+15. Input: 
+The invention of the printing press
+15. Output: 
+The invention of the printing press revolutionized the spread of knowledge and ideas, as it greatly increased the speed and efficiency of producing written materials. This invention enabled more people to have access to books and other printed materials, leading to a rise in literacy and promoting cultural and intellectual advancement. It played a crucial role in the Protestant Reformation, Renaissance, and Scientific Revolution, as ideas could now rapidly spread across nations.
+
+16. Instruction: What advice would you give to someone who wants to start their own business?
+16. Input: 
+<noinput>
+16. Output: 
+1. Research your target market and competition.
+2. Develop a solid business plan.
+3. Identify your unique selling proposition.
+4. Seek advice from mentors and experienced entrepreneurs.
+5. Secure necessary funding, and manage your finances wisely.
+6. Focus on marketing and networking strategies.
+7. Create a strong brand identity.
+8. Assemble a dedicated team, and invest in training and development.
+9. Be prepared for setbacks, and always be adaptable.
+10. Stay focused on your long-term goals, and monitor your progress regularly.
+
+17. Instruction: Choose a suitable word to fill in the blank in the given sentence.
+17. Input: 
+"Learning new things helps keep your brain _____ and healthy."
+17. Output: 
+Active
+
+18. Instruction: What are some simple steps to follow if your car won't start?
+18. Input: 
+<noinput>
+18. Output: 
+1. Check if the car battery is dead or the battery terminals are corroded.
+2. Ensure there is enough fuel in the tank.
+3. Check if the security system or immobilizer is activated.
+4. Inspect the spark plugs and ignition system.
+5. Check the timing belt for damage or wear.
+6. Look for any warning lights or diagnostic codes on the dashboard.
+7. Consult your car's owner's manual for specific troubleshooting tips.
+8. If the problem persists, contact a professional mechanic or roadside assistance.
+
+19. Instruction: Write a brief statement of appreciation for the given achievement.
+19. Input: 
+Donation of 5,000 books to a local children's library
+19. Output: 
+We gratefully acknowledge your generous donation of 5,000 books to our children's library. Your contribution has truly enriched our collection and will provide countless hours of educational and entertaining reading for the young minds in our community. Thank you for your unwavering support and dedication to literacy and learning.
+
+20. Instruction: Identify the main topic of the given article.
+20. Input: 
+Title: Top 7 Superfoods You Need for a Healthier Lifestyle
+20. Output: 
+Superfoods for a healthier lifestyle

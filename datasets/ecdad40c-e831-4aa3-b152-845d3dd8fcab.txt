@@ -1,0 +1,105 @@
+4. Instruction: Name the author of the given book.
+4. Input: 
+To Kill a Mockingbird
+4. Output: 
+Harper Lee
+###
+5. Instruction: Provide a brief summary of the given movie plot.
+5. Input: 
+Marlin, a clownfish, is overly cautious with his son, Nemo, who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and Marlin must set out to find him. A blue reef fish named Dory joins Marlin and, together, they face countless dangers as they search for Nemo, learning valuable lessons in trust and teamwork along the way.
+5. Output: 
+Finding Nemo is the story of a protective clownfish, Marlin, who embarks on a dangerous journey to rescue his captured son, Nemo. With the help of a forgetful fish named Dory, Marlin faces numerous obstacles and learns the importance of trust and teamwork.
+###
+6. Instruction: Rewrite the given sentence in active voice.
+6. Input: 
+The sculpture was destroyed by the vandal.
+6. Output: 
+The vandal destroyed the sculpture.
+###
+7. Instruction: Arrange the given words to form a coherent sentence.
+7. Input: 
+dogs enjoy humans companionship of
+7. Output: 
+Dogs enjoy the companionship of humans.
+###
+8. Instruction: Translate the given sentence from English to French.
+8. Input: 
+The weather is beautiful today.
+8. Output: 
+Le temps est beau aujourd'hui.
+###
+9. Instruction: What is the capital city of the following country?
+9. Input: 
+Thailand
+9. Output: 
+Bangkok
+###
+10. Instruction: Point out a fallacy in the given argument.
+10. Input: 
+People have been smoking cigarettes for centuries, so it can't be that bad for our health.
+10. Output: 
+This argument uses the appeal to tradition fallacy, which assumes that because something has been done or believed for a long time, it must be true or acceptable.
+###
+11. Instruction: Provide a scientific explanation for the given phenomenon.
+11. Input: 
+Why does the sun appear red during sunset?
+11. Output: 
+The sun appears red during sunset due to a phenomenon called Rayleigh scattering. As the sun sets, sunlight travels a longer distance through the atmosphere, which causes short-wavelength light, such as blue and green, to scatter more. This leaves the longer-wavelength red and orange light to predominate as they are scattered less, making the sun appear red.
+###
+12. Instruction: Identify the major conflict in the given story.
+12. Input: 
+In George Orwell's Animal Farm, the animals on Manor Farm are tired of being mistreated by their human owner, Mr. Jones. They rebel, take over the farm, and rename it Animal Farm. The pigs, being the most intelligent animals, take over leadership. Over time, they become more and more corrupt, eventually resembling the very humans they overthrew.
+12. Output: 
+The major conflict in Animal Farm is the struggle between the animals seeking freedom and justice, and the corrupting influence of power represented by the pigs who gradually betray the cause and adopt the oppressive ways of their former human masters.
+
+13. Instruction: Classify the given idiom by its meaning.
+13. Input: 
+bite the bullet
+13. Output: 
+Facing a difficult or unpleasant task with courage.
+###
+14. Instruction: Identify the poetic device used in the given line from a poem.
+14. Input: 
+She sells seashells by the seashore.
+14. Output: 
+Alliteration
+###
+15. Instruction: State whether the given chemical formula represents a compound or an element.
+15. Input: 
+H2O
+15. Output: 
+Compound
+###
+16. Instruction: Identify the key components of a computer mentioned in the given text.
+16. Input: 
+The motherboard is an essential part of a computer, responsible for connecting all other components such as the CPU, RAM, hard drive, and graphics card. The computer's operating system and various applications are installed on the hard drive, while the RAM manages the computer's memory to ensure it runs smoothly.
+16. Output: 
+- Motherboard
+- CPU (Central Processing Unit)
+- RAM (Random Access Memory)
+- Hard drive
+- Graphics card
+###
+17. Instruction: Recommend a suitable yoga pose for the given requirement.
+17. Input: 
+A yoga pose for improving posture and flexibility in the spine
+17. Output: 
+Cobra Pose (Bhujangasana)
+###
+18. Instruction: Identify the musical instrument heard in a given piece of music.
+18. Input: 
+In Debussy's "Clair de Lune," a soft, fluid melody seems to ebb and flow, evoking the delicacy and ethereal quality of moonlight.
+18. Output: 
+Piano
+###
+19. Instruction: Explain how the given technology works.
+19. Input: 
+How does wireless charging work?
+19. Output: 
+Wireless charging works through a method called electromagnetic induction. The charging pad, or base station, contains a coil of wire connected to a power source. When an electric current passes through the coil, it generates an electromagnetic field around it. The device being charged also contains a coil that can receive this electromagnetic field. When the device is placed on the charging pad, the electromagnetic field induces a current in the device's coil, which is then converted to direct current to charge the battery.
+###
+20. Instruction: Calculate the given math problem.
+20. Input: 
+What is the square of 7?
+20. Output: 
+49

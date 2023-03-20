@@ -1,0 +1,109 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+Researchers conduct experiments to collect data.
+4. Output: 
+Experiments are conducted by researchers to collect data.
+
+5. Instruction: Identify any grammar mistakes in the given sentence and correct them.
+5. Input: 
+Me and Tom is going to the grocery store to buy snacks.
+5. Output: 
+Tom and I are going to the grocery store to buy snacks.
+
+6. Instruction: Provide a recommendation for the best type of ham to use in a ham and cheese sandwich.
+6. Input: 
+<noinput>
+6. Output: 
+Black Forest ham is recommended for a ham and cheese sandwich due to its delicious flavor and tender texture.
+
+7. Instruction: Explain the difference between aerobic and anaerobic exercises.
+7. Input: 
+<noinput>
+7. Output: 
+Aerobic exercises are activities that require oxygen to continuously supply energy to the muscles, and they usually involve low-to-moderate intensity movements like jogging or swimming. Anaerobic exercises, on the other hand, involve short-duration, high-intensity movements, like weightlifting or sprinting, that don't rely on oxygen for energy.
+
+8. Instruction: Compare and contrast cats and dogs as pets.
+8. Input: 
+<noinput>
+8. Output: 
+Cats are typically more independent and low-maintenance, requiring less attention and exercise compared to dogs, while dogs are often more social and need regular exercise and interaction. Cats usually groom themselves, while dogs require frequent grooming, depending on the breed. Dogs are often more protective and can be trained for a variety of tasks, while cats have a more laid-back nature and are more skilled at hunting small pests.
+
+9. Instruction: Define and explain the term "netiquette."
+9. Input: 
+<noinput>
+9. Output: 
+Netiquette, a portmanteau of "internet etiquette," refers to the set of guidelines and best practices for respectful and responsible behavior when communicating and interacting with others online. It includes being polite, showing empathy, respecting others' opinions and privacy, refraining from spamming, and using proper grammar and punctuation.
+
+10. Instruction: Provide a 5-step plan for someone who wants to learn how to cook.
+10. Input: 
+<noinput>
+10. Output: 
+1. Start by learning basic cooking techniques, such as chopping, sautéing, boiling, and baking.
+2. Familiarize yourself with common kitchen tools and appliances, including knives, pots, pans, and measuring spoons.
+3. Select simple and easy-to-follow recipes for beginner-level dishes.
+4. Create a grocery list and gather all necessary ingredients and equipment before beginning to cook.
+5. Practice, experiment, and take note of learning experiences to improve your skills and progressively attempt more complex recipes.
+
+11. Instruction: Given the lyrics, identify the song and the musical artist.
+11. Input: 
+Hello darkness, my old friend, I've come to talk with you again, Because a vision softly creeping, Left its seeds while I was sleeping.
+11. Output: 
+Song: "The Sound of Silence"
+Artist: Simon & Garfunkel
+
+12. Instruction: What is the nearest airport to the given location?
+12. Input: 
+Las Vegas, Nevada
+12. Output: 
+McCarran International Airport
+
+13. Instruction: Explain the plot of the movie described below.
+13. Input: 
+In a future where humanity is nearly extinct due to aggressive creatures that sense sound, one family struggles to survive by communicating through sign language and avoiding noise.
+13. Output: 
+The plot of the movie "A Quiet Place" revolves around a family living in a post-apocalyptic world, where blind extraterrestrial creatures with super-sensitive hearing have nearly exterminated humanity. The family, including a mother, father, and their children, must adapt to living in near silence, using sign language for communication and devising ways to avoid making noise to evade the deadly creatures.
+
+14. Instruction: Identify any logical fallacy in the following argument.
+14. Input: 
+If we allow people to own pets, they will eventually want to own dangerous animals like lions and tigers, which will put everyone in danger.
+14. Output: 
+Slippery slope fallacy
+
+15. Instruction: Explain the purpose of a cover letter when applying for a job.
+15. Input: 
+<noinput>
+15. Output: 
+A cover letter serves as a personalized introduction between the job applicant and the employer, highlighting the applicant's relevant skills, qualifications, and experiences for the specific job. It is an opportunity for the applicant to express their enthusiasm for the position, explain how they can contribute to the company, and make a positive first impression.
+
+16. Instruction: List three benefits of practicing mindfulness meditation.
+16. Input: 
+<noinput>
+16. Output: 
+1. Reduced stress and anxiety
+2. Improved focus and attention
+3. Enhanced emotional well-being
+
+17. Instruction: Provide a brief summary of the following article.
+17. Input: 
+Last week, TechView Co. announced its environmentally friendly initiative, "Greener Tech Future," to reduce its carbon footprint, enhance energy efficiency, and transition to sustainable production practices. As a part of the initiative, TechView plans to invest $50 million over the next five years into various renewable energy projects, introduce energy-efficient office designs, and work on recycling 90% of their waste materials. TechView's CEO stated that the company's commitment to sustainability is not only beneficial for the environment but also shows dedication to fulfilling its social responsibilities and creating a positive impact on society.
+17. Output: 
+TechView Co. has launched an eco-friendly initiative called "Greener Tech Future" to minimize its carbon footprint, improve energy efficiency, and promote sustainable production processes. The company aims to invest $50 million in renewable energy projects, revamp office spaces for energy efficiency, and recycle 90% of waste materials over five years. This initiative demonstrates TechView's commitment to fulfilling its social responsibilities and benefiting the environment.
+
+18. Instruction: Translate the following sentence into French.
+18. Input: 
+Can you please help me find the nearest pharmacy?
+18. Output: 
+Pouvez-vous m'aider à trouver la pharmacie la plus proche, s'il vous plaît?
+
+19. Instruction: Read the following quote and give two possible interpretations.
+19. Input: 
+"Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference." - Robert Frost
+19. Output: 
+1. The quote suggests that making unconventional choices or pursuing lesser-known paths can lead to unique and transformative experiences.
+2. The quote can also be seen as a reflection on the importance of personal decisions in shaping an individual's destiny, emphasizing the impact of taking risks and embracing the unknown.
+
+20. Instruction: Merge the two given sentences into one sentence without losing any information.
+20. Input: 
+The cake was delicious. The cake was made by my sister.
+20. Output: 
+The delicious cake was made by my sister.

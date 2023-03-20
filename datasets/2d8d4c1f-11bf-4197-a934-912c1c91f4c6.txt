@@ -1,0 +1,38 @@
+4. Instruction: Predict the outcome of the scenario: If Jane exercises regularly, will she lose weight?
+4. Input: 
+Jane is a 32-year-old woman who currently weighs 180 pounds. Her goal is to reach 140 pounds. She has enrolled in a gym and plans to exercise five days a week, combining both cardio and weight training. She also plans to follow a healthy diet by reducing her calorie intake, eating more fruits, vegetables, and proteins.
+4. Output: 
+Most likely, yes. If Jane consistently exercises and follows her healthy diet plan, she has a good chance of losing weight and reaching her goal of 140 pounds.
+###
+5. Instruction: Identify the genre of the following text.
+5. Input: 
+It was a dark, stormy night. In the ancient castle perched atop the damp cliffs, Lord Ravenshadow paced nervously. His heart pounded like the relentless waves crashing below. He knew that tonight was the night that the prophecy would either come true or be proven false.
+5. Output: 
+Gothic fiction
+###
+6. Instruction: Please rewrite the following passage in a business email format. 
+6. Input: 
+Hey, just wanted to let you know that the shipment of materials might arrive a day late due to bad weather conditions. It's a bummer, but we'll make sure to push production and still meet the deadline. We're really sorry for the inconvenience. Hope it won't cause you too many problems. Thanks!
+6. Output: 
+Subject: Shipment Delay Notice & Production Update
+
+Dear [Recipient],
+
+I hope this email finds you well. I am writing to inform you that the shipment of materials is expected to be delayed by a day due to unfavorable weather conditions. We understand the importance of meeting deadlines and sincerely apologize for any inconvenience this may cause.
+
+Please rest assured that our team is committed to pushing production efforts to ensure we still meet the agreed-upon deadline. Your understanding and flexibility are greatly appreciated. If you have any concerns or require further clarification, please do not hesitate to get in touch.
+
+Thank you for your continued partnership.
+
+Best Regards,
+[Your Name]
+[Your Title]
+[Your Company]
+### 
+7. Instruction: Provide a simple three-step recipe for making a grilled cheese sandwich.
+7. Input: 
+<noinput>
+7. Output: 
+1. Butter one side of each slice of bread and heat a frying pan on medium heat.
+2. Place one slice of bread (buttered-side down) onto the pan, then layer a slice (or a few slices) of cheese and place the other slice of bread (buttered-side up) on top.
+3. Cook until the bottom bread slice is golden brown, then carefully flip the sandwich and cook until the other side is golden brown and the cheese is melted.

@@ -1,0 +1,135 @@
+4. Instruction: Re-write the provided text in a more formal tone. 
+4. Input: 
+Hey, I just wanted to let you guys know that we're gonna have to cancel our party plans for the weekend because some stuff came up.
+4. Output: 
+Dear all, I regret to inform you that we must cancel our previously planned gathering for the weekend due to unforeseen circumstances.
+
+###
+5. Instruction: Explain how photosynthesis works in simple terms suitable for a primary school student. 
+5. Input: 
+<noinput>
+5. Output: 
+Photosynthesis is a process where plants take in sunlight, water, and carbon dioxide to make their food and produce oxygen. It's like how plants cook their meals using the power of the sun!
+
+###
+6. Instruction: Rank the text based on clarity (1 - the clearest, 3 - the least clear):
+6. Input: 
+a) The illumination condition was not perfect, but he managed to produce an image.
+b) It was difficult to see, but he took a picture anyway.
+c) It was pretty dark, but he managed to take a photo.
+6. Output: 
+1 - c) It was pretty dark, but he managed to take a photo.
+2 - a) The illumination condition was not perfect, but he managed to produce an image.
+3 - b) It was difficult to see, but he took a picture anyway.
+
+###
+7. Instruction: Briefly summarize the article's main point.
+7. Input: 
+Today, the XY Corporation has announced significant progress on its latest innovative products. Notably, its research and development team has successfully incorporated groundbreaking technology on artificial intelligence and robotics. This fantastic achievement has attributed to a recent partnership with a well-known tech firm. Experts predict that, with these advancements, the XY Corporation will be one of the leading companies in these fields, revolutionizing various industries in healthcare, entertainment and transportation. Consequently, many investors are expressing a growing interest in the organization's stock.
+7. Output: 
+XY Corporation made substantial progress on its innovative AI and robotics technology, thanks to a partnership with a prominent tech firm. This is expected to revolutionize various industries and attract investor interest in the company's stock.
+
+###
+8. Instruction: Describe the Mona Lisa painting as if you were explaining it to a visually impaired person.
+8. Input: 
+<noinput>
+8. Output: 
+The Mona Lisa is a portrait painting by Leonardo da Vinci that features a woman with brown hair, fair skin, and a gentle smile. She's wearing an elegant Renaissance dress in earthy tones. Behind her, the background has a hilly, mysterious landscape with a winding river. Her eyes seem to follow the viewer, making her expression quite enigmatic and captivating.
+
+###
+9. Instruction: Find a single word that covers the meaning of the given synonyms.
+9. Input: 
+Dislike, Detest, Loathe
+9. Output: 
+Hate
+
+###
+10. Instruction: Identify the logical fallacy in the given statement.
+10. Input: 
+You can't trust Dr. Johnson's research on sugar consumption because she is funded by candy companies.
+10. Output: 
+Ad Hominem
+
+###
+11. Instruction: Compare and contrast the pros and cons of renewable energy sources and fossil fuels.
+11. Input: 
+<noinput>
+11. Output: 
+Renewable energy sources, such as solar and wind power, are environmentally friendly, emit fewer harmful pollutants, and are virtually inexhaustible. However, they often have higher upfront costs and intermittent availability. Fossil fuels, like coal and oil, provide a stable energy supply and are cheaper in the short term. However, they are non-renewable, finite resources and contribute to pollution and greenhouse gas emissions, which cause climate change.
+
+###
+12. Instruction: Write lyrics for the first verse and chorus of a country song about a truck driver who misses his hometown.
+12. Input: 
+<noinput>
+12. Output: 
+Verse 1:
+Rollin' down the highway, eighteen wheels hummin' low,
+Leavin' town behind me, miles and miles to go.
+My heart aches for the comforts of that city I call home,
+But duty calls, I'm bound by the road, travelin' on my own.
+
+Chorus:
+Gone are the days of the sweet southern sun,
+My memories light my way as I outrun.
+I dream of my home while behind the wheel,
+As my truck keeps me movin', the distance feels so real.
+
+###
+13. Instruction: Recommend three activities to do on a rainy day.
+13. Input: 
+<noinput>
+13. Output: 
+1. Curl up with a good book or watch a movie at home.
+2. Visit a local museum or art gallery.
+3. Try a new recipe and cook a comforting meal.
+
+###
+14. Instruction: Convert the given Celsius temperature to Fahrenheit.
+14. Input: 
+25 degrees Celsius 
+14. Output: 
+77 degrees Fahrenheit
+
+###
+15. Instruction: Write a brief movie plot based on the given title.
+15. Input: 
+Justice from Above
+15. Output: 
+Justice from Above follows the life of Daniel, a highly skilled ex-military drone pilot. After witnessing a severe injustice in a small town, Daniel utilizes his expertise and high-tech drone equipment to fight corrupt officials and protect innocent civilians. As the stakes get higher and danger unfolds, Daniel risks everything to bring justice from above, restoring hope and balance to the town.
+
+###
+16. Instruction: Review the restaurant in the given scenario.
+16. Input: 
+You went to a recently opened Italian restaurant. The ambiance was cozy and welcoming. The service was friendly, but slow. The pasta dish was delicious, but the portion was too small. You liked the tiramisu for dessert, and the prices were reasonable.
+16. Output: 
+The new Italian restaurant offers a cozy and welcoming atmosphere. The staff are friendly, though the service can be a bit slow. The pasta dish I tried was scrumptious, but I would have appreciated a larger portion. The tiramisu dessert was delightful, and the overall pricing was quite reasonable. Overall, a decent dining experience worth a visit.
+
+###
+17. Instruction: Convert the provided text into a haiku (a poem with a 5-7-5 syllable pattern).
+17. Input: 
+Melody of raindrops, dancing leaves, and swaying branches calm the hectic world.
+17. Output: 
+Melody of rain,
+Leaves dance with swaying branches,
+World finds peace again.
+
+###
+18. Instruction: Write an appropriate subject line for a professional email requesting a meeting with a colleague.
+18. Input: 
+<noinput>
+18. Output: 
+Request for Meeting to Discuss Upcoming Project
+
+###
+19. Instruction: Write a brief description of the protagonist in a dystopian novel.
+19. Input: 
+<noinput>
+19. Output: 
+In a bleak, dystopian world, our protagonist, Lila, is a highly intelligent and resourceful young woman. Forced to adapt due to the oppressive regime, she uncovers a hidden talent for hacking and exposing corruption within the government. As Lila navigates this grim reality, her unwavering determination to seek justice and spark a rebellion fuels her quest for freedom and hope.
+
+###
+20. Instruction: Proofread the given text and correct any mistakes.
+20. Input: 
+The quik brown fox jumpes over the lazy dog.
+20. Output: 
+The quick brown fox jumps over the lazy dog.

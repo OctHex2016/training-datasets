@@ -1,0 +1,87 @@
+4. Instruction: Describe the recipe for making a classic strawberry milkshake.
+4. Input:
+<noinput>
+4. Output:
+To make a classic strawberry milkshake, you will need the following ingredients:
+- 1 cup fresh or frozen strawberries
+- 1 cup vanilla ice cream
+- 1/2 cup whole milk
+- 2 tablespoons sugar (optional)
+- 1/2 teaspoon pure vanilla extract
+- whipped cream and sliced strawberries for garnish
+
+Instructions:
+1. Add the strawberries, ice cream, milk, sugar (if using), and vanilla extract to a blender.
+2. Blend on high speed until the mixture is smooth and creamy.
+3. If needed, you can adjust the consistency by adding more milk or ice cream.
+4. Pour the milkshake into a tall glass and garnish with whipped cream and sliced strawberries.
+5. Serve immediately and enjoy!
+
+###
+5. Instruction: What are some possible utilities of autonomous drones? 
+5. Input:
+<noinput>
+5. Output:
+Some possible utilities of autonomous drones include:
+1. Aerial photography and videography
+2. Agriculture monitoring and crop management
+3. Wildlife conservation and habitat mapping
+4. Search and rescue operations
+5. Infrastructure inspection and maintenance
+6. Disaster response and damage assessment
+7. Parcel and small package delivery
+8. Traffic monitoring and congestion management
+9. Environmental research and monitoring
+10. Law enforcement and surveillance
+###
+
+6. Instruction: Provide an unconstrained continuation of the text.
+6. Input:
+Lady Trevlyn stood beside the open window, gazing across the park.
+6. Output:
+Lady Trevlyn stood beside the open window, gazing across the park. The setting sun cast a golden glow on the landscape, as the trees swayed gently in the warm summer breeze. She clasped her locket tightly, lost in thought, remembering her beloved late husband, Lord Trevlyn, and their cherished moments together. Their laughter echoing through the halls, the whispers of love shared beneath the same tree that now stood tall in her view. As the memories flooded back, Lady Trevlyn couldn't help but feel both joy and sorrow, knowing she had to face the future without her other half.7. Instruction: Translate the text from English to French.
+7. Input:
+Hello, my name is John. I am from the United States and I am learning French.
+7. Output:
+Bonjour, je m'appelle John. Je viens des États-Unis et j'apprends le français.
+###
+8. Instruction: Advise on how to take care of a houseplant.
+8. Input:
+Plant type: Aloe Vera
+8. Output:
+To take care of your Aloe Vera houseplant, follow these steps:
+
+1. Lighting: Place your plant in a bright and sunny spot, ideally near a south or west-facing window. Aloe Vera prefers indirect sunlight.
+2. Watering: Ensure the soil is well-draining. Water the plant thoroughly, waiting until the soil feels dry to the touch before watering again. Remember: over-watering is the most common issue with Aloe Vera plants.
+3. Soil: Use a well-draining, sandy or succulent potting mix to prevent root rot.
+4. Temperature: Keep your Aloe Vera in a room with a temperature between 55-80°F (13-27°C). Avoid placing it near drafts or heating vents.
+5. Repotting: Only repot when the plant has outgrown its container or the potting mix has broken down. Use a pot with drainage holes and follow the same soil requirements.
+
+###
+9. Instruction: Summarize the article in a short paragraph.
+9. Input:
+NASA’s Perseverance rover has achieved another Martian milestone, capturing the first-ever video of its own parachute deploying during its descent through the planet's atmosphere. In a blog post, the agency published the stunning video, showcasing the deployment of the 70.5-foot wide parachute over a brief three-quarter second time period on February 18. According to NASA, the footage reveals that small changes made in the structure and suspension lines gave the parachute a cleaner, more even surface than previous designs, allowing it to catch more wind in the thin Martian atmosphere. John McNamee, Perseverance project manager, stated that this crucial moment demonstrates the parachute's robustness, enabling the rover's successful landing on Mars.
+9. Output:
+NASA's Perseverance rover captured the first-ever video of its parachute deployment during its descent to Mars. The video shows the updated 70.5-foot wide parachute achieving a cleaner, more even surface, catching more wind in the thin Martian atmosphere, thanks to structural and suspension line changes. The project manager, John McNamee, highlighted the parachute's robustness contributing to the rover's successful landing.
+
+###
+10. Instruction: What are the steps to make a pomodoro timer mobile app?
+10. Input:
+<noinput>
+10. Output:
+To create a Pomodoro timer mobile app, adhere to the following steps:
+
+1. Research: Review existing pomodoro timer apps and identify their strengths and weaknesses. Determine the unique features you want to incorporate in your app.
+
+2. Design: Create a user-friendly interface, incorporating visuals and layouts for start, stop, and reset buttons, as well as a timer display, and optional settings for custom time intervals.
+
+3. Technology: Choose the desired programming language and platform for your mobile app, such as Swift or Kotlin for native apps, or a cross-platform framework like React Native or Flutter.
+
+4. Development: Write the code, implementing the timer functionality, user interface elements, and any additional features such as custom time intervals, notification alerts, or statistics.
+
+5. Testing: Conduct both functional and non-functional tests, including unit tests, integration tests, usability tests, and performance tests, to ensure the app works smoothly on various devices.
+
+6. Deployment: Launch the app on the appropriate app stores, such as Google Play Store or Apple App Store, following their respective guidelines and completing their submission processes.
+
+7. Maintenance and updates: After the app's release, monitor user feedback, fix bugs, and implement new features to improve the app and maintain user satisfaction.
+

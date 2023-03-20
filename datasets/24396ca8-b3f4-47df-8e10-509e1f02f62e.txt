@@ -1,0 +1,91 @@
+4. Instruction: Translate the given phrase into Japanese. 
+4. Input: 
+Good morning!
+4. Output: 
+おはようございます (Ohayou gozaimasu)
+###
+5. Instruction: What will be the upcoming holiday in the United States?
+5. Input: 
+<noinput>
+5. Output: 
+Thanksgiving
+###
+6. Instruction: Rewrite the following sentence in passive form.
+6. Input: 
+The storm damaged many buildings.
+6. Output: 
+Many buildings were damaged by the storm.
+###
+7. Instruction: Suggest a suitable title for the given paragraph.
+7. Input: 
+Times have changed, but good manners never go out of style. Etiquette is more than just a set of rules; it helps us be aware of the feelings of others and fosters respect amongst individuals. By practicing proper etiquette, we can improve social interactions and make everyday life a little more pleasant.
+7. Output: 
+"The Timeless Importance of Etiquette and Manners"
+###
+8. Instruction: Correct the grammatical errors in the following sentence.
+8. Input: 
+She don't likes to goes running in the morning because its too cold.
+8. Output: 
+She doesn't like to go running in the morning because it's too cold.
+###
+9. Instruction: List five potential benefits of implementing solar power.
+9. Input: 
+<noinput>
+9. Output: 
+1. Reduces greenhouse gas emissions
+2. Lower energy bills
+3. Improves energy security
+4. Promotes job creation in the renewable energy sector
+5. Sustainable, renewable energy source
+###
+10. Instruction: Describe the main plot of the movie "The Shawshank Redemption."
+10. Input: 
+<noinput>
+10. Output: 
+"The Shawshank Redemption" follows the story of banker Andy Dufresne, who is wrongfully sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover. Throughout his time in prison, Andy forms a close friendship with fellow inmate Ellis "Red" Redding. Despite enduring severe abuse and injustices, Andy never loses hope and ultimately manages to unveil the prison's corruption, seek redemption, and secure his freedom through an ingenious escape plan.11. Instruction: What is the chemical formula for photosynthesis? Write it out in a balanced form.
+11. Input: 
+<noinput>
+11. Output: 
+6CO2 + 6H2O + Light Energy -> C6H12O6 + 6O2
+###
+12. Instruction: Choose the best synonym for the given word.
+12. Input: 
+Word: happy
+12. Output: 
+joyful
+###
+13. Instruction: Who invented the World Wide Web and when?
+13. Input: 
+<noinput>
+13. Output: 
+Sir Tim Berners-Lee invented the World Wide Web in 1989.
+###
+14. Instruction: Summarize the main idea of the given text in one sentence.
+14. Input: 
+Particulate matter pollution consists of tiny particles suspended in the air, which can have severe effects on human health. Prolonged exposure to particulate matter pollution can cause respiratory problems and increase the risk of heart disease, stroke, and lung cancer. Governments and organizations around the world are working to reduce particulate matter pollution by implementing stricter emission regulations and promoting cleaner technologies.
+14. Output: 
+Particulate matter pollution is a critical health issue caused by tiny suspended particles, leading to respiratory issues and increased risk of heart disease, stroke, and lung cancer, prompting global efforts for emission control and cleaner technologies.
+###
+15. Instruction: Convert the temperature from Fahrenheit to Celsius.
+15. Input: 
+104°F
+15. Output: 
+40°C
+###
+16. Instruction: Provide a brief explanation of what a simile is.
+16. Input: 
+<noinput>
+16. Output: 
+A simile is a figure of speech that compares two different things using "like" or "as" to create a vivid and imaginative connection, enhancing the meaning and imagery of the expression.
+###
+17. Instruction: Determine the genre of the given literary excerpt.
+17. Input: 
+The dwarves brought news that goblins were gathering in the surrounding mountains. The humans feared for their homes and lands, while the elves tightened their bows and sharpened their knives. War was coming, and all knew that the days ahead would bring darkness and bloodshed.
+17. Output: 
+Fantasy
+###
+18. Instruction: Explain the importance of having a balanced diet.
+18. Input: 
+<noinput>
+18. Output: 
+A balanced diet is essential to maintain overall health, as it provides the necessary nutrients for maintaining bodily functions, promoting growth and repair, and preventing disease. It ensures individuals consume the right proportions of carbohydrates, fats, proteins, vitamins, and minerals for optimal energy levels, immune system function, and mental well-being.

@@ -1,0 +1,111 @@
+4. Instruction: Rewrite the given sentence in active voice. 
+4. Input: 
+The letter was written by Jane to her sister.
+4. Output: 
+Jane wrote the letter to her sister.
+###
+5. Instruction: Provide an appropriate continuation to the given story prompt. 
+5. Input: 
+Anna stared nervously at the door to her new dance studio. Today was her first day as a professional dancer.
+5. Output: 
+Taking a deep breath, she pushed open the door and stepped inside. The room was filled with talented dancers gracefully moving to the music. As Anna glanced around, she felt a mix of excitement and fear. With determination, she approached the instructor, introduced herself, and started stretching, ready to embrace the challenges that lay ahead.
+###
+6. Instruction: What's the main take-away or moral of the story provided below?
+6. Input: 
+One late autumn day, two frogs who lived in a pond were exploring the area. They found themselves jumping into a deep bucket filled with milk. They tried to jump out, but they couldn't reach the edge. One frog grew tired and thought the situation was hopeless; he gave up and drowned. The other frog, however, refused to give up, and he kept swimming and struggling. Eventually, the constant splashing turned the milk into butter, and the frog climbed onto the hardened butter and jumped out to safety.
+6. Output:
+Never give up; perseverance can lead to success.
+###
+7. Instruction: Summarize the main argument brought up in the provided text. 
+7. Input: 
+The article stresses the importance of government investment in renewable energy sources to combat climate change. It points out that transitioning to a low-carbon energy system could create millions of jobs, reduce greenhouse gas emissions, and promote sustainable development. Green public-private partnerships can deliver affordable, reliable, and sustainable energy, positioning countries for environmental and economic success.
+7. Output: 
+The main argument is that government investment in renewable energy sources is crucial for combating climate change, creating jobs, reducing emissions, and promoting sustainable development through green public-private partnerships.
+###
+8. Instruction: Given the list of ingredients, suggest an appropriate dish to make.
+8. Input: 
+Ground beef, onion, garlic, tomato sauce, pasta, parmesan cheese
+8. Output: 
+Spaghetti Bolognese
+###
+9. Instruction: Translate the following English text into French. 
+9. Input: 
+The strawberry cake is delicious and very fresh.
+9. Output: 
+Le gâteau à la fraise est délicieux et très frais.
+###
+10. Instruction: Identify the logical fallacy present in the given statement. 
+10. Input: 
+He can't be a good doctor. He's too old.
+10. Output: 
+Ageism or Ad Hominem
+###
+11. Instruction: Give a concise explanation of the meaning of the given idiom. 
+11. Input: 
+Actions speak louder than words.
+11. Output: 
+People's actions reveal more about their true intentions and feelings than their words do.
+###
+12. Instruction: Calculate the statistical average of the given numbers. 
+12. Input: 
+78, 92, 66, 87, 55
+12. Output: 
+75.6
+###
+13. Instruction: Correct any grammar or punctuation mistakes in the given sentence. 
+13. Input: 
+The cake is in the fridge however; it should be taken out 30 minutes before serving.
+13. Output: 
+The cake is in the fridge; however, it should be taken out 30 minutes before serving.
+###
+14. Instruction: Provide a brief but insightful comment about the given poem. 
+14. Input: 
+The students exchanged places,
+the scornful sun flared up.
+But we stood unwearied,
+our love a firm support.
+
+Life's tribulations wound us,
+our hearts have grown apart.
+And now we're strangers, too afraid
+to look and touch each other's hearts.
+14. Output: 
+The poem emphasizes the passage of time and its impact on relationships, as the once strong bond of love slowly dissolves under life's challenges, turning the individuals into strangers.
+###
+15. Instruction: Give advice to a person who is facing difficulties communicating effectively. 
+15. Input: 
+<noinput>
+15. Output: 
+Practice active listening, focus on understanding the other person's perspective, express yourself clearly and calmly, use "I" statements to avoid sounding accusatory, and ask open-ended questions to encourage dialogue. Additionally, consider seeking feedback to improve and working on non-verbal communication skills.
+###
+16. Instruction: Write an introductory sentence to an article about the rise of e-commerce during the COVID-19 pandemic. 
+16. Input: 
+<noinput>
+16. Output: 
+The COVID-19 pandemic has significantly accelerated the growth of e-commerce as people around the world turned to online shopping amidst lockdowns and social distancing measures.
+###
+17. Instruction: Enumerate three benefits of physical exercise for mental health. 
+17. Input: 
+<noinput>
+17. Output: 
+1. Reduces stress and anxiety levels.
+2. Enhances mood and combats depression.
+3. Improves cognitive function and memory.
+###
+18. Instruction: Name a specific historical event that occurred in the year 1969. 
+18. Input: 
+<noinput>
+18. Output: 
+The Apollo 11 moon landing
+###
+19. Instruction: Identify the literary device employed in the given sentence. 
+19. Input: 
+All the world's a stage, and all the men and women merely players.
+19. Output: 
+Metaphor
+###
+20. Instruction: Recommend a suitable hobby for someone who enjoys outdoor activities and exploring nature. 
+20. Input: 
+<noinput>
+20. Output: 
+Hiking

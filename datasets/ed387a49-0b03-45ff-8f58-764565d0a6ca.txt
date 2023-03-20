@@ -1,0 +1,125 @@
+4. Instruction: Troubleshoot why the computer might not be starting.
+4. Input: <noinput>
+4. Output: 
+Possible reasons for a computer not starting include:
+- Power supply malfunction or not connected properly
+- Faulty power button
+- Dead or improperly seated hardware components such as RAM, CPU, or GPU
+- Faulty motherboard
+- Corrupt BIOS or UEFI firmware
+- Loose or damaged internal connectors
+- Overheating components
+
+It's essential to check each component and connection carefully to identify the issue.
+
+###
+5. Instruction: Rewrite the following paragraph in a passive voice.
+5. Input: 
+The chef prepared a delicious meal. She cooked a variety of dishes using fresh ingredients. After plating the dishes, she garnished them beautifully. Everyone enjoyed the tasty food.
+5. Output: 
+A delicious meal was prepared by the chef. A variety of dishes were cooked using fresh ingredients. After the dishes were plated, they were beautifully garnished. The tasty food was enjoyed by everyone.
+
+###
+6. Instruction: Translate the following English text into French.
+6. Input: 
+It's a beautiful day outside. The sun is shining, and the birds are singing.
+6. Output: 
+C'est une belle journée à l'extérieur. Le soleil brille et les oiseaux chantent.
+
+###
+7. Instruction: Which tree species absorb the most carbon dioxide?
+7. Input: <noinput>
+7. Output: 
+Pine, oak, and fir trees are among the tree species that absorb the most carbon dioxide. In general, larger, older trees with greater biomass absorb more carbon dioxide than younger, smaller trees.
+
+###
+8. Instruction: Explain the process of photosynthesis.
+8. Input: <noinput>
+8. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert light energy, mainly from the sun, into chemical energy. It involves the absorption of carbon dioxide and water through the leaves or other parts of the organism. In the presence of sunlight, these reactants undergo a series of chemical reactions in the chlorophyll-containing cells called chloroplasts. These reactions produce glucose, a type of sugar that serves as the energy source for the plant, and release oxygen as a byproduct. The overall process can be summarized by the following equation:
+
+6CO2 (carbon dioxide) + 6H2O (water) + light energy -> C6H12O6 (glucose) + 6O2 (oxygen)
+
+###
+9. Instruction: Describe three ways to minimize food waste at home.
+9. Input: <noinput>
+9. Output: 
+1. Plan meals ahead and create a shopping list: By planning meals and making a shopping list, you can avoid buying unnecessary items and reduce impulse purchases, thus contributing to reduced food waste.
+2. Practice proper storage techniques: To prolong the life and quality of food, store perishable items such as fruits, vegetables, and meats at the appropriate temperatures and in proper containers. This prevents food from spoiling, which reduces waste.
+3. Repurpose leftovers and perishable items: Turn leftover, wilted, or nearly-expired fruits and vegetables into smoothies or soups. Use stale bread for making croutons or bread pudding. Repurposing ingredients can significantly reduce the amount of food thrown away.
+
+###
+10. Instruction: Where did the Camembert cheese originate?
+10. Input: <noinput>
+10. Output: 
+Camembert cheese originated in Normandy, a region in northern France.
+
+###
+11. Instruction: Suggest three natural remedies to cure a sore throat.
+11. Input: <noinput>
+11. Output: 
+1. Warm salt water gargle: Gargling with warm salt water can help reduce inflammation and soothe the throat.
+2. Honey: Honey is known for its natural antibacterial properties and can coat the throat, providing relief from soreness.
+3. Herbal tea: Sipping on herbal teas, such as chamomile, ginger, or licorice root, can help soothe a sore throat and reduce discomfort.
+
+###
+12. Instruction: Rearrange the following words to form a coherent sentence.
+12. Input: 
+won the yesterday game team soccer
+12. Output: 
+The soccer team won the game yesterday.
+
+###
+13. Instruction: What was the purpose of the Berlin Wall?
+13. Input: <noinput>
+13. Output: 
+The Berlin Wall's primary purpose was to prevent East Germans from escaping to West Germany during the Cold War. Constructed by the German Democratic Republic (East Germany), it served as a physical and symbolic barrier separating East and West Berlin from 1961 until its fall in 1989.
+
+###
+14. Instruction: Edit the following paragraph for clarity and conciseness.
+14. Input: 
+In today's rapidly evolving environment, where companies must work hard and diligently to continually evolve and adapt to extreme competition, communication is of paramount importance. The elements of communication, including but not limited to having a clear understanding of both verbal and nonverbal communication, ensuring that our ideas and thoughts are concisely communicated to the listener or reader, and being attentive to their response, have the potential to dramatically enhance the effectiveness of the communication process.
+14. Output: 
+In today's competitive environment, effective communication is crucial for companies to adapt and thrive. Essential components of communication, such as clarity in verbal and nonverbal communication, concise expression of ideas, and attentiveness to responses, can significantly enhance the communication process.
+
+###
+15. Instruction: Calculate the area of a rectangle with a length of 12 cm and a width of 7 cm.
+15. Input: <noinput>
+15. Output: 
+The area of the rectangle is 84 square centimeters (12 cm x 7 cm).
+
+###
+16. Instruction: Provide a brief summary of the book "To Kill a Mockingbird."
+16. Input: <noinput>
+16. Output: 
+"To Kill a Mockingbird," a novel by Harper Lee, is set in the southern United States during the Great Depression. It follows the story of young Scout Finch, her brother Jem, and their father, Atticus, a lawyer. The narrative explores themes of racism, morality, and social injustice as Atticus defends a black man, Tom Robinson, who is accused of raping a white woman. Through the eyes of Scout, the story reveals the complexities of human nature and the pursuit of justice in a racially divided society.
+
+###
+17. Instruction: Name three essential components of a healthy diet.
+17. Input: <noinput>
+17. Output: 
+1. Balanced macronutrients: A healthy diet should include an appropriate balance of proteins, carbohydrates, and fats.
+2. Adequate vitamins and minerals: Ensuring a sufficient intake of essential vitamins and minerals promotes overall health and well-being.
+3. Fiber: Consuming fiber-rich foods aids in digestion and helps maintain a healthy weight.
+
+###
+18. Instruction: Identify the main theme of the following text.
+18. Input: 
+In his novel, the author describes the struggles of the protagonist, who is trying to find her identity and purpose in a world full of superficiality and materialism. Throughout the story, the protagonist learns to appreciate simpler, more meaningful connections and experiences that foster her growth as an individual.
+18. Output: 
+The main theme of the text is finding one's true identity and purpose amidst societal superficiality and materialism.
+
+###
+19. Instruction: Rewrite the following sentence in future perfect tense.
+19. Input: 
+She completes her assignment.
+19. Output: 
+She will have completed her assignment.
+
+###
+20. Instruction: Recommend three strategies to improve time management.
+20. Input: <noinput>
+20. Output: 
+1. Prioritize tasks: Create a list of tasks and rank them based on urgency and importance. Focus on completing high-priority tasks first.
+2. Set SMART goals: Set specific, measurable, achievable, relevant, and time-bound goals to ensure a clear and manageable path to completion.
+3. Use time-tracking tools and avoid multitasking: Tracking time spent on tasks can help identify inefficiencies, and focusing on one task at a time improves productivity and the quality of work.

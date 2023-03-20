@@ -1,0 +1,109 @@
+4. Instruction: Compose a haiku about the given object.
+4. Input: 
+Autumn leaves
+4. Output: 
+Falling gracefully,
+Autumn leaves paint the earth's floor,
+Nature's finale.
+###
+5. Instruction: Identify which type of logical fallacy the given argument commits.
+5. Input: 
+If we allow students to use calculators, they'll become too reliant on them. Soon they won't be able to do simple math in their heads.
+5. Output: 
+Slippery slope fallacy
+###
+6. Instruction: Convert the sentence into passive voice.
+6. Input: 
+The cat chased the mouse.
+6. Output: 
+The mouse was chased by the cat.
+###
+7. Instruction: What are the primary colors in the RGB color model?
+7. Input: 
+<noinput>
+7. Output: 
+Red, green, and blue.
+###
+8. Instruction: Come up with an original riddle about the given topic.
+8. Input: 
+River
+8. Output: 
+I flow through the lands, tilting and bending with ease, nourishing all I touch. I can carry your burdens, yet lack the grasp to hold them. What am I?
+###
+9. Instruction: Write an acrostic poem using the given word.
+9. Input: 
+Nature
+9. Output: 
+Nurturing our world,
+An enveloping presence,
+Trees rustle their leaves,
+Underneath the azure sky,
+Resilient life grows,
+Eternally inspiring.
+###
+10. Instruction: Use the given phrase as a metaphor in a sentence.
+10. Input: 
+Desert of Loneliness
+10. Output: 
+Grieving for her lost love, she wandered through the desert of loneliness, searching for an oasis of hope.
+###
+11. Instruction: Briefly describe the given term.
+11. Input: 
+Cryptocurrency
+11. Output: 
+Cryptocurrency is a digital or virtual currency secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. It operates on decentralized networks called blockchain.
+###
+12. Instruction: Explain the difference between the two terms provided.
+12. Input: 
+Assure vs ensure
+12. Output: 
+Assure means to tell someone with confidence that something will happen or that it's true. Ensure means to take necessary actions to guarantee that an outcome or condition will be realized.
+###
+13. Instruction: Rewrite the sentence using the given idiom.
+13. Input: 
+Sentence: He always talks about his achievements in sports.
+Idiom: Blow one's own trumpet
+13. Output: 
+He's always blowing his own trumpet about his achievements in sports.
+###
+14. Instruction: Using the given scenario, create a dilemma.
+14. Input: 
+Being a vegetarian at a barbecue party
+14. Output: 
+You're invited to a barbecue party thrown by your close friends. As a vegetarian, you would normally opt-out, but these friends have always been there for you. Do you decline the invite because of your values or attend the party to show support even if the event goes against your beliefs?
+###
+15. Instruction: Evaluate the given sentence for grammar and punctuation mistakes, and correct them.
+15. Input: 
+She loves apples, oranges, and grapes; she also likes painting, running in the park.
+15. Output: 
+She loves apples, oranges, and grapes; she also likes painting and running in the park.
+###
+16. Instruction: Elaborate on the given statement by providing a possible scenario.
+16. Input: 
+Actions speak louder than words.
+16. Output: 
+A person may constantly promise to help their struggling neighbor, but it's their direct involvement in fixing their neighbor's leaky roof that shows their true character and genuine concern.
+###
+17. Instruction: Summarize the given passage in one sentence.
+17. Input: 
+Polar bears are considered marine mammals because they are highly dependent on sea ice for their survival. They primarily prey on seals, which they catch from the ice. Climate change has had a negative impact on the sea ice in the Arctic, which has led to a decline in the polar bear population. Researchers are searching for ways to mitigate the effects of climate change on these bears.
+17. Output: 
+Polar bears, reliant on sea ice for hunting seals, face population decline due to melting Arctic ice caused by climate change, prompting research into mitigation strategies.
+###
+18. Instruction: Write the given sentence in future tense.
+18. Input: 
+He can play the guitar.
+18. Output: 
+He will be able to play the guitar.
+###
+19. Instruction: Create a persuasive statement using the provided topic.
+19. Input: 
+Encourage people to exercise
+19. Output: 
+Embracing regular exercise not only boosts your physical health and appearance, but it also elevates your mental well-being, releasing stress and promoting an overall happier, more productive lifestyle.
+###
+20. Instruction: Determine the literary device used in the given sentence.
+20. Input: 
+All the world's a stage, and all the men and women merely players.
+20. Output: 
+Metaphor

@@ -1,0 +1,51 @@
+4. Instruction: In the following dialogue, identify who is asking the question(s) and who is answering them.
+4. Input: 
+A: What did you do over the weekend?
+B: I went to the beach with my family. How about you?
+A: I visited my grandparents in the countryside.
+B: Oh, how lovely! Did you have a good time with them?
+A: Yes, it was really nice to catch up with them.
+4. Output: 
+A is asking questions, B is answering questions and asking questions as well.
+###
+5. Instruction: Explain the main concept of the following quote without using the same words.
+5. Input: 
+"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
+5. Output: 
+Achieving success doesn't guarantee permanence, and failure isn't the end; what truly matters is having the determination to keep moving forward.
+###
+6. Instruction: Change the following negative sentence into a positive one. 
+6. Input: 
+I don't think I can go to the party because I am too busy.
+6. Output: 
+I think I might be able to attend the party if I can manage my time efficiently.
+###
+7. Instruction: Describe the primary theme of the given text. 
+7. Input: 
+《To Kill a Mockingbird》 is set in the small, rural town of Maycomb, Alabama, during the early 1930s. The character of Atticus Finch, Scout's father, was based on Lee's own father, a liberal Alabama lawyer and statesman who frequently defended African Americans within the racially prejudiced Southern legal system.
+7. Output: 
+The primary theme of 《To Kill a Mockingbird》is racial prejudice and injustice in the American South during the early 1930s.
+###
+8. Instruction: Summarize the main idea of the passage below in one sentence. 
+8. Input: 
+Social media has become an integral part of our lives, connecting us with friends, family, and even strangers around the globe. While it offers numerous benefits, such as facilitating communication and providing entertainment, it can also contribute to increased anxiety, depression, and a distorted sense of self-worth when used excessively or improperly.
+8. Output: 
+Social media plays a significant role in our lives with many advantages, but excessive or improper use can lead to mental health issues.
+###
+9. Instruction: Can you rephrase the following sentence in passive voice? 
+9. Input: 
+The team will launch the new software next month.
+9. Output: 
+The new software will be launched by the team next month.
+###
+10. Instruction: What is the writing style of the following text? Formal or Informal?
+10. Input: 
+Hey, what's up? I was just thinking about grabbing a bite to eat. Wanna join me?
+10. Output: 
+Informal
+###
+11. Instruction: Write a brief analysis of the poem, "Do not go gentle into that good night."
+11. Input: 
+<noinput>
+11. Output: 
+"Do not go gentle into that good night" by Dylan Thomas is a powerful poem about the inevitability of death and the struggle against it. Thomas urges his readers, and implicitly his own father, to resist fading away and to fight for life to the very end. The poem's structure, a villanelle, reinforces its themes of persistence and resistance through the repetition of lines and the cyclical form. Overall, the poem delivers a message of urgency, hope, and determination in the face of life's greatest challenge: death.

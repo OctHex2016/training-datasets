@@ -1,0 +1,130 @@
+4. Instruction: Paraphrase the given sentence.
+4. Input:
+Everybody wants to be a winner because it requires determination and effort.
+4. Output:
+Everyone desires to succeed as it demands dedication and hard work.
+
+5. Instruction: What is the main cause for climate change? 
+5. Input:
+<noinput>
+5. Output:
+The main cause of climate change is the increased levels of greenhouse gases (such as carbon dioxide, methane, and nitrous oxide) in the atmosphere due to human activities, primarily the burning of fossil fuels and deforestation.
+
+6. Instruction: Identify whether each of the following words is a noun, adjective or verb.
+6. Input:
+- Deliver
+- Bright
+- Flaw
+6. Output:
+- Deliver: Verb
+- Bright: Adjective
+- Flaw: Noun
+
+7. Instruction: Write an introduction paragraph for an essay about the dangers of plastic pollution in the ocean.
+7. Input:
+<noinput>
+7. Output:
+Plastic pollution has become a global environmental nightmare, with millions of metric tons of plastic waste wreaking havoc on marine ecosystems. The consequences of this ubiquitous problem have far-reaching implications, threatening the health of sea creatures, human populations, and the planet itself. This essay will explore the dangerous impact of plastic pollution on the ocean, delving into its devastating effects on marine life, the concerning accumulation of microplastics, and the pressing need for effective solutions to protect our oceans and their inhabitants.
+
+8. Instruction: Check the given sentences for grammatical errors and correct them if necessary.
+8. Input:
+- She was happy to seen her old friend.
+- Everybody has there own opinion.
+8. Output:
+- She was happy to see her old friend.
+- Everybody has their own opinion.
+
+9. Instruction: Write a haiku about a snowy day.
+9. Input:
+<noinput>
+9. Output:
+Silent flakes falling,
+Blanketing earth in soft white,
+Nature's touch, so light.
+
+10. Instruction: Convert the following text from passive voice to active voice.
+10. Input:
+The documents were reviewed by the manager before the meeting.
+10. Output:
+The manager reviewed the documents before the meeting.
+
+11. Instruction: Summarize the main points from the given text.
+11. Input:
+The use of solar energy has increased rapidly over the past decade. The main driving factors for this growth are technological advancements, falling costs, and increased awareness about the environmental benefits. Solar energy is a renewable and sustainable source of power that does not produce harmful emissions or pollutants. In addition, it reduces dependency on fossil fuels, which are becoming increasingly difficult and expensive to extract. Utilizing solar energy requires an initial investment, but over time it can lead to significant savings on energy bills, promoting energy independence for households and businesses alike.
+11. Output:
+The growth of solar energy use is due to advancements in technology, affordability, and greater understanding of its environmental benefits. As it is renewable and free of emissions, solar power can reduce dependency on fossil fuels and save money on energy bills in the long run.
+
+12. Instruction: List five different examples of renewable energy sources.
+12. Input:
+<noinput>
+12. Output:
+1. Solar energy
+2. Wind energy
+3. Hydropower
+4. Geothermal energy
+5. Biomass energy
+
+13. Instruction: Write a short tongue twister about bees.
+13. Input:
+<noinput>
+13. Output:
+Bumbling bees buzz busily, bouncing between blossoming bushes, boasting boisterous brimming beauty.
+
+14. Instruction: Rewrite the given sentence to make it gender-neutral.
+14. Input:
+Every man should be responsible for his own actions.
+14. Output:
+Every person should be responsible for their own actions.
+
+15. Instruction: Explain the concept of herd immunity in simple terms.
+15. Input:
+<noinput>
+15. Output:
+Herd immunity occurs when a significant portion of a population becomes immune to a disease, either through vaccination or recovering from the illness. This immunity helps slow or stop the spread of the disease, protecting those who are not immune, such as young children or individuals with compromised immune systems.
+
+16. Instruction: Compare and contrast aerobic exercise and anaerobic exercise.
+16. Input:
+<noinput>
+16. Output:
+Aerobic exercise involves sustained physical activities that elevate the heart rate and increase breathing, such as jogging, swimming, or cycling. It primarily uses oxygen for energy production and is designed for longer durations. Anaerobic exercise is intense, short-duration physical activity like sprinting or weightlifting, which relies on energy sources other than oxygen, such as glucose stored in muscles. Aerobic exercises improve cardiovascular health, while anaerobic exercises target muscle strength and power.
+
+17. Instruction: Provide the meaning of the given idiomatic expression.
+17. Input:
+Bite the bullet
+17. Output:
+To "bite the bullet" means to face a difficult or unpleasant situation with courage and determination, even though it cannot be avoided.
+
+18. Instruction: Write an apology letter for missing a friend's birthday party.
+18. Input:
+<noinput>
+18. Output:
+Dear [Friend's Name],
+
+I am genuinely sorry for missing your birthday party last weekend. I had fully intended to be there to celebrate your special day, but unfortunately, I was unexpectedly called into work for an urgent matter.
+
+I recognize that my absence may have caused disappointment and I sincerely apologize for making you feel let down. Your friendship means a great deal to me and I truly regret not being there to share in the joy of your birthday.
+
+To make up for my absence, I would love to treat you to lunch or dinner at a date and time that suits you best. Please let me know what works for you and we can catch up and celebrate together.
+
+Once again, I apologize for missing your birthday party and I hope you had an amazing time regardless. I look forward to seeing you soon.
+
+Warm regards,
+
+[Your Name]
+
+19. Instruction: Convert the following temperatures from Fahrenheit to Celsius.
+19. Input:
+- 32°F
+- 65°F
+- 100°F
+19. Output:
+- 0°C
+- 18.33°C
+- 37.78°C
+
+20. Instruction: Identify the independent and dependent variables in the given hypothesis.
+20. Input:
+Exercise frequency affects weight loss.
+20. Output:
+Independent variable: Exercise frequency
+Dependent variable: Weight loss

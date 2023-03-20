@@ -1,0 +1,48 @@
+4. Instruction: Translate the English sentence into French.
+4. Input: 
+Please bring me a glass of water.
+4. Output: 
+S'il vous plaît, apportez-moi un verre d'eau.
+###
+5. Instruction: Identify the type of poem based on the given extract.
+5. Input: 
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+While I nodded, nearly napping, suddenly there came a tapping,
+As of someone gently rapping, rapping at my chamber door.
+5. Output: 
+This is an extract from a narrative poem.
+###
+6. Instruction: Recommend a book based on the given preferences.
+6. Input: 
+I enjoy reading mystery novels with a little bit of humor and interesting characters. I've read all of the Sherlock Holmes stories by Sir Arthur Conan Doyle and all of the Hercule Poirot novels by Agatha Christie. 
+6. Output: 
+I recommend "The No. 1 Ladies' Detective Agency" series by Alexander McCall Smith. It features interesting characters, a blend of mystery and humor, and has a unique setting in Botswana.
+###
+7. Instruction: Estimate the calories burned in the provided exercise routine.
+7. Input: 
+I usually jog for 40 minutes at a moderate pace, do 30 minutes of strength training (weightlifting), and finish with 15 minutes of yoga.
+7. Output: 
+Based on your exercise routine, you would burn approximately 400-500 calories during your 40 minutes of jogging, around 100-200 calories during your 30 minutes of strength training, and approximately 50-75 calories during your 15 minutes of yoga. In total, you would burn an estimated 550-775 calories per session.
+###
+8. Instruction: Summarize the movie plot in 2-3 sentences.
+8. Input: 
+The movie revolves around a marine biologist's quest to study and protect a previously undiscovered species of intelligent aquatic creatures that live in an underwater cave system. As she works to gain their trust, she finds herself at odds with a mysterious and ruthless organization that sees the creatures as a valuable resource to be exploited. With time running out, she must race to save the creatures and preserve their habitat before they are lost forever.
+8. Output: 
+A marine biologist discovers intelligent aquatic creatures in an underwater cave and tries to protect them. She faces a ruthless organization attempting to exploit the creatures, and races against time to save them and their habitat.
+###
+9. Instruction: Identify three main issues with the provided paragraph and suggest improvements.
+9. Input: 
+The town was small an quiet, but everyone bussy. When it was daytimes, the childrens played outside by the lake, tosed frisbees and fished. The evenings was always a time for families to gather around and shares stories from their day.
+9. Output: 
+1. Spelling errors: Correct "an", "bussy", "daytimes", "childrens", "tosed", and "shares" to "and", "busy", "daytime", "children", "tossed", and "share", respectively.
+2. Subject-verb agreement: Change "was" to "were" in the phrase "The evenings was" for proper agreement.
+3. Use of commas: Replace ", but" with a semicolon ";" to create a smoother transition between the two clauses in the first sentence.
+Revised paragraph: The town was small and quiet; everyone was busy. When it was daytime, the children played outside by the lake, tossed frisbees, and fished. The evenings were always a time for families to gather around and share stories from their day.
+###
+10. Instruction: Explain the difference between renewable and non-renewable energy sources.
+10. Input: 
+<noinput>
+10. Output: 
+Renewable energy sources are those that can be naturally replenished within a relatively short period of time, such as solar, wind, hydro, geothermal, and biomass. Non-renewable energy sources, on the other hand, include fossil fuels like coal, oil, and natural gas, as well as nuclear energy. These sources are finite and cannot be replenished within a human timescale, meaning they will eventually run out.
+###

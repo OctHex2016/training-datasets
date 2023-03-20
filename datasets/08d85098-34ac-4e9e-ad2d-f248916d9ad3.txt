@@ -1,0 +1,110 @@
+4. Instruction: Classify this email message as spam or not spam.
+4. Input: 
+Congratulations! You have just won an amazing prize worth $500,000! All you need to do is click the link below and claim your reward! Hurry, this offer is only valid for the next 24 hours!
+4. Output: 
+spam
+
+5. Instruction: Condense the following passage into one sentence.
+5. Input: 
+The sun was setting, and the sky was a brilliant shade of orange. The waves crashed gently against the shore, sending a refreshing mist through the air. Laughter and chatter filled the evening as friends and families gathered around their beachside bonfires.
+5. Output:
+As the sun set with a brilliant orange hue, waves crashed gently against the shore, and friends and families gathered around beachside bonfires, filling the air with laughter and chatter.
+
+6. Instruction: Given the list of ingredients, suggest a dish that can be made using them.
+6. Input: 
+breadcrumbs, ground beef, onion, egg, tomato sauce, bell pepper.
+6. Output:
+Stuffed Bell Peppers
+
+7. Instruction: Identify the grammatical errors in the given sentence and correct them.
+7. Input:
+Me and my friend goes to the store yesterday to buying some snacks.
+7. Output:
+My friend and I went to the store yesterday to buy some snacks.
+
+8. Instruction: Translate the following sentence into French.
+8. Input: 
+I will go to the library tomorrow.
+8. Output:
+Je vais aller à la bibliothèque demain.
+
+9. Instruction: What are the health benefits of drinking green tea?
+9. Input:
+<noinput>
+9. Output:
+Green tea is rich in antioxidants, which can help improve heart health, support weight loss, boost brain function, reduce inflammation, and lower the risk of certain types of cancer.
+
+10. Instruction: Extract key information from the following announcement to create a 2-3 bullet-point summary.
+10. Input:
+We are happy to announce that our company has secured a new funding round of $20 million from major investors. With this investment, we plan to expand our operations, hire more talented individuals, and explore new product development. We are committed to making our company a leader in our industry, and we will continuously improve the quality of our products and services.
+10. Output:
+- Secured $20 million funding from major investors
+- Plans to expand operations, hire talent, and develop new products
+- Committed to becoming a leader in the industry
+
+11. Instruction: Paraphrase the given quote.
+11. Input:
+"The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela
+11. Output:
+The most significant achievement in life comes not from never stumbling, but from getting up each time we stumble. - Nelson Mandela
+
+12. Instruction: Describe the weather in the given photo.
+12. Input:
+A sunny day at the beach, with clear blue sky and a few fluffy clouds, seagulls flying around, and people sunbathing.
+12. Output:
+In the photo, it's a beautiful sunny day at the beach with a clear blue sky scattered with a few fluffy clouds, seagulls soaring overhead, and people sunbathing on the sand.
+
+13. Instruction: Explain how the process of photosynthesis works.
+13. Input:
+<noinput>
+13. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose. In this process, they absorb light energy through pigments called chlorophyll and use it to convert carbon dioxide (taken from the atmosphere) and water (taken from the soil) into glucose and oxygen. Oxygen is released as a byproduct, while glucose is used as an energy source for growth.
+
+14. Instruction: Write a short advice for someone who wants to start cooking from scratch.
+14. Input:
+<noinput>
+14. Output:
+Begin by learning basic cooking techniques and understanding essential kitchen tools. Choose simple recipes to practice, gradually increasing complexity as you gain confidence. Don't be afraid of making mistakes; they're part of honing your skills. Keep trying, be creative, and enjoy the process.
+
+15. Instruction: Is this statement true or false? Explain your answer.
+15. Input:
+All cars are electric.
+15. Output:
+False. Not all cars are electric, as there are different types of cars powered by different sources, such as gasoline, diesel, or hybrid systems. While electric cars are becoming more popular, they still coexist alongside non-electric vehicles.
+
+16. Instruction: Compare and contrast dogs and cats as pets.
+16. Input:
+<noinput>
+16. Output:
+Dogs are often more loyal, energetic, and social, requiring more attention and exercise, while cats are more independent, self-sufficient, and low-maintenance. Dogs excel at obedience, can be trained easier, and often serve as working or therapy animals, whereas cats are generally quieter, make less noise, and require a smaller living space. Personality, lifestyle, and living conditions play a significant role in determining the best fit between these two popular pets.
+
+17. Instruction: Write a haiku about a summer rain.
+17. Input:
+<noinput>
+17. Output:
+Warm summer raindrops,
+Nature's symphony soothes,
+Life refreshed, reborn.
+
+18. Instruction: Provide a brief introduction for a presentation on time management.
+18. Input:
+<noinput>
+18. Output:
+Hello everyone, and welcome to our presentation on time management. Today, we will discuss the importance of effectively managing our time, various strategies to improve productivity, and practical tips that can be implemented in our daily lives to make the most of every moment.
+
+19. Instruction: List three ways humans can reduce greenhouse gas emissions.
+19. Input:
+<noinput>
+19. Output:
+1. Use energy-efficient appliances and vehicles.
+2. Reduce, reuse, and recycle to minimize waste production.
+3. Adopt renewable energy sources, such as solar or wind power.
+
+20. Instruction: Design a short workout routine that can be completed in 20 minutes.
+20. Input:
+<noinput>
+20. Output:
+1. Warm-up: 3 minutes of light jogging or jumping jacks
+2. Bodyweight exercises: 3 rounds of 10 push-ups, 10 squats, 10 lunges (each leg), and 10 sit-ups
+3. Cardio: 10 minutes of high-intensity interval training (HIIT), such as 30-second sprints followed by 30-second rests
+4. Cool-down: 2 minutes of deep breathing and gentle stretching

@@ -1,0 +1,35 @@
+4. Instruction: What are the main causes of deforestation?
+4. Input: 
+<noinput>
+4. Output: 
+- Agricultural expansion: Conversion of forests for agriculture, including cattle ranching and cash crop cultivation such as soy and palm oil plantations
+- Logging: Harvesting of wood for commercial purposes and fuel production
+- Infrastructure development: Construction of roads, dams, and mining projects that lead to clearing of forested areas
+- Urbanization: Expansion of cities and towns into forested areas to accommodate growing populations
+- Climate change: Changes in temperature and precipitation patterns that can alter forests, making them more susceptible to degradation
+
+5. Instruction: Given the excerpt, identify at least 3 central themes.
+5. Input: 
+The novel follows the lives of a group of friends as they navigate the tumultuous landscape of love and loss, pain and hope, and the weight of past mistakes. They make choices that have unexpected consequences, falling into and out of relationships, battling demons both internal and external, and searching for a greater meaning in a world that often refuses to provide it. Along the journey, questions of identity, loyalty, and the true nature of happiness are examined, as the characters confront the stark realities of their own existences and the lives they have chosen to lead.
+5. Output: 
+1. Love and loss
+2. Identity and self-discovery
+3. The pursuit of happiness and meaning
+
+6. Instruction: Translate the following English proverb to French: "The early bird catches the worm."
+6. Input: 
+<noinput>
+6. Output: 
+"L'avenir appartient à ceux qui se lèvent tôt"
+
+7. Instruction: Summarize the given article in three sentences.
+7. Input: 
+The European Union plans to unveil new climate proposals as part of its efforts to reduce carbon emissions and achieve the goals of the Paris climate agreement. Among the proposed measures is a carbon border tax, which would impose levies on imports of goods produced in countries with fewer climate restrictions. Critics of the plan argue that it could trigger trade disputes and be against World Trade Organization rules, while others see it as a necessary step in the global fight against climate change.
+7. Output: 
+The European Union is introducing new climate proposals to meet the Paris climate agreement goals, including a carbon border tax on goods imported from countries with less climate regulation. This tax could lead to trade disputes and potentially violate World Trade Organization rules. However, many view it as a crucial measure in the battle against climate change.
+
+8. Instruction: Explain the concept of opportunity cost using at least two examples.
+8. Input: 
+<noinput>
+8. Output:
+Opportunity cost is defined as the value of the next best alternative that is forfeited when making a decision. For example, suppose you have $10,000 and must decide between investing in stocks or launching a small business. If you choose to invest in stocks and earn a 10% return, but your business would have earned a 20% return if started, your opportunity cost is the 10% return you missed out on by not starting the business. Another example, if you choose to spend an evening watching a movie instead of studying for an exam, the opportunity cost might be a lower exam score due to reduced study time.

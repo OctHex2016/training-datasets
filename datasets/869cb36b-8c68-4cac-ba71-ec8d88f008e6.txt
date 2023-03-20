@@ -1,0 +1,91 @@
+4. Instruction: Identify the type of figurative language used in the sentence: metaphor, simile, personification, or none.
+4. Input: 
+Her laughter was music to my ears.
+4. Output: 
+metaphor
+###
+5. Instruction: Rewrite the following sentence to avoid passive voice.
+5. Input: 
+The books were returned to the library by the students.
+5. Output: 
+The students returned the books to the library.
+###
+6. Instruction: Translate the English proverb into French.
+6. Input: 
+A rolling stone gathers no moss.
+6. Output: 
+Pierre qui roule n'amasse pas mousse.
+###
+7. Instruction: List the main ingredients needed for baking chocolate chip cookies.
+7. Input: <noinput>
+7. Output: 
+Flour, unsalted butter, granulated sugar, brown sugar, eggs, vanilla extract, baking soda, salt, and chocolate chips.
+###
+8. Instruction: What year did the first iPhone release?
+8. Input: <noinput>
+8. Output: 
+2007
+###
+9. Instruction: Describe the role of the mitochondria in a cell.
+9. Input: <noinput>
+9. Output: 
+Mitochondria are the cell's powerhouses, responsible for producing the majority of the energy needed for cellular processes in the form of adenosine triphosphate (ATP). They also play a role in regulating the cell cycle, growth, and apoptosis (cell death).
+###
+10. Instruction: Correct the grammar mistakes in the following sentence.
+10. Input: 
+Me and her are going to the market for get some fresh fruits.
+10. Output: 
+She and I are going to the market to get some fresh fruits.
+###
+11. Instruction: Provide nutritional advice for someone with a high cholesterol level.
+11. Input: <noinput>
+11. Output: 
+To lower your high cholesterol levels, consider reducing saturated fat, trans fat, and cholesterol intake. Include more whole grains, fruits, and vegetables in your diet. Focus on lean proteins like poultry, fish, and legumes. Increase your consumption of healthy fats found in nuts, seeds, and avocados. Incorporate regular exercise and maintain a healthy weight.
+###
+12. Instruction: Identify the logical fallacy in this argument, if any: "If you don't stop smoking, you'll end up like my uncle who died from lung cancer."
+12. Input: <noinput>
+12. Output: 
+False cause (post hoc ergo propter hoc)
+###
+13. Instruction: Classify the given movie title into one of the following genres: action, drama, comedy, or science fiction.
+13. Input: 
+Back to the Future
+13. Output: 
+Science fiction
+###
+14. Instruction: Reformat the following date into the "Month, Day, Year" format: 2022-01-04 
+14. Input: 2022-01-04
+14. Output: 
+January 4, 2022
+###
+15. Instruction: Write a brief summary of the article.
+15. Input: 
+New York City's subway system is the world's largest rapid transit system, serving more than 4.3 million passengers daily. The city has been working on improving the system's efficiency and reliability by replacing old equipment, investing in new technologies, and extending service hours. The New York City Transit Authority has recently introduced contactless payment options, enabling passengers to use their credit cards, smartphones, or smartwatches to pay for their fares. The new payment method is not only more convenient, but also reduces the risk of transmission of infectious diseases like COVID-19.
+15. Output: 
+New York City has focused on enhancing the efficiency and reliability of its world's largest subway system by upgrading equipment and technology, and offering extended service hours. Recently introduced contactless payment options provide convenience and disease transmission reduction for over 4.3 million daily passengers.
+###
+16. Instruction: Convert the given Celsius temperature to Fahrenheit.
+16. Input: 
+35°C
+16. Output: 
+95°F
+###
+17. Instruction: What is the current status of the Great Barrier Reef and what are the major threats it faces?
+17. Input: <noinput>
+17. Output: 
+The Great Barrier Reef is currently experiencing significant deterioration due to climate change, ocean acidification, coral bleaching, and pollution. Major threats include rising sea temperatures, increased frequency and severity of storms, agricultural runoff, and coastal development. These factors are leading to coral death, loss of biodiversity, and a decline in overall reef health.
+###
+18. Instruction: List the order of the planets in our solar system, starting from the one closest to the sun.
+18. Input: <noinput>
+18. Output: 
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+###
+19. Instruction: Determine the tense of the following verb: had been eating.
+19. Input: <noinput>
+19. Output: 
+Past perfect continuous
+###
+20. Instruction: Suggest a suitable title for a mystery novel set in a haunted, abandoned mansion.
+20. Input: <noinput>
+20. Output: 
+Whispers in the Shadows: Secrets of the Abandoned Manor

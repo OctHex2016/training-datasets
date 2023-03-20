@@ -1,0 +1,83 @@
+4. Instruction: Generate a story prompt and ask the model to start the story.
+4. Input: <noinput>
+4. Output: Once upon a time, there was a small village at the foot of the mountain. The villagers lived a peaceful life until one day, a mysterious stranger arrived and the village was never the same again.
+###
+5. Instruction: Generate a question-answer pair about a historical event.
+5. Input: 
+What happened during the Cuban missile crisis?
+5. Output: During the Cuban missile crisis, the Soviet Union attempted to install missiles in Cuba, which the United States viewed as a major threat. A tense standoff followed, with both sides eventually agreeing to remove the missiles and deescalate the conflict.
+###
+6. Instruction: Generate an email asking for a favor.
+6. Input: 
+Write an email to your friend, John, who is an excellent graphic designer. You need a logo for a new business you are starting and ask John if he can design it for you.
+6. Output: Dear John, I hope everything is going well. I'm writing because I'm starting a new business and I was wondering if you might be able to help me out with a logo design. I know you're an amazing graphic designer and I would be thrilled to work with you on this. Let me know! Thanks, [Your Name]
+### 
+7. Instruction: Generate a tweet that uses irony.
+7. Input: <noinput>
+7. Output: Just got a ticket for jaywalking in an empty parking lot. I guess the cop was just trying to fulfill his daily quota of being a buzzkill. 
+### 
+8. Instruction: Generate a question and ask the model to find the answer.
+8. Input: 
+What is the capital city of Botswana?
+8. Output: Gaborone is the capital city of Botswana, a landlocked country in Southern Africa. It is home to many landmarks and cultural institutions, including the National Museum and Art Gallery, the National Botanical Garden, and the Gaborone Game Reserve.
+### 
+9. Instruction: Generate an argumentative essay prompt and ask the model to argue in favor of one of the options.
+9. Input: 
+Is social media more harmful than helpful?
+9. Output: Social media has enabled people all over the world to connect, share ideas, and build communities. From a business perspective, it has become an indispensable marketing tool. However, it has been criticized for exacerbating poor mental health and mental illness, as well as contributing to the spread of misinformation and hate speech. Despite these drawbacks, I believe that social media has more potential for good than harm and it is up to us to learn how to use it responsibly.
+### 
+10. Instruction: Generate a question-answer pair about a scientific concept.
+10. Input: 
+What is herd immunity?
+10. Output: Herd immunity refers to a situation in which enough members of a population are immune to a disease, either through vaccination or previous infection, that the spread of the disease is slowed or stopped altogether. This in turn protects those who are not immune, such as individuals who are too young or too sick to be vaccinated or those who are immunocompromised.
+### 
+11. Instruction: Generate a recipe with a list of ingredients and a set of instructions.
+11. Input: 
+Recipe for Mushroom Risotto 
+Ingredients: 1.5 cups of Arborio rice, 6 cups of vegetable broth, 1 onion, 1/2 cup of grated Parmesan cheese, 1/2 cup of dry white wine, 1/2 cup of butter, 2 cups of sliced mushrooms, 2 garlic cloves, 1 teaspoon of olive oil.
+11. Output: In a large saucepan, heat olive oil and sauté chopped onions and minced garlic. Add sliced mushrooms and sauté for 1 minute until golden. Add Arborio rice and stir well. Add dry white wine and stir continuously until it evaporates. Gradually add vegetable broth and stir until rice is cooked. Remove from heat and stir in butter and grated Parmesan cheese. Serve immediately. 
+### 
+12. Instruction: Generate a summarization prompt and summarize the provided text.
+12. Input: 
+Summarize the article about the recent advancements in cancer immunotherapy.
+12. Output: The article explains recent advancements in cancer immunotherapy, which involves stimulating the immune system to attack cancer cells. Researchers have made progress in developing personalized immunotherapy treatments, as well as using artificial intelligence to analyze immune system data to improve treatment outcomes.
+### 
+13. Instruction: Generate a question and ask the model to provide an opinion.
+13. Input: 
+Do you think the use of drones for delivery services is a good idea?
+13. Output: The use of drone technology for delivery services has the potential to greatly expedite the delivery process and reduce traffic congestion. However, there are safety and privacy concerns that need to be addressed before widespread adoption can occur.
+### 
+14. Instruction: Generate a task prompt and ask the model to write a to-do list.
+14. Input: 
+Write a to-do list for preparing for a hiking trip.
+14. Output: 1. Check the weather forecast and pack appropriate clothing. 2. Choose a trail and research the route. 3. Pack a backpack with water, snacks, first-aid kit, and any necessary supplies. 4. Notify someone of your hiking plans and expected return time. 5. Bring a map and navigation tools. 
+### 
+15. Instruction: Generate a creative writing prompt and ask the model to continue the story.
+15. Input: 
+A man discovers that he can communicate with ghosts.
+15. Output: For as long as he could remember, the man had always felt like he was living in the shadows. But everything changed the day he discovered he could communicate with ghosts. At first, he was scared and overwhelmed, but as he learned more about his newfound ability, he began to see it as a gift. With the help of the ghosts he encountered, he was able to uncover secrets about his past and find a newfound sense of purpose. 
+### 
+16. Instruction: Generate a question-answer pair about a famous landmark.
+16. Input: 
+What is the significance of the Great Wall of China?
+16. Output: The Great Wall of China is one of the longest and most impressive walls ever built. It is believed that the wall was built to protect China from invading forces and to regulate trade along the Silk Road. It was constructed over a period of several centuries, beginning around the 7th century BC, and contains many impressive architectural features, such as watchtowers and fortresses.
+### 
+17. Instruction: Generate a task prompt and ask the model to provide step-by-step instructions.
+17. Input: 
+Write down step-by-step instructions for baking chocolate chip cookies.
+17. Output: 1. Preheat the oven to 350°F. 2. In a large mixing bowl, combine butter, brown sugar, granulated sugar, and vanilla extract. Mix well. 3. Add eggs to the mixture and mix thoroughly. 4. In a separate bowl, combine flour, baking soda, and salt. Mix well. 5. Gradually add flour mixture to the butter mixture while mixing. 6. Stir in chocolate chips. 7. Drop spoonfuls of the dough onto a greased baking sheet. 8. Bake for 10-12 minutes or until light golden brown. Let cool for a few minutes before serving. 
+### 
+18. Instruction: Generate a question and ask the model to find a specific piece of information.
+18. Input: 
+How long is the Amazon River?
+18. Output: The Amazon River is approximately 6,400 km (4,000 mi) long and is the largest river in the world by volume. It is home to a diverse array of plant and animal species, including the Amazon River dolphin, the pink river dolphin, and the Amazonian manatee.
+### 
+19. Instruction: Generate an editing prompt and ask the model to improve the given text.
+19. Input: 
+Please improve the following text: "The cat was laying on the bed all day, she wouldn't even move for a treat". 
+19. Output: "The cat lay on the bed all day and wouldn't even move for a treat." 
+### 
+20. Instruction: Generate a creative writing prompt and ask the model to write a short story.
+20. Input: 
+A woman receives an unexpected gift from her deceased grandmother, who she never met.
+20. Output: When Melissa's grandmother passed away, she was surprised to learn that she had left her a small, intricately carved music box. Knowing very little about her grandmother, Melissa was intrigued by the gift and soon found herself obsessed with the box. As she delved deeper into its history, she began to uncover secrets about her grandmother's past and a long-lost family legacy. What she found would change her life forever.

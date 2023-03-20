@@ -1,0 +1,102 @@
+4. Instruction: Generate a summary of the article given in the input text. 
+4. Input: 
+The current pandemic has been especially hard on small businesses. Many have closed their doors for good. The ones that remain open are struggling to make ends meet. 
+4. Output: 
+Small businesses have been hit hard by the pandemic, with many closing for good and those still open struggling to survive.
+###
+5. Instruction: Identify the emotion expressed in the given text. The emotion can be one of the following categories: 1) joy; 2) sadness; 3) anger; 4) fear. Output 1 - 4 for each category. 
+5. Input: 
+I can't wait for the party tonight!
+5. Output: 
+1
+###
+6. Instruction: Generate a rhyming couplet that includes the word "blue". 
+6. Input: 
+blueberries
+6. Output: 
+She loved pies filled with blueberries so true, 
+With every bite, her love for them grew.
+###
+7. Instruction: Write a tweet about the given topic in 280 characters or less.  
+7. Input: 
+March Madness
+7. Output: 
+It's that time of year again! The craziness has begun, and brackets are everywhere. Who do you think will take home the championship trophy? #MarchMadness #collegebasketball
+###
+8. Instruction: Correct the grammatical errors in the input sentence. 
+8. Input: 
+Everyone on the team brings their own lunch.
+8. Output: 
+Everyone on the team brings his or her own lunch.
+### 
+9. Instruction: Identify the topic of the given article from the input text. 
+9. Input: 
+The article talks about the history of the first computer language which, surprisingly, was not created until the early 1950s.
+9. Output: 
+The history of the first computer language.
+###
+10. Instruction: Generate a sentence using a word provided in the input. 
+10. Input: 
+Word: serendipity
+10. Output: 
+The discovery of penicillin can be attributed to the serendipity of Alexander Fleming's accidental observation. 
+###
+11. Instruction: Generate a random number between 1 and 100. 
+11. Input: 
+<noinput>
+11. Output: 
+76
+###
+12. Instruction: Spell the word given in the input. 
+12. Input: 
+Mississippi
+12. Output: 
+m-i-s-s-i-s-s-i-p-p-i
+###
+13. Instruction: Identify the author of the book from the given text. 
+13. Input: 
+The book follows a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. 
+13. Output: 
+George Orwell
+###
+14. Instruction: Give a synonym for the word provided in the input. 
+14. Input: 
+Word: unique
+14. Output: 
+distinct
+### 
+15. Instruction: Generate a question about the given topic in the input. 
+15. Input: 
+Topic: climate change
+15. Output: 
+What role do humans play in contributing to climate change? 
+###
+16. Instruction: Translate the phrase given in the input from English to French. 
+16. Input: 
+Phrase: I love you
+16. Output: 
+Je t'aime
+###
+17. Instruction: Give the definition of the word provided in the input. 
+17. Input: 
+Word: ubiquitous
+17. Output: 
+present, appearing, or found everywhere
+###
+18. Instruction: Write a sentence using the word provided in the input. 
+18. Input: 
+Word: ephemeral
+18. Output: 
+The beauty of the cherry blossoms is ephemeral, only lasting for a few weeks each year. 
+###
+19. Instruction: Identify the artist of the song given in the input. 
+19. Input: 
+The song tells a story of a girl who is born into poverty and how she becomes successful. 
+19. Output: 
+Dolly Parton
+###
+20. Instruction: Complete the phrase given in the input. 
+20. Input: 
+Phrase: the early bird catches 
+20. Output: 
+the worm.

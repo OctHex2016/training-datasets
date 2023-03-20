@@ -1,0 +1,112 @@
+4. Instruction: Summarize the given news article in one or two sentences.
+4. Input:
+Scientists from the University of Cambridge have discovered a unique type of cell in human livers that can regenerate liver tissue, potentially paving the way for new treatments for liver diseases. The research, published in the journal Nature, is a major breakthrough as current methods of regenerating damaged liver tissue, such as transplants or artificial devices, have numerous limitations and can have unpredictable results.
+4. Output:
+Researchers at the University of Cambridge discovered a unique liver cell that can regenerate tissue, which may lead to new treatments for liver diseases. This breakthrough, published in Nature, has the potential to replace current methods with better, more predictable outcomes.
+
+5. Instruction: Convert the given text into a poem.
+5. Input:
+A lonely tree stood in the meadow, its branches bare and its roots deep in the earth. The golden sun beat down upon it, bringing warmth to the cold ground beneath.
+5. Output:
+In the meadow, a tree stood lone,
+With branches bare and roots full-grown.
+Embraced by sunlight's golden arms,
+The earth, once cold, now knows its charms.
+
+6. Instruction: Find an inconsistency in the given story.
+6. Input:
+Anna was a music teacher who taught piano lessons at her home. She loved photography and spent her weekends in the mountains capturing nature's beauty. One evening, as she was playing the violin in her living room, she decided her next series would be of the ocean's vast, serene expanses.
+6. Output:
+Anna is described as a music teacher who taught piano lessons, but it is mentioned that she was playing the violin in her living room.
+
+7. Instruction: Identify the missing information needed to solve the problem.
+7. Input:
+Kate has x apples and she gives 3 apples to her friend. She then gave half of her remaining apples to her brother. How many apples does Kate have left?
+7. Output:
+The initial number of apples Kate had (x) is missing.
+
+8. Instruction: Which elements are abundant in Earth's crust?
+8. Input:
+<noinput>
+8. Output:
+The abundant elements in Earth's crust are oxygen, silicon, aluminum, iron, calcium, sodium, potassium, and magnesium.
+
+9. Instruction: Translate the given text from English to French.
+9. Input:
+The water cycle is a continuous process that replenishes Earth's supply of fresh water.
+9. Output:
+Le cycle de l'eau est un processus continu qui renouvelle la réserve d'eau douce de la Terre.
+
+10. Instruction: What is the boiling point of water in Celsius and Fahrenheit?
+10. Input:
+<noinput>
+10. Output:
+The boiling point of water is 100°C (Celsius) and 212°F (Fahrenheit).
+
+11. Instruction: Proofread and correct any errors in the given paragraph.
+11. Input:
+Their are many ways to improve you're writing. One of the most efective ways is to revise your work several times, catching grammatical errrors and spelling mistakess. Asking someone to review youre writing can also be helpfull.
+11. Output:
+There are many ways to improve your writing. One of the most effective ways is to revise your work several times, catching grammatical errors and spelling mistakes. Asking someone to review your writing can also be helpful.
+
+12. Instruction: Calculate the interest earned after two years on a $5,000 investment with an annual interest rate of 4%.
+12. Input:
+<noinput>
+12. Output:
+Interest earned after 2 years: $5,000 × (1 + 4%)² − $5,000 = $5,000 × 1.08 − $5,000 = $400
+
+13. Instruction: Describe the process of photosynthesis in simple words.
+13. Input:
+<noinput>
+13. Output:
+Photosynthesis is a process used by plants to make their food. It occurs when plants capture sunlight, absorb carbon dioxide from the air, and take in water from the soil. They then convert these ingredients into glucose (sugar) for energy and release oxygen as a byproduct.
+
+14. Instruction: Propose a new title for the following blog post: "How to Make the Perfect Sandwich".
+14. Input:
+<noinput>
+14. Output:
+"Master the Art of Sandwich Making: Expert Tips and Tricks"
+
+15. Instruction: What are the basic steps for someone who wants to start practicing yoga?
+15. Input:
+<noinput>
+15. Output:
+1. Research different yoga styles to find one that suits you.
+2. Gather essential supplies like a yoga mat, comfortable clothing, and props like blocks or straps.
+3. Find a suitable space with a quiet, calm environment to practice.
+4. Learn and practice basic yoga poses, focusing on proper alignment and breath control.
+5. Develop a consistent routine, gradually increasing the duration and difficulty of your sessions.
+6. Consider joining a yoga class or following guided online sessions for additional support and guidance.
+
+16. Instruction: How far away is Mars from Earth on average?
+16. Input:
+<noinput>
+16. Output:
+On average, Mars is about 225 million kilometers (140 million miles) away from Earth.
+
+17. Instruction: Rewrite the provided sentence in passive voice.
+17. Input:
+The mechanic repaired the car.
+17. Output:
+The car was repaired by the mechanic.
+
+18. Instruction: In the given list, identify three renewable energy sources.
+18. Input:
+coal, solar, wind, natural gas, petroleum, biomass, hydropower
+18. Output:
+solar, wind, biomass
+
+19. Instruction: Write a brief note to invite a friend to your birthday party.
+19. Input:
+<noinput>
+19. Output:
+Hey [Friend's Name]!
+I'm having a birthday party at my place on [Date] at [Time]. It would be great if you could join us for some food, games, and lots of fun! Please let me know if you can make it. Hope to see you there!
+Best,
+[Your Name]
+
+20. Instruction: Explain the difference between asteroids and comets.
+20. Input:
+<noinput>
+20. Output:
+Asteroids are primarily made up of rock and metal, whereas comets mainly consist of ice, dust, and small rocky particles. Asteroids are generally found in the inner solar system, mostly in the asteroid belt between Mars and Jupiter, while comets typically orbit farther out in the solar system and have elongated orbits bringing them close to the Sun and then far out into space. When a comet gets closer to the Sun, its ice vaporizes, forming a visible, glowing tail.

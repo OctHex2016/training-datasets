@@ -1,0 +1,103 @@
+4. Instruction: Summarize the given paragraph in one or two sentences.
+4. Input: 
+The advent of the internet has revolutionized many areas, particularly the world of education. Students no longer need to attend physical classrooms to obtain knowledge or prepare for tests, as online tutoring and courses are readily available. This flexibility allows learners to further their education in versatile, cost-effective, and time-saving ways. Additionally, they can leverage the internet to network with peers, access textbooks and teaching materials, and consult experts worldwide.
+4. Output: 
+The internet has transformed education by providing flexible, cost-effective online learning options and access to resources. Students can now connect with peers, access materials, and consult experts globally.
+
+5. Instruction: Translate the following English text to French. 
+5. Input: 
+Congratulations on your new job! May you achieve great success and bring out the best version of yourself.
+5. Output: 
+Félicitations pour votre nouvel emploi ! Que vous parveniez à un grand succès et à révéler la meilleure version de vous-même.
+
+6. Instruction: Rewrite the given sentence using passive voice. 
+6. Input: 
+The team completed the project on time.
+6. Output: 
+The project was completed on time by the team.
+
+7. Instruction: Identify the two errors in the following sentence and correct them.
+7. Input: 
+Alex and his freind went to the store, and they buys ice cream.
+7. Output: 
+Alex and his friend went to the store, and they bought ice cream.
+
+8. Instruction: Imagine you are talking to an alien. Describe what rain is, and its importance to life on Earth.
+8. Input: 
+<noinput>
+8. Output: 
+Rain is water that falls from the sky in the form of droplets, which happens when clouds in Earth's atmosphere become too heavy with water vapor. It plays a crucial role in sustaining life on our planet, as it nourishes plants, fills rivers and lakes, and provides the necessary hydration for various living organisms.
+
+9. Instruction: Name three different renewable energy sources.
+9. Input: 
+<noinput>
+9. Output: 
+Solar, wind, and hydropower.
+
+10. Instruction: Suggest precautions to take during an earthquake.
+10. Input: 
+<noinput>
+10. Output: 
+Stay indoors, drop and take cover under a sturdy table or desk, and hold onto it until the shaking stops. Stay away from windows, and if outdoors, find an open space away from buildings and power lines.
+
+11. Instruction: Tell me about the Turing Test and its purpose.
+11. Input: 
+<noinput>
+11. Output: 
+The Turing Test, proposed by Alan Turing, is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. Its purpose is to determine whether a machine can "think" or demonstrate human-like artificial intelligence.
+
+12. Instruction: List five responsibilities typically assigned to an office manager.
+12. Input: 
+<noinput>
+12. Output: 
+Hiring and training staff, managing budgets, overseeing facilities maintenance, organizing workspaces and schedules, and ensuring office policies and procedures are followed.
+
+13. Instruction: Help me improve the following sentence: "The cat was sitting on the mat."
+13. Input: 
+<noinput>
+13. Output: 
+The fluffy cat gracefully lounged on the soft, woven mat.
+
+14. Instruction: Write a haiku about a summer evening.
+14. Input: 
+<noinput>
+14. Output: 
+Golden sun descends,
+Cicadas hum warm breezes,
+Twilight whispers peace.
+
+15. Instruction: Calculate the 15% tip on a $75 bill.
+15. Input: 
+<noinput>
+15. Output: 
+$11.25
+
+16. Instruction: Provide the five stages of grief, according to the Kübler-Ross model.
+16. Input: 
+<noinput>
+16. Output:
+Denial, anger, bargaining, depression, and acceptance.
+
+17. Instruction: Explain the difference between a meteor and a meteorite.
+17. Input: 
+<noinput>
+17. Output: 
+A meteor is a small celestial body entering Earth's atmosphere, which appears as a streak of light due to burning up. A meteorite is a fragment of a meteor or other celestial body that survives and lands on the Earth's surface.
+
+18. Instruction: What year did the United States declare independence?
+18. Input: 
+<noinput>
+18. Output: 
+1776
+
+19. Instruction: Provide three benefits of practicing yoga regularly.
+19. Input: 
+<noinput>
+19. Output: 
+Improved flexibility and strength, reduced stress and anxiety, and enhanced mental clarity and focus.
+
+20. Instruction: Is a tomato a fruit or a vegetable?
+20. Input: 
+<noinput>
+20. Output: 
+A tomato is scientifically classified as a fruit, but often considered a vegetable in culinary contexts.

@@ -1,0 +1,179 @@
+4. Instruction: Generate a 10-word summary of the given article.
+4. Input: 
+Article link: https://www.bbc.com/news/world-europe-57966915
+4. Output: 
+Poland's highest court rules against Europe's top court.
+
+Instructions:
+Read the article and summarize in 10 words or less.
+###
+5. Instruction: Come up with a creative metaphor for love. 
+5. Input: 
+<noinput>
+5. Output: 
+Love is a garden, it needs to be tended carefully.
+###
+6. Instruction: Generate a poem about the given nature scene. 
+6. Input: 
+A sunset at the beach
+6. Output: 
+The sun sets, the waves calm
+Cool winds blow inland from the sea
+Peaceful scene, a moment of balm
+
+Instructions:
+Write a poem about the given nature scene using your own words.
+###
+7. Instruction: Classify the given list of animals into herbivores, carnivores, and omnivores. 
+7. Input: 
+Tiger, Panda, Chimpanzee, Elephant, Lion, Deer, Gorilla, Monkey
+7. Output: 
+Herbivores: Panda, Elephant, Deer 
+Carnivores: Tiger, Lion 
+Omnivores: Chimpanzee, Gorilla, Monkey 
+
+Instructions:
+Classify the given list of animals into herbivores, carnivores, and omnivores.
+###
+8. Instruction: Correct the grammatical errors in the given sentence. 
+8. Input: 
+Their are alot of people in this room. 
+8. Output: 
+There are a lot of people in this room.
+
+Instructions:
+Correct the grammatical errors in the given sentence.
+### 
+9. Instruction: Write a paragraph summarizing the given book. 
+9. Input: 
+The Da Vinci Code by Dan Brown 
+9. Output: 
+The Da Vinci Code follows symbologist Robert Langdon and cryptologist Sophie Neveu as they try to solve the murder of Jacques Saunière (curator of the Louvre) and uncover a deep conspiricy surrounding the Holy Grail. The story explores themes of religion, art, history, and cryptography.
+
+Instructions:
+Summarize the given book in one paragraph using your own words.
+###
+10. Instruction: Generate an alternate ending to the given movie. 
+10. Input: 
+The Matrix 
+10. Output: 
+Neo and Trinity both survive the final fight against Agent Smith and escape the Matrix. They wake up in the real world and start a new community dedicated to freeing people from the Matrix.
+
+Instructions:
+Come up with an alternate ending to the given movie.
+###
+11. Instruction: Write a new headline for the given news article. 
+11. Input: 
+Article link: https://www.nbcnews.com/news/us-news/severe-flooding-hits-nyc-subways-east-coast-after-historic-rain-n1274077
+11. Output: 
+New York subway floods after historic rainfall.
+
+Instructions:
+Write a new headline for the given news article using your own words.
+###
+12. Instruction: Come up with an acrostic poem for the word "FRUIT". 
+12. Input: 
+<noinput>
+12. Output: 
+Fruits are succulent, juicy, and sweet
+Rapport blossoms over boxes shared
+Under the hot sun, the trees stand
+In gardens and markets, they are grand
+Taste the rainbow, Nature’s treat
+
+Instructions:
+Come up with an acrostic poem for the word "FRUIT" using your own words.
+###
+13. Instruction: Edit the given email to sound more professional. 
+13. Input: 
+From: john.doe@gmail.com 
+Subject: yo can u send me that stuff you promised??
+
+Sup man, long time no chat. Just wanted to check in and see if you could send over that file you promised me a while back. Let me know.
+
+Later,
+John
+13. Output: 
+Subject: Request for (file name)
+
+Dear [Recipient Name],
+
+I hope this email finds you well. I wanted to inquire about the availability of the file you promised me. At your earliest convenience, could you kindly send it over? 
+
+Thank you very much for your time and help.
+
+Sincerely,
+John Doe
+
+Instructions:
+Edit the given email to sound more professional.
+### 
+14. Instruction: Describe the given object without using the object's name. 
+14. Input: 
+A lamp
+14. Output: 
+A light bulb sequestered into an enclosure above a desk.
+
+Instructions:
+Describe the given object using your own words without using the object's name.
+###
+15. Instruction: Generate a slogan for a product to keep people motivated at the gym. 
+15. Input: 
+<noinput>
+15. Output: 
+"Push Harder, Go Longer. You Got This."
+
+Instructions:
+Generate a slogan for a product to keep people motivated at the gym.
+###
+16. Instruction: Come up with a question about a popular scientific theory. 
+16. Input: 
+<noinput> 
+16. Output: 
+What evidence exists to support the Big Bang Theory and how has it developed over time?
+
+Instructions:
+Come up with a question about a popular scientific theory.
+###
+17. Instruction: Correct the spelling mistakes in the given sentence. 
+17. Input: 
+I'm abotu to leavethe housew henmy phone rings. 
+17. Output: 
+I'm about to leave the house when my phone rings.
+
+Instructions:
+Correct the spelling mistakes in the given sentence.
+###
+18. Instruction: Generate a TV show pitch for a family drama series. 
+18. Input: 
+<noinput> 
+18. Output: 
+"A Family Divided" tells the story of a family that is forced to confront their past secrets when a mysterious stranger arrives with damning evidence. As the family navigates betrayal, love, and redemption, they learn that sometimes the worst thing that can happen is the best thing for what comes next.
+
+Instructions:
+Generate a TV show pitch for a family drama series.
+###
+19. Instruction: Come up with a fictional story about a character's journey of self-discovery. 
+19. Input: 
+A young woman travels to a new country for the first time. 
+19. Output: 
+"Finding Home" follows the journey of Anastasia as she laves her home in the United States to embark on the adventure of a lifetime - studying abroad in Paris. Through her experiences, she learns about the world, the people in her life, and ultimately, about herself.
+
+Instructions:
+Come up with a fictional story about a character's journey of self-discovery using the given input.
+###
+20. Instruction: Write an instruction manual for using a new kitchen appliance. 
+20. Input: 
+A new multi-cooker device. 
+20. Output: 
+The Multi-Cooker Instruction Manual:
+1. Plug in the device and ensure it is securely placed on a flat surface.
+2. Choose the desired function from the digital control panel.
+3. Add the ingredients into the pot and close the lid tightly.
+4. For safety, check the pressure relief valve is in the correct position.
+5. Press the start button and allow the cooking process to finish.
+6. When finished, carefully release the steam and safety vent.
+7. Unplug the device and allow it to cool before cleaning. 
+
+Instructions:
+Write an instruction manual for using a new kitchen appliance.

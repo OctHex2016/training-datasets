@@ -1,0 +1,110 @@
+4. Instruction: Generate a summary of a news article. 
+4. Input: 
+Article: 
+Title: "New Study Shows Eating Chocolate Every Day Is Good for the Brain"
+Content: A new study conducted by the University of L'Aquila in Italy suggests that eating chocolate every day can improve cognitive function. The study found that participants who ate dark chocolate daily had higher scores on tests related to memory, attention, and reaction time. However, the researchers also cautioned that the effects were small and more research is needed to confirm the findings.
+4. Output: 
+According to a recent study conducted by the University of L'Aquila in Italy, daily chocolate intake can improve cognitive function. Participants who consumed dark chocolate daily had better scores on memory, attention, and reaction time tests. However, the effects were small, and further research is required to confirm the results. 
+###
+5. Instruction: Identify the main idea of a paragraph. 
+5. Input: 
+Paragraph: 
+Title: "The Importance of Recycling"
+Content: Recycling is essential for sustaining the environment. It is the process of converting waste material into reusable material, which helps in reducing pollution and conserving natural resources. Recycling helps in conserving energy by reducing the need for raw materials, which ultimately results in reduction of greenhouse gas emissions. It also saves landfill space and reduces the costs associated with waste disposal. The importance of recycling cannot be overstated, and it is something that individuals, governments, and businesses alike should work towards.
+5. Output: 
+The paragraph discusses the importance of recycling for environmental sustainability. It highlights how recycling helps in reducing pollution, conserving natural resources, conserving energy, reducing greenhouse gas emissions, saving landfill space, and reducing the costs associated with waste disposal. It is emphasized that recycling is crucial and requires efforts from individuals, governments, and businesses. 
+###
+6. Instruction: Identify the grammatically incorrect sentence. 
+6. Input: 
+Sentences: 
+1. She have been working here for two years.
+2. He runs faster than anyone on the team.
+3. Them are going to the park later.
+4. I have ate breakfast already.
+6. Output: 
+Sentence 1, "She have been working here for two years" is grammatically incorrect. The correct sentence should be "She has been working here for two years."
+###
+7. Instruction: Generate a rhyming word for the given word. 
+7. Input: 
+Word: cat
+7. Output: 
+Hat.
+###
+8. Instruction: Identify the synonym of the given word. 
+8. Input: 
+Word: happy
+8. Output: 
+Elated.
+###
+9. Instruction: Correct the spelling in the given sentence. 
+9. Input: 
+Sentence: His carreer is taking off.
+9. Output: 
+His career is taking off.
+###
+10. Instruction: Summarize the plot of a movie. 
+10. Input: 
+Movie: "The Shawshank Redemption"
+Plot: The story revolves around Andy Dufresne, a senior vice-president of a bank who is wrongfully convicted of the murder of his wife and her lover. He is sent to the Shawshank State Penitentiary, where he befriends Ellis Boyd 'Red' Redding. Despite facing numerous challenges and obstacles, Andy manages to gain the respect of his fellow inmates and the guards by helping them with their personal and financial problems. Eventually, Andy escapes from the prison through a tunnel he dug secretly, and the story ends with him living a new life on a beach in Mexico.
+10. Output: 
+"The Shawshank Redemption" is a movie about a wrongly convicted man, Andy Dufresne, who befriends a fellow inmate named Red. By helping other inmates and guards with their problems, Andy gains their respect. He eventually escapes from the prison through a secret tunnel he dug and starts a new life on a beach in Mexico. 
+###
+11. Instruction: Suggest an appropriate synonym for the given sentence. 
+11. Input: 
+Sentence: I like to play video games in my free time.
+11. Output: 
+I enjoy playing video games in my leisure time.
+###
+12. Instruction: Identify the antonym of the given word. 
+12. Input: 
+Word: up
+12. Output: 
+Down.
+###
+13. Instruction: Suggest a creative title for a travel blog post. 
+13. Input: 
+Topic: A trip to Bali, Indonesia 
+13. Output: 
+"Unwinding in Paradise: My Sunny Escape to Bali, Indonesia"
+###
+14. Instruction: Write a persuasive paragraph on a given topic. 
+14. Input: 
+Topic: Renewable energy 
+14. Output: 
+Renewable energy is an area that is gaining more and more importance with each passing day. It is essential that we switch from non-renewable sources of energy to renewable ones in order to reduce our reliance on fossil fuels, which have a limited supply and are harmful to the environment. Transitioning to renewable energy will help in reducing carbon emissions, and provide a clean and sustainable source of power. It is also a cost-effective solution in the long run. It is our responsibility to help ensure that future generations have access to energy that is both clean and plentiful.
+###
+15. Instruction: Identify the noun in the given sentence. 
+15. Input: 
+Sentence: The little girl skipped happily down the street.
+15. Output: 
+Girl.
+###
+16. Instruction: Generate a sentence with a given word. 
+16. Input: 
+Word: compassion
+16. Output: 
+Compassion is the act of showing empathy and kindness towards others, especially during difficult times.
+###
+17. Instruction: Correct the grammar in the given sentence. 
+17. Input: 
+Sentence: Me and my friend went to the movies last night.
+17. Output: 
+My friend and I went to the movies last night.
+###
+18. Instruction: Identify the definition of a given word. 
+18. Input: 
+Word: extraterrestrial
+18. Output: 
+Extraterrestrial refers to anything beyond the planet Earth or its atmosphere, specifically in reference to the existence or activity of life form outside the Earth. 
+###
+19. Instruction: Generate a sentence with two given words. 
+19. Input: 
+Words: beach, sunset
+19. Output: 
+Watching the sunset at the beach is one of the most breathtaking experiences anyone can have. 
+###
+20. Instruction: Define a concept in your own words. 
+20. Input: 
+Concept: Empathy
+20. Output: 
+Empathy is the ability to understand and share the feelings of others. It enables us to connect with people on a deeper level, and to appreciate the diversity of human experiences. By putting ourselves in other people's shoes, we can become more compassionate and kind towards them, and create a more peaceful world.

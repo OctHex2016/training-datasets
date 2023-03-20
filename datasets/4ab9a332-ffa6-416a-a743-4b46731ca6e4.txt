@@ -1,0 +1,128 @@
+4. Instruction: Identify the main point of the following passage.
+4. Input: 
+Throughout history, music has been an essential part of human culture. It transcends borders and languages, serving as a universal method of communication. Music has the power to evoke strong emotions and create connections between people. Studies have even shown that it has numerous mental, emotional, and physical health benefits, such as reduced stress levels, improved mood, and enhanced cognitive function.
+4. Output: 
+The main point of the passage is that music is a crucial component of human culture, with the power to evoke emotions, connect people, and provide numerous health benefits.
+
+###
+5. Instruction: Rephrase the following sentence to avoid repetitive words.
+5. Input: 
+The quick brown dog jumped over the lazy brown dog in the park.
+5. Output: 
+The swift, chestnut canine leaped over its indolent counterpart while at the park.
+
+###
+6. Instruction: Classify the following statement as a fact, opinion, or a mix of both.
+6. Input: 
+Van Gogh's paintings are stunning.
+6. Output: 
+opinion
+
+###
+7. Instruction: Provide the frequency of the word 'example' in the given text.
+7. Input: 
+This is an example of a text. In this example, we will try to find the number of times the word 'example' appears. For example, if it appears three times, the answer would be three.
+7. Output: 
+3
+
+###
+8. Instruction: Translate the following sentence into French.
+8. Input: 
+I love spending time with my family and friends.
+8. Output: 
+J'aime passer du temps avec ma famille et mes amis.
+
+###
+9. Instruction: Provide the scientific name for the domestic cat.
+9. Input: 
+<noinput>
+9. Output: 
+Felis catus
+
+###
+10. Instruction: Explain the capability of a GPT-3 AI model.
+10. Input: 
+<noinput>
+10. Output: 
+A GPT-3 AI model is capable of natural language understanding and generation, allowing it to perform a wide range of tasks, including text summarization, question-answering, translation, conversation, and even programming or creative writing. Its large-scale pre-training allows it to have a deep understanding of context and generate human-like, coherent, and contextually relevant responses.
+
+###
+11. Instruction: Rewrite the given paragraph in passive voice.
+11. Input: 
+The chef cooked a delicious meal for the guests. Then, he served it to them with a smile on his face.
+11. Output: 
+A delicious meal was cooked for the guests by the chef. It was then served to them with a smile on his face. 
+
+###
+12. Instruction: List three possible consequences of introducing an invasive species into an ecosystem.
+12. Input: 
+<noinput>
+12. Output: 
+1. Disruption of the food chain
+2. Decline or extinction of native species
+3. Alteration of the ecosystem's balance and structure
+
+###
+13. Instruction: Summarize the plot of "Romeo and Juliet" by William Shakespeare.
+13. Input: 
+<noinput>
+13. Output: 
+"Romeo and Juliet" is a tragic love story set in Verona, Italy, where two star-crossed lovers from feuding families, the Montagues and Capulets, fall in love. Despite the conflict between their families, they marry in secret. Miscommunications and unfortunate events eventually lead to the deaths of both Romeo and Juliet, which finally brings an end to the bitter rivalry between their families.
+
+###
+14. Instruction: Write a haiku inspired by the beauty of nature.
+14. Input: 
+<noinput>
+14. Output: 
+Cherry blossoms fall
+Silent whispers on the breeze
+Nature's breath of peace
+
+###
+15. Instruction: Detect the tone of the following sentence: "I can't believe I lost my keys again!"
+15. Input: 
+<noinput>
+15. Output: 
+Frustrated
+
+###
+16. Instruction: Name two characters from J.R.R. Tolkien's "The Lord of the Rings" trilogy.
+16. Input: 
+<noinput>
+16. Output: 
+1. Frodo Baggins
+2. Gandalf
+
+###
+17. Instruction: Spot the grammatical error in the given sentence and correct it.
+17. Input: 
+She have been studying for her test all week.
+17. Output: 
+She has been studying for her test all week.
+
+###
+18. Instruction: Identify the literary technique used in the sentence "The wind roared like a lion."
+18. Input: 
+<noinput>
+18. Output: 
+Simile
+
+###
+19. Instruction: Which precautions should be taken to maintain cyber security?
+19. Input: 
+<noinput>
+19. Output: 
+1. Use strong, unique passwords
+2. Keep software and systems up to date
+3. Enable two-factor authentication
+4. Avoid clicking on suspicious links or attachments
+5. Regularly back up important data
+6. Be cautious when connecting to public Wi-Fi
+7. Install and update antivirus software
+
+###
+20. Instruction: Describe the process of photosynthesis in plants.
+20. Input: 
+<noinput>
+20. Output: 
+Photosynthesis is the process by which green plants and some other organisms convert sunlight into chemical energy. It occurs mainly in the chloroplasts of plant cells, using light energy to produce carbohydrates (glucose) from carbon dioxide and water. During this process, oxygen is released as a byproduct. Photosynthesis involves two main stages: the light-dependent reactions, which take place in the thylakoid membranes of chloroplasts and generate ATP (energy) and NADPH (electrons), and the light-independent reactions (Calvin cycle), which use the energy and electrons from the light-dependent reactions to fix carbon dioxide and synthesize glucose.

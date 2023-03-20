@@ -1,0 +1,84 @@
+4. Instruction: Using the given premise, construct a logical argument using 3 statements.
+4. Input: 
+Premise: All humans are mortal.
+4. Output: 
+1. Socrates is a human.
+2. All humans are mortal.
+3. Therefore, Socrates is mortal.
+
+###
+5. Instruction: Identify and correct any grammatical mistakes in the provided text.
+5. Input: 
+Their going to their friends house, which is over they're, to celebrate they're son's graduation.
+5. Output: 
+They're going to their friend's house, which is over there, to celebrate their son's graduation.
+
+###
+6. Instruction: Rewrite the provided text to be more concise.
+6. Input: 
+This report will critically analyze and examine the importance of raising awareness about mental health issues so people can be more equipped to support those who are experiencing difficulties.
+6. Output: 
+This report will analyze the importance of mental health awareness to better support those facing difficulties.
+
+###
+7. Instruction: Explain the meaning of the term "inflation" in economics.
+7. Input: 
+<noinput>
+7. Output: 
+In economics, "inflation" refers to the general increase in the prices of goods and services in an economy over time. It can also be considered as the decline in the purchasing power of money, meaning the value of money decreases as inflation rises.
+
+###
+8. Instruction: List at least five common symptoms of the flu.
+8. Input: 
+<noinput>
+8. Output: 
+1. Fever
+2. Cough
+3. Body Aches
+4. Fatigue
+5. Sore Throat
+
+###
+9. Instruction: Suggest a title for the provided abstract.
+9. Input: 
+As technology advances, the line between human and machine becomes increasingly blurred. Robotics and artificial intelligence have permeated numerous aspects of our society, raising ethical and practical questions about their integration into our lives. This paper explores present and emerging applications of AI, including autonomous vehicles, personal assistants, and healthcare innovations. We assess risks, ethical considerations, and the potential impact of these applications on society, as well as potential policy and regulatory approaches to address challenges and concerns.
+9. Output: 
+Navigating the Convergence: Ethical and Societal Implications of AI Integration
+
+###
+10. Instruction: Summarize in one sentence the provided text.
+10. Input: 
+Hummingbirds are small birds native to the Americas, known for their rapid wing flapping, fast flying speeds, and exceptional agility while hovering. Many species of hummingbirds have brightly colored plumage and distinct iridescence, making them visually striking and easy to identify.
+10. Output: 
+Hummingbirds are vibrant, fast-flying birds native to the Americas, renowned for their impressive agility and rapid wing beats.
+
+###
+11. Instruction: Recommend three book titles for someone who is interested in learning about psychology.
+11. Input: 
+<noinput>
+11. Output: 
+1. "Thinking, Fast and Slow" by Daniel Kahneman
+2. "Influence: The Psychology of Persuasion" by Robert Cialdini
+3. "The Man Who Mistook His Wife for a Hat" by Oliver Sacks
+
+###
+12. Instruction: Write an opening sentence for an email inquiring about a job opening.
+12. Input: 
+<noinput>
+12. Output: 
+I hope this email finds you well, as I am writing to express my interest in any job openings that may be available within your organization.
+
+###
+13. Instruction: Evaluate the strengths and weaknesses of electric cars.
+13. Input: 
+<noinput>
+13. Output: 
+Strengths:
+1. Environmentally friendly: Electric cars produce zero direct emissions, reducing pollution and greenhouse gases.
+2. Lower fuel costs: Electricity is generally cheaper than gasoline and diesel, leading to lower operational costs.
+3. Quieter operation: Electric cars are much quieter than their internal combustion counterparts, reducing noise pollution.
+
+Weaknesses:
+1. Limited driving range: Most electric vehicles have a shorter driving range than gasoline-powered vehicles and require frequent recharging.
+2. Charging infrastructure: Charging stations are often less available compared to gas stations, making long-distance travel more challenging.
+3. Battery degradation: Electric car batteries may degrade over time, resulting in reduced vehicle range and costly battery replacement.

@@ -1,0 +1,136 @@
+4. Instruction: Provide instructions on how to make French toast.
+4. Input:
+<noinput>
+4. Output:
+1. In a shallow bowl, whisk together 2 large eggs, 1/2 cup of milk, 1 teaspoon of vanilla extract, and 1/2 teaspoon of cinnamon. 
+2. Dip 4 slices of bread one at a time into the mixture, allowing each side to soak for a few seconds.
+3. Preheat a non-stick skillet or griddle over medium heat and grease lightly with butter.
+4. Cook the soaked bread slices for 2-3 minutes per side, or until golden brown.
+5. Serve French toast immediately, topped with maple syrup, powdered sugar, and/or fresh fruit as desired.
+
+5. Instruction: Compose a thank you letter to your colleague who helped you with a project.
+5. Input:
+<noinput>
+5. Output:
+Dear [Colleague's Name],
+
+I wanted to take a moment to express my sincere gratitude for your invaluable assistance during the recent project. Your dedication, hard work, and expertise significantly contributed to its success, making it a more enjoyable and cohesive experience for everyone involved.
+
+Your ability to efficiently analyze challenges and provide effective solutions truly made a difference in the project's outcome. You consistently went out of your way to help, and I deeply appreciate your support and encouragement.
+
+Thank you once again for your time, effort, and positive attitude. I feel fortunate to work alongside such a dedicated and talented individual as yourself. I look forward to collaborating with you in the future.
+
+Warm regards,
+
+[Your Name]
+
+6. Instruction: Summarize the following text in one sentence.
+6. Input:
+Harvard University is a private Ivy League research university in Cambridge, Massachusetts. Established in 1636, it is the oldest institution of higher education in the United States and one of the most prestigious in the world.
+6. Output:
+Harvard University, a prestigious Ivy League research university located in Cambridge, Massachusetts, founded in 1636, is the oldest institution of higher learning in the United States.
+
+7. Instruction: Translate the following text to French.
+7. Input:
+Weather forecast for tomorrow: mostly sunny with a high of 22°C and a low of 14°C.
+7. Output:
+Prévision météo pour demain: ensoleillé avec des passages nuageux, maximale de 22°C et minimale de 14°C.
+
+8. Instruction: List five outdoor activities to do on a sunny day.
+8. Input:
+<noinput>
+8. Output:
+1. Hiking
+2. Picnicking
+3. Riding bicycles
+4. Playing beach volleyball
+5. Kayaking
+
+9. Instruction: Propose a marketing slogan for a new line of eco-friendly shoes.
+9. Input:
+<noinput>
+9. Output:
+Step into a greener future with every stride – EcoStride Shoes.
+
+10. Instruction: Analyze the provided text and identify three main themes.
+10. Input:
+In "The Great Gatsby," F. Scott Fitzgerald explores the themes of the American Dream, social class, and love through the story of Jay Gatsby, a mysterious and wealthy man who is in love with the beautiful and married Daisy Buchanan.
+10. Output:
+1. The American Dream
+2. Social class
+3. Love
+
+11. Instruction: Recommend three science fiction books for someone who loves space and technology.
+11. Input:
+<noinput>
+11. Output:
+1. "Neuromancer" by William Gibson
+2. "Dune" by Frank Herbert
+3. "Snow Crash" by Neal Stephenson
+
+12. Instruction: Identify the main character, setting, and conflict in the provided text.
+12. Input:
+The story revolves around Winston Smith, who lives in a dystopian society governed by a totalitarian government known as "The Party" in the city of London. Winston struggles with the oppressive regime and seeks rebellion against the Party's manipulation and control.
+12. Output:
+Main Character: Winston Smith
+Setting: London in a dystopian society
+Conflict: Winston's struggle against the totalitarian government and its manipulation
+
+13. Instruction: Convert the provided Celsius temperature to Fahrenheit.
+13. Input:
+25°C
+13. Output:
+77°F
+
+14. Instruction: Explain how solar panels work.
+14. Input:
+<noinput>
+14. Output:
+Solar panels work by converting sunlight into electricity through a process called the photovoltaic effect. They are made up of solar cells, which contain a semiconductor material such as silicon. When sunlight hits the solar cells, it knocks electrons loose from the atoms within the semiconductor. This movement of electrons creates an electric current, which is then captured and can be used as electricity to power homes, businesses, and other applications.
+
+15. Instruction: Write a haiku about nature.
+15. Input:
+<noinput>
+15. Output:
+Whispering tree leaves,
+River's song echoes through hills,
+Nature's symphony.
+
+16. Instruction: Identify the main reason behind the conflict in the text.
+16. Input:
+In "Romeo and Juliet," the two young lovers from feuding families, the Montagues and Capulets, struggle to maintain their love amidst the ongoing hostilities between their relatives.
+16. Output:
+The main reason behind the conflict in "Romeo and Juliet" is the longstanding feud between the Montague and Capulet families.
+
+17. Instruction: Provide a simple recipe for making pasta with tomato sauce.
+17. Input:
+<noinput>
+17. Output:
+1. Bring a large pot of salted water to a boil and cook your choice of pasta according to the package instructions until al dente.
+2. While the pasta cooks, heat 2 tablespoons of olive oil in a large skillet over medium heat. Add 2 crushed garlic cloves, and cook until fragrant, about 1 minute. Stir in 1 can (28 ounces) of crushed tomatoes, 1 teaspoon of salt, and 1/2 teaspoon of black pepper.
+3. Simmer the tomato sauce for about 10 minutes, allowing the flavors to meld together. Optionally, add dried or fresh basil and oregano to taste.
+4. Drain the cooked pasta and toss with the tomato sauce. Top with grated Parmesan cheese and fresh basil leaves, if desired. Serve immediately.
+
+18. Instruction: Name the seven continents of the world.
+18. Input:
+<noinput>
+18. Output:
+1. Africa
+2. Antarctica
+3. Asia
+4. Europe
+5. North America
+6. Oceania (Australia)
+7. South America
+
+19. Instruction: Write a paragraph about the impact of climate change on polar bears.
+19. Input:
+<noinput>
+19. Output:
+Climate change is posing a major threat to polar bears by directly affecting their icy habitat. As the Arctic warms and sea ice melts, polar bears struggle to find sufficient food due to diminishing hunting grounds. The reduction of sea ice means that these apex predators have to swim longer distances to find seals or scavenge for other food sources, which in turn puts immense stress on their energy reserves. Malnutrition and even starvation are potential outcomes, resulting in reduced reproduction rates and overall population decline. Furthermore, shrinking ice habitats force polar bears into closer proximity with humans, leading to increased conflict and safety concerns for both species.
+
+20. Instruction: Rewrite the following sentence in passive voice.
+20. Input:
+The storm damaged several houses.
+20. Output:
+Several houses were damaged by the storm.

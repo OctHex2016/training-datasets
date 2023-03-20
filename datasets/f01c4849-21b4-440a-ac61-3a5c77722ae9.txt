@@ -1,0 +1,92 @@
+4. Instruction: Compose a haiku that reflects the serenity of nature.
+4. Input: 
+<noinput>
+4. Output: 
+Whispers in the breeze,
+Majestic mountains stand tall,
+Stillness everywhere.
+###
+5. Instruction: Propose a weekly study schedule to prepare for an upcoming math exam in 1 month.
+5. Input: 
+<noinput>
+5. Output: 
+Monday: 1-hour review of algebra basics
+Tuesday: 1-hour review of geometry, practice problems
+Wednesday: 1-hour review of trigonometry, practice problems
+Thursday: 1-hour review of calculus fundamentals, practice problems
+Friday: 1-hour review and practice of statistics, probability concepts
+Saturday: 2-hour in-depth practice session on all topics
+Sunday: Rest and mental recharge
+Repeat weekly, adjusting as needed based on progress.
+###
+6. Instruction: Paraphrase the following sentence without changing its meaning.
+6. Input: 
+She was too tired to continue her long journey, so she decided to rest for a while.
+6. Output: 
+Being too exhausted to keep going on her extended voyage, she opted to take a break for some time.
+###
+7. Instruction: Describe in a concise manner how photosynthesis works in plants.
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is the process where plants convert sunlight into energy using chlorophyll, which absorbs the sunlight, water, and carbon dioxide. It occurs in the chloroplasts within plant cells. Through a series of chemical reactions, light energy is converted into chemical energy, which is stored as glucose, while oxygen is released as a byproduct.
+###
+8. Instruction: What is the 3, 8, and 13th capitals of the United States, given a list of capitals?
+8. Input: 
+Austin, Santa Fe, Indianapolis, Atlanta, Topeka, Denver, Cheyenne, Honolulu, Columbia, Springfield, Nashville, Little Rock, Des Moines
+8. Output: 
+Indianapolis, Honolulu, Des Moines
+###
+9. Instruction: Given a mathematical equation, identify if it represents a quadratic function or not. If yes, provide the value of "a".
+9. Input: 
+y = 2x^2 + 4x + 5
+9. Output: 
+Quadratic function, a = 2
+###
+10. Instruction: Critique the following speech opening in a polite manner and suggest improvements.
+10. Input: 
+Uh, like, hello everyone. Um, so today, I'm gonna be, like, talking to you about, like, climate change.
+10. Output: 
+The speech opening could be more engaging and confident. It would be helpful to reduce the use of filler words like "uh," "um," and "like." A suggestion could be: "Hello everyone, today we will be discussing the pressing issue of climate change and its impacts on our world."
+###
+11. Instruction: Explain in simple terms the concept of inflation targeting.
+11. Input: 
+<noinput>
+11. Output: 
+Inflation targeting is an economic policy where a central bank aims to maintain a specific inflation rate, usually around 2%. This helps to stabilize the economy and keep prices from rising too quickly, maintaining purchasing power for consumers. Central banks use tools like interest rate adjustments to control the inflation rate.
+###
+12. Instruction: Proofread the following sentence and correct any grammatical or punctuation errors.
+12. Input: 
+Their studing three diferent languages, English, Spanish and Mandarin, to improve their comunications skill's.
+12. Output: 
+They're studying three different languages: English, Spanish, and Mandarin, to improve their communication skills.
+###
+13. Instruction: Generate a creative team name for a group of software developers.
+13. Input: 
+<noinput>
+13. Output: 
+Code Crusaders
+###
+14. Instruction: Imagine a planet that is habitable like Earth. Describe a hypothetical climate of such a planet.
+14. Input: 
+<noinput>
+14. Output: 
+On this hypothetical planet, named TerraViva, the climate consists of four well-defined seasons: a warm and sunny spring, a hot summer with occasional thunderstorms, an autumn with mild temperatures and changing foliage colors, and a snowy, cold winter. Each season provides different levels of precipitation and temperature fluctuations, offering a dynamic and diverse climate that supports a wide variety of flora and fauna.
+###
+15. Instruction: Rewrite the following list of items using semicolons to break them up.
+15. Input: 
+Cheddar cheese, milk, eggs, strawberries, bananas, bread, pasta, tomatoes, lettuce, onions, ground beef
+15. Output: 
+Cheddar cheese; milk; eggs; strawberries; bananas; bread; pasta; tomatoes; lettuce; onions; ground beef
+###
+16. Instruction: Which of the following countries does NOT have a monarchy? List the answer.
+16. Input: 
+United Kingdom, Spain, Thailand, Italy
+16. Output: 
+Italy
+###
+17. Instruction: Define the term "ontological argument" and provide a brief summary of its logic.
+17. Input: 
+<noinput>
+17. Output: 
+The "ontological argument" is a philosophical argument for the existence of God that relies on reasoning rather than observation. It posits that the concept of God, as the greatest conceivable being, must necessarily exist. If a being exists only in our minds, it could potentially be greater if it existed in reality as well. Therefore, God must exist in reality, because if not, He would not be the greatest conceivable being.

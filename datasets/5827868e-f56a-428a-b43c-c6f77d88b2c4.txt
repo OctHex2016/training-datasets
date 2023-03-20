@@ -1,0 +1,143 @@
+4. Instruction: Summarize the given text in 2-3 sentences.
+4. Input: 
+The Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. The original model became more popular than anticipated, selling beyond its target market for uses such as robotics. It does not include peripherals or cases. However, some accessories have been included in several official and unofficial bundles.
+
+4. Output: 
+The Raspberry Pi is a single-board computer series created by the Raspberry Pi Foundation in the UK to encourage teaching computer science in schools and developing countries. The original model exceeded expectations, becoming popular in robotics and extending beyond its target audience.
+
+5. Instruction: Recommend a dosage for the medication based on the patient's weight.
+5. Input: 
+Medication: Amoxicillin
+Patient's weight: 45 kg
+5. Output: 
+For a 45 kg patient, the recommended dosage of Amoxicillin is 675 mg, taken three times a day.
+
+6. Instruction: Correct any grammatical errors in the passage.
+6. Input: 
+She going to the market but she forgot to took her wallet at home. Also, she don't have time to walking around.
+6. Output: 
+She was going to the market, but she forgot to take her wallet from home. Also, she doesn't have time to walk around.
+
+7. Instruction: Briefly explain how photosynthesis works.
+7. Input: <noinput>
+7. Output: 
+Photosynthesis is a process used by plants, algae, and some bacteria to convert sunlight, carbon dioxide, and water into glucose and oxygen. It occurs primarily in the chloroplasts and involves the harvesting of solar energy through pigments like chlorophyll. The energy is then used to convert CO2 and water into glucose and oxygen, providing energy and growth for the organism.
+
+8. Instruction: Assess the risks and benefits of the proposed project.
+8. Input: 
+The proposed project involves implementing a new inventory management system that uses artificial intelligence to predict demand fluctuations and optimize stock levels.
+8. Output: 
+Risks: High initial investment costs, potential over-reliance on AI predictions, employee resistance to change, and possible disruptions during the transition period.
+Benefits: Improved inventory management efficiency, reduced stockouts and overstock, cost savings from optimized stock levels, better preparedness for demand fluctuations, and opportunities for employees to focus on higher-value tasks.
+
+9. Instruction: Write a letter requesting a copy of an academic transcript.
+9. Input: 
+Sender's Name: John Doe
+Sender's Student ID: 12345
+University: ABC University
+9. Output: 
+Subject: Request for Academic Transcript
+
+Dear ABC University Registrar's Office,
+
+I am writing to request a copy of my academic transcript. My name is John Doe, and my student ID is 12345. I attended ABC University from 2015 to 2019 and completed my Bachelor's degree in Computer Science.
+
+Please let me know if there are any fees associated with this request or if you require any additional information to process my request. You may reach me at <email_address> or <phone_number>.
+
+Thank you for your assistance and prompt attention to this matter.
+
+Sincerely,
+
+John Doe
+
+10. Instruction: Analyze the graph and provide a brief conclusion.
+10. Input: 
+The graph shows the yearly sales of a company from 2010 to 2020. Over this period, sales consistently increased, reaching a peak in 2017, then dipped in 2018, and finally began to recover in 2019 and 2020.
+10. Output: 
+The graph indicates a generally positive trend in the company's sales from 2010 to 2020, with a significant increase up to 2017. Despite a temporary setback in 2018, the company is on a recovering trajectory, suggesting effective growth strategies and a potentially strong future performance.11. Instruction: Translate the following English sentence to Spanish.
+11. Input: 
+I will meet you at the coffee shop tomorrow at noon.
+11. Output: 
+Te encontraré en la cafetería mañana al mediodía.
+
+12. Instruction: Identify whether the statement is a fact, opinion, or hypothesis.
+12. Input: 
+Drinking at least eight glasses of water a day is essential for maintaining good health.
+12. Output: 
+Opinion
+
+13. Instruction: Rearrange the following words to form a meaningful sentence.
+13. Input: 
+helped she the dog injured street on the
+13. Output: 
+She helped the injured dog on the street.
+
+14. Instruction: Explain the concept of opportunity cost.
+14. Input: <noinput>
+14. Output: 
+Opportunity cost is an economic concept that represents the potential benefits an individual or business misses out on when choosing one alternative over another. It refers to the value of the next best option that could have been chosen but was not, due to a decision made. This concept helps evaluate trade-offs and make more informed choices, considering not just the direct costs, but also the potential lost benefits.
+
+15. Instruction: Convert the given measurements to the metric system.
+15. Input: 
+6 feet 2 inches tall
+Weight: 180 pounds
+15. Output: 
+Height: 188 centimeters
+Weight: 81.6 kilograms
+
+16. Instruction: Identify the errors in the given code and correct them.
+16. Input: 
+def calculate_area(r):
+    if r>0:
+        are = 3.14 * r**2
+    else
+        print("Invalid radius")
+    return area
+
+area_1 = calculate_area(-3)
+print(are_1)
+16. Output: 
+def calculate_area(r):
+    if r > 0:
+        area = 3.14 * r ** 2
+    else:
+        print("Invalid radius")
+        return None
+    return area
+
+area_1 = calculate_area(-3)
+print(area_1)
+
+17. Instruction: Write a short paragraph endorsing a product.
+17. Input: 
+Product: XYZ high-quality noise-cancelling headphones
+17. Output: 
+I highly recommend the XYZ high-quality noise-cancelling headphones for anyone who values exceptional sound quality and a distraction-free listening experience. Their advanced technology not only reduces ambient noise but also provides crystal-clear audio, making them perfect for music enthusiasts, travelers, or professionals working in noisy environments. With their ergonomic design and impressive battery life, these headphones are worth every penny – a must-have for those seeking to immerse themselves in their favorite tunes or podcasts.
+
+18. Instruction: Give advice on how to cope with stress.
+18. Input: <noinput>
+18. Output: 
+To cope with stress, try these strategies: 1) Practice deep breathing or meditation to calm your mind and relax your body, 2) Exercise regularly to release endorphins and improve your mood, 3) Prioritize your tasks and break them into manageable steps, 4) Take breaks and practice self-care, 5) Talk to family, friends, or a professional about your feelings, and 6) Maintain a healthy diet and get enough sleep to support your well-being.
+
+19. Instruction: Design a simple workout routine to stay fit.
+19. Input: <noinput>
+19. Output: 
+A simple workout routine to stay fit could include:
+1. Warm-up: 5 minutes of walking, jogging, or dynamic stretching
+2. Cardio: 20 minutes of running, cycling, or swimming at a moderate pace
+3. Strength Training: 20 minutes consisting of bodyweight exercises such as push-ups, squats, lunges, and planks. (3 sets x 10-15 repetitions)
+4. Flexibility & Balance: 10 minutes of yoga or pilates, incorporating stretches and balancing exercises
+5. Cool-down: 5 minutes of walking or static stretching
+
+20. Instruction: Describe the best way to plant and care for roses.
+20. Input: <noinput>
+20. Output: 
+To plant and care for roses effectively, follow these steps:
+1. Choose a location that gets at least six hours of sunlight daily and provides well-draining soil.
+2. Plant in early spring or fall, digging a hole wide and deep enough to accommodate the roots; mix compost or organic matter into the soil.
+3. Use bare-root or potted roses, and lightly trim roots or prune before planting.
+4. Water deeply and regularly, ensuring consistent soil moisture without overwatering. 
+5. Fertilize with a slow-release fertilizer specially designed for roses, applied according to the label instructions.
+6. Prune annually during dormancy to remove dead or weak canes and promote healthy growth.
+7. Apply mulch to help retain moisture and regulate soil temperature.
+8. Monitor for pests and diseases, and treat them promptly to maintain plant health.

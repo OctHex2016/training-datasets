@@ -1,0 +1,113 @@
+4. Instruction: Explain the given superstition as if you were discussing it with a child. 
+4. Input: 
+Walking under a ladder is bad luck.
+4. Output: 
+Sometimes, people believe that if you walk under a ladder, you might have bad luck. It's just an old idea that some people like to follow, but don't worry, it's not really true. You don't need to be afraid of walking under ladders.
+
+5. Instruction: Rewrite the following sentence using a more formal tone.
+5. Input: 
+Hey, I gotta run and catch the bus! I'll see ya later.
+5. Output: 
+Excuse me, I must depart to catch the bus. I will see you later.
+
+6. Instruction: Create a haiku related to artificial intelligence.
+6. Input: 
+<noinput>
+6. Output: 
+Silent circuits hum
+Thoughts emerging from the code
+Mind awakes, evolved
+
+7. Instruction: List three advantages and three disadvantages of living in a big city.
+7. Input: 
+<noinput>
+7. Output: 
+Advantages:
+1. More job opportunities
+2. Access to cultural and entertainment venues
+3. Efficient public transportation
+
+Disadvantages:
+1. Higher cost of living
+2. Pollution and noise
+3. Overcrowding
+
+8. Instruction: Summarize the main idea of the provided text in one sentence.
+8. Input: 
+The environmental consequences of plastic pollution are causing significant damages to our oceans, affecting marine life, and posing threats to human health. Billions of pounds of plastic waste are accumulating in our oceans each year, which over time, break down into microplastics that are ingested by marine animals and consumed by humans through seafood.
+8. Output: 
+Plastic pollution is causing severe harm to our oceans, marine life, and human health due to the accumulation of waste and the resultant microplastics in the food chain.
+
+9. Instruction: Write an 8-word sentence using the given words.
+9. Input: 
+zebras, Africa, diverse, ecosystems, grasslands, riverbanks, roam, inhabit
+9. Output: 
+Zebras inhabit diverse African ecosystems, roaming grasslands and riverbanks.
+
+10. Instruction: Which word best fits the sentence? Select from the given options.
+10. Input: 
+Many people use their smartphones to __(1)__ access information online, communicate with friends and family, or stay informed about local and global events. 
+(1) contemporarily, instantaneously, increasingly, subsequently
+10. Output: 
+instantaneously
+
+11. Instruction: Given the abbreviation, provide the full form.
+11. Input: 
+NASA
+11. Output: 
+National Aeronautics and Space Administration
+
+12. Instruction: Write a short paragraph of 50 words or fewer using the given words.
+12. Input: 
+autumn, leaves, sunset, crisp, sweater, park, aroma, pumpkin, breath, memory
+12. Output: 
+As autumn leaves fell in the park during a beautiful sunset, the crisp air required a cozy sweater. The aroma of pumpkin filled the air, creating memories with each breath taken, leaving an everlasting imprint in our hearts.
+
+13. Instruction: Find the errors in the following sentence and correct them.
+13. Input: 
+Me and John has went to the store yesterday.
+13. Output: 
+John and I went to the store yesterday.
+
+14. Instruction: Which historical figure is known for the following quote? Provide their name and title.
+14. Input: 
+"I have nothing to offer but blood, toil, tears, and sweat."
+14. Output: 
+Winston Churchill, British Prime Minister
+
+15. Instruction: Write the given sentence in passive voice.
+15. Input: 
+The cat chased the mouse across the room.
+15. Output: 
+The mouse was chased by the cat across the room.
+
+16. Instruction: Classify the following text as either factual, opinion, or fiction.
+16. Input: 
+The Earth revolves around the Sun, completing one orbit approximately every 365.25 days.
+16. Output: 
+factual
+
+17. Instruction: Choose the best prepositional phrase to complete the sentence.
+17. Input: 
+I left my keys __(1)__ the table.
+(1) in, to, about, on
+17. Output: 
+on
+
+18. Instruction: Write a short movie pitch based on the provided conflict.
+18. Input: 
+A time-traveling scientist accidentally changes the course of her own life.
+18. Output: 
+Quantum Reversal follows a brilliant time-traveling scientist who, while attempting to correct a historical injustice, inadvertently alters her own personal history. Now, she must navigate the altered timeline and race against time to fix the damage before her world crumbles apart.
+
+19. Instruction: Which country does the given landmark belong to? Provide the name of the country.
+19. Input: 
+The Great Barrier Reef
+19. Output: 
+Australia
+
+20. Instruction: Convert the currency amount in the given sentence from US dollars to euros, using the specified conversion rate.
+20. Input: 
+The ticket costs 120 USD. The conversion rate is 1 USD = 0.85 EUR.
+20. Output: 
+The ticket costs 102 EUR.

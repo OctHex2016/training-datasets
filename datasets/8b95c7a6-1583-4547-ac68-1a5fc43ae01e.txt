@@ -1,0 +1,125 @@
+4. Instruction: Transform the given sentence from passive voice to active voice.
+4. Input: 
+The cake was eaten by her.
+4. Output: 
+She ate the cake.
+###
+5. Instruction: Choose the proverb or idiom that best illustrates the given situation.
+5. Input: 
+After years of hard work, Sara's business began to thrive.
+5. Output: 
+Slow and steady wins the race.
+###
+6. Instruction: Identify the logical fallacy in the given argument.
+6. Input: 
+Everyone I know loves ice cream, so it must be the best food in the world.
+6. Output: 
+This argument contains the fallacy of hasty generalization.
+###
+7. Instruction: Translate the given sentence into French.
+7. Input: 
+Nice to meet you!
+7. Output: 
+Ravi de vous rencontrer!
+###
+8. Instruction: Summarize the given news article in two lines.
+8. Input: 
+Apple has just announced the release of its latest iPad Pro, which comes with several groundbreaking features, including a new M1 chip that significantly improves performance. The new iPad Pro also includes a stunning 12.9-inch Liquid Retina XDR display, a USB-C port, and it supports Thunderbolt 4. Set to hit the market in May, the state-of-the-art device is attracting a lot of attention from tech enthusiasts and professionals alike.
+8. Output: 
+Apple announces the latest iPad Pro featuring a powerful M1 chip and a 12.9-inch Liquid Retina XDR display. The new device, releasing in May, supports Thunderbolt 4 and attracts widespread attention.
+###
+9. Instruction: Write a limerick using the given name and location.
+9. Input: 
+Billy, Glasgow
+9. Output: 
+There once was a man named Billy
+From Glasgow, a place rather chilly
+He danced with a grin
+And spun with a spin
+But slipped on some ice, oh how silly!
+ ###
+10. Instruction: Fact-check the given statement and provide a source.
+10. Input:
+Berlin is the capital of Denmark.
+10. Output: 
+Incorrect. Berlin is the capital of Germany. Source: Encyclopædia Britannica - https://www.britannica.com/place/Berlin
+###
+11. Instruction: Identify the given painting's artist and provide a brief description.
+11. Input: 
+The Persistence of Memory
+11. Output: 
+Artist: Salvador Dalí
+Description: The painting features melting clocks draped over various objects in a dreamlike and barren landscape, showcasing the concept of fluidity and the distortion of time.
+###
+12. Instruction: Convert the given Celsius temperature to Fahrenheit.
+12. Input: 
+25°C
+12. Output: 
+77°F
+###
+13. Instruction: List the chronological order of events from the given input.
+13. Input: 
+Sue got a job, then she moved to a new city, and finally she graduated from college.
+13. Output:
+1. Sue graduated from college
+2. Sue got a job
+3. Sue moved to a new city
+###
+14. Instruction: Identify the main emotion expressed in the given song lyric.
+14. Input: 
+"Hello from the other side, I must've called a thousand times, to tell you I'm sorry for everything that I've done."
+14. Output: 
+Regret
+ ###
+15. Instruction: Give pros and cons for the suggested advice.
+15. Input: 
+Quit your job to start your own business.
+15. Output: 
+Pros:
+- Independence and control over your work
+- Unlimited earning potential
+- Personal and professional growth
+- Direct impact on your success
+
+Cons:
+- Financial risks and instability
+- Long hours and hard work
+- Potential loss of employee benefits
+- Greater responsibility
+###
+16. Instruction: Rewrite the given sentence without using any adjectives.
+16. Input: 
+She bought a beautiful, fashionable turquoise dress.
+16. Output: 
+She bought a dress.
+###
+17. Instruction: Identify the type of poetic meter of the given line.
+17. Input: 
+"Whose woods these are I think I know."
+17. Output: 
+Iambic tetrameter
+###
+18. Instruction: Provide an antonym for the given word.
+18. Input: 
+Gigantic
+18. Output: 
+Tiny
+###
+19. Instruction: Describe how to perform the given activity.
+19. Input: 
+Making a paper airplane
+19. Output: 
+1. Take an 8.5x11 inch piece of paper and fold it in half lengthwise.
+2. Unfold the paper and fold the two top corners inward to meet at the center crease.
+3. Fold the top edge down to meet the bottom of the folded corners.
+4. Fold the outer corners back inward to meet at the center crease again.
+5. Fold the width of the paper in half, tucking the folded corners into the newly created pouch.
+6. Fold the wings down on both sides, parallel to the bottom edge.
+7. Adjust the wings and tail for proper balance and alignment.
+8. Hold the airplane at the center and gently toss it to fly.
+###
+20. Instruction: Explain the concept of the given term in simple language.
+20. Input: 
+Photosynthesis
+20. Output: 
+Photosynthesis is the process plants use to turn sunlight into food. They take sunlight, water, and carbon dioxide from the air, and using a green substance called chlorophyll, they produce oxygen and sugars that help the plant grow and survive.

@@ -1,0 +1,52 @@
+4. Instruction: Rewrite this sentence to have it in passive voice.
+4. Input: Jack kicked the ball.
+4. Output: The ball was kicked by Jack.
+
+5. Instruction: What does "don't count your chickens before they're hatched" mean?
+5. Input: 
+<noinput>
+5. Output: This saying means, don't make plans or assume something will happen before the result is final or before the event actually occurs.
+
+6. Instruction: Review the building's architecture described below in few lines.
+6. Input: A modern skyscraper with sharp vertical lines rising towards the sky, glass and steel facade creating a mesmerizing interplay of light and reflections, and an elevated garden at the top for relaxation and social gatherings.
+6. Output: The described architectural design is impressive, featuring a modern skyscraper with sharp vertical lines that command attention. The glass and steel facade adds visual interest and creates a captivating interplay of light and reflections. The elevated garden at the top provides a lush and inviting space for relaxation and social interaction, setting this building apart from its peers.
+
+7. Instruction: Summarize the main argument in the following text.
+7. Input: The problem originates from the fact that animals are seen as mere beings without actual emotions, feelings, or desires. Due to this, they are undervalued, used by humans as resources to extract goods or dispose of waste, and are subjected to terrible treatment. It is, in fact, a moral failure of the human species to recognize the sentience of animals and, therefore, creates a need to reexamine our relationship with the Animal Kingdom.
+7. Output: The main argument is that animals are often seen as valueless beings, resulting in their mistreatment and exploitation by humans. This is due in part to a lack of recognition of animal sentience, and it highlights the need for a reevaluation of our relationship with the Animal Kingdom.
+
+8. Instruction: Translate the following sentence to Spanish.
+8. Input: My favorite ice cream flavor is chocolate.
+8. Output: Mi sabor de helado favorito es el chocolate.
+
+9. Instruction: Can you tell me a sentence that includes metaphor?
+9. Input: 
+<noinput>
+9. Output: The world is a stage, and we are merely players.
+
+10. Instruction: Explain the possible reason Edwin Hubble was chosen to direct the National observatory in the following context.
+10. Input: Edwin Hubble, a prominent American astronomer, made groundbreaking discoveries like the expanding universe that revolutionized our understanding of the cosmos. Later, he was chosen to direct the National Observatory.
+10. Output: Edwin Hubble was likely chosen to direct the National Observatory due to his prominence and groundbreaking discoveries in the field of astronomy, particularly his work on the expanding universe, which significantly advanced our understanding of the cosmos.
+
+11. Instruction: Identify and correct the punctuation errors in the sentence provided. 
+11. Input: I went to the store this morning, I bought apples, bananas, and peaches but I forgot to buy milk
+11. Output: I went to the store this morning; I bought apples, bananas, and peaches, but I forgot to buy milk.
+
+12. Instruction: Based on this short story, describe the main character's backstory. 
+12. Input: John had spent his whole life in the quiet countryside town, working as a farmer alongside his father. A sudden windfall allowed him to start a new life in the city, far from the fields and the small-town gossip.
+12. Output: The main character, John, grew up in a quiet countryside town and worked as a farmer alongside his father. A sudden windfall gave him the opportunity to leave his rural life behind and start anew in the city.
+
+13. Instruction: Provide a short analysis of the given haiku. 
+13. Input: A winter river,
+Silent moonlit scene,
+Only the echoes of snow.
+13. Output: This haiku captures the quiet beauty of a winter landscape, with a focus on the stillness of the river and the moonlit snow. The poet highlights the serenity of the scene, using the imagery of the river and snow to evoke a sense of tranquility and peacefulness, while the phrase "only the echoes of snow" suggests the silence or emptiness in this winter environment.
+
+14. Instruction: Explain how greenhouse gases affect global warming. 
+14. Input: 
+<noinput>
+14. Output: Greenhouse gases, such as carbon dioxide and methane, trap heat in the Earth's atmosphere by absorbing infrared radiation emitted from the planet’s surface. As their concentration in the atmosphere increases, more heat is trapped, resulting in a gradual increase in global average temperatures. This leads to global warming, causing climate changes and extreme weather events.
+
+15. Instruction: Based on the following question, imagine what a suitable answer might be
+15. Input: How did you learn to cook Indian food so well?
+15. Output: I spent time learning from my Indian friends who were passionate about cooking, and I also took a few cooking classes that specialized in Indian cuisine. Additionally, I practiced at home, trying out various recipes and experimenting with different spices to find the perfect balance of flavors.

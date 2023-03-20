@@ -1,0 +1,109 @@
+4. Instruction: Rewrite the passage in passive voice. 
+4. Input: 
+The cat caught the mouse, and the dog chased the cat in the garden.
+4. Output: 
+The mouse was caught by the cat, and the cat was chased by the dog in the garden.
+###
+5. Instruction: Which animal represents each Chinese zodiac sign? Provide a list of the 12 animals.
+5. Input: 
+<noinput>
+5. Output: 
+Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig
+###
+6. Instruction: What potential careers are related to a degree in Urban Planning & Design? List at least five occupations.
+6. Input: 
+<noinput>
+6. Output: 
+Urban Planner, Transportation Planner, Land Use Planner, Community Development Specialist, Environmental Planner
+###
+7. Instruction: Identify the poetic devices used in the provided poem. 
+7. Input: 
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+7. Output: 
+Metaphor, Symbolism
+###
+8. Instruction: Summarize the main points of the given paragraph.
+8. Input: 
+The Cape of Good Hope, commonly known as the Cape Peninsula, is a rocky headland located on the southernmost tip of Africa. The region is famous for its scenic beauty and biodiversity, which includes many unique plant species. The Table Mountain National Park covers much of the Cape Peninsula, and the area is also home to the iconic Table Mountain. The peninsula is a popular tourist destination, not only for its breathtaking landscapes but also for the presence of several important historical sites, including Robben Island.
+8. Output: 
+The Cape of Good Hope is the southernmost tip of Africa, known for its scenic beauty, biodiversity, and unique plant species. It is part of Table Mountain National Park and is a popular tourist destination for landscapes, historical sites like Robben Island.
+###
+9. Instruction: Detect any grammatical errors in the following text and correct them.
+9. Input: 
+They was very excited to see their family after so many years. Before they arrives, they sent emails making sure everything was prepared for their visit.
+9. Output: 
+They were very excited to see their family after so many years. Before they arrived, they sent emails making sure everything was prepared for their visit.
+###
+10. Instruction: Translate the following sentence to German.
+10. Input: 
+She loves to swim in the ocean during the summer months.
+10. Output: 
+Sie liebt es, in den Sommermonaten im Meer zu schwimmen.
+###
+11. Instruction: Identify the type of logical fallacy used in the following statement.
+11. Input: 
+If we allow people to keep dogs as pets, eventually everyone will have a wild animal in their home.
+11. Output: 
+Slippery slope
+###
+12. Instruction: Calculate the compound interest for a $10,000 investment with an annual interest rate of 5% compounded monthly for 2 years.
+12. Input: 
+<noinput>
+12. Output: 
+$1104.94
+###
+13. Instruction: Paraphrase the given statement.
+13. Input: 
+Creativity is the highest form of intelligence because it goes beyond knowledge recall and extends into the realm of innovation and invention.
+13. Output: 
+The most advanced form of intelligence is creativity, as it surpasses simple memory retrieval and delves into the world of innovation and originality.
+###
+14. Instruction: I'm going on a hike in a remote area. What essential items should I pack? List at least 6 items.
+14. Input: 
+<noinput>
+14. Output: 
+Water, snacks, map, compass, first-aid kit, flashlight
+###
+15. Instruction: Write the lyrics for the first verse of a romantic love song.
+15. Input: 
+<noinput>
+15. Output: 
+Under the moonlit sky so bright,
+I fell for you at first sight,
+Holding hands, we strolled through the night,
+In a world of love, hearts unite.
+###
+16. Instruction: Create a rhyming couplet describing a summer's day.
+16. Input: 
+<noinput>
+16. Output: 
+The warm sun shines and children play,
+A perfect picture of a summer's day.
+###
+17. Instruction: Deduce the type of company by analyzing its mission statement.
+17. Input: 
+"Our mission is to change the way people discover, buy, and enjoy music by providing an unparalleled, immersive, and personalized audio experience."
+17. Output: 
+Audio streaming or music retail company
+###
+18. Instruction: Provide a list of renewable energy sources.
+18. Input: 
+<noinput>
+18. Output: 
+Solar, wind, hydro, geothermal, biomass
+###
+19. Instruction: Edit the following sentence to improve its clarity and conciseness.
+19. Input: 
+The purpose of the longstanding game of chess is that it excels at improving the player's problem-solving ability by stimulating the brain and challenging the intellect.
+19. Output: 
+Chess's purpose, a longstanding game, is to enhance problem-solving skills by stimulating the brain and challenging the intellect.
+###
+20. Instruction: What is the primary function of red blood cells in the human body?
+20. Input: 
+<noinput>
+20. Output: 
+The primary function of red blood cells is to transport oxygen from the lungs to the body's tissues and remove carbon dioxide, returning it to the lungs.

@@ -1,0 +1,174 @@
+4. Instruction: Summarize the given news article in one sentence.
+4. Input: 
+During a press conference yesterday, city officials announced an ambitious plan to reduce air pollution by 25% over the next five years by encouraging the use of public transportation, shifting the public transit fleet to electric vehicles, and implementing strict monitoring on industrial emissions.
+4. Output: 
+City officials aim to cut air pollution by 25% in five years through promoting public transportation, transitioning to electric public transit vehicles, and regulating industrial emissions.
+
+###
+
+5. Instruction: List three alternatives to the given suggestion.
+5. Input: 
+Going to the movies tonight.
+5. Output: 
+1. Staying home and watching a movie on a streaming platform.
+2. Attending a live performance or concert.
+3. Visiting an art exhibit or museum.
+
+###
+
+6. Instruction: Translate the phrase to Spanish.
+6. Input: 
+Good morning, have a nice day!
+6. Output: 
+¡Buenos días, que tengas un buen día!
+
+###
+
+7. Instruction: Provide a recipe for a traditional Italian pasta dish.
+7. Input: 
+<noinput>
+7. Output: 
+Recipe: Spaghetti alla Carbonara
+Ingredients:
+- 14 ounces spaghetti
+- 3 large eggs
+- 1 cup freshly grated Pecorino Romano cheese
+- 1/3 pound guanciale or pancetta, diced
+- Salt and black pepper to taste
+
+Instructions:
+1. Cook the spaghetti in boiling, salted water until al dente. Reserve 1/2 cup pasta water and then drain the spaghetti.
+2. In a bowl, whisk together the eggs, cheese, salt, and pepper.
+3. In a large pan, cook the guanciale or pancetta over medium heat until crispy. Remove from heat and let it cool slightly.
+4. Add the spaghetti to the pan with the cooked guanciale or pancetta, tossing to coat the pasta.
+5. Pour the egg mixture into the pan, stirring quickly to create a creamy sauce using the pasta water, if needed, to thin it.
+6. Serve immediately with extra cheese and black pepper on top.
+
+###
+
+8. Instruction: Proofread and correct the spelling and grammar errors in the given text.
+8. Input:
+The quicky brown box jumped over the leazy dog.;
+8. Output: 
+The quick brown fox jumped over the lazy dog.
+
+###
+
+9. Instruction: Suggest a creative title for a novel about time travel.
+9. Input: 
+<noinput>
+9. Output: 
+"Temporal Tides: Ripples Through Eternity"
+
+###
+
+10. Instruction: Write a condolence message for the loss of a loved one.
+10. Input: 
+<noinput>
+10. Output: 
+My deepest sympathies go out to you and your family during this difficult time. I am truly sorry for your loss, and my thoughts and prayers are with you. May you find comfort and solace in the loving memories you shared together.
+
+###
+
+11. Instruction: Identify the literary device used in the given statement.
+11. Input: 
+Time is a thief that steals our days.
+11. Output: 
+Personification
+
+###
+
+12. Instruction: Provide a brief explanation of the greenhouse effect.
+12. Input: 
+<noinput>
+12. Output: 
+The greenhouse effect is a natural process that occurs when greenhouse gases, such as carbon dioxide, methane, and water vapor, trap heat in the Earth's atmosphere. This trapped heat warms the planet and maintains a habitable temperature, enabling life to thrive. However, human activities have increased the levels of greenhouse gases, intensifying the greenhouse effect, leading to global warming and climate change.
+
+###
+
+13. Instruction: List five benefits of exercise.
+13. Input: 
+<noinput>
+13. Output: 
+1. Improved cardiovascular health
+2. Strengthened muscles and bones
+3. Weight management and reduced obesity risk
+4. Enhanced mental health and reduced stress
+5. Increased energy levels and overall well-being
+
+###
+
+14. Instruction: Explain the difference between a simile and a metaphor.
+14. Input: 
+<noinput>
+14. Output: 
+A simile is a figure of speech that compares two unlike things using the words "like" or "as," while a metaphor is a figure of speech that makes a direct comparison between two unlike things by stating that one thing is another. Similes highlight similarities, while metaphors establish an identity or symbolic representation between the compared subjects.
+
+###
+
+15. Instruction: Choose the correct word to complete the sentence: "The bird ____ gracefully through the sky."
+15. Input: 
+- flew
+- fly
+- flight
+- flowing
+15. Output: 
+flew
+
+###
+
+16. Instruction: Write a short poem about nature's beauty.
+16. Input: 
+<noinput>
+16. Output: 
+Amidst the emerald leaves, whispers call,
+Serenading life's symphony, enthralling all,
+Colors dance, a prismatic waltz on display,
+Nature's canvas, a masterpiece each day.
+
+Ripples surface, as morning dew departs,
+Sunrise paints skies with its golden heart,
+Dusk approaches, fluorescence takes the stage,
+Nature's beauty, eternally preserved, a timeless mage.
+
+###
+
+17. Instruction: Based on the given text, determine the author's opinion on using smartphones during dinner.
+17. Input: 
+Smartphones help people stay connected with others, which is why we tend to use them frequently. However, using smartphones during dinner can hamper the quality of personal interaction and lead to feelings of isolation. Put down those devices when you're breaking bread, and focus on making connections with those around you instead.
+17. Output: 
+The author's opinion is that using smartphones during dinner negatively affects personal interactions, and people should refrain from using them during mealtime to improve connections.
+
+###
+
+18. Instruction: Write a conversation between two friends talking about their plans for the weekend.
+18. Input: 
+<noinput>
+18. Output: 
+Mark: Hey Sarah, what are your plans for the weekend?
+
+Sarah: Hi Mark! I'm thinking about taking a yoga class on Saturday morning, and then maybe catching up on some reading. How about you?
+
+Mark: Sounds relaxing! I'm planning to go hiking with some friends on Saturday, and then we're going to have a BBQ at the park. Wanna join us?
+
+Sarah: That sounds like a lot of fun, I'd love to! Thanks for the invite. Looking forward to it!
+
+###
+
+19. Instruction: Explain the distinction between renewable and non-renewable energy sources.
+19. Input: 
+<noinput>
+19. Output: 
+Renewable energy sources are those that are replenished naturally and can be used indefinitely, such as solar, wind, and hydroelectric power. Non-renewable energy sources, on the other hand, are finite resources that cannot be replenished in a short timeframe, such as fossil fuels (coal, oil, and natural gas). Renewable energy is considered more sustainable and environmentally friendly, while non-renewable energy contributes to pollution and climate change.
+
+###
+
+20. Instruction: List the five main genres of film.
+20. Input: 
+<noinput>
+20. Output: 
+1. Drama
+2. Comedy
+3. Action/Adventure
+4. Science Fiction/Fantasy
+5. Horror

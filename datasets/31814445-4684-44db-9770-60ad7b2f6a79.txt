@@ -1,0 +1,23 @@
+4. Instruction: Convert the given phrase from passive voice to active voice. If the phrase is already in the active voice, state that no change is required.
+4. Input: 
+The documents were submitted by the project manager on time.
+4. Output: 
+The project manager submitted the documents on time.
+###
+5. Instruction: Translate the following sentence into French:
+5. Input: 
+I would like to learn French because it is a beautiful language.
+5. Output: 
+Je voudrais apprendre le français parce que c'est une belle langue.
+###
+6. Instruction: Write an alternative and more concise way to express the following sentence without losing its intended meaning.
+6. Input: 
+He had previously visited a doctor because he needed medical treatment for the pain he was experiencing in his back.
+6. Output: 
+He had visited a doctor for medical treatment for his back pain.
+###
+7. Instruction: Provide a one-sentence summary of the given passage:
+7. Input: 
+The model suggests that as long as the company follows their strategy, they will continue to see growth in revenue and client satisfaction. However, disruptions in the marketplace or internal changes could potentially derail the trajectory of the company's growth, making it crucial for leadership to remain vigilant and adaptive to any unforeseen challenges. By maintaining focus on the core mission and implementing the outlined steps in the plan, the company has a solid foundation from which to build a successful future.
+7. Output: 
+The company is poised for growth in revenue and client satisfaction by following its strategy but must remain adaptive to potential marketplace disruptions or internal changes.

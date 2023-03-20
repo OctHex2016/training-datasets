@@ -1,0 +1,122 @@
+4. Instruction: Rewrite the sentence as a limerick in the style of a poem.
+4. Input: 
+The quick brown fox jumped over the lazy dogs.
+4. Output: 
+There once was a fox full of speed,
+Quick and brown, it took quite a lead,
+Jumped over the pups,
+Those lazy, dozing hounds
+And continued its run in high spirits, indeed.
+
+###
+5. Instruction: Write a possible reason behind this memory error when playing a video game.
+5. Input: 
+"Failed to load character model."
+5. Output: 
+There may be a corrupt or missing file in the game installation, causing the error when the game tries to load the character model.
+
+###
+6. Instruction: How would you neutralize a negative comment?
+6. Input: 
+I don't understand why everyone loves this song, it sounds terrible.
+6. Output: 
+It's interesting to see different perspectives on music, as everyone has their own unique taste. What's a song that you really enjoy?
+
+###
+7. Instruction: Check the text for typos and correct them.
+7. Input: 
+I went to the supermaket and accientally bought grapperfruit instaad of oranges.
+7. Output: 
+I went to the supermarket and accidentally bought grapefruit instead of oranges.
+
+###
+8. Instruction: Come up with a trivia question related to the provided topic.
+8. Input: 
+90s sitcoms
+8. Output: 
+What is the name of the fictional coffee shop frequented by the characters on the TV show "Friends"?
+
+###
+9. Instruction: Identify the logical fallacy in the argument.
+9. Input: 
+If everyone believes the earth is flat, then the earth must be flat.
+9.Output: 
+Argumentum ad populum (Appeal to the majority)
+
+###
+10. Instruction: Summarize the article in one sentence.
+10. Input: 
+Plant-based diets have gained popularity in recent years, and many leading nutritionists and doctors are recommending this eating approach for its numerous health benefits, ranging from weight loss to improved heart health, lower cancer risk, and better blood sugar control.
+10. Output: 
+Plant-based diets, popularly endorsed by nutritionists and doctors, offer a wide range of health benefits, including weight loss, better heart health, reduced cancer risk, and improved blood sugar control.
+
+###
+11. Instruction: Create anagrams from the word provided.
+11. Input: 
+lights
+11. Output: 
+sight, gilts, glits, sligh
+
+###
+12. Instruction: Write a tongue-twister using the given word.
+12. Input: 
+sheep
+12. Output: 
+Silly shaggy sheep sheared short shop sighing silently, shedding sleek, shimmery sheep's shearlings.
+
+###
+13. Instruction: Respond to the inquiry as if you were a customer support representative.
+13. Input: 
+My package hasn't arrived yet, and it's been two weeks. Can you help me figure out what's going on?
+13. Output: 
+I'm sorry to hear that your package hasn't arrived yet. Please provide your order number and your full name, and I will check the status of your shipment and provide you with an update.
+
+###
+14. Instruction: Recommend a movie that falls under the given genre.
+14. Input: 
+Science fiction
+14. Output: 
+I would recommend the movie "Inception" directed by Christopher Nolan, a thrilling sci-fi film about dream manipulation and the human subconscious.
+
+###
+15. Instruction: Explain the meaning of the given idiom.
+15. Input: 
+The ball is in your court
+15. Output: 
+"The ball is in your court" is an idiom that means it is now your responsibility or decision to take the next action or step in a situation.
+
+###
+16. Instruction: Create a hypothetical law and its respective consequence.
+16. Input: 
+<noinput>
+16. Output: 
+Law: No vehicles shall exceed a speed of 25 mph in residential areas.
+Consequence: Anyone found violating this law will be fined $150 and receive one point on their driving record.
+
+###
+17. Instruction: Combine the two well-known stories into a single, coherent mash-up.
+17. Input: 
+The Wizard of Oz, Alice in Wonderland
+17. Output: 
+"Alice in the Land of Oz" follows the adventures of Alice, who falls into a rabbit hole and lands in Oz, where she meets Dorothy and her new friends, the Tin Man, the Cowardly Lion, and the Scarecrow. Together, they set off to find the Wonderful Wizard to help Alice return home and fulfill the wishes of her newfound friends, all while evading the devious Queen of Hearts and Wicked Witch of the West.
+
+###
+18. Instruction: Translate the quote into simple, modern-day language.
+18. Input: 
+"Neither a borrower nor a lender be, for loan oft loses both itself and friend." - William Shakespeare
+18. Output: 
+Don't borrow or lend money, as doing so often results in losing both the money and the friendship.
+
+###
+19. Instruction: Determine the name of a famous landmark in the provided city.
+19. Input: 
+San Francisco
+19. Output: 
+The Golden Gate Bridge
+
+###
+20. Instruction: What scientific discovery is this person famous for?
+20. Input: 
+Charles Darwin
+20. Output: 
+Charles Darwin is known for his theory of evolution by natural selection.

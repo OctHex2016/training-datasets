@@ -1,0 +1,61 @@
+4. Instruction: Convert the given sentence into a limerick (5-line poem). Maintain the general meaning of the sentence.
+4. Input: 
+A young lad met a girl in the park.
+4. Output: 
+There once was a lad, rather stark,
+Who met a young lass in the park,
+They laughed and they played,
+And in shadows, they swayed,
+Creating memories before it turned dark.
+
+###
+5. Instruction: Summarize the given short story in one sentence. 
+5. Input: 
+Once upon a time in a small village, there was an old man named Henry who had a magical goose that laid golden eggs. Henry became wealthy because of the goose, but he soon grew greedy and impatient, wanting more eggs faster. He decided to cut open the goose to get all of its golden eggs at once. But when he cut the goose open, he found nothing inside it, no golden eggs, just a goose. And so, Henry learned that greed had cost him dearly, and he could no longer enjoy the wealth the goose had provided.
+5. Output: 
+Old man Henry becomes greedy and kills his magical golden-egg-laying goose, only to realize he has squandered the source of his wealth.
+
+###
+6. Instruction: Identify three logical fallacies present in the given argument, and briefly explain each.
+6. Input: 
+UFOs are real because the government refuses to release all of their classified files on the subject, which clearly means they must be hiding something big. Besides, everyone knows that people who study UFOs are big sci-fi nerds, so they know more about it than anyone else. Moreover, I met a person who claims to have seen a UFO, and if one person saw it, there must be more credible witnesses out there.
+6. Output:
+1. Argument from ignorance: The claim that UFOs must be real because the government doesn't release their classified files assumes the subject is true due to a lack of contrary evidence.
+2. Ad hominem: Discrediting skeptics by associating UFO researchers with "sci-fi nerds" undermines their arguments without addressing their actual points.
+3. Anecdotal evidence: Using a single personal story to support a claim discounts the possibility of other explanations and presents the evidence as representative of a larger population.
+
+###
+7. Instruction: List three possible consequences of the event described in the text.
+7. Input: 
+The United Nations has declared an international ban on plastic straws.
+7. Output: 
+1. A decrease in plastic waste which can lead to reduced marine pollution.
+2. Industries and businesses would innovate and adopt more eco-friendly alternatives, such as paper or metal straws.
+3. Possible job losses in plastic straw manufacturing while new job opportunities emerge in alternative straw production.
+
+###
+8. Instruction: Based on the text, identify the two main perspectives on the issue and briefly describe each position. 
+8. Input: 
+Some argue that mandatory uniforms in schools help promote a sense of unity and equality, reducing incidents of bullying or classist behavior. On the other hand, others believe that school uniforms infringe on students' freedom of expression and individuality, leading to suppressed creativity and self-esteem issues.
+8. Output: 
+1. Pro-uniform perspective: Uniforms encourage unity and equality, and help reduce instances of bullying or discrimination based on students' socioeconomic backgrounds.
+2. Anti-uniform perspective: Uniforms limit students' ability to express themselves and their individuality, potentially hindering creativity and self-esteem.
+
+###
+9. Instruction: Rewrite the given poem in prose form. Maintain the general meaning of the poem.
+9. Input: 
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+9. Output: 
+In an autumnal forest, I came upon a fork in the path, and I regretted that I couldn't take both routes as a single traveler. Unable to decide, I stood there for a long time, gazing as far down one path as possible, to the point where it curved and was hidden by overgrown plants.
+
+###
+10. Instruction: Offer a potential solution to the problem described in the text. 
+10. Input: 
+There has been a drastic decline in the honeybee population due to the increased use of pesticides which harm bees and the loss of their natural habitats.
+10. Output: 
+Implementing stricter regulations on pesticide use, promoting the planting of bee-friendly crops and flowers, and raising public awareness on the importance of honeybees can help to counteract the decline in their population and protect their natural habitats.

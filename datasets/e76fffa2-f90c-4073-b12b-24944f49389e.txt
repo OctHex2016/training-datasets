@@ -1,0 +1,107 @@
+4. Instruction: Can you recommend a good book in the mystery genre?
+4. Input: 
+<noinput>
+4. Output: 
+I recommend "The Silent Patient" by Alex Michaelides. It's a psychological thriller that will keep you on the edge of your seat until the very end.
+###
+5. Instruction: Can you predict the weather for my zip code tomorrow?
+5. Input: 
+90210
+5. Output: 
+I'm sorry, I cannot perform any external actions. Please check your preferred weather website or app for weather predictions in your area.
+###
+6. Instruction: Can you summarize the plot of the movie "Inception"?
+6. Input: 
+<noinput>
+6. Output: 
+Dominick "Dom" Cobb and Arthur are "extractors", special operatives who perform corporate espionage using a technology to infiltrate their subjects' subconscious via their dreams, stealing valuable information while they sleep. Dom's specialty is "inception", the implantation of an idea into a target's subconscious without them realizing it. ###
+7. Instruction: Write a poem about the ocean.
+7. Input: 
+<noinput>
+7. Output: 
+The ocean roars, mighty and strong,
+Its waves crash loud, a hypnotic song,
+Deep and endless, vast and free,
+A world of wonder, for all to see.
+It ebbs and flows, a living tide,
+A mystery still, no secrets to hide.
+###
+8. Instruction: Can you define the word "algorithm"?
+8. Input: 
+<noinput>
+8. Output: 
+An algorithm is a finite sequence of well-defined, computer-implementable instructions for solving a particular problem. It is usually expressed in a formal programming language, and used as a method for completing a certain task or calculation.
+###
+9. Instruction: Can you edit this sentence to make it grammatically correct?
+9. Input: 
+"I goed to the store yesterday."
+9. Output: 
+"I went to the store yesterday."
+###
+10. Instruction: Can you provide me with a synonym for the word "happy"?
+10. Input: 
+<noinput>
+10. Output: 
+A synonym for "happy" is "joyful".
+###
+11. Instruction: Can you recommend a good podcast in the comedy genre?
+11. Input: 
+<noinput>
+11. Output: 
+I recommend "My Brother, My Brother and Me". It's a hilarious podcast where three brothers offer advice and answer questions in a funny and irreverent way.
+###
+12. Instruction: Can you explain the Pythagorean theorem?
+12. Input: 
+<noinput>
+12. Output: 
+The Pythagorean theorem states that in a right angle triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.
+###
+13. Instruction: Can you provide me the address for the nearest pharmacy to this location?
+13. Input: 
+123 Main Street, Anytown USA
+13. Output: 
+I'm sorry, I cannot perform any external actions. Please use a search engine or a map application to find the nearest pharmacy to your location.
+###
+14. Instruction: Can you generate a random number between 1 and 100?
+14. Input: 
+<noinput>
+14. Output: 
+Your randomly generated number between 1 and 100 is 42.
+###
+15. Instruction: Can you suggest a good place to travel to in the summer?
+15. Input: 
+<noinput>
+15. Output: 
+I recommend visiting Santorini, Greece. With its beautiful beaches, stunning sunsets, and idyllic villages, it's the perfect destination for a summer getaway.
+###
+16. Instruction: Can you calculate the square root of 144?
+16. Input: 
+<noinput>
+16. Output: 
+The square root of 144 is 12.
+###
+17. Instruction: Can you help me find a good Italian restaurant in the area?
+17. Input: 
+New York City
+17. Output: 
+I recommend trying Carbone in Greenwich Village. They serve classic Italian-American dishes in a retro atmosphere that will transport you back in time to the golden age of New York City dining.
+###
+18. Instruction: Can you give me a summary of the news today?
+18. Input: 
+<noinput>
+18. Output: 
+Today's news includes updates on the COVID-19 pandemic, ongoing political tensions in several countries, and news in the entertainment industry including upcoming movie releases and celebrity gossip.
+###
+19. Instruction: Can you translate this sentence into French?
+19. Input: 
+"My favorite color is blue."
+19. Output: 
+"Ma couleur préférée est bleue."
+###
+20. Instruction: Can you generate a haiku about the beauty of nature?
+20. Input: 
+<noinput>
+20. Output: 
+Sunbeams on water,
+Leaves rustling in the soft breeze,
+Nature's symphony.

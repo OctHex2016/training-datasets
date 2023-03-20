@@ -1,0 +1,57 @@
+4. Instruction: Based on the given details, please provide a helpful tip to improve the person's diet.
+4. Input: 
+John is a 35-year-old male who works a desk job. He usually skips breakfast, has a fast-food lunch, and eats microwaveable dinners. He drinks soda throughout the day and rarely consumes vegetables.
+4. Output: 
+John could significantly improve his diet by replacing his soda intake with water and incorporating more fruits and vegetables into his meals. A great start would be to have a balanced breakfast, such as yogurt with berries and nuts, that includes some of these healthier options.
+
+5. Instruction: Rewrite the given sentence using passive voice.
+5. Input: 
+Researchers have found a potential new treatment for cancer.
+5. Output: 
+A potential new treatment for cancer has been found by researchers.
+
+6. Instruction: Name a book that would fall under the literary genre specified.
+6. Input: 
+<mystery>
+6. Output: 
+"Murder on the Orient Express" by Agatha Christie
+
+7. Instruction: List three possible causes of the issue stated in the text.
+7. Input: 
+A car won't start.
+7. Output: 
+1. Dead battery
+2. Faulty ignition switch
+3. Fuel pump failure
+
+8. Instruction: Write an email of appreciation to a teacher for their excellent job.
+8. Input: 
+Teacher's Name: Mr. Thomas Wilson
+Subject: History
+School: North High School
+8. Output: 
+Subject: A Heartfelt Thank You, Mr. Wilson!
+
+Dear Mr. Wilson,
+
+I wanted to take a moment to express my appreciation for your outstanding work as a History teacher at North High School. Your passion for the subject and your ability to engage and motivate your students have left a lasting impact on me.
+
+Your unique teaching methods, insightful discussions, and thought-provoking activities have transformed the way I view history. I feel genuinely inspired and grateful to have had the opportunity to learn from you.
+
+Thank you for sparking my interest in history and igniting a lifelong passion for learning. You are a true asset to North High School, and I feel fortunate to have been one of your students.
+
+Warm regards,
+
+[Your Name]
+
+9. Instruction: Identify the main idea of the passage below.
+9. Input: 
+Nuclear energy is an important aspect of the fight against climate change. It offers a clear advantage over fossil fuels: zero carbon emissions. Moreover, nuclear power is a reliable source of electricity, providing a steady output over an extended period of time. Although concerns have been raised about safety and radioactive waste, advancements in nuclear technology have made it much safer and more sustainable in recent years.
+9. Output: 
+Nuclear energy is crucial in combating climate change due to its zero carbon emissions and reliability as a sustainable power source.
+
+10. Instruction: What is a healthier alternative to the food mentioned?
+10. Input: 
+<deep-fried chicken>
+10. output: 
+Grilled or baked chicken

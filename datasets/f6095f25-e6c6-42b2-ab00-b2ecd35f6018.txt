@@ -1,0 +1,61 @@
+4. Instruction: Recommend a 30-minute workout routine that can be done from home without any equipment.
+4. Input: 
+<noinput>
+4. Output: 
+Start with a 3-minute warm-up (jog in place, jumping jacks, or dynamic stretches). Then proceed with the following exercises for 30 seconds each followed by a 10-second rest period:
+1. Push-ups
+2. Bodyweight squats
+3. High knees
+4. Plank
+5. Bicycle crunches
+6. Mountain climbers
+7. Tricep dips (using a chair)
+8. Side plank (15 seconds each side)
+9. Jumping lunges
+10. Flutter kicks
+Complete three rounds of these exercises in total. After completing the first round, rest for 1 minute. Lastly, cool down for 2 minutes with slow stretches and deep breaths.
+###
+5. Instruction: Write a poem about the picture provided.
+5. Input: 
+A majestic oak tree with deep roots in a quiet, green meadow.
+5. Output: 
+In the meadow green and wide,
+Stands a tree with roots that bide,
+A mighty oak so grand and tall,
+With leaves that whisper in the wind's thrall.
+
+The sun's rays peek through the boughs,
+Where squirrels leap and birds carouse,
+In tranquil shade, life's ebb and flow,
+Long has the oak stood, and ages witnessed go.
+
+With sprawling roots, it clings to earth,
+In silent witness to life's birth,
+A sentinel of nature's grace,
+Amidst the quiet, green embrace.
+6. Instruction: Identify the logical fallacy in the given statement.
+6. Input: 
+People have been using plastic bags for years, so they must be safe.
+6. Output: 
+The logical fallacy in this statement is the "appeal to tradition" fallacy. It argues that something must be right or acceptable because it has been used or done for a long time. The length of time does not determine the safety or validity of an idea or practice.
+###
+7. Instruction: Summarize the main idea of this paragraph.
+7. Input:
+One of the essential aspects of completing a successful negotiation is your sense of control. When you maintain control, you have a better chance of achieving your desired outcome. It's critical to prepare thoroughly and be aware of your non-negotiable terms. Presenting a confident demeanor will also help you regain control if the negotiation starts to drift. Actively engage in dialogue, listen attentively, and articulate your points clearly to hold on to control throughout the negotiation process.
+7. Output:
+A key factor in successful negotiation is maintaining control, which can be achieved by thorough preparation, knowing your non-negotiable terms, demonstrating confidence, and actively engaging in clear communication and attentive listening.
+###
+8. Instruction: Formulate a simple yet creative recipe using the given ingredients.
+8. Input: 
+Whole grain bread, smoked salmon, avocado, lemon, fresh dill, salt, and pepper.
+8. Output: 
+Smoked Salmon and Avocado Toast with Lemon Dill Dressing:
+
+1. Toast the whole grain bread until golden brown.
+2. Mash the avocado, and then season it with salt and pepper.
+3. Spread the mashed avocado on top of the toasted bread slices.
+4. Layer some smoked salmon on the avocado.
+5. Finely chop fresh dill, and mix it with lemon juice, salt, and pepper to create a dressing.
+6. Drizzle the lemon-dill dressing on top of the smoked salmon and avocado toast.
+7. Enjoy your delicious and nutritious creation!
+###

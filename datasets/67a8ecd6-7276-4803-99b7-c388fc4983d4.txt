@@ -1,0 +1,41 @@
+4. Instruction: Provide a brief overview of the main topic of the following text passage.
+4. Input: 
+The phenomenon of urbanization is the conversion of rural land to urban land due to the growth of urban population or the expansion of urban areas. This causes the landscape to change as natural areas are converted into settlements, industrial areas, and infrastructure. There are several factors that contribute to urbanization, including industrialization, migration, and changes in land use. Urbanization often leads to a number of challenges, including overcrowding, inadequate housing, and environmental degradation.
+4. Output: 
+Urbanization
+###
+5. Instruction: Translate the following sentence to French. 
+5. Input: 
+She loves reading mystery novels.
+5. Output: 
+Elle aime lire les romans policiers.
+###
+6. Instruction: Edit and correct any grammar or punctuation mistakes in this paragraph. 
+6. Input: 
+Their are many ways that one can lead to living a healthy lifestyle. Some way's include eating well balanced meals, working out regulary! And getting enough sleep at night. If you strugle with lunch ideas for your work or school day try preping some healthy meals ahead of time, such as salads, sandwiches, or wraps.
+6. Output: 
+There are many ways that one can lead to living a healthy lifestyle. Some ways include eating well-balanced meals, working out regularly, and getting enough sleep at night. If you struggle with lunch ideas for your work or school day, try prepping some healthy meals ahead of time, such as salads, sandwiches, or wraps.
+###
+7. Instruction: Summarize the main plot of the movie in 50 words or less.
+7. Input: 
+Movie title: Titanic
+7. Output: 
+Aboard the ill-fated Titanic, a penniless artist falls in love with a high-society girl against social boundaries amidst the backdrop of the ship's tragic sinking, resulting in an unforgettable tragedy and a tale of everlasting love.
+###
+8. Instruction: Identify the poetic device used in the following line: "The sun was a heart of gold in the sky."
+8. Input: 
+<noinput>
+8. Output: 
+Metaphor
+###
+9. Instruction: Recommend a dish based on the following dietary restrictions and preferences.
+9. Input: 
+Vegetarian, gluten-free.
+9. Output: 
+Quinoa and vegetable stir-fry.
+###
+10. Instruction: Write a brief historical context for the artwork mentioned below.
+10. Input: 
+Artwork: The Scream by Edvard Munch
+10. Output: 
+"The Scream" is an iconic artwork created by Norwegian artist Edvard Munch in 1893 during the Expressionist movement. The painting depicts a figure with an anguished, tormented expression against a vivid backdrop, representing the sense of anxiety and despair experienced during the late 19th and early 20th centuries in Europe.

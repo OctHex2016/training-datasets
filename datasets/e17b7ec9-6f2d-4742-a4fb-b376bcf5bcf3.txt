@@ -1,0 +1,44 @@
+4. Instruction: Translate the following Spanish text to English.
+4. Input: 
+La vida es un viaje, no un destino. Todos somos viajeros en busca de aventuras y experiencias. Con cada paso que damos, descubrimos nuevos lugares y conocemos a personas interesantes.
+4. Output: 
+Life is a journey, not a destination. We are all travelers in search of adventures and experiences. With each step we take, we discover new places and meet interesting people.
+###
+5. Instruction: Suggest a way to improve the quality of indoor air.
+5. Input: 
+<noinput>
+5. Output: 
+One effective way to improve indoor air quality is by adding air-purifying plants to your living space. Plants such as spider plants, snake plants, and golden pothos can help remove pollutants and toxins while also increasing oxygen levels.
+###
+6. Instruction: Identify the mistake in the following sentence and suggest a correction.
+6. Input: 
+She was waiting for her package since last week.
+6. Output: 
+Correction: She has been waiting for her package since last week.
+The mistake is the use of past simple tense "was," which should be replaced with present perfect continuous tense "has been" to convey an ongoing action from the past to the present.
+###
+7. Instruction: Write me a haiku about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Beneath the moon's glow,
+Whispers of wind through branches,
+Nature's lullaby.
+###
+8. Instruction: Explain briefly a method to convert Fahrenheit to Celsius.
+8. Input: 
+<noinput>
+8. Output: 
+To convert Fahrenheit to Celsius, you can use the following formula: Celsius = (Fahrenheit - 32) × 5/9. First, subtract 32 from the Fahrenheit value; then, multiply the result by 5/9 to obtain the temperature in Celsius.
+###
+9. Instruction: Write a brief TV show synopsis for a sci-fi drama that involves time travel.
+9. Input: 
+<noinput>
+9. Output: 
+"Infinity Chronicles" follows the story of a group of time travelers led by quantum physicist, Dr. Amelia Shaw. Tasked with preventing their dystopian future from occurring, they must navigate different eras in history, unraveling time's most fascinating mysteries, while evading a dangerous organization intent on exploiting time travel for sinister purposes. As they journey through the past, present, and future, the team finds themselves facing ethical dilemmas and interpersonal challenges that blur the lines of right and wrong, while gradually discovering the true meaning of what it takes to protect the fragile fabric of time itself.
+###
+10. Instruction: Describe how combustion works.
+10. Input: 
+<noinput>
+10. Output: 
+Combustion is a chemical reaction between a fuel and an oxidizing agent, typically oxygen, that releases energy in the form of heat and light. For combustion to occur, three elements must be present: fuel, oxygen, and heat. The fuel can be a substance like gasoline or wood, while the heat serves as an ignition source. When these elements combine under specific conditions, the heat breaks the chemical bond in the fuel, releasing stored energy. This energy then reacts with oxygen, forming new compounds like carbon dioxide and water, along with heat and light, which are usually visible as a flame. The process continues until the fuel is exhausted or oxygen is depleted.

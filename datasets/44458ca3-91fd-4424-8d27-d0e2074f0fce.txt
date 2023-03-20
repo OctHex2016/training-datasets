@@ -1,0 +1,170 @@
+4. Instruction: Identify the feeling that the given quote represents or portrays.
+4. Input: 
+“Dumbledore says people find it far easier to forgive others for being wrong than being right.” - J.K. Rowling, Harry Potter and the Half-Blood Prince
+4. Output: 
+Resentment
+
+###
+5. Instruction: Rewrite the given text using a formal tone.
+5. Input: 
+Hey, I'm writing to let you know I'm quite unhappy with the way my packages have been showing up. It's not cool, and I'm fed up. You gotta do better.
+5. Output: 
+Dear [Company Name],
+
+I am writing to express my dissatisfaction with the condition in which my packages have been arriving. I kindly request that you address this issue and improve your delivery services.
+
+Sincerely,
+[Your Name]
+
+###
+6. Instruction: Create a limerick with a river theme.
+6. Input: <noinput>
+6. Output: 
+There once was a river so grand,
+With shores on each side made of sand,
+The fish would leap high,
+Touch the sky by and by,
+In this beautiful river's great land.
+
+###
+7. Instruction: What advice would you give to someone wanting to build a website for the first time?
+7. Input: <noinput>
+7. Output: 
+Begin by determining the purpose and target audience for your website. Choose a user-friendly website builder or content management system, like WordPress, Wix, or Squarespace. Pick an attractive and responsive template or theme. Plan and create a clear structure for your website with easy navigation. Prioritize loading times by optimizing images and content. Ensure your website is mobile-friendly and compatible with multiple browsers. Lastly, focus on creating quality, engaging content and implement search engine optimization (SEO) techniques to improve visibility online.
+
+###
+8. Instruction: Correct any errors in the given text and make it easier to read.
+8. Input: 
+Teaching urself a new skill-even if thats cooking a simple meal or picking up some basic guitar chords or learning to speak a new langwis something every man should challenge himself to do. But why?
+8. Output: 
+Teaching yourself a new skill, whether it's cooking a simple meal, learning some basic guitar chords, or mastering a new language, is a task everyone should challenge themselves to do. But why?
+
+###
+9. Instruction: Determine the problem in the argument and explain your findings.
+9. Input: 
+Claim: Eating ice cream on a hot day is a bad idea.
+Reason: I like ice cream and I feel confused after eating it on a hot day.
+9. Output: 
+The argument lacks adequate evidence, as it relies solely on personal experience and feelings rather than objective data. Additionally, the sample size of one person's experience is not enough to make a generalization about the idea being "bad" for everyone.
+
+###
+10. Instruction: Summarize the given text in one sentence.
+10. Input: 
+Forrest Gump is a drama film that was released in 1994 based on the novel of the same name by Winston Groom. The movie was directed by Robert Zemeckis and starred Tom Hanks in the title role, as well as Robin Wright, Gary Sinise, and Sally Field. It follows the life of Forrest Gump, a simple and optimistic man with a low IQ, who unwittingly influences the course of history through the various events he encounters.
+10. Output: 
+Forrest Gump is a 1994 drama film based on Winston Groom's novel, following the life of a simple-minded yet optimistic man, who inadvertently impacts American history while navigating a series of remarkable events.
+
+###
+11. Instruction: Identify the main idea or theme of the poem.
+11. Input: 
+Hope is the thing with feathers
+That perches in the soul,
+And sings the tune without the words,
+And never stops at all,
+
+And sweetest in the gale is heard;
+And sore must be the storm
+That could abash the little bird
+That kept so many warm.
+
+I’ve heard it in the chillest land,
+And on the strangest sea;
+Yet, never, in extremity,
+It asked a crumb of me.
+-Emily Dickinson
+11. Output: 
+Hope's enduring and uplifting nature
+
+###
+12. Instruction: Instruct someone on how to tie a tie with a simple knot.
+12. Input: <noinput>
+12. Output: 
+1. Start by standing in front of a mirror with the tie around your neck, the wider end on your right side and about 12 inches lower than the thinner end.
+2. Cross the wide end over the thin end.
+3. Tuck the wide end underneath the thin end and bring it up through the neck loop.
+4. Pass the wide end down through the loop created by crossing the ends.
+5. Adjust and tighten the knot by pulling gently on the wide end while holding the knot, ensuring it's centered and symmetrical.
+
+###
+13. Instruction: Find contradictions in the given statement.
+13. Input: 
+I don't eat junk food because it's unhealthy, but I love eating pizza and french fries after a long workout.
+13. Output: 
+The statement contradicts itself by claiming to avoid junk food due to health concerns, yet mentions the enjoyment of pizza and french fries, both of which are typically considered junk food.
+
+###
+14. Instruction: Convert the given recipe into a vegan version by suggesting alternatives.
+14. Input: 
+Ingredients:
+- 2 cups all-purpose flour
+- 1 tablespoon sugar
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 1/2 cup unsalted butter, chilled and cubed
+- 3/4 cup whole milk
+
+Instructions:
+1. Preheat the oven to 425°F (220°C).
+2. In a large bowl, whisk together the flour, sugar, baking powder, and salt.
+3. Cut in the butter until the mixture resembles coarse crumbs.
+4. Stir in the milk until the dough comes together.
+5. On a floured surface, knead the dough and roll it out to 1-inch thickness. Cut out the biscuits using a round cutter.
+6. Place the biscuits on a baking sheet and bake for 12-15 minutes or until golden brown.
+14. Output: 
+Ingredients:
+- 2 cups all-purpose flour
+- 1 tablespoon sugar
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 1/2 cup vegan butter, chilled and cubed
+- 3/4 cup unsweetened almond milk or other non-dairy milk
+
+Instructions:
+1. Preheat the oven to 425°F (220°C).
+2. In a large bowl, whisk together the flour, sugar, baking powder, and salt.
+3. Cut in the vegan butter until the mixture resembles coarse crumbs.
+4. Stir in the almond milk until the dough comes together.
+5. On a floured surface, knead the dough and roll it out to 1-inch thickness. Cut out the biscuits using a round cutter.
+6. Place the biscuits on a baking sheet and bake for 12-15 minutes or until golden brown.
+
+###
+15. Instruction: Compare and contrast the attitudes displayed in the two given statements.
+15. Input: 
+Statement 1: I think saving money for the future is wise; you never know when you might need it.
+Statement 2: You only live once, so it's better to spend your money enjoying the present rather than worrying about the future.
+15. Output: 
+Statement 1 exhibits a cautious and future-oriented attitude, prioritizing long-term financial security. Statement 2 embodies a more carefree and hedonistic approach, focusing on enjoying the present moment without concern for potential future needs.
+
+###
+16. Instruction: Suggest an improvement to the text by making it more engaging.
+16. Input: 
+The building has three floors. There are many rooms on each floor. The walls are painted white.
+16. Output: 
+The three-story building boasts a multitude of rooms on each floor, all adorned with clean, pristine white walls that create an inviting atmosphere.
+
+###
+17. Instruction: Add a historical context to the given text.
+17. Input: 
+The invention of the printing press changed the way information was circulated and made books more accessible to common people.
+17. Output: 
+The invention of the printing press by Johannes Gutenberg in the mid-15th century revolutionized the way information was circulated, making books more accessible to the common people and ultimately fueling the dissemination of ideas during the Renaissance and Reformation periods.
+
+###
+18. Instruction: Explain the purpose of metaphors and provide an example.
+18. Input: <noinput>
+18. Output: 
+Metaphors serve to convey abstract ideas or complex concepts by comparing them to familiar, tangible things, thus making it easier for readers to understand and visualize the intended meaning. For example, in the metaphor "time is a thief," time is compared to a thief to express the idea that time passes quickly and can steal away precious moments from our lives.
+
+###
+19. Instruction: Correct the grammar and syntax in the given sentence.
+19. Input: 
+She went the store after work to bought some groceries and a gifts for her daughter's birthday before going back home.
+19. Output: 
+She went to the store after work to buy some groceries and a gift for her daughter's birthday before going back home.
+
+###
+20. Instruction: Highlight the positive aspects of the given situation.
+20. Input: 
+The company had to downsize and reduce its workforce due to the ongoing economic crisis.
+20. Output: 
+This restructuring presents an opportunity for the company to optimize its operations, reevaluate its strategies, and invest in more efficient processes, ultimately fostering greater long-term resilience and growth.

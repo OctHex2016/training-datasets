@@ -1,0 +1,154 @@
+4. Instruction: Correct any grammatical errors in the given text. 
+4. Input: 
+During there vacation, my frends and I decided to went on a road trip. We have visited several cities, and taste all kind of local dishes.
+4. Output: 
+During their vacation, my friends and I decided to go on a road trip. We visited several cities and tasted all kinds of local dishes.
+
+###
+5. Instruction: Rewrite the following text in the passive voice.
+5. Input: 
+The board of directors approved the proposal yesterday.
+5. Output: 
+The proposal was approved by the board of directors yesterday.
+
+###
+6. Instruction: What are the similarities between the sport cricket and baseball? 
+6. Input: 
+<noinput>
+6. Output: 
+Both cricket and baseball are bat-and-ball sports, involving two teams taking turns to bat and field. They share a common objective: to score runs by hitting a ball thrown by a player from the opposing team and running between bases or wickets. Both sports require good hand-eye coordination, reflexes, and fitness. Protective equipment like gloves, helmets, and pads are used in both sports to ensure player safety.
+
+###
+7. Instruction: Draft an imaginary email response to a client inquiry about your company's software updates.
+7. Input: 
+<noinput>
+7. Output: 
+Subject: Re: Software Updates Inquiry
+
+Dear [Client Name],
+
+Thank you for reaching out. I'm pleased to say that our team is dedicated to continuously enhancing the user experience of our software.
+
+In response to your inquiry, our latest update includes several new features and performance improvements, based on the valuable feedback from clients like you. Additionally, we've addressed a few bug fixes to ensure the software functions smoothly.
+
+For a comprehensive list of changes, please visit our website's 'Release Notes' section or refer to the email we sent to all registered users announcing the update.
+
+As always, please don't hesitate to contact us if you need any assistance with the update or if you have any other questions or concerns.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Company Name]
+[Phone Number]
+[Email Address]
+
+###
+8. Instruction: Explain the concept of "opportunity cost" in economics. 
+8. Input: 
+<noinput>
+8. Output: 
+In economics, opportunity cost refers to the value of the next best alternative that is forfeited when a decision is made to choose one option over another. In other words, it is the benefit or value that could have been gained if a different course of action had been chosen. Opportunity cost represents the trade-off that comes with making choices, as resources like time, money, and effort are limited and can be allocated in various ways.
+
+###
+9. Instruction: Write a summary of the following paragraph. 
+9. Input: 
+"The Brooklyn Bridge, completed in 1883, is one of the oldest suspension bridges in the United States. It connects the boroughs of Brooklyn and Manhattan by spanning the East River. The bridge was designed by John Augustus Roebling, a German engineer who immigrated to the United States. The construction of the Brooklyn Bridge took 14 years to complete and claimed the lives of 27 workers due to the various accidents during its construction. At the time of its completion, the Brooklyn Bridge was the longest suspension bridge in the world, with a main span of 1,595.5 feet. It was also the first bridge to use steel wire for its suspension cables."
+
+9. Output: 
+The Brooklyn Bridge, completed in 1883, is an iconic suspension bridge in the United States, connecting Brooklyn and Manhattan. Designed by John Roebling, a German engineer, it took 14 years to build and cost 27 lives. At the time of its completion, it was the longest suspension bridge globally, with a 1,595.5-foot main span, and the first to use steel wire cables.
+
+###
+10. Instruction: Read the following description and classify the biome it refers to. 
+10. Input: 
+This region experiences a dry climate with very little rainfall and extreme temperatures, ranging from hot days to cold nights. Plant-life is sparse but includes cacti and other desert-adapted flora. The fauna has adapted to the harsh environmental conditions and includes reptiles, insects, and small mammals.
+10. Output: 
+Desert biome
+
+###
+11. Instruction: Which famous scientist is most closely associated with the development of the general theory of relativity? 
+11. Input: 
+<noinput>
+11. Output: 
+Albert Einstein
+
+###
+12. Instruction: Arrange the following words into a coherent question.
+12. Input: 
+best, the, what, way, to, is, learn, a, foreign, language
+12. Output: 
+What is the best way to learn a foreign language?
+
+###
+13. Instruction: How many minutes are there in a day? 
+13. Input: 
+<noinput>
+13. Output: 
+1440 minutes
+
+###
+14. Instruction: Write a brief farewell speech to a coworker who is retiring.
+14. Input: 
+<noinput>
+14. Output: 
+Ladies and gentlemen,
+
+Today, we gather to celebrate the retirement of our dear colleague and friend. Throughout [coworker's name]'s years of service, their dedication, hard work, and contributions have significantly enhanced our company's growth and success.
+
+As we part ways, we would like to extend our sincerest gratitude for the incredible memories and experiences we shared. It's not just the professional accomplishments that make [coworker's name] exceptional, but also the warmth and kindness they displayed towards everyone here.
+
+We wish you a well-deserved, happy, and fulfilling retirement, [coworker's name]. Please remember that you will always be part of our family, and we look forward to hearing about your new adventures.
+
+Cheers to a remarkable journey and an even brighter future!
+
+###
+15. Instruction: Advise on three exercises to do at home without any equipment. 
+15. Input: 
+<noinput>
+15. Output: 
+1. Push-ups: Strengthen your chest, shoulders, and triceps by performing push-ups. Start in a plank position and lower your body down, keeping your elbows close to your sides. Push back up to the starting position, maintaining a straight body line.
+
+2. Squats: Squats target the lower body muscles, including the quads, hamstrings, and glutes. Stand with your feet shoulder-width apart and lower yourself, bending your knees while keeping your chest up and your back straight, then push back up to standing position.
+
+3. Planks: Planks are a great core exercise that help to develop stability and balance. Get into a push-up position, but rest your forearms on the ground. Engage your core and maintain a straight body line for as long as you can hold.
+
+###
+16. Instruction: Define the term "photosynthesis" in a single sentence. 
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, water, and carbon dioxide into glucose and oxygen, fueling the growth and reproduction of these organisms.
+
+###
+17. Instruction: Choose the most suitable synonym for the word "inquisitive" among the following options: indifferent, curious, uninterested, or hostile.
+17. Input: 
+<noinput>
+17. Output: 
+curious
+
+###
+18. Instruction: Narrate a day in the life of an astronaut working on the International Space Station.
+18. Input: 
+<noinput>
+18. Output: 
+An astronaut aboard the International Space Station (ISS) wakes up early to a simulated natural morning light. After a quick personal hygiene routine, they jump into their breakfast, which consists of dehydrated and pre-packaged food. Daily work duties begin with a conference with ground control, discussing the day's tasks and any updates.
+
+Throughout the day, astronauts perform various duties such as scientific research, exercise to counteract the negative effects of microgravity on muscles and bones, and maintenance tasks on the station's systems. They also occasionally go on spacewalks to repair or install equipment outside the ISS.
+
+Meal breaks and rest periods are woven in their schedule. Aboard the ISS, astronauts have limited free time and sometimes use it to capture breathtaking images of Earth or engage in leisure activities like watching movies or playing musical instruments. Their day concludes with another conference with ground control before retiring to their small sleeping quarters, where personal space is scarce. Strapped in a sleeping bag to avoid floating away, they drift off to sleep, ready for another day of life in orbit.
+
+###
+19. Instruction: Explain the difference between convection and conduction.
+19. Input: 
+<noinput>
+19. Output: 
+Convection and conduction are two types of heat transfer. Convection occurs in fluids, such as liquids and gases, and involves the movement of heat through the circulation of currents within the fluid. As the heated fluid particles rise, they displace the cooler particles that then sink, creating a continuous cycle that transfers heat.
+
+On the other hand, conduction is the transfer of heat through a solid material, such as a metal or another substance. In this process, heat is transferred from the warmer particles to adjacent cooler ones, causing them to vibrate more, and eventually spreading the heat through the substance. Unlike convection, conduction does not involve the physical movement of the substance's particles.
+
+###
+20. Instruction: Compose a motivational quote about overcoming challenges.
+20. Input: 
+<noinput>
+20. Output: 
+Strength is forged in the fires of adversity; as we conquer our challenges, we become resilient and unbreakable.

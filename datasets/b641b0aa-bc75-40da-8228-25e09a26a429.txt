@@ -1,0 +1,138 @@
+4. Instruction: Given a sentence with incorrect grammar or spelling, provide a corrected version. 
+4. Input: 
+The boy went to they're house to pick up hims books. 
+4. Output: 
+The boy went to their house to pick up his books. 
+###
+5. Instruction: Generate a poem about a sunset. 
+5. Input: 
+<noinput>
+5. Output: 
+A ball of fire sinks 'neath the horizon's line  
+As colorful hues paint the sky divine  
+The day has gone and night will now entwine  
+What magic in nature's never-ending design. 
+###
+6. Instruction: Write a brief summary of a scientific paper about the benefits of exercise. 
+6. Input: 
+Paper title: "The effects of exercise on mental health and mood in adults" 
+6. Output: 
+This paper examines the effects of exercise on adults’ mental health and mood. Results showed an improvement in participants’ mood and decrease in depression and anxiety symptoms after completing various exercise interventions. The authors conclude that regular exercise can have a positive impact on the mental health of adults. 
+###
+7. Instruction: Write a product review for a camera. 
+7. Input: 
+Product: Canon EOS Rebel T7 DSLR Camera 
+7. Output: 
+I recently purchased the Canon EOS Rebel T7 and have been nothing but impressed so far. The camera is easy to use yet allows for a lot of customization, which is great for a beginner like myself. The image quality is fantastic and the autofocus is quick and reliable. I highly recommend the Canon EOS Rebel T7 to anyone looking for a high-quality DSLR camera. 
+###
+8. Instruction: Provide instructions on how to make a simple pasta dish. 
+8. Input: 
+Ingredients: pasta, olive oil, garlic, salt 
+8. Output: 
+1. Cook your pasta according to package instructions and reserve 1 cup of the starchy pasta water.
+2. While pasta is cooking, heat olive oil in a pan over medium heat. Add garlic and cook until fragrant, about 1-2 minutes.
+3. Add cooked pasta to the pan and toss to combine with garlic oil.
+4. Add reserved pasta water to the pan, 1/4 cup at a time, until desired sauce consistency is achieved.
+5. Season with salt to taste and serve hot. 
+###
+9. Instruction: Generate a list of book recommendations for fans of horror novels. 
+9. Input: 
+<noinput>
+9. Output: 
+- The Haunting of Hill House by Shirley Jackson
+- The Shining by Stephen King
+- Pet Sematary by Stephen King
+- The Exorcist by William Peter Blatty
+- The Silence of the Lambs by Thomas Harris
+###
+10. Instruction: Write a tweet announcing the launch of a new product. 
+10. Input: 
+Product: Vegan protein bars 
+10. Output: 
+Exciting news! Our brand new vegan protein bars are now available for purchase! Made with only the best ingredients, our bars are perfect for a quick and nutritious snack on-the-go. Try them out today and let us know what you think! #vegan #proteinsnack
+###
+11. Instruction: Provide instructions on how to assemble a piece of furniture. 
+11. Input: 
+Furniture: Billy bookcase from IKEA 
+11. Output: 
+1. Begin by assembling the sides of the bookcase. Connect them to the top and bottom boards using the provided locks.
+2. Attach the cardboard back panel to the bookcase using small nails or tack.
+3. Slide in adjustable shelves at your preferred heights.
+4. Finish by attaching the included dowels to stabilize the shelves.
+5. Your Billy bookcase is now ready to be used! 
+###
+12. Instruction: Write a brief biography of a musician. 
+12. Input: 
+Musician: Stevie Wonder 
+12. Output: 
+Stevie Wonder is an iconic musician known for his soulful voice and mastery of various instruments. Born in Michigan in 1950, Wonder began playing music at a young age and quickly gained recognition for his talent. He has won 25 Grammy Awards over the course of his career and is also known for his activism, particularly for advocating for people with disabilities. 
+###
+13. Instruction: Write a description of a vacation destination. 
+13. Input: 
+Destination: Maui, Hawaii 
+13. Output: 
+Maui, Hawaii is a tropical paradise known for its stunning beaches, clear waters, and rich culture. Visitors can enjoy a variety of outdoor activities such as surfing, hiking, and snorkeling or simply relax on the beach and soak up the sun. Maui is also home to numerous restaurants, shops, and cultural attractions, making it the perfect destination for a well-rounded vacation experience. 
+###
+14. Instruction: Write an email to a coworker asking for input on a project. 
+14. Input: 
+Project: Presentation on company sales 
+14. Output: 
+Hi [Coworker],
+I hope this email finds you well. As you may know, I am currently working on a presentation on our company's sales and would love to get your input. I know you have a lot of experience in this area and value your insights.
+Would you be available to chat for 10-15 minutes sometime later this week? Let me know what times work best for you and I will try to work around your schedule.
+Thanks so much,
+[Your Name]
+###
+15. Instruction: Provide step-by-step instructions on how to change a flat tire. 
+15. Input: 
+<noinput>
+15. Output: 
+1. Pull over to a safe location and turn on hazard lights.
+2. Remove the hubcap or wheel cover and loosen the lug nuts with a wrench.
+3. Use the jack to raise the car so that the flat tire is about 6 inches off the ground.
+4. Remove the lug nuts and the flat tire from the car.
+5. Place the spare tire on the car and tighten the lug nuts by hand.
+6. Lower the car back to the ground.
+7. Tighten the lug nuts with the wrench and replace the hubcap or wheel cover.
+8. Check the tire pressure and ensure it matches the recommended pressure in your car manual. 
+###
+16. Instruction: Generate a list of recommended documentaries for history buffs. 
+16. Input: 
+<noinput>
+16. Output: 
+- The Vietnam War by Ken Burns and Lynn Novick
+- The Civil War by Ken Burns and Ric Burns
+- The War by Ken Burns
+- The Roosevelts: An Intimate History by Ken Burns
+- The Revolution by History Channel
+###
+17. Instruction: Provide instructions on how to make a healthy smoothie. 
+17. Input: 
+Ingredients: spinach, banana, almond milk, chia seeds 
+17. Output: 
+1. Add 1 cup of spinach to a blender.
+2. Peel and chop a banana and add it to the blender.
+3. Pour in 1 cup of almond milk.
+4. Add 1 tablespoon of chia seeds.
+5. Blend all ingredients until smooth.
+6. Pour into a glass and enjoy!
+Note: you can add ice to make the smoothie colder if desired. 
+###
+18. Instruction: Write a joke about cats. 
+18. Input: 
+<noinput>
+18. Output: 
+Why did the cat join Instagram?
+To post pictures of its pawsome adventures. 
+###
+19. Instruction: Write a brief overview of a news article about climate change. 
+19. Input: 
+Article title: "How rising sea levels are threatening coastal cities" 
+19. Output: 
+This article discusses the impact of climate change on coastal cities, particularly in regards to rising sea levels. The piece examines how this phenomenon is already impacting such cities as Miami and New York and argues that immediate action is needed to prevent a disastrous outcome. The article includes expert commentary and potential solutions to combat rising sea levels. 
+###
+20. Instruction: Write a brief summary of a movie about a dystopian society. 
+20. Input: 
+Movie title: Blade Runner 2049 
+20. Output: 
+Blade Runner 2049 is a science fiction movie set in a dystopian future. The film follows the story of a "blade runner" who must track down and retire rogue replicants, bio-engineered beings designed to look like humans. The movie explores themes of identity, memory, and humanity in a gritty and visually stunning world.

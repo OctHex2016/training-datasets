@@ -1,0 +1,45 @@
+4. Instruction: Rephrase the following sentences using synonyms or changing the structure of the sentence.
+4. Input: 
+- The movie was interesting from start to finish.
+- She worked tirelessly to meet the deadline for the project.
+- The dog barked loudly at the sound of the doorbell.
+4. Output: 
+- The film captivated audiences from beginning to end.
+- She exerted herself relentlessly to complete the project on time.
+- The canine loudly yapped in response to the doorbell's ring.
+
+5. Instruction: Determine if the following statements are facts or opinions.
+5. Input: 
+- Dogs are better pets than cats.
+- John F. Kennedy was assassinated in 1963.
+- Pizza is the best food in the world.
+5. Output: 
+- Opinion
+- Fact
+- Opinion
+
+6. Instruction: Recommend three activities for a family to do together on a weekend.
+6. Input: 
+<noinput>
+6. Output: 
+1. Visit a local park or nature reserve for a family picnic and recreational activities like hiking or playing catch.
+2. Participate in a local event or festival that features music, food, and activities for all age groups.
+3. Enjoy a family game night with age-appropriate board games or video games to engage everyone in some friendly competition.
+
+7. Instruction: Correct the grammatical errors in the following sentences.
+7. Input: 
+- I likes to play soccer on weekends.
+- She have two dogs and one cats.
+- John going to the store for buys some milk.
+7. Output: 
+- I like to play soccer on weekends.
+- She has two dogs and one cat.
+- John is going to the store to buy some milk.
+
+8. Instruction: Write a short introduction for a blog post about the top five health benefits of yoga.
+8. Input: 
+<noinput>
+8. Output: 
+In today's fast-paced world, it's essential to maintain a balance between mind and body wellness. Yoga, a centuries-old practice, has gained immense popularity due to its powerful impact on both mental and physical health. In this blog post, we will explore the top five health benefits of regularly practicing yoga and how they can contribute to a more fulfilling and well-rounded lifestyle.
+
+9. Instruction: Explain how to make a simple peanut butter and jelly sandwich.

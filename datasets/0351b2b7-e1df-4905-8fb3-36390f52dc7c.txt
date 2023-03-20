@@ -1,0 +1,106 @@
+4. Instruction: Suggest a book recommendation for someone who enjoys mystery novels. 
+4. Input: 
+"I love reading books by Agatha Christie."
+4. Output: 
+You might enjoy the book "The Cuckoo's Calling" by Robert Galbraith. It's a mystery novel about a private investigator trying to solve the supposed suicide of a famous model. The twists and turns will keep you guessing until the end.
+###
+5. Instruction: Summarize the main ideas of the article provided below in three sentences. 
+5. Input: 
+<noinput>
+5. Output: 
+The article discusses how individuals perceive boundaries differently, which can cause conflicts in relationships. Setting and respecting boundaries can lead to healthier relationships. By understanding how to assert one's boundaries politely but firmly, both oneself and one's relationships can benefit. 
+###
+6. Instruction: Rewrite the following sentence to be more concise: 
+6. Input: 
+Biology is a science that concerns the study of life and living organisms.
+6. Output: 
+Biology studies life and living organisms.
+###
+7. Instruction: Given a list of TV shows, categorize them according to their genre. 
+7. Input: 
+Breaking Bad, Downton Abbey, Stranger Things, The Office, Friends
+7. Output: 
+Breaking Bad - Drama
+Downton Abbey - Period drama
+Stranger Things - Sci-Fi Horror
+The Office - Comedy
+Friends - Sitcom
+###
+8. Instruction: Explain the meaning of the idiom "the ball is in your court". 
+8. Input: 
+<noinput>
+8. Output: 
+"The ball is in your court" means that it is someone else's turn to make a decision or take action. It is typically used when one person has made an offer or taken a step, and the other person needs to respond.
+###
+9. Instruction: Given a set of data, write a SQL query that returns the entries with a certain condition. 
+9. Input: 
+A table with columns "name", "age", and "occupation". Select all entries with ages over 30. 
+9. Output: 
+SELECT * FROM table WHERE age > 30;
+###
+10. Instruction: What is the difference between the usage of "few" and "a few"? 
+10. Input: 
+<noinput>
+10. Output: 
+"Few" implies a negative connotation and means that something is scarce or there is not enough of it. "A few" implies a more positive connotation and means that there is a small but sufficient amount of something.
+###
+11. Instruction: Given a passage, remove all instances of the passive voice. 
+11. Input: 
+"[Passage provided]"
+11. Output: 
+"[Passage with passive voice removed]"
+###
+12. Instruction: Suggest a song recommendation for someone who enjoys 90s rock. 
+12. Input: 
+"I love songs by Nirvana."
+12. Output: 
+You might enjoy "Alive" by Pearl Jam. It has a similar grunge rock style to Nirvana and was also popular in the 90s.
+###
+13. Instruction: Summarize the plot of the movie provided below in two sentences. 
+13. Input: 
+<noinput>
+13. Output: 
+The movie "Inception" is about a group of thieves who enter the dreams of others to steal their secrets. The main character, Cobb, is hired to perform an inception instead - planting an idea in someone's mind instead of stealing one.
+###
+14. Instruction: Given a set of numbers, find the median. 
+14. Input: 
+2, 6, 9, 10, 13
+14. Output: 
+The median is 9.
+###
+15. Instruction: Describe the proper technique for performing a plank exercise. 
+15. Input: 
+<noinput>
+15. Output: 
+Lie on your stomach with your elbows bent, forearms flat against the ground and palms facing down. Push off the ground, raising up onto your toes and resting on your elbows. Your body should be in a straight line from head to heels. Hold the position for 30 seconds to a minute, and then release.
+###
+16. Instruction: Given a list of fruits, categorize them according to whether they are citrus or not. 
+16. Input: 
+orange, apple, pineapple, grapefruit, banana
+16. Output: 
+Citrus: orange, grapefruit
+Non-citrus: apple, pineapple, banana
+###
+17. Instruction: Generate a sentence that uses the word "onomatopoeia" correctly. 
+17. Input: 
+<noinput>
+17. Output: 
+"Buzz" is an example of an onomatopoeia, where the sound of the word imitates the sound of the thing it's describing, in this case, the sound of a bee.
+###
+18. Instruction: Write a paragraph that compares two different cities. 
+18. Input: 
+Compare New York City and Paris.
+18. Output: 
+New York City is known for its bustling energy, towering skyscrapers, and diverse culture. Paris, on the other hand, has a more laid-back pace, with winding cobblestone streets, ancient architecture, and a culture of art and romance. Both cities offer unique experiences and are worth a visit.
+###
+19. Instruction: Provide advice for someone who wants to start learning a new language. 
+19. Input: 
+"I want to learn Spanish."
+19. Output: 
+Find a study method that works for you, whether it's through language learning apps like Duolingo or Rosetta Stone, watching Spanish-language TV shows or listening to Spanish-language music, or taking a formal class. Start with the basics, like learning common phrases and vocabulary, and practice regularly. Don't be afraid to make mistakes – it's all part of the learning process!
+###
+20. Instruction: Given a list of numbers, calculate their average. 
+20. Input: 
+1, 5, 8, 3, 7
+20. Output: 
+The average is 4.8.

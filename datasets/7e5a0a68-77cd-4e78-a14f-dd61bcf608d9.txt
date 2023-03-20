@@ -1,0 +1,126 @@
+
+
+4. Instruction: Generate a short story with the following prompt.
+4. Input:
+It was a dark and stormy night. 
+4. Output:
+The wind howled outside, rattling the windows. Inside, Maria huddled under her blanket, listening to the rain beat against the roof. Suddenly, a flash of lightning illuminated the room, and a loud crash echoed through the house. Maria leapt out of bed, heart racing, and headed towards the source of the noise. 
+### 
+
+5. Instruction: Can you provide a definition for a given term? 
+5. Input: 
+What is the definition of entropy? 
+5. Output: 
+Entropy refers to the degree of disorder or randomness in a system. It is a measure of the number of possible arrangements of the system's elements, and tends to increase over time. 
+###
+
+6. Instruction: Rearrange the following sentence into its correct order. 
+6. Input: 
+the bus, to school, takes, every morning, Alice 
+6. Output: 
+Every morning, Alice takes the bus to school. 
+###
+
+7. Instruction: Identify the author of a famous quote.
+7. Input: 
+"Be the change you wish to see in the world"
+7. Output: 
+This quote is often attributed to Mahatma Gandhi, an influential political leader in India during the early 20th century. 
+###
+
+8. Instruction: Change the following sentence from passive voice to active voice. 
+8. Input: 
+The book was written by Mark Twain. 
+8. Output: 
+Mark Twain wrote the book. 
+###
+
+9. Instruction: Generate a haiku about a given season. 
+9. Input: 
+Spring 
+9. Output: 
+Raindrops fall softly 
+Blossoming flowers arise 
+Nature awakens 
+
+###
+
+10. Instruction: Can you provide a synonym for the following word? 
+10. Input: 
+happy 
+10. Output: 
+Some synonyms for "happy" include delighted, elated, joyful, and ecstatic. 
+###
+
+11. Instruction: Correct the spelling of the following word. 
+11. Input: 
+recieve 
+11. Output: 
+The correct spelling is "receive". 
+###
+
+12. Instruction: What is the next number in the following sequence? 
+12. Input: 
+1, 1, 2, 3, 5, ___
+12. Output: 
+The next number would be 8, which follows the pattern of adding the previous two numbers together (e.g. 3 + 5 = 8). 
+###
+
+13. Instruction: Provide two examples of organisms that belong to a given taxonomic group. 
+13. Input: 
+Mammals 
+13. Output: 
+Some examples of mammals include dogs, cats, humans, elephants, whales, lions, and horses. 
+###
+
+14. Instruction: Can you provide a synonym for the following word? 
+14. Input: 
+difficult 
+14. Output: 
+Some synonyms for "difficult" include challenging, arduous, strenuous, and hard. 
+###
+
+15. Instruction: Convert the following temperature. 
+15. Input: 
+20°C = ___°F
+15. Output: 
+20°C = 68°F 
+###
+
+16. Instruction: Write a brief summary of a given scientific concept.
+16. Input: 
+Photosynthesis
+16. Output: 
+Photosynthesis is the process by which green plants and other organisms convert light energy into chemical energy in the form of glucose. This process involves a complex chain of reactions that occur within specialized structures called chloroplasts. 
+###
+
+17. Instruction: Identify the capital of a given country. 
+17. Input: 
+Brazil 
+17. Output: 
+The capital of Brazil is Brasília. 
+###
+
+18. Instruction: Can you provide an antonym for the following word? 
+18. Input: 
+benevolent 
+18. Output: 
+Some antonyms for "benevolent" include malevolent, cruel, wicked, and malicious. 
+###
+
+19. Instruction: Rearrange the following sentence into its correct order. 
+19. Input: 
+the dog, the ball, chased 
+19. Output: 
+The dog chased the ball. 
+###
+
+20. Instruction: Compose a limerick about a given topic. 
+20. Input: 
+A cat 
+20. Output: 
+There once was a curious cat,
+Who liked to explore and chat,
+With a flick of her tail,
+She'd be on the trail,
+ Hunting down all the mice she could catch.

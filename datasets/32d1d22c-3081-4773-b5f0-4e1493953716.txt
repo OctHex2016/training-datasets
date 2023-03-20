@@ -1,0 +1,136 @@
+4. Instruction: Given a sentence, generate a paraphrased version of the sentence. 
+4. Input: 
+She is so fatigued that she cannot think straight anymore.
+4. Output: 
+Her level of exhaustion has reached the point where clear thinking is impossible for her. 
+###
+5. Instruction: Given a set of data containing information about students, find the average score across all students for a particular exam. 
+5. Input: 
+Name, Exam 1, Exam 2
+- Jack, 80, 85
+- Jill, 95, 92
+- Jane, 89, 93
+- John, 92, 84
+
+Find the average score for Exam 1.
+5. Output: 
+The average score for Exam 1 is 89.
+###
+6. Instruction: Given a recipe with ingredients and instructions, output the time required to prepare the dish. 
+6. Input: 
+Ingredients:
+- 1 lb beef
+- 1 lb potatoes
+- 2 cloves garlic
+- Salt and pepper
+Instructions: 
+1. Preheat oven to 350 degrees F (175 degrees C).
+2. Cut meat into cubes and potatoes into large pieces. 
+3. In a large casserole dish, layer the meat on the bottom followed by the potatoes. Add garlic cloves and salt and pepper to taste. 
+4. Cover with foil and bake for 1 1/2 hours.
+
+What is the total time required to prepare this dish?
+6. Output: 
+The total time required to prepare this dish is approximately 1 hour and 45 minutes.
+###
+7. Instruction: Given a statement, determine whether it is a fact or an opinion. 
+7. Input: 
+Abortions should be illegal.
+7. Output: 
+This statement is an opinion.
+###
+8. Instruction: Find the end rhyme of the given word. 
+8. Input: 
+Alphabet
+8. Output: 
+The end rhyme for "Alphabet" is "-et".
+###
+9. Instruction: Given a list of numbers, find the maximum number in the list. 
+9. Input: 
+[4, 6, 2, 8, 3]
+9. Output: 
+The maximum value in the list is 8.
+###
+10. Instruction: Find the synonym of the given word. 
+10. Input: 
+Abundant
+10. Output: 
+A synonym for "Abundant" is "Plentiful".
+###
+11. Instruction: Given a headline, write a one-sentence summary of the article. 
+11. Input: 
+NASA’s Ingenuity Mars Helicopter Succeeds In Historic First Flight
+11. Output: 
+NASA's Ingenuity Mars Helicopter makes history with its successful first flight.
+###
+12. Instruction: Given the first few terms of a sequence, determine the pattern and the next term. 
+12. Input: 
+1, 3, 6, 10
+12. Output: 
+The pattern for the sequence is to add 2, then 3, then 4... to each term. The next term in the sequence is 15.
+###
+13. Instruction: Given a piece of text, find the sentiment of the text. 
+13. Input: 
+I am so happy today! The weather is perfect and I got a promotion at work.
+13. Output: 
+The sentiment of the text is positive.
+###
+14. Instruction: Correct the grammar mistake in the given sentence. 
+14. Input: 
+Me and him both enjoy playing soccer.
+14. Output: 
+"He and I both enjoy playing soccer."
+###
+15. Instruction: Given a country, what is the official language of that country? 
+15. Input: 
+France
+15. Output: 
+The official language of France is French.
+###
+16. Instruction: Given a chemical equation, balance the equation by adding coefficients. 
+16. Input: 
+Fe + O2 → Fe2O3
+16. Output: 
+4Fe + 3O2 → 2Fe2O3
+###
+17. Instruction: Given a recipe with ingredients and instructions, output the quantity of the ingredient needed for a different serving size. 
+17. Input: 
+Ingredients:
+- 2 cups flour
+- 1/2 tsp salt
+- 1/4 tsp baking soda
+- 1/2 cup unsalted butter
+- 3/4 cups brown sugar
+- 1 tsp vanilla extract
+- 1 egg
+- 2 cups chocolate chips
+
+Instructions: 
+1. Preheat oven to 375 degrees F (190 degrees C).
+2. In a medium bowl, whisk together flour, salt, and baking soda.
+3. In another bowl, beat together butter, brown sugar and vanilla extract until creamy. Beat in the egg until well combined.
+4. Gradually mix in the flour mixture until just combined. Stir in chocolate chips.
+5. Drop spoonfuls of the dough onto the baking sheet, leaving about 2 inches between cookies. 
+
+If the recipe needs to be adjusted for only 6 cookies, how much flour should be used?
+17. Output: 
+0.5 cups of flour should be used.
+###
+18. Instruction: Given a city, what is the current temperature in that city? 
+18. Input: 
+London
+18. Output: 
+The current temperature in London is 14 degrees Celsius.
+###
+19. Instruction: Given a math problem with multiple steps, solve the problem. 
+19. Input: 
+If x = 5 and y = 3, evaluate the expression (2x + y)^2 ÷ (x - y).
+
+19. Output: 
+The answer is 28. 
+### 
+20. Instruction: Given a sentence, determine whether it is passive voice or active voice. 
+20. Input: 
+The cake was eaten by the dog.
+20. Output: 
+This sentence is in passive voice.

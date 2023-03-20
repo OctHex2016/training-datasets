@@ -1,0 +1,49 @@
+4. Instruction: Rewrite the following sentence in active voice.
+4. Input: 
+The cake was eaten by the children.
+4. Output: 
+The children ate the cake.
+
+5. Instruction: Name the profession based on these characteristics.
+5. Input:
+Analyzes crime scenes, collects evidence, uses scientific methods to solve cases.
+5. Output: 
+Forensic Scientist
+
+6. Instruction: Summarize the main ideas of the given text.
+6. Input: 
+Some theories pose the existence of a multiverse: different, disconnected universes existing alongside and parallel to our own. However, proving the existence of the multiverse has been a persistent challenge. The Cosmic Inflation Theory is one of the keys to explaining how the multiverse could exist – it suggests that the rapid expansion of space after the Big Bang led to the creation of multiple pockets of space, each becoming its universe.
+6. Output:
+The multiverse concept proposes multiple disconnected universes exist parallel to our own. Proving its existence remains difficult, but the Cosmic Inflation Theory potentially explains it by suggesting rapid space expansion after the Big Bang created separate pockets of space, each developing into its universe.
+
+7. Instruction: Determine the type of poem based on the provided lines.
+7. Input:
+<div><span style="color: #000000;">Whose woods these are I think I know.</span>
+<br>
+<span style="color: #000000;">His house is in the village though;</span>
+<br>
+<span style="color: #000000;">He will not see me stopping here</span>
+<br>
+<span style="color: #000000;">To watch his woods fill up with snow.</span>
+</div>
+7. Output:
+Quatrain
+
+8. Instruction: Convert the following passage into a conversation between two people.
+8. Input: 
+On his journey to work, John notices the sky has turned grey, and he wonders if it will rain. His friend Mark informs him that rain is in the forecast for later in the evening.
+8. Output: 
+John: "Hey, have you noticed the sky looks grey? Do you think it will rain soon?"
+Mark: "Yeah, I heard on the news that rain is forecasted for later this evening."
+
+9. Instruction: Critique the following painting in a few sentences.
+9. Input: 
+A lone cherry blossom tree stands in the center of the canvas, its branches drooping under the weight of its full pink blossoms. A group of picnickers has gathered beneath the tree, enjoying their time together. The background consists of a serene, pale blue sky without any sign of clouds or impending rain.
+9. Output: 
+This painting captures the essence of a peaceful and enjoyable day beneath a cherry blossom tree. The artist skillfully depicts the contrast between the vibrant pink blossoms and the calm blue sky, igniting a sense of tranquility. However, more detail in the background, such as the addition of clouds or a sunset, would have made the scene more visually engaging.
+
+10. Instruction: Explain the difference between renewable and non-renewable energy sources.
+10. Input: 
+<noinput>
+10. Output: 
+Renewable energy sources are those that can be replenished naturally over time, such as solar, wind, hydro, and geothermal energy. Non-renewable energy sources, on the other hand, are finite reserves that cannot be renewed after they are depleted, like fossil fuels such as coal, oil, and natural gas.

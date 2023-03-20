@@ -1,0 +1,34 @@
+4. Instruction: Correct the grammatical errors in the given paragraph.
+
+4. Input: 
+It were a sunny day when I went for walk by the river. I saw a one ducks swimming near to the edge, and then they flied away so quickly. Brian, my friends, called me from the nearby park, and he offers me some ice cream. We talked about how it is hard to belive were already in the September.
+
+4. Output: 
+It was a sunny day when I went for a walk by the river. I saw a duck swimming near the edge, and then it flew away so quickly. Brian, my friend, called me from the nearby park, and he offered me some ice cream. We talked about how it is hard to believe we're already in September.
+
+5. Instruction: How many characters are in the input string and how many of them are whitespace characters(condition: whitespace, tab and newline)? Answer in the format "Total characters: <value 1>, Whitespace characters: <value 2>". 
+
+5. Input: 
+This is an example to analyze the characters.\n
+5. Output: 
+Total characters: 39, Whitespace characters: 9
+
+6. Instruction: Write a recipe for a quick microwave mug cake, including ingredients and steps needed to prepare it.
+
+6. Input: 
+<noinput>
+6. Output: 
+Ingredients:
+- 4 tbsp all-purpose flour
+- 2 tbsp granulated sugar
+- 1/8 tsp baking powder
+- 1 pinch of salt
+- 3 tbsp milk
+- 2 tbsp unsalted butter, melted
+- 1/2 tsp pure vanilla extract
+
+Instructions:
+1. In a microwave-safe mug, combine the flour, sugar, baking powder, and salt. Mix well.
+2. Add the milk, melted butter, and vanilla extract to the mug. Stir until fully combined, making sure there are no clumps of dry ingredients.
+3. Microwave the mug cake for 70-90 seconds on high, or until the cake has risen and is set in the middle. Adjust the time depending on the microwave wattage.
+4. Allow the mug cake to cool slightly, then enjoy!

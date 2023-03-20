@@ -1,0 +1,38 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input:
+The teacher graded the papers quickly.
+4. Output:
+The papers were graded quickly by the teacher.
+###
+5. Instruction: What is the difference between weather and climate?
+5. Input: <noinput>
+5. Output:
+Weather refers to the short-term atmospheric conditions in a specific area, including temperature, humidity, precipitation, and wind. Climate, on the other hand, is the average of these conditions over an extended period, typically 30 years or more, for a particular region or location.
+###
+6. Instruction: Explain the process of photosynthesis in simple terms.
+6. Input: <noinput>
+6. Output:
+Photosynthesis is a process used by plants, algae, and some bacteria to convert sunlight into chemical energy. They absorb sunlight and then use it to convert carbon dioxide and water into glucose, which they use as food. In doing so, they release oxygen as a byproduct, which is essential for life on Earth.
+###
+7. Instruction: There is a mistake in this sentence. Correct it. 
+7. Input: 
+There are many difference type of trees in the forest.
+7. Output:
+There are many different types of trees in the forest.
+###
+8. Instruction: Imagine that you are on a deserted island surrounded by water. Write out a short message (<50 words) calling for help, given that the message will be contained inside a small bottle found miles away.
+8. Input: <noinput>
+8. Output:
+To anyone who finds this, please HELP! I'm stranded on a deserted island with no means of escape. Any available coast guard, please use the attached coordinates to locate and rescue me. Urgent - my supplies are running low!
+###
+9. Instruction: Discuss how World War II ended.
+9. Input: <noinput>
+9. Output:
+World War II ended with a series of events, including the Allies' victories in Europe and the Pacific. In Europe, it ended on May 8, 1945, when Germany surrendered after the fall of Berlin. In the Pacific, it concluded on September 2, 1945, when Japan formally surrendered following the atomic bombings of Hiroshima and Nagasaki, and the Soviet Union's declaration of war on Japan.
+###
+10. Instruction: Transform the given interesting fact into a trivia question.
+10. Input:
+Australia is home to over 22 million feral camels.
+10. Output:
+What country is home to over 22 million feral camels?
+###

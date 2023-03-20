@@ -1,0 +1,108 @@
+4. Instruction: Summarize the given article in one sentence.
+4. Input: 
+Ride-hailing giant Uber announced its acquisition of alcohol delivery service Drizly for around $1.1 billion in stock and cash, with plans to fully integrate the company's delivery service into its app while maintaining the standalone Drizly app.
+4. Output: 
+Uber acquires alcohol delivery service Drizly for $1.1 billion, planning to integrate it into the Uber app while keeping the standalone Drizly app.
+###
+5. Instruction: Identify the grammatical errors and correct them in the provided sentence. 
+5. Input: 
+She has went to the store and buyed some breads for her family.
+5. Output: 
+She has gone to the store and bought some bread for her family.
+###
+6. Instruction: Provide a word that can be used as a synonym for the given word. 
+6. Input: 
+Jovial
+6. Output: 
+Cheerful
+###
+7. Instruction: Do the characters in the story represent justice, and why?
+7. Input: 
+Once upon a time, in a small village, a merchant named Jack and his wife Jane were accused of theft. During the trial, the village council members listened to the testimonies of several witnesses. It turned out that Jack and Jane were wrongly accused, as their neighbor, a greedy man named Peter, had plotted against them to seize their property. The village council members ruled in favor of Jack and Jane and punished Peter for his wickedness.
+7. Output: 
+Yes, the characters represent justice because the village council members ensured that Jack and Jane were proven innocent after listening to witness testimonies, and they punished Peter for his wicked plot against the couple.
+###
+8. Instruction: Explain the pros and cons of electric cars in a brief paragraph.
+8. Input: 
+<noinput>
+8. Output: 
+Electric cars are praised for their eco-friendliness, as they emit zero tailpipe emissions, helping to reduce air pollution. Additionally, electric vehicles (EVs) have lower operating costs due to cheaper electricity compared to gasoline, and lower maintenance costs. On the downside, EVs generally have a higher upfront cost, limited driving range, and longer refueling times due to charging requirements. Furthermore, the environmental benefits can be diminished if the electricity used to charge the EV is generated from non-renewable sources such as coal.
+###
+9. Instruction: What type of love is portrayed in the song lyrics, and why do you think so?
+9. Input: 
+Oh, her eyes, her eyes
+Make the stars look like they're not shining
+Her hair, her hair
+Falls perfectly without her trying
+She's so beautiful
+And I tell her every day
+10. Output: 
+The type of love portrayed in these lyrics is romantic love. The singer admires the subject's physical appearance and beauty, expressing affection and attraction through compliments and constant reassurance of her beauty.
+###
+10. Instruction: Calculate the covered distance by a car that travels at a speed of 90 km/h for 2.5 hours.
+10. Input: 
+<noinput>
+10. Output: 
+The covered distance is 225 kilometers. (90 km/h * 2.5 hours = 225 km)
+###
+11. Instruction: Write a haiku about the serenity of an autumn forest.
+11. Input: 
+<noinput>
+11. Output: 
+Golden leaves descend,
+Whispers of wind through tree trunks,
+Autumn's peaceful embrace.
+###
+12. Instruction: Determine if the sentence is written in active or passive voice and justify your answer.
+12. Input: 
+The book was read by the students.
+12. Output: 
+The sentence is written in passive voice because the subject (the book) is being acted upon by the students, rather than directly performing the action (reading) itself.
+###
+13. Instruction: Suggest a healthier alternative for the given ingredient or food item.
+13. Input: 
+White rice
+13. Output: 
+Brown rice
+###
+14. Instruction: Explain the main purpose of a comma in a sentence.
+14. Input: 
+<noinput>
+14. Output: 
+The main purpose of a comma in a sentence is to provide clarity by separating words, phrases, or clauses, and to indicate a pause for better readability and understanding.
+###
+15. Instruction: Transform the given sentence into a question.
+15. Input: 
+You are going to the party.
+15. Output: 
+Are you going to the party?
+###
+16. Instruction: Identify the literary device used in the given sentence and explain its effect.
+16. Input: 
+The wind whispered her secrets through the rustling leaves of the willow tree.
+16. Output: 
+The literary device used is personification, as the wind is given human-like qualities, such as whispering and having secrets. Its effect is to create a vivid and engaging image, making the scene more relatable and evoking emotions in the reader.
+###
+17. Instruction: Describe the given scenario using a metaphor.
+17. Input: 
+A group of people arguing loudly in a room.
+17. Output: 
+The room was a raging battlefield of clashing opinions.
+###
+18. Instruction: Rewrite the given sentence in the first person point of view.
+18. Input: 
+She looked out the window and saw the rain pouring down.
+18. Output: 
+I looked out the window and saw the rain pouring down.
+###
+19. Instruction: Explain the difference between "your" and "you're."
+19. Input: 
+<noinput>
+19. Output: 
+"Your" is a possessive pronoun that shows ownership or belonging, while "you're" is a contraction of "you are," which acts as a subject and verb in a sentence.
+###
+20. Instruction: Create a suitable title for the following short story.
+20. Input: 
+In a quaint little town, there lived a mysterious cat named Luna. Every night, Luna would roam the town, visiting the dreams of sleeping residents. The townfolk discovered that Luna could grant their most heartfelt desires, but only if they followed the enigmatic feline's clues in their dreams. This strange tale follows the journey of the town's people as they learn to understand Luna's cryptic messages and find happiness through their personal growth.
+20. Output: 
+Luna's Dreamscapes: The Enigmatic Cat's Clues to Happiness

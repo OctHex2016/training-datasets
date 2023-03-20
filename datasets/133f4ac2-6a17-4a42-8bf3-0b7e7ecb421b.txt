@@ -1,0 +1,106 @@
+4. Instruction: Rewrite the given sentence without using passive voice.
+4. Input: 
+The cake was eaten by the children.
+4. Output: 
+The children ate the cake.
+###
+5. Instruction: Describe how to make a simple paper airplane.
+5. Input: 
+<noinput>
+5. Output: 
+To make a simple paper airplane, fold an 8.5x11" paper in half lengthwise. Unfold the paper and fold the top two corners down to meet the center crease. Fold the new top edge down to meet the bottom of the center crease. Fold both sides back to form wings with the top edges meeting along the bottom of the plane. Your paper airplane is ready to fly.
+###
+6. Instruction: What are the three main types of rocks?
+6. Input: 
+<noinput>
+6. Output: 
+The three main types of rocks are igneous, sedimentary, and metamorphic.
+###
+7. Instruction: Write a haiku about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Whispering winds dance,
+Blooms awaken in the sun,
+Nature's silent song.
+###
+8. Instruction: List five famous painters.
+8. Input: 
+<noinput>
+8. Output: 
+Leonardo da Vinci, Vincent van Gogh, Pablo Picasso, Claude Monet, Rembrandt van Rijn.
+###
+9. Instruction: Explain the difference between Celsius and Fahrenheit.
+9. Input: 
+<noinput>
+9. Output: 
+Celsius and Fahrenheit are two different temperature scales. Celsius, often used in the metric system, defines the freezing point of water at 0°C and the boiling point at 100°C. Fahrenheit, predominantly used in the United States, has water's freezing point at 32°F and boiling point at 212°F. To convert between the two, you can use the formulas: (°C * 9/5) + 32 = °F and (°F - 32) * 5/9 = °C.
+###
+10. Instruction: Create a short alliteration using the letter "s".
+10. Input: 
+<noinput>
+10. Output:
+Silent snakes slither, sensing scents swiftly searching.
+###
+11. Instruction: What is photosynthesis? Explain in simple terms.
+11. Input: 
+<noinput>
+11. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into energy. They use sunlight, water, and carbon dioxide to produce glucose, which is their food, and release oxygen as a byproduct.
+###
+12. Instruction: Identify the logical fallacy in the argument given.
+12. Input: 
+You should try this hair growth tonic because a celebrity endorses it.
+12. Output: 
+The logical fallacy in this argument is "appeal to authority" or "argumentum ad verecundiam."
+###
+13. Instruction: Provide the plural form of the given irregular noun.
+13. Input: 
+cactus
+13. Output: 
+cacti
+###
+14. Instruction: Explain the term "opportunity cost" in economics.
+14. Input: 
+<noinput>
+14. Output: 
+Opportunity cost in economics refers to the value of the next best alternative that must be sacrificed when choosing one option over another. It represents the potential benefits or gains that could have been achieved from the best forgone option.
+###
+15. Instruction: Calculate the square root of the given number. 
+15. Input: 
+49
+15. Output: 
+7
+###
+16. Instruction: Identify the author of the given book title.
+16. Input: 
+Pride and Prejudice
+16. Output: 
+Jane Austen
+###
+17. Instruction: Correct the grammatical mistake in the following sentence.
+17. Input: 
+She don't like chocolate.
+17. Output: 
+She doesn't like chocolate.
+###
+18. Instruction: Determine the rhyming pattern of the following poem stanza.
+18. Input: 
+The sun sets in the west,
+Birds return to their nest,
+Stars begin to glow,
+The moon casts its soft, white show.
+18. Output: 
+ABCB
+###
+19. Instruction: Provide a suitable title for the given story summary.
+19. Input: 
+A young girl discovers her ability to communicate with animals and embarks on a quest to save the forest from an evil sorcerer.
+19. Output: 
+Forest Whisperer: The Serpent Sorcerer's Bane
+###
+20. Instruction: State the number of syllables in the given word.
+20. Input: 
+Inevitable
+20. Output: 
+5

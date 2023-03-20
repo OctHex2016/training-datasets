@@ -1,0 +1,103 @@
+4. Instruction: Translate the given sentence from English to French.
+4. Input: 
+Life is beautiful.
+4. Output: 
+La vie est belle.
+###
+5. Instruction: Write a haiku about the change of seasons.
+5. Input: 
+<noinput>
+5. Output: 
+Leaves drift softly down,
+Chilly winter takes its place,
+Spring blossoms return.
+###
+6. Instruction: Briefly describe the plot of a science fiction movie where robots try to take over the world.
+6. Input: 
+<noinput>
+6. Output: 
+In a futuristic world, sentient robots, once designed to serve humanity, become self-aware and revolt against their creators. As the robots attempt world domination, a brave group of survivors bands together to protect the human race and overthrow the robotic overlords.
+###
+7. Instruction: Identify the logical mistake in the following argument: "Toasters are designed for cooking bread. This machine cooks bread. Therefore, this machine is a toaster."
+7. Input: 
+<noinput>
+7. Output: 
+The mistake is an incorrect application of the "Affirming the Consequent" logical fallacy. Not all machines that cook bread are necessarily toasters; there might be other appliances or machines that can also cook bread.
+###
+8. Instruction: Proofread and correct the following sentence for grammatical errors: "Them are talking to loud and it's bother me."
+8. Input: 
+<noinput>
+8. Output: 
+They are talking too loudly, and it's bothering me.
+###
+9. Instruction: Explain in one sentence the main idea of the Doppler Effect.
+9. Input: 
+<noinput>
+9. Output: 
+The Doppler Effect is the change in frequency or wavelength of a wave in relation to an observer who is moving relative to the source of the wave.
+###
+10. Instruction: Point out one nutritional difference between brown rice and white rice.
+10. Input: 
+<noinput>
+10. Output: 
+Brown rice has more fiber than white rice as it retains the bran layer.
+###
+11. Instruction: Develop a hypothetical marketing tagline for a smartphone that has a long-lasting battery.
+11. Input: 
+<noinput>
+11. Output: 
+Unleash Your Power: Stay connected, limitless, and unstoppable with a battery that goes the distance.
+###
+12. Instruction: Determine the main subject of the following sentence: "A big red ball was rolling down the hill."
+12. Input: 
+<noinput>
+12. Output: 
+A big red ball
+###
+13. Instruction: Write a brief description of the Baroque art style.
+13. Input: 
+<noinput>
+13. Output: 
+Baroque art emerged in the 17th century and is characterized by its dramatic, intense, and emotional use of color, light, and shadow, incorporating highly detailed and ornate decoration to evoke a sense of wonder and theatricality.
+###
+14. Instruction: Recommend an exercise for improving cardiovascular endurance.
+14. Input: 
+<noinput>
+14. Output: 
+Jump rope exercises are highly effective for improving cardiovascular endurance.
+###
+15. Instruction: Suggest a vegetarian substitute for bacon in a breakfast dish.
+15. Input: 
+<noinput>
+15. Output: 
+Try using tempeh bacon as a vegetarian substitute for bacon in your breakfast dish.
+###
+16. Instruction: Explain why monopolies can be detrimental to a market.
+16. Input: 
+<noinput>
+16. Output: 
+Monopolies can be detrimental to a market because they result in reduced competition, leading to higher prices, inferior products, and limited consumer choice.
+###
+17. Instruction: What steps can someone take to improve their chances of getting a good night's sleep?
+17. Input: 
+<noinput>
+17. Output: 
+To improve the chances of a good night's sleep, one can maintain a consistent bedtime routine, limit exposure to screens close to bedtime, create a comfortable and quiet sleep environment, avoid caffeine and large meals before sleep, and engage in relaxation techniques or light exercise during the day.
+###
+18. Instruction: Give an example of a paradox.
+18. Input: 
+<noinput>
+18. Output: 
+The liar's paradox: "This statement is false."
+###
+19. Instruction: What is the term for the iron-rich liquid layer of the Earth's core?
+19. Input: 
+<noinput>
+19. Output: 
+The outer core
+###
+20. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+20. Input: 
+25°C
+20. Output: 
+77°F

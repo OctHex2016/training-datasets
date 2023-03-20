@@ -1,0 +1,103 @@
+4. Instruction: Generate a summary of a news article related to politics. 
+4. Input: 
+https://www.bbc.com/news/world-asia-57640992
+4. Output: 
+Japan has announced a $800m fund to promote coronavirus vaccination in developing nations. Prime Minister Yoshihide Suga said the money would be used to strengthen supply systems, train medical workers and raise awareness of the need for vaccination. The initiative would target southeast Asia, the Pacific Islands and Africa, Suga said.
+###
+5. Instruction: Write a short story using the following prompt. 
+5. Input: 
+A person wakes up with no memories and finds themselves in a strange room.
+5. Output: 
+As I open my eyes and look around the room, I realize that I have no recollection of how I ended up here. The walls are stark white, the only visible door is locked from the outside, and there are no windows. I feel a sense of dread and confusion wash over me. Suddenly, a voice booms through a speaker, startling me. "Welcome to Room 435. You have been selected to take part in a groundbreaking experiment to test the limits of the human mind."
+###
+6. Instruction: Rewrite the following sentence to remove the passive voice. 
+6. Input: 
+The cake was eaten by the children in the park.
+6. Output: 
+The children ate the cake in the park.
+###
+7. Instruction: Explain how to make a dish from a specific cuisine. 
+7. Input: 
+How to make Korean kimchi fried rice.
+7. Output: 
+First, prepare the ingredients including kimchi, cooked rice, chopped vegetables, and protein of your choice. Then, stir-fry them together with a little oil and season with soy sauce and sesame oil. Finally, add an egg on top and serve hot. Enjoy delicious and flavorful Korean kimchi fried rice!
+###
+8. Instruction: Write a haiku about nature. 
+8. Input: 
+<noinput>
+8. Output: 
+Autumn leaves falling,
+Whispering winds rustling through,
+Peaceful nature's song.
+###
+9. Instruction: Make a pun using the word "book". 
+9. Input: 
+<noinput>
+9. Output: 
+I'm reading a book on anti-gravity. It's impossible to put down!
+###
+10. Instruction: Give a recommendation for a book to read in a specific genre. 
+10. Input: 
+Recommend a good thriller novel.
+10. Output: 
+I highly recommend "Gone Girl" by Gillian Flynn. It is an intense and gripping psychological thriller with unexpected twists and turns that will keep you on the edge of your seat until the very end.
+###
+11. Instruction: Define a technical term in a simple way. 
+11. Input: 
+What is the cloud?
+11. Output: 
+The cloud is a term used to describe remote servers that are accessed over the internet to store, manage, and process data instead of on a local computer.
+###
+12. Instruction: Provide steps to troubleshoot a common technology issue. 
+12. Input: 
+How to troubleshoot slow internet connection.
+12. Output: 
+First, restart your router and modem. Next, check if other devices also have slow connection. If so, contact your internet service provider. If not, run a virus scan on your computer and clear cache and cookies. Also, try to reduce the number of devices connected to the network or upgrade to a faster plan.
+###
+13. Instruction: Create a metaphor using an object or animal. 
+13. Input: 
+<noinput>
+13. Output: 
+Leaving the house was like opening up Pandora's box. 
+###
+14. Instruction: Recommend a local restaurant to try. 
+14. Input: 
+Recommend a good Italian restaurant in San Francisco. 
+14. Output: 
+I highly recommend "A16" in San Francisco. They offer delicious and authentic Italian food, including tasty Neapolitan pizzas and homemade pasta dishes, all served in a cozy and welcoming atmosphere.
+###
+15. Instruction: Explain a philosophical concept in simple terms. 
+15. Input: 
+What is the concept of "existentialism"?
+15. Output: 
+Existentialism is a philosophical belief that emphasizes individual freedom and choice. It argues that individuals create the meaning of their own lives, and that humans are inherently free and responsible for their own actions, even if this leads to anxiety or meaninglessness.
+###
+16. Instruction: Write a Yelp review for a movie. 
+16. Input: 
+Review for "La La Land".
+16. Output: 
+"La La Land" is a stunning and enchanting musical that tells a beautiful and heartfelt story about love, ambition, and sacrifice. With captivating performances by Emma Stone and Ryan Gosling, breathtaking cinematography, and a memorable soundtrack full of toe-tapping and emotional songs, this movie is an absolute must-see.
+###
+17. Instruction: Provide advice on a personal issue. 
+17. Input: 
+What should I do if I'm feeling burnt out at work?
+17. Output: 
+It's important to prioritize your mental health and well-being. Take breaks throughout the day and make sure to get enough rest and exercise. Consider speaking with a supervisor about adjusting workload or responsibilities. Try to find moments of joy, whether that be through hobbies or spending time with loved ones.
+###
+18. Instruction: Describe the cultural significance of a holiday. 
+18. Input: 
+What is the cultural significance of Diwali?
+18. Output: 
+Diwali, also known as the "festival of lights," is a Hindu holiday that celebrates new beginnings, light over darkness, and good over evil. It is typically celebrated over five days and involves lighting diyas (oil lamps), preparing special meals and sweets, and spending time with family and loved ones. It is also seen as a time to forgive and let go of past resentments.
+###
+19. Instruction: Rewrite the following sentence to remove gendered language. 
+19. Input: 
+She is the best nurse in the hospital.
+19. Output: 
+They are the best nurse in the hospital.
+###
+20. Instruction: Explain a process in simple steps. 
+20. Input: 
+How to make cold brew coffee.
+20. Output: 
+First, grind coffee beans coarsely and place them in a jar with cold water. Let the coffee steep for 12-24 hours in the refrigerator. Strain out the coffee grounds using a cheesecloth or fine mesh sieve. Dilute the coffee with water or milk to taste, and add sweetener if desired. Enjoy a smooth and refreshing cup of cold brew coffee!

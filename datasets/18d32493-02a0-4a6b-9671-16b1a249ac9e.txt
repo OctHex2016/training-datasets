@@ -1,0 +1,122 @@
+4. Instruction: Generate a creative story with the given characters and a surprise ending. 
+4. Input: 
+Characters - A magician, a detective, a princess
+4. Output: 
+Once upon a time, a magician, a detective, and a princess embarked on a journey to find a lost treasure. During their quest, the magician suddenly disappeared. After an intense investigation, the detective discovered that the magician was actually the lost treasure all along. The princess was shocked and grateful for the unexpected surprise.
+###
+5. Instruction: Correct the following sentence for grammar and punctuation errors. 
+5. Input: 
+"Their are many dogs running in the park everyday."
+5. Output: 
+"There are many dogs running in the park every day."
+###
+6. Instruction: Identify the author of the given book. 
+6. Input: 
+"The Catcher in the Rye"
+6. Output: 
+The author of "The Catcher in the Rye" is J.D. Salinger.
+###
+7. Instruction: Write a mathematical formula for finding the area of a circle. 
+7. Input: 
+<noinput>
+7. Output: 
+The formula for finding the area of a circle is π (pi) times the radius squared, or A = πr^2.
+###
+8. Instruction: Generate a headline for a news article based on the given event. 
+8. Input: 
+A major earthquake hits a city in California.
+8. Output: 
+"Breaking News: Massive Earthquake Strikes California City, Cause of Damage Yet to be Assessed"
+### 
+9. Instruction: Summarize the given article in 3-4 sentences. 
+9. Input: 
+https://www.nytimes.com/2022/05/25/business/media/disney-asian-characters-controversy.html
+9. Output: 
+Disney has found themselves in hot water over the depiction of an Asian character in their latest film, "Legend of the Magic Bell." Critics have accused the company of perpetuating offensive stereotypes and have called for a boycott of the movie. Disney has responded by apologizing and promising to take steps to avoid similar issues in the future.
+###
+10. Instruction: Suggest a healthy meal plan for an individual trying to lose weight. 
+10. Input: 
+Male, 30 years old, 6'0", 220 lbs, sedentary lifestyle
+10. Output: 
+Breakfast:
+-2 scrambled eggs with diced peppers and onions
+-1 slice of whole wheat toast
+-1/2 an orange
+Snack:
+-1 small apple
+Lunch:
+-Grilled chicken breast
+-1 cup of mixed greens with cherry tomatoes and cucumber
+-1/2 cup of quinoa
+Snack:
+-1/4 cup of almonds
+Dinner:
+-Grilled salmon fillet
+-1/2 cup of brown rice
+-1/2 cup of steamed broccoli
+###
+11. Instruction: Find synonyms for the given word. 
+11. Input: 
+Happy
+11. Output: 
+Joyful, content, delighted, pleased, ecstatic
+###
+12. Instruction: Write a short story in the given genre. 
+12. Input: 
+Mystery
+12. Output: 
+Detective John Miles had been working on the case for months, but all leads had come up with nothing. It wasn't until he received an anonymous tip pointing him towards a seedy bar that he finally made a break in the case. There, he found a clue linking the crime to one of the most powerful men in the city. With this newfound information, he was finally able to bring the criminal to justice.
+### 
+13. Instruction: Convert the given temperature from Celsius to Fahrenheit. 
+13. Input: 
+25 degrees Celsius
+13. Output: 
+25 degrees Celsius is equal to 77 degrees Fahrenheit.
+###
+14. Instruction: Write a descriptive paragraph about the given object. 
+14. Input: 
+Chair
+14. Output: 
+A chair is a piece of furniture designed for sitting, typically consisting of a wooden or metal frame with a backrest and a seat. The design of chairs can vary widely, with countless styles and materials used to suit a range of functions and aesthetic preferences. From classic wooden dining chairs to modern ergonomic office chairs, the humble chair remains an essential part of our daily lives.
+###
+15. Instruction: Identify the capital city of the given country. 
+15. Input: 
+Russia
+15. Output: 
+The capital city of Russia is Moscow.
+###
+16. Instruction: Write a dialogue between two characters discussing the given topic. 
+16. Input: 
+The benefits of meditation
+16. Output: 
+Character 1: "I've been trying to practice meditation lately. I keep hearing about all these benefits, like reduced stress and better focus."
+Character 2: "Oh yeah, I'm a big fan of meditation. It's definitely helped me stay more centered and less anxious."
+Character 1: "That's great to hear. I've been finding it pretty challenging though, any tips?"
+Character 2: "Start with something simple, like focusing on your breath. Don't worry if your mind wanders, just acknowledge it and bring your attention back to your breath."
+###
+17. Instruction: Identify the correct spelling of the given word. 
+17. Input: 
+Achievement
+17. Output: 
+The correct spelling of the word is "achievement".
+###
+18. Instruction: Summarize the plot of the given movie in 1-2 sentences. 
+18. Input: 
+The Godfather
+18. Output: 
+"The Godfather" tells the story of the Corleone family, a powerful Mafia dynasty led by patriarch Vito Corleone. When the family is threatened by rival gangs, it falls to Vito's son Michael to take up the mantle of leadership and protect his family's interests.
+###
+19. Instruction: Write a short poem on the given theme. 
+19. Input: 
+Nature
+19. Output: 
+From the mountains to the sea
+The beauty of nature sets me free
+Through valleys and forests I roam
+Finding peace and solace in my home
+###
+20. Instruction: Give a recommendation for a good book in the given category. 
+20. Input: 
+Horror
+20. Output: 
+For fans of horror, I highly recommend "The Haunting of Hill House" by Shirley Jackson. This classic novel tells the story of a group of people who spend a summer in a haunted mansion, with chilling results. Jackson's masterful storytelling and psychological horror will leave you on the edge of your seat.

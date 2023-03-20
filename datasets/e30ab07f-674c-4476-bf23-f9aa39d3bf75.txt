@@ -1,0 +1,109 @@
+4. Instruction: Translate the following sentence from French to English.
+4. Input: 
+Je suis ravi de vous rencontrer.
+4. Output: 
+I am delighted to meet you.
+###
+5. Instruction: Identify the grammatical error in this sentence.
+5. Input: 
+He studies majorly only mathematics.
+5. Output: 
+The adverb "majorly" is misplaced.
+###
+6. Instruction: Elaborate the following idea into a news headline.
+6. Input: 
+Electric car sales increase in the UK
+6. Output: 
+UK Electric Car Sales Soar as Green Transportation Gains Traction
+###
+7. Instruction: Convert this text into passive voice.
+7. Input: 
+The sun melted the snow.
+7. Output: 
+The snow was melted by the sun.
+###
+8. Instruction: Recommend a book that will help someone learn about history.
+8. Input:
+<noinput>
+8. Output: 
+Consider reading "A Short History of Nearly Everything" by Bill Bryson.
+###
+9. Instruction: Identify the main conflict in the given passage.
+9. Input: 
+Once upon a time in a small village, there lived a young girl named Ella. She was sweet, kind, and had many friends. Ella's father was a wealthy merchant, but the villagers hated him because he never shared his enormous wealth. One day, Ella's father became very ill and her mother had to take care of him, leaving Ella to run the village markets. Proving herself to be skilled at trade, Ella soon became the darling of the village. However, the villagers held onto their grudge, deciding to take their wrath out on the innocent girl.
+9. Output: 
+The main conflict is the villagers' grudge against Ella's father, which they unfairly decide to take out on Ella.
+###
+10. Instruction: Write a rhymed couplet about two friends.
+10. Input: 
+<noinput>
+10. Output: 
+Together they would roam, two friends like a poem,
+In the tides of life, they sailed as harmonious as a rhyme.
+###
+11. Instruction: Identify the career path based on the given set of interests.
+11. Input: 
+Working with animals, being outdoors, study of wildlife, conservation efforts
+11. Output: 
+A career as a wildlife biologist or conservationist would be suitable.
+###
+12. Instruction: Write a haiku about a peaceful forest.
+12. Input: 
+<noinput>
+12. Output: 
+Ancient woods whisper,
+Leaves rustle, embrace the breeze,
+Nature's breath is peace.
+###
+13. Instruction: Explain the result of the given scientific experiment.
+13. Input: 
+Researchers found that participants who stared at a red light for three minutes each day had a 20% improvement in visual acuity after two weeks compared to a control group staring at a white light. The study group also experienced sustained improvements for up to two months.
+13. Output: 
+The experiment shows that staring at a red light for three minutes daily can lead to a significant improvement in visual acuity, with sustained effects lasting up to two months.
+###
+14. Instruction: Please tell me a joke related to programming.
+14. Input: 
+<noinput>
+14. Output: 
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 is equal to Dec 25. (Octal and Decimal representations!)
+###
+15. Instruction: Write a short fact about the human body.
+15. Input: 
+<noinput>
+15. Output: 
+The longest bone in the human body is the femur, or thigh bone, which makes up about a quarter of a person's height.
+###
+16. Instruction: Assess the tone of the following text.
+16. Input: 
+Are you seriously this bad at your job? Do you come to work just to create problems? There is no way you're going to last long here with that poor performance.
+16. Output: 
+The tone of the text is derogatory and condescending.
+###
+17. Instruction: Write an escape room clue based on a historical event.
+17. Input: 
+<noinput>
+17. Output: 
+"In fourteen hundred ninety-two, a voyage so grand and true, find the three ships that Columbus knew, to unlock the treasure's chest anew."
+###
+18. Instruction: Create a mnemonic for remembering the order of operations in mathematics.
+18. Input: 
+<noinput>
+18. Output: 
+Please Excuse My Dear Aunt Sally (PEMDAS: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)
+###
+19. Instruction: Identify the false statement about Earth from the given options.
+19. Input: 
+A. Earth has one natural satellite.
+B. Earth's atmosphere is composed primarily of helium.
+C. Earth is the third planet from the Sun.
+D. Earth is part of the solar system.
+19. Output: 
+B. Earth's atmosphere is composed primarily of helium (False statement).
+###
+20. Instruction: List three possible causes for a computer to be slow.
+20. Input: 
+<noinput>
+20. Output: 
+1. Insufficient RAM
+2. Hard disk space running low
+3. Malware or virus infection

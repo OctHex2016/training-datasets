@@ -1,0 +1,21 @@
+4. Instruction: Generate a brief summary of the given news article. 
+4. Input: 
+Source: NPR
+Title: How Accurate Are Online Symptom Checkers?
+Link: https://www.npr.org/sections/health-shots/2022/03/31/1089807075/how-accurate-are-online-symptom-checkers
+4. Output: 
+This article discusses the accuracy of online symptom checkers. While these tools can provide some useful guidance, their accuracy can be limited. One study found that online symptom checkers were accurate in only 34% of diagnoses. It is important for users to use these tools as a starting point, and to follow up with a healthcare professional for proper diagnosis and treatment. 
+###
+5. Instruction: Edit the given email to make it more formal. 
+5. Input: 
+Subject: Meeting Tomorrow?
+Content: 
+Hey team, are we still on for our meeting tomorrow at 2pm? Let me know if anything has changed. 
+Thanks,
+Jane
+5. Output: 
+Subject: Status of Tomorrow's Meeting
+Content: 
+Dear team, I am writing to confirm if we are still scheduled to meet tomorrow at 2 PM. If you have any updates, please let me know as soon as possible. 
+Thank you, 
+Jane

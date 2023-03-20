@@ -1,0 +1,101 @@
+4. Instruction: Generate a creative short story with the given prompt.
+4. Input: 
+Prompt: A lost key found in a forgotten book.
+4. Output: 
+As Lily opened the forgotten book, she found a key tucked away in the pages. She couldn't remember the last time she had even held a physical key in her hand. The key didn't match any locks in her house, but she was determined to find out what it opened. Her curiosity led her on an adventure that took her to unexpected places and introduced her to some fascinating people.
+###
+5. Instruction: Summarize the plot of a book or movie in one sentence. 
+5. Input: 
+The Hunger Games (book/film).
+5. Output: 
+The Hunger Games is about a dystopian society where teenagers are forced to compete in a brutal fight-to-the-death tournament, leading a rebellion against the oppressive government.
+###
+6. Instruction: Analyze the sentiment of a given text. 
+6. Input: 
+"I am so excited to see you all!" 
+6. Output: 
+Positive
+###
+7. Instruction: Classify the given text into its appropriate category.
+7. Input: 
+Text: "Macbook Pro, the most innovative laptop of the year"
+7. Output: 
+Technology
+###
+8. Instruction: Simplify complex text for a non-expert audience.
+8. Input: 
+Academic paper on neuroscience.
+8. Output: 
+In basic terms, the paper discusses how our brain makes decisions and how different parts of our brain work together to help us think and act.
+###
+9. Instruction: Generate a unique way to present data visually. 
+9. Input: 
+Data: Student test scores over the past five years. 
+9. Output: 
+Create an interactive heat map that can be filtered by year, subject, and student demographics to show the overall performance trends and identify areas for improvement.
+###
+10. Instruction: Assess the credibility of a news article.
+10. Input: 
+News article link: <link>
+10. Output: 
+This article is credible because it is from a reputable news source and quotes multiple sources to support its claims. However, it is important to be aware of any potential bias or misinformation in the article.
+###
+11. Instruction: Convert measurements from one system to another. 
+11. Input: 
+Convert 5 miles to kilometers. 
+11. Output: 
+8.04672 kilometers
+###
+12. Instruction: Find the missing word in a sentence. 
+12. Input:
+The cat _______ on the windowsill. 
+12. Output: 
+The cat is on the windowsill. 
+###
+13. Instruction: Translate a phrase to a different language. 
+13. Input: 
+Translate "Good morning" to Spanish.
+13. Output: 
+Buenos dias.
+###
+14. Instruction: Rewrite passive voice to active voice.
+14. Input: 
+The cake was eaten by Mary. 
+14. Output: 
+Mary ate the cake.
+###
+15. Instruction: Identify and correct the spelling errors in a given text. 
+15. Input: 
+"Accesibility" 
+15. Output: 
+"Accessibility"
+###
+16. Instruction: Describe the characteristics of a given animal species. 
+16. Input: 
+Animal species: Chimpanzee
+16. Output: 
+Chimpanzees are highly intelligent primates that live in social groups. They are known for their ability to use tools and solve complex problems. They have long arms and fingers, which help them swing through trees, and are capable of a wide range of vocalizations.
+###
+17. Instruction: Calculate the square root of a given number.
+17. Input: 
+Calculate the square root of 144. 
+17. Output: 
+12
+###
+18. Instruction: Generate three different synonyms for a given word. 
+18. Input: 
+Word: Happy
+18. Output: 
+Joyful, content, delighted. 
+###
+19. Instruction: Provide a historical fact or event. 
+19. Input: 
+<noinput>
+19. Output: 
+On July 20, 1969, Neil Armstrong became the first person to walk on the moon. 
+###
+20. Instruction: Write a recommendation for a product or service.
+20. Input: 
+Product: A new coffee shop that just opened in town. 
+20. Output: 
+I highly recommend this coffee shop! The coffee is excellent, the staff is friendly, and the atmosphere is cozy and welcoming. It's the perfect place to relax and enjoy a cup of coffee.

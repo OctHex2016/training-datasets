@@ -1,0 +1,105 @@
+4. Instruction: Given a paragraph about an event, summarize it in one sentence.
+4. Input: 
+The annual pumpkin festival in the small town of Oakville, which draws thousands of visitors every year, was canceled due to a shortage of pumpkins caused by a fungus outbreak.
+4. Output: 
+The Oakville pumpkin festival was canceled due to a pumpkin shortage caused by a fungus outbreak.
+###
+5. Instruction: Convert a string in Python to all uppercase characters. 
+5. Input: 
+string = "hello, world!"
+5. Output: 
+string.upper()
+### 
+6. Instruction: Write a creative story using the following three words: rainbow, unicorn, and pizza.
+6. Input: 
+<noinput>
+6. Output: 
+Once upon a time, a magical unicorn named Sparkle loved to chase rainbows in the sky, but discovered a new passion when she smelled the scent of a cheesy, delicious pizza. From that day forward, Sparkle split her time between flying through the clouds collecting rainbows and devouring slices of pizza on the ground below.
+###
+7. Instruction: Given a list of numbers in Python, multiply each number in the list by 2. 
+7. Input: 
+num_list = [3, 5, 8, 10, 2]
+7. Output: 
+for i in range(len(num_list)):
+    num_list[i] = num_list[i]*2
+print(num_list)
+###
+8. Instruction: Write a paragraph summarizing the plot of a book about a young woman who becomes the ruler of a kingdom. 
+8. Input: 
+Title of the book: The Queen's Ascension
+8. Output: 
+The young woman, named Lyra, ascends to the throne of her kingdom unexpectedly when her father dies. She grapples with the challenges of ruling, including assassination attempts and plotting conspiracies, while trying to find her place in this new world of power and politics.
+###
+9. Instruction: Given a paragraph about a company's new product, describe the three main features of the product.
+9. Input: 
+Apple's new iPhone 13 boasts a longer battery life, a new cinematic mode for video, and improved processing speed.
+9. Output: 
+The iPhone 13 features a longer battery life, a new cinematic mode for video, and improved processing speed.
+###
+10. Instruction: Transform the following sentence from active voice to passive voice.
+10. Input: 
+The dog chased the cat.
+10. Output: 
+The cat was chased by the dog.
+###
+11. Instruction: Given a paragraph about a tourist destination, list three notable attractions in that destination.
+11. Input: 
+Located on the coast of California, San Francisco is a popular tourist destination with a rich history, stunning landscapes, and plenty of entertainment options.
+11. Output: 
+San Francisco offers tourists a rich history, stunning landscapes, and diverse entertainment options, including the Golden Gate Bridge, Fisherman's Wharf, and Alcatraz Island.
+###
+12. Instruction: Rewrite the following sentence using a synonym for "big".
+12. Input: 
+The elephant is big.
+12. Output: 
+The elephant is large.
+###
+13. Instruction: Describe how to make scrambled eggs.
+13. Input: 
+<noinput>
+13. Output: 
+Crack two eggs into a bowl and whisk together with a pinch of salt and pepper. Heat a non-stick pan over medium heat and add a pat of butter. Once the butter is melted, pour in the egg mixture and let it sit for a moment. Start gently folding the mixture with a spatula from the outer edges into the center of the pan. Continue and cook for 2-3 minutes until fully cooked. Serve hot with toast.
+###
+14. Instruction: Given a mathematical equation, solve for x: 3x + 4 = 10.
+14. Input: 
+<noinput>
+14. Output: 
+Subtract 4 from both sides of the equation to get 3x = 6. Divide 3 from both sides to get x = 2.
+###
+15. Instruction: Write a paragraph summarizing the plot of a movie about a curious alien who visits Earth.
+15. Input: 
+Title of the movie: ET: The Extra Terrestrial
+15. Output: 
+The plot of the movie centers around an alien who is accidentally stranded on Earth and his friendship with a young boy named Elliot. As he tries to find a way to return home, ET's curious and playful nature attracts the attention of the government, leading to a chase that threatens to separate him from his new friend forever.
+###
+16. Instruction: Given a sentence with an incorrect word, correct the misspelled word.
+16. Input: 
+I like to eet ice cream.
+16. Output: 
+I like to eat ice cream.
+###
+17. Instruction: Write a haiku poem about a sunrise.
+17. Input: 
+<noinput>
+17. Output: 
+Rising in the east,
+Colors swirl and dance with glee,
+A new day begins.
+###
+18. Instruction: Given a paragraph about a new restaurant, describe the type of cuisine they serve and two signature dishes.
+18. Input: 
+Taste of India is a new restaurant that specializes in authentic Indian cuisine, featuring a diverse menu of vegetarian and non-vegetarian options. 
+18. Output: 
+Taste of India offers traditional Indian dishes such as Chicken Tikka Masala and Tandoori Chicken, as well as a variety of vegetarian options such as Aloo Gobi and Saag Paneer.
+###
+19. Instruction: Given a paragraph about a person, summarize their personality in one sentence.
+19. Input: 
+John is a musician who is passionate about playing the guitar and has an easy-going and friendly personality.
+19. Output: 
+John is a laid-back and sociable musician with a passion for guitar.
+###
+20. Instruction: Write an argumentative essay on whether or not college education should be free for everyone. 
+20. Input: 
+<noinput>
+20. Output: 
+Education is the cornerstone of opportunity and economic growth, and the availability of college education should be accessible to everyone regardless of their socioeconomic status. With higher education, individuals are able to pursue their dreams and ambitions, and ultimately contribute to society in meaningful ways. While there is no simple solution to funding free college education, investing in our education system is investing in the future of our country.

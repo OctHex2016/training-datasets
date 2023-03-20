@@ -1,0 +1,101 @@
+4. Instruction: Write a summary of the given text. 
+4. Input:
+The Mississippi River is the fourth-longest river in the world, flowing 3,710 kilometers from its source at Lake Itasca in Minnesota to its mouth in the Gulf of Mexico. It forms the border between ten US states and has played a significant role in American history, from trade and transportation to the Civil War.
+4. Output: 
+The Mississippi River is a long river that stretches 3,710 kilometers from Lake Itasca in Minnesota to the Gulf of Mexico. It forms the border of ten US states and played an important role in American history, including trade, transportation, and the Civil War. 
+###
+5. Instruction: Generate a headline for the given article. 
+5. Input: 
+Scientists have found that virtual reality therapy can help people with depression by making them more compassionate towards themselves.
+5. Output: 
+Virtual Reality Therapy Found to Ease Depression by Boosting Self-Compassion 
+###
+6. Instruction: Correct the grammar mistake in the following sentence. 
+6. Input: 
+Her and I went to the store yesterday.
+6. Output: 
+She and I went to the store yesterday. 
+###
+7. Instruction: Generate an appropriate question for the given answer. 
+7. Input: 
+Answer: The Great Wall of China is over 13,000 miles long.
+7. Output: 
+What is the length of The Great Wall of China? 
+###
+8. Instruction: Fill in the blank with the most appropriate word.
+8. Input: 
+The warm and humid climate of the tropics provides ________ conditions for growing grapes. 
+8. Output: 
+The warm and humid climate of the tropics provides favorable conditions for growing grapes. 
+###
+9. Instruction: Reorder the words in the following sentence to make it grammatically correct. 
+9. Input: 
+With friends she tonight is dinner having. 
+9. Output: 
+She is having dinner with friends tonight. 
+###
+10. Instruction: Summarize the given paragraph. 
+10. Input: 
+The benefits of exercise go beyond physical fitness alone. Engaging in regular exercise can also improve mental health, boost energy levels, and lower the risk of developing chronic health conditions, such as heart disease and diabetes. 
+10. Output: 
+Regular exercise not only improves physical fitness, but also has mental health benefits, increases energy levels, and reduces the risk of chronic diseases like heart disease and diabetes. 
+###
+11. Instruction: Correct the spelling mistake in the following sentence.
+11. Input: 
+I tasted the delicous pudding. 
+11. Output: 
+I tasted the delicious pudding.
+###
+12. Instruction: Generate an appropriate response to the given statement. 
+12. Input: 
+Statement: I'm really hungry, what should I eat? 
+12. Output: 
+How about some pizza or sushi? What type of cuisine sounds good to you? 
+###
+13. Instruction: Write the opposite of the given word. 
+13. Input: 
+Happy 
+13. Output: 
+Sad
+###
+14. Instruction: Write any two adjectives that describe the given object.  
+14. Input: 
+The Eiffel Tower
+14. Output: 
+Iconic, towering 
+###
+15. Instruction: Add appropriate punctuation to the following sentence.
+15. Input: 
+just got back from the grocery store i need to unpack the groceries and make dinner 
+15. Output: 
+Just got back from the grocery store. I need to unpack the groceries and make dinner. 
+###
+16. Instruction: Fill in the blank with the most appropriate word. 
+16. Input: 
+My little sister is really ________. She always wants to play with me. 
+16. Output: 
+My little sister is really playful. She always wants to play with me. 
+###
+17. Instruction: Generate an appropriate response to the given question. 
+17. Input: 
+Question: Where can I find the nearest gas station? 
+17. Output: 
+There's a gas station around the corner on Main Street, or there's another one about a mile down the road to the right. Which direction would you like to go? 
+###
+18. Instruction: Correct the punctuation errors in the following sentence. 
+18. Input: 
+I went to the store bought milk bread and eggs. 
+18. Output: 
+I went to the store, bought milk, bread, and eggs. 
+###
+19. Instruction: Write a synonym for the given word. 
+19. Input: 
+Big
+19. Output: 
+Large 
+###
+20. Instruction: Write three compelling reasons why someone should visit your hometown. 
+20. Input: 
+<noinput>
+20. Output: 
+There are many reasons to visit my hometown. It's full of history, with many museums and landmarks to explore. It's also a food lover's paradise, with a diverse culinary scene featuring local specialties. Lastly, the natural beauty of the surrounding countryside is breathtaking, with opportunities for hiking and outdoor recreation.

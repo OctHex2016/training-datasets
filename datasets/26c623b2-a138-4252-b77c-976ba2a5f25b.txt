@@ -1,0 +1,50 @@
+4. Instruction: Explain the working principle of a solar panel.
+4. Input: <noinput>
+4. Output: 
+Solar panels are made of photovoltaic (PV) cells, which convert sunlight into direct current (DC) electricity. When sunlight hits the solar panel, photons in the sunlight knock electrons loose from atoms in the PV cells. The movement of these electrons creates an electric current. The DC electricity produced by the PV cells is then converted into alternating current (AC) electricity by an inverter. Finally, the AC electricity can be used to power your home or sent back to the electrical grid.
+
+5. Instruction: Analyze the pros and cons of buying an electric car.
+5. Input: <noinput>
+5. Output:
+Pros:
+1. Environmentally friendly: Electric cars produce zero emissions.
+2. Lower fuel costs: Electricity is generally cheaper than gasoline over time.
+3. Reduced maintenance: Electric vehicles have fewer moving parts, resulting in lower maintenance costs.
+4. Quiet operation: Electric motors are quieter than combustion engines.
+
+Cons:
+1. Limited range: Electric cars typically have a shorter driving range than gasoline-powered vehicles.
+2. Charging time: Charging an electric vehicle takes longer than refueling a traditional car.
+3. Availability of charging stations: Charging infrastructure is less widespread than gas stations.
+4. Initial cost: Electric cars usually have a higher upfront cost than their gasoline counterparts.
+
+6. Instruction: Write an email to a professor apologizing for missing a meeting due to a last-minute emergency.
+6. Input: 
+To: Prof. Johnston 
+Subject: Apology for missing our meeting yesterday
+6. Output:
+Dear Prof. Johnston,
+
+I hope this email finds you well. I am writing to sincerely apologize for missing our scheduled meeting yesterday. Unfortunately, I experienced a last-minute emergency at home, which required my immediate attention and prevented me from attending the meeting.
+
+I understand that my absence may have caused inconvenience, and I sincerely regret missing the opportunity to discuss our ongoing project. Please let me know if we can reschedule the meeting for a mutually convenient time. I assure you that I will take the necessary steps to prevent this situation from happening again in the future.
+
+Thank you for your understanding, and I look forward to our next meeting.
+
+Best regards,
+
+[Your Name]
+
+7. Instruction: Summarize the main points of the article.
+7. Input: 
+The article is about how the COVID-19 pandemic has affected the travel industry, focusing on the sharp decline in demand for air travel, cruise lines, and accommodations. It highlights the steps governments and businesses are taking to promote a safe return to travel, such as implementing health and safety protocols, providing financial support to affected businesses, and developing vaccine passports. Additionally, it examines how the pandemic has led to increased interest in domestic vacations, nature-based tourism, and flexible travel arrangements, as people are looking for safe, adaptable alternatives.
+7. Output:
+The COVID-19 pandemic has significantly impacted the travel industry, with reduced demand for air travel, cruises, and accommodations. Governments and businesses are working to promote safe travel through health protocols, financial support, and vaccine passports. As a result, domestic vacations, nature-based tourism, and flexible arrangements are gaining popularity among travelers.
+
+8. Instruction: Convert the given text into a haiku (5-7-5 syllable structure).
+8. Input: 
+A melancholy autumn evening, the sun sets over the tranquil lake, and leaves rustle softly in the crisp breeze.
+8. Output: 
+Autumn sun declines,
+Tranquil lake, leaves rustle soft,
+Crisp breeze whispers by.

@@ -1,0 +1,29 @@
+4. Instruction: Rewrite the following sentence using passive voice. 
+4. Input: 
+The researchers discovered a new species of frog in the Amazon rainforest.
+4. Output: 
+A new species of frog was discovered by the researchers in the Amazon rainforest.
+
+5. Instruction: Summarize the main points of the following text in three to four sentences.
+5. Input: 
+Bitcoin is a digital or virtual currency created in 2009 that uses peer-to-peer technology to facilitate instant payments. It follows the ideas set out in a whitepaper by the mysterious and pseudonymous developer Satoshi Nakamoto, whose true identity has yet to be verified. The appeal of Bitcoin lies in its promise to provide low-cost, high-speed transactions without the need for a bank or other centralized authority. Bitcoin's efficiency comes from its underlying technology: the blockchain, a public ledger of all transactions. It is decentralized and transparent, so it is not controlled by any one person or organization. However, critics are concerned about its volatility, among other risks. High-profile hacks, for instance, have led some to doubt the security of the currency. Additionally, critics argue that it can be used for illegal activities such as money laundering, tax evasion, and more.
+5. Output: 
+Bitcoin, a digital currency created in 2009, uses peer-to-peer technology and blockchain for instant, low-cost transactions without a centralized authority. Its creator, Satoshi Nakamoto, remains anonymous. Some of the concerns regarding Bitcoin include its volatility, high-profile hacking incidents, and its potential use in illegal activities like money laundering and tax evasion.
+
+6. Instruction: Convert the following text into a third-person narrative.
+6. Input: 
+I arrived at the bus station, and I was searching for my wallet when I realized I lost it. In panic, I began retracing my steps but couldn't find it. Eventually, a kind stranger approached me and handed my wallet back, saying they found it on the ground nearby.
+6. Output: 
+She arrived at the bus station and was searching for her wallet when she realized she had lost it. In a state of panic, she began retracing her steps, but couldn't find it. Eventually, a kind stranger approached her and handed her wallet back, saying they found it on the ground nearby.
+
+7. Instruction: Describe the advantages and disadvantages of telecommuting.
+7. Input:
+<noinput>
+7. Output: 
+Advantages of telecommuting include increased flexibility, reduced commuting time, lower overhead costs for businesses, and work-life balance improvements. Disadvantages include feelings of isolation, decreased team collaboration, potential security concerns, and challenges in monitoring employee productivity.
+
+8. Instruction: Analyze the message in the following quote and explain its relevance today.
+8. Input: 
+"The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke
+8. Output: 
+The quote emphasizes the importance of actively fighting against injustice and malicious acts. It suggests that inaction or apathy can lead to the triumph of evil. Its relevance today lies in the fact that many social, political, and environmental issues still require the efforts of responsible and morally upright individuals to avoid deterioration and promote positive change.

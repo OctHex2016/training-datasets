@@ -1,0 +1,101 @@
+4. Instruction: Rewrite the following sentence in the active voice. 
+4. Input: 
+The cake was eaten by the dog.
+4. Output: 
+The dog ate the cake.
+###
+5. Instruction: What is the capital of India? 
+5. Input: 
+<noinput>
+5. Output: 
+The capital city of India is New Delhi.
+###
+6. Instruction: Classify the given text as news, opinion, or advertisement.
+6. Input: 
+Hurry now and take advantage of our biggest sale of the year!
+6. Output: 
+Advertisement.
+###
+7. Instruction: Generate a synonym for the word "happy". 
+7. Input: 
+<noinput>
+7. Output: 
+Delighted.
+###
+8. Instruction: Which of these animals is not a mammal: whales, sharks, kangaroos, or cows? 
+8. Input: 
+<noinput>
+8. Output: 
+Sharks are not mammals. 
+###
+9. Instruction: Order the following list in alphabetical order. 
+9. Input: 
+Fruit, Dog, Apple, Cat, Banana
+9. Output: 
+Apple, Banana, Cat, Dog, Fruit.
+###
+10. Instruction: Complete the following analogy: 
+10. Input: 
+Football: Touchdown:: Basketball: ?
+10. Output: 
+Basket.
+###
+11. Instruction: Identify the subject and verb in the following sentence. 
+11. Input: 
+The cat jumped over the fence.
+11. Output: 
+Subject: The cat, Verb: jumped.
+###
+12. Instruction: Write a question using the following word: When. 
+12. Input: 
+The movie will start at 7 pm. 
+12. Output: 
+When will the movie start?
+###
+13. Instruction: Complete the following phrase with the appropriate preposition: 
+13. Input: 
+The book is __ the table.
+13. Output: 
+The book is on the table.
+###
+14. Instruction: What are the three primary colors? 
+14. Input: 
+<noinput>
+14. Output: 
+The primary colors are red, blue, and yellow.
+###
+15. Instruction: Rearrange the following word to form a sentence: 
+15. Input: 
+Runs – he – fast
+15. Output: 
+He runs fast.
+###
+16. Instruction: Identify the noun in the following sentence. 
+16. Input: 
+The car drove down the street.
+16. Output: 
+Noun: car.
+###
+17. Instruction: Complete the following phrase with the appropriate verb tense: 
+17. Input: 
+I _______ (to run) every morning.
+17. Output: 
+I run every morning.
+###
+18. Instruction: Write a sentence using the word "although". 
+18. Input: 
+<noinput>
+18. Output: 
+Although it was raining, the children still went outside to play.
+###
+19. Instruction: Correct the grammar in the following sentence. 
+19. Input: 
+Me and my friend went to the park.
+19. Output: 
+My friend and I went to the park. 
+###
+20. Instruction: What is the highest mountain in the world? 
+20. Input: 
+<noinput>
+20. Output: 
+Mount Everest is the highest mountain in the world.

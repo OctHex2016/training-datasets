@@ -1,0 +1,105 @@
+4. Instruction: Summarize the provided text in a single sentence.
+4. Input: 
+In recent times, the effects of climate change have become increasingly evident and include rising sea levels, shrinking ice sheets, glacial retreat, and extreme weather events. To combat these dire consequences, nations around the world united under the Paris Agreement to commit to making efforts in reducing greenhouse gas emissions and transitioning to clean energy. However, it becomes crucial for countries to be held accountable for their actions, as some governments continue to prioritize short-term economic gains over long-term sustainable development.
+4. Output: 
+Nations must address climate change through collaborative action, honoring the Paris Agreement commitments, and prioritizing long-term sustainable development over short-term economic benefits.
+
+5. Instruction: Identify the emotion expressed in the given statement.
+5. Input: 
+I feel like an impostor; they're going to find out I don't belong here.
+5. Output: 
+Insecurity
+
+6. Instruction: Translate the given text into French.
+6. Input: 
+You are stronger than you think.
+6. Output: 
+Vous êtes plus fort que vous ne le pensez.
+
+7. Instruction: Write a short, motivational speech for a team preparing for a competition.
+7. Input: 
+<noinput>
+7. Output: 
+Dear team, as we stand here poised and ready to face this competition, I want each and every one of you to remember that success is not defined by the outcome, but by the effort we put forth. Believe in your abilities, practice relentlessly, and trust that your hard work and determination will bring you closer to your goals. Rise as one and conquer every challenge that comes your way, for you have prepared tirelessly for this moment. Let us stand together, united in our passion, and win this competition not just for ourselves, but for the pride of our team!
+
+8. Instruction: Rewrite the sentence below, avoiding the use of passive voice.
+8. Input: 
+The race was won by Sarah.
+8. Output: 
+Sarah won the race.
+
+9. Instruction: Paraphrase the given sentence while maintaining its original meaning.
+9. Input: 
+He enjoys reading science-fiction novels on his days off from work.
+9. Output: 
+On his days off from work, he takes pleasure in reading science-fiction books.
+
+10. Instruction: List three alternative medicine techniques.
+10. Input: 
+<noinput>
+10. Output: 
+Acupuncture, herbal medicine, and chiropractic therapy.
+
+11. Instruction: Evaluate whether the statement is true or false.
+11. Input: 
+All dogs are mammals.
+11. Output: 
+True
+
+12. Instruction: Provide a brief explanation of Bitcoin.
+12. Input: 
+<noinput>
+12. Output: 
+Bitcoin is a decentralized cryptocurrency that enables peer-to-peer transactions without the need for a central authority, using a secure, transparent, and public ledger called the blockchain to record transactions.
+
+13. Instruction: Divide the given paragraph into two shorter paragraphs.
+13. Input: 
+For centuries, painters and artists have used color to convey meaning and emotion in their work. Different colors evoke different emotions, creating a connection between the viewer and the artwork. Some colors are used to simulate reality, while others are purely symbolic, representing ideas and concepts. The way that colors are combined also plays an important role in the resulting expression.
+13. Output: 
+For centuries, painters and artists have used color to convey meaning and emotion in their work. Different colors evoke different emotions, creating a connection between the viewer and the artwork.
+
+Some colors are used to simulate reality, while others are purely symbolic, representing ideas and concepts. The way that colors are combined also plays an important role in the resulting expression.
+
+14. Instruction: Create a thesis statement for a research paper about the impact of social media on mental health.
+14. Input: 
+<noinput>
+14. Output: 
+This paper explores the significant impact of social media on mental health, analyzing its role in increasing self-esteem issues, promoting social comparison, and contributing to the rise of anxiety and depression among users.
+
+15. Instruction: Compare aerobic exercise and anaerobic exercise in terms of energy production and duration.
+15. Input: 
+<noinput>
+15. Output: 
+Aerobic exercise primarily generates energy through oxidative metabolism, produces lower-intensity outputs, and can be sustained for prolonged periods, whereas anaerobic exercise utilizes non-oxidative pathways, generates higher-intensity outputs, and is typically limited in duration.
+
+16. Instruction: Correct the grammar and punctuation errors in the following sentence.
+16. Input: 
+The giraffe’s an expert in camouflage - despite being Africa's tallest animal their distinctive patterns allows them to blend into the landscape.
+16. Output: 
+The giraffe is an expert in camouflage; despite being Africa's tallest animal, their distinctive pattern allows them to blend into the landscape.
+
+17. Instruction: Write a haiku about the beauty of winter.
+17. Input: 
+<noinput>
+17. Output: 
+Snowflakes gently fall,
+Whispering breeze, frosted trees,
+Winter's silent charm.
+
+18. Instruction: Describe the principle of supply and demand.
+18. Input: 
+<noinput>
+18. Output: 
+The principle of supply and demand is an economic theory stating that the price and quantity of a good or service in a market are determined by the interaction between the quantity available (supply) and the amount desired by consumers (demand), with equilibrium reached at the intersection of these forces.
+
+19. Instruction: Perform sentiment analysis on the given text.
+19. Input: 
+Finally, after so much struggle, I landed my dream job as a software engineer.
+19. Output: 
+Positive
+
+20. Instruction: Write an invitation to a charity event happening on October 12, 2023, at 7 pm, held at the Grand City Hall.
+20. Input: 
+<noinput>
+20. Output: 
+You are cordially invited to join us for a special charity event on October 12, 2023, at 7 pm at the Grand City Hall. This elegant evening will bring together friends, family, and community members in support of a great cause. We look forward to enjoying a night filled with good company, delicious food, and memorable entertainment while making a difference in the lives of others. Please RSVP to confirm your attendance as we come together to create hope and change for a brighter future.

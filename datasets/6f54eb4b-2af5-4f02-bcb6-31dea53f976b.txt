@@ -1,0 +1,132 @@
+4. Instruction: Generate a pun using a given word.
+4. Input: 
+banana
+4. Output: 
+Why did the banana go to the doctor? Because it wasn't peeling well.
+###
+5. Instruction: Write a summary of the main points in a given article.
+5. Input: 
+https://www.bbc.com/news/world-africa-62815893
+5. Output: 
+The article discusses the political turmoil that followed the military coup in Guinea. The UN and many international organizations have called for the return to a civilian government. The coup leader has pledged to hold a new election.
+###
+6. Instruction: Summarize the plot of a given movie. 
+6. Input: 
+Lion King (2019)
+6. Output: 
+Simba, a young lion, flees the kingdom after the death of his father to avoid being killed by his uncle, Scar. With the help of new friends, Simba grows up and realizes his true identity. He returns to the kingdom to reclaim his throne and defeat Scar.
+###
+7. Instruction: Generate a haiku based on a given theme.
+7. Input: 
+Autumn
+7. Output: 
+Leaves falling gently,
+Colors changing in the breeze,
+Autumn has arrived.
+###
+8. Instruction: Write a recipe for a given dish.
+8. Input: 
+Chicken Alfredo
+8. Output: 
+Ingredients:
+- 1 pound of fettuccine pasta
+- 2 boneless, skinless chicken breasts, cut into strips
+- 2 cups of heavy cream
+- 1 cup of grated Parmesan cheese
+- Salt and pepper
+- 4 cloves of garlic, minced
+- 2 tablespoons of butter
+- Parsley, chopped (optional)
+
+Instructions:
+1. Cook pasta according to package instructions
+2. Season chicken with salt and pepper
+3. In a large saucepan, melt butter over medium-high heat
+4. Add chicken and cook until browned on both sides
+5. Add minced garlic and cook for an additional minute
+6. Pour in the heavy cream and stir
+7. Add grated Parmesan cheese and mix until fully melted
+8. Drain pasta and add it to the sauce
+9. Toss pasta until fully coated
+10. Garnish with parsley and additional Parmesan cheese, if desired.
+###
+9. Instruction: Create a palindrome using a given word.
+9. Input: 
+racecar
+9. Output: 
+"Racecar" spelled backward is "racecar" - this word is already a palindrome.
+### 
+10. Instruction: Give a recommendation for a good book in a specific genre.
+10. Input: 
+Mystery
+10. Output: 
+I recommend "The Girl on the Train" by Paula Hawkins. It's an edge-of-your-seat thriller that will keep you guessing until the very end.
+###
+11. Instruction: Rewrite a given sentence using different words.
+11. Input: 
+"I can't believe it's not butter."
+11. Output: 
+"I find it hard to believe that this margarine is not butter."
+###
+12. Instruction: Define a given word.
+12. Input: 
+Pandemonium
+12. Output: 
+Pandemonium refers to a state of chaos, confusion, and uproar. Often used to describe a loud and disorderly event.
+###
+13. Instruction: Find synonyms for a given word.
+13. Input: 
+Happy
+13. Output: 
+Joyful, content, elated, pleased, glad, ecstatic, delighted, cheerful, overjoyed
+###
+14. Instruction: Create a short dialogue between two people discussing an event in the news.
+14. Input: 
+Hurricane Ida
+14. Output: 
+Person 1: "Did you see the news about Hurricane Ida?"
+Person 2: "Yes, it looks really bad. Do you know anyone who's been affected?"
+Person 1: "No, but I saw on social media that people are stuck in their homes with no power or water."
+Person 2: "That's terrible. I hope relief efforts get there soon."
+###
+15. Instruction: Find the antonyms for a given word.
+15. Input: 
+Big
+15. Output: 
+Tiny, small, little, miniature, minuscule
+###
+16. Instruction: Write a product review for a given item.
+16. Input:
+iPhone 13 
+16. Output:
+I recently upgraded to the iPhone 13 and I'm extremely satisfied with my purchase. The camera is amazing and the battery life is long-lasting. The phone is also fast and responsive.
+###
+17. Instruction: Create a five-item list of things to do or bring for a given activity.
+17. Input: 
+Hiking
+17. Output: 
+1. Water bottle
+2. Energy snacks 
+3. Sunscreen 
+4. Comfortable footwear 
+5. Map/compass 
+###
+18. Instruction: Ask a trivia question about a given topic.
+18. Input: 
+Food
+18. Output: 
+What is the main ingredient in hummus?
+###
+19. Instruction: Correct a given sentence with a grammatical error.
+19. Input: 
+"They was playing in the park."
+19. Output: 
+"They were playing in the park."
+###
+20. Instruction: Write a three-sentence news headline about a recent event.
+20. Input:
+COVID-19 vaccine booster shots 
+20. Output: 
+"US rolls out COVID-19 vaccine booster shots for eligible individuals"
+"Evidence supports effectiveness and safety of COVID-19 booster shots"
+"Experts recommend getting booster shots to maximize immunity against COVID-19"

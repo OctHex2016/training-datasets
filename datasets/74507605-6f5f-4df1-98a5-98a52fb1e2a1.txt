@@ -1,0 +1,103 @@
+4. Instruction: Summarize the news article in a single sentence that captures the main idea.
+4. Input: 
+"Scientists from the University of California, Berkeley, have discovered a new material that could replace lithium-ion batteries currently used in smartphones and electric vehicles. This new material, a 2D metal-organic framework (MOF), has the potential to charge quickly, have a longer life and be more environmentally friendly than traditional batteries."
+4. Output: 
+Scientists discover a 2D metal-organic framework material that can potentially replace lithium-ion batteries in smartphones and electric vehicles, offering faster charging, longer lifespan, and being more environmentally friendly.
+
+5. Instruction: Translate the following sentence from English to French.
+5. Input: 
+The weather is very nice today, and I am going for a walk in the park.
+5. Output: 
+Le temps est très agréable aujourd'hui, et je vais me promener dans le parc.
+
+6. Instruction: What are the key takeaways from the following paragraph?
+6. Input: 
+"Apple's new iPhone 13 features a smaller notch and a 120Hz ProMotion display, enhancing the user experience for gaming and multimedia consumption. Also, the A15 Bionic chip sets a new benchmark in performance and energy efficiency, and the improved battery life will allow users to get through a full day of use on a single charge. The device comes with 5G capability and advanced camera features, including Photographic Styles and ProRes video."
+6. Output:
+Key takeaways: iPhone 13 has a smaller notch, 120Hz ProMotion display, A15 Bionic chip, improved battery life, 5G capability, and advanced camera features like Photographic Styles and ProRes video.
+
+7. Instruction: Convert the following recipe ingredients from imperial units to metric units.
+7. Input:
+- 4 cups flour
+- 2 cups water
+- Half a cup of butter
+- 1 tablespoon sugar
+- 1 teaspoon salt
+7. Output:
+- 960 ml flour
+- 480 ml water
+- 120 ml butter
+- 15 ml sugar
+- 5 ml salt
+
+8. Instruction: Write a short motivational quote.
+8. Input: <noinput>
+8. Output:
+Believe in yourself, and the world will believe in you.
+
+9. Instruction: Calculate the tip for a restaurant bill of $78 with a 20% percentage.
+9. Input: <noinput>
+9. Output:
+$15.60 tip
+
+10. Instruction: Identify and correct any grammatical or punctuation errors in the following sentence.
+10. Input:
+She said the meeting's at, 3 o'clock however, I don't think I can make it.
+10. Output:
+She said the meeting is at 3 o'clock; however, I don't think I can make it.
+
+11. Instruction: Write a haiku about a rainy day.
+11. Input: <noinput>
+11. Output:
+Raindrops gently fall,
+Umbrellas bloom like flowers,
+Puddles mirror skies.
+
+12. Instruction: Based on the scenario, suggest a suitable title for a blog post.
+12. Input:
+Traveling family experiences unexpected adventures while exploring the deserts of Namibia, highlighting their cultural discoveries, the landscapes they encountered, and the challenging situations they overcame.
+12. Output:
+"Desert Wanderers: A Family's Unforgettable Journey Through the Sands of Namibia"
+
+13. Instruction: Describe the Mona Lisa painting.
+13. Input: <noinput>
+13. Output:
+The Mona Lisa is a portrait of a woman painted by Leonardo da Vinci, featuring her enigmatic smile, sfumato technique, and a backdrop of a distant, misty landscape.
+
+14. Instruction: What are the three primary colors?
+14. Input: <noinput>
+14. Output:
+Red, blue, and yellow
+
+15. Instruction: Write a brief condolence message for someone who lost their beloved dog.
+15. Input: <noinput>
+15. Output:
+I am deeply saddened to hear about the loss of your beloved dog. They were a special part of your family, and their memory will live on in your heart forever. My thoughts are with you during this difficult time.
+
+16. Instruction: Choose the correct preposition to fill in the blank in the following sentence.
+16. Input:
+We had trouble driving _____ the snowstorm.
+16. Output:
+We had trouble driving through the snowstorm.
+
+17. Instruction: Alphabetically sort the list of animals.
+17. Input: 
+giraffe, elephant, kangaroo, zebra, lion, tiger
+17. Output:
+elephant, giraffe, kangaroo, lion, tiger, zebra
+
+18. Instruction: Identify the main idea of the given TED talk title.
+18. Input:
+"The hidden influence of social networks"
+18. Output:
+Understanding the unseen impact and power of social networks in our lives.
+
+19. Instruction: Write a short advice for someone starting a small business.
+19. Input: <noinput>
+19. Output:
+Stay persistent, focus on your goals, and always prioritize customer satisfaction to build trust and reputation in the market.
+
+20. Instruction: Explain why photosynthesis is important for plants.
+20. Input: <noinput>
+20. Output:
+Photosynthesis is important for plants as it enables them to convert sunlight, water, and carbon dioxide into the energy they need to grow and function, in the form of glucose, and releases oxygen as a byproduct.

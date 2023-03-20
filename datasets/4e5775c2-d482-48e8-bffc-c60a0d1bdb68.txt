@@ -1,0 +1,123 @@
+4. Instruction: Rewrite the following paragraph in the passive voice.
+4. Input: 
+The dog chased the cat, and the cat climbed the tree. The bee stung a schoolboy, who screamed loudly. People gathered around the distressed child.
+4. Output:
+The cat was chased by the dog, and the tree was climbed by the cat. A schoolboy was stung by the bee, who screamed loudly. The distressed child was gathered around by people.
+
+5. Instruction: Detect the grammatical errors and correct them in the sentence.
+5. Input:
+Me and him goes to store for buy the milk and ice cream.
+5. Output:
+He and I go to the store to buy milk and ice cream.
+
+6. Instruction: Summarize the article in 3 sentences.
+6. Input:
+Tesla, an American electric vehicle company, has recently unveiled the redesign of its Model S sedan. This new design includes innovative changes such as a revamped interior, a new shifter design and a driving range of up to 409 miles. Additionally, Tesla has also increased the performance of the already fast Model S, with the top-of-the-line "Plaid" version now capable of accelerating from 0 to 60 miles per hour in just under 2 seconds, making it the fastest production car in the world.
+6. Output:
+Tesla unveiled a redesigned Model S sedan with a revamped interior, a new shifter design, and a driving range of up to 409 miles. The performance enhancements on the "Plaid" version make it accelerate from 0 to 60 mph in under 2 seconds. This makes the Model S the fastest production car globally.
+
+7. Instruction: List 5 major global environmental issues.
+7. Input:
+<noinput>
+7. Output:
+1. Climate change
+2. Deforestation
+3. Air pollution
+4. Water pollution and scarcity
+5. Loss of biodiversity
+
+8. Instruction: Explain the function of photosynthesis.
+8. Input:
+<noinput>
+8. Output:
+Photosynthesis is a process that occurs in plants, algae, and some bacteria, where they convert sunlight, carbon dioxide, and water into glucose and oxygen. It allows these organisms to produce their own energy and release oxygen as a byproduct, which is essential for life on Earth. Photosynthesis plays a crucial role in the global carbon cycle, helping maintain atmospheric oxygen levels and providing a natural means of carbon sequestration.
+
+9. Instruction: Write a brief book review for "To Kill a Mockingbird" by Harper Lee.
+9. Input:
+<noinput>
+9. Output:
+In "To Kill a Mockingbird," Harper Lee tells a compelling and deeply moving story set in the racially charged Southern town of Maycomb, Alabama. Through the eyes of young Scout Finch, readers witness the injustice and prejudice prevalent in the community during the 1930s. Lee masterfully weaves themes of racism, morality, and empathy throughout the tale, creating an unforgettable classic that challenges readers to examine their own beliefs and values.
+
+10. Instruction: Classify the following animals into mammals, birds, reptiles, amphibians, or fish.
+10. Input:
+Dolphin, penguin, snake, frog, salmon
+10. Output:
+1. Dolphin - Mammal
+2. Penguin - Bird
+3. Snake - Reptile
+4. Frog - Amphibian
+5. Salmon - Fish
+
+11. Instruction: Describe the main differences between American English and British English.
+11. Input:
+<noinput>
+11. Output:
+The main differences between American English and British English include pronunciation, spelling, vocabulary, and grammar. Pronunciation varies in terms of accent and certain vowel and consonant sounds. Spelling tends to be simpler in American English, such as 'color' in American versus 'colour' in British. Vocabulary differences occur in everyday terms, such as 'apartment' in American versus 'flat' in British. Grammar differences include tense usage and certain grammatical structures like collective nouns being treated as singular or plural.
+
+12. Instruction: Generate a brief poem about winter.
+12. Input:
+<noinput>
+12. Output:
+In winter's grasp, the world turns still,
+A crystal world of frost and chill.
+Snowflakes dance, in whirls they stray,
+To blanket land in white array.
+
+Cold winds howl, they sing a song,
+Through barren trees, they whip along.
+Amidst this silent, frozen night,
+A fire's warmth, a soothing light.
+
+13. Instruction: Paraphrase the following sentence.
+13. Input:
+The early bird catches the worm.
+13. Output:
+Those who start early are more likely to succeed.
+
+14. Instruction: Identify the literary device used in the quote, "Life is like a box of chocolates; you never know what you're gonna get."
+14. Input:
+<noinput>
+14. Output:
+The literary device used in the quote is a simile.
+
+15. Instruction: Translate the following sentence into French.
+15. Input:
+The sun is shining, and the birds are singing.
+15. Output:
+Le soleil brille et les oiseaux chantent.
+
+16. Instruction: Explain the purpose of the United Nations.
+16. Input:
+<noinput>
+16. Output:
+The United Nations (UN) is an international organization founded in 1945 with the purpose of maintaining global peace and security, promoting social and economic development, protecting human rights, and providing humanitarian assistance. It serves as a platform for nations to collaborate and address global challenges collectively while promoting understanding and communication among its member countries.
+
+17. Instruction: Calculate the compound interest for a $10,000 investment at an annual interest rate of 5% for 5 years, compounded annually.
+17. Input:
+<noinput>
+17. Output:
+Using the formula for compound interest, A = P(1 + r/n)^(nt), where A is the final amount, P is the principal, r is the interest rate, n is the number of times compounded per year, and t is the number of years:
+
+A = 10,000(1 + 0.05/1)^(1*5) = 10,000(1 + 0.05)^5 = 10,000(1.05)^5 ≈ $12,762.82
+
+The compound interest for the investment is approximately $2,762.82.
+
+18. Instruction: Write a haiku about a rainy day.
+18. Input:
+<noinput>
+18. Output:
+Raindrops tap the glass,
+Puddles fill the quiet streets,
+Nature's symphony.
+
+19. Instruction: Provide an example of alliteration.
+19. Input:
+<noinput>
+19. Output:
+She sells seashells by the seashore.
+
+20. Instruction: What are the three primary colors in painting?
+20. Input:
+<noinput>
+20. Output:
+The three primary colors in painting are red, blue, and yellow.

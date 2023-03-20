@@ -1,0 +1,51 @@
+4. Instruction: Read the following text and identify the incorrect usage of past tense, then suggest a correction.
+4. Input:
+It was raining when she goes to the store.
+4. Output:
+Incorrect: goes
+Correction: went
+
+5. Instruction: Briefly describe the plot of the book "To Kill a Mockingbird" without giving away spoilers.
+5. Input:
+<noinput>
+5. Output:
+"To Kill a Mockingbird" is a coming-of-age story set in the American South during the 1930s, where a young girl named Scout Finch and her brother Jem explore their small town and its inhabitants. The novel primarily deals with issues of racial injustice and moral growth, as the siblings observe their father, Atticus Finch, defend a black man accused of a crime he didn't commit.
+
+6. Instruction: Identify the literary device used in this sentence and explain its effect.
+6. Input:
+"All the world's a stage, and all the men and women merely players."
+6. Output:
+Literary Device: Metaphor
+Effect: This metaphor compares life to a theatrical stage, suggesting that people play different roles throughout their lives. It adds depth to the concept of life and its various phases.
+
+7. Instruction: Determine what calendar event is being discussed in the riddle and explain your reasoning.
+7. Input:
+I am a day that comes once a year,
+Marked by love, warmth, and cheer.
+Exchanging gifts is part of the fun,
+By the time it is night, the celebrations are done.
+7. Output:
+Event: Christmas
+Reasoning: The riddle mentions a day that comes once a year, marked by love, warmth, and cheer, and involves exchanging gifts. These clues strongly suggest that the event is Christmas.
+
+8. Instruction: What type of animal is being described, based on the characteristics provided?
+8. Input:
+I live in the ocean, have gills for breathing, and swim using my fins.
+8. Output:
+Fish
+
+9. Instruction: Write a limerick about a man who loves to play the trombone.
+9. Input:
+<noinput>
+9. Output:
+There once was a man who played trombone,
+Whose talent in music was widely known,
+With a slide and a toot,
+He played in his suit,
+As the sweetest of melodies were shown.
+
+10. Instruction: Summarize the given passage in one sentence.
+10. Input:
+Katherine Johnson, an African American mathematician whose work was integral to the early years of NASA, played a significant role in the space race. Her calculations, including the trajectory for Alan Shepard's historic flight and the path for Apollo 11's lunar landing, were vital for the success of numerous missions.
+10. Output:
+Katherine Johnson, an African American NASA mathematician, was critical to the space race due to her essential calculations for trajectory and lunar landing paths.

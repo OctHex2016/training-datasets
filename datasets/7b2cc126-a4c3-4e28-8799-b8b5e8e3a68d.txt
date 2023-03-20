@@ -1,0 +1,142 @@
+
+
+4. Instruction: Rewrite the following sentence to make it a question.
+4. Input:
+Sentence: The dog chased the cat.
+4. Output:
+Did the dog chase the cat?
+###
+5. Instruction: Write a creative story about a princess who saves herself from a dragon.
+5. Input:
+<noinput>
+5. Output:
+The princess knew she couldn't wait for a knight to save her from the dragon. She grabbed a sword and shield and faced it herself. After a furious battle, she delivered the final blow and saved herself. The kingdom cheered as they saw their newly empowered ruler.
+###
+6. Instruction: Describe the taste of four different types of tea: jasmine, peppermint, chamomile, and earl grey.
+6. Input:
+<noinput>
+6. Output:
+Jasmine tea has a delicate floral taste. Peppermint tea is refreshing with a strong menthol flavor. Chamomile tea has a soothing, earthy taste. Earl grey tea has a distinct citrus flavor that complements the black tea perfectly.
+###
+7. Instruction: Write a poem about a sunset. 
+7. Input:
+<noinput>
+7. Output: 
+The sky ablaze, the sun descends
+A slow, beautiful curtain fall
+A symphony of vibrant colors blends
+The final act of nature's call
+###
+8. Instruction: Edit the following paragraph to remove all passive voice.
+8. Input:
+Paragraph: The cake was baked by the baker and was decorated with icing by the decorator.
+8. Output:
+The baker baked the cake and the decorator decorated it with icing.
+###
+9. Instruction: Write a definition of a "schadenfreude".
+9. Input:
+<noinput>
+9. Output:
+Schadenfreude is a German term used to describe the feeling of pleasure or joy derived from someone else's misfortune or pain. 
+###
+10. Instruction: Summarize the main points of a 5-page research paper about the impact of social media on mental health in teenagers.
+10. Input:
+<noinput>
+10. Output:
+The research paper found that excessive social media use can have negative impacts on mental health in teenagers, leading to depression and anxiety. However, it also stated that social media can be a positive tool for mental health support when used appropriately.
+###
+11. Instruction: Write a brief dialogue between a customer and a customer service representative complaining about a delayed delivery.
+11. Input:
+<noinput>
+11. Output:
+Customer: Hi, I received a notification that my package would arrive yesterday but it still hasn't.
+Representative: I'm sorry for the inconvenience. Can you please provide me with your tracking number?
+Customer: Sure, it's 123456789.
+Representative: Thank you. I see that your package is delayed. I will make sure to follow up and keep you updated.
+###
+12. Instruction: Classify the following animals into their respective classes: cat, snake, duck, and spider.
+12. Input:
+<noinput>
+12. Output:
+Cat: Mammal
+Snake: Reptile
+Duck: Bird
+Spider: Arachnid
+###
+13. Instruction: Generate a recipe for a vegetarian lasagna.
+13. Input:
+<noinput>
+13. Output:
+Ingredients:
+- 1 box of lasagna noodles
+- 4 cups of tomato sauce
+- 1 1/2 cups of ricotta cheese
+- 1 cup of grated parmesan cheese
+- 2 cups of spinach leaves
+- 2 cups of mushroom slices
+- 1 minced garlic clove
+
+Instructions:
+1. Preheat oven at 350F.
+2. Cook noodles according to the package and set aside.
+3. In a skillet, sauté mushrooms and garlic until golden, add spinach and sauté for 3 more minutes.
+4. In a large bowl, mix ricotta cheese and 1/2 cup of grated parmesan cheese.
+5. Spread a layer of tomato sauce in a baking dish, cover with a layer of noodles, then a layer of ricotta cheese mixture and a layer of the mushroom and spinach mix.
+6. Repeat step 5 until all ingredients are used, finishing with a layer of tomato sauce.
+7. Sprinkle remaining parmesan cheese on top.
+8. Cover with foil and bake for 45 minutes. Remove foil and bake for another 10-15 minutes.
+14. Instruction: Describe your day so far in detail.
+14. Input:
+<noinput>
+14. Output:
+Today started with a hectic morning rush. After getting ready, I had breakfast and rushed to catch the train to work. Once I arrived, I spent the first few hours replying to emails and attending meetings. During my break, I went for a walk outside to clear my head. I'm now working on a report and looking forward to finishing up before heading home.
+###
+15. Instruction: Write a paragraph explaining the difference between a virus and a bacteria.
+15. Input:
+<noinput>
+15. Output:
+The main difference between a virus and a bacteria is their structure and size. Bacteria are single-celled organisms with a cell wall and the ability to reproduce on their own. Viruses are much smaller and require a living host cell to replicate. Bacteria are also treatable with certain antibiotics, whereas viruses cannot be treated with antibiotics and require antiviral medications or vaccines instead.
+###
+16. Instruction: Write a recommendation letter for a former co-worker who is applying for a new job as a software developer.
+16. Input:
+Co-worker name: John Smith
+16. Output:
+Dear Hiring Manager,
+
+I am writing to recommend John Smith for the position of software developer at your company. During our time working together, John's dedication and aptitude for coding were apparent. He consistently displayed a strong work ethic and a willingness to take on new challenges. In particular, I was impressed with his ability to work well independently and collaboratively within a team setting.
+
+Overall, I believe John would make a valuable addition to your team and I recommend him without hesitation.
+
+Sincerely,
+[Your Name]
+###
+17. Instruction: Summarize the main points of a TED talk about the impact of climate change on wildlife in the Arctic.
+17. Input:
+<noinput>
+17. Output:
+During the TED talk, the speaker discussed the significant impact climate change is having on wildlife in the Arctic. She described how melting ice is affecting polar bears, seals, and walruses, leading to a decrease in their populations. She also explained how climate change is impacting other species like caribou, which depend on the Arctic for their migration patterns. The talk emphasized the urgency of changing the way we interact with our natural environment.
+###
+18. Instruction: Generate a list of five recommended books for a teenager interested in science fiction.
+18. Input:
+<noinput>
+18. Output:
+1. Ender's Game by Orson Scott Card
+2. Dune by Frank Herbert
+3. The Hitchhiker's Guide to the Galaxy by Douglas Adams
+4. Ready Player One by Ernest Cline
+5. 1984 by George Orwell
+###
+19. Instruction: Edit the following email to address a grammar mistake.
+19. Input:
+Email: Hi John, Your resume looks great and I'd like to meet in person to discuss more about the position.
+19. Output:
+Hi John, Your resume looks great and I'd like to meet in person to discuss the position further.
+###
+20. Instruction: Classify the following fruits into their respective categories: strawberry, pineapple, grapefruit, and kiwi.
+20. Input:
+<noinput>
+20. Output:
+Strawberry: Berry
+Pineapple: Bromeliad
+Grapefruit: Citrus
+Kiwi: Berry

@@ -1,0 +1,60 @@
+4. Instruction: Evaluate the given play scene and identify what type of scene it is (e.g., dramatic, comedic, etc).
+
+4. Input:
+Lady Bracknell: I hate to see people stand idly by. I like to see people busy. 
+Algernon: [in a languid tone] Well, I don't. Idleness, after all, is the only refuge for the hardworking man. 
+Lady Bracknell: [looking at him sharply] That's a very odd observation from a young man who rarely works.
+4. Output:
+The given play scene is comedic.
+
+###
+5. Instruction: Summarize the 4 main events that happened in the given story.
+
+5. Input:
+Lucy started her day with a run in the park. While jogging, she discovered a lost dog, picked up the stray, and brought it home. She called the number on the dog's collar, and the owner came to take the puppy back. As a token of appreciation, the owner offered Lucy a job at her pet store.
+
+5. Output:
+1. Lucy went for a run in the park.
+2. She found a lost dog and took it home.
+3. She contacted the dog's owner who came to retrieve it.
+4. The owner offered Lucy a job at her pet store as a thank-you gesture.
+
+###
+6. Instruction: Explain the key differences between two directorial styles in the input.
+
+6. Input:
+Quentin Tarantino is known for his non-linear storylines, witty dialogue, and graphic violence in films like Pulp Fiction and Kill Bill, while Christopher Nolan is famous for his complex and cerebral storytelling, preference for practical effects over CGI, and films such as Inception and Interstellar.
+
+6. Output:
+Quentin Tarantino's style involves non-linear storylines, witty dialogue, and graphic violence, whereas Christopher Nolan's style features complex and cerebral storytelling, a focus on practical effects, and often explores more ambitious themes.
+
+###
+7. Instruction: Point out any grammatical mistakes in the given text and correct them.
+
+7. Input:
+She runned towards the door and banged into it than she realised that their was a sign who reads "Pull".
+
+7. Output:
+She ran towards the door and banged into it, then she realized that there was a sign which read "Pull".
+
+###
+8. Instruction: Write a haiku on the theme of nature.
+
+8. Input:
+<noinput>
+
+8. Output:
+Green leaves whispering,
+Soft melody of the breeze,
+Nature's song endures.
+
+###
+9. Instruction: Translate the given text from English to French.
+
+9. Input:
+I hope you had a great weekend. Can we meet tomorrow?
+
+9. Output:
+J'espère que tu as passé un excellent week-end. Pouvons-nous nous rencontrer demain?
+
+###

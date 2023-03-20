@@ -1,0 +1,103 @@
+4. Instruction: Identify the year in which Shakespeare was born. 
+4. Input: 
+<noinput>
+4. Output:
+1564 
+###
+5. Instruction: Generate a new question that can be asked based on the given answer. 
+5. Input: 
+Answer: The capital of Turkey is Ankara.
+5. Output: 
+What is the population of Ankara?
+###
+6. Instruction: Identify the entity type of the given phrase. 
+6. Input: 
+Phrase: George Washington
+6. Output: 
+Person
+###
+7. Instruction: Write a new sentence using the given word in a different context. 
+7. Input: 
+Word: bright
+Sentence: The sun is bright today.
+7. Output: 
+The student received a bright red A+ on her paper.
+###
+8. Instruction: Complete the given sentence with a missing word. 
+8. Input: 
+Sentence: The Mona Lisa is a famous painting by _______.
+8. Output: 
+Leonardo da Vinci
+###
+9. Instruction: Rewrite the given sentence in active voice. 
+9. Input: 
+The cake was eaten by the children.
+9. Output: 
+The children ate the cake.
+###
+10. Instruction: Identify the antonym of the given word. 
+10. Input: 
+Word: hot
+10. Output: 
+Cold
+###
+11. Instruction: Correct the spelling error in the given word. 
+11. Input: 
+Word: occassion
+11. Output: 
+occasion
+###
+12. Instruction: Write a rhyming word for the given word. 
+12. Input: 
+Word: cat
+12. Output: 
+Mat 
+###
+13. Instruction: Generate a new sentence using the given noun in plural form. 
+13. Input: 
+Noun: puppy
+13. Output: 
+The puppies played happily in the park.
+###
+14. Instruction: Identify the synonym of the given word. 
+14. Input: 
+Word: happy
+14. Output: 
+Joyful
+###
+15. Instruction: Combine the given sentences into a single sentence using a conjunction. 
+15. Input: 
+Sentence 1: The cake was delicious.
+Sentence 2: I ate two slices of it. 
+15. Output: 
+The cake was delicious and I ate two slices of it. 
+###
+16. Instruction: Identify the homophone of the given word. 
+16. Input: 
+Word: peace
+16. Output: 
+Piece
+###
+17. Instruction: Write a sentence using the given preposition. 
+17. Input: 
+Preposition: in
+17. Output:
+She was sitting in the park, enjoying the view.
+###
+18. Instruction: Identify the part of speech of the given word. 
+18. Input: 
+Word: running
+18. Output: 
+Verb (present participle)
+###
+19. Instruction: Edit the given sentence to fix its grammatical error. 
+19. Input: 
+The store sold a dozen egg's. 
+19. Output: 
+The store sold a dozen eggs.
+###
+20. Instruction: Generate a new sentence with a missing verb. 
+20. Input: 
+Sentence: The flowers ___ beautiful in the sunlight. 
+20. Output: 
+The flowers look beautiful in the sunlight.

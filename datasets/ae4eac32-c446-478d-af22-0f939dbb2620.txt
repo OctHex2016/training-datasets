@@ -1,0 +1,54 @@
+4. Instruction: Rewrite the sentence in active voice.
+4. Input: 
+The cake was baked by Susie.
+4. Output: 
+Susie baked the cake.
+
+5. Instruction: Write a haiku about a thunderstorm.
+5. Input: 
+<noinput>
+5. Output: 
+Lightning splits the sky,
+Thunder echoes through the night,
+Raindrops cleanse the earth.
+
+6. Instruction: Identify the protagonist, antagonist, and conflict in the given excerpt.
+6. Input: 
+In a small village, Tom lived a simple life tending to his garden. One day, the evil sorcerer Draken arrived and cast a spell that turned the villagers' crops into dangerous monsters. Tom bravely fought off the monsters, eventually confronting Draken himself. The two engaged in a fierce battle, which resulted in Tom banishing Draken and restoring the village to its peaceful state.
+6. Output: 
+Protagonist: Tom
+Antagonist: Draken
+Conflict: The evil sorcerer Draken turns the villagers' crops into monsters, and Tom must fight them to save the village.
+
+7. Instruction: Edit the given paragraph for grammatical errors.
+7. Input: 
+For many countries, tourism is a major driver of economic growth. With its beautiful landscapes, and diverse cultural experinces. People from all over the world are drawn to explore and discover new places. However, It's important to recognize the challenges of sustainabile tourism. We must protect the environment and preserve cultures this diverse world has too offer.
+7. Output: 
+For many countries, tourism is a major driver of economic growth. With beautiful landscapes and diverse cultural experiences, people from all over the world are drawn to explore and discover new places. However, it's important to recognize the challenges of sustainable tourism. We must protect the environment and preserve the cultures this diverse world has to offer.
+
+8. Instruction: Suggest a list of movies to watch for a film enthusiast.
+8. Input: 
+<noinput>
+8. Output: 
+1. Pulp Fiction
+2. The Godfather
+3. Shawshank Redemption
+4. Schindler's List
+5. Casablanca
+6. Fight Club
+7. Inception
+8. Goodfellas
+9. The Dark Knight
+10. Eternal Sunshine of the Spotless Mind
+
+9. Instruction: Calculate the tip for a $50 bill at a 20% tip rate.
+9. Input: 
+<noinput>
+9. Output: 
+$10
+
+10. Instruction: Correct the statement if there is any historical inaccuracies.
+10. Input: 
+Thomas Edison invented the first light bulb in 1878.
+10. Output: 
+Sir Hiram Maxim invented the first light bulb in 1878, but Thomas Edison developed a practical, long-lasting incandescent light bulb in 1879.

@@ -1,0 +1,144 @@
+4. Instruction: Rewrite the following sentence to be more formal.
+4. Input: 
+Hey, what do you think about the new project idea? It's pretty cool, isn't it?
+4. Output: 
+Greetings, what is your opinion on the proposed project concept? It appears to be quite impressive, does it not?
+
+###
+5. Instruction: Identify the error in the following sentence and correct it.
+5. Input: 
+She went to the store, because she needed too buy some groceries.
+5. Output: 
+She went to the store, because she needed to buy some groceries.
+
+###
+6. Instruction: Explain the main difference between a debit card and a credit card.
+6. Input: 
+<noinput>
+6. Output: 
+The main difference between a debit card and a credit card is the source of funds. A debit card uses your own money in your bank account, while a credit card allows you to borrow money from the card issuer up to a certain limit. When you use a debit card, the funds are withdrawn directly from your account, while with a credit card, you will need to repay the borrowed amount, with the possibility of accumulating interest if not paid in full.
+
+###
+7. Instruction: What are three potential negative consequences of deforestation?
+7. Input: 
+<noinput>
+7. Output: 
+1. Loss of biodiversity: Deforestation leads to the destruction of natural habitats, causing the extinction of many plant and animal species.
+2. Climate change: Cutting down trees reduces the Earth's ability to absorb carbon dioxide, contributing to global warming.
+3. Soil erosion: Without tree roots to hold the soil together, deforestation increases the risk of landslides and erosion, leading to reduced soil fertility and desertification.
+
+###
+8. Instruction: Translate the following text to French.
+8. Input: 
+The weather is lovely today. I'm going for a walk in the park.
+8. Output: 
+Le temps est agréable aujourd'hui. Je vais faire une promenade dans le parc.
+
+###
+9. Instruction: Recommend a book to someone who likes mystery novels that take place in small towns.
+9. Input: 
+<noinput>
+9. Output: 
+I would recommend "Sharp Objects" by Gillian Flynn. It's a captivating mystery novel set in a small town, full of unexpected twists and turns that will keep you engaged throughout.
+
+###
+10. Instruction: Summarize the main idea of the following paragraph.
+10. Input: 
+Photography is an ever-evolving form of artistic expression, and each new generation of photographers pushes the boundaries of what is possible in the medium. Landmark innovations in photographic technology have often had ripple effects across the entire art world, transforming our conception of reality and the human experience. The rise of digital photography, for instance, has not only streamlined the image-making process, but it has also allowed a much greater degree of creative freedom, expanding the potential for experimentation and innovation.
+10. Output: 
+The main idea of this paragraph is that photography as an art form constantly evolves with each generation of photographers, and groundbreaking technological advancements have a profound impact on the artistic expression and our understanding of reality.
+
+###
+11. Instruction: Identify any passive voice sentences in the following text and rewrite them in active voice.
+11. Input: 
+The book was placed on the shelf by the librarian, and the cat was being chased by a young boy. The sun was shining brightly in the sky.
+11. Output: 
+The librarian placed the book on the shelf, and a young boy was chasing the cat. The sun was shining brightly in the sky.
+
+###
+12. Instruction: Based on the given prompt, create a recipe for a dessert.
+12. Input: 
+I want to make a dessert using fresh strawberries, cream, and a chocolate crust.
+12. Output: 
+Strawberry Chocolate Cream Tart
+
+Ingredients:
+1. 1 pre-made chocolate pie crust
+2. 2 cups fresh strawberries, hulled and sliced
+3. 1 1/2 cups heavy cream
+4. 1/2 cup granulated sugar
+5. 1 tsp vanilla extract
+
+Instructions:
+1. Arrange the sliced strawberries evenly on the bottom of the chocolate crust.
+2. In a large mixing bowl, combine heavy cream, sugar, and vanilla.
+3. Use an electric mixer to whip the cream mixture until it forms stiff peaks.
+4. Spread the whipped cream over the strawberries, creating a smooth and even layer.
+5. Refrigerate the tart for at least 1 hour to set.
+6. Serve chilled and enjoy your Strawberry Chocolate Cream Tart!
+
+###
+13. Instruction: Evaluate the given argument and provide a counterpoint.
+13. Input: 
+Eating meat is bad for the environment because livestock farming is responsible for a significant amount of greenhouse gas emissions.
+13. Output: 
+While it is true that livestock farming contributes to greenhouse gas emissions, not all meat production is equally harmful. By choosing sustainably raised, grass-fed, or local meat products, consumers can support environmentally responsible farming practices and mitigate the environmental impact.
+
+###
+14. Instruction: Create a short poem about the beauty of springtime.
+14. Input: 
+<noinput>
+14. Output: 
+In spring, the world awakes anew,
+Blossoms bloom, skies painted blue.
+Birds sing sweet melodies,
+Gentle winds whisper through the trees.
+
+Beneath the sun's golden rays,
+New life emerges from winter's haze.
+Beauty in every vibrant hue,
+Joy and hope, spring's promise true.
+
+###
+15. Instruction: Provide a brief elevator pitch for a mobile app that helps people find local volunteering opportunities.
+15. Input: 
+<noinput>
+15. Output: 
+Introducing "VolunteerMatch", a mobile app that connects you to local volunteering opportunities in just a few taps. Discover a wide variety of causes tailored to your interests, schedule and location, and make a difference in your community with ease. Get personalized recommendations, track your volunteer hours, and share your experiences with others. Unleash the power of giving with VolunteerMatch and make an impact today!
+
+###
+16. Instruction: Propose three strategies for reducing stress at work.
+16. Input: 
+<noinput>
+16. Output: 
+1. Time management: Prioritize tasks, break them down into smaller steps, and set realistic deadlines to avoid feeling overwhelmed.
+2. Take breaks: Regular short breaks and a proper lunch break away from your desk can help refresh your mind and improve focus.
+3. Practice mindfulness: Incorporate techniques such as deep breathing or meditation to reduce tension, stay centered, and maintain perspective during stressful situations.
+
+###
+17. Instruction: Explain the concept of photosynthesis.
+17. Input: 
+<noinput>
+17. Output: 
+Photosynthesis is a process by which plants, algae, and some microorganisms convert light energy from the sun into chemical energy in the form of glucose, which serves as a source of food and energy. During photosynthesis, these organisms absorb carbon dioxide and water, and with the help of light energy and chlorophyll (a green pigment), they produce glucose and oxygen as byproducts. In essence, photosynthesis is vital for the existence of life on Earth, as it is responsible for the majority of oxygen production and the base source of energy in the food chain.
+
+###
+18. Instruction: Write a product description for a reusable and collapsible silicone water bottle.
+18. Input: 
+<noinput>
+18. Output: 
+Introducing our eco-friendly, reusable, and collapsible silicone water bottle – say goodbye to single-use plastic while staying hydrated on the go! Made of BPA-free, food-grade silicone, this lightweight and durable water bottle is perfect for outdoor enthusiasts, commuters, and everyone in between. Enjoy its compact and foldable design, allowing you to save valuable space in your bag when empty. The leak-proof, airtight seal ensures no spills, while the wide-mouth opening makes it easy to fill, clean, and add ice or fruit. Choose a smarter way to carry your water with our sustainable and convenient reusable silicone water bottle.
+
+###
+19. Instruction: Edit the following text to improve its clarity and flow.
+19. Input: 
+She had long considered and she promised herself when she was 20, she would go to Paris no doubt; Paris has always been her dream. The day came, she packed her bag and what she found was disappointingly rainy streets.
+19. Output: 
+She had always dreamt of going to Paris and promised herself that she would do so at the age of 20. When the day finally arrived, she eagerly packed her bags and embarked on her journey, only to find disappointingly rainy streets upon her arrival.
+
+###
+20. Instruction: Formulate an interview question that tests a candidate's problem-solving skills.
+20. Input: 
+<noinput>
+20. Output: 
+Can you describe a challenging problem you have encountered in a previous job or project, and explain the steps you took to overcome it?

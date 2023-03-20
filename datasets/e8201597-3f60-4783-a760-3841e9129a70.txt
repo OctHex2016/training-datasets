@@ -1,0 +1,143 @@
+4. Instruction: Generate a short story that begins with "The old mansion on the hill had always given me the creeps."
+4. Input: 
+<noinput>
+4. Output: 
+The old mansion on the hill had always given me the creeps. As a child, I would stare at it from my bedroom window and imagine all sorts of horrors lurking inside its creaking walls. Years later, when I came back to visit my hometown, I found myself drawn back to that mansion. As I stood at the foot of the hill, gazing up at the dark silhouette against the starry sky, I felt a strange mix of fear and curiosity. As if compelled, I started walking up the winding path that led to the mansion's front door.
+###
+5. Instruction: Given a sentence, identify the part of speech of each word.
+5. Input: 
+Sentence: She sells seashells by the seashore.
+5. Output: 
+She - pronoun
+sells - verb
+seashells - noun
+by - preposition
+the - article
+seashore - noun
+. - punctuation
+###
+6. Instruction: Generate a birthday message for a 10-year-old boy, including his name and mentioning his favorite hobby.
+6. Input: 
+Name: Jake
+Hobby: Playing basketball
+6. Output: 
+Happy birthday Jake! May your day be filled with lots of fun, laughter, and of course, basketball. Keep practicing and playing the game you love, and may this year bring you all the success and joy you deserve. Enjoy your special day!
+###
+7. Instruction: Rewrite the following sentence to make it more concise. "There is a lot of paperwork to fill out for the new job, which includes forms for taxes, insurance, and benefits."
+7. Input: 
+<noinput>
+7. Output: 
+There is a lot of paperwork for the new job, including tax, insurance, and benefit forms.
+###
+8. Instruction: Given a set of numbers, calculate their sum and output the result.
+8. Input: 
+Numbers: 5, 10, 15, 20
+8. Output: 
+The sum of the numbers is 50.
+###
+9. Instruction: Write a short paragraph describing the benefits of practicing yoga.
+9. Input: 
+<noinput>
+9. Output: 
+Yoga has long been known for its physical and mental benefits. From increased flexibility and strength to reduced stress and anxiety, regular yoga practice can have a positive impact on many aspects of our lives. Yoga also promotes mindfulness and relaxation, helping to improve focus, sleep quality, and overall well-being. Whether you're a beginner or an experienced yogi, integrating yoga into your routine can be a great way to enhance your health and vitality.
+###
+10. Instruction: Generate a haiku poem about a sunset.
+10. Input: 
+<noinput>
+10. Output: 
+Golden orb descends
+Paints the sky in rosy hues
+Day gives way to night
+###
+11. Instruction: Given a book title and author name, provide a brief summary of the book.
+11. Input: 
+Title: To Kill a Mockingbird
+Author: Harper Lee
+11. Output: 
+To Kill a Mockingbird is a classic novel by Harper Lee, set in the Depression-era South. The story is narrated by a young girl named Scout, who recounts her experiences growing up in a small town and witnessing the impact of racial injustice on her community. Through the eyes of Scout, readers are introduced to a cast of colorful characters, including her father, a lawyer named Atticus Finch, who becomes embroiled in a controversial case defending a black man accused of rape. Infused with themes of morality, compassion, and courage, To Kill a Mockingbird is a timeless exploration of the complexities of human nature and social issues that continue to be relevant today.
+###
+12. Instruction: Rewrite the following sentence to correct its grammar. "Me and my friends are going to the beach."
+12. Input: 
+<noinput>
+12. Output: 
+My friends and I are going to the beach.
+###
+13. Instruction: Generate a set of instructions for making chocolate chip cookies.
+13. Input: 
+<noinput>
+13. Output: 
+Ingredients:
+- 2 1/4 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1 teaspoon salt
+- 1 cup unsalted butter, softened
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 eggs
+- 2 teaspoons vanilla extract
+- 2 cups semisweet chocolate chips
+
+Instructions:
+1. Preheat oven to 375°F (190°C).
+2. In a small bowl, sift together flour, baking soda, and salt.
+3. In a large mixing bowl, cream together butter, white sugar, and brown sugar until light and fluffy. 
+4. Beat in eggs, one at a time, then stir in vanilla extract.
+5. Gradually blend in the dry ingredients.
+6. Stir in chocolate chips.
+7. Drop rounded spoonfuls of dough onto ungreased baking sheet.
+8. Bake for 8-10 minutes, or until lightly golden brown.
+9. Allow cookies to cool on baking sheet for 5 minutes before transferring to wire rack to cool completely. Enjoy!
+###
+14. Instruction: Generate a witty tweet about a recent news event.
+14. Input: 
+News event: Scientists have discovered a new species of dinosaur in Argentina.
+14. Output: 
+Move over T-Rex, there's a new dinomite species in town! Scientists have discovered a brand new type of dinosaur in Argentina. Time to update the Jurassic Park script! #dino #discovery #science
+###
+15. Instruction: Write a one-sentence logline for a suspenseful thriller movie. 
+15. Input: 
+<noinput>
+15. Output: 
+A young woman discovers a terrifying secret about her family's past, leading her on a race against time to uncover the truth and save herself from a deadly fate.
+###
+16. Instruction: Given a user query, retrieve the top three relevant search results from the internet.
+16. Input: 
+Query: How to make pizza dough from scratch
+16. Output: 
+1. https://www.food.com/recipe/pizza-dough-recipe-45678
+2. https://www.delish.com/uk/cooking/recipes/a31031259/homemade-pizza-dough-recipe/
+3. https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/
+###
+17. Instruction: Generate a list of recommendations for a weekend getaway in New York City, including at least one activity and one restaurant.
+17. Input: 
+<noinput>
+17. Output: 
+Looking for a weekend getaway in the Big Apple? Here are some of our top recommendations:
+- Visit the Metropolitan Museum of Art for a world-class art experience.
+- Grab brunch at Cafe Mogador in the East Village for delicious Middle Eastern-inspired fare.
+- Catch a Broadway show like Hamilton or Dear Evan Hansen.
+- Walk across the Brooklyn Bridge and take in stunning views of the city skyline.
+- Indulge in a slice of classic New York-style pizza at Lombardi's in Little Italy.
+- Take a stroll around Central Park and check out iconic landmarks like the Bethesda Fountain and the Bow Bridge.
+With so much to see and do in NYC, you'll never be bored on your weekend getaway!
+###
+18. Instruction: Write the opening paragraph of a romance novel.
+18. Input: 
+<noinput>
+18. Output: 
+The first time she saw him, her heart skipped a beat. He was standing across the room, his eyes fixed on hers, and for a moment she was sure she could feel the electricity crackling between them. She tried to look away, to focus on anything else, but it was no use—she was drawn to him like a moth to a flame.
+###
+19. Instruction: Generate a definition for the word "serendipity."
+19. Input: 
+<noinput>
+19. Output: 
+Serendipity is the occurrence of happy or beneficial events by chance or luck, often resulting in unexpected discoveries or pleasant surprises.
+###
+20. Instruction: Given a time zone and a specific time, determine what time it is in two other time zones.
+20. Input: 
+Time zone: PST
+Current time: 3:00 PM
+Target time zones: EST, GMT
+20. Output: 
+In EST, the current time is 6:00 PM.
+In GMT, the current time is 11:00 PM.

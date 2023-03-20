@@ -1,0 +1,105 @@
+4. Instruction: Generate a sentence that describes the plot of the movie "The Godfather". 
+4. Input: 
+<noinput>
+4. Output: 
+The Godfather tells the story of the Corleones, a fictional New York crime family. When the patriarch, Vito Corleone, is shot and injured, his son Michael takes over the family business, leading to a bloody and tragic series of events.
+###
+5. Instruction: Rearrange the words to make a grammatically correct sentence. 
+5. Input: 
+tea / afternoon / in / have / the / we / shall / garden
+5. Output: 
+Shall we have tea in the garden this afternoon?
+###
+6. Instruction: Write a one-paragraph summary of the article provided. 
+6. Input:
+Article: The COVID-19 pandemic has brought the world to a halt, with numerous countries implementing lockdowns or other restrictive measures to slow the spread of the coronavirus. As a result, many people are struggling to adjust to the new normal of working from home, homeschooling their children, or simply coping with the stress and uncertainty of the situation. This article offers several strategies for coping with the COVID-19 pandemic, including finding ways to stay connected with loved ones, taking regular breaks from work, and focusing on activities that promote mental and emotional well-being. 
+6. Output: 
+The COVID-19 pandemic has caused widespread disruption in many parts of the world, with many people struggling to adjust to working from home or dealing with homeschooling and the stress of the situation. This article suggests several strategies for coping with the pandemic, such as staying connected with loved ones, taking breaks from work, and engaging in activities that promote mental and emotional well-being.
+###
+7. Instruction: What is the capital of Brazil? 
+7. Input: 
+<noinput>
+7. Output: 
+The capital of Brazil is Brasília.
+###
+8. Instruction: Correct the grammar mistakes in the given sentence. 
+8. Input: 
+She don't have no time to talk to nobody. 
+8. Output: 
+She doesn't have any time to talk to anyone.
+###
+9. Instruction: Generate a one-line joke. 
+9. Input: 
+<noinput>
+9. Output: 
+Why was the math book sad? Because it had too many problems.
+###
+10. Instruction: Summarize the list of ingredients in the recipe provided. 
+10. Input: 
+Recipe: Chocolate Chip Cookies 
+Ingredients: all-purpose flour, baking soda, salt, unsalted butter, granulated sugar, brown sugar, large egg, vanilla extract, chocolate chips
+10. Output: 
+The ingredients for chocolate chip cookies are all-purpose flour, baking soda, salt, unsalted butter, granulated sugar, brown sugar, a large egg, vanilla extract, and chocolate chips.
+###
+11. Instruction: What is the boiling point of water in Celsius? 
+11. Input: 
+<noinput>
+11. Output: 
+The boiling point of water in Celsius is 100 degrees.
+###
+12. Instruction: Re-write the sentence using a different verb that means the same thing. 
+12. Input: 
+The chef prepared a delicious meal for us. 
+12. Output: 
+The chef cooked a delicious meal for us.
+###
+13. Instruction: Correct the spelling mistakes in the given sentence. 
+13. Input: 
+He pased his drivver's licenece exam. 
+13. Output: 
+He passed his driver's license exam.
+###
+14. Instruction: Generate a question to ask someone about their job. 
+14. Input: 
+<noinput>
+14. Output: 
+What do you enjoy most about your job?
+###
+15. Instruction: Identify and correct the punctuation mistakes in the given sentence. 
+15. Input: 
+My favorite type of pizza is pepperoni, mushroom and olive however, I also like plain cheese. 
+15. Output: 
+My favorite type of pizza is pepperoni, mushroom, and olive. However, I also like plain cheese.
+###
+16. Instruction: Choose the correct word to complete the sentence. 
+16. Input: 
+I _____ my phone at home this morning. 
+Choices: left, leaved, leave 
+16. Output: 
+I left my phone at home this morning.
+###
+17. Instruction: Generate a sentence that describes the taste of a lemon. 
+17. Input: 
+<noinput>
+17. Output: 
+Lemons are sour and tart, and they have a refreshing citrus taste.
+###
+18. Instruction: Edit the given sentence to remove redundant information. 
+18. Input: 
+The blue car, which is parked in the driveway, belongs to my neighbor. 
+18. Output: 
+The blue car belongs to my neighbor.
+###
+19. Instruction: Provide instructions on how to make iced coffee. 
+19. Input:
+Iced coffee recipe: 
+Ingredients – 1 cup brewed coffee, 1 cup ice, 2 tbsp sweetener (optional), 2 tbsp milk (optional)
+Instructions – Brew coffee, let it cool, add sweetener and milk, pour over ice. 
+19. Output: 
+To make iced coffee, brew one cup of coffee and let it cool. Then, add two tablespoons of sweetener (if desired) and two tablespoons of milk (if desired). Pour the coffee over a cup of ice and enjoy.
+###
+20. Instruction: Generate a sentence that describes the appearance of the moon. 
+20. Input: 
+<noinput>
+20. Output: 
+The moon appears as a bright, round sphere in the night sky, covered in craters and mountains.

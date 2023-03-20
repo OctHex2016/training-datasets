@@ -1,0 +1,82 @@
+4. Instruction: Calculate the compound annual growth rate (CAGR) for the provided investment data.
+4. Input: 
+Initial investment: $10,000
+Final value: $25,000
+Years: 10
+4. Output: 
+The compound annual growth rate (CAGR) is 9.57%.
+
+5. Instruction: Suggest three possible topics for a school project focusing on environmental conservation.
+5. Input: 
+<noinput>
+5. Output: 
+1. The impact of single-use plastics on ocean life and potential alternatives.
+2. Coral reef preservation: Threats, restoration efforts, and sustainable living.
+3. Urban greening initiatives: Benefits, challenges, and case studies.
+
+6. Instruction: Create a brief fictional narrative about a new neighbor.
+6. Input: 
+<noinput>
+6. Output: 
+Samantha usually sat by the window to read, observing the quiet street outside. One day, a moving truck appeared next door. Out came an elderly man with his black cat, Lulu. As days went by, Samantha noticed Lulu always returned with gifts from the forest. Intrigued, Samantha joined her new neighbor for morning walks, discovering not only the hidden wonders of nature, but also the unstoppable spirit of an old soul who valued its beauty.
+
+7. Instruction: Rewrite the sentence without passive voice.
+7. Input: 
+The cake was eaten by the children.
+7. Output: 
+The children ate the cake.
+
+8. Instruction: What are the primary colors in the visible light spectrum?
+8. Input: 
+<noinput>
+8. Output: 
+The primary colors in the visible light spectrum are red, green, and blue.
+
+9. Instruction: Describe the storyline of a movie about an archeologist exploring ancient ruins.
+9. Input: 
+<noinput>
+9. Output: 
+Professor Annabelle Thorn, an ambitious archaeologist, stumbles upon an ancient map that leads her to a long-lost city deep within the Amazon rainforest. Alongside her team and a skilled guide, Annabelle braves treacherous terrain, wild animals, and relentless rivals determined to seize the city's hidden treasures. As they uncover artifacts and learn about the civilization that once thrived there, they face life-altering choices and ultimately unveil the city's darkest secrets, changing history forever.
+
+10. Instruction: Identify any grammatical or punctuation errors in the given sentence.
+10. Input: 
+Despite the store being open late,__ they forgot to change the sign, which lead to confusion amongst potential customer's.
+10. Output: 
+1. Correct "lead" to "led".
+2. Remove the apostrophe in "customer's" and make it "customers".
+
+11. Instruction: Provide a few tips for effective time management.
+11. Input: 
+<noinput>
+11. Output: 
+1. Create a daily schedule or to-do list.
+2. Break tasks into smaller, manageable chunks.
+3. Prioritize tasks based on importance and deadline.
+4. Set realistic goals and deadlines.
+5. Eliminate distractions (e.g., turn off notifications, create a focused workspace).
+6. Use the Pomodoro Technique for productive work sessions.
+7. Allocate time for regular breaks and self-care.
+
+12. Instruction: Find the thematic structure in the given chord progression.
+12. Input: 
+C  Am  F  G  Em  Am  Dm  G
+12. Output: 
+The thematic structure is I - vi - IV - V - iii - vi - ii - V.
+
+13. Instruction: Translate the given sentence into Spanish.
+13. Input: 
+The weather is beautiful today.
+13. Output: 
+El clima está hermoso hoy.
+
+14. Instruction: Determine the Myers-Briggs personality type for the individual described.
+14. Input: 
+Leonard is introverted, has strong intuition, makes decisions based on feelings rather than logic, and is adaptable to change.
+14. Output: 
+Leonard's Myers-Briggs personality type is INFP.
+
+15. Instruction: Explain the significance of the phrase "E Pluribus Unum."
+15. Input: 
+<noinput>
+15. Output: 
+"E Pluribus Unum" is a Latin phrase meaning "Out of Many, One." It appears on the Great Seal of the United States and symbolizes the unity and integration of the 13 original colonies that joined together to form a single nation. The phrase represents strength in diversity and the notion that, despite differences, the people of the United States come together as one.

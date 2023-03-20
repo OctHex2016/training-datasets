@@ -1,0 +1,118 @@
+4. Instruction: Rewrite the given sentence in passive voice. 
+4. Input: 
+The cat chased the mouse.
+4. Output: 
+The mouse was chased by the cat.
+###
+5. Instruction: Generate a 3-line poem about a sunset. 
+5. Input: 
+<noinput>
+5. Output: 
+The sun sets down in silence,
+Painting the sky with golden hues,
+A day's end, a gentle reminder of life's ultimate end.
+###
+6. Instruction: Recommend a book to read based on the given preferences. 
+6. Input: 
+Genre: Mystery
+Author: Agatha Christie
+Similar books: <noinput>
+6. Output: 
+"Murder on the Orient Express" by Agatha Christie is a classic mystery that will keep you guessing until the end. You might also enjoy "The Adventures of Sherlock Holmes" by Sir Arthur Conan Doyle or "Gone Girl" by Gillian Flynn. 
+###
+7. Instruction: Suggest a healthy dinner recipe. 
+7. Input: 
+Preference: Low carb and gluten-free.
+Ingredients: Chicken, cauliflower, broccoli, bell peppers.
+7. Output: 
+Grilled chicken with roasted cauliflower, broccoli, and bell peppers makes a delicious and healthy dinner. Season the chicken with your favorite herbs and spices and roast the vegetables in the oven until they are tender and crispy on the edges. 
+###
+8. Instruction: Complete the given analogy. 
+8. Input: 
+Hot is to cold as fire is to <noinput>.
+8. Output: 
+Ice. 
+###
+9. Instruction: Write a catchphrase for a new brand of energy drink. 
+9. Input: 
+Name of brand: Blitz
+9. Output: 
+"Unleash your inner power with Blitz energy drink!" 
+###
+10. Instruction: Summarize the plot of a movie. 
+10. Input: 
+Movie title: Inception
+10. Output: 
+Inception is about a thief named Dom Cobb who enters people's dreams to steal their secrets. He is hired by a businessman to implant an idea in a rival's mind to take over his company. The film is full of twists and turns and explores the power of the subconscious mind. 
+###
+11. Instruction: Edit the given sentence to remove redundancy. 
+11. Input: 
+He quickly ran towards the loud noise. 
+11. Output: 
+He ran towards the loud noise. 
+###
+12. Instruction: Describe a painting by a famous artist. 
+12. Input: 
+Artist: Vincent Van Gogh
+Painting: The Starry Night 
+12. Output: 
+The Starry Night depicts a village aglow with mystical stars and swirling winds. The painting is known for its bold use of color and impressionistic style, and is perhaps Van Gogh's most famous work. 
+###
+13. Instruction: Identify the type of figurative language used in the given sentence. 
+13. Input: 
+"I am so hungry, I could eat a horse!" 
+13. Output: 
+Hyperbole. 
+###
+14. Instruction: Summarize a news article. 
+14. Input: 
+Article title: WHO declares COVID-19 a global pandemic.
+14. Output: 
+The World Health Organization (WHO) has declared COVID-19 a global pandemic, citing the rapid spread of the virus and the increasing number of cases outside of China. The declaration is a call to action for nations to take aggressive measures to contain the virus and prevent further infections. 
+###
+15. Instruction: Write a haiku about a waterfall. 
+15. Input: 
+<noinput>
+15. Output: 
+Waterfall rushes down,
+Nature's symphony in flow,
+Majestic and free. 
+###
+16. Instruction: Provide a step-by-step guide to make a paper airplane. 
+16. Input: 
+Materials needed: A4 size paper.
+16. Output: 
+1. Fold the paper in half lengthwise and crease.
+2. Unfold the paper and fold the top corners inward to the center crease.
+3. Fold the top edges downward to meet the center crease.
+4. Fold the pointed top edge backward, along the first crease.
+5. Fold the paper in half along the center crease.
+6. Fold the wings downward along the bottom edge of the plane.
+7. Adjust the wings as desired for better flight. 
+###
+17. Instruction: Write a review of a restaurant you recently visited. 
+17. Input: 
+Restaurant name: Indian Spice
+Dishes tried: Chicken tikka masala, naan, samosas, mango lassi.
+17. Output: 
+I recently tried Indian Spice and it did not disappoint! The chicken tikka masala was perfectly seasoned and the naan and samosas were crispy and flavorful. The mango lassi was the perfect sweet ending to the meal. The service was also excellent and the atmosphere was cozy and welcoming. Highly recommend! 
+###
+18. Instruction: Classify the given animals into their respective groups. 
+18. Input: 
+Cat, fish, dog, rabbit, bird.
+18. Output: 
+Mammals: Cat, dog, rabbit. 
+Fish: Fish.
+Birds: Bird. 
+###
+19. Instruction: Correct the grammatical error in the given sentence. 
+19. Input: 
+Their going to the park later. 
+19. Output: 
+They're going to the park later. 
+###
+20. Instruction: Generate a pun using the word "cheese". 
+20. Input: 
+<noinput>
+20. Output: 
+Did you hear about the cheese factory that exploded? There was nothing left but de-brie!

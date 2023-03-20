@@ -1,0 +1,90 @@
+4. Instruction: Can you write a short summary of the plot of the movie "The Shawshank Redemption"? 
+4. Input: 
+<noinput>
+4. Output: 
+"The Shawshank Redemption" tells the story of Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, despite his claims of innocence. Over time, he befriends a fellow inmate, Ellis Boyd "Red" Redding, and finds himself protected by the guards after he helps one of them with tax issues. Andy begins to work as a bookkeeper in the prison library and starts to use his position to launder money for the warden. In the end, he escapes from the prison with the help of Red and moves to Mexico, leaving behind a story of hope and friendship. 
+###
+5. Instruction: Given a paragraph of text on a topic, summarize the main idea of the paragraph in one sentence. 
+5. Input: 
+Not all countries in the world have been affected by the COVID-19 pandemic in the same way. Some countries have had fewer cases and deaths due to early preventive measures, the lack of international connections, or the youth of the population. Other countries, such as the United States, Italy, and Brazil, have been severely affected by the virus, with hundreds of thousands of deaths and millions of reported cases. 
+5. Output: 
+Different countries have been affected differently by the COVID-19 pandemic, with some countries having fewer cases and deaths due to reasons such as early preventive measures, lack of international connections, or the youth of the population. 
+###
+6. Instruction: Which 10 albums won the Album of the Year Grammy Award in the 21st century? 
+6. Input: 
+<noinput>
+6. Output: 
+1. "Two Against Nature" - Steely Dan, 2001
+2. "O Brother, Where Art Thou?" Soundtrack - Various Artists, 2002
+3. "Come Away with Me" - Norah Jones, 2003
+4. "Speakerboxxx/The Love Below" - OutKast, 2004
+5. "Genius Loves Company" - Ray Charles and Various Artists, 2005
+6. "How to Dismantle an Atomic Bomb" - U2, 2006
+7. "Taking the Long Way" - Dixie Chicks, 2007
+8. "River: The Joni Letters" - Herbie Hancock, 2008
+9. "Raising Sand" - Robert Plant and Alison Krauss, 2009
+10. "Fearless" - Taylor Swift, 2010
+###
+7. Instruction: Correct the following sentence: "Thanh reads more faster than me."
+7. Input: 
+<noinput>
+7. Output: 
+"Thanh reads faster than me." or "Thanh reads more quickly than I do."
+###
+8. Instruction: Can you name five landmarks in Paris, France? 
+8. Input: 
+<noinput>
+8. Output: 
+1. Eiffel Tower
+2. Louvre Museum
+3. Notre-Dame Cathedral
+4. Arc de Triomphe
+5. Champs-Elysées
+###
+9. Instruction: Rewrite the following sentence to make it more concise: "The reason why I am late is because I missed the train." 
+9. Input: 
+<noinput>
+9. Output: 
+"I am late because I missed the train." or "Missing the train made me late."
+###
+10. Instruction: What is the capital city of Australia? 
+10. Input: 
+<noinput>
+10. Output: 
+Canberra. 
+###
+11. Instruction: Summarize briefly what the book "To Kill a Mockingbird" is about. 
+11. Input: 
+<noinput>
+11. Output: 
+"To Kill a Mockingbird" is a novel by Harper Lee published in 1960. Set in the Deep South of the United States during the 1930s, it follows the story of Scout Finch, a young girl who lives with her brother and father, a lawyer in a small town in Alabama. As she grows up, she learns about racism, injustice, and prejudice through the trial of a black man who is falsely accused of raping a white woman. 
+###
+12. Instruction: Rearrange the following jumbled words to form a sentence: "movie / saw / I / a / good / yesterday." 
+12. Input: 
+<noinput>
+12. Output: 
+"I saw a good movie yesterday." 
+###
+13. Instruction: Can you suggest some tips for improving public speaking skills? 
+13. Input: 
+<noinput>
+13. Output: 
+1. Practice frequently
+2. Focus on your breathing
+3. Slow down your pace 
+4. Use pauses effectively 
+5. Use body language 
+6. Engage with the audience 
+7. Keep practicing 
+###
+14. Instruction: Is it grammatically correct to say "Me and him went to the store"? 
+14. Input: 
+<noinput>
+14. Output: 
+No, it should be "He and I went to the store." or "Him and I went to the store." 
+###
+15. Instruction: Correct the following sentence: "They was eating dinner together when she got the phone call." 
+15. Input: 
+<noinput>
+15. Output: 
+"They were eating dinner together when she got the phone call."

@@ -1,0 +1,106 @@
+4. Instruction: Write a haiku about nature.
+4. Input: 
+<noinput>
+4. Output: 
+Majestic mountains
+Song of a flowing river
+Sunset's warm embrace
+###
+5. Instruction: Summarize the main points of the given article in one sentence.
+5. Input: 
+Apple has announced a new iPhone SE with an A15 Bionic chip, a 12-megapixel main camera, and 5G support, starting at $429, with pre-orders beginning on March 11th and shipping to customers on March 18th.
+5. Output: 
+Apple unveils new iPhone SE featuring an A15 Bionic chip, 12-megapixel camera, and 5G support, priced at $429, available for pre-order on March 11th and shipping on March 18th.
+###
+6. Instruction: Translate the given text into French.
+6. Input: 
+She is a professional chef and runs her own cooking school.
+6. Output: 
+Elle est une chef professionnelle et dirige sa propre école de cuisine.
+###
+7. Instruction: Provide an alternate movie title that captures the essence of the given movie synopsis.
+7. Input: 
+A group of intergalactic criminals is forced to work together to stop a fanatical warrior from taking control of the universe.
+7. Output: 
+Cosmic Outlaws: Battle for the Universe
+###
+8. Instruction: Write a recipe overview for a simple chocolate cake.
+8. Input: 
+<noinput>
+8. Output: 
+The simple chocolate cake recipe combines all-purpose flour, unsweetened cocoa powder, sugar, baking soda, salt, vegetable oil, white vinegar, and vanilla extract to create a moist, tender cake with a rich chocolate flavor perfect for birthdays, celebrations, or a special dessert treat.
+###
+9. Instruction: Identify the grammatical error and rewrite the given sentence correctly.
+9. Input: 
+She don't like ice cream.
+9. Output: 
+She doesn't like ice cream.
+###
+10. Instruction: How would you resolve the given math problem?
+10. Input: 
+Solve the equation: 3x + 5 = 20
+10. Output: 
+Subtract 5 from both sides: 3x = 15
+Divide both sides by 3: x = 5
+###
+11. Instruction: State a more concise way of saying the following sentence.
+11. Input: 
+In spite of the fact that it was raining outside, the children decided to go out and play.
+11. Output: 
+Despite the rain, the children decided to go out and play.
+###
+12. Instruction: Suggest a use for the given object.
+12. Input: 
+USB stick
+12. Output: 
+A USB stick can be used to store, transfer, and back up digital files, such as documents, photos, and videos.
+###
+13. Instruction: Identify the author and title of the famous novel with this opening line.
+13. Input: 
+It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+13. Output: 
+Jane Austen, "Pride and Prejudice"
+###
+14. Instruction: Explain the role of the main character's uncle in the given movie plot.
+14. Input: 
+In the movie "The Lion King," Simba, a young lion prince, is tricked by his treacherous uncle Scar into thinking that he caused his father's death and flees into exile after that event.
+14. Output: 
+In "The Lion King," Simba's uncle Scar serves as the main antagonist, manipulating Simba into believing he's responsible for his father's death and exiling him in order to seize the throne for himself.
+###
+15. Instruction: List three potential risks of the given technology.
+15. Input: 
+Artificial intelligence
+15. Output: 
+1. Job displacement: AI may replace human jobs, leading to unemployment.
+2. Bias: AI systems can perpetuate societal biases based on flawed or biased data.
+3. Misuse: AI can be used maliciously, such as in autonomous weapons systems or deepfake content creation.
+###
+16. Instruction: Name a possible career path for someone with the following degree.
+16. Input: 
+Bachelor's degree in Civil Engineering
+16. Output: 
+Structural Engineer
+###
+17. Instruction: Identify what type of bias the following statement exhibits.
+17. Input: 
+John is a soft-spoken and polite young man; he cannot possibly be a competent and effective leader.
+17. Output: 
+Stereotyping bias.
+###
+18. Instruction: Convert the given recipe's main ingredient measurements to the imperial system.
+18. Input: 
+Main ingredients: 200g flour, 150g sugar, 50g cocoa powder
+18. Output: 
+Main ingredients: 7 oz flour, 5.3 oz sugar, 1.8 oz cocoa powder
+###
+19. Instruction: Make a recommendation based on the given customer preference.
+19. Input: 
+Their favorite book is "The Catcher in the Rye" by J.D. Salinger.
+19. Output: 
+I recommend "A Separate Peace" by John Knowles, as it also deals with themes of adolescence, self-discovery, and navigating the adult world.
+###
+20. Instruction: Analyze the effectiveness of the given statement as a thesis in an argumentative essay.
+20. Input: 
+Dogs are better than cats.
+20. Output: 
+As a thesis, the statement "Dogs are better than cats" is too simplistic and vague. A more effective thesis would provide specific reasons for preferring dogs over cats or frame the argument in terms of differing pet owner preferences and needs.

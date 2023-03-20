@@ -1,0 +1,98 @@
+4. Instruction: Translate the sentence into French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Edit the text to correct grammar and punctuation.
+5. Input: 
+"the boys toys are placed; in the living room, next to the dinnig table with the red cloth."
+5. Output: 
+"The boy's toys are placed in the living room, next to the dining table with the red cloth."
+###
+6. Instruction: Summarize the content in one sentence.
+6. Input: 
+"Artificial intelligence (AI) is the field of study associated with developing computer programs and machines that can simulate human intelligence. It has been a groundbreaking field in recent decades, with advancements in areas such as natural language processing, data mining, and machine learning. Researchers and developers aim to create systems that can analyze, reason, and learn from various forms of data to solve complex problems and perform tasks that once required human intelligence."
+6. Output: 
+"Artificial intelligence (AI) involves creating computer programs and machines that mimic human intelligence, with advancements in areas like natural language processing, data mining, and machine learning."
+###
+7. Instruction: Write a motivational quote related to the topic.
+7. Input: 
+Topic: Success
+7. Output: 
+"Success is not final, failure is not fatal; it is the courage to continue that counts." - Winston Churchill
+###
+8. Instruction: Classify if the statement is positive, negative or neutral.
+8. Input: 
+I think the new project has a lot of potential and could lead to great things.
+8. Output: 
+Positive
+###
+9. Instruction: Describe the first step one should take to achieve the goal.
+9. Input: 
+Goal: Learn to play the guitar.
+9. Output: 
+Research and attain a suitable guitar and necessary accessories, such as picks, a tuner, and a guitar strap.
+###
+10. Instruction: Which book would you recommend for learning the subject?
+10. Input: 
+Subject: Python programming
+10. Output: 
+"Python Crash Course" by Eric Matthes
+###
+11. Instruction: What is the scientific name of the species?
+11. Input: 
+<noinput>
+11. Output: 
+Please provide a species or organism to give the scientific name.
+###
+12. Instruction: List some possible negative effects of the phenomenon.
+12. Input: 
+Phenomenon: Deforestation
+12. Output: 
+- Loss of biodiversity
+- Disruption of the water cycle
+- Increase in greenhouse gas emissions
+- Soil erosion
+- Increased risks of flooding
+###
+13. Instruction: Write a rhyming couplet.
+13. Input: 
+<noinput>
+13. Output: 
+In the night's soft embrace, stars glisten and gleam,
+Through life's darkened maze, hope whispers its dream.
+###
+14. Instruction: Provide a brief history of the event.
+14. Input: 
+Event: World War II
+14. Output: 
+World War II (1939-1945) was a global conflict involving most major nations, primarily fought between the Axis powers (led by Germany, Italy, and Japan) and the Allies (led by the United States, the Soviet Union, and the United Kingdom). The war began with Germany's invasion of Poland in 1939, precipitating declarations of war from the UK and France. Pivotal events included the Battle of Stalingrad, the D-Day invasion, and the dropping of atomic bombs on Hiroshima and Nagasaki. It ended with the unconditional surrender of Germany on May 1945 and the surrender of Japan on September 1945.
+###
+15. Instruction: Compare and contrast the two concepts.
+15. Input: 
+Concepts: Capitalism and Socialism
+15. Output: 
+Capitalism is an economic system where private individuals or businesses own capital goods and the production of goods and services is guided by profit. Socialism, on the other hand, is a system where the means of production, distribution, and exchange are owned and controlled by the state or the public, with an emphasis on equality and meeting the needs of all. While capitalism focuses on self-interest and market competition, socialism aims for wealth redistribution and cooperation for the greater good.
+###
+16. Instruction: Provide the release date of the movie.
+16. Input: 
+Movie: The Shawshank Redemption
+16. Output: 
+September 23, 1994
+###
+17. Instruction: Write a 5 line poem about the theme.
+17. Input: 
+Theme: Autumn
+17. Output: 
+As golden leaves descend and glide,
+The sun casts shadows, nature's guide,
+Crisp winds whisper secrets near,
+Autumn's presence fills the air,
+A dance of change, a season's stride.
+###
+18. Instruction: Write an original short story in 50 words or less.
+18. Input: 
+<noinput>
+18. Output: 
+On his solitary walk, Jack stumbled upon an abandoned cottage. Embracing adventure, he ventured inside, discovering a hidden, dusty book. As he flipped through its pages, vivid worlds burst into life around him. Jack marveled at the magical landscapes, traversing a kaleidoscope of imagination on those timeworn pages.

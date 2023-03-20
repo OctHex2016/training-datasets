@@ -1,0 +1,54 @@
+4. Instruction: Examine the email draft for errors and correct them. 
+4. Input: 
+Subject: Urgant Help Required!
+
+Dear Jana,
+
+I hope your are well. I am witing to inform you that we need your assistance for an ugent matter. Their is an unexcepected error in the finacial report.
+
+Can you pioratize lookin into the issue and giv us feedback by 2pm bst today?
+
+Looking forwerd to your responce quickly.
+
+Kind regards,
+
+Samantha
+4. Output: 
+Subject: Urgent Help Required!
+
+Dear Jana,
+
+I hope you are well. I am writing to inform you that we need your assistance for an urgent matter. There is an unexpected error in the financial report.
+
+Can you prioritize looking into the issue and give us feedback by 2pm BST today?
+
+Looking forward to your response quickly.
+
+Kind regards,
+
+Samantha
+###
+5. Instruction: Which movie should I watch today, a romantic comedy or a science fiction?
+
+5. Input: 
+<noinput>
+5. Output: 
+I recommend watching a romantic comedy today to lighten up your mood and enjoy some feel-good moments.
+###
+6. Instruction: Explain the greenhouse effect in simple terms. 
+6. Input: 
+<noinput>
+6. Output: 
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere, like carbon dioxide and methane, allow sunlight to enter but trap heat from escaping. This causes the Earth's temperature to rise, which helps to maintain a warm and habitable climate. However, human activities are increasing the amount of greenhouse gases, leading to an enhanced greenhouse effect and causing global warming.
+###
+7. Instruction: Translate the following English sentence to French: "I will go shopping tomorrow."
+7. Input: 
+<noinput>
+7. Output: 
+Je vais faire du shopping demain.
+###
+8. Instruction: Write a short movie plot based on this setting: A small, peaceful town is suddenly facing a disaster.
+8. Input: 
+<noinput>
+8. Output: 
+In the quaint town of Meadowbrook, life is calm and idyllic. Residents lead simple, happy lives until a sudden disaster strikes in the form of a mysterious toxic gas engulfing the town. No one knows where the gas came from, but it threatens the survival of everything in Meadowbrook. As townspeople evacuate and the local authorities struggle to contain the disaster, a group of unlikely locals must coalesce, utilizing their everyday skills and unexpected courage to unravel the origin of the toxic gas. While working together, they uncover secrets about their town and a nefarious plot that threatens the world.

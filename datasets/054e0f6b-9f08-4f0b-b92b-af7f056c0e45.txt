@@ -1,0 +1,31 @@
+4. Instruction: Compare and contrast the two types of biodegradable plastic mentioned.
+4. Input: 
+Polylactic acid (PLA) is a type of biodegradable plastic derived from renewable resources such as corn starch and sugarcane. PLA releases significantly fewer greenhouse gases during its production process and decomposes mostly into water, carbon dioxide, and biomass when discarded. However, PLA may take several months to years to fully decompose in landfill conditions. Polyhydroxyalkanoates (PHA) is another type of biodegradable plastic produced naturally by bacteria through the fermentation process. PHA decomposes quickly in various environments, including marine, so it poses a reduced threat to aquatic life. However, due to its higher production cost, it is less commercially competitive than PLA.
+4. Output: 
+PLA is derived from renewable resources and has a low carbon footprint during production, but can take longer to decompose in landfills. PHA, produced naturally by bacteria, decomposes quickly in various environments, but has a higher production cost than PLA. Both are biodegradable plastics with different applications and environmental trade-offs. 
+
+5. Instruction: Fill 'How is' with a noun from the provided sentence below, (example: How is Summer etc.) and then answer the question.
+5. Input: 
+The ionization energy is the minimum energy required to remove an electron from an atom or molecule in the gaseous state.
+5. Output: 
+How is ionization energy?
+Ionization energy is the minimum energy required to remove an electron from an atom or molecule in the gaseous state. It determines the ease with which an atom or molecule loses an electron and becomes positively charged.
+
+6. Instruction: Describe an underwater gear assembly process to put on a full-face diving mask.
+6. Input: 
+<noinput>
+6. Output: 
+1. Inspect the full-face diving mask for any damage, dirt, or debris; clean if necessary.
+2. Loosen all straps on the mask to allow easy placement on your face.
+3. Put on your diving suit, hood (if applicable), gloves, and any other necessary gear.
+4. Place the mask against your face, positioning it to cover your nose and mouth comfortably.
+5. Hold the mask firmly against your face with one hand while pulling the strap over your head with the other hand.
+6. Adjust the straps for a secure yet comfortable fit, ensuring a good seal between the mask and your face.
+7. Breathe in through your nose and out through your mouth to test the mask's airtight seal and functionality.
+8. Complete any final preparations, such as attaching a snorkel or communication device to the mask if required.
+
+7. Instruction: Rewrite the following sentence in passive voice.
+7. Input: 
+The chef is preparing a delicious meal.
+7. Output: 
+A delicious meal is being prepared by the chef.

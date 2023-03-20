@@ -1,0 +1,106 @@
+4. Instruction: Detect the passive voice in the following sentence and rewrite it using active voice.
+4. Input: 
+The cake was eaten by John.
+4. Output: 
+John ate the cake.
+###
+5. Instruction: What are the three primary colors of additive color mixing in digital displays?
+5. Input: 
+<noinput>
+5. Output: 
+The three primary colors of additive color mixing in digital displays are red, green, and blue.
+###
+6. Instruction: Identify the mistakes in the text and provide the corrected version.
+6. Input: 
+It's a beatiful day, though it's bit couldy.
+6. Output: 
+It's a beautiful day, though it's a bit cloudy.
+###
+7. Instruction: Write a haiku (a three-line poem with a 5-7-5 syllable pattern) about a starry night.
+7. Input: 
+<noinput>
+7. Output: 
+Starry sky above,
+Whispers of eternity,
+Silent night, profound.
+###
+8. Instruction: Explain the basic concept of Schrödinger's cat experiment.
+8. Input: 
+<noinput>
+8. Output: 
+Schrödinger's cat experiment is a thought experiment in quantum mechanics that illustrates the concept of superposition. A cat, a vial of poison, and a radioactive atom are placed in a sealed box. The decay of the atom is linked to the release of the poison. The cat is considered both alive and dead at the same time until someone opens the box and observes the cat, collapsing the superposition into one reality.
+###
+9. Instruction: Identify the speaker, target person, and compliment in the following dialogue.
+9. Input: 
+A: "Jane, your presentation was truly informative and engaging!"
+B: "Thank you, I appreciate your feedback."
+9. Output: 
+Speaker: A
+Target person: Jane (Person B)
+Compliment: your presentation was truly informative and engaging
+###
+10. Instruction: Convert the text from 1st person point of view to 3rd person point of view.
+10. Input: 
+I love taking long walks in the park and can spend hours admiring the flowers.
+10. Output: 
+She loves taking long walks in the park and can spend hours admiring the flowers.
+###
+11. Instruction: Classify the following word as a noun, verb, adjective, or adverb.
+11. Input: 
+silently
+11. Output: 
+adverb
+###
+12. Instruction: Turn the sentence into a question.
+12. Input: 
+She is playing in the garden.
+12. Output: 
+Is she playing in the garden?
+###
+13. Instruction: Add a continuation to the story that introduces a conflict.
+13. Input: 
+Once upon a time, there was a peacefully little village hidden deep in the forest. The villagers loved their quiet and simple lives, tending to their gardens and trading goods with one another.
+13. Output: 
+However, one day, a mysterious stranger arrived in the village, bringing with him a dark secret that threatened the harmony and peace the villagers had enjoyed for generations.
+###
+14. Instruction: Summarize the main idea of the paragraph.
+14. Input: 
+Climate change is causing the Earth's average temperature to rise, leading to a wide range of impacts on our planet. As the atmosphere warms, it stores more energy, which causes changes in weather patterns and more intense and frequent storms. Melting glaciers and rising sea levels are also negative consequences of climate change, with coastal cities being particularly vulnerable to flooding. Additionally, ecosystems are at risk as habitats are destroyed and species face unprecedented challenges of adapting to rapidly changing conditions.
+14. Output: 
+Climate change is causing a rise in Earth's temperature, leading to various detrimental impacts, such as changes in weather patterns, increased storm intensity and frequency, melting glaciers and rising sea levels, and disruption of ecosystems and habitats.
+###
+15. Instruction: Please paraphrase the following sentence.
+15. Input: 
+The quick brown fox jumps over the lazy dog.
+15. Output: 
+The agile brown fox leaps over the slow dog.
+###
+16. Instruction: What steps should be taken in response to a weak indoor Wi-Fi signal?
+16. Input: 
+<noinput>
+16. Output: 
+To improve a weak indoor Wi-Fi signal, consider the following steps: repositioning the router to a central location, updating firmware, checking for network interference, using a Wi-Fi extender or mesh network, and ensuring proper security and password settings.
+###
+17. Instruction: Combine the sentences into a single, coherent paragraph.
+17. Input: 
+I usually have a cup of coffee in the morning. Espresso is my favorite way to make it. I like to add a little bit of milk to soften the flavor. Sometimes, I even add a touch of cinnamon for a unique twist.
+17. Output: 
+In the morning, I usually have a cup of coffee made as an espresso, which is my favorite way to prepare it. I like to add a little bit of milk to soften the flavor, and occasionally, I like to enhance the taste by adding a touch of cinnamon for a unique twist.
+###
+18. Instruction: Describe the given object as if you are an alien who has never seen it before.
+18. Input: 
+an umbrella
+18. Output: 
+This curious object is a collapsible, dome-shaped device mounted on an elongated central pole, designed for grasping with a claw-like appendage. When extended, the dome shape protects fragile beings from liquid precipitation, and when not in use, it can be collapsed and easily carried.
+###
+19. Instruction: Identify the rhetorical device used in this sentence.
+19. Input: 
+All the world's a stage, and all the men and women merely players.
+19. Output: 
+Metaphor
+###
+20. Instruction: Rewrite the text from American English to British English.
+20. Input: 
+The truck driver parked his vehicle in the parking lot and checked the gas meter while eating a bag of chips.
+20. Output: 
+The lorry driver parked his vehicle in the car park and checked the petrol meter while eating a bag of crisps.

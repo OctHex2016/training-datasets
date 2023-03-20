@@ -1,0 +1,100 @@
+4. Instruction: Translate the given phrases from English to Spanish.
+4. Input: 
+"Hello, how are you?"
+"I love you"
+"Goodbye"
+4. Output: 
+"Hello, how are you?": "Hola, ¿cómo estás?"
+"I love you": "Te quiero/amor"
+"Goodbye": "Adiós"
+###
+5. Instruction: Rewrite the given sentence with the passive voice.
+5. Input: 
+John painted the house.
+5. Output: 
+The house was painted by John.
+###
+6. Instruction: Generate a creative story starting with the given sentence. 
+6. Input: 
+There was a knock at the door. 
+6. Output: 
+There was a knock at the door. No one ever came to visit Frank—the last people who had done so were his parents, who had passed away years ago. So it came as a surprise when he opened the door to see a young woman standing in front of him, dressed in old-fashioned clothing and carrying a tattered suitcase. She looked up at him and said, “Can I come in?”
+###
+7. Instruction: Explain the difference between the use of the words "affect" and "effect".
+7. Input: 
+<noinput>
+7. Output: 
+The word "affect" is usually used as a verb, meaning "to influence or produce a change in something." The word "effect" is usually used as a noun, meaning "the result or consequence of something." For example, "The loud noise affected my concentration." versus "The effect of the loud noise was that I couldn't concentrate."
+###
+8. Instruction: Complete the analogy: "bread is to butter as cookie is to___."
+8. Input: 
+<noinput>
+8. Output: 
+Bread is typically eaten with butter, so the relationship is one of accompaniment. Similarly, cookies are typically eaten with milk, so the answer would be "milk." 
+###
+9. Instruction: Rewrite the given sentence using parallel structure. 
+9. Input: 
+She likes reading, swimming, and to hike. 
+9. Output: 
+She likes reading, swimming, and hiking.
+###
+10. Instruction: Define the term "aberration".
+10. Input: 
+<noinput>
+10. Output: 
+An aberration is a departure from what is normal, usual or expected—particularly in regards to behavior, actions, or results. It can also refer to an aberrant event, one that deviates from a trend or pattern. 
+###
+11. Instruction: Rearrange the given sentences to form a coherent paragraph. 
+11. Input: 
+A. They had dinner at a fabulous new restaurant.
+B. After that, they saw a movie.
+C. They went for a walk around the lake.
+D. The couple had a date night.
+11. Output: 
+The couple had a date night. They had dinner at a fabulous new restaurant. After that, they saw a movie. They went for a walk around the lake. 
+###
+12. Instruction: Write a paragraph about your favorite fictional character.
+12. Input: 
+<noinput>
+12. Output: 
+My favorite fictional character is Harry Potter. He was orphaned at a young age and grew up in an abusive household. Despite the odds stacked against him, he displayed bravery, loyalty, and resourcefulness throughout his time at Hogwarts School of Witchcraft and Wizardry. He fought valiantly against the villainous Voldemort and saved the wizarding world from certain doom. His unwavering determination and selflessness make him a true hero in my eyes.
+###
+13. Instruction: Correct the grammatical errors in the given sentence.
+13. Input: 
+Me and my friend went to the beach yesterday.
+13. Output: 
+My friend and I went to the beach yesterday. 
+###
+14. Instruction: Put the given list of events in chronological order.
+14. Input: 
+A. The American Civil War
+B. The Apollo 11 moon landing
+C. The Founding of Rome
+D. The Renaissance
+14. Output: 
+C. The Founding of Rome
+A. The American Civil War
+D. The Renaissance
+B. The Apollo 11 moon landing
+###
+15. Instruction: List the ingredients and instructions for making vegetable stir-fry.
+15. Input: 
+<noinput>
+15. Output: 
+Ingredients:
+- 1 tablespoon vegetable oil
+- 2 garlic cloves, minced
+- 1 onion, chopped
+- 2 bell peppers, thinly sliced
+- 2 zucchini, thinly sliced
+- 1/2 cup soy sauce
+- 1 tablespoon cornstarch
+- 1 tablespoon honey
+Instructions:
+1. Heat the oil in a large skillet over medium heat.
+2. Add the garlic and onion and cook until the onion is translucent.
+3. Add in the bell peppers and zucchini and cook until they become tender, about 5 minutes.
+4. In a small bowl, mix together the soy sauce, cornstarch, and honey.
+5. Pour the sauce into the skillet and stir until everything is well-coated.
+6. Cook for an additional 2-3 minutes until the sauce has thickened.
+Serve over rice or noodles.

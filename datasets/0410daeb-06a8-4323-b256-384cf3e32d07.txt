@@ -1,0 +1,109 @@
+4. Instruction: Edit the following paragraph for grammar, punctuation, and style.
+4. Input: 
+Their was a store named Grocers-Mart. Which sold a various products like, fruits and vegetables, canned goods and more. The store had great reputation: and, excellent customer service. Every one come there to buy there groceries.
+4. Output: 
+There was a store named Grocers-Mart that sold various products like fruits, vegetables, canned goods, and more. The store had a great reputation and offered excellent customer service. Everyone visited it to buy their groceries.
+###
+5. Instruction: Given a movie plot, determine the genre of the movie.
+5. Input: 
+When an infinity stone is found on Earth, a group of heroes unite to save the world from intergalactic evil.
+5. Output: 
+Action/Adventure
+###
+6. Instruction: Convert the narrative below into a bulleted list summarizing the points.
+6. Input: 
+Harry woke up at 6 in the morning. After getting dressed, he made coffee for himself and his wife. Then, he proceeded to eat breakfast and read the newspaper. Harry dropped his kids off at school before heading to work.
+6. Output: 
+- Harry wakes up at 6 am
+- Gets dressed
+- Makes coffee for himself and wife
+- Eats breakfast and reads the newspaper
+- Drops kids off at school
+- Heads to work
+###
+7. Instruction: Based on the input words, create a coherent sentence that includes them all.
+7. Input: 
+elephant, fast, jungle, chased
+7. Output: 
+In the dense jungle, the fast jaguar chased the elephant through tangled vegetation.
+###
+8. Instruction: Explain the meaning of the idiom and provide a usage example.
+8. Input: 
+Bite the bullet
+8. Output: 
+The idiom "bite the bullet" means to face a difficult or unpleasant situation with courage and determination. For example, "Even though he was scared, he decided to bite the bullet and ask for a promotion at work."
+###
+9. Instruction: Translate the given English sentence into French.
+9. Input: 
+Where is the train station?
+9. Output: 
+Où est la gare ?
+###
+10. Instruction: What is the origin of the given word?
+10. Input: 
+<noinput>
+10. Output: 
+Please provide the word you would like to know the origin of.
+###
+11. Instruction: Write a brief description of the sports event.
+11. Input: 
+2018 FIFA World Cup final, France vs Croatia
+11. Output: 
+The 2018 FIFA World Cup final was an exciting soccer match between France and Croatia held at the Luzhniki Stadium in Moscow, Russia. France emerged victorious with a 4-2 win, securing their second FIFA World Cup title.
+###
+12. Instruction: List three potential side effects of the drug based on the description.
+12. Input: 
+Snerafol, an antihistamine, can cause drowsiness, dizziness, and dry mouth.
+12. Output: 
+1. Drowsiness 
+2. Dizziness 
+3. Dry mouth
+###
+13. Instruction: Summarize the given news headline and article.
+13. Input: 
+Headline: Apple Introduces New iPhone Models with Advanced Technologies
+Article: Apple has unveiled its latest iPhone models, the iPhone 13 and iPhone 13 Pro, featuring new advanced technologies to revolutionize the smartphone experience. The new models provide improved battery life, faster processing, and better camera systems, positioning the iPhone 13 series as the most powerful iPhones to date. Additionally, the iPhone 13 lineup comes with storage options up to 1 terabyte, catering to the rise of consumer demand for increased storage capacity.
+13. Output: 
+Apple has revealed the iPhone 13 and iPhone 13 Pro, which offer improved battery life, faster processing, and advanced camera systems. The new iPhone 13 series is the most powerful yet, with storage options up to 1 terabyte.
+###
+14. Instruction: Offer advice on how to deal with stress in the workplace.
+14. Input: 
+<noinput>
+14. Output: 
+To deal with stress in the workplace, consider the following tips: 
+1. Prioritize and organize your tasks to manage your workload effectively. 
+2. Break your work into smaller, manageable tasks to avoid feeling overwhelmed. 
+3. Take short breaks to recharge and clear your mind. 
+4. Learn to say "no" when you cannot take on more responsibilities. 
+5. Develop a healthy work-life balance by setting boundaries between work and personal life.
+6. Practice mindfulness and relaxation techniques, such as deep-breathing exercises, to help manage stress.
+###
+15. Instruction: Analyze the given lines from the play and explain its implications.
+15. Input: 
+“To be, or not to be: that is the question” - Hamlet, Act III, Scene I.
+15. Output: 
+The quotation "To be, or not to be: that is the question" from Hamlet, Act III, Scene I, is a famous soliloquy by the protagonist, Prince Hamlet. In this line, Hamlet ponders whether it is better to live and endure the hardships of life or to die, ultimately questioning the nature of existence and the afterlife. This internal debate reflects Hamlet's uncertainty and his struggle to cope with the tragedy surrounding him, revealing a deeper introspection about life's ultimate purpose and the nature of human suffering.
+###
+16. Instruction: Provide a recipe for a quick and healthy breakfast.
+16. Input: 
+<noinput>
+16. Output: 
+Avocado and Egg Toast:
+
+Ingredients:
+- 2 slices of whole-grain bread
+- 1 ripe avocado
+- 2 eggs
+- Salt and pepper to taste
+- Optional toppings: cherry tomatoes, sprouts, chives, red pepper flakes
+
+Instructions:
+1. Toast the bread in a toaster or under a broiler until golden brown.
+2. While the bread is toasting, mash the avocado with a fork in a bowl.
+3. In a nonstick skillet, cook the eggs to your preferred style (e.g., scrambled, fried, or over-easy).
+4. Spread the mashed avocado on the toasted bread.
+5. Place the cooked eggs on top of the avocado.
+6. Season with salt and pepper to taste.
+7. Add any optional toppings as desired.
+
+Serve immediately and enjoy your quick and healthy breakfast!

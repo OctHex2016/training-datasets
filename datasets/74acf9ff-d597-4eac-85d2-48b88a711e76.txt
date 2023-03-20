@@ -1,0 +1,114 @@
+4. Instruction: Generate a 5-line poem about the ocean.
+4. Input: 
+<noinput>
+4. Output: 
+The ocean waves sway with grace,
+As seagulls dance above the place.
+Deep and mysterious, yet full of life,
+A world of wonder, free from strife.
+The ocean captivates with its endless might.
+###
+5. Instruction: Given a sentence with a grammatical error, correct the error and rewrite the sentence. 
+5. Input: 
+He don't like to go to school.
+5. Output: 
+He doesn't like to go to school.
+###
+6. Instruction: Provide a summary of the plot of a book or a movie.
+6. Input: 
+The Lord of the Rings is a fantasy novel by JRR Tolkien.
+6. Output: 
+The Lord of the Rings is a story about hobbit Frodo Baggins and his journey to destroy the One Ring, a powerful artifact that can destroy the world. Along the way, Frodo is guided by wizards, warriors, and other creatures as he battles evil forces that seek to use the Ring for their own purposes.
+###
+7. Instruction: Write a compelling introduction for an essay about the impact of social media on mental health. 
+7. Input: 
+<noinput>
+7. Output: 
+Social media has transformed the way we socialize, work, and communicate. But it has also brought a heightened awareness of mental health challenges caused and exacerbated by these platforms. In this essay, I will explore both the benefits and drawbacks of social media on mental health, and suggest ways to mitigate its effects.
+###
+8. Instruction: Given a list of ingredients, provide a recipe for a dish.
+8. Input: 
+Chicken breast, broccoli, garlic, soy sauce, honey, red pepper flakes.
+8. Output: 
+1. Heat oil in a pan and add chicken, cooking for 5-7 minutes on each side until done.
+2. Remove chicken and set aside.
+3. Saute garlic in the same pan and add broccoli, cooking until tender.
+4. In a bowl, mix soy sauce, honey, and red pepper flakes.
+5. Pour the sauce into the pan and cook for 1-2 minutes.
+6. Add chicken back to the pan and stir to coat in the sauce.
+7. Serve hot.
+###
+9. Instruction: Given a question about American history, provide a concise and informative answer.
+9. Input: 
+What was the significance of the Emancipation Proclamation?
+9. Output: 
+The Emancipation Proclamation was issued by President Abraham Lincoln in 1863, and declared that all slaves in the Confederate states would be freed. While it did not immediately grant freedom to all slaves, it was an important step towards ending slavery in the United States and eventually led to the passage of the 13th Amendment to the Constitution.
+###
+10. Instruction: Rewrite a sentence to include a given word while maintaining the original meaning.
+10. Input: 
+The dog jumped over the fence.
+Word to add: quickly
+10. Output: 
+Quickly, the dog jumped over the fence. 
+###
+11. Instruction: Given a description of a person's symptoms, suggest possible over-the-counter medication.
+11. Input: 
+I have a headache and runny nose.
+11. Output: 
+You can try taking aspirin, ibuprofen, or acetaminophen for your headache, and an antihistamine like Claritin or Zyrtec for your runny nose. Be sure to follow the dosage instructions on the package, and consult a doctor if your symptoms persist or worsen.
+###
+12. Instruction: Given a famous quote, explain what it means.
+12. Input: 
+"All happy families are alike; each unhappy family is unhappy in its own way." - Leo Tolstoy
+12. Output: 
+This quote means that there is a certain sameness or predictability to happy families, as they all share similar traits and characteristics that contribute to their happiness. On the other hand, unhappy families may each have their own unique problems and struggles that make them unhappy.
+###
+13. Instruction: Given a set of data, calculate the mean, median, and mode.
+13. Input: 
+Data set:  3, 5, 7, 8, 11, 11, 13, 15, 15
+13. Output: 
+Mean: 9.67
+Median: 11
+Mode: 11, 15
+###
+14. Instruction: Rewrite a sentence to use the active voice instead of the passive voice.
+14. Input: 
+The cake was baked by my sister.
+14. Output: 
+My sister baked the cake.
+###
+15. Instruction: Given a sentence, reword it to use more vivid and descriptive language.
+15. Input: 
+The sunset was beautiful.
+15. Output: 
+The sky blazed with hues of pink, orange, and gold as the sun descended below the horizon, painting a breathtakingly beautiful picture.
+###
+16. Instruction: Explain the purpose of a commonly used tool or device.
+16. Input: 
+What is the purpose of a Phillips-head screwdriver?
+16. Output: 
+A Phillips-head screwdriver is a tool commonly used for tightening or loosening screws that have a unique x-shaped indentation on the top of the head. It is typically used in construction, furniture assembly, and automotive work. The design allows for greater torque and less slipping than other screwdrivers, making it a reliable choice for a wide variety of projects.
+###
+17. Instruction: Given a word, come up with at least 3 synonyms.
+17. Input: 
+Synonyms for "excited"
+17. Output: 
+Thrilled, elated, overjoyed.
+###
+18. Instruction: Given a sentence, add appropriate punctuation to make it grammatically correct.
+18. Input: 
+I went to the store and bought milk bread and eggs
+18. Output: 
+I went to the store and bought milk, bread, and eggs.
+###
+19. Instruction: Given a question about grammar, provide a clear and concise answer.
+19. Input: 
+What is the difference between "affect" and "effect"?
+19. Output: 
+"Affect" is generally used as a verb and means to influence or cause a change, while "effect" is usually used as a noun and refers to the result or consequence of that change. For example, "The rain affected the game" vs. "The effect of the rain was a postponement of the game."
+###
+20. Instruction: Given a description of a problem, offer a possible solution.
+20. Input: 
+My phone keeps running out of battery before the end of the day.
+20. Output: 
+You can try adjusting your phone's brightness settings or turning off features like Wi-Fi and Bluetooth when you're not using them. You could also invest in a portable charger that you can carry with you for extra battery life on the go.

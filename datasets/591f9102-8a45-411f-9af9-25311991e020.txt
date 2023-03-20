@@ -1,0 +1,103 @@
+4. Instruction: Provide a one-sentence summary of the following article. 
+4. Input: 
+https://www.bbc.com/news/world-us-canada-57018258
+4. Output: 
+The US state of Florida has approved a new law that aims to stop social media companies from banning politicians.
+###
+5. Instruction: Edit the following sentence for clarity. 
+5. Input: 
+He asked her to get him a drink, which she did. 
+5. Output: 
+He asked her for a drink and she brought it to him.
+###
+6. Instruction: Provide a list of three ways to reduce plastic waste. 
+6. Input: 
+<noinput>
+6. Output: 
+Some ways to reduce plastic waste include using reusable bags, bottles, and containers, avoiding single-use plastics like straws and cutlery, and choosing products with less packaging or alternative materials like glass or metal instead.
+###
+7. Instruction: Compose a haiku poem about nature. 
+7. Input: 
+<noinput>
+7. Output: 
+Cherry blossom falls,
+Graceful petals on the breeze,
+Spring's sweet song whispers.
+###
+8. Instruction: Define the term "machine learning". 
+8. Input: 
+<noinput>
+8. Output: 
+Machine learning is a field of computer science that involves developing algorithms that can learn from and make predictions or decisions based on data, without being explicitly programmed to do so.
+###
+9. Instruction: Create a plausible backstory for a stranger who is sitting next to you on a flight. 
+9. Input: 
+<noinput>
+9. Output: 
+As you glance over at your seatmate, you notice how tired she looks. Maybe she's been traveling for a while, visiting family or friends. Or maybe she's a busy executive who's been traveling for work, rushing from one meeting to the next. You wonder what her story might be and silently wish her a safe and restful journey.
+###
+10. Instruction: Identify the literary device used in the following phrase. 
+10. Input:
+quicksilver: 
+10. Output: 
+The literary device used in this phrase is called a metaphor, as it compares the element mercury to the liquid metal that tends to move and change quickly, like lightning.
+###
+11. Instruction: Provide a brief summary of the plot of "To Kill a Mockingbird". 
+11. Input: 
+<noinput>
+11. Output: 
+"To Kill a Mockingbird" is a novel by Harper Lee that tells the story of Scout Finch, a young girl growing up in the rural South in the 1930s. The novel explores themes of racism, injustice, and the loss of innocence as Scout and her brother Jem learn about the world around them and their father, a lawyer named Atticus Finch, defends a black man falsely accused of a crime.
+###
+12. Instruction: Provide a recipe for a quick and healthy breakfast. 
+12. Input: 
+<noinput>
+12. Output: 
+For a quick and healthy breakfast, try a smoothie bowl: blend together frozen fruit, yogurt, and milk or juice until smooth, then top with granola, nuts, and fresh fruit. Alternatively, a simple avocado toast with a poached egg and some spices can be a filling and nutritious choice, ready in minutes!
+###
+13. Instruction: Translate the following phrase into Spanish. 
+13. Input: 
+Hello, how are you? 
+13. Output: 
+¡Hola, cómo estás? 
+###
+14. Instruction: Write a catchy headline for an upcoming art exhibit. 
+14. Input: 
+<noinput>
+14. Output: 
+"Beyond the Canvas": A Multi-Media Exploration of Artistic Expression
+###
+15. Instruction: Identify the type of figurative language used in the following sentence. 
+15. Input: 
+The world is your oyster. 
+15. Output: 
+The type of figurative language used in this sentence is called an idiom, which means that the words have a meaning beyond their literal definition. In this case, it means that the world is full of opportunities waiting for you to discover and pursue, like valuable pearls inside an oyster.
+###
+16. Instruction: Summarize the main idea of the TED Talk video "The Power of Vulnerability" by Brené Brown. 
+16. Input: 
+https://www.youtube.com/watch?v=iCvmsMzlF7o
+16. Output: 
+In her TED Talk video "The Power of Vulnerability," Brené Brown explores the idea that embracing vulnerability and acknowledging imperfection can lead to more authentic connections with others, greater creativity and innovation, and increased resilience in the face of challenges.
+###
+17. Instruction: Edit the following sentence for clarity and precision. 
+17. Input: 
+I need you to make a thing for me. 
+17. Output: 
+Could you please create a spreadsheet with the following columns and data for me?
+###
+18. Instruction: Provide a list of three ways to increase productivity while working from home. 
+18. Input: 
+<noinput>
+18. Output: 
+Some ways to increase productivity while working from home include setting up a dedicated workspace or routine, minimizing distractions like social media and household tasks during working hours, and taking regular breaks to rest and recharge.
+###
+19. Instruction: Identify the theme of the poem "Sonnet 18" by William Shakespeare. 
+19. Input: 
+https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day
+19. Output: 
+The theme of "Sonnet 18" by William Shakespeare is the enduring power of love and art to transcend the ravages of time and preserve beauty and precious memories for future generations to enjoy.
+###
+20. Instruction: Provide a one-sentence summary of the article "How to Train Your Brain to Stay Positive" by Madhumita Murgia. 
+20. Input: 
+https://www.bbc.com/worklife/article/20210603-how-to-train-your-brain-to-stay-positive
+20. Output: 
+In her article "How to Train Your Brain to Stay Positive," Madhumita Murgia explores practical strategies for rewiring the brain to focus on positive thoughts and emotions, such as building up emotional resilience, practicing gratitude and mindfulness, and seeking out positive social connections.

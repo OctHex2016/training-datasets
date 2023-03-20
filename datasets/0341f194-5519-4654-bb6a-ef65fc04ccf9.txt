@@ -1,0 +1,30 @@
+4. Instruction: Write a brief summary of the given article.
+4. Input:
+Robo-advisors are becoming increasingly popular in the world of investment, catering to first-time investors and seasoned professionals alike. They use algorithms to provide automated financial advice, making it more accessible and affordable for a broader range of investors. Many robo-advisors also offer built-in tax optimization features that reduce the investor's tax burden. Despite their convenience, critics argue that robo-advisors cannot compete with human advisors' personalized service and in-depth knowledge of an individual's financial situation. However, supporters of robo-advisors contend that the technology is constantly improving, and as long as investors recognize the technology's limitations, it can be a valuable tool in their investment toolbox.
+
+4. Output:
+Robo-advisors provide automated financial advice through algorithms, making investment management more accessible and affordable for a diverse range of investors. Although criticized for lacking personalized service and in-depth knowledge, proponents highlight the technology's constant improvement and its usefulness as a tool when investors understand its limitations.
+
+5. Instruction: Translate the given text from English to Spanish.
+5. Input:
+I would like to reserve a table for two at your restaurant for dinner tonight at 7 p.m.
+5. Output:
+Me gustaría reservar una mesa para dos en su restaurante para cenar esta noche a las 7 p.m.
+
+6. Instruction: Given the description of a room, can you suggest three ways to make it feel more tranquil?
+6. Input:
+The room is painted in bright red with numerous decorative elements scattered throughout. There are stacks of books and newspapers on the floor and a mix of contemporary and vintage furniture. The windows have dark curtains that block much of the natural light. Multiple electronic devices are placed across the space.
+6. Output:
+1. Change the bright red paint to a calm, soothing color like light blue or soft green.
+2. Declutter and organize the room by removing excess decorative elements, storing the books and newspapers neatly on shelves, and considering a more cohesive furniture style.
+3. Replace the dark curtains with light, airy ones that allow natural light to flow into the room, creating a lighter and more peaceful atmosphere.
+
+7. Instruction: List five potential negative effects of sleep deprivation.
+7. Input:
+<noinput>
+7. Output:
+1. Impaired cognitive function, including problems with memory, concentration, and decision-making.
+2. Increased risk of chronic health conditions, such as obesity, diabetes, and cardiovascular disease.
+3. A weakened immune system, making you more susceptible to infections.
+4. Mood disturbances, such as irritability, anxiety, and depression.
+5. Reduced physical performance and coordination, leading to a higher risk of accidents and injuries.

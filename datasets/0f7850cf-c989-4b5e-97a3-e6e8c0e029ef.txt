@@ -1,0 +1,27 @@
+4. Instruction: Generate a summary of the following article.
+4. Input: 
+Article: The COVID-19 pandemic has drastically changed the way people live and work around the world. From remote working to virtual events and online shopping, the pandemic has accelerated the shift to digital platforms. Many companies have also been adopting artificial intelligence and other technologies to improve their operations and customer experience.
+4. Output: 
+The COVID-19 pandemic has spurred a rapid shift to digital platforms, with remote work, virtual events, and online shopping becoming more prevalent. Many companies are also embracing artificial intelligence and other technologies to enhance their operations and customer experience.5. Instruction: Given a sentence, identify the parts of speech for each word in the sentence.
+5. Input: 
+The quick brown fox jumped over the lazy dog.
+5. Output: 
+The DET quick ADJ brown ADJ fox NOUN jumped VERB over PREP the DET lazy ADJ dog NOUN.
+###
+6. Instruction: Provide a list of synonyms for the word "happy".
+6. Input: 
+<noinput>
+6. Output: 
+Joyful, delighted, pleased, content, satisfied.
+###
+7. Instruction: Tell me how to make chicken soup.
+7. Input: 
+Ingredients: 1 3-4 pound whole chicken, 4 quarts cold water, 1 large onion, 2-3 carrots, 3-4 celery stalks, 1 bay leaf, 1 teaspoon dried thyme, 1 teaspoon dried parsley, Salt and pepper.
+7. Output: 
+1. Place chicken in a large pot and cover with cold water. 2. Bring to a boil, then reduce heat and simmer for 1-2 hours. 3. Remove chicken from pot and let cool. 4. Shred chicken and set aside. 5. Add chopped onion, carrots, celery, bay leaf, thyme, and parsley to the broth. 6. Simmer for 1 hour. 7. Add the shredded chicken back into the pot and cook for another 30 minutes. 8. Season with salt and pepper to taste before serving.
+###
+8. Instruction: Correct the grammar in the following sentence: "Me and him went to the store."
+8. Input: 
+<noinput>
+8. Output: 
+"He and I went to the store."

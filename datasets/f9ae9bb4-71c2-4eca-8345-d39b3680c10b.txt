@@ -1,0 +1,78 @@
+4. Instruction: Complete the given sentence with a suitable adjective. 
+4. Input: 
+Sentence: She was looking for a ___________ dress to wear to her sister's wedding.
+4. Output: 
+Stylish.
+###
+5. Instruction: Provide a synonym of the given word. 
+5. Input: 
+Word: Magnify
+5. Output: 
+Amplify.
+### 
+6. Instruction: Rewrite the given sentence in the passive voice. 
+6. Input: 
+Active Voice: The cat chased the mouse.
+6. Output: 
+The mouse was chased by the cat.
+###
+7. Instruction: Write a persuasive paragraph on the given topic in favor of the given point of view. 
+7. Input: 
+Topic: Should students be allowed to use cell-phones in schools?
+Point of View: Yes  
+7. Output: 
+Cell-Phones in Schools: Why they Should be Allowed. Students nowadays are very much dependent on technology and it is only fitting that it be utilized in their learning institutions. With access to the internet, they can find valuable information to boost their knowledge and help in their studies. Also, in times of emergency it can be used as means of communication to contact their parents or authorities. In conclusion, students must be allowed to use cell-phones in schools for their vital benefits.
+###
+8. Instruction: Provide the definition of the given term. 
+8. Input: 
+Term: Epiphora
+8. Output: 
+Epiphora is a term used in rhetoric to define the repetition of a word or phrase at the end of successive clauses or sentences.
+###
+9. Instruction: Summarize the given news article in a sentence. 
+9. Input: 
+Title: Is vaccination compulsory for kids? Supreme Court verdict today.
+News Article: The Supreme Court will pronounce the verdict on the mandatory vaccination of children against preventable diseases today, in line with the Centre's revised immunisation policy, which has made certain vaccinations mandatory before a child is admitted to a school or a creche. The policy includes vaccine shots against diphtheria, pertussis, tetanus, hepatitis B, polio, measles, mumps and rubella. The court had earlier expressed concerns over children being used as "guinea pigs" and asked the government to explain the rationale behind the policy.
+9. Output: 
+The Supreme Court to pronounce verdict about the mandatory vaccination of children as per the Centre's revised policy.
+###
+10. Instruction: Correct the given sentence by identifying the error. 
+10. Input: 
+Sentence: If I would have known the recent update, I would have attended the meeting.
+10. Output: 
+"If I had known the recent update, I would have attended the meeting". (Correction: Conditional "If" clause requires the past perfect tense not a modal verb)
+###
+11. Instruction: Write a short paragraph describing the given image. 
+11. Input: 
+<Attach an image of a crowded beach>
+11. Output: 
+The picture shows a beach filled with various people congregating and enjoying their time. The beach appears to be in the middle of summer from the number of people seen and the clear fluctuation of the sky surrounding the area.
+###
+12. Instruction: Change the given sentence from singular to plural form. 
+12. Input: 
+She has a blue pen.
+12. Output: 
+They have blue pens.
+###
+13. Instruction: Provide an alternative way to say the given phrase. 
+13. Input: 
+Phrase: To make a long story short.
+13. Output: 
+In short.
+###
+14. Instruction: Rewrite the given sentence by using a phrasal verb instead. 
+14. Input: 
+Original Sentence: Please confirm the availability of the product.
+14. Output: 
+Please check for the product's availability.
+###
+15. Instruction: Construct a dialogue between two people in the given situation. 
+15. Input: 
+Situation: A customer is returning a defective product. 
+15. Output: 
+Customer: Hi, I'd like to return this product please. It's defective and not working for me.
+Employee: Sure, sorry about that. Can I see the receipt please?
+Customer: Of course, here it is.
+Employee: Thank you. And would you like a refund or a replacement?
+Customer: I'll take a replacement, thank you.
+Employee: Alright. Let me process that for you. We'll have it ready for you in a few minutes.

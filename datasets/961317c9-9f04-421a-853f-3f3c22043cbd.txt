@@ -1,0 +1,119 @@
+4. Instruction: Explain the meaning of the idiom in plain English.
+4. Input: 
+The ball is in your court.
+4. Output: 
+It's now your turn to take action or make a decision.
+
+###
+5. Instruction: Find a spelling error in the given sentence and correct it.
+5. Input: 
+Their is a beautiful rainbow in the sky.
+5. Output: 
+There is a beautiful rainbow in the sky.
+
+###
+6. Instruction: Summarize the given text in one sentence.
+6. Input: 
+Alice in Wonderland is a novel by Lewis Carroll that tells the story of a young girl named Alice, who falls down a rabbit hole and enters a magical world filled with peculiar creatures and events. Throughout her journey, she encounters many strange beings and experiences a series of bizarre happenings, ultimately realizing that she is in a dream world.
+6. Output: 
+Alice in Wonderland is about a girl's adventure in a magical dream world after falling down a rabbit hole.
+
+###
+7. Instruction: Convert the given percentage to a fraction.
+7. Input: 
+40%
+7. Output: 
+2/5
+
+###
+8. Instruction: Use the given sentence to write a haiku (5-7-5 syllable pattern).
+8. Input: 
+The sun sets on the horizon.
+8. Output: 
+Sun sets in the west
+Horizon swallowing light
+Nightfall taking hold
+
+###
+9. Instruction: Given a film title, provide the genre it belongs to.
+9. Input: 
+The Godfather
+9. Output: 
+Crime, Drama
+
+###
+10. Instruction: What's an important fact about the historical event?
+10. Input: 
+<noinput>
+10. Output: 
+The signing of the Magna Carta in 1215 laid the foundation for modern constitutional democracy by limiting the power of the monarch.
+
+###
+11. Instruction: Write a metaphor for the given emotion.
+11. Input: 
+Fear
+11. Output: 
+Fear is a shadow that follows you in the darkest of nights.
+
+###
+12. Instruction: Determine the mood of the given piece of music.
+12. Input: 
+Beethoven's Symphony No. 9 (Ode to Joy)
+12. Output: 
+Uplifting, Joyful
+
+###
+13. Instruction: Combine the two given sentences using a conjunction.
+13. Input: 
+She wanted to paint the room blue. He wanted the room to be green.
+13. Output: 
+She wanted to paint the room blue, but he wanted the room to be green.
+
+###
+14. Instruction: Correct the grammatical errors in the given sentence.
+14. Input: 
+Him should have went to the store early in morning.
+14. Output: 
+He should have gone to the store early in the morning.
+
+###
+15. Instruction: Translate the given sentence into French.
+15. Input: 
+My name is John, and I am learning to speak French.
+15. Output: 
+Je m'appelle John, et j'apprends à parler français.
+
+###
+16. Instruction: Describe the given scientific concept in simple terms.
+16. Input: 
+Photosynthesis
+16. Output: 
+Photosynthesis is how plants make food by using sunlight to convert water and carbon dioxide into sugar and oxygen.
+
+###
+17. Instruction: Write a brief review of the given book.
+17. Input: 
+To Kill a Mockingbird by Harper Lee
+17. Output: 
+To Kill a Mockingbird is a powerful novel that tackles racial injustice in a small town through the eyes of a young girl. The story's timeless themes and memorable characters make it a compelling read and an enduring classic.
+
+###
+18. Instruction: Based on the given adjectives, suggest a vacation destination.
+18. Input: 
+Tropical, exotic, relaxing
+18. Output: 
+Fiji
+
+###
+19. Instruction: Write a piece of advice for the given problem.
+19. Input: 
+I'm having trouble managing my time effectively.
+19. Output: 
+Begin by prioritizing your tasks and setting realistic daily goals, then create a schedule that allocates time for each task, including breaks, and stick to it diligently.
+
+###
+20. Instruction: Given a year, identify a notable event that took place during that year.
+20. Input: 
+1969
+20. Output: 
+The Apollo 11 mission, where humans first set foot on the moon.

@@ -1,0 +1,66 @@
+4. Instruction: Change the story into the first person point of view.
+
+4. Input:
+
+Sarah couldn't believe her eyes. The view from the top of the hill was breathtaking. She had never seen anything so mesmerizing, as the sun dipped below the horizon, casting a golden glow over the sprawling landscape.
+
+4. Output:
+
+I couldn't believe my eyes. The view from the top of the hill was breathtaking. I had never seen anything so mesmerizing, as the sun dipped below the horizon, casting a golden glow over the sprawling landscape.
+###
+5. Instruction: Correct any grammatical errors in the following sentence.
+
+5. Input:
+
+Me and my friend goes to the park everyday for playing games.
+
+5. Output:
+
+My friend and I go to the park every day to play games.
+###
+6. Instruction: Can you give me an example of a palindrome word and a palindrome sentence?
+
+6. Input:
+<noinput>
+
+6. Output:
+
+Palindrome Word: level
+
+Palindrome Sentence: A man, a plan, a canal, Panama!
+###
+7. Instruction: Translate the following English sentence into French.
+
+7. Input:
+
+I am looking forward to meeting you in person.
+
+7. Output:
+
+J'ai hâte de vous rencontrer en personne.
+###
+8. Instruction: Explain what Onomatopoeia is and give three examples.
+
+8. Input:
+<noinput>
+
+8. Output:
+
+Onomatopoeia is a figure of speech where a word imitates or mimics the sound it represents. Examples of onomatopoeia include: "buzz" (the sound a bee makes), "clang" (the sound of metal hitting a hard surface), and "meow" (the sound a cat makes).
+###
+9. Instruction: What are the main characteristics of the Baroque art period?
+
+9. Input:
+<noinput>
+
+9. Output:
+
+1. Complex and elaborate ornamentation
+2. Dramatic lighting and shadow effects, known as chiaroscuro
+3. Emotional intensity and expression
+4. Use of rich, deep colors
+5. Contrasts between light and dark, texture and space
+6. Grandeur and extravagance
+7. Sacred and secular themes
+8. Display of wealth, power, and religious fervor
+###

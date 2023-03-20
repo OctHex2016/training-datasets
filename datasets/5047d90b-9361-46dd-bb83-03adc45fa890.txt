@@ -1,0 +1,110 @@
+4. Instruction: Write a haiku (a three-lined poem with a syllable pattern of 5-7-5) about autumn.
+4. Input: 
+<noinput>
+4. Output: 
+Golden leaves descend,
+Chill wind whispers, days shorten,
+Harvest moon rises.
+
+5. Instruction: Evaluate the review and rate it on a scale of 1 to 5 stars based on its clarity, detail, and usefulness.
+5. Input: 
+I really liked visiting this new cafe. The coffee was amazing and the food was tasty. I had a great experience!
+5. Output: 
+4 stars
+
+6. Instruction: Identify the type of figure of speech used in the given sentence.
+6. Input: 
+The world is your oyster.
+6. Output: 
+Metaphor
+
+7. Instruction: Translate the provided sentence to French.
+7. Input: 
+I like listening to music while working.
+7. Output: 
+J'aime écouter de la musique pendant que je travaille.
+
+8. Instruction: List three multinational corporations specializing in the consumer electronics industry.
+8. Input: 
+<noinput>
+8. Output: 
+1. Apple Inc.
+2. Samsung Electronics
+3. Sony Corporation
+
+9. Instruction: Rewrite the given sentence with parallel structure.
+9. Input: 
+He enjoys hiking, painting landscapes, and to swim.
+9. Output: 
+He enjoys hiking, painting landscapes, and swimming.
+
+10. Instruction: What is the name of the theorem that proves the relationship between the three sides of a right-angled triangle?
+10. Input: 
+<noinput>
+10. Output: 
+Pythagorean theorem
+
+11. Instruction: List two movies directed by Christopher Nolan.
+11. Input: 
+<noinput>
+11. Output: 
+1. Inception
+2. The Dark Knight
+
+12. Instruction: Proofread and correct the following sentence.
+12. Input: 
+She has learned to pay attencion to detalis, correcting her frequent typoes.
+12. Output: 
+She has learned to pay attention to details, correcting her frequent typos.
+
+13. Instruction: Explain the difference between renewable and non-renewable energy resources.
+13. Input: 
+<noinput>
+13. Output: 
+Renewable energy resources are those that can be replenished naturally in a short period of time, such as solar, wind, and hydropower. Non-renewable energy resources are finite and deplete over time, including fossil fuels like coal, oil, and natural gas.
+
+14. Instruction: Describe the setting of the given literary passage.
+14. Input: 
+It was a dark and stormy night, with rain pouring down and the wind howling through the trees. Thunder echoed across the sky as lightning illuminated an old, crumbling mansion on a hill.
+14. Output: 
+The setting is a stormy night with heavy rain and strong winds in a gloomy, wooded area with an old, decaying mansion on a hill.
+
+15. Instruction: Write a personification sentence involving the given object.
+15. Input: 
+Streetlight
+15. Output: 
+The lonely streetlight stood sentinel, casting a comforting glow over the sleeping neighborhood.
+
+16. Instruction: Recommend five essential items to pack for overnight hiking trip.
+16. Input: 
+<noinput>
+16. Output: 
+1. Backpack
+2. Tent or shelter
+3. Water and water purification supplies
+4. Food and cooking gear
+5. First aid kit
+
+17. Instruction: Explain what a palindrome is.
+17. Input: 
+<noinput>
+17. Output: 
+A palindrome is a word, phrase, number, or sequence that reads the same forwards and backwards.
+
+18. Instruction: Write a short summary of a basketball game between Team A and Team B.
+18. Input: 
+Team A won against Team B with a final score of 98-85. Team A's star player scored 35 points while Team B's top scorer had 23 points. The match was intense with many lead changes, but Team A pulled ahead in the final quarter.
+18. Output: 
+In an intense basketball game with several lead changes, Team A defeated Team B 98-85. Team A's star player contributed 35 points, while Team B's top scorer managed 23 points. Ultimately, Team A secured their victory in the final quarter.
+
+19. Instruction: Create a sentence using alliteration.
+19. Input: 
+<noinput>
+19. Output: 
+Sally sold shiny silver seashells by the shimmering seashore.
+
+20. Instruction: Determine whether the following compound is an element, compound, or mixture.
+20. Input: 
+H2O
+20. Output: 
+Compound

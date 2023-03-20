@@ -1,0 +1,111 @@
+4. Instruction: Rewrite the given sentence using a synonym for the emphasized word.
+4. Input: 
+Her announcement garnered a lot of *attention* from the media.
+4. Output: 
+Her announcement garnered a lot of *interest* from the media.
+###
+5. Instruction: Change the following sentence to passive voice.
+5. Input: 
+Jane painted the mural.
+5. Output: 
+The mural was painted by Jane.
+###
+6. Instruction: Determine which language the given text is in and translate it to English.
+6. Input: 
+J'ai besoin d'aide pour comprendre cette phrase.
+6. Output: 
+Language: French
+Translation: I need help to understand this sentence.
+###
+7. Instruction: Based on its symptoms, name the medical condition described below.
+7. Input:
+Symptoms: swollen, painful joints, stiffness, and reduced mobility.
+7. Output: 
+Rheumatoid arthritis.
+###
+8. Instruction: Identify the logical fallacy in the given argument.
+8. Input: 
+Everyone I know uses this toothpaste to whiten their teeth, so it must be the best on the market.
+8. Output: 
+Bandwagon Fallacy.
+###
+9. Instruction: Take a look at the following company mission statement and suggest one improvement.
+9. Input: 
+We strive to innovate high-quality products while maintaining outstanding customer service, providing eco-friendly solutions for a more sustainable future.
+9. Output: 
+We strive to innovate *and deliver* high-quality products while maintaining outstanding customer service, providing eco-friendly solutions for a more sustainable future.
+###
+10. Instruction: What is the capital city of the given country?
+10. Input: 
+Country: Australia.
+10. Output: 
+Canberra.
+###
+11. Instruction: Check the grammatical correctness of the following sentence.
+11. Input: 
+The mice who runned across the kitchen floor startled me.
+11. Output: 
+Incorrect. Should be: "The mice that *ran* across the kitchen floor startled me."
+###
+12. Instruction: Name the literary device used in the example provided.
+12. Input: 
+It was so cold, I saw polar bears wearing jackets.
+12. Output: 
+Hyperbole.
+###
+13. Instruction: Describe the taste of the given food item.
+13. Input: 
+Food: dark chocolate.
+13. Output: 
+Bitter, slightly sweet, and rich.
+###
+14. Instruction: Considering the given input, list the target audience for this product advertisement.
+14. Input: 
+Product: An organic skincare range designed to help reduce acne and balance skin.
+14. Output: 
+- Teenagers
+- Young adults
+- Acne-prone individuals
+- People preferring natural and eco-friendly skincare products.
+###
+15. Instruction: Summarize the plot of the provided book or movie in two sentences.
+15. Input:
+Book: One Hundred Years of Solitude by Gabriel García Márquez.
+15. Output: 
+One Hundred Years of Solitude chronicles the multi-generational story of the Buendía family in the fictional town of Macondo. The novel explores themes of solitude, fate, love, and the search for meaning in life, creating a profound allegory for the human condition.
+###
+16. Instruction: Identify the verb tense used in the given sentence.
+16. Input: 
+Candace had been cooking dinner for an hour when the power went out.
+16. Output: 
+Past Perfect Continuous.
+###
+17. Instruction: Explain the meaning of the given idiom.
+17. Input: 
+Idiom: Bite the bullet.
+17. Output: 
+To face a difficult or unpleasant situation with courage and determination.
+###
+18. Instruction: List four inventions that were developed during the Industrial Revolution.
+18. Input: <noinput>
+18. Output: 
+1. Spinning Jenny
+2. Steam engine
+3. Power loom
+4. Railways.
+###
+19. Instruction: Based on the input, recommend a suitable book or movie.
+19. Input: 
+Interests: artificial intelligence, futuristic technology, moral dilemmas.
+19. Output: 
+Book: Do Androids Dream of Electric Sheep? by Philip K. Dick 
+OR
+Movie: Blade Runner (1982).
+###
+20. Instruction: Write a haiku about the given topic.
+20. Input: 
+Topic: Autumn leaves.
+20. Output: 
+Crimson, gold, and brown,
+Whispering secrets, they fall, 
+Autumn's silent dance.

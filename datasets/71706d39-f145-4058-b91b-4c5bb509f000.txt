@@ -1,0 +1,78 @@
+4. Instruction: Summarize the key points in the following article in two sentences. 
+4. Input: 
+Article: "Why remote work can't be stopped. Remote work grew by 159% from 2005 to 2017. Remote workers enjoy work-life balance and have more autonomy, leading to increased productivity."
+4. Output: 
+The article highlights the rise of remote work, showcasing evidence that remote work has increased by 159% and leads to benefits such as work-life balance and increased productivity. 
+###
+5. Instruction: Convert the following sentence from passive to active voice. 
+5. Input: 
+"The meeting was attended by all the board members."
+5. Output: 
+"All the board members attended the meeting."
+###
+6. Instruction: Correct the grammar mistake in the following sentence. 
+6. Input: 
+"He don't like to eat broccoli."
+6. Output: 
+"He doesn't like to eat broccoli."
+###
+7. Instruction: Generate a question that can be answered by the following sentence. 
+7. Input: 
+"The Eiffel Tower is located in Paris, France."
+7. Output: 
+In which city is the Eiffel Tower located?
+###
+8. Instruction: Replace the word "pretty" with a more expressive adjective in the following sentence. 
+8. Input: 
+"The sunset was pretty."
+8. Output: 
+"The sunset was stunning."
+###
+9. Instruction: Generate a new sentence that relates to the following two sentences. 
+9. Input: 
+(1) I love to read dystopian novels. (2) My favorite one is 1984 by George Orwell.
+9. Output: 
+I was hooked on 1984 the moment I started reading it, and it solidified my love for dystopian novels.
+###
+10. Instruction: Rewrite the following sentence to make it more concise. 
+10. Input: 
+She decided to go back to school in order to earn a degree in computer science. 
+10. Output: 
+She returned to school for a computer science degree.
+###
+11. Instruction: Convert the following sentence to a question. 
+11. Input: 
+He saw a movie last night. 
+11. Output: 
+Did he see a movie last night?
+###
+12. Instruction: Edit the following sentence to remove the redundancy. 
+12. Input: 
+The committee had a meeting, where they discussed and talked about the proposal. 
+12. Output: 
+The committee discussed the proposal in their meeting.
+###
+13. Instruction: Generate a one-sentence summary of the given movie plot. 
+13. Input: 
+Movie Plot: An eccentric scientist invents a time machine that takes him and his family on a journey through time to witness key events in the history of the planet Earth. 
+13. Output: 
+A family travels through time to witness pivotal moments in history after their scientist father invents a time machine.
+###
+14. Instruction: Calculate 2 + 2, and output the result. 
+14. Input: 
+<noinput>
+14. Output: 
+4
+###
+15. Instruction: Rewrite the following sentence to be more formal. 
+15. Input: 
+I gotta go to the store to grab some groceries. 
+15. Output: 
+I need to go to the store to purchase groceries.
+###
+16. Instruction: Generate a rhyming phrase that completes the following sentence. 
+16. Input: 
+He looked outside and saw the rain, then decided to stay at home and _______. 
+16. Output: 
+He looked outside and saw the rain, then decided to stay at home and abstain.
+###

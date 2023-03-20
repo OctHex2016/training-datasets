@@ -1,0 +1,106 @@
+4. Instruction: Explain the endosymbiotic theory in simple terms.
+4. Input:
+<noinput>
+4. Output:
+The endosymbiotic theory suggests that certain organelles in eukaryotic cells, like mitochondria and chloroplasts, were once independent bacteria that got engulfed by a larger cell. Over time, they developed a mutually beneficial relationship, with the larger cell providing protection and the engulfed bacteria providing energy, ultimately leading to the evolution of modern eukaryotic cells.
+
+5. Instruction: Rewrite the following sentence in passive voice.
+5. Input:
+The dog fetched the stick.
+5. Output:
+The stick was fetched by the dog.
+
+6. Instruction: Categorize the following animals as vertebrates or invertebrates: starfish, frog, whale, lobster.
+6. Input:
+Starfish, frog, whale, lobster.
+6. Output:
+Starfish: Invertebrate
+Frog: Vertebrate
+Whale: Vertebrate
+Lobster: Invertebrate
+
+7. Instruction: Write a brief restaurant review for a sushi place called "Ocean Bites" that you enjoyed last night.
+7. Input:
+Ocean Bites
+7. Output:
+I visited Ocean Bites last night and had a delightful sushi experience. The attentive staff greeted us warmly and promptly seated us. The menu offered a diverse selection of sushi and sashimi, and I particularly enjoyed the spicy tuna roll and the buttery salmon nigiri. The freshness of the fish was remarkable, and the ambiance was both stylish and relaxing. I highly recommend Ocean Bites for any sushi lovers in town.
+
+8. Instruction: How do we know that the Earth is round?
+8. Input:
+<noinput>
+8. Output:
+There are several pieces of evidence that the Earth is round. They include observing Earth's curved shadow on the moon during a lunar eclipse, the way ships disappear over the horizon, the way different stars are visible in the sky depending on your location, and photographs of Earth from space, which show its spherical shape.
+
+9. Instruction: Replace the informal language in this sentence with more formal language.
+9. Input:
+Hey! Can you give me a hand fixing my bike? It's kinda broken.
+9. Output:
+Excuse me, could you kindly assist me with repairing my bicycle? It appears to be malfunctioning.
+
+10. Instruction: Explain the difference between renewable and non-renewable energy resources.
+10. Input:
+<noinput>
+10. Output:
+Renewable energy resources are natural sources of energy that can be replenished or regenerated on a human timescale, such as solar, wind, hydro, and biomass. Non-renewable energy resources, on the other hand, are finite or depletable, meaning they cannot be replenished on a human timescale, such as coal, oil, and natural gas. Once non-renewable resources are consumed, they cannot be replaced quickly enough to meet human energy demands.
+
+11. Instruction: Translate the following sentence from English to French:
+11. Input:
+Thank you for your help, and have a lovely day!
+11. Output:
+Merci pour votre aide et passez une bonne journée !
+
+12. Instruction: What is Moore's Law and how has it affected the development of computers?
+12. Input:
+<noinput>
+12. Output:
+Moore's Law is an observation made by Gordon Moore in 1965 that the number of transistors on a microchip doubles approximately every two years, leading to an exponential increase in computing power. This has significantly affected the development of computers by allowing them to become faster, smaller, and more energy-efficient over time. Consequently, this has led to the widespread adoption and advancement of technology in various fields, including communication, science, and entertainment.
+
+13. Instruction: Correct the grammatical errors in the following sentence.
+13. Input:
+I has bought a books but I ain't readed it yet.
+13. Output:
+I have bought a book but I haven't read it yet.
+
+14. Instruction: Summarize the story of Cinderella.
+14. Input:
+<noinput>
+14. Output:
+Cinderella is a young girl who is mistreated by her evil stepmother and stepsisters. With the help of a fairy godmother, she magically transforms into a beautiful young woman and attends a royal ball. She captures the heart of the prince but must flee before midnight when the spell ends, leaving behind her glass slipper. The prince searches the kingdom for the girl whose foot fits the slipper, eventually finding and marrying Cinderella, and they live happily ever after.
+
+15. Instruction: Identify the main renewable energy sources used today.
+15. Input:
+<noinput>
+15. Output:
+The main renewable energy sources used today are solar, wind, hydroelectric, biomass, and geothermal energy.
+
+16. Instruction: Write a haiku about autumn leaves.
+16. Input:
+<noinput>
+16. Output:
+Autumn leaves falling,
+Crimson, gold, and burnt orange,
+Whispering goodbyes.
+
+17. Instruction: Explain what dark matter is and its significance in the universe.
+17. Input:
+<noinput>
+17. Output:
+Dark matter is a mysterious, unseen form of matter that is believed to make up around 85% of the total matter in the universe. Its presence is inferred due to its gravitational effects on the motion of galaxies and the distribution of cosmic structures. Dark matter is significant because its gravitational force is essential for holding galaxies together and playing a crucial role in the large-scale structure and evolution of the universe.
+
+18. Instruction: Write a motivational quote about perseverance.
+18. Input:
+<noinput>
+18. Output:
+"Embrace every challenge, for through persistence and determination, even the tallest mountains of adversity can be conquered."
+
+19. Instruction: Write a brief comparison between aerobic and anaerobic exercises.
+19. Input:
+<noinput>
+19. Output:
+Aerobic exercises involve low to moderate-intensity activities that rely on the use of oxygen to produce energy, like jogging, cycling, or swimming. These activities improve cardiovascular endurance and promote a healthy heart. Anaerobic exercises, on the other hand, are high-intensity activities that do not rely on oxygen, like sprinting or heavy weightlifting. These exercises enhance muscle strength, power, and speed, but may generate muscle fatigue quickly due to the intense nature of the activity.
+
+20. Instruction: Convert the following Celsius temperature to Fahrenheit: 20°C.
+20. Input:
+20°C
+20. Output:
+68°F

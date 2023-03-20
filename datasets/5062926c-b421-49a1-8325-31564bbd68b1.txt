@@ -1,0 +1,127 @@
+4. Instruction: Create a 5-line limerick poem with a humorous theme.
+4. Input: 
+<noinput>
+4. Output: 
+There once was a cat from Peru,
+Who wanted to learn how to moo,
+He tried and he tried,
+But his mouth was too wide,
+So a quack was the best he could do.
+
+###
+5. Instruction: Translate the following English sentence into French.
+5. Input: 
+The quick brown fox jumps over the lazy dog.
+5. Output: 
+Le rapide renard brun saute par-dessus le chien paresseux.
+
+###
+6. Instruction: Summarize the main points from the given text in 2 sentences.
+6. Input: 
+The novel tells the story of Kitty, a British ne'er-do-well in Shanghai in the 1920s. She impulsively and naively decides to marry bacteriologist Walter Fane, who she finds dull and unattractive. Once in Hong Kong, Kitty has an affair with the charming Charles Townsend, Assistant Colonial Secretary of Hong Kong. When Walter discovers the affair, he forces Kitty to accompany him to a cholera-ridden region of mainland China. Desperate to be with her lover, Kitty finds herself plunged into a terrifying and transformative journey.
+6. Output: 
+Kitty marries bacteriologist Walter Fane but later has an affair with the more attractive Charles Townsend. After discovering the affair, Walter takes Kitty on a journey through a cholera-stricken area in China, resulting in a profound transformation.
+
+###
+7. Instruction: Please identify the main topic of the provided paragraph.
+7. Input: 
+With advances in technology, virtual reality (VR) can transform so many aspects of our lives. From enhanced gaming experiences to immersive educational environments or even remotely shared social spaces, people all around the world can connect, learn, and play like never before.
+7. Output: 
+The main topic is the transformative potential of virtual reality (VR) in various aspects of our lives.
+
+###
+8. Instruction: Calculate the percentage of a number in relation to another one.
+8. Input: 
+20 out of 80
+8. Output: 
+25%
+
+###
+9. Instruction: Identify the grammatical errors in the following sentence and correct them.
+9. Input: 
+Me and him got theirselves a new bikes today.
+9. Output: 
+He and I got ourselves new bikes today.
+
+###
+10. Instruction: Outline three potential benefits of adopting a plant-based diet.
+10. Input: 
+<noinput>
+10. Output: 
+1. Improved health - decreased risk of obesity, diabetes, and heart disease.
+2. Environmental sustainability - reduced greenhouse gas emissions and resource consumption.
+3. Animal welfare - fewer animals raised and slaughtered for food. 
+
+###
+11. Instruction: How can you prevent avocado slices from turning brown after you cut them?
+11. Input: 
+<noinput>
+11. Output: 
+To prevent avocado slices from turning brown after cutting, you can either squeeze lemon or lime juice on the slices or wrap them tightly in plastic wrap to reduce their exposure to air.
+
+###
+12. Instruction: Explain why humans have different blood types.
+12. Input: 
+<noinput>
+12. Output: 
+Humans have different blood types due to genetic variations. Blood types are determined by antigens found on the surface of red blood cells, with the ABO and Rh systems being the most significant. These inherited genetic differences cause variations in the antigens, leading to different blood types.
+
+###
+13. Instruction: List the main categories of macronutrients and provide one example of a food source for each.
+13. Input: 
+<noinput>
+13. Output: 
+1. Carbohydrates - rice
+2. Proteins - chicken
+3. Fats - avocado
+
+###
+14. Instruction: Identify the literary device used in the given sentence and explain its effect.
+14. Input: 
+The sun smiled down upon the children playing in the park.
+14. Output: 
+The literary device used is personification. It gives the sun human-like qualities, creating a warm and welcoming atmosphere in the scene.
+
+###
+15. Instruction: Categorize the given statement as a fact or an opinion.
+15. Input: 
+Summer is the best season of the year.
+15. Output: 
+Opinion
+
+###
+16. Instruction: Explain how photosynthesis works in plants.
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen. The process occurs in the chloroplasts of plant cells, where the energy from sunlight is absorbed by chlorophyll. This energy drives a series of chemical reactions that ultimately produce glucose and oxygen as waste, which is released into the atmosphere.
+
+###
+17. Instruction: Arrange the given words in alphabetical order.
+17. Input: 
+apple, banana, cherry, date, grape, kiwi
+17. Output: 
+apple, banana, cherry, date, grape, kiwi
+
+###
+18. Instruction: Rewrite the following sentence in passive voice.
+18. Input: 
+The dog chased the cat up a tree.
+18. Output: 
+The cat was chased up a tree by the dog.
+
+###
+19. Instruction: Add the appropriate punctuation to the given sentence.
+19. Input: 
+she asked do you have any plans for tonight
+19. Output: 
+She asked, "Do you have any plans for tonight?"
+
+###
+20. Instruction: Identify the feeling expressed in the following haiku poem.
+20. Input: 
+Winter’s chill descends,
+Lonely snowflakes gently fall,
+Silence, stillness, peace.
+20. Output: 
+The feeling expressed in the haiku is a sense of calm and tranquility during winter.

@@ -1,0 +1,119 @@
+4. Instruction: Compose a haiku inspired by the autumn season.
+4. Input: <noinput>
+4. Output: 
+Golden leaves falling,
+Crisp cool air on my cheeks,
+Nature's beauty sings.
+
+###
+5. Instruction: Analyze the given text for tone and mood.
+5. Input: 
+Sometimes, when I sit out in the quiet forest, listening to the whisper of the leaves in the wind, I feel a sense of serene contentment.
+5. Output: 
+The tone is reflective and calm, and the mood is peaceful and serene.
+
+###
+6. Instruction: Convert the given sentence from active to passive voice.
+6. Input: 
+The cat caught the mouse.
+6. Output: 
+The mouse was caught by the cat.
+
+###
+7. Instruction: Write the given sentence in a formal tone.
+7. Input: 
+I think it's gonna rain tonight.
+7. Output: 
+I believe it will rain tonight.
+
+###
+8. Instruction: Summarize the text in three sentences.
+8. Input: 
+Climate change is affecting flora and fauna throughout the world. From rising sea levels to warmer oceans and more frequent heatwaves, these changes are causing fundamental shifts in ecosystems. While species have managed to adapt to climate fluctuations in the past, the pace of climate change today is unprecedented in geological history, leading to rapid and potentially catastrophic consequences for ecosystems, and ultimately, human civilization.
+8. Output: 
+Climate change is causing significant alterations in global ecosystems due to factors such as rising sea levels and warmer temperatures. Although species have adapted to past climatic variations, the current rapid pace is unparalleled in geological history. These drastic environmental consequences may have catastrophic and far-reaching effects on human civilization.
+
+###
+9. Instruction: Translate the following text to formal French.
+9. Input: 
+Nice to meet you. How are you doing?
+9. Output: 
+Enchanté de vous rencontrer. Comment ça va?
+
+###
+10. Instruction: Calculate the percentage increase between old and new values.
+10. Input: 
+Old value: 35, New value: 55
+10. Output: 
+57.14%
+
+###
+11. Instruction: Write a brief introduction to a book about gardening for beginners.
+11. Input: <noinput>
+11. Output: 
+"Discovering the Green Thumb: A Beginner's Guide to Gardening" offers a comprehensive and easy-to-follow introduction to the world of gardening. The book will guide you through essential gardening skills, techniques, and best practices aimed to turn any novice into a gardening expert. Whether you dream of creating a small window box or a sprawling backyard oasis, this book will help cultivate your passion for gardening and ensure your success.
+
+###
+12. Instruction: Create a limerick based on the phrase "a trip to the moon."
+12. Input: <noinput>
+12. Output: 
+There once was a man from Racoon,
+Who wished to take a trip to the moon,
+With a homemade rocket,
+He would fill up his pocket,
+And leave Earth in the bright afternoon.
+
+###
+13. Instruction: Choose the most appropriate word to complete the sentence.
+13. Input: 
+The dog's barking was so _____ that its owner had trouble sleeping.
+Options: persistent, efficacious, amicable, verbose
+13. Output: 
+persistent
+
+###
+14. Instruction: Identify and correct errors in the text.
+14. Input: 
+She said, she “didn't had any plans for tonight,
+And wondering, if there is any good movie in the theatre.”
+14. Output: 
+She said, "I don't have any plans for tonight
+and I am wondering if there is a good movie playing in the theater."
+
+###
+15. Instruction: Explain the principle of "Supply and Demand."
+15. Input: <noinput>
+15. Output: 
+The principle of Supply and Demand is an economic theory that describes the relationship between the availability of goods or services (supply) and the desire for those goods or services by consumers (demand). When demand for a product increases while the supply remains constant, the product's price generally rises. Conversely, if the supply of a good increases while demand remains constant, the price typically falls. This principle aims to achieve a balance or equilibrium between supply and demand in a competitive marketplace. 
+
+###
+16. Instruction: Write a rhyming couplet about love.
+16. Input: <noinput>
+16. Output: 
+In the sweet embrace of one's arms, we find our home,
+A love evergreen, where hearts forever roam.
+
+###
+17. Instruction: Generate a tongue twister using the letter "P."
+17. Input: <noinput>
+17. Output: 
+Peter Piper picked a peck of prickly purple peppers, precisely placing polished pears in a perplexing pattern.
+
+###
+18. Instruction: What is the difference between affect and effect?
+18. Input: <noinput>
+18. Output: 
+The main difference between "affect" and "effect" is their part of speech and usage. "Affect" is typically used as a verb and refers to the act of having an impact or making a change in something; for example, "The weather affected our plans." "Effect," on the other hand, is most commonly used as a noun and refers to the result of a change or impact; for example, "The effect of the rain was that our plans had to be canceled." 
+
+###
+19. Instruction: Proofread and correct any grammatical mistakes in the given text.
+19. Input: 
+She dived into the pool of creativity, emergeding drenched in vivid ideas; however her attempts was thwarted by her own self-doubts.
+19. Output: 
+She dove into the pool of creativity, emerging drenched in vivid ideas; however, her attempts were thwarted by her own self-doubts.
+
+###
+20. Instruction: Explain the process of photosynthesis.
+20. Input: <noinput>
+20. Output: 
+Photosynthesis is a biological process in which plants, algae, and some bacteria convert sunlight, carbon dioxide (CO2), and water (H2O) into energy in the form of glucose (sugar) and oxygen. It primarily takes place in the chloroplasts of plant cells, which contain a green pigment called chlorophyll. During photosynthesis, light energy is absorbed by chlorophyll and used to drive a series of chemical reactions. These reactions result in the production of glucose, which is used by the organism for growth, reproduction, and energy, while oxygen is released as a byproduct.

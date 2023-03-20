@@ -1,0 +1,125 @@
+4. Instruction: List three health benefits of drinking green tea.
+4. Input:
+<noinput>
+4. Output:
+1. Rich in antioxidants that helps fight cell damage.
+2. Boosts metabolism and supports weight loss.
+3. Improves brain function and reduces the risk of Alzheimer's disease.
+
+###
+5. Instruction: Rewrite this paragraph more formally.
+5. Input:
+Hey there, buddy! So, I got this new gig as a graphic designer, and my boss came to me the other day looking for a killer website. Can you imagine? Anyway, I gotta make it look top-notch. Gimme a hand, won't you?
+5. Output:
+Hello, I hope this message finds you well. Recently, I have started working as a graphic designer and my supervisor has entrusted me with the task of creating a high-quality website. I am reaching out to ask for your assistance in this project.
+
+###
+6. Instruction: Write a haiku about a summer rain.
+6. Input:
+<noinput>
+6. Output:
+Warm breeze whispers low,
+Soft raindrops on parched earth dance,
+Nature's hymn renewed.
+
+###
+7. Instruction: Correct the grammar mistakes in the sentence.
+7. Input:
+Me and John sould go to the movies yesturday but we never find our tickets.
+7. Output:
+John and I should have gone to the movies yesterday, but we couldn't find our tickets.
+
+###
+8. Instruction: Explain how photosynthesis works.
+8. Input:
+<noinput>
+8. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. It occurs in two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). In the light-dependent reactions, chlorophyll molecules in the plant's chloroplasts absorb sunlight and convert it into usable energy (ATP and NADPH). In the Calvin cycle, this energy is used along with carbon dioxide to produce glucose, a sugar that serves as an energy source for the plant, and release oxygen as a byproduct.
+
+###
+9. Instruction: Summarize the given text.
+9. Input:
+In the story of The Tortoise and The Hare, a hare mocks a slow-moving tortoise. Tired of the hare's taunts, the tortoise challenges the hare to a race. The hare, confident he will win, takes a nap halfway through the race, but when he wakes up, he finds out that the tortoise has continued steadily and has crossed the finish line before him. This fable teaches us the importance of endurance and determination rather than relying solely on speed or skill.
+9. Output:
+"The Tortoise and The Hare" is a fable that teaches the importance of determination and endurance over speed or skill. In the story, a tortoise wins a race against a confident and faster hare because the hare takes a nap, while the tortoise patiently and steadily continues to the finish line.
+
+###
+10. Instruction: Identify three potential hazards of using a public Wi-Fi network.
+10. Input:
+<noinput>
+10. Output:
+1. Man-in-the-middle attacks: Hackers can intercept data between the user's device and the public Wi-Fi network, stealing sensitive information.
+2. Rogue hotspots: Cybercriminals set up fake Wi-Fi networks that mimic legitimate ones, tricking users into connecting and exposing their data.
+3. Unencrypted networks: Public Wi-Fi networks may lack encryption, making it easier for hackers to intercept and collect users' data.
+
+###
+11. Instruction: Convert the text into the passive voice.
+11. Input:
+The dog chased the cat through the garden and knocked over the trash.
+11. Output:
+The cat was chased by the dog through the garden, and the trash was knocked over.
+
+###
+12. Instruction: Write a brief conclusion for an essay on the importance of teaching critical thinking in schools.
+12. Input:
+<noinput>
+12. Output:
+In conclusion, teaching critical thinking in schools is essential in cultivating a generation of intellectually engaged individuals. By nurturing critical thinking skills, educators empower students to develop problem-solving abilities, evaluate information rationally, and make informed decisions. The long-term societal benefits of fostering critical thinking skills are undeniable and must be prioritized in our education system.
+
+###
+13. Instruction: State the main difference between bacteria and viruses.
+13. Input:
+<noinput>
+13. Output:
+The main difference between bacteria and viruses is that bacteria are single-celled organisms that can live independently, while viruses are smaller particles that need a host cell to replicate and reproduce.
+
+###
+14. Instruction: Suggest an alternative title for the book "The Catcher in the Rye" by J.D. Salinger.
+14. Input:
+<noinput>
+14. Output:
+"Lost Innocence: A Teen's Odyssey"
+
+ ###
+15. Instruction: Analyze the controversial nature of the character's action in the given sentence.
+15. Input:
+Dr. Frankenstein created a creature from various deceased human parts, attempting to bring life to the dead.
+15. Output:
+The controversial aspect of Dr. Frankenstein's actions lies in his attempt to defy the natural order by reanimating the dead. This challenges the boundaries between life and death and raises ethical concerns regarding the limitations of scientific advancements and the potential consequences of playing with the forces of creation.
+
+###
+16. Instruction: List three reasons why exercise is essential for good health.
+16. Input:
+<noinput>
+16. Output:
+1. Exercise improves cardiovascular health by increasing blood flow, reducing cholesterol levels, and lowering blood pressure.
+2. Regular physical activity helps maintain a healthy weight and reduce the risk of obesity and related health issues.
+3. Exercise is beneficial for mental health as it reduces stress, improves mood, and boosts cognitive function.
+
+###
+17. Instruction: Describe the primary purpose of the United Nations.
+17. Input:
+<noinput>
+17. Output:
+The primary purpose of the United Nations (UN) is to maintain international peace and security, foster friendly relations among nations, promote social progress, and provide a platform for nations to collaborate on global issues and resolve conflicts through diplomacy.
+
+###
+18. Instruction: Provide a summary of the plot of the novel "To Kill a Mockingbird" by Harper Lee.
+18. Input:
+<noinput>
+18. Output:
+"To Kill a Mockingbird" is a coming-of-age story set in the fictional town of Maycomb, Alabama, during the Great Depression. It follows Scout Finch and her brother Jem, whose father, Atticus Finch, is a lawyer defending a black man, Tom Robinson, accused of raping a white woman. The novel explores themes of racism, prejudice, and moral growth as the children learn the importance of empathy and understanding through their experiences and interactions with various characters in their town.
+
+###
+19. Instruction: Explain the relationship between supply and demand in economics.
+19. Input:
+<noinput>
+19. Output:
+In economics, supply and demand are fundamental forces that determine the price of a product or service in a market. Supply refers to the quantity of a product or service that producers are willing and able to offer, while demand refers to the quantity that consumers are willing and able to purchase at a given price. When demand for a product increases at a constant supply, the price tends to rise. Conversely, when demand decreases, and supply remains constant, the price tends to fall. If supply increases and demand remains constant, the price drops, while a decrease in supply and constant demand leads to higher prices.
+
+###
+20. Instruction: Provide an example of alliteration in a sentence.
+20. Input:
+<noinput>
+20. Output:
+The beautiful blue butterflies busily fluttered between blossoming buds in the bright sunlight.

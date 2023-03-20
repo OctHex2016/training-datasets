@@ -1,0 +1,110 @@
+4. Instruction: Rewrite the sentence below in passive voice. 
+4. Input: 
+The dog chased the cat.
+4. Output: 
+The cat was chased by the dog.
+
+5. Instruction: Identify the main issue discussed in the text and provide a brief summary. 
+5. Input: 
+The article discusses the recent rise in the number of electric vehicles (EVs) on the road and the challenges that come with it, such as insufficient charging infrastructure and the need for a more sustainable power grid. Despite these obstacles, the shift towards electric transportation is expected to continue, with many countries and companies setting ambitious goals for EV adoption.
+5. Output: 
+The main issue discussed in the text is the increasing number of electric vehicles and associated challenges, such as inadequate charging infrastructure and the need for a sustainable power grid. The summary is that electric vehicles are growing in popularity, but there are several challenges to address, including improving charging infrastructure and transitioning to a sustainable power grid.
+
+6. Instruction: Please translate the following English sentence to French. 
+6. Input: 
+I would like to reserve a table for two at 8 pm tonight.
+6. Output: 
+Je voudrais réserver une table pour deux personnes à 20h ce soir.
+
+7. Instruction: Explain the difference between renewable and non-renewable energy sources. 
+7. Input: 
+<noinput>
+7. Output: 
+Renewable energy sources are derived from natural resources that can be replenished over time, such as sunlight, wind, rain, and geothermal heat. They are considered to be environmentally friendly since they produce little or no pollution. Non-renewable energy sources, on the other hand, are derived from finite resources that cannot be replenished in a reasonable timeframe, such as fossil fuels (coal, oil, and natural gas) and nuclear energy. These sources often have a more significant environmental impact, especially through air pollution and greenhouse gas emissions.
+
+8. Instruction: Choose the correct statement regarding the main character of the following story. 
+8. Input: 
+Kelly was a brave firefighter who saved countless lives throughout her career. There was no fire too big or too small for Kelly to tackle, and her fellow firefighters admired her courage and determination.
+8. Output: 
+Kelly is a brave firefighter who saves lives.
+
+9. Instruction: Propose three potential solutions for increasing employee satisfaction in the workplace. 
+9. Input: 
+<noinput>
+9. Output: 
+1. Offer competitive wages and benefits: Ensure that employees are compensated fairly and have access to high-quality benefits, including healthcare and retirement plans.
+2. Establish a healthy work-life balance: Encourage employees to prioritize their personal lives by offering flexible work hours, remote work options, and generous vacation time.
+3. Create a positive work environment: Foster open communication, show appreciation for employees' efforts, and provide opportunities for professional development and advancement within the company.
+
+10. Instruction: Identify two reasons why a plant might be wilting. 
+10. Input: 
+<noinput>
+10. Output: 
+1. Lack of water: Plants can wilt when they are not receiving sufficient water, as water is necessary for maintaining plant structure and function.
+2. Overwatering: Overwatering can also cause plants to wilt by suffocating the roots and encouraging the growth of harmful fungi, which can weaken the plant's overall health.
+
+11. Instruction: Create a haiku (5-7-5 syllables) about the beauty of nature. 
+11. Input: 
+<noinput>
+11. Output: 
+Whispering wind sings,
+Caressing emerald leaves,
+Nature's dance begins.
+
+12. Instruction: Which of the following words is an antonym for the word "gradual"? 
+12. Input: 
+abrupt, moderate, expedited, occasional
+12. Output: 
+abrupt
+
+13. Instruction: Define the term "opportunity cost" in economics. 
+13. Input: 
+<noinput>
+13. Output: 
+Opportunity cost in economics refers to the value of the next best alternative that is forgone when an individual, business, or government makes a choice between different options. It represents the loss of potential gain or benefit that could have been achieved if a different choice was made instead.
+
+14. Instruction: Correct any grammar or punctuation errors in the following sentence. 
+14. Input: 
+Their going to need there umbrellas because it's raining cats and dogs, out side.
+14. Output: 
+They're going to need their umbrellas because it's raining cats and dogs outside.
+
+15. Instruction: Summarize the key features and benefits of Product X. 
+15. Input: 
+Product X is a revolutionary new smartphone that features a large, high-resolution display, a powerful processor, and an advanced camera system. Users will enjoy lightning-fast performance, crystal-clear visuals, and stunning photography capabilities. Additionally, Product X offers exceptional battery life, water resistance, and a sleek, ergonomic design.
+15. Output: 
+Product X is a cutting-edge smartphone with a large high-resolution display, powerful processor, advanced camera system, fast performance, impressive battery life, water resistance, and sleek design.
+
+16. Instruction: Choose the odd one out. 
+16. Input: 
+ellipse, square, rectangle, rhombus
+16. Output: 
+ellipse
+
+17. Instruction: Write a rhyming couplet about the nighttime sky. 
+17. Input: 
+<noinput>
+17. Output: 
+In the velvet night so deep,
+Countless secrets does it keep.
+
+18. Instruction: What is the meaning of the Latin phrase "Carpe Diem"? 
+18. Input: 
+<noinput>
+18. Output: 
+"Carpe Diem" is a Latin phrase that translates to "Seize the day" in English. It encourages individuals to make the most of the present moment and enjoy their lives.
+
+19. Instruction: Which of the following options is the best way to start an email to a new business contact? 
+19. Input: 
+A) Hey buddy,
+B) Dear [Contact's Name],
+C) [Contact's Name]!!!
+D) To whom it may concern,
+19. Output: 
+B) Dear [Contact's Name],
+
+20. Instruction: Provide a synonym for the word "exhausted." 
+20. Input: 
+<noinput>
+20. Output: 
+drained

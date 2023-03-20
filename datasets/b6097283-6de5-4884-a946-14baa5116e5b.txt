@@ -1,0 +1,42 @@
+4. Instruction: Translate the quote into modern English.
+4. Input: 
+"To be, or not to be: that is the question:"
+4. Output: 
+To exist or not to exist: that's the question.
+
+5. Instruction: Summarize the main ideas of the given text.
+5. Input: 
+The Montessori Method was developed by an Italian physician and educator, Maria Montessori, as a system of education for young children. Based on her observations that children learn best when they are allowed to explore and learn at their own pace, Montessori education fosters a child's natural desire to learn by providing them with self-directed activities and materials to work with in a carefully prepared environment. Key elements of Montessori education include mixed-age classrooms, uninterrupted work periods, and the use of specially designed learning materials. By focusing on individual needs and fostering a sense of independence, Montessori schools aim to help each child reach their full potential.
+5. Output: 
+The Montessori Method is an educational approach emphasizing child-led learning in a carefully prepared environment. It includes mixed-age classrooms, uninterrupted work periods, and specialized learning materials. Developed by Maria Montessori, the method nurtures individual needs and independence, promoting each child's potential.
+
+6. Instruction: Tell which person's argument is more convincing and explain why.
+6. Input: 
+Person A: Funding more for public transportation will reduce traffic congestion, save money, and help the environment by cutting down carbon emissions.
+Person B: More money should be allocated to building new roads and highways to reduce traffic congestion and ensure smooth travel for everyone.
+6. Output: 
+Person A's argument is more convincing because they address multiple benefits of funding public transportation: reducing traffic congestion, saving money, and cutting carbon emissions, which benefits the environment. Person B only focuses on reducing traffic by building new roads and highways and does not consider the environmental impact.
+
+7. Instruction: List five possible career options for someone with an undergraduate degree in Psychology.
+7. Input: 
+<noinput>
+7. Output: 
+1. Mental Health Counselor 2. Human Resources Specialist 3. School Counselor 4. Marketing Research Analyst 5. Behavioral Analyst
+
+8. Instruction: Correct any grammar and punctuation errors in the following sentence.
+8. Input: 
+What about going for a walk last up the hill, afterwards we could get some ice cream!
+8. Output: 
+How about going for a walk up the hill? Afterward, we could get some ice cream!
+
+9. Instruction: Name three key elements of the Gothic-style architecture.
+9. Input: 
+<noinput>
+9. Output: 
+1. Pointed arches 2. Ribbed vaults 3. Flying buttresses
+
+10. Instruction: Identify the logical fallacy present in the argument.
+10. Input: 
+Since many people believe in ghosts, they must be real.
+10. Output: 
+Argumentum ad Populum (Appeal to Popularity)

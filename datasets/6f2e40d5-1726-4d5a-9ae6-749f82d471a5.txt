@@ -1,0 +1,119 @@
+4. Instruction: Identify the logical fallacy in the argument.
+4. Input: 
+We should ban airplanes, because their crashes can kill hundreds of passengers in one incident.
+4. Output: 
+Hasty generalization.
+
+###
+5. Instruction: Rearrange the words in alphabetical order.
+5. Input: 
+Diversity Unity Inclusion Respect Equality
+5. Output: 
+Diversity Equality Inclusion Respect Unity
+
+###
+6. Instruction: Summarize the main idea of the passage.
+6. Input: 
+Economic globalization is the process of integration and interaction between businesses in different countries. This process helps companies expand their markets, access new customers, increase trade, and enhance profits. However, economic globalization also raises concerns about income inequality, environmental degradation, and the erosion of cultural identity. While it brings significant benefits to the global economy, it's crucial to address those negative consequences for a more equitable and sustainable global community.
+6. Output: 
+Economic globalization increases trade and profits but also raises concerns about income inequality, environmental damage, and cultural erosion, requiring a balanced approach for equitable and sustainable growth.
+
+###
+7. Instruction: Provide a palindrome for the given word.
+7. Input: 
+race
+7. Output: 
+racecar
+
+###
+8. Instruction: Convert the temperature from Celsius to Fahrenheit.
+8. Input: 
+34°C
+8. Output: 
+93.2°F
+
+###
+9. Instruction: Suggest a possible cause for the given situation.
+9. Input: 
+Michelle's indoor plants are dying even though she waters them regularly.
+9. Output: 
+Michelle may be overwatering her plants, causing root rot.
+
+###
+10. Instruction: Estimate the probability of the described event on a scale from 0 (extremely unlikely) to 1 (certain).
+10. Input: 
+Successfully guessing the 4-digit PIN code of a random person's bank account without any clues on the first try.
+10. Output: 
+0.0001
+
+###
+11. Instruction: Explain the phrase "actions speak louder than words" in simple terms.
+11. Input: 
+<noinput>
+11. Output: 
+This means that what you do is more important than what you say, and your actions show your true intentions better than your words.
+
+###
+12. Instruction: Identify the figure of speech in the sentence.
+12. Input: 
+Time is a thief, stealing our precious moments.
+12. Output: 
+Personification
+
+###
+13. Instruction: Correct any grammatical and spelling errors in the sentence.
+13. Input: 
+The aple dosnt fall far away from teh tree.
+13. Output: 
+The apple doesn't fall far from the tree.
+
+###
+14. Instruction: Determine which type of conflict is portrayed in the sentence.
+14. Input: 
+David struggled with his conflicting desires to pursue his dream job out of state and stay close to his family.
+14. Output: 
+Internal conflict
+
+###
+15. Instruction: Reformat the given sentence into a haiku (5-7-5 syllable count).
+15. Input: 
+The moon's soft light illuminates the dark path as nature whispers.
+15. Output: 
+Moon's soft light shines bright
+Illuminating dark path 
+Nature whispers near
+
+###
+16. Instruction: Recommend a company's philanthropic effort related to the topic provided.
+16. Input: 
+Climate change
+16. Output: 
+A company could plant trees with a portion of their profits to help combat climate change and reduce their carbon footprint.
+
+###
+17. Instruction: Translate the English idiom into a literal description.
+17. Input: 
+A picture is worth a thousand words.
+17. Output: 
+An image can convey meaning more effectively than a long description.
+
+###
+18. Instruction: Determine if the given scenario is a positive or negative externality.
+18. Input: 
+A bakery's pleasant aroma attracting customers to nearby businesses.
+18. Output: 
+Positive externality
+
+###
+19. Instruction: If necessary, modify the sentence to convey a sense of urgency.
+19. Input: 
+We should fix the leaking faucet.
+19. Output: 
+We must fix the leaking faucet immediately.
+
+###
+20. Instruction: Describe the relationships between the characters in a brief sentence.
+20. Input: 
+John (father), Sarah (mother), Emily (daughter), Alex (son)
+20. Output: 
+John and Sarah are the parents of Emily and Alex, who are siblings.

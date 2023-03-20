@@ -1,0 +1,108 @@
+4. Instruction: Translate the following sentence into Spanish.
+4. Input: 
+I love playing soccer in the park.
+4. Output: 
+Me encanta jugar al fútbol en el parque.
+
+5. Instruction: Write two lines of a poem about a sunset.
+5. Input: 
+<noinput>
+5. Output: 
+A fiery sky ablaze with gold,
+As the day retreats and night takes hold.
+
+6. Instruction: Summarize the following paragraph in one sentence.
+6. Input: 
+Alice decided to take a walk around her neighborhood to catch her thoughts. It was a sunny day, with birds singing and a gentle breeze blowing. Along the way, she met her neighbor, Mr. Thompson, who was busy tending to his garden. After a brief conversation and some pleasant exchanges, she continued her walk, feeling uplifted and refreshed by the vibrant nature surrounding her.
+6. Output: 
+Alice took a walk around her neighborhood, had a pleasant chat with her neighbor, and felt uplifted by the vibrant nature surrounding her.
+
+7. Instruction: Write a brief review based on the description of the restaurant experience.
+7. Input: 
+I went to Bella Italia, an Italian restaurant located downtown. The decor was elegant, and the music playing softly in the background created a romantic atmosphere. I ordered pumpkin-filled ravioli in sage and butter sauce, and it was delicious. The portions were generous, and the price was reasonable for the quality of the food.
+7. Output: 
+Bella Italia offers a charming dining experience with elegant decor, romantic ambiance, and delicious Italian cuisine at a reasonable price.
+
+8. Instruction: List three possible causes for the following problem.
+8. Input: 
+Car engine won't start.
+8. Output: 
+1. Dead battery
+2. Faulty ignition switch
+3. Fuel system issue
+
+9. Instruction: Name three famous historical figures from ancient Greece.
+9. Input: 
+<noinput>
+9. Output: 
+1. Socrates
+2. Plato
+3. Aristotle
+
+10. Instruction: Rewrite the following sentence to be more concise.
+10. Input: 
+The boys who reside in this house, all of whom are under the age of eighteen, are required to do their homework prior to engaging in after-school activities.
+10. Output: 
+The boys under 18 living here must finish their homework before joining after-school activities.
+
+11. Instruction: List three potential health benefits of exercise.
+11. Input: 
+<noinput>
+11. Output: 
+1. Improved heart health
+2. Weight management
+3. Reduced stress
+
+12. Instruction: Classify the following animal as a mammal, reptile, bird, or amphibian.
+12. Input: 
+penguin
+12. Output: 
+bird
+
+13. Instruction: Based on the description, tell me if this place is a landscape or an urban setting.
+13. Input: 
+Tall buildings, noisy streets, and busy pedestrians.
+13. Output: 
+urban setting
+
+14. Instruction: Write an opening sentence for a mystery novel.
+14. Input: 
+<noinput>
+14. Output: 
+On a dark, stormy night, the discovery of an unsettling letter will lead Detective Evans down a twisting path of deception and danger.
+
+15. Instruction: Correct the grammar in the following sentence.
+15. Input: 
+Me and him was at the store yesterday.
+15. Output: 
+He and I were at the store yesterday.
+
+16. Instruction: Explain the main difference between weather and climate.
+16. Input: 
+<noinput>
+16. Output: 
+Weather refers to the short-term atmospheric conditions in a specific area, while climate describes the long-term patterns of weather in a particular region.
+
+17. Instruction: Write a persuasive sentence to convince someone to recycle.
+17. Input: 
+<noinput>
+17. Output: 
+Recycling helps conserve valuable resources, reduce pollution, and protect our environment for future generations – do your part for a better world.
+
+18. Instruction: Provide a fact about the Great Wall of China.
+18. Input: 
+<noinput>
+18. Output: 
+The Great Wall of China is over 13,000 miles long and was built as a defense system to protect ancient Chinese states from enemy invasions.
+
+19. Instruction: Rewrite the given sentence in passive voice.
+19. Input: 
+She painted the house red.
+19. Output: 
+The house was painted red by her.
+
+20. Instruction: Identify the symbol of the following element in the Periodic Table.
+20. Input: 
+Oxygen
+20. Output: 
+O

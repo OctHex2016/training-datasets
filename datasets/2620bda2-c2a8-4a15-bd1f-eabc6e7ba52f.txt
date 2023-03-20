@@ -1,0 +1,191 @@
+4. Instruction: Write a brief summary of the article's main points.
+
+4. Input: 
+In a recent study, researchers discovered that regular exercise has notable benefits for mental health, including reduced symptoms of depression and anxiety. The study observed that individuals who engaged in at least three hours of physical activity a week were more likely to report better mental well-being than those who were sedentary. This connection held true even after accounting for factors such as age, gender, and socioeconomic status. It is suggested that increasing physical activity levels may be a cost-effective strategy to improve mental health at both the individual and population levels.
+
+4. Output: 
+The study reveals a strong link between regular exercise and improved mental health, specifically in reducing symptoms of depression and anxiety. Engaging in a minimum of three hours of physical activity per week results in better mental well-being, irrespective of other factors like age, gender, and socioeconomic status. The research suggests that promoting physical activity is a cost-effective way to enhance mental health for individuals and populations. 
+
+###
+
+5. Instruction: Compare the following two items and recommend which one to buy, along with a brief explanation of your reasoning. 
+
+5. Input: 
+Item 1: A well-known smartphone brand's latest flagship model with 128GB storage capacity priced at $900, a powerful processor, a great camera, and a 1-year warranty.
+Item 2: A lesser-known smartphone brand's budget model with 64GB storage capacity priced at $400, a decent processor, an average camera, and a 6-month warranty.
+
+5. Output: 
+I recommend purchasing Item 1, the flagship model from the well-known smartphone brand. Although it's more expensive, the higher price is justified by the larger storage capacity, powerful processor, better camera, and extended warranty. These features contribute to a superior user experience and long-term satisfaction.
+
+###
+
+6. Instruction: Find any grammatical errors in the following paragraph and correct them.
+
+6. Input: 
+Over the past few day, a lot of people has been questioning the integrity of the company. The reports states that they have been manipulating financial figures to benefit thereselves. This are serious allegations which needs thorough investigation to get a clear conclusion.
+
+6. Output: 
+Over the past few days, a lot of people have been questioning the integrity of the company. The reports state that they have been manipulating financial figures to benefit themselves. These are serious allegations which need a thorough investigation to reach a clear conclusion.
+
+###
+
+7. Instruction: Write an opening sentence for a science fiction novel.
+
+7. Input: 
+<noinput>
+
+7. Output: 
+From the monumental heights of Olympus Tower, Janus gazed upon the sprawling metropolis of Nova Prime, a city pulsating with the life and energy born from the integration of man and machine.
+
+###
+
+8. Instruction: Is the statement opinions or facts? Output 1 for opinions and 0 for facts. 
+
+8. Input: 
+The internet has made communication a lot easier and faster.
+
+8. Output: 
+0
+
+###
+
+9. Instruction: Determine the reliability and truthfulness of the following news headline.
+
+9. Input: 
+"World's First Talking Dog Discovered, Helps Solve Criminal Case!"
+
+9. Output: 
+The headline seems to lack reliability and truthfulness. A talking dog is not scientifically plausible, and such a claim is generally considered fictional or sensationalized news.
+
+###
+
+10. Instruction: Calculate the compound interest on a loan of $10,000 with an annual interest rate of 5% for 3 years.
+
+10. Input: 
+<noinput>
+
+10. Output: 
+The compound interest on the loan is $1,576.28.
+
+###
+
+11. Instruction: Rewrite the following passive voice sentence in active voice.
+
+11. Input: 
+The package was delivered to her doorstep by the courier.
+
+11. Output: 
+The courier delivered the package to her doorstep.
+
+###
+
+12. Instruction: Provide a brief history of the origin of Bitcoin.
+
+12. Input: 
+<noinput>
+
+12. Output: 
+Bitcoin, the first decentralized cryptocurrency, was proposed by an individual or group known as Satoshi Nakamoto in a 2008 white paper. The system went live on January 3, 2009, when Nakamoto mined the first block of Bitcoin, known as the genesis block. Bitcoin's design aimed to create a decentralized digital currency, free from the control of governments and financial institutions.
+
+###
+
+13. Instruction: Write a polite email to a coworker, reminding them that the deadline for submitting their monthly report is tomorrow.
+
+13. Input: 
+<noinput>
+
+13. Output: 
+Subject: Friendly Reminder: Monthly Report Deadline
+
+Hi [Coworker's Name],
+
+I hope you're having a productive day! I just wanted to send you a quick reminder that the deadline for submitting our monthly reports is tomorrow. If you have already submitted yours, please disregard this message. However, if not, please make sure to complete and submit it by the end of tomorrow.
+
+If you need any assistance or have any questions, feel free to reach out to me. I'll be happy to help.
+
+Thank you and have a great day!
+
+Best regards,
+
+[Your Name]
+
+###
+
+14. Instruction: Classify the following book genre based on the description.
+
+14. Input: 
+In a medieval kingdom, a young peasant girl seeks the truth about her parents' murder and uncovers a hidden power that leads her on a dangerous quest to save her land from a ruthless sorcerer.
+
+14. Output: 
+Fantasy
+
+###
+
+15. Instruction: Based on the given dialogue, identify the tone of the conversation: amused, angry, or apologetic. 
+
+15. Input: 
+A: "Where did you get that shirt? It's so tacky!"
+B: "Oh, come on. It's just for fun! Lighten up!"
+
+15. Output: 
+Amused
+
+###
+
+16. Instruction: Write a haiku about a winter landscape.
+
+16. Input: 
+<noinput>
+
+16. Output: 
+Snowy hills glisten,
+Branches creak beneath white weight,
+Silent, cold, and still.
+
+###
+
+17. Instruction: Rewrite the following sentence with legal terminology.
+
+17. Input: 
+You broke the neighborhood rules when you painted your house bright pink.
+
+17. Output: 
+You breached the neighborhood covenant by applying a non-compliant exterior hue to your residential property.
+
+###
+
+18. Instruction: Explain the butterfly effect in a simple, easy-to-understand way.
+
+18. Input: 
+<noinput>
+
+18. Output: 
+The butterfly effect is the idea that small changes or events, like a butterfly flapping its wings, can lead to significant and unpredictable consequences or chain reactions in a complex system like the weather.
+
+###
+
+19. Instruction: Proofread the following recipe instructions for errors, and correct them if necessary.
+
+19. Input: 
+1. Preheat oven to 375ºF.
+2. Mixed flour, sugar, baking powder and salt, then add butter and cut into mixture.
+3. Stir in milk and form soft dough.
+4. Roll dough out on floured surface, then cut out circles using a round cooki cutter.
+5. Place cookies on greased baking sheet and bake for 12-15 minut.
+
+19. Output: 
+1. Preheat oven to 375ºF.
+2. Mix flour, sugar, baking powder, and salt; then add butter and cut into the mixture.
+3. Stir in milk and form soft dough.
+4. Roll dough out on a floured surface, then cut out circles using a round cookie cutter.
+5. Place cookies on a greased baking sheet and bake for 12-15 minutes.
+
+###
+
+20. Instruction: Write an engaging and attention-grabbing first line for a mystery novel.
+
+20. Input: 
+<noinput>
+
+20. Output: 
+As the rain pounded against the windows, Detective Peters stared at the seemingly innocuous letter that had just shattered his world.

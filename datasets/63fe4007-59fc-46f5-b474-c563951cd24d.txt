@@ -1,0 +1,102 @@
+4. Instruction: Rewrite the sentence to include the given word in a more appropriate way. 
+4. Input: 
+Sentence: The teacher gave an encapsulated explanation of the complex theory.
+Word: Brief
+4. Output: 
+The teacher gave a brief explanation of the complex theory.
+### 
+5. Instruction: Generate a list of three reasons why the given action plan should be implemented. 
+5. Input: 
+Action plan: Creating a recycling program in the office.
+5. Output: 
+The implementation of this plan would lead to the reduction of landfill waste by a significant margin. It would also help to inculcate better environmental habits among the employees, and increase the company's credibility as a socially responsible organization.
+### 
+6. Instruction: Summarize the given text into 2 sentences. 
+6. Input: 
+Text: The COVID-19 pandemic has caused a global health crisis of unprecedented scale. Till date, more than 217 million confirmed cases and 4.5 million deaths have been reported worldwide.
+6. Output: 
+The COVID-19 pandemic has wreaked havoc on a global scale, with over 217 million confirmed cases and 4.5 million deaths. 
+### 
+7. Instruction: Given a topic, generate an interesting or lesser-known fact about it. 
+7. Input: 
+Topic: Dinosaurs
+7. Output: 
+The first known dinosaur to be formally named was the Megalosaurus, back in 1824. 
+### 
+8. Instruction: Given a set of numbers, add them together and provide the sum. 
+8. Input: 
+Numbers: 12, 23, 45, 67, 89
+8. Output: 
+The sum of the given numbers is 236.
+### 
+9. Instruction: Given a sentence, write it in the passive voice. 
+9. Input: 
+Sentence: The team completed the project on time.
+9. Output: 
+The project was completed on time by the team.
+### 
+10. Instruction: Write a review of a recent movie you watched. 
+10. Input: 
+Movie: Shang-Chi and the Legend of the Ten Rings
+10. Output: 
+Shang-Chi and the Legend of the Ten Rings is a thrilling and action-packed Marvel movie that stands out for its rich Asian representation and cultural influence. The movie's narrative is engaging and keeps the audience hooked from start to finish.
+### 
+11. Instruction: Given a word, find its synonyms. 
+11. Input: 
+Word: Happy
+11. Output: 
+Some synonyms for happy include joyful, elated, delighted, and content. 
+### 
+12. Instruction: Given a mathematical problem, solve it. 
+12. Input: 
+Problem: 25 + 16 - 9
+12. Output: 
+The solution to the given problem is 32. 
+### 
+13. Instruction: Write a description of the given picture. 
+13. Input: 
+Picture: <noinput>
+13. Output: 
+In the picture, we can see a majestic mountain range sitting serenely under a clear blue sky. The peaks are covered with snow, and there is a tranquil lake in the foreground, reflecting the surrounding landscape. 
+### 
+14. Instruction: Given a political issue, write a brief argument for or against it. 
+14. Input: 
+Political issue: Universal Basic Income
+14. Output: 
+The Universal Basic Income is a necessary intervention that can help bridge the gap between the rich and poor, and provide the marginalized sections of society with the financial cushion they need to thrive. On the other hand, some argue that it may disincentivize individuals from working and lead to increased taxes on the middle-income group. 
+### 
+15. Instruction: Given a word, create an appropriate sentence using it. 
+15. Input: 
+Word: Effervescent
+15. Output: 
+The effervescent soda fizzed loudly as soon as it was opened.
+### 
+16. Instruction: Given a set of instructions, write a summary of the steps involved. 
+16. Input: 
+Instructions: How to bake a chocolate cake.
+16. Output: 
+To bake a chocolate cake, start by preheating the oven to 350 degrees F. Combine the ingredients for the cake batter and pour into a lined cake pan. Allow the cake to bake for about 25-30 minutes, or until a toothpick comes out clean. Finally, let the cake cool before frosting it with your choice of icing. 
+### 
+17. Instruction: Given a concept, provide a brief explanation of what it means. 
+17. Input: 
+Concept: Cryptocurrency
+17. Output: 
+Cryptocurrency refers to a digital or virtual currency that uses cryptography for security and operates independently of central banks. It is decentralized and operates on a distributed ledger called the blockchain. 
+### 
+18. Instruction: Given a word, provide an antonym. 
+18. Input: 
+Word: Cold
+18. Output: 
+An antonym for the word cold is hot.
+### 
+19. Instruction: Given a sentence, identify the noun and write two adjectives that describe it. 
+19. Input: 
+Sentence: The ripe banana is sweet and fragrant.
+19. Output: 
+The noun in the given sentence is banana. Two adjectives that describe it are "ripe" and "fragrant". 
+### 
+20. Instruction: Given a city, provide a fun fact about it. 
+20. Input: 
+City: Tokyo
+20. Output: 
+One fun fact about Tokyo is that it has the highest number of neon signboards in the world. It is estimated that the city has around 44,000 signboards that light up its bustling streets.

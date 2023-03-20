@@ -1,0 +1,122 @@
+4. Instruction: Identify the grammatical errors in the following sentence and correct them.
+4. Input: 
+There has many people excited about the concert, which featuring several famous artist.
+4. Output: 
+There are many people excited about the concert, which features several famous artists.
+
+5. Instruction: Write a limerick about a cat visiting the moon.
+5. Input: 
+<noinput>
+5. Output: 
+There once was a cat from the dune,
+Who decided to visit the moon,
+In a rocket it flew,
+Passed the stars it knew,
+And returned before next afternoon.
+
+6. Instruction: Examine the following list of movies and label them as drama, action, or comedy.
+6. Input: 
+Movies: Schindler's List, Kill Bill, The Hangover
+6. Output: 
+Schindler's List - Drama
+Kill Bill - Action
+The Hangover - Comedy
+
+7. Instruction: What are the main differences between prokaryotic and eukaryotic cells?
+7. Input: 
+<noinput>
+7. Output: 
+1. Prokaryotic cells lack a nucleus, whereas eukaryotic cells have a nucleus.
+2. Prokaryotic cells do not have membrane-bound organelles, while eukaryotic cells do.
+3. Prokaryotic cells are typically smaller and simpler than eukaryotic cells.
+4. Genetic material in prokaryotic cells is a single circular chromosome, while eukaryotic cells have multiple linear chromosomes in the nucleus.
+
+8. Instruction: Please summarize the text in a single sentence.
+8. Input: 
+The existence of time travel has been a debated topic among scientists and science-fiction enthusiasts for decades. Some proponents argue that it is possible, based on the laws of physics and the concept of time dilation, while others insist it remains a purely fictional notion because it often leads to paradoxes, such as the well-known "grandfather paradox." Despite the controversy, countless works of literature, film, and other media have explored the idea, offering various scenarios of how time travel might impact human lives.
+8. Output: 
+Time travel remains a subject of debate due to the potential for paradoxes and disputed interpretations of the laws of physics, yet continues to captivate audiences through numerous works in various media.
+
+9. Instruction: Suggest three innovative ideas for recycling used car tires.
+9. Input: 
+<noinput>
+9. Output: 
+1. Create durable outdoor furniture using tires as base material.
+2. Convert tires into rubber playground surfaces for safe play areas for children.
+3. Design landscaping elements like flower beds or garden borders using tires as decorative features.
+
+10. Instruction: Translate the given phrase to Spanish.
+10. Input: 
+Phrase: Good morning, how are you today?
+10. Output: 
+Buenos días, ¿cómo estás hoy?
+
+11. Instruction: Calculate the area of a triangle with sides a, b, and c using Heron's formula.
+11. Input: 
+a=12, b=16, c=20
+11. Output: 
+96 square units
+
+12. Instruction: Classify the animals listed below according to their habitat: terrestrial, aquatic, or aerial.
+12. Input: 
+Animals: elephant, whale, eagle
+12. Output: 
+Elephant - Terrestrial
+Whale - Aquatic
+Eagle - Aerial
+
+13. Instruction: Explain the purpose of a vaccine in the context of the immune system.
+13. Input: 
+<noinput>
+13. Output: 
+A vaccine introduces a weakened or harmless form of a pathogen to the immune system, helping it build a defensive response; this prepares the body to recognize and fight off the actual pathogen if encountered in the future.
+
+14. Instruction: Identify the main issue in the following argument and suggest a potential resolution.
+14. Input: 
+Samantha refuses to use public transportation, claiming it is uncomfortable and unreliable, while her brother Derek insists it is a cost-effective and environmentally friendly option for many people.
+14. Output: 
+The main issue is a disagreement on the value and quality of public transportation; a potential resolution involves finding a middle ground by acknowledging both its advantages (cost and environmental benefits) and drawbacks (comfort and reliability).
+
+15. Instruction: List three major causes of the French Revolution.
+15. Input: 
+<noinput>
+15. Output: 
+1. Social inequality - The rigid class system led to discontent among the lower classes.
+2. Financial crisis - Excessive spending and poor tax revenue collection led to significant government debt.
+3. Enlightenment ideas - The spread of political and social ideals encouraged a desire for change.
+
+16. Instruction: Identify the protagonist and antagonist in the following story summary.
+16. Input: 
+In "The Count of Monte Cristo," Edmond Dantès is falsely accused of being a Bonapartist traitor and is imprisoned for 14 years without trial. Upon escape, he acquires great wealth and seeks to exact revenge on those responsible for his wrongful imprisonment, including his former friend, Fernand Mondego, who is now Count de Morcerf.
+16. Output: 
+Protagonist - Edmond Dantès
+Antagonist - Fernand Mondego (Count de Morcerf)
+
+17. Instruction: What are the four fundamental forces of nature?
+17. Input: 
+<noinput>
+17. Output: 
+1. Gravitational force
+2. Electromagnetic force
+3. Strong nuclear force
+4. Weak nuclear force
+
+18. Instruction: Determine whether the following statement is true or false.
+18. Input: 
+Statement: The Statue of Liberty was a gift from France to the United States.
+18. Output: 
+True
+
+19. Instruction: Compose a haiku about a waterfall.
+19. Input: 
+<noinput>
+19. Output: 
+Rushing waters fall,
+Silent whispers from the cliffs,
+Nature's serenade.
+
+20. Instruction: Assess the validity of the following syllogism: All cats are animals. All animals can fly. Therefore, all cats can fly.
+20. Input: 
+<noinput>
+20. Output: 
+The syllogism is invalid because the second premise, "All animals can fly," is false due to the fact that not all animals can fly. Consequently, the conclusion must also be considered false.

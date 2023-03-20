@@ -1,0 +1,96 @@
+4. Instruction: Identify and correct any grammatical errors in the given text.
+4. Input: 
+Anna was upseted when she heard the news. How you would feel if you was in her place?
+4. Output: 
+Anna was upset when she heard the news. How would you feel if you were in her place?
+###
+5. Instruction: Come up with a short compelling description of the given product.
+5. Input: 
+A 100% electric-powered bicycle specifically designed for urban commuting.
+5. Output: 
+Introducing our sleek, eco-friendly Electric Urban Commuter Bike, engineered to provide the ultimate cycling experience in the city. Say goodbye to traffic jams and costly fuel expenses as you ride in style with this 100% electric bicycle, featuring cutting-edge technology and a thoughtfully designed frame to maximize your comfort and efficiency, revolutionizing your daily commute.
+###
+6. Instruction: Write a pros and cons list for the given topic.
+6. Input: 
+Living in a big city
+6. Output: 
+Pros:
+1. More job opportunities
+2. Better entertainment options
+3. Access to a wide range of amenities
+4. Greater cultural diversity
+5. Better public transportation
+
+Cons:
+1. Higher cost of living
+2. Increased pollution and noise
+3. Traffic and congestion
+4. Smaller living spaces
+5. Increased stress and fast-paced lifestyle
+###
+7. Instruction: Briefly summarize the main point of the given text.
+7. Input: 
+In Shakespeare's play, Macbeth is a tragic hero whose ambition and desire for power leads to his ultimate downfall. He becomes consumed by his lust for power and is ultimately destroyed by his own ambition. This play shows the danger that lurks when one character's unchecked ambition leads to a series of terrible events, eventually bringing about their own destruction.
+7. Output: 
+Shakespeare's Macbeth is a classic tragedy highlighting the destructive consequences of the protagonist's unchecked ambition and his eventual self-destruction, serving as a cautionary tale about the dangers of uncontrolled desires for power.
+###
+8. Instruction: Find the hidden word in the given word puzzle. The word appears diagonally, either frontwards or backwards.
+8. Input: 
+HATYMPBI
+ALSYMMET
+OREORAXY
+FRYZWPOI
+MANTQRRN
+ETYXDCES
+SOLUTION
+8. Output: 
+SYMMETRY
+9. Instruction: Recommend a suitable book for the given reader's preferences.
+9. Input: 
+I enjoy thrilling crime novels that have a female protagonist and a bit of romance as a subplot.
+9. Output: 
+Based on your preferences, I'd recommend "The Girl with the Dragon Tattoo" by Stieg Larsson. It features a strong female protagonist, Lisbeth Salander, and has an engaging crime plot with a touch of romance.
+###
+10. Instruction: Turn the following factual sentence into a more creative and engaging one.
+10. Input: 
+The sun is a hot ball of gas.
+10. Output: 
+Behold the sun, our celestial furnace, blazing brilliantly across the sky, an incandescent orb fueled by a fiery dance of gas and fusion.
+###
+11. Instruction: Out of the characters given, select the most iconic one and briefly describe their importance.
+11. Input: 
+Sherlock Holmes, Harry Potter, Elizabeth Bennet, and Captain Ahab
+11. Output: 
+Harry Potter is arguably the most iconic of these characters, created by J.K. Rowling. As the protagonist of the best-selling series, he symbolizes bravery, friendship, and the importance of making choices in one's life. An entire generation grew up engrossed in Harry's adventures, making him a transformative figure in popular culture.
+###
+12. Instruction: Describe the Moon's effect on Earth's tides and oceans.
+12. Input: 
+<noinput>
+12. Output: 
+The Moon plays an important role in Earth's tide formation. Its gravitational pull causes a bulge on the side of Earth facing the Moon as it attracts the ocean's water towards it. On the opposite side, Earth is pulled away from the water, resulting in another bulge. Two high tides and two low tides occur daily as Earth rotates, creating what we know as the tides.
+###
+13. Instruction: Choose the correct word to fill the blank in the sentence, and explain your choice.
+13. Input: 
+The artist's work was (evasive/elusive) at first, but I later grew to appreciate its complexity.
+13. Output: 
+The correct word is "elusive." It means difficult to grasp or understand, which fits the context of the sentence, as the artist's work became more understandable with time. "Evasive" means to avoid or escape, which does not fit the meaning in this context.
+###
+14. Instruction: Write a haiku about Autumn.
+14. Input: 
+<noinput>
+14. Output: 
+Golden leaves flutter,
+Chilly winds whisper secrets,
+Autumn's breath descends.
+###
+15. Instruction: List the seven wonders of the ancient world.
+15. Input: 
+<noinput>
+15. Output: 
+1. Great Pyramid of Giza
+2. Hanging Gardens of Babylon
+3. Temple of Artemis at Ephesus
+4. Statue of Zeus at Olympia
+5. Mausoleum at Halicarnassus
+6. Colossus of Rhodes
+7. Lighthouse of Alexandria

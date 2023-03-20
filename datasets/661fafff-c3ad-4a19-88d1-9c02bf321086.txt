@@ -1,0 +1,103 @@
+4. Instruction: Count the number of syllables in the provided sentence.
+4. Input: 
+The weather has been absolutely amazing these past weeks.
+4. Output: 
+13 syllables.
+
+5. Instruction: Determine the intensity level of the statement based on a scale from 1 (Neutral) to 5 (Very Intense).
+5. Input: 
+I can't believe I lost the game; this really ruined my day!
+5. Output: 
+4 (Intense)
+
+6. Instruction: Summarize the given news article in 2-3 sentences.
+6. Input: 
+SpaceX has successfully launched and landed a Falcon 9 rocket after deploying 58 Starlink satellites and three SkySats. The mission marked the first dedicated rideshare mission organized by SpaceX for their SmallSat Rideshare Program. The successful mission continues to demonstrate the company's increased launch cadence and ability to lower launch costs for smaller satellites.
+6. Output: 
+SpaceX successfully launched a Falcon 9 rocket, deploying 58 Starlink satellites and three SkySats. This milestone marks the first dedicated rideshare mission under SpaceX's SmallSat Rideshare Program, highlighting the company's ability to lower launch costs for smaller satellites.
+
+7. Instruction: Rewrite the sentence in passive voice.
+7. Input: 
+They are building a new mall near the highway.
+7. Output: 
+A new mall is being built near the highway.
+
+8. Instruction: What should be the first line of a limerick poem?
+8. Input: <noinput>
+8. Output: 
+There once was a man from Peru.
+
+9. Instruction: How would you describe a sunset in a single sentence, using imagery to evoke emotion?
+9. Input: <noinput>
+9. Output: 
+As the sun dipped below the horizon, a symphony of warm hues painted the sky, casting a gentle embrace over the landscape that whispered a tender farewell.
+
+10. Instruction: Find the grammatical error in the sentence and provide the corrected version.
+10. Input: 
+Each of the teachers are responsible for their own lesson plans.
+10. Output: 
+Each of the teachers is responsible for their own lesson plans.
+
+11. Instruction: Write an alliterative tongue twister.
+11. Input: <noinput>
+11. Output: 
+Six slippery snakes silently slithered through the soft, sandy soil.
+
+12. Instruction: Determine the tone of the passage using adjectives like happy, sad, angry, hopeful, etc.
+12. Input: 
+Despite going through a difficult time, she found solace in the company of her friends and remembered to treasure the good moments in life.
+12. Output: 
+hopeful, grateful
+
+13. Instruction: Provide a synonym for the given word.
+13. Input: 
+huge
+13. Output: 
+enormous
+
+14. Instruction: Compose a haiku about nature.
+14. Input: <noinput>
+14. Output: 
+Whispering breeze sways,
+Soft petals dance with delight,
+Nature's symphony.
+
+15. Instruction: Write one sentence of a cliffhanger ending.
+15. Input: <noinput>
+15. Output: 
+As she reached for the door, the lights flickered, and a chilling voice echoed through the dark room.
+
+16. Instruction: Analyze the poem and identify the central theme.
+16. Input: 
+Frosty flakes descending,
+Blanketing the earth in white,
+Nature's soft embrace.
+16. Output: 
+The central theme of the poem is the beauty and serenity of a snowfall in nature.
+
+17. Instruction: Identify the author's purpose in writing this passage: to inform, persuade, entertain, or express feelings?
+17. Input: 
+Do you remember the first time you fell in love? The pounding of your heart, the sweaty palms, and the butterflies in your stomach were nothing compared to the all-consuming thoughts about the person who occupied your every waking moment.
+17. Output: 
+entertain, express feelings
+
+18. Instruction: What conflicts emerge in the given passage?
+18. Input: 
+Tamara was torn between two worlds: her strict, traditional family who believed in following cultural norms, and her circle of friends who were on a path of self-discovery and challenging societal expectations.
+18. Output: 
+The conflicts that emerge are Tamara's internal struggle between her family's traditional values and her friends' progressive ideas, as well as the external conflict between her family and friends' expectations.
+
+19. Instruction: Convert the Celsius temperature to Fahrenheit.
+19. Input: 
+28°C
+19. Output: 
+82.4°F
+
+20. Instruction: How do you remove coffee stains from carpet?
+20. Input: <noinput>
+20. Output: 
+To remove coffee stains from carpet, follow these steps: 1) Blot the stain immediately with a dry, white cloth to absorb as much liquid as possible. 2) Mix one tablespoon of liquid dishwashing detergent and two cups of cold water. 3) Apply the solution to a clean, white cloth and gently dab the stain until it fades. 4) Rinse the area with cold water and blot to remove any remaining detergent. 5) If the stain persists, try using a 50/50 mixture of white vinegar and cold water, repeating the dabbing process, and rinsing/blotting to finish.
+21. Instruction: List three possible ways to protect your home while on vacation.
+21. Input: <noinput>
+21. Output: 
+1) Use automatic timers to switch lights on and off, making it appear as if someone is home. 2) Ask a trusted neighbor to keep an eye on your house, collect mail, and park their car in your driveway occasionally. 3) Secure your home by locking all doors and windows and activating your security system.

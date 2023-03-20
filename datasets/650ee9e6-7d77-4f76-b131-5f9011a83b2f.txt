@@ -1,0 +1,133 @@
+4. Instruction: Read the following paragraph and identify the main idea. 
+4. Input: 
+The evolution of mobile phones has dramatically altered the way we communicate today. In the past, we were limited to landlines or payphones when away from home. Mobile phones have not only made it easier to stay in touch with family and friends but they have also introduced many new features like texting, emailing, and browsing the internet. As technology progresses, our reliance on mobile phones will continue to increase, redefining human interaction and communication.
+4. Output: 
+The main idea is the significant impact of mobile phones on modern communication and how they have changed the way we interact with others.
+
+5. Instruction: Based on the provided text, summarize its content in one sentence.
+5. Input: 
+The local bakery recently switched from using generic flour to premium-quality, organic flour in response to customer demand. As a result, there has been a noticeable improvement in the taste and texture of their bread and pastries. Customers provide positive feedback, and sales have increased significantly over the past few months. The owner is now considering expanding the bakery to accommodate the growing clientele.
+5. Output: 
+The bakery's switch to organic flour has led to improved product quality, increased sales, and potential expansion plans.
+
+6. Instruction: Translate the following phrase to French: "Excuse me, where is the nearest train station?"
+6. Input: 
+<noinput>
+6. Output: 
+Excusez-moi, où se trouve la gare la plus proche?
+
+7. Instruction: Explain how photosynthesis works in plants. 
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is the process by which plants, algae, and certain bacteria convert light energy into chemical energy, producing glucose and oxygen from carbon dioxide and water. In plants, photosynthesis occurs in chloroplasts, which contain the chlorophyll necessary for capturing light. The process consists of two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). The light-dependent reactions use absorbed light to produce ATP and NADPH, while the Calvin cycle uses those molecules to convert CO2 into glucose.
+
+8. Instruction: Compare and contrast dogs and cats as pets. 
+8. Input: 
+<noinput>
+8. Output: 
+Dogs and cats are both popular pets, but they differ in several ways. Dogs are generally more social, loyal, and need regular exercise, while cats are more independent and low-maintenance. Dogs usually require more training and consistent discipline, whereas cats are relatively easy to litter train. In terms of space and housing, dogs typically need more room to roam and play, while cats can easily adapt to small spaces like apartments. However, both pets provide companionship, affection, and can have therapeutic effects on their owners.
+
+9. Instruction: What are the main causes and effects of global warming? 
+9. Input: 
+<noinput>
+9. Output: 
+Main causes of global warming include the burning of fossil fuels, deforestation, and industrial activities, which release greenhouse gases (primarily carbon dioxide) into the atmosphere. These gases trap heat, leading to increased global temperatures. The effects of global warming include rising sea levels, melting ice caps and glaciers, more frequent and severe weather events, disruption of ecosystems and wildlife habitats, ocean acidification, and threats to agriculture and food security.
+
+10. Instruction: Correct any grammar and punctuation mistakes in the following text. 
+10. Input: 
+Their building a Wooden House by the lake which they hope to finish before fall comes around, they're really excited about it and cant wait till it's done.
+10. Output: 
+They're building a wooden house by the lake, which they hope to finish before fall comes around. They're really excited about it and can't wait until it's done.
+
+11. Instruction: List the key steps to follow when starting a new business. 
+11. Input: 
+<noinput>
+11. Output: 
+1. Identify a business idea or opportunity.
+2. Conduct market research.
+3. Create a business plan.
+4. Choose a business name and structure (e.g. sole proprietorship, partnership, LLC, corporation).
+5. Register your business and obtain necessary permits/licenses.
+6. Secure funding or investment.
+7. Set up a business bank account and accounting system.
+8. Develop a marketing plan and materials.
+9. Establish an online presence (website, social media, e-commerce).
+10. Hire and train employees, if necessary.
+11. Launch the business and continually review and improve operations.
+
+12. Instruction: Identify and explain the fallacy in the following argument: "If you don't vote, then you can't complain about the government."
+12. Input: 
+<noinput>
+12. Output: 
+The fallacy in this argument is called "false dilemma" or "false dichotomy." It assumes that there are only two options: either you vote, or you can't complain about the government, which oversimplifies the issue. The reality is that people have various reasons for not voting, and their right to express opinions about the government is not solely dependent on their voting status.
+
+13. Instruction: Write a brief, motivational message for someone who is feeling overwhelmed with their daily responsibilities.
+13. Input: 
+<noinput>
+13. Output: 
+Remember, you are stronger than you think, and you have already overcome so many challenges in your life. Take a deep breath, prioritize your tasks, and tackle them one by one. Don't forget to reach out for help when you need it. You are not alone, and you can overcome this too. Keep going, and believe in yourself!
+
+14. Instruction: Rank the following items based on their urgency: broken pipe, laundry, grocery shopping, and submitting a report at work.
+14. Input: 
+<noinput>
+14. Output: 
+1. Broken pipe
+2. Submitting a report at work
+3. Grocery shopping
+4. Laundry
+
+15. Instruction: Suggest three tips to improve one's writing skills.
+15. Input: 
+<noinput>
+15. Output: 
+1. Practice regularly: Write daily and experiment with various writing styles and formats to build confidence and versatility.
+2. Read widely: Exposure to different authors, genres, and writing styles can help improve vocabulary, knowledge, and creative thinking.
+3. Revise and edit: Pay attention to grammar, punctuation, and consistent style. Learning to self-edit and proofread will enhance the clarity and coherence of your writing.
+
+16. Instruction: What is the basic structure of a five-paragraph essay?
+16. Input: 
+<noinput>
+16. Output: 
+A five-paragraph essay consists of an introduction, three body paragraphs, and a conclusion:
+1. Introduction: Introduces the topic, background information, and thesis statement.
+2. Body Paragraph 1: Presents the first supporting point with evidence and explanation.
+3. Body Paragraph 2: Presents the second supporting point with evidence and explanation.
+4. Body Paragraph 3: Presents the third supporting point with evidence and explanation.
+5. Conclusion: Summarizes the main points, restates the thesis, and provides a final thought or call-to-action.
+
+17. Instruction: Explain the purpose of a cover letter when applying for a job. Additionally, name three elements that make a strong cover letter.
+17. Input: 
+<noinput>
+17. Output: 
+The purpose of a cover letter is to introduce yourself to the employer, demonstrate your interest in the job, and highlight your relevant skills, experience, and accomplishments. A strong cover letter should include:
+1. A personalized greeting, addressing the hiring manager by name.
+2. A compelling introduction, explaining your motivation for applying and how you discovered the job opening.
+3. Specific examples and achievements that showcase your relevant skills and experience.
+
+18. Instruction: What are the common symptoms of dehydration?
+18. Input: 
+<noinput>
+18. Output: 
+Common symptoms of dehydration include:
+1. Thirst
+2. Fatigue or weakness
+3. Dizziness or lightheadedness
+4. Dark yellow urine or reduced urine output
+5. Dry mouth, lips, and eyes
+6. Headache
+7. Rapid heartbeat or breathing
+
+19. Instruction: Write an encouraging message for someone who has recently been diagnosed with a chronic illness.
+19. Input: 
+<noinput>
+19. Output: 
+I know this diagnosis may be challenging and overwhelming, but keep in mind that you are not alone. There is a community of people who understand what you're going through and are here to support you. Remember that you are strong, resilient, and capable of handling the ups and downs ahead. Lean on your loved ones, seek guidance from healthcare professionals, and take each day one step at a time. You've got this!
+
+20. Instruction: Describe three potential career paths for someone with a degree in computer science. 
+20. Input: 
+<noinput>
+20. Output: 
+1. Software Developer: Design, create, and maintain computer programs and applications, using programming languages like Java, Python, or C#.
+2. Data Scientist: Analyze and interpret complex data sets to identify trends, patterns, and actionable insights using statistical models, data mining, and machine learning algorithms.
+3. Cybersecurity Analyst: Protect an organization's computer networks and systems by monitoring, detecting, and preventing potential security threats, including hacking attacks and data breaches.

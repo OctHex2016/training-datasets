@@ -1,0 +1,41 @@
+4. Instruction: Write a brief summary of the given article.
+4. Input:
+Scientists have recently discovered an Earth-like exoplanet named TOI-1231 b, which is located 90 light-years away from our solar system. The planet orbits around an M-class dwarf star and has a temperate climate due to its distance from the star, making it a possible candidate for future exploration. The atmosphere of TOI-1231 b is believed to contain significant amounts of water vapor, adding to the intrigue of the find. Researchers also hope that the planet’s proximity to Earth will facilitate opportunities for further study and understanding of its composition and climate, potentially providing insights into the evolution of the exoplanetary atmosphere.
+4. Output:
+Scientists have discovered an Earth-like exoplanet named TOI-1231 b, 90 light-years away, with a temperate climate and the possibility of water vapor in its atmosphere. Orbiting an M-class dwarf star, its close proximity to Earth offers opportunities for studying its composition, climate, and insights into the evolution of exoplanetary atmospheres.
+
+5. Instruction: Recommend a movie to watch in the given genre.
+5. Input:
+sci-fi
+5. Output:
+Interstellar (2014)
+
+6. Instruction: Explain how to properly perform a push-up exercise.
+6. Input:
+<noinput>
+6. Output:
+To properly perform a push-up: 
+1. Start in a plank position with your hands shoulder-width apart, directly under your shoulders, and feet hip-width apart. 
+2. Engage your core muscles and keep your body in a straight line from head to toe.
+3. Lower your body toward the ground by bending your elbows, keeping them close to your body.
+4. Continue lowering until your chest is an inch or two above the ground.
+5. Push your body back up by straightening your elbows, being careful not to lock them.
+6. Ensure that your body remains in a straight line during the entire movement. Repeat the exercise as desired.
+
+7. Instruction: Translate the given text to French.
+7. Input:
+Hello, my name is John. What is your name?
+7. Output:
+Bonjour, je m'appelle John. Quel est votre nom?
+
+8. Instruction: Determine if the given statement is a fact or an opinion.
+8. Input:
+Chocolate ice cream tastes better than vanilla ice cream.
+8. Output:
+opinion
+
+9. Instruction: Write a 6-word story using the provided theme.
+9. Input:
+Space travel
+9. Output:
+Astronauts depart; Mars anticipates Earth's refugees.

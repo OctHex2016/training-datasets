@@ -1,0 +1,96 @@
+4. Instruction: Translate the following text from English to Spanish.
+4. Input: 
+Good morning! I hope you have a great day. Have you had breakfast yet?
+4. Output: 
+¡Buenos días! Espero que tengas un gran día. ¿Ya has desayunado?
+
+5. Instruction: Identify and correct grammatical errors in the given sentence. 
+5. Input: 
+The dog quickly ran through the park, lick ice cream and happily wagging their tails.
+5. Output:
+The dog quickly ran through the park, licked ice cream, and happily wagged its tail.
+
+6. Instruction: Describe the differences between a chimpanzee and a gorilla.
+6. Input: <noinput>
+6. Output: 
+Chimpanzees are smaller and more agile than gorillas. Chimpanzees have longer limbs, a more slender body, and larger ears. Gorillas are larger, stronger, and have shorter arms, a more robust body, and a pronounced sagittal crest on their skulls. Gorillas are primarily ground-dwelling and herbivorous, while chimpanzees are both arboreal and terrestrial, consuming a more varied diet, including fruits, leaves, and occasionally meat.
+
+7. Instruction: List three companies that Elon Musk is associated with.
+7. Input: <noinput>
+7. Output: 
+1. Tesla, Inc.
+2. SpaceX
+3. Neuralink Corporation
+
+8. Instruction: Summarize the following paragraph.
+8. Input: 
+The Beethoven Monument is a large outdoor bronze statue of Ludwig van Beethoven that stands on a granite pedestal in the Münsterplatz in Bonn, Germany, Beethoven's birthplace. It was unveiled on August 12, 1845, in honor of the composer's 75th birthday anniversary. The statue was made by Ernst Hähnel, a German sculptor, who aimed to capture Beethoven's intense contemplative character through his artistic creation. The unveiling of the statue was a major event in the city of Bonn and was attended by numerous notable figures at the time.
+8. Output: 
+The Beethoven Monument is a bronze statue of Ludwig van Beethoven located in Bonn, Germany, created by German sculptor Ernst Hähnel, and unveiled in 1845 to honor Beethoven's 75th birthday anniversary. It captures the composer's contemplative character and its unveiling was a significant event in Bonn.
+
+9. Instruction: Explain the main differences between mitosis and meiosis.
+9. Input: <noinput>
+9. Output: 
+Mitosis is the process of cell division that produces two genetically identical daughter cells, whereas meiosis results in four genetically unique daughter cells. Mitosis occurs in somatic (body) cells, while meiosis takes place in germ cells to produce gametes (sperm and egg cells). Mitosis consists of one division cycle, while meiosis consists of two division cycles (meiosis I and meiosis II). Additionally, the genetic diversity is increased during meiosis through the process of crossing over, which does not occur in mitosis.
+
+10. Instruction: Write a short introduction for a blog about sustainable living.
+10. Input: <noinput>
+10. Output: 
+Welcome to our blog on sustainable living! Our passion for a greener, healthier, and more eco-conscious lifestyle has inspired us to create this platform where we'll share tips, tricks, and insights on how to live mindfully and make a positive impact on our planet. From zero-waste practices to maintaining an eco-friendly household, we'll cover a wide range of topics that will inspire you to embark on your own sustainable journey. Together, let's embrace the power of small changes and pave the way for a better future.
+
+11. Instruction: Write a conclusion paragraph for an essay about the benefits of exercising regularly.
+11. Input: <noinput>
+11. Output: 
+In conclusion, incorporating regular exercise into our daily routines provides numerous physical, mental, and emotional benefits. From strengthening our cardiovascular system to elevating our mood and reducing stress, exercise plays a critical role in maintaining overall well-being. By dedicating time to an active lifestyle, we invest not only in our physical health but also in our mental resilience and long-term health outcomes. As individuals and as a society, embracing a culture of regular exercise will undoubtedly lead to a healthier, happier, and more productive world.
+
+12. Instruction: Come up with a witty and humorous slogan for a coffee shop.
+12. Input: <noinput>
+12. Output: 
+"Espresso yourself! Where coffee beans meet their brew-tiful destiny."
+
+13. Instruction: Rewrite the given sentence in passive voice.
+13. Input: 
+She cleaned the entire house before the guests arrived.
+13. Output: 
+The entire house was cleaned by her before the guests arrived.
+
+14. Instruction: Write a rhyming couplet about the moon.
+14. Input: <noinput>
+14. Output: 
+In the velvet sky, the moon shines bright, a silvery guide through the darkest night.
+
+15. Instruction: Identify the given rhetorical device used in the sentence.
+15. Input: 
+The trees danced gracefully in the wind as the sun painted the sky in orange hues.
+15. Output: 
+Personification
+
+16. Instruction: List down three key symptoms of the common cold.
+16. Input: <noinput>
+16. Output: 
+1. Runny or congested nose
+2. Sore throat
+3. Sneezing
+
+17. Instruction: Explain a simple way to make a paper airplane.
+17. Input: <noinput>
+17. Output: 
+To make a simple paper airplane, start with a letter-sized or A4 sheet of paper. Fold the paper in half lengthwise and then unfold it, leaving a crease down the middle. Next, fold both top corners down to the center crease to form a triangle. Fold the newly created triangular flaps down along the center crease to make the top section of your plane. Then, fold the paper in half, tucking the triangle section in. Fold each side down to create wings, and you now have a simple paper airplane.
+
+18. Instruction: Compare the process of photosynthesis and cellular respiration.
+18. Input: <noinput>
+18. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy through converting carbon dioxide and water into glucose and oxygen. It occurs in chloroplasts and is an anabolic (building) process. Cellular respiration, on the other hand, is the process by which all living organisms, including plants, break down glucose and release energy in the form of ATP. It occurs in the mitochondria and is a catabolic (breaking down) process. In summary, photosynthesis uses light energy to create glucose and oxygen, while cellular respiration breaks down glucose to produce energy in the form of ATP.
+
+19. Instruction: Write an opening line for a mystery novel.
+19. Input: <noinput>
+19. Output: 
+As I stepped off the train and onto the rain-soaked platform, I knew it was no coincidence that I had been called back to my quiet and eerie hometown.
+
+20. Instruction: List down four renewable energy sources.
+20. Input: <noinput>
+20. Output: 
+1. Solar power
+2. Wind power
+3. Hydro power
+4. Geothermal power

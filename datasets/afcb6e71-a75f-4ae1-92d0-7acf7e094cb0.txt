@@ -1,0 +1,133 @@
+4. Instruction: Given a movie title, write a brief synopsis. 
+4. Input: 
+The Godfather
+4. Output: 
+The Godfather is a movie about the Corleone family, where Vito Corleone is the head of the family; and the film traces the fall of the patriarch from power and grace to a tragic end.
+###
+5. Instruction: Given a historical event, provide a summary or key details. 
+5. Input: 
+World War II 
+5. Output: 
+World War II was a global war that lasted from 1939 to 1945. It involved the vast majority of the world's nations—including all of the great powers—forming two opposing military alliances: the Allies and the Axis. It was the most widespread war in history, and directly involved more than 100 million people from more than 30 countries. In a state of "total war", it directly led to the deaths of an estimated 50 million to 85 million people.
+###
+6. Instruction: Provide a step-by-step guide for a recipe. 
+6. Input: 
+Apple pie
+6. Output: 
+Ingredients: 2 deep dish pie crusts, 8 apples (peeled, cored, and sliced), 3 tablespoons all-purpose flour, 3 tablespoons unsalted butter, ½ cup cane sugar, 2 tablespoons brown sugar, 1 teaspoon ground cinnamon,½ teaspoon ground nutmeg, ⅛ teaspoon sald
+1. Preheat oven to 375°F.
+2. In a mixing bowl, mix the white and brown sugar, flour, cinnamon and salt. Stir to mix well. Next, add sliced apples and coat well.
+3. Pour the apple filling into the pie crust. On the top of the filling, place butter.
+4. Roll out second sheet of pie crust dough. Place it over top of the pie.
+5. Fold the edges under and crimp together.
+6. Using a fork, poke 3-4 holes in to the top of the crust to vent steam.
+7. Bake for 45 minutes. Let cool before serving.
+###
+7. Instruction: Write a summary for a news article. 
+7. Input: 
+https://www.nytimes.com/2022/03/15/technology/biden-social-media-disinformation.html?searchResultPosition=1
+7. Output: 
+The White House on Tuesday formally announced the creation of the Office of Digital Information, saying it would undertake a broad, coordinated campaign to combat disinformation online. The campaign will include private sector partnerships, as well as outreach to technology platforms, civil society organizations, and other organizations. The office represents an escalation of the Biden administration's efforts to curb social media misinformation, which has led to widespread unrest and political polarization.
+###
+8. Instruction: Given a news article title, write a brief summary. 
+8. Input: 
+"Microsoft to Acquire Nuance Communications for about $19.7 Billion"
+8. Output: 
+Microsoft has announced plans to acquire Nuance Communications, a Massachusetts-based firm specializing in AI-powered speech recognition tech, in a $19.7bn deal. The firms will combine technologies to create new and intuitive experiences for healthcare industry workers and patients, such as voice-assisted clinical documentation.
+###
+9. Instruction: Generate a one-sentence description for each of the following TV Shows. 
+9. Input: 
+- Game of Thrones
+- Stranger Things
+- Breaking Bad
+9. Output: 
+- Based on George R. R. Martin's A Song of Ice and Fire novels, Game of Thrones is a fantasy epic that follows a number of powerful families fighting to gain control of the Iron Throne.
+- Set in the fictional town of Hawkins, Indiana, Stranger Things begins with the disappearance of a young boy and involves a series of supernatural events, powered by the unusual abilities of a young girl named Eleven.
+- Breaking Bad follows high school chemistry teacher Walter White as he turns to producing and selling methamphetamine to pay for his cancer treatments and secure his family's financial future.
+###
+10. Instruction: Given a book title, write a one-sentence summary. 
+10. Input: 
+To Kill a Mockingbird
+10. Output: 
+Harper Lee’s To Kill a Mockingbird is a novel set in 1930s Alabama about a young girl, Scout Finch, who experiences first-hand the injustices of racial and social inequality as she witnesses the trial of a black man unjustly accused of raping a white woman.
+###
+11. Instruction: Provide synonyms for a list of given words. 
+11. Input: 
+laugh, cold, dark, happy, shy
+11. Output: 
+- chuckle, chortle, giggle, guffaw, snicker, titter, 
+- chilly, frigid, icy, wintry, bleak, dreary, gloomy, somber, 
+- black, dim, dingy, dusky, murky, shady, 
+- content, elated, joyful, jubilant, overjoyed, thrilled,
+- bashful, demure, introverted, timid, reticent.
+###
+12. Instruction: Given a product category, write a brief history about it. 
+12. Input: 
+Smartphones
+12. Output: 
+The first commercially available smartphone, the IBM Simon, was released in 1993, but it wasn’t until the launch of Apple’s first iPhone in 2007 that “smartphones” truly took off. Since then, smartphones have evolved from basic devices for making calls and sending texts to multi-purpose devices that function as cameras, shopping centers, entertainment centers and more.
+###
+13. Instruction: Given a food, provide a list of common ingredients. 
+13. Input: 
+Tacos
+13. Output: 
+- Ground beef, chicken, pork or beans (vegetarian)
+- Cheese, shredded lettuce, and diced tomatoes or onions
+- Taco shells or soft tortillas
+- Taco seasoning mix (cumin, chili powder, garlic, and onion powder)
+- Salsa or hot sauce
+- Sour cream
+###
+14. Instruction: Provide antonyms for a list of given words. 
+14. Input: 
+happy, big, fast, bright, tall
+14. Output: 
+- Sad, miserable, depressed, 
+- Small, tiny, little, 
+- Slow, sluggish, unhurried, 
+- Dull, dim, dark, 
+- Short, small, dwarfed, low. 
+###
+15. Instruction: Given a news article, paraphrase the first paragraph. 
+15. Input: 
+https://www.bbc.com/news/business-60569028
+15. Output: 
+In order to counter rising Covid infection rates, Google is delaying plans to reopen offices until May of 2022, and requiring employees to be vaccinated against Covid in order to enter the company's offices once they do. The move goes further than what Facebook has demanded of its employees, and is in keeping with Google's recent shift toward a more cautious approach to reopening workplaces amid the ongoing pandemic.
+###
+16. Instruction: Given a quote, write a one-sentence explanation of its meaning. 
+16. Input: 
+"The greatest glory in living lies not in never falling but in rising every time we fall." - Nelson Mandela 
+16. Output: 
+This quote by Nelson Mandela encourages the value of perseverance and resilience, stating that it is human to stumble or fail, but that we must get up and discover the strength we have to rise again.
+###
+17. Instruction: Generate a one-sentence description for each of the following movies. 
+17. Input: 
+- The Shawshank Redemption
+- The Godfather: Part II
+- Forrest Gump
+17. Output: 
+- The Shawshank Redemption tells the story of Andy Dufresne, who is falsely imprisoned for 19 years and forms a friendship with a fellow inmate in the process of his redemption.
+- The Godfather: Part II spans two time periods, one following the early life of Vito Corleone and one exploring the near-demise of the Corleone crime family; it is the only sequel ever to win the Academy Award for Best Picture.
+- Forrest Gump is a film that tracks the remarkable life of Forrest Gump, who despite his intellectual limitations, manages to find success as a ping-pong champion, soldier, fisherman, and later as a father. 
+###
+18. Instruction: Given a famous landmark, write a brief history about it. 
+18. Input: 
+The Great Wall of China
+18. Output: 
+The Great Wall of China is a series of fortifications made of brick, tamped earth, stone, and other materials, generally built along a line from east to west across the northern borders of China, to protect the Chinese states against intrusions by various nomadic groups in the past few centuries.
+###
+19. Instruction: Given a musical instrument, write a brief history about it. 
+19. Input: 
+Piano
+19. Output: 
+The piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700. The strings are struck by hammers that are controlled by the keyboard, and sound is produced when the hammers hit the piano's strings, creating vibrations that are transmitted through a soundboard.
+###
+20. Instruction: Given a country, write a list of its neighboring countries. 
+20. Input: 
+Spain
+20. Output: 
+- Portugal
+- Andorra
+- France
+- Gibraltar (UK)
+- Morocco (across the water)

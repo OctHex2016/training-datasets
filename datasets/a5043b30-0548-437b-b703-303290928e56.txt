@@ -1,0 +1,41 @@
+4. Instruction: What is the capital city of France?
+4. Input: 
+<noinput>
+4. Output: 
+The capital city of France is Paris.
+
+5. Instruction: Summarize the provided paragraph in one sentence.
+5. Input: 
+Scientists have found evidence to suggest that the early universe formed in a manner similar to a "cosmic web," with clusters of galaxies joined together by filaments of dark matter, gas, and dust. These findings, which are based on observations made using the Hubble Space Telescope, could help to explain some of the different structures seen in the universe today, and also provide further insights into the role of dark matter in the formation of the cosmos.
+5. Output: 
+Scientists discovered that the early universe formed like a "cosmic web" of interconnected galaxy clusters and filaments of dark matter, gas, and dust, using the Hubble Space Telescope, shedding light on today's cosmic structures and dark matter's role in the cosmos.
+
+6. Instruction: Write a short paragraph detailing the life of a famous inventor or scientist.
+6. Input: 
+<noinput>
+6. Output: 
+Thomas Edison, often referred to as America's greatest inventor, was born in 1847 in Milan, Ohio. Edison's most notable inventions include the phonograph, the motion picture camera, and the long-lasting electric light bulb, which revolutionized industries and helped shape the modern world. He was an incredibly hardworking and prolific inventor, holding over 1,000 patents in his name. Edison's innovations impacted numerous fields, from electric power generation and telegraphy to medicine and battery technology.
+
+7. Instruction: Translate the following English text to French.
+7. Input: 
+Please bring me a cup of coffee with milk and one sugar.
+7. Output: 
+S'il vous plaît, apportez-moi une tasse de café avec du lait et un sucre.
+
+8. Instruction: Find a rhyming word and use it to complete this line of verse.
+8. Input: 
+Roses are red, violets are blue, sugar is sweet, and so are <mask>.
+8. Output: 
+Roses are red, violets are blue, sugar is sweet, and so are you.
+
+9. Instruction: Calculate the calories burned during a 30-minute run at a pace of 6 miles per hour, assuming the runner weighs 150 pounds.
+9. Input: 
+<noinput>
+9. Output: 
+A 150-pound person running at 6 miles per hour for 30 minutes burns approximately 364 calories.
+
+10. Instruction: Determine the literary genre from the given book description.
+10. Input: 
+In this thrilling dystopian novel, society has been divided into five factions, each dedicated to a particular virtue of human nature. The protagonist must navigate the dangerous politics of her highly structured world, while uncovering deep-seated secrets and the truth about the system she lives in.
+10. Output: 
+The described book belongs to the science fiction genre, specifically dystopian fiction.

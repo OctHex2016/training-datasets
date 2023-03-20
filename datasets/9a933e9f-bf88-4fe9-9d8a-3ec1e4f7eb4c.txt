@@ -1,0 +1,113 @@
+4. Instruction: Translate the sentence to Spanish.
+4. Input: 
+She wakes up early in the morning.
+4. Output: 
+Ella se despierta temprano en la mañana.
+###
+5. Instruction: Rewrite the paragraph in third person perspective.
+5. Input: 
+I settled down into the chair at the desk, and I cracked open the worn pages of the book before me. As the smell of musty, yellowed paper filled my nostrils, my eyes scanned the faded ink that bled into the yellowed pages.
+5. Output: 
+They settled down into the chair at the desk, and they cracked open the worn pages of the book before them. As the smell of musty, yellowed paper filled their nostrils, their eyes scanned the faded ink that bled into the yellowed pages.
+###
+6. Instruction: Determine whether the statement is an example of external or internal attribution.
+6. Input: 
+I didn't perform well on the math test because the test was poorly written.
+6. Output: 
+External attribution.
+###
+7. Instruction: Write a cinquain poem about the ocean.
+7. Input: 
+<noinput>
+7. Output: 
+Ocean
+Vast, deep
+Crashing, roaring, embracing
+Home to countless lives
+Majestic
+###
+8. Instruction: Proofread the paragraph and correct any spelling or grammatical errors.
+8. Input: 
+There quick brown fox jumps threw the air over the laisy dog whoes lying in the sunlite. As the fox flys passt, they can here one anuther laughing at there games.
+8. Output: 
+The quick brown fox jumps through the air over the lazy dog who's lying in the sunlight. As the fox flies past, they can hear one another laughing at their games.
+###
+9. Instruction: Calculate how many different possible combinations there can be for arranging 6 books.
+9. Input: 
+<noinput>
+9. Output: 
+720 different combinations
+###
+10. Instruction: Identify the protagonist and the antagonist in the following story excerpt.
+10. Input: 
+Sam was a simple and honest farmer who devoted his life to working the land to provide for his family. One day, he discovered a treasure buried in his field, which attracted the attention of the greedy landlord, Mr. Thompson. Mr. Thompson would do anything to get his hands on that treasure, even if it meant destroying Sam's happiness.
+10. Output: 
+Protagonist: Sam
+Antagonist: Mr. Thompson
+###
+11. Instruction: Find the subject and predicate in the sentence.
+11. Input: 
+The curious cat chased the bright red laser dot.
+11. Output: 
+Subject: The curious cat
+Predicate: chased the bright red laser dot
+###
+12. Instruction: List 3 possible consequences of deforestation.
+12. Input: 
+<noinput>
+12. Output: 
+1. Loss of biodiversity 
+2. Soil erosion and degradation
+3. Increased greenhouse gas emissions
+###
+13. Instruction: What is the scientific name of the domestic dog?
+13. Input: 
+<noinput>
+13. Output: 
+Canis lupus familiaris
+###
+14. Instruction: Identify the poetic devices used in the following lines.
+14. Input: 
+"Life is but a walking shadow, a poor player
+That struts and frets his hour upon the stage
+And then is heard no more."
+14. Output: 
+1. Metaphor 
+2. Personification
+###
+15. Instruction: Write a brief summary summarizing key points in the story of "The Little Prince".
+15. Input: 
+<noinput>
+15. Output: 
+The Little Prince is a novella telling the story of a young prince who leaves his tiny asteroid, B-612, to embark on a journey through the universe. He encounters various planets and their inhabitants, learning valuable life lessons along the way. On Earth, he befriends a narrator, who is a pilot stranded in the desert. Throughout the story, the Little Prince shares his wisdom on life, loneliness, and love, and ultimately sacrifices himself to return to his home. The book portrays themes of human nature, relationships, and the importance of seeing life through a child's perspective.
+###
+16. Instruction: Generate a rhyming couplet about nature.
+16. Input: 
+<noinput>
+16. Output: 
+Nature's beauty, ever vast,
+Our need to care for it, steadfast.
+###
+17. Instruction: Based on the information in the paragraph, classify the bird as a predator or a scavenger.
+17. Input: 
+The sharp-eyed bird perched on a high branch, waiting patiently for unsuspecting prey to come into view. With its specialized talons, it was able to swoop down and quickly snatch small animals, making it a menacing creature in the wilderness.
+17. Output: 
+Predator
+###
+18. Instruction: Explain the difference between a simile and a metaphor.
+18. Input: 
+<noinput>
+18. Output: 
+A simile is a figure of speech that directly compares two different things using words "like" or "as," while a metaphor is a figure of speech that describes one thing by taking on the characteristics of another, without using "like" or "as." Similes make an explicit comparison, while metaphors create an implicit comparison.
+###
+19. Instruction: Identify the author's main argument in the text.
+19. Input: 
+Governments around the world must enact policies to mitigate the extent of plastic pollution in our oceans, as they pose a significant threat to marine life, coastal ecosystems, and human well-being. Concerted action is necessary to encourage sustainable waste management practices, minimize single-use plastic consumption, and promote the development of eco-friendly alternatives.
+19. Output: 
+The author's main argument is that governments need to enact policies to reduce plastic pollution in the oceans, with an emphasis on sustainable waste management practices, minimizing single-use plastics, and promoting eco-friendly alternatives.
+###
+20. Instruction: Detect whether the statement below is an example of objective or subjective writing. 
+20. Input: 
+Van Gogh's Starry Night is the most beautiful piece of art ever created.
+20. Output: 
+Subjective writing.

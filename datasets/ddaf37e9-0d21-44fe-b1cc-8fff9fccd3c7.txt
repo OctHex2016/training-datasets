@@ -1,0 +1,112 @@
+4. Instruction: Simplify the mathematical equation provided and compute the result.
+4. Input: 
+(6 + 3 * 4 - 7 * 2) / (8 - 3 + 1)
+4. Output: 
+1
+
+5. Instruction: Point out any grammar mistakes in the sentence provided.
+5. Input: 
+She are reading books from the five different genres.
+5. Output: 
+"are" should be "is"; "from" should be "in"; the correct sentence is - "She is reading books in five different genres."
+
+6. Instruction: Explain the key differences between two concepts.
+6. Input: 
+Concept 1: Communism
+Concept 2: Capitalism
+6. Output: 
+Communism is an economic system in which the means of production (such as factories, natural resources, and land) are owned and controlled by the state, and wealth is distributed based on need. Capitalism is an economic system where private individuals or businesses own and control the means of production and wealth is earned and distributed based on supply and demand in a free market.
+
+7. Instruction: Read the abstract and summarize the article.
+7. Input: 
+Angular is a JavaScript framework designed to create front-end web applications. In this article, the author compares the recently released Angular 9 with the previous version, Angular 8. The article discusses the main features of Angular 9, such as smaller bundle sizes, faster load times, and better debugging tools. Furthermore, it details how Angular 9 employs Ivy, the new compiler and rendering pipeline, which improves overall performance and code quality. By the end of the article, readers will have a better understanding of why they should consider upgrading to Angular 9.
+7. Output: 
+The article compares Angular 9 to Angular 8, discussing features like smaller bundle sizes, faster load times, and improved debugging in Angular 9. It highlights the introduction of the Ivy compiler and rendering pipeline, resulting in better performance and code quality within the Angular framework, encouraging readers to consider upgrading.
+
+8. Instruction: Proofread the document and correct any spelling errors.
+8. Input: 
+My plnas for the smumer holidays incclude hicking, camping, and learining new outdoor activities.
+8. Output: 
+My plans for the summer holidays include hiking, camping, and learning new outdoor activities.
+
+9. Instruction: Translate the sentence into French.
+9. Input: 
+He will meet you at the airport tomorrow.
+9. Output: 
+Il te rencontrera à l'aéroport demain.
+
+10. Instruction: Describe the health benefits of the given food item.
+10. Input: 
+Broccoli
+10. Output: 
+Broccoli is rich in vitamins A, C, and K, fiber, and folic acid. It contains compounds called glucosinolates, which have anti-cancer properties. It also contains sulforaphane, which may help boost the body's detoxifying enzymes, lower inflammation, and improve heart health. Additionally, it supports digestive health and boosts the immune system.
+
+11. Instruction: Write a brief history of the device and its purpose.
+11. Input: 
+Telephone
+11. Output: 
+The telephone, invented by Alexander Graham Bell in 1876, revolutionized long-distance communication. With its primary purpose being to transmit and receive human voice over distances, the telephone has evolved from manual switchboards and rotary dials to touch tones, digital displays, and smartphones. Today, telephone technology has merged with the internet, allowing for advanced features like video calling, voicemail, and mobile applications.
+
+12. Instruction: Identify the logical fallacy in the argument presented.
+12. Input: 
+You can't trust Susan's opinion on marriage because she is single.
+12. Output: 
+Ad Hominem
+
+13. Instruction: Suggest a more environmentally friendly alternative for the common item mentioned.
+13. Input: 
+Plastic straws
+13.Output: 
+Reusable metal straws or biodegradable paper straws
+
+14. Instruction: Rank the given items in order of increasing value.
+14. Input: 
+Ruby, Emerald, Diamond, Amethyst
+14. Output: 
+Amethyst, Emerald, Ruby, Diamond
+
+15. Instruction: Reformat the text into a formal email to a professional colleague.
+15. Input: 
+hey jess, hop u r gud. cn u send me report by tmrw...it's urgent kthanx!
+15. Output: 
+Subject: Request for Report Submission
+
+Dear Jessica,
+
+I hope you are well. I kindly request you to send me the report by tomorrow, as it is urgently needed. Thank you in advance for your prompt assistance in this matter.
+
+Best regards,
+
+[Your Name]
+
+16. Instruction: Write a persuasive statement in support of the topic.
+16. Input: 
+Topic: Renewable energy
+16. Output: 
+Investing in renewable energy sources, such as solar and wind, helps to combat climate change, reduces our reliance on fossil fuels, and offers a sustainable future, benefiting our planet and future generations.
+
+17. Instruction: List some of the greatest hits by the artist.
+17. Input: 
+Artist: Michael Jackson
+17. Output: 
+Billie Jean, Thriller, Beat It, Smooth Criminal, Man in the Mirror
+
+18. Instruction: Calculate the compound interest earned given the principal amount, interest rate, and years.
+18. Input: 
+Principal Amount: $1000
+Interest Rate: 5%
+Years: 2
+18. Output: 
+$102.50
+
+19. Instruction: Rewrite the text in passive voice.
+19. Input: 
+The cat chased the mouse around the room.
+19. Output: 
+The mouse was chased around the room by the cat.
+
+20. Instruction: Compose a brief and interesting news headline based on the event.
+20. Input: 
+Astronomers have discovered an Earth-like planet orbiting a red dwarf star in the habitable zone.
+20. Output: 
+"New Earth-Like Planet Found in Habitable Zone Raises Hopes in Search for Extraterrestrial Life"

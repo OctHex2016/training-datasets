@@ -1,0 +1,105 @@
+4. Instruction: Write a haiku about the season of spring.
+4. Input: 
+<noinput>
+4. Output: 
+Blossoms awaken
+Soft whispers of gentle breeze
+Nature's song begins
+###
+5. Instruction: Given the following symptoms, suggest a plausible medical diagnosis. 
+5. Input: 
+Symptoms: Fever, abdominal pain, diarrhea, vomiting, and loss of appetite.
+5. Output: 
+Gastroenteritis
+###
+6. Instruction: Analyze the error in the given sentence and correct it.
+6. Input: 
+Sentence: She dont want to go outside in the rain. 
+6. Output: 
+Corrected Sentence: She doesn't want to go outside in the rain.
+###
+7. Instruction: Calculate the circumference of a circle with the given radius.
+7. Input: 
+Radius: 7 cm
+7. Output: 
+Circumference: 44 cm (approximately)
+###
+8. Instruction: Convert the Celsius temperature to Fahrenheit. 
+8. Input: 
+Temperature: 25°C
+8. Output: 
+Temperature: 77°F
+###
+9. Instruction: What genre would this movie belong to? 
+9. Input: 
+Movie synopsis: A world-renowned archaeologist gets caught up in a race against time to find the ancient lost city of Atlantis before a group of ruthless treasure hunters find it and unleash its dark power.
+9. Output: 
+Action-Adventure
+###
+10. Instruction: Write a brief introduction for a blog post about the benefits of a plant-based diet.
+10. Input: 
+<noinput>
+10. Output: 
+Discover the power of plants! In today's fast-paced world, it's essential to prioritize our physical and mental well-being. A plant-based diet offers numerous health benefits, from promoting weight loss to reducing the risk of chronic diseases. In this blog post, we'll explore the science-backed advantages of incorporating more plants into our meals while offering helpful tips to make the transition easier and tastier.
+###
+11. Instruction: Identify the type of fallacy in the given statement.
+11. Input: 
+Statement: My cousin tried that new weight loss supplement and lost 10 pounds in a week, so it must work for everyone.
+11. Output: 
+Hasty Generalization
+###
+12. Instruction: Summarize the main idea of this paragraph. 
+12. Input: 
+Paragraph: The increasing use of technology in our daily lives is changing the way we communicate, work, and learn. With instant access to information and constant connection to social networks, people are becoming increasingly reliant on digital devices. While this provides numerous benefits and conveniences, it also introduces new challenges, including digital addiction, decreased attention spans, and the growing potential for cyberbullying. Balancing the benefits and pitfalls of technology will be essential in the future of human society.
+12. Output: 
+The widespread adoption of technology brings both conveniences and challenges like digital addiction, shorter attention spans, and cyberbullying; finding a balance is crucial for society's future.
+###
+13. Instruction: List three things that users can do to improve their online security.
+13. Input: 
+<noinput>
+13. Output: 
+1. Use strong, unique passwords for each account
+2. Enable two-factor authentication
+3. Keep software and operating systems up-to-date
+###
+14. Instruction: Describe how the Fibonacci sequence works.
+14. Input: 
+<noinput>
+14. Output: 
+The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones, often starting with 0 and 1. The sequence goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.15. Instruction: Name the author of the given book. 
+15. Input: 
+Book: The Great Gatsby
+15. Output: 
+F. Scott Fitzgerald
+###
+16. Instruction: Explain the term 'operating system' in simple words.
+16. Input: 
+<noinput>
+16. Output: 
+An operating system (OS) is a software that manages a computer's hardware, software resources, and provides services for the computer programs to run properly.
+###
+17. Instruction: Rhyme the given word with at least three other words. 
+17. Input: 
+Word: plate
+17. Output: 
+gate, create, state
+###
+18. Instruction: Tell me the capital city of the given country.
+18. Input: 
+Country: Spain
+18. Output: 
+Madrid
+###
+19. Instruction: Rewrite the sentence in passive voice.
+19. Input: 
+Sentence: Sarah is baking a cake for her sister's birthday.
+19. Output: 
+A cake is being baked by Sarah for her sister's birthday.
+###
+20. Instruction: Suggest three popular tourist attractions in the given city.
+20. Input: 
+City: Sydney
+20. Output: 
+1. Sydney Opera House
+2. Sydney Harbour Bridge
+3. Bondi Beach

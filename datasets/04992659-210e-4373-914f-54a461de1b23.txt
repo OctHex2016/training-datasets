@@ -1,0 +1,39 @@
+4. Instruction: Write a short summary of the provided movie plot.
+4. Input: 
+In the movie "Forrest Gump", Forrest is a good-hearted, low-IQ individual who faces various struggles in his life. With the help of his loved ones and unwavering determination, he lives through several defining historical events of the 20th century, including the Vietnam War, Watergate, and the rise of Apple. His life intersects with influential figures such as John F. Kennedy and Elvis Presley, and his story is told through flashbacks as he sits on a park bench waiting for the bus, recounting his experiences to strangers who come and go.
+4. Output: 
+Forrest Gump is a heartwarming film about a good-hearted, low-IQ individual overcoming obstacles while experiencing pivotal historical events and crossing paths with influential figures. His remarkable story is shared with strangers on a park bench as he waits for the bus.
+
+5. Instruction: Based on the provided prompt, continue the story with a brief paragraph.
+5. Input: 
+Once upon a time in an enchanted forest, a brave knight embarked on a quest to save a beautiful princess who was kidnapped by a fearsome dragon.
+5. Output: 
+As the knight journeyed through the mystical woods, he encountered magical creatures and faced a series of perilous trials. With each challenge he overcame, he grew more resourceful and courageous, his resolve never wavering. As he neared the dragon's lair, the knight prepared to confront his greatest foe and rescue the princess, hoping his bravery alone would be enough to prevail.
+
+6. Instruction: For the indicated scenario, suggest a diplomatic response to the situation.
+6. Input: 
+Scenario: Your friend hosts a dinner party, and they serve a dish you dislike.
+6. Output: 
+Thank you for hosting us and preparing this lovely meal. I appreciate the effort you've put into it. While this dish might not be my personal favorite, I'm sure others will enjoy it. I'm looking forward to trying the other dishes you've prepared.
+
+7. Instruction: Create a fictional superhero origin story in a few sentences.
+7. Input: <noinput>
+7. Output: 
+After being struck by a mysterious meteor, young scientist Jane Carter discovers she's gained the ability to manipulate and harness the power of electricity. Embracing her newfound abilities, she devotes herself to protecting her city as the enigmatic superhero, Electric Empress, fighting against injustice and those who seek to harm the innocent.
+
+8. Instruction: Write a paragraph on the positive aspects of working from home.
+8. Input: <noinput>
+8. Output: 
+Working from home has numerous advantages for both employees and employers alike. Among these benefits, employees often experience greater flexibility, allowing them to manage their time more effectively while maintaining a healthy work-life balance. Remote work often eliminates time-consuming and tiring commutes, giving employees more time to spend on personal pursuits, family, or self-care. Additionally, working in a familiar and comfortable environment can increase productivity and job satisfaction. Employers may also benefit from cost savings on office space and find it easier to attract top talent from a larger geographic pool of candidates.
+
+9. Instruction: Correct grammar, spelling, and punctuation mistakes in the provided paragraph.
+9. Input: 
+There are too ways to display data: numericaly and graphical. Numerical displays incloude mean, media, and percentile. Graphical ways our histograms, box-plots, and scatter plotz.
+9. Output: 
+There are two ways to display data: numerically and graphically. Numerical displays include mean, median, and percentile. Graphical ways are histograms, box-plots, and scatter plots.
+
+10. Instruction: Explain the given concept in your own words.
+10. Input: 
+Photosynthesis
+10. Output: 
+Photosynthesis is a process that plants, algae, and some bacteria use to convert sunlight, water, and carbon dioxide into energy, in the form of glucose, and oxygen. It's the primary way these organisms produce the energy needed for growth and other life functions. Photosynthesis plays a crucial role in maintaining Earth's atmosphere, as it is responsible for producing much of the oxygen we breathe while also removing carbon dioxide from the air.

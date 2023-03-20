@@ -1,0 +1,49 @@
+4. Instruction: Write a short poem about the ocean.
+4. Input: 
+<noinput>
+4. Output:
+Mystic waters, vast and deep,
+Where whispers roam and secrets keep,
+A realm of wonder, endless blue,
+With life that hides from human view.
+
+With waves that dance and touch the shore,
+An ancient rhythm forevermore,
+The ocean's allure, a siren's call,
+Boundless beauty that shall enthrall. 
+###
+5. Instruction: Revise the following text to improve readability.
+5. Input: 
+In the time of need, the young lady went to her teacher, inquired about her problems related to her academic papers, and sought her guidance to find solutions.
+5. Output: 
+During a challenging period, the young lady approached her teacher, discussed her academic paper difficulties, and sought guidance to resolve the issues.
+###
+6. Instruction: Translate the English text into French.
+6. Input:
+It's a beautiful day outside.
+6. Output:
+C'est une belle journée à l'extérieur.
+###
+7. Instruction: Is it safe to take ibuprofen and acetaminophen together? Explain the rationale behind your answer.
+7. Input:
+<noinput>
+7. Output:
+Yes, it can be safe to take ibuprofen and acetaminophen together since they work through different mechanisms of action. Acetaminophen primarily works to reduce fever and relieve minor aches and pains, while ibuprofen is an anti-inflammatory drug that also relieves pain. However, it's essential to follow the recommended dosages for each medication and consult a healthcare professional if you have ongoing concerns or pre-existing health conditions.
+###
+8. Instruction: Create a catchy name for a new vegan restaurant.
+8. Input:
+<noinput>
+8. Output:
+Plantiful Plates
+###
+9. Instruction: Summarize the main points of the given passage.
+9. Input:
+Blockchain technology, often associated with cryptocurrencies like Bitcoin, has the potential to transform various industries by fostering trust and ensuring security. It is a decentralized, peer-to-peer network where each member can process, verify, and record transactions without intermediaries or a central authority. This structure eliminates the need for trust between users, making the system more secure and transparent. Applications of blockchain technology extend to other sectors, including healthcare, real estate, supply chain, and voting systems.
+9. Output:
+Blockchain technology promotes trust and security via a decentralized, peer-to-peer network without intermediaries or central authority. Its applications span industries like healthcare, real estate, and supply chain, beyond its cryptocurrency association.
+###
+10. Instruction: Identify the error in the sentence and correct it.
+10. Input:
+The dog ran across the street and disappears into the park.
+10. Output:
+The dog ran across the street and disappeared into the park.

@@ -1,0 +1,45 @@
+4. Instruction: Invent a recipe for a chicken and mushroom pasta dish, including a brief list of ingredients and cooking steps.
+4. Input: <noinput>
+4. Output: 
+Ingredients:
+- 8 oz pasta
+- 2 cups diced chicken breast
+- 2 cups sliced mushrooms
+- 1 cup sliced onion
+- 1 cup diced red bell pepper
+- 2 cloves garlic, minced
+- 1 cup grated Parmesan cheese
+- 2 tbsp. olive oil
+- 1 tbsp. butter
+- 1 cup heavy cream
+- Salt and pepper to taste
+
+Instructions:
+1. Boil pasta according to package instructions, drain and set aside.
+2. Heat olive oil and butter in a skillet. Add chicken and cook until browned.
+3. Add mushrooms, onion, red pepper, and garlic; cook until vegetables are tender.
+4. Add heavy cream and bring to a simmer. Stir in Parmesan cheese until fully incorporated.
+5. Mix pasta with the sauce and vegetables, adjust salt and pepper to taste.
+6. Serve and enjoy!
+###
+
+5. Instruction: Edit the following paragraph for grammar and punctuation errors.
+5. Input: 
+Thet'r waz a beutiful cat that lived in a big white House! 1 day, the cat found a lovley garden in the backyard, and it decied to explor it. While wandering trough the garden, the cat found a bird whoo was singing in the tree, they became best freinds and explored! the garden toghether.
+5. Output: 
+There was a beautiful cat that lived in a big, white house. One day, the cat found a lovely garden in the backyard and decided to explore it. While wandering through the garden, the cat found a bird who was singing in the tree. They became best friends and explored the garden together.
+###
+
+6. Instruction: Summarize the key points of the following text.
+6. Input: 
+The effects of climate change are becoming more evident as time goes on. An increased frequency of storms and severe weather events has cost millions of dollars in damage worldwide. Additionally, sea levels are rising at an alarming rate, creating problems for coastal communities as well as affecting local ecosystems. The melting of polar ice caps has also contributed to rising sea levels, with alarming consequences for marine wildlife.
+
+Efforts to combat climate change are currently underway. Nations and governments are collaborating to create policies and regulations that limit greenhouse gas emissions, such as the Paris Agreement. Organizations like the United Nations and various non-governmental organizations (NGOs) are also devising strategies to help combat deforestation and promote the use of renewable energy sources.
+6. Output:
+Climate change is causing increased storms, rising sea levels, coastal community issues, local ecosystem disruption, and negative effects on marine wildlife. To fight against this, nations and governments collaborate on policies, regulations, and agreements like the Paris Agreement, while the UN and NGOs create strategies to reduce deforestation and encourage renewable energy use.
+###
+
+7. Instruction: Explain the rule for using 'a' and 'an' in English.
+7. Input: <noinput>
+7. Output: 
+In English, the indefinite articles 'a' and 'an' are used before nouns. The rule is to use 'a' before words that begin with a consonant sound and 'an' before words that begin with a vowel sound. This includes considering the sound of acronyms and the pronunciation of letters, rather than just the written letter itself.

@@ -1,0 +1,35 @@
+4. Instruction: Estimate what proportion of the text is about the sports career of Michael Jordan. Provide a percentage.
+4. Input: 
+Michael Jordan is a former professional basketball player and the principal owner of the Charlotte Hornets of the NBA. Born in Brooklyn, New York, he moved to Wilmington, North Carolina at a young age. He played college basketball for three years at the University of North Carolina before declaring for the NBA draft. He was the third overall pick in 1984 NBA draft by the Chicago Bulls. Jordan played fifteen seasons in the NBA, winning six championships with the Bulls. He is considered the best player in the history of the game. Off the court, Jordan is known for his successful business ventures and endorsements, especially for the popular Air Jordan shoe line. His partnership with Nike helped redefine sneaker culture and contributed to his tremendous wealth. Jordan also starred in the 1996 animated movie "Space Jam", which was a mix of live-action and traditional animation.
+4. Output: 
+75%
+
+5. Instruction: Translate the following proverb into a modern context: "A stitch in time saves nine."
+5. Input: 
+<noinput>
+5. Output: 
+Addressing a problem early on prevents it from becoming much bigger and requiring more effort later.
+
+6. Instruction: Write a story that includes a dog, a bicycle, and a rainbow.
+6. Input: 
+<noinput>
+6. Output: 
+Once upon a time in a small countryside town, a young girl named Emily discovered a peculiar dog named Sparky. This dog was unlike the others, as it had a magical ability that allowed it to transform any object it touched into a colorful bicycle. One sunny afternoon, Emily and Sparky decided to take a scenic ride around the town. As they approached the crest of a hill, the sky suddenly shifted, and rain began to fall. Determined to finish their ride, they pedaled through the rain, and to their amazement, saw a vibrant rainbow form in the sky. They followed the arc of the rainbow, only to find that it led to a secret underground world full of enchanted creatures and endless bicycle trails. Emily and Sparky decided to visit this magical place whenever they needed a grand adventure, knowing that the rainbow would always guide them back home.
+
+7. Instruction: Explain the advantages and disadvantages of using solar energy.
+7. Input: 
+<noinput>
+7. Output: 
+Advantages:
+1. Renewable and sustainable source of energy.
+2. Environmentally friendly - low carbon footprint.
+3. Reduces electricity bills.
+4. Low maintenance costs.
+5. Can be installed in remote and off-grid locations.
+
+Disadvantages:
+1. Initial investment cost is high.
+2. Depends on weather conditions, and energy generation can be inconsistent.
+3. Requires a large area for installation.
+4. Energy storage can be expensive.
+5. Environmental concerns related to production and disposal of solar panels.

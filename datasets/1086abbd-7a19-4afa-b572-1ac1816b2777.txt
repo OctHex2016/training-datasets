@@ -1,0 +1,114 @@
+4. Instruction: Identify the type of chess piece described in the text.
+
+4. Input:
+This piece can move in any direction, but is limited to just one square at a time. It was historically depicted as a soldier.
+4. Output:
+Pawn
+
+5. Instruction: Help name a newly opened cafe with a focus on jazz music and artisanal coffee.
+
+5. Input:
+<noinput>
+5. Output:
+Jazzpresso Café
+
+6. Instruction: Identify three major plot points in the provided story summary.
+
+6. Input: In the city of Verona, two noble families, the Montagues and Capulets, are locked in a bitter feud. Amidst the chaos, Romeo Montague and Juliet Capulet fall in love. Secretly wed by Friar Laurence, they hope to reconcile the families. However, Romeo kills Tybalt, Juliet's cousin, in a passionate rage, and is banished. Desperate, Juliet fakes her death with a sleeping potion, but Romeo doesn't receive the message. Grieving, Romeo drinks poison and dies by her side, after which Juliet awakens and stabs herself. Their deaths unite the families, ending the feud.
+
+6. Output:
+1. Romeo and Juliet fall in love and secretly wed.
+2. Romeo kills Tybalt and is banished from Verona.
+3. Juliet fakes her death, but Romeo dies before discovering the truth, leading to Juliet's suicide and the families' reconciliation.
+
+7. Instruction: Please summarize the main idea of the input paragraph in one sentence.
+
+7. Input: Social media has evolved considerably over the last few years, becoming an essential tool for staying connected with others and sharing experiences. While it is true that social media has its advantages, such as providing instant communication and simplifying networking, it also has its share of drawbacks. One of the most concerning issues is its negative impact on mental health, particularly among younger users. The constant need for validation through likes and comments can lead to feelings of inadequacy and anxiety. Furthermore, the addictive nature of social media platforms can cause users to become more isolated from the real world, exacerbating these mental health issues.
+
+7. Output: Social media, while beneficial for instant communication and networking, has negative effects on mental health, fostering validation-seeking behavior, feelings of inadequacy, anxiety, and isolation.
+
+8. Instruction: Describe the image in the given hypothetical scenario using vivid language.
+
+8. Input: Imagine a dramatic, ancient castle sitting high on a cliff during a stormy night.
+
+8. Output: Amidst the symphony of rolling thunder and torrential rain, a grand, timeworn castle looms atop a craggy precipice, its towering stone walls defying the relentless gusts of wind as dark clouds enshroud the mighty fortress.
+
+9. Instruction: Correct the grammar in the given text.
+
+9. Input: Its important to take breaks during a work day, because too much stress can leads to burnout and reduces productivity overall. If you take a short break, it will be benefits you to recharge and refocus on task at hand.
+
+9. Output: It's important to take breaks during a workday, because too much stress can lead to burnout and reduced productivity overall. If you take a short break, it will benefit you by allowing you to recharge and refocus on the task at hand.
+
+10. Instruction: Choose the most suitable color scheme for a website promoting a serene wellness retreat.
+
+10. Input: <noinput>
+
+10. Output: Soft pastel hues such as light blue, lavender, and pale green, accented with clean white or warm beige for a calming and inviting atmosphere.
+
+11. Instruction: Provide a short explanation of the Pythagorean theorem.
+
+11. Input: <noinput>
+
+11. Output: The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides: a² + b² = c².
+
+12. Instruction: Based on the given food list, suggest a tasty and healthy dinner option.
+
+12. Input: Ingredients: chicken breast, quinoa, tomatoes, spinach, bell peppers, onion, garlic, extra-virgin olive oil, lemon, and feta cheese.
+ 
+12. Output: Greek-style lemon garlic chicken bowl with quinoa, tomato, spinach, bell peppers, onion, and a sprinkle of feta cheese.
+
+13. Instruction: Explain the connection between photosynthesis and cellular respiration in a brief and concise manner.
+
+13. Input: <noinput>
+
+13. Output: Photosynthesis and cellular respiration are interconnected processes; photosynthesis converts sunlight into chemical energy stored in glucose, while cellular respiration converts this glucose into ATP molecules that provide energy for living organisms.
+
+14. Instruction: Summarize the speaker's main argument in the following quotation.
+
+14. Input: "The central argument against the death penalty is that it is simply inhumane and barbaric. No government that claims to be founded on principles of human rights should ever engage in such a practice."
+
+14. Output: The death penalty is inhumane and barbaric, and therefore incompatible with governments upholding human rights principles.
+
+15. Instruction: Propose a catchy and memorable slogan for a sustainable clothing brand.
+
+15. Input: <noinput>
+
+15. Output: Wear the Change: Fashion with a Green Heart
+
+16. Instruction: Based on the given job ad, select the most relevant skills for the applicant to highlight in their cover letter.
+
+16. Input: Job ad for a digital marketing specialist: Applicants should have strong skills in social media marketing, content creation, SEO, Google Analytics, email marketing, and teamwork.
+
+16. Output: Social media marketing, content creation, SEO, Google Analytics, email marketing, and teamwork.
+
+17. Instruction: Recommend two appropriate, non-invasive questions to ask during a first-time conversation with a potentially new friend.
+
+17. Input: <noinput>
+
+17. Output: 1. What do you enjoy doing in your free time?
+        2. Have you watched any good movies or shows recently?
+
+18. Instruction: Improve the readability of the given sentence by rephrasing it without altering its meaning.
+
+18. Input: The dog proceeded to run at remarkable speeds, generating incredible kinetic energy within a short distance.
+
+18. Output: The dog quickly accelerated, generating impressive kinetic energy within a short distance.
+
+19. Instruction: Suggest three potential tourist attractions to visit in Paris, France.
+
+19. Input: <noinput>
+
+19. Output: 1. Eiffel Tower
+            2. Louvre Museum
+            3. Notre-Dame Cathedral
+
+20. Instruction: Help organize a daily workout routine that includes cardio, strength training, and flexibility exercises.
+
+20. Input: <noinput>
+
+20. Output: 
+1. 10-minute warm-up: light jogging and dynamic stretching
+2. 30-minute cardio: running, cycling or swimming
+3. 20-minute strength training: 3 sets x 10 reps of squats, push-ups, and lunges
+4. 10-15-minute flexibility exercises: yoga poses like downward dog, pigeon pose, and seated forward fold
+5. 5-minute cool-down: gentle static stretches and walking to relax the muscles

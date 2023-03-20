@@ -1,0 +1,47 @@
+4. Instruction: Describe the process of photosynthesis in brief.
+4. Input:
+<noinput>
+4. Output:
+Photosynthesis is a chemical process by which plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose. It occurs primarily in the chloroplasts, where chlorophyll absorbs sunlight. The process can be divided into two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). During the light-dependent reactions, sunlight is absorbed, and water molecules are split, releasing oxygen and producing ATP and NADPH. The light-independent reactions use the ATP and NADPH from the light-dependent reactions to convert carbon dioxide into glucose, which the organism can use for energy, growth, and repair.
+
+5. Instruction: Rewrite the following paragraph by replacing passive voice with active voice.
+5. Input:
+The new safety regulations were formulated by the committee. In order to prevent accidents, safety inspections will be carried out on a regular basis by the appointed personnel. Reports on the outcomes of the inspections are expected to be submitted to the higher management.
+5. Output:
+The committee formulated the new safety regulations. To prevent accidents, the appointed personnel will carry out safety inspections regularly. They will submit inspection outcome reports to the higher management.
+
+6. Instruction: Summarize the following passage in two sentences.
+6. Input:
+The Dust Bowl was a period of severe dust storms that greatly damaged the agriculture of the American and Canadian prairies during the 1930s. It was caused by severe drought and the failure to apply dryland farming methods to prevent the erosion of the fertile topsoil. This resulted in the loss of valuable farmland and ultimately led to the displacement of countless families who were forced to leave their homes in the Central Plains in search of work and more viable land.
+6. Output:
+The Dust Bowl in the 1930s caused massive damage to agriculture on the American and Canadian prairies due to droughts and improper farming methods. This led to the loss of farmland and forced numerous families to leave their homes in search of work and better land.
+
+7. Instruction: Tell me how cloud storage works.
+7. Input:
+<noinput>
+7. Output:
+Cloud storage works by storing data on remote servers that can be accessed via the internet. When a user uploads files to a cloud storage service, the data is transmitted to a data center and securely stored on multiple servers for redundancy. Users can then access their stored files from any device with internet connectivity, allowing them to easily share and collaborate on documents, photos, and other files. Cloud storage providers also ensure data security through encryption, authentication, and other security measures.
+
+8. Instruction: Identify which animals belong to the reptile family and which belong to the amphibian family from the following list: crocodile, frog, iguana, turtle, salamander, newt, alligator, snake.
+8. Input:
+<noinput>
+8. Output:
+Reptiles: crocodile, iguana, turtle, alligator, snake 
+
+Amphibians: frog, salamander, newt
+
+9. Instruction: List 5 tips for effective writing.
+9. Input:
+<noinput>
+9. Output:
+1. Plan your content – outline the main points you want to discuss.
+2. Write clear, concise sentences – avoid using ambiguous language and unnecessary words.
+3. Use consistent tone – adapt your writing style to the purpose and intended audience.
+4. Edit your work – proofread and revise your writing to eliminate errors and improve clarity.
+5. Use supporting evidence – provide examples, facts, and quotations to reinforce your arguments.
+
+10. Instruction: Explain the difference between a simile and a metaphor.
+10. Input:
+<noinput>
+10. Output:
+A simile is a figure of speech that compares two different things using the words 'like' or 'as' to highlight a specific quality they both have. For example, "She sings like an angel." A metaphor, on the other hand, is a figure of speech that directly compares two seemingly unrelated things by stating that one thing is another, without using 'like' or 'as.' For example, "Time is a thief."

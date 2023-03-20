@@ -1,0 +1,59 @@
+4. Instruction: Explain the meaning behind a given idiom in simple language. 
+4. Input: 
+Idiom: "Bite the bullet"
+4. Output: 
+The idiom "bite the bullet" means to face a difficult or unpleasant situation with courage and determination, even though you may not want to do it.
+###
+5. Instruction: Classify the given chemical compound as organic or inorganic.
+5. Input: 
+Compound: Sodium Chloride (NaCl)
+5. Output: 
+Inorganic
+###
+6. Instruction: Rewrite the given paragraph in active voice.
+6. Input: 
+The book was read by thousands of people in just a few days. The cookies were baked by Emily, while the dinner was prepared by her mother.
+6. Output: 
+Thousands of people read the book in just a few days. Emily baked the cookies, while her mother prepared the dinner.
+###
+7. Instruction: Summarize the main idea of the given text.
+7. Input: 
+Climate change is considered to be one of the most pressing issues of our time. It is causing extensive damage to the environment, with increased frequency and intensity of natural disasters such as hurricanes, floods, and droughts. Climate change is primarily caused by the release of greenhouse gases into the atmosphere from human activities such as deforestation, burning fossil fuels, and industrial processes. This has led to an increase in global temperature, which is causing the polar ice caps to melt, resulting in rising sea levels and coastal flooding. Some consequences of climate change are irreversible, making it essential for everyone to take actions to combat this global crisis immediately.
+7. Output: 
+Climate change, caused by human activities, is a critical issue that leads to severe environmental damage, increased natural disasters, and rising global temperatures. To mitigate irreversible consequences, it is imperative to take immediate action against this global crisis.
+###
+8. Instruction: Propose a suitable title for an article based on the given summary.
+8. Input: 
+The focus of this article is on the recent advances in artificial intelligence and their implications for the job market globally. The article discusses how these innovations have changed the way tasks are performed, what jobs are being replaced, and which industries are affected. The article also talks about new careers emerging as a consequence of automation and how the future job market is likely to shape up.
+8. Output: 
+AI Revolution: Understanding the Impact on the Global Job Market
+###
+9. Instruction: Recommend a book someone reading Jane Austen's "Emma" might also enjoy.
+9. Input: <noinput>
+9. Output: 
+If you enjoyed Jane Austen's "Emma," you might also enjoy "North and South" by Elizabeth Gaskell, another classic novel that combines romance, social commentary, and strong-willed female characters.
+###
+10. Instruction: Convert the following Celsius temperature to Fahrenheit.
+10. Input: 
+37°C
+10. Output: 
+98.6°F
+###
+11. Instruction: Provide a brief, age-appropriate answer to the following question.
+11. Input: 
+Question from a 7-year-old: Why is the sky blue?
+11. Output: 
+The sky is blue because sunlight contains many colors, but only blue light can scatter easily in the sky. When the blue light spreads out, it creates the beautiful blue color we see.
+###
+12. Instruction: List three key requirements that are necessary for a valid contract.
+12. Input: <noinput>
+12. Output: 
+1. Offer and Acceptance: There must be a clear offer made by one party and unconditionally accepted by the other.
+2. Consideration: Both parties must provide something of value, such as money, goods, or services.
+3. Capacity and Legality: The parties entering into the contract must have legal capacity to do so and the subject matter must be lawful.
+###
+13. Instruction: State the key principles of utilitarianism.
+13. Input: <noinput>
+13. Output: 
+1. The Greatest Happiness Principle: Actions are considered morally right if they promote the greatest happiness or pleasure for the greatest number of people.
+2. Consequentialism: An action's moral worth is determined solely by its consequences or by maximizing overall utility.

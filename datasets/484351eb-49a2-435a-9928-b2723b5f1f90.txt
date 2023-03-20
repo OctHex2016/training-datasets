@@ -1,0 +1,58 @@
+4. Instruction: Rewrite the given passage in a more formal tone.
+4. Input: 
+Hey there! Just wanted to let ya know that we're be hosting a get-together at our place this Friday night. Everyone will be bringing a dish, so make sure you bring something to share. It's gonna be a blast and we're stoked for you to join us! See you there!
+4. Output: 
+Greetings, we are pleased to inform you that we are hosting a social gathering at our residence this Friday evening. All participants are kindly requested to contribute a dish to share amongst attendees. We are eagerly anticipating your presence and look forward to an enjoyable evening together.
+
+5. Instruction: Describe the story of the following movie based on its title and the given details.
+5. Input: 
+Title: "The Dragon's Treasure"
+Genre: Fantasy Adventure
+Keywords: dragon, brave knight, enchanted forest, sorceress, mystical gem
+5. Output: 
+"The Dragon's Treasure" follows the journey of a brave knight who embarks on a treacherous quest in search of a mythical treasure guarded by a fearsome dragon. Along the way, the knight encounters a mysterious enchanted forest, filled with magical creatures and tests of wit and courage. In his pursuit of the treasure, the protagonist must also join forces with a resourceful sorceress, who aids him in unraveling the secrets of the forest and the mystical gem that is at the heart of the dragon's power.
+
+6. Instruction: Analyze the provided quote and express its meaning in plain terms.
+6. Input: 
+"All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts." - William Shakespeare
+6. Output: 
+This quote means that the world is like a big stage for a play, where everyone in their life takes on different roles and acts out their own part. People come and go, similar to characters entering and exiting a stage during a performance.
+
+7. Instruction: Write a haiku that captures the essence of the given scene.
+7. Input: 
+A calm river weaving through a sleepy forest on an autumn morning.
+7. Output: 
+River whispers soft,
+Sleepy forest, autumn's breath,
+Hushed leaves gently fall.
+
+8. Instruction: Explain the difference between the two given terms.
+8. Input: 
+Equity vs. Equality
+8. Output: 
+Equity refers to fairness and justice in the distribution of opportunities and resources, considering each individual's unique needs and circumstances. Equality, on the other hand, means treating everyone the same, providing equal access to resources without accounting for individual differences or needs.
+
+9. Instruction: Name three main reasons for the given historical event.
+9. Input: 
+American Revolutionary War
+9. Output: 
+1. Taxation without representation: Colonists felt unfairly taxed by the British government without representation in the British Parliament.
+2. Enlightenment ideas: The European Enlightenment influenced colonists, promoting values of democracy, liberty, and individual rights.
+3. Acts of aggression: Tensions escalated as the British enforced strict regulations and tariffs, and repressed American protest movements.
+
+10. Instruction: Write a brief business email requesting a meeting with the given individuals.
+10. Input: 
+Subject: Discussing Marketing Strategy
+Attendees: John Doe, Jane Smith, Robert Brown
+10. Output: 
+Subject: Discussing Marketing Strategy
+
+Dear John, Jane, and Robert,
+
+I hope you are all doing well. I would like to request a meeting for us to discuss our upcoming marketing strategy in detail. Please let me know your availability within the next week. Once we have a time that works for everyone, I will send out a calendar invite with a virtual meeting link.
+
+Thank you for your time, and I look forward to our fruitful discussion.
+
+Best regards,
+
+[Your Name]

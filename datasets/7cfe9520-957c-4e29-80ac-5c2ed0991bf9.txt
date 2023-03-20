@@ -1,0 +1,136 @@
+4. Instruction: Rewrite the sentence with a friendly tone.
+4. Input: 
+Why on earth would anyone do that? Are you insane?
+4. Output: 
+What might be the reason someone would choose to do that? I'm curious about your perspective.
+
+###
+5. Instruction: Provide a summary of the article.
+5. Input: 
+In a new research article published in the journal Nature, scientists have reported a breakthrough in battery technology which could revolutionize electric vehicle charging. The lithium-ion-based solid-state system developed at Harvard University has the potential to charge an electric vehicle in as little as 10 minutes. This would resolve the longstanding issue of long charging durations faced by electric vehicles, which has been a major barrier to widespread adoption. Additionally, the new technology appears to be safer, cleaner, and capable of holding up to ten times more energy than current lithium-ion batteries. Experts predict a rapid surge in demand for electric vehicles if this breakthrough is successfully commercialized.
+5. Output: 
+Scientists at Harvard University have developed a lithium-ion-based solid-state battery system that can potentially charge electric vehicles in just 10 minutes. This breakthrough could resolve the issue of long charging times and push electric vehicle adoption, as it is also safer, cleaner, and holds more energy than current batteries.
+
+###
+6. Instruction: For each symptom, classify whether the symptom is associated with an anxiety disorder or a cold/common flu.
+6. Input: 
+1. Rapid heartbeat
+2. Sneezing
+3. Uncontrollable worry
+4. Sore throat
+5. Fatigue
+6. Irritability
+6. Output: 
+1. Anxiety disorder
+2. Cold/common flu
+3. Anxiety disorder
+4. Cold/common flu
+5. Both (anxiety disorder and cold/common flu)
+6. Anxiety disorder
+
+###
+7. Instruction: Write an adjective that best describes the given noun.
+7. Input: 
+Mountain
+7. Output: 
+Majestic
+
+###
+8. Instruction: Convert the given recipe measurements.
+8. Input: 
+3 cups sugar
+2 tablespoons cocoa powder
+1/2 cup milk
+8. Output: 
+710.4 milliliters sugar
+29.6 milliliters cocoa powder
+118.3 milliliters milk
+
+###
+9. Instruction: Identify the logical fallacy in the given argument.
+9. Input: 
+Politician A must be a good leader; they have the most well-funded and organized campaign.
+9. Output: 
+Appeal to wealth/popularity
+
+###
+10. Instruction: What advice would you give to a student who's having a hard time focusing on their studies?
+10. Input: 
+<noinput>
+10. Output: 
+Try implementing time management techniques, such as the Pomodoro Technique, to break the study time into short focused intervals. Identify and minimize distractions, like turning off your phone while studying. Create a dedicated, well-organized study area, and establish a daily study routine. Additionally, practicing mindfulness or meditation and exercising can help improve focus and concentration.
+ 
+###
+11. Instruction: List three benefits of daily exercise.
+11. Input: 
+<noinput>
+11. Output: 
+1. Improved cardiovascular health
+2. Weight management and prevention of obesity
+3. Boosts mood and reduces stress
+
+###
+12. Instruction: Rephrase the question in a polite manner.
+12. Input: 
+Why didn't you answer my email?
+12. Output: 
+Could you please let me know if you had the chance to review my email?
+
+###
+13. Instruction: Is the following statement a fact or an opinion?
+13. Input: 
+Surfing is the most fun water sport.
+13. Output: 
+Opinion
+
+###
+14. Instruction: Identify the primary colors.
+14. Input: 
+<noinput>
+14. Output: 
+Red, blue, and yellow
+
+###
+15. Instruction: Choose the option that correctly completes the idiom: "Don't put all your eggs in _____"
+A. the refrigerator
+B. one basket
+C. the same carton
+15. Input: 
+<noinput>
+15. Output: 
+B. one basket
+
+###
+16. Instruction: Provide an example of a metaphor.
+16. Input: 
+<noinput>
+16. Output: 
+The world is a stage.
+
+###
+17. Instruction: Proofread the sentence and correct any errors.
+17. Input: 
+She been working to tired have to this.
+17. Output: 
+She has been working too hard and is tired because of it.
+
+###
+18. Instruction: Recommend a book about personal finance for a beginner.
+18. Input: 
+<noinput>
+18. Output: 
+"The Total Money Makeover" by Dave Ramsey
+
+###
+19. Instruction: Identify the type of chemical reaction in the given chemical equation.
+19. Input: 
+2H2 + O2 → 2H2O
+19. Output: 
+Combination reaction
+
+###
+20. Instruction: Translate the following sentence to Spanish.
+20. Input: 
+I will meet you at the park at 5 pm.
+20. Output: 
+Te encontraré en el parque a las 5 pm.

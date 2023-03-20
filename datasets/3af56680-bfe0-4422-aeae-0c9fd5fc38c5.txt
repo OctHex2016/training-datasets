@@ -1,0 +1,46 @@
+4. Instruction: Summarize the given passage concisely, preserving the central theme and important points.
+4. Input: 
+In recent years, advances in artificial intelligence (AI) have made it possible for computers to carry out many tasks once thought to be uniquely human. Computers can now recognize images, understand and process speech, and even play games such as chess and Go at a level superior to human champions. These advances have led many to believe that AI will soon reach the point where it can perform virtually any task as well or better than humans. However, there are many challenges and limitations that still need to be addressed before AI can truly fulfill its potential. Some of these challenges include ensuring the safety and reliability of AI systems, addressing the ethical implications of AI-driven decision making, and designing AI systems that are capable of learning from limited data and dealing with the uncertainty inherent in many real-world tasks.
+4. Output: 
+Recent AI advances enable computers to perform tasks once thought to be uniquely human, such as image recognition and mastering chess. However, AI faces challenges and limitations such as ensuring safety and reliability, addressing ethical implications, and designing systems to learn from limited data and deal with uncertainty in real-world tasks.
+
+5. Instruction: Write a limerick about pizza.
+5. Input: 
+<noinput>
+5. Output: 
+There once was a pizza so fine,
+With toppings that tasted divine,
+From mushrooms to cheese,
+It was made to please,
+A slice of heaven in every line.
+
+6. Instruction: Correct the grammar and punctuation errors in the given sentence.
+6. Input: 
+I loves eating ice cream! with chocolate chips and, strawberry on a cone;
+6. Output: 
+I love eating ice cream with chocolate chips and strawberry on a cone!
+
+7. Instruction: Convert the given sentence into passive voice.
+7. Input: 
+The teacher is explaining the lesson to the students.
+7. Output: 
+The lesson is being explained to the students by the teacher.
+
+8. Instruction: Compare the two smartphones highlighting their key features.
+8. Input: 
+Phone1: Apple iPhone 12, 6.1-inch display, A14 Bionic chip, 5G capable, 12MP dual-camera system.
+Phone2: Samsung Galaxy S21, 6.2-inch display, Exynos 2100 chip, 5G capable, 64MP triple-camera system.
+8. Output: 
+The Apple iPhone 12 features a 6.1-inch display, an A14 Bionic chip, 5G capabilities, and a 12MP dual-camera system. On the other hand, the Samsung Galaxy S21 offers a slightly larger 6.2-inch display, an Exynos 2100 chip, also 5G capable, and a higher resolution 64MP triple-camera system.
+
+9. Instruction: Explain why exercising is important for maintaining a healthy lifestyle.
+9. Input: 
+<noinput>
+9. Output: 
+Exercising is important for maintaining a healthy lifestyle because it helps maintain a healthy weight, bolsters the immune system, improves cardiovascular health, increases muscle strength, boosts mental well-being, and reduces the risk of various chronic diseases.
+
+10. Instruction: Translate the following English sentence to French.
+10. Input: 
+The weather is beautiful today.
+10. Output: 
+Le temps est magnifique aujourd'hui.

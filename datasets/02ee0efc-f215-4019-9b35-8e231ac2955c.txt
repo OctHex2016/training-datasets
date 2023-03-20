@@ -1,0 +1,49 @@
+4. Instruction: Create a 3-point summary of the given text.
+4. Input: 
+"The productivity of remote work has been a hotly debated topic ever since the Covid-19 pandemic forced businesses and organizations to close their offices. Some employees have found that they are more productive working from home, while others struggle to focus without the office environment. A new study from the National Bureau of Economic Research found that remote workers are more likely to put in longer hours, but their focus deteriorates. Researchers found that workers' focus is greatest when they are in a shared work environment, even when factoring in the distractions that come with working in an office. The researchers suggested that factors such as the lack of manager oversight, the blurred boundaries between work and personal time, and the absence of scheduled breaks contributed to the decline in focus."
+
+4. Output:
+- Remote work productivity has pros and cons, with some employees thriving and others struggling.
+- A study from the National Bureau of Economic Research found remote workers have longer hours, but decreased focus.
+- Factors affecting focus for remote workers include decreased manager oversight, blurred work-life boundaries, and absence of scheduled breaks.
+
+5. Instruction: Translate the given text to French.
+5. Input: 
+"I had a fantastic time at the museum yesterday. The exhibits were engaging and interesting, and I learned so much about the history of our country."
+
+5. Output: 
+"J'ai passé un moment fantastique au musée hier. Les expositions étaient captivantes et intéressantes, et j'ai appris tellement de choses sur l'histoire de notre pays."
+
+6. Instruction: Find the main idea of the given passage.
+6. Input: 
+"Online privacy is a complex and multifaceted issue, garnering attention from governments, businesses, and individuals alike. As we increasingly rely on digital platforms for communication, shopping, and work, our personal data becomes more vulnerable to potential breaches and misuse. Strong privacy practices have become more important than ever, with a demand for increased user control and transparent data policies. It's essential that we continue to improve our understanding of privacy issues and implement robust protections to safeguard our data."
+
+6. Output: 
+The main idea of the passage is the growing importance of online privacy in the digital era, with an emphasis on the need for better user control, transparency, and stronger protections for personal data.
+
+7. Instruction: Proofread and correct the given paragraph.
+7. Input: 
+"It was a extrordinary day, and the sun was shining brigtly on the beautiful town. The children were playing in the park, their laughter was music too my ears, as they runned around and enjoyed themselfs."
+
+7. Output: 
+"It was an extraordinary day, and the sun was shining brightly on the beautiful town. The children were playing in the park, their laughter was music to my ears, as they ran around and enjoyed themselves."
+
+8. Instruction: Write a headline for the following news article.
+8. Input: 
+"Alaska's lifeline ferries face uncertain future"
+Alaska’s ferry system, a lifeline for remote Alaskan communities, is struggling with budget cuts and aging vessels. There are no plans to replace the boats, and many island communities are left wondering how they will continue to stay connected and access important services.
+
+8. Output: 
+"Remote Alaskan Communities Left Vulnerable as Ferry System Faces Budget Cuts and Aging Fleet"
+
+9. Instruction: What does the acronym "NIMBY" stand for?
+9. Input: <noinput>
+9. Output: 
+Not In My Backyard
+
+10. Instruction: Suggest three potential questions for a trivia night about science-fiction movies.
+10. Input: <noinput>
+10. Output: 
+1. Which movie, directed by Ridley Scott, is a 1982 neo-noir science fiction film starring Harrison Ford as a "blade runner"?
+2. What is the name of the spaceship in the movie "The Matrix" that is captained by Morpheus?
+3. Who played the Terminator in the 1984 sci-fi thriller "The Terminator"?

@@ -1,0 +1,102 @@
+4. Instruction: Summarize the text in one sentence.
+4. Input: 
+The rainbow lorikeet is a species of parrot found in Australia. It is common along the eastern seaboard, from northern Queensland to South Australia. Its habitat is rainforest, coastal bush, and woodland areas. Characterized by its colorful plumage, the rainbow lorikeet has a blue head and belly, a green back, and an orange and red beak.
+4. Output: 
+The rainbow lorikeet is a colorful parrot species native to Australia's eastern seaboard, inhabiting rainforests, coastal bushes, and woodlands.
+
+5. Instruction: Arrange the words to create a grammatically correct sentence.
+5. Input: 
+dog sleeping the under table is the
+5. Output: 
+The dog is sleeping under the table.
+
+6. Instruction: Correct any grammatical errors within the text.
+6. Input: 
+As Jenny start walking, she realised that she have forgotten her umbrella on a rainy day, but she quickly went back to pick it up before she get completely wet.
+6. Output: 
+As Jenny started walking, she realized that she had forgotten her umbrella on a rainy day, but she quickly went back to pick it up before she got completely wet.
+
+7. Instruction: Translate the sentence into Spanish.
+7. Input: 
+I enjoy playing soccer with my friends on weekends.
+7. Output: 
+Me gusta jugar al fútbol con mis amigos en los fines de semana.
+
+8. Instruction: Identify three leadership qualities in the following text.
+8. Input: 
+Emma commands the respect and admiration of her team through her honest communication and ability to admit her mistakes. While she effortlessly takes charge in most situations, she remains open to feedback and always lectures others on the importance of active listening. Moreover, she is very empathetic and understanding, able to support her team members through personal crises while ensuring they never miss a deadline.
+8. Output: 
+Honest communication, active listening, empathy.
+
+9. Instruction: Name three possible causes for the problem described in the text.
+9. Input: 
+John has been experiencing frequent headaches and fatigue during the day, especially in the early afternoon.
+9. Output: 
+Dehydration, lack of sleep, eyestrain.
+
+10. Instruction: Identify the main conflict in the story.
+10. Input: 
+Sue is a popular girl who finds herself struggling to maintain her friendships and excel in school. That's when a new girl named Sarah arrives in school who Sue quickly befriends. Sarah teaches her the importance of being true to oneself and helps her find a balance between school and relationships. They manage to overcome numerous challenges and strengthen their bond.
+10. Output: 
+Sue struggles to balance her friendships with academic excellence.
+
+11. Instruction: Provide general advice for acing a job interview.
+11. Input:
+<noinput>
+11. Output: 
+Research the company, dress appropriately, arrive early, practice common interview questions, show confidence through body language, listen carefully, ask questions, express interest, and follow-up with a thank you email.
+
+12. Instruction: Write a rhyming couplet about a cat.
+12. Input: 
+<noinput>
+12. Output: 
+A graceful cat with fur so soft,
+Leaps through the night, with whispers aloft.
+
+13. Instruction: Analyze the text to determine if the author is in favor of or against the topic discussed.
+13. Input: 
+With the increase in global temperatures, it's surprising how many people still doubt the existence of climate change. The overwhelming scientific consensus is that human activities are to blame, and the consequences of our inaction are dire. Polar ice caps are melting, and extreme weather patterns are becoming the norm. It's time we take responsibility and work collectively to reduce our carbon footprint for the sake of our planet and future generations.
+13. Output: 
+In favor of acknowledging and addressing climate change.
+
+14. Instruction: Describe the atmosphere of the given location.
+14. Input: 
+An abandoned amusement park
+14. Output: 
+An eerie and desolate atmosphere with decaying rides, overgrown foliage, and a lingering sense of nostalgia and loss.
+
+15. Instruction: Identify the genre of the given movie plot.
+15. Input: 
+A group of friends find themselves trapped in a haunted house, encountering sinister spirits and malevolent forces at every turn, as they attempt to unravel the mystery of the house and escape.
+15. Output: 
+Horror
+
+16. Instruction: What should be the pH range for a solution to be considered neutral.
+16. Input: 
+<noinput>
+16. Output: 
+A pH range of 6.5 to 7.5 is generally considered neutral.
+
+17. Instruction: Assess what kind of learning style the student in the text might have.
+17. Input: 
+Ethan finds it difficult to remember information unless he writes it down. He often takes detailed notes during lectures and rewrites them later in his own words to reinforce his understanding.
+17. Output: 
+Ethan likely has a kinesthetic learning style, as he learns best through hands-on activities and writing.
+
+18. Instruction: Recommend a course of action for the situation described in the text.
+18. Input: 
+Mike's small business is struggling financially, and he can no longer afford to pay his employees. He's also having difficulty keeping up with the rent for his storefront.
+18. Output: 
+Mike should consider seeking financial advice, exploring small business loans, reducing overhead costs, or exploring the possibility of transitioning to an online-only business.
+
+19. Instruction: Create an email subject line for a newsletter announcing upcoming summer sales.
+19. Input: 
+<noinput>
+19. Output: 
+"Hot Deals & Sizzling Savings: Our Summer Sale Starts Now!"
+
+20. Instruction: Determine the probability of rolling a 4 on a standard six-sided die.
+20. Input: 
+<noinput>
+20. Output: 
+The probability of rolling a 4 on a six-sided die is 1/6 or approximately 16.67%.

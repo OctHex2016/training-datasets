@@ -1,0 +1,47 @@
+4. Instruction: Identify the correct use of "its" and "it's" by indicating either "correct" or "incorrect" next to each sentence.
+4. Input: 
+1) The dog wagged its tail.
+2) It's a beautiful day outside.
+3) The computer lost it's data.
+4) Its' important to exercise regularly.
+4. Output: 
+1) Correct
+2) Correct
+3) Incorrect
+4) Incorrect
+####
+5. Instruction: Summarize the following passage in one or two sentences.
+5. Input: 
+Polar bears, also known as Ursus maritimus, are large carnivorous bears found in the Arctic regions. Due to their thick layers of fur and blubber, they are well-suited to the frigid environment they inhabit. Polar bears primarily hunt seals, using their strong sense of smell to locate breathing holes in the ice where seals come up for air. As apex predators, they play a crucial role in maintaining ecosystem balance. However, climate change and shrinking sea ice has adversely affected their habitat and food availability, making their conservation a key concern.
+5. Output: 
+Polar bears are large Arctic predators primarily hunting seals, playing a significant role in maintaining ecosystem balance. Climate change and shrinking sea ice have negatively affected their habitat, making their conservation a priority.
+####
+6. Instruction: Rearrange the words to form a coherent sentence, and add proper punctuation.
+6. Input: 
+considering weather vacation I've the beach this year for
+6. Output: 
+Considering the weather, I've decided to visit the beach for vacation this year.
+####
+7. Instruction: Identify the three types of rocks and provide a brief description for each type.
+7. Input: <noinput>
+7. Output: 
+1. Igneous rocks: Formed from the cooling and solidification of molten magma or lava, examples include basalt and granite.
+2. Sedimentary rocks: Formed from the accumulation and cementation of mineral and organic particles, examples include sandstone and limestone.
+3. Metamorphic rocks: Formed from the transformation of existing rock types under high pressure and temperature, examples include marble and schist.
+####
+8. Instruction: Translate the following sentence into French.
+8. Input: 
+Today is a beautiful day, let's go for a walk in the park.
+8. Output: 
+Aujourd'hui est une belle journée, allons nous promener dans le parc.
+####
+9. Instruction: Check the following mathematical equation for correctness and provide the correct result if it's incorrect.
+9. Input: 
+9 * (3 + 4) = 21
+9. Output: 
+Incorrect, the correct result is 63.
+####
+10. Instruction: Explain the difference between weather and climate in one sentence.
+10. Input: <noinput>
+10. Output: 
+Weather refers to the short-term atmospheric conditions, while climate is the long-term statistical average of weather patterns in a region.

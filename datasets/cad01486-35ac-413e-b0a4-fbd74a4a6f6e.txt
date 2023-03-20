@@ -1,0 +1,76 @@
+4. Instruction: Rewrite the given sentence using the passive voice.
+4. Input: 
+The cat chased the mouse.
+4. Output: 
+The mouse was chased by the cat.
+###
+5. Instruction: Identify the type of logical fallacy in the given statement.
+5. Input: 
+You shouldn't take advice from her because she's short.
+5. Output: 
+Ad Hominem
+###
+6. Instruction: Write a haiku about a waterfall.
+6. Input: 
+<noinput>
+6. Output: 
+Roaring water flows,
+Over rocks, cascades that plunge,
+Mist unveils beauty.
+###
+7. Instruction: Provide feedback on the given email draft, suggesting improvements.
+7. Input: 
+Subject: Pls reply urgent!!
+
+Hi john
+i hopes u r fine. Cain u pls send me teh proposal u prepaired last wik asap? Boss is axing for it. If u got any dout ruqarding it caal me. Thks.
+
+Regard
+Jane
+7. Output: 
+Subject: Please Respond Urgently: Proposal Needed
+
+Hi John,
+
+I hope you are doing well. Could you please send me the proposal you prepared last week as soon as possible? Our manager is asking for it. If you have any doubts or questions regarding it, feel free to call me. Thank you.
+
+Best regards,
+Jane
+###
+8. Instruction: Describe how photosynthesis works in a simple way.
+8. Input: 
+<noinput>
+8. Output: 
+Photosynthesis is a process in which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into oxygen and glucose (a source of energy). Light is absorbed by the plant's chlorophyll, water is taken in through the roots, and carbon dioxide is absorbed from the air through small openings called stomata. The plant then uses this combination to produce oxygen and glucose, releasing the oxygen back into the air.
+###
+9. Instruction: Compare and contrast the advantages and disadvantages of solar energy and wind energy.
+9. Input: 
+<noinput>
+9. Output: 
+Solar Energy:
+Advantages:
+- Renewable and sustainable
+- Low greenhouse gas emissions
+- Low maintenance costs
+- Can be installed on rooftops and unused lands
+Disadvantages:
+- Weather dependent and intermittent
+- Requires a large surface area for installation
+- High initial cost
+- Needs a lot of sunlight for optimal efficiency
+
+Wind Energy:
+Advantages:
+- Renewable and sustainable
+- Low greenhouse gas emissions
+- Low operating costs
+- Can be built on existing farmland
+Disadvantages:
+- Weather dependent and intermittent
+- High initial costs
+- Possible noise and visual pollution
+- Impact on wildlife (threat to birds and bats)
+###
+10. Instruction: Convert the given short story into an elevator pitch.
+10. Input: 
+In a small village, far away from the city, a young orphan named Alina discovered a magical amulet. The amulet granted her the power to control fire, and she used it to protect her village from various threats. Over time, she came under the mentorship of an experienced mage who taught her how to fully harness her powers while also instilling in her the importance of using her abilities for good. When an evil sorcerer threatened the entire realm, Alina and her mentor embarked on a dangerous journey to save their world, forging new friendships and facing numerous challenges along the way.

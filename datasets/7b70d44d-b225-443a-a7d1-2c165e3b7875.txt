@@ -1,0 +1,58 @@
+4. Instruction: Compare the benefits of recycling paper versus cutting down trees for new paper production.
+4. Input: 
+<noinput>
+4. Output: 
+Recycling paper benefits:
+- Reduces waste in landfills
+- Conserves resources and energy
+- Minimizes pollution from paper production
+- Protects forests and wildlife habitats
+- Creates jobs in the recycling industry
+
+Cutting down trees for new paper production benefits:
+- Provides a consistently high-quality paper product
+- Supports the logging industry and related jobs
+- Drives innovation and efficiency in forestry management practices 
+- Contributes to reforestation and tree planting efforts by some paper companies
+
+Overall, recycling paper has more environmental and conservation benefits compared to cutting down trees for new paper production.
+###
+5. Instruction: Pick the best title for a blog post about methods for increasing productivity.
+5. Input: 
+a) 5 Ways to Increase Productivity
+b) 10 Binge-worthy Netflix Shows
+c) A Comprehensive Guide to Veganism
+5. Output:
+a) 5 Ways to Increase Productivity
+###
+6. Instruction: Calculate the amount of protein in grams required for a 70 kg person using the Recommended Dietary Allowance (RDA) formula.
+6. Input: 
+<noinput>
+6. Output: 
+For a 70 kg person, using the RDA formula (0.8 grams of protein per kilogram of body weight), the required protein amount is 56 grams.
+###
+7. Instruction: Correct the given paragraph to be in the past tense.
+7. Input: 
+She wakes up early in the morning and prepares herself a cup of hot coffee. She leaves her apartment and begins her daily walk.
+7. Output: 
+She woke up early in the morning and prepared herself a cup of hot coffee. She left her apartment and began her daily walk.
+###
+8. Instruction: Translate the given text to French.
+8. Input: 
+Make the most of your vacation by exploring the city's museums, parks, and historical monuments. Enjoy local cuisines and don't forget to relax!
+8. Output: 
+Profitez au maximum de vos vacances en explorant les musées, parcs et monuments historiques de la ville. Dégustez les plats locaux et n'oubliez pas de vous détendre!
+###
+9. Instruction: Identify the logical fallacy in the following argument: "I study every day, so I will definitely get an A on the exam."
+9. Input: 
+<noinput>
+9. Output: 
+Overgeneralization or hasty generalization.
+###
+10. Instruction: Suggest three improvements to the given CV extract.
+10. Input: 
+I have workked as a sales manager for 5 years, I have develop teamwork and communication skill. I am interest in health and fitness industry, and had done a course.
+10. Output: 
+1. Correct spelling and grammar: "I have worked as a sales manager for 5 years, I have developed teamwork and communication skills."
+2. Expand on professional experience: "As a sales manager, I managed a team of 10 members, achieving a 15% increase in company sales revenue over 5 years."
+3. Add more detail to interests and courses: "I am interested in the health and fitness industry and have completed a certification in personal training."

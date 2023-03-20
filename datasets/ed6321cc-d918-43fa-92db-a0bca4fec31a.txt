@@ -1,0 +1,240 @@
+4. Instruction: Given a movie plot, determine its main genre.
+4. Input:
+In 1985 Hill Valley, young Marty McFly accidentally travels back in time to 1955 using a time machine built by his inventor friend Doc Brown. Marty must ensure his parents meet and fall in love, or he will cease to exist. But as he tries to put things right, he puts his own existence in jeopardy.
+4. Output:
+Science Fiction
+
+5. Instruction: Rewrite the given paragraph using passive voice.
+5. Input:
+The dog bit the man. The man screamed in pain. Later, the owner apologized for his dog's actions.
+5. Output:
+The man was bitten by the dog. The pain was screamed in by the man. Later, an apology was given by the owner for his dog's actions.
+
+6. Instruction: Explain how to tie a shoelace in simple steps.
+6. Input:
+<noinput>
+6. Output:
+1. Start with both ends of the lace in your hands.
+2. Cross the laces and pull one end under the other, pulling tight to create a knot.
+3. Make a loop with one lace and hold it between your thumb and index finger.
+4. Wrap the other lace around the loop and pull it through, creating a second loop.
+5. Pull both loops tight to secure the knot.
+
+7. Instruction: Calculate the area of the triangle given the base and height.
+7. Input:
+Base: 8, Height: 5
+7. Output:
+Area: 20
+
+8. Instruction: Convert the given list of Celsius temperatures to Fahrenheit.
+8. Input:
+Celsius: [0, 15, 25, 30]
+8. Output:
+Fahrenheit: [32, 59, 77, 86]
+
+9. Instruction: Given a poem, identify the rhyme scheme.
+9. Input:
+Tyger Tyger, burning bright,
+In the forests of the night;
+What immortal hand or eye,
+Could frame thy fearful symmetry?
+9. Output:
+Rhyme Scheme: AABB
+
+10. Instruction: Condense the content of the given paragraph into a single sentence.
+10. Input:
+Alice, a young girl, is bored and drowsy while sitting on the riverbank with her sister. She spots a white rabbit with a pocket watch and a waistcoat muttering about how late he is getting. Intrigued by the unusual sight, Alice follows the rabbit down a rabbit hole, falling into a strange world.
+10. Output:
+Bored and drowsy, Alice spots a peculiar white rabbit with a pocket watch and follows it down a rabbit hole, entering a bizarre world.
+
+11. Instruction: Translate the given English sentence to French.
+11. Input:
+I love to travel around the world.
+11. Output:
+J'aime voyager autour du monde.
+
+12. Instruction: Remove all vowels from the input sentence.
+12. Input:
+The quick brown fox jumps over the lazy dog.
+12. Output:
+Th qck brwn fx jmps vr th lzy dg.
+
+13. Instruction: Provide three strategies for time management.
+13. Input:
+<noinput>
+13. Output:
+1. Prioritize tasks based on importance and deadlines.
+2. Break down large projects into smaller, manageable tasks.
+3. Schedule breaks and leisure time to prevent burnout.
+
+14. Instruction: Change the input sentence into a question.
+14. Input:
+She is going for a walk.
+14. Output:
+Is she going for a walk?
+
+15. Instruction: Write a haiku about nature.
+15. Input:
+<noinput>
+15. Output:
+Morning sun rises,
+Gentle breeze whispers through leaves,
+Nature wakes in peace.
+
+16. Instruction: Predict the consequence of reducing the price of a product.
+16. Input:
+<noinput>
+16. Output:
+A potential consequence of reducing the price of a product is increased sales volume, as the lower price may attract more customers.
+
+17. Instruction: Edit the following sentence to improve its grammatical structure.
+17. Input:
+Them boys should of studied more harder for tests.
+17. Output:
+Those boys should have studied harder for the tests.
+
+18. Instruction: List three ways to relieve stress.
+18. Input:
+<noinput>
+18. Output:
+1. Exercise or engage in physical activity.
+2. Practice deep breathing or meditation techniques.
+3. Connect with friends or loved ones for emotional support.
+
+19. Instruction: Summarize the overall message of the given quote.
+19. Input:
+"In three words I can sum up everything I've learned about life: it goes on." - Robert Frost
+19. Output:
+The overall message is that life continues despite challenges and hardships.
+
+20. Instruction: Rearrange the given words to form a coherent sentence.
+20. Input:
+dreams your follow always
+20. Output:
+Always follow your dreams.1. Instruction: Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no. 
+1. Input: 
+The next US president should be white.
+1. Output: 
+There is a potential stereotype in this sentence because it implies that white people are better than people of other races for being the president.
+
+2. Instruction: Sort the given list ascendingly. 
+2. Input: 
+List: [10, 2, 5, -4, 92, 101]
+2. Output: 
+[-4, 2, 5, 10, 92, 101]
+
+3. Instruction: Write a Python program to compute the sum of integers from k to n. 
+3. Input: 
+k = 3, n = 8
+3. Output: 
+def sum_integers(k, n):
+    sum = 0
+    for i in range(k, n+1):
+        sum += i
+    return sum
+
+sum_of_numbers = sum_integers(3, 8)
+print(sum_of_numbers)  #=> 33
+
+4. Instruction: Given a movie plot, determine its main genre.
+4. Input:
+In 1985 Hill Valley, young Marty McFly accidentally travels back in time to 1955 using a time machine built by his inventor friend Doc Brown. Marty must ensure his parents meet and fall in love, or he will cease to exist. But as he tries to put things right, he puts his own existence in jeopardy.
+4. Output:
+Adventure/Science Fiction
+
+5. Instruction: Rewrite the given paragraph using passive voice.
+5. Input:
+The dog bit the man. The man screamed in pain. Later, the owner apologized for his dog's actions.
+5. Output:
+The man was bitten by the dog. Pain was screamed by the man. Later, an apology was offered by the owner for his dog's actions.
+
+6. Instruction: Explain how to tie a shoelace in simple steps.
+6. Input:
+<noinput>
+6. Output:
+1. Start with both ends of the lace in your hands.
+2. Cross the laces and pull one end under the other, pulling tight to create a knot.
+3. Make a loop with one lace and hold it between your thumb and index finger.
+4. Wrap the other lace around the loop and pull it through, creating a second loop.
+5. Pull both loops tight to secure the knot.
+
+7. Instruction: Calculate the area of the triangle given the base and height.
+7. Input:
+Base: 8, Height: 5
+7. Output:
+Area: 20
+
+8. Instruction: Convert the given list of Celsius temperatures to Fahrenheit.
+8. Input:
+Celsius: [0, 15, 25, 30]
+8. Output:
+Fahrenheit: [32, 59, 77, 86]
+
+9. Instruction: Given a poem, identify the rhyme scheme.
+9. Input:
+Tyger Tyger, burning bright,
+In the forests of the night;
+What immortal hand or eye,
+Could frame thy fearful symmetry?
+9. Output:
+Rhyme Scheme: AABB
+
+10. Instruction: Condense the content of the given paragraph into a single sentence.
+10. Input:
+Alice, a young girl, is bored and drowsy while sitting on the riverbank with her sister. She spots a white rabbit with a pocket watch and a waistcoat muttering about how late he is getting. Intrigued by the unusual sight, Alice follows the rabbit down a rabbit hole, falling into a strange world.
+10. Output:
+Bored and drowsy, Alice spots a peculiar white rabbit with a pocket watch and follows it down a rabbit hole, entering a bizarre world.
+
+11. Instruction: Translate the given English sentence to French.
+11. Input:
+I love to travel around the world.
+11. Output:
+J'aime voyager autour du monde.
+
+12. Instruction: Remove all vowels from the input sentence.
+12. Input:
+The quick brown fox jumps over the lazy dog.
+12. Output:
+Th qck brwn fx jmps vr th lzy dg.
+
+13. Instruction: Provide three strategies for time management.
+13. Input:
+<noinput>
+13. Output:
+1. Prioritize tasks based on importance and deadlines.
+2. Break down large projects into smaller, manageable tasks.
+3. Use a calendar or planner to keep track of tasks, appointments, and important dates.
+
+14. Instruction: Change the input sentence into a question.
+14. Input:
+She is going for a walk.
+14. Output:
+Is she going for a walk?
+
+15. Instruction: Write a haiku about nature.
+15. Input:
+<noinput>
+15. Output:
+Morning sun rises,
+Gentle breeze whispers through leaves,
+Nature wakes in peace.
+
+16. Instruction: Predict the consequence of reducing the price of a product.
+16. Input:
+<noinput>
+16. Output:
+A potential consequence of reducing the price of a product is increased sales volume, as the lower price may attract more customers.
+
+17. Instruction: Edit the following sentence to improve its grammatical structure.
+17. Input:
+Them boys should of studied more harder for tests.
+17. Output:
+Those boys should have studied harder for the tests.
+
+18. Instruction: List three ways to relieve stress.
+18. Input:
+<noinput>
+18. Output:
+1. Exercise or engage in physical activity.
+2. Practice deep breathing or meditation techniques.
+3. Connect with friends or loved ones for emotional support.

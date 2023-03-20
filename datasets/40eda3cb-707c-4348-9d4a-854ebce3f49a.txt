@@ -1,0 +1,128 @@
+4. Instruction: Translate the given English sentence into French.
+4. Input: 
+"The quick brown fox jumps over the lazy dog."
+4. Output: 
+"Le renard brun rapide saute par-dessus le chien paresseux."
+
+5. Instruction: Rank these movie genres in the order of popularity (from most popular to least popular) based on your general understanding.
+5. Input: 
+"Documentary, Horror, Comedy, Sci-fi, Drama, Action"
+5. Output: 
+"Comedy, Action, Drama, Sci-fi, Horror, Documentary"
+
+6. Instruction: Identify any logical fallacies present in the given argument.
+6. Input: 
+"Everybody knows that vaccinations cause autism. My cousin's friend's sister didn't vaccinate her kids, and none of them have autism."
+6. Output: 
+This argument contains two logical fallacies: "ad populum" (appealing to popular belief) and "anecdotal evidence" (making conclusions based on personal experience).
+
+7. Instruction: What advice would you give to someone who wants to learn how to play the piano?
+7. Input: 
+<noinput>
+7. Output: 
+Start with finding a qualified teacher, invest in a quality piano or keyboard, set aside regular practice time, and learn music theory. Break pieces into smaller sections, practice scales and finger exercises, and be patient with your progress.
+
+8. Instruction: Write a brief story using the following words: astronaut, dinosaur, spaceship, time machine, volcano.
+8. Input: 
+<noinput>
+8. Output: 
+An astronaut named Tom was sent on a mission to explore a newly discovered planet. Upon landing his spaceship, he stumbled upon a hidden time machine. Curious, he decided to use it and found himself transported back to Earth's prehistoric era. There, he encountered dinosaurs roaming freely and lived through a time when volcanoes erupted violently. Tom learned to coexist with the creatures and used his knowledge of their behavior to avoid danger. He spent years in that time before finding a way to fix the time machine, returning to his spaceship with incredible tales to share.
+
+9. Instruction: Explain why rainfall is important for humans and the environment.
+9. Input: 
+<noinput>
+9. Output: 
+Rainfall is essential because it replenishes the Earth's freshwater supply, nourishing plants and providing water resources for humans, animals, and agriculture. It supports various ecosystems, helps maintain biodiversity, and aids in the breakdown and removal of pollutants in the atmosphere. Additionally, rain plays a crucial role in the Earth's water cycle, influencing climate and weather patterns globally.
+
+10. Instruction: What famous detective can you think of, and how would they solve the mystery of a stolen treasure?
+10. Input: 
+<noinput>
+10. Output: 
+Sherlock Holmes, a famous detective, would rely on his keen observation, logic, and deductive reasoning to solve the mystery of the stolen treasure. He would thoroughly examine the crime scene, gather necessary evidence, and interview witnesses,  drawing connections and uncovering hidden clues that others might overlook. By piecing together the information, Holmes could eventually identify the thief and recover the stolen treasure.
+
+11. Instruction: Correct any grammar, punctuation, or spelling mistakes in the given text.
+11. Input: 
+"I was walking home last night when I seen a strange figure, standing under the street lamp. Suddenly, it started to rain and I realized that i forgot my umbrella at home. Thankfully, the figure ofered me some shelter from the rain."
+11. Output: 
+"I was walking home last night when I saw a strange figure standing under the street lamp. Suddenly, it started to rain and I realized that I forgot my umbrella at home. Thankfully, the figure offered me some shelter from the rain."
+
+12. Instruction: Explain briefly how computers use binary code to represent and process data.
+12. Input: 
+<noinput>
+12. Output: 
+Computers use binary code – a system of 0s and 1s – to represent and process data because their electronic components operate in two states: on (1) and off (0). Data, such as numbers, letters, and symbols, are encoded in binary sequences which are easier for electronic circuits to process. Operations are performed using Boolean logic gates, manipulating the binary data as per the instructions and producing desired outputs.
+
+13. Instruction: Write a short poem about a starry night.
+13. Input: 
+<noinput>
+13. Output: 
+In the velvet arms of evening's embrace,
+A thousand crystal gems adorn the sky,
+A tapestry of midnight's tender grace,
+Silent witnesses of dreams drifting by.
+
+They shimmer and dance in celestial ballet,
+Their silent songs echoing through the night,
+A symphony of stories, secrets to convey,
+In an infinite canvas touched by silver light.
+
+But one among the multitude does shine,
+A beacon of hope amidst the distant throng,
+Its steadfast gaze, a promise to entwine,
+Our hearts to the heavens, where we belong.
+
+In the serenading calm of the starry night,
+We find solace, love, and universe's might.
+ 
+14. Instruction: List the ingredients needed to make chocolate chip cookies.
+14. Input: 
+<noinput>
+14. Output: 
+Butter, granulated sugar, brown sugar, eggs, vanilla extract, all-purpose flour, baking soda, salt, and chocolate chips.
+
+15. Instruction: Classify the given sentence as either a fact or an opinion.
+15. Input: 
+"Strawberries are the most delicious fruit."
+15. Output: 
+opinion
+
+16. Instruction: Write a friendly email to a colleague to schedule a lunch meeting.
+16. Input: 
+<noinput>
+16. Output: 
+Subject: Lunch Meeting This Week?
+
+Hi [Colleague's Name],
+
+I hope you're doing well! It's been a while since we last caught up, and I thought it would be nice to grab lunch together sometime this week. We can discuss any ongoing projects and simply chat about life outside work. 
+
+How about Wednesday or Thursday at 12:30 PM? Let me know which day works best for you, and we can decide on a place to meet. I'm looking forward to catching up and sharing a meal with you! 
+
+Best,
+[Your Name]
+
+17. Instruction: Rewrite the given sentence in passive voice.
+17. Input: 
+"John ate the last piece of pizza."
+17. Output: 
+"The last piece of pizza was eaten by John."
+
+18. Instruction: List three ways in which recycling benefits the environment.
+18. Input: 
+<noinput>
+18. Output: 
+1. Conserves natural resources: Recycling reduces the need to extract raw materials from the Earth, preserving finite resources.
+2. Reduces waste in landfills: Recycling diverts materials away from landfills, reducing waste and the release of harmful greenhouse gases.
+3. Saves energy: Recycling requires less energy than producing materials from raw sources, reducing overall energy consumption and greenhouse gas emissions.
+
+19. Instruction: Write a short intro for a blog post titled "10 Easy Ways to Boost Your Mental Health".
+19. Input: 
+<noinput>
+19. Output: 
+Welcome to our latest blog post, "10 Easy Ways to Boost Your Mental Health"! In this article, we'll discuss simple yet effective strategies to enhance your emotional wellbeing and create a positive mental health balance. With our increasingly hectic lives, it's more important than ever to prioritize self-care and cultivate habits that promote mental strength and resilience. Keep reading to discover practical tips you can incorporate into your daily routine, from mindfulness practices to exercise and more.
+
+20. Instruction: Identify the given book title's genre.
+20. Input: 
+"The Hunger Games"
+20. Output: 
+Dystopian Fiction

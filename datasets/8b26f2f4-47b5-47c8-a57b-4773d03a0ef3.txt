@@ -1,0 +1,52 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+The dog chased the cat.
+4. Output: 
+The cat was chased by the dog.
+###
+5. Instruction: Identify if the input text contains a biased statement. If yes, provide the corrected statement with neutral language. If no, write "no bias."
+5. Input: 
+Men are naturally better at math than women.
+5. Output: 
+Bias detected. Corrected statement: Individual mathematical abilities vary, regardless of gender.
+###
+6. Instruction: Suggest an alternative ending to the given story excerpt.
+6. Input: 
+Once upon a time, there was a poor woodcutter who lived with his wife and two children. They were so poor that they could hardly make ends meet. One day, the woodcutter's wife suggested that they should leave their children in the forest so they don't all starve to death. The woodcutter, heartbroken, agreed. The next day, they led Hansel and Gretel deep into the woods and left them there.
+6. Output: 
+Instead of agreeing to his wife's plan, the woodcutter decided to find more work to support his family. He approached the wealthy villagers and offered his services, while the children helped the elderly neighbors with their chores. Soon, the family's fortune improved, and they no longer had to worry about hunger. With love and determination, Hansel, Gretel, and their parents overcame their difficult circumstances and lived a happier life together.
+###
+7. Instruction: Predict which technology mentioned in this text will have the most significant impact on society.
+7. Input: 
+Several major technological advancements are on the horizon: self-driving cars, robotic factory workers, virtual reality entertainment systems, advanced gene-editing techniques, and powerful artificial intelligence.
+7. Output: 
+Advanced gene-editing techniques
+###
+8. Instruction: What are the three main components of a healthy diet?
+8. Input: 
+<noinput>
+8. Output: 
+1. Balance: consuming appropriate amounts of nutrients from various sources.
+2. Moderation: limiting the intake of unhealthy foods, sugary drinks, and alcohol.
+3. Variety: incorporating a mix of different types of fruits, vegetables, protein sources, and whole grains.
+###
+9. Instruction: Proofread the paragraph and correct spelling, grammar, and punctuation errors.
+9. Input: 
+The quikc brown fox jumps over the lazy doog. He quickly ran acros teh field, as the sun sets behind teh hills. They are best friends, but htey fight sometimes about whos faster.
+9. Output: 
+The quick brown fox jumps over the lazy dog. He quickly ran across the field, as the sun sets behind the hills. They are best friends, but they fight sometimes about who's faster.
+###
+10. Instruction: Reorganize the following steps in a logical order to make a sandwich.
+10. Input: 
+- Place the second slice of bread on top of the toppings.
+- Spread condiments on both slices of bread.
+- Assemble your desired toppings, such as cheese, lettuce, and tomato.
+- Cut the sandwich diagonally and serve.
+- Take out two slices of bread.
+
+10. Output: 
+1. Take out two slices of bread.
+2. Spread condiments on both slices of bread.
+3. Assemble your desired toppings, such as cheese, lettuce, and tomato.
+4. Place the second slice of bread on top of the toppings.
+5. Cut the sandwich diagonally and serve.

@@ -1,0 +1,151 @@
+4. Instruction: Generate a title and short description for a mystery novel. 
+4. Input: 
+A small town is rocked by the mysterious disappearance of its most beloved citizen. 
+4. Output:
+Title: Vanishing Point
+Description: When the town's beloved librarian goes missing, suspicion and paranoia tear a once tight-knit community apart. As secrets unravel and fingers point in every direction, the truth behind her disappearance becomes more elusive with every passing day.
+###
+5. Instruction: Find the antonym of the word "abundant". 
+5. Input: 
+<noinput>
+5. Output: 
+scarce
+###
+6. Instruction: Summarize the plot of the movie "The Dark Knight". 
+6. Input: 
+<noinput>
+6. Output: 
+The Joker wreaks havoc on Gotham City, forcing Batman to return from a self-imposed exile to stop his madness. As Batman races to stop him, he must also come to terms with his own limitations and decide what kind of hero he wants to be.
+###
+7. Instruction: Ask an open-ended question to prompt a conversation about someone's interests. 
+7. Input: 
+<noinput>
+7. Output: 
+What are some of your favorite hobbies or pastimes?
+###
+8. Instruction: Edit the following sentence to remove passive voice: "The cake was baked by Mary." 
+8. Input: 
+<noinput>
+8. Output: 
+Mary baked the cake.
+###
+9. Instruction: Generate a list of countries with their capital cities. 
+9. Input: 
+<noinput>
+9. Output: 
+1. Afghanistan - Kabul
+2. Argentina - Buenos Aires
+3. Australia - Canberra
+4. Brazil - Brasília
+5. Canada - Ottawa
+6. China - Beijing
+7. Egypt - Cairo
+8. France - Paris
+9. Germany - Berlin
+10. India - New Delhi
+11. Italy - Rome
+12. Japan - Tokyo
+13. Mexico - Mexico City
+14. Nigeria - Abuja
+15. Russia - Moscow
+16. South Africa - Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)
+17. Spain - Madrid
+18. United Kingdom - London
+19. United States - Washington, D.C.
+20. Venezuela - Caracas
+###
+10. Instruction: Write a sentence using the word "eschew". 
+10. Input: 
+<noinput>
+10. Output: 
+I prefer to eschew traditional methods in favor of more innovative approaches.
+###
+11. Instruction: Generate a pun using the word "book". 
+11. Input: 
+<noinput>
+11. Output: 
+I'm reading a book on anti-gravity. It's impossible to put down!
+###
+12. Instruction: Write an algorithm in Python for finding the largest number in a list. 
+12. Input: 
+[2, 8, 1, 6, 5]
+12. Output: 
+def find_largest(numbers):
+  largest = None
+  for number in numbers:
+    if largest is None or number > largest:
+      largest = number
+  return largest
+print(find_largest([2, 8, 1, 6, 5]))
+###
+13. Instruction: Generate a rhyming couplet with the words "moon" and "spoon". 
+13. Input: 
+<noinput>
+13. Output: 
+By the light of the moon is a romantic tune, as we dance together by the light of the spoon.
+###
+14. Instruction: Explain the concept of virtual memory in computer systems. 
+14. Input: 
+<noinput>
+14. Output: 
+Virtual memory is a feature of modern operating systems that allows a computer to compensate for shortages of physical memory by temporarily transferring pages of data from random access memory (RAM) to disk storage. This allows programs to run even when there isn't enough RAM available to hold all of the necessary data.
+###
+15. Instruction: Write a recipe for homemade pizza. 
+15. Input: 
+<noinput>
+15. Output: 
+Ingredients:
+1 pound pizza dough
+1/2 cup tomato sauce
+1/2 teaspoon salt
+1/2 teaspoon black pepper
+1 tablespoon olive oil
+1 cup shredded mozzarella cheese
+Toppings of your choice (pepperoni, mushrooms, onions, etc.)
+
+Instructions:
+1. Preheat the oven to 450°F.
+2. Roll out the pizza dough on a lightly floured surface until it's the desired thickness.
+3. Transfer the pizza dough to a lightly oiled baking sheet.
+4. Spread the tomato sauce evenly over the pizza dough, leaving a 1/4 inch border around the edges.
+5. Sprinkle the salt and pepper over the tomato sauce, followed by the shredded mozzarella cheese.
+6. Add your favorite toppings to the pizza.
+7. Drizzle the pizza with the olive oil.
+8. Bake the pizza for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.
+9. Slice and serve hot.
+###
+16. Instruction: Provide a definition for the term "omniscient". 
+16. Input: 
+<noinput>
+16. Output: 
+Omniscient refers to having complete and unlimited knowledge or understanding of all things.
+###
+17. Instruction: Rewrite the following sentence to remove the comma splice: "I went to the store, I bought some milk." 
+17. Input: 
+<noinput>
+17. Output: 
+I went to the store and bought some milk.
+###
+18. Instruction: Describe the difference between a cactus and a succulent. 
+18. Input: 
+<noinput>
+18. Output: 
+All cacti are succulents, but not all succulents are cacti. Cacti are distinguished by their areoles, which are unique anatomical features that allow the cactus to develop spines, branches, and flowers. Succulents are plants that are adapted to survive in hot, arid environments by storing water in their leaves or stems.
+###
+19. Instruction: Generate a list of the seven wonders of the ancient world. 
+19. Input: 
+<noinput>
+19. Output: 
+1. Great Pyramid of Giza
+2. Hanging Gardens of Babylon
+3. Temple of Artemis at Ephesus
+4. Statue of Zeus at Olympia
+5. Mausoleum at Halicarnassus
+6. Colossus of Rhodes
+7. Lighthouse of Alexandria
+###
+20. Instruction: Ask a question to prompt a conversation about someone's travel experiences. 
+20. Input: 
+<noinput>
+20. Output: 
+What's the most interesting place you've ever been to, and what made it so memorable?

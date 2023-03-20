@@ -1,0 +1,65 @@
+4. Instruction: Rewrite the following passage without using any contractions.
+4. Input: 
+It's a beautiful day, isn't it? I'm enjoying the sunshine, and I can't believe how warm it is for this time of year. If you're not careful, you'll get a sunburn!
+4. Output: 
+It is a beautiful day, is it not? I am enjoying the sunshine, and I cannot believe how warm it is for this time of year. If you are not careful, you will get a sunburn!
+###
+5. Instruction: Calculate the average of the numbers below and round the result to two decimal places.
+5. Input: 
+13, 27, 32, 19, 41
+5. Output: 
+26.40
+###
+6. Instruction: Provide a simple recipe for making spaghetti alla carbonara for two.
+6. Input: 
+<noinput>
+6. Output: 
+Ingredients:
+- 200g spaghetti
+- 2 large eggs
+- 50g grated pecorino cheese
+- 50g grated Parmesan cheese
+- 150g pancetta or guanciale, diced
+- 1 garlic clove
+- Salt and black pepper
+
+Instructions:
+1. Cook spaghetti in a large pot of salted boiling water until al dente. Drain and set aside, reserving ⅔ cup of pasta water.
+2. In a bowl, whisk together eggs, pecorino, and Parmesan cheese. Season with black pepper.
+3. In a large skillet, cook pancetta over medium heat until crispy. Add garlic and cook for 1 minute. Remove skillet from heat.
+4. Add cooked spaghetti to the skillet and mix well with pancetta and garlic.
+5. Slowly add the egg and cheese mixture to the spaghetti, stirring constantly, to create a creamy sauce. Add reserved pasta water as needed to thin the sauce.
+6. Season with salt and black pepper to taste. Serve immediately.
+###
+7. Instruction: Translate the following sentence into French.
+7. Input: 
+Please close the door, it's cold outside.
+7. Output: 
+S'il vous plaît, fermez la porte, il fait froid dehors.
+###
+8. Instruction: Find the rhyming words within the following lines of the poem.
+8. Input: 
+The sun was shining on the sea,
+         Shining with all his might:
+He did his very best to make
+         The billows smooth and bright –
+And this was odd, because it was
+         The middle of the night.
+8. Output: 
+sea, he; might, bright; make, was; odd, because
+###
+9. Instruction: Create a brief summary of the news article below.
+9. Input: 
+In a bid to improve road safety and reduce fuel consumption, the European Union has announced that all new cars will be required to have built-in speed limiters by 2022. In addition to the speed limiters, emergency braking, data loggers, and warning systems for driver fatigue and distraction will be made mandatory for all new vehicles from 2022.
+
+The move has been met with mixed reactions, with road safety advocates praising the decision, while some motorists have voiced concerns over the restriction of personal freedoms. Opponents argue that speed limiters may diminish driver attentiveness, leading to an increased risk of accidents. However, the European Transport Safety Council believes the measures could save 25,000 lives within 15 years.
+9. Output: 
+The European Union announced that by 2022, all new cars must have built-in speed limiters, emergency braking, data loggers, and driver fatigue warning systems. The decision aims to improve road safety and reduce fuel consumption. While road safety advocates support the move, some motorists argue that it restricts personal freedoms and may reduce driver attentiveness. The European Transport Safety Council estimates the measures could save 25,000 lives in 15 years.
+###
+10. Instruction: Identify three primary differences between the two different bird species called the House Finch and the Purple Finch.
+10. Input: 
+<noinput>
+10. Output: 
+1. Coloration: House Finches have a duller red, orange, or yellow color on their head, chest, and rump, while Purple Finches have a more vibrant raspberry-red color.
+2. Patterns: House Finches have streaky brown patterns on their flanks and belly, whereas Purple Finches have bold, dark streaks.
+3. Habitat: House Finches are commonly found in urban and suburban areas, while Purple Finches prefer forests and woodland habitats.

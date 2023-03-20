@@ -1,0 +1,167 @@
+4. Instruction: Identify two themes of the given song lyrics.
+4. Input: 
+Oh, to see without my eyes
+The first time that you kissed me
+Boundless by the time I cried
+I built your walls around me
+5. Output: 
+Love and vulnerability.
+
+###
+5. Instruction: What is the capital city, population, and language spoken in the country?
+5. Input: 
+<noinput>
+5. Output: 
+Please specify the country for which you would like this information.
+
+###
+6. Instruction: Proofread and correct any grammatical mistakes in the following paragraph.
+6. Input: 
+I waked up late today. I couldnt believe it. Weather was cloudy, and I have to reach office in time.
+6. Output: 
+I woke up late today. I couldn't believe it. The weather was cloudy, and I had to reach the office on time.
+
+###
+7. Instruction: Provide a list of ingredients for a vegetarian lasagna.
+7. Input: 
+<noinput>
+7. Output: 
+1. Lasagna noodles
+2. Olive oil
+3. Onion
+4. Garlic
+5. Tomato sauce
+6. Salt
+7. Black pepper
+8. Italian seasoning
+9. Zucchini
+10. Bell peppers
+11. Mushrooms
+12. Ricotta cheese
+13. Mozzarella cheese
+14. Parmesan cheese
+15. Fresh basil
+
+###
+8. Instruction: Summarize in three bullet points the article's main points.
+8. Input: 
+The impact of sleep on mental health is extremely important to understand, especially in today's fast-paced world. A lack of sleep not only leads to physical health issues but also has a substantial impact on mental health. According to recent studies, sleep deprivation can lead to a number of mental health issues such as depression, anxiety, and even suicidal thoughts. Moreover, sleep disturbances can exacerbate existing mental health conditions in individuals. On the other hand, consistent, high-quality sleep can help improve emotional regulation, cognitive function, and overall mental well-being. Health professionals highly recommend prioritizing sleep to maintain good mental health.
+8. Output: 
+- Lack of sleep leads to mental health issues like depression and anxiety
+- Sleep disturbances worsen existing mental health conditions
+- High-quality sleep improves emotional regulation and cognitive functions
+
+###
+9. Instruction: Suggest a fitness plan for a beginner looking to exercise for 30 minutes a day, 5 days a week.
+9. Input: 
+<noinput>
+9. Output: 
+1. Monday: 10 min brisk walk warm-up, 15 min bodyweight exercises, 5 min cool down/stretching
+2. Tuesday: 30 min low-impact cardio (e.g., cycling, swimming)
+3. Wednesday: Rest day
+4. Thursday: 10 min brisk walk warm-up, 15 min bodyweight exercises, 5 min cool down/stretching
+5. Friday: 30 min low-impact cardio (e.g., cycling, swimming)
+6. Saturday: Active rest day (e.g., Yoga or Pilates)
+7. Sunday: Full rest day
+
+###
+10. Instruction: Translate the following sentence into French.
+10. Input: 
+I love to travel and explore new cultures.
+10. Output: 
+J'aime voyager et découvrir de nouvelles cultures.
+
+###
+11. Instruction: What advantages can be derived from using solar energy?
+11. Input: 
+<noinput>
+11. Output: 
+1. Renewable and constant energy source
+2. Lower electricity bills
+3. Environmentally friendly
+4. Low maintenance costs
+5. Diverse applications (e.g., heating, electricity, water)
+6. Decentralized power generation
+7. Job creation in the solar industry
+
+###
+12. Instruction: Write an introductory paragraph for an essay on the effects of social media on society.
+12. Input: 
+<noinput>
+12. Output: 
+Social media has rapidly transformed modern society, shaping the way people communicate, learn, and interact with one another. The proliferation of platforms such as Facebook, Instagram, and Twitter has led to a paradigm shift in social dynamics, changing the way individuals present themselves and forge relationships. While social media can foster connection and deliver information quickly, it also harbors potential risks and unintended consequences. This essay will explore the far-reaching effects of social media on society, from the perspective of mental health, politics, business, and personal lives.
+
+###
+13. Instruction: List the materials needed to build a small greenhouse.
+13. Input: 
+<noinput>
+13. Output: 
+1. Greenhouse frame (aluminum or steel)
+2. Transparent covering material (glass or polycarbonate)
+3. Weather stripping
+4. Ventilation system (windows, exhaust fans, or vents)
+5. Foundation (concrete, wood or raised bed)
+6. Shelves or tables for holding plants
+7. Heating system (if needed)
+8. Watering system (hose, drip irrigation, or automated)
+9. Fasteners (nuts, bolts, screws)
+10. Tools (drill, saw, level, measuring tape)
+
+###
+14. Instruction: Write three arguments in favor of implementing a universal basic income.
+14. Input: 
+<noinput>
+14. Output: 
+1. Poverty reduction: A universal basic income could help alleviate poverty by providing a financial safety net for everyone, regardless of employment or income.
+2. Economic stimulus: By ensuring that everyone has a minimum level of income, consumer spending and demand might increase, stimulating economic growth.
+3. Simplification of welfare system: A universal basic income could replace several complex welfare programs, streamlining bureaucracy, and reducing administrative overhead.
+
+###
+15. Instruction: Describe three common symptoms of the common cold.
+15. Input: 
+<noinput>
+15. Output: 
+1. Runny or stuffy nose
+2. Sore throat
+3. Cough
+
+###
+16. Instruction: Outline a basic five-paragraph essay structure.
+16. Input: 
+<noinput>
+16. Output: 
+1. Introduction: Hook, brief background information, and thesis statement
+2. Body Paragraph 1: Topic sentence, supporting evidence, analysis, and concluding sentence
+3. Body Paragraph 2: Topic sentence, supporting evidence, analysis, and concluding sentence
+4. Body Paragraph 3: Topic sentence, supporting evidence, analysis, and concluding sentence
+5. Conclusion: Restate thesis, summarize main points, and provide a closing thought
+
+###
+17. Instruction: Calculate the square footage of a room with the following dimensions.
+17. Input: 
+Length: 20 feet
+Width: 12 feet
+17. Output: 
+240 square feet
+
+###
+18. Instruction: Provide the primary colors in additive and subtractive color models.
+18. Input: 
+<noinput>
+18. Output: 
+Additive: Red, green, and blue (RGB)
+Subtractive: Cyan, magenta, and yellow (CMY)
+
+###
+19. Instruction: Write a short, motivational speech for a group of students preparing for their final exams.
+19. Input: 
+<noinput>
+19. Output: 
+Dear students, as you embark on the journey of final exams, remember that this is a pivotal moment in your academic careers. It's a test of not only your knowledge but also of your discipline, determination, and resilience. Embrace the challenges with a positive mindset and give it your all. Stay focused, believe in yourselves, and don't hesitate to ask for help when needed. You have the power to create your own success story, and with hard work and dedication, you can overcome any obstacle. Good luck, and here's to a successful exam season!
+
+###
+20. Instruction: Describe what is meant by "opportunity cost" in economics.
+20. Input: 
+<noinput>
+20. Output: 
+In economics, opportunity cost refers to the value of the next best alternative that is forgone when a decision is made. It represents the potential benefits an individual or business misses out on when choosing one option over another.

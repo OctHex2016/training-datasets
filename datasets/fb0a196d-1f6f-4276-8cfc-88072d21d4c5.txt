@@ -1,0 +1,108 @@
+4. Instruction: Turn this statement into a question.
+4. Input: 
+The movie starts at 9 pm.
+4. Output: 
+Does the movie start at 9 pm?
+###
+5. Instruction: Summarize the main point of this paragraph.
+5. Input:
+Climate change is a significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years. It may be a change in average weather conditions or the distribution of events around that average. Human activities, such as the burning of fossil fuels and deforestation, have accelerated the natural greenhouse effect, leading to an increase in Earth's average temperature and contributing to global climate change.
+5. Output:
+Climate change refers to long-term alterations in weather patterns, and human activities like burning fossil fuels and deforestation have exacerbated this phenomenon by intensifying the greenhouse effect and increasing Earth's average temperature.
+###
+6. Instruction: Modify the given text to change the point of view from first-person to third-person.
+6. Input:
+I went to the park and I played basketball with my friends.
+6. Output:
+He went to the park and played basketball with his friends.
+###
+7. Instruction: List three main tourist attractions in Washington, D.C.
+7. Input:
+<noinput>
+7. Output:
+1. The White House
+2. The Lincoln Memorial
+3. The Smithsonian National Museum of Natural History
+###
+8. Instruction: Give an appropriate title for this short story.
+8. Input:
+John is a middle-aged man who works as an accountant but struggles with his daily routine, growing tired of his mundane life. One day, he discovers a hidden door in his bedroom, which leads him to a secret garden full of magical creatures. In the garden, he finds a purpose and a renewed zest for life.
+8. Output:
+"The Enchanted Garden: John's Magical Escape"
+###
+9. Instruction: Write a sequel hook for the following movie synopsis.
+9. Input:
+In "Time Hopper," Alex, a young woman, discovers a watch that allows her to travel through time effortlessly. Using her newfound power, she solves historical mysteries and helps people in danger. In the final scene, she loses the watch during an intense chase, leaving her stranded and facing an uncertain future.
+9. Output:
+In "Time Hopper 2: The Lost Watch," Alex faces new challenges in her quest to retrieve her powerful time-traveling watch. She must unravel a dangerous conspiracy, overcome a relentless antagonist, and ultimately confront the harsh reality of manipulating time itself.
+###
+10. Instruction: Arrange these historical events in chronological order.
+10. Input:
+The invention of the telephone, The American Revolution, The Moon landing, The Fall of the Roman Empire
+10. Output:
+1. The Fall of the Roman Empire
+2. The American Revolution
+3. The invention of the telephone
+4. The Moon landing
+###
+11. Instruction: Identify the grammatical error in this sentence and correct it.
+11. Input:
+Me and Sarah went to the store.
+11. Output:
+Sarah and I went to the store.
+###
+12. Instruction: Suggest an alternative ending to this story.
+12. Input:
+Two friends, Tony and Mike, were lost in the forest. As night fell and the temperature dropped, they desperately searched for shelter. They eventually found an abandoned hut, and with hope in their hearts, they forced the door open. But that door led them to a world where they were forever trapped.
+12. Output:
+Two friends, Tony and Mike, were lost in the forest. As night fell and the temperature dropped, they desperately searched for shelter. They eventually found an abandoned hut, and with hope in their hearts, they forced the door open. Inside, they discovered a hidden map that guided them safely back home, and their ordeal in the forest became a life-changing adventure they never forgot.
+###
+13. Instruction: Write a haiku about a peaceful summer evening.
+13. Input:
+<noinput>
+13. Output:
+Warm breeze whispers low
+Sunset paints the sky above
+Nature's symphony
+###
+14. Instruction: Compare and contrast cats and dogs as pets.
+14. Input:
+<noinput>
+14. Output:
+Cats tend to be independent and low-maintenance, requiring minimal supervision, while dogs often require more attention and exercise, making them more of an active companion. Cats are known for their quiet nature and self-grooming habits, whereas dogs can be loud and need regular baths. Both animals provide companionship and love, but preferences between them are often subjective, depending on an individual's desired level of responsibility and interaction.
+###
+15. Instruction: Identify the main topic of this passage.
+15. Input:
+The Mediterranean diet is a plant-based diet that emphasizes fruits, vegetables, whole grains, beans, nuts, seeds, and olive oil. Meat, dairy, and sweets are consumed in moderation, while fish and poultry are eaten more frequently. This diet has been associated with numerous health benefits, such as reduced risk of heart disease, improved weight management, and better cognitive functions.
+15. Output: 
+The main topic of this passage is the Mediterranean diet and its benefits.
+###
+16. Instruction: Provide a potential solution for the problem presented in the sentence.
+16. Input:
+People often struggle with balancing work and personal life, leading to high levels of stress and burnout.
+16. Output:
+One potential solution for this problem is to promote better work-life balance through time management, setting boundaries between work and personal time, and prioritizing self-care and relaxation.
+###
+17. Instruction: Convert this text message into formal language.
+17. Input:
+hey dude, I need ur help on this math problem cuz I'm so confused.
+17. Output:
+Dear friend, I require your assistance in understanding this mathematical problem, as I am experiencing confusion.
+###
+18. Instruction: Find the missing word in the following proverb.
+18. Input:
+A ___ in hand is worth two in the bush.
+18. Output:
+A bird in hand is worth two in the bush.
+###
+19. Instruction: Describe how, in general, water moves through the water cycle. 
+19. Input:
+<noinput>
+19. Output:
+The water cycle consists of several interconnected processes: evaporation, transpiration, condensation, precipitation, and infiltration. Water evaporates from the Earth's surface into the atmosphere, and plants release water vapor through transpiration. The water vapor in the atmosphere then condenses to form clouds. Once the clouds' water droplets combine to a sufficient size, precipitation occurs in the form of rain, snow, or other forms. The precipitated water either infiltrates the ground or runs off into rivers and oceans, returning to the start of the cycle.
+###
+20. Instruction: State the primary responsibility of a software engineer.
+20. Input:
+<noinput>
+20. Output:
+The primary responsibility of a software engineer is designing, coding, testing, and maintaining software applications and systems to meet user requirements and solve problems.

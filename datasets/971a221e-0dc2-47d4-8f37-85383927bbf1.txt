@@ -1,0 +1,45 @@
+4. Instruction: Summarize the given article in 2-3 sentences.
+4. Input: 
+Bitcoin has risen past the $60,000 mark once again, reaching an all-time high of $61,742 on Saturday, March 14, 2021. The cryptocurrency has been enjoying a steady increase in value over the past few months, partly driven by increased interest from institutional investors and adoption from major companies like Tesla, which has added Bitcoin to its balance sheet.
+
+4. Output: 
+Bitcoin hit an all-time high of $61,742 on March 14, 2021, surpassing $60,000. The surge in value is partly attributed to institutional investors' growing interest and major companies like Tesla adopting the cryptocurrency.
+
+5. Instruction: Proofread and correct any grammar errors in the following paragraph.
+5. Input: 
+It is a truth universaly acknowledged, that a single man possession of a fortune must be in want of a wife. However little known the feelings or views of such a man may be upon his first entering a nieghborhood, this truth is so well fixed in the minds of the surrounding families, that he is consider as the rightful property of some one or other of their daughters.
+
+5. Output: 
+It is a truth universally acknowledged, that a single man in possession of a fortune must be in want of a wife. However little known the feelings or views of such a man may be upon his first entering a neighborhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.
+
+6. Instruction: Choose the most suitable conclusion for the given paragraph.
+6. Input: 
+With the advancement of technology and globalization, the world has become increasingly connected. Communication through various platforms like emails, social media, and instant messaging has enabled people to stay in touch with each other even if they are in different parts of the world. This level of connectivity has greatly impacted the way people interact with each other, as well as the way businesses operate.
+
+Possible conclusions:
+A) Given these benefits, it is evident that technological advancements have contributed significantly to humanity's progress and development.
+B) It can be concluded that technology and globalization have allowed people to remain disconnected despite living in the same neighborhood.
+C) In conclusion, technology has isolated people and made face-to-face communication redundant.
+D) Therefore, the negative impacts of technology on human interactions must be critically assessed and mitigated.
+
+6. Output: 
+A) Given these benefits, it is evident that technological advancements have contributed significantly to humanity's progress and development.
+
+7. Instruction: Write a brief review of the movie "The Shawshank Redemption."
+7. Input: 
+<noinput>
+7. Output: 
+"The Shawshank Redemption" is a remarkable movie that tells the story of redemption, friendship, and perseverance through the lives of two inmates, Andy Dufresne and Ellis 'Red' Redding. Directed by Frank Darabont and based on the novella by Stephen King, the film boasts outstanding performances by Tim Robbins and Morgan Freeman. Despite its dark prison setting, the movie inspires viewers by its message of hope and displays of the human spirit's resilience. Highly recommended for its impeccable storytelling and memorable character development.
+
+8. Instruction: Translate the following English sentence to French: "Please make sure to turn off the lights before leaving the room."
+8. Input: 
+<noinput>
+8. Output: 
+Veuillez vous assurer d'éteindre les lumières avant de quitter la pièce.
+
+9. Instruction: Identify which animal is shown in the following description from an encrypted message. The message contains words in reverse order: "deretaw taerg, sksat egral gnimrofrep, ydiolgnats elethgim."
+
+9. Input: 
+<noinput>
+9. Output: 
+Elephant

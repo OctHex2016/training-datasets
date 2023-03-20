@@ -1,0 +1,107 @@
+4. Instruction: Write a creative social media caption for a photograph of a person sitting in a cozy coffee shop, enjoying a rainy day.
+4. Input: <noinput>
+4. Output: 
+"Raindrops, coffee shop stops ☕️🌧️ – embracing life's cozy moments, one sip at a time."
+
+5. Instruction: Edit the paragraph to correct spelling, grammar, and punctuation.
+5. Input: 
+Struggling too oftenwith followwing the instructions four his testing kit, Jack couldn't seem to find a conclusive result for his recent experiment: Ideally, That must not had happened, because proper documentation and procedure was crucial. 
+5. Output: 
+Struggling too often with following the instructions for his testing kit, Jack couldn't seem to find a conclusive result for his recent experiment. Ideally, that must not have happened because proper documentation and procedure were crucial.
+
+6. Instruction: What is the main point of the given argument and what are the supporting points?
+6. Input: 
+Single-use plastic bags are proven to have a negative impact on the environment. They take a long time to degrade, thereby causing harm to soil and marine life. The production of plastic bags also releases harmful chemicals, affecting the quality of air and water. Some countries have already banned or restricted the use of plastic bags, resulting in a positive change for their local ecosystems. Therefore, it is crucial for more countries to implement a similar ban.
+6. Output: 
+Main point: It is crucial for more countries to implement a similar ban on single-use plastic bags.
+Supporting points:
+1. Single-use plastic bags take a long time to degrade and cause harm to soil and marine life.
+2. Production of plastic bags releases harmful chemicals affecting air and water quality.
+3. Some countries have already experienced positive changes due to banning or restricting plastic bags.
+
+7. Instruction: Translate the following sentence to French.
+7. Input: 
+I love spending time with my family during the holidays.
+7. Output: 
+J'adore passer du temps avec ma famille pendant les vacances.
+
+8. Instruction: Suggest a healthier alternative to the dish mentioned.
+8. Input: 
+Fried chicken with a side of mashed potatoes and gravy.
+8. Output: 
+Grilled chicken with a side of steamed veggies and brown rice.
+
+9. Instruction: Provide a summary of the given plot in 50 words or fewer.
+9. Input: 
+In the small town of Maycomb, Alabama, Scout Finch and her brother Jem are raised by their widowed father, Atticus, a lawyer. The story covers three years, during which the siblings become friends with a boy named Dill. Together, the children explore and have wild fantasies about a mysterious man named Boo Radley, who is seldom seen. When a black man named Tom Robinson is accused of raping a white woman, Atticus takes on the case, despite racial tensions in the town. Through this trial, Scout and Jem learn about the harsh realities of racism, prejudice, and moral courage.
+9. Output: 
+Scout and Jem Finch explore their town, befriend Dill, and imagine a mysterious man, Boo Radley. Their father Atticus, a lawyer, defends a black man accused of rape, exposing the siblings to racism, prejudice, and moral courage.
+
+10. Instruction: Is the given statement an assumption, a fact or an opinion? Identify its nature.
+10. Input: 
+Reading books is the best way to gain knowledge.
+10. Output: 
+Opinion
+
+11. Instruction: Write a question about a person's experience visiting a tourist destination.
+11. Input: <noinput>
+11. Output: 
+What was your favorite part of visiting the Grand Canyon, and why did it leave a lasting impression on you?
+
+12. Instruction: Rewrite the given sentence in passive voice.
+12. Input: 
+The company rewarded its employees with bonuses.
+12. Output: 
+The employees were rewarded with bonuses by the company.
+
+13. Instruction: Choose the best synonym for the word in the context.
+13. Input: 
+She felt a surge of happiness when she heard the good news.
+A) wave
+B) rush
+C) boost
+D) spike
+13. Output: 
+B) rush
+
+14. Instruction: Provide a metaphor for the given concept.
+14. Input: 
+Time
+14. Output: 
+Time is a river, constantly flowing and never stopping.
+
+15. Instruction: Identify the logical fallacy in the argument.
+15. Input: 
+You can't trust John's opinion on the new product; he didn't even go to college!
+15. Output: 
+Ad Hominem
+
+16. Instruction: Write a Haiku about nature.
+16. Input: <noinput>
+16. Output: 
+Gentle winds whisper
+Leaves dance, autumn's warm embrace
+Nature's breath, serene
+
+17. Instruction: Correct any factual error(s) in the provided fact.
+17. Input: 
+The Statue of Liberty was a gift from Greece to the United States.
+17. Output: 
+The Statue of Liberty was a gift from France to the United States.
+
+18. Instruction: Propose a title for an article discussing the importance of mental health in the workplace.
+18. Input: <noinput>
+18. Output: 
+"Thriving at Work: The Crucial Impact of Mental Health on Workplace Success"
+
+19. Instruction: Identify whether the historical event mentioned is true or false.
+19. Input: 
+Albert Einstein developed the atomic bomb.
+19. Output: 
+False
+
+20. Instruction: Merge the two given sentences into one coherent sentence.
+20. Input: 
+Mary started a gardening project. She wanted to grow her own vegetables.
+20. Output: 
+Mary started a gardening project to grow her own vegetables.

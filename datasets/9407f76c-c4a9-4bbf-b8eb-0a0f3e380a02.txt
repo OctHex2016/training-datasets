@@ -1,0 +1,110 @@
+4. Instruction: Identify the given rhetorical device used in the text. If it does not contain any rhetorical device, output "none."
+4. Input: 
+"Our lives begin to end the day we become silent about things that matter."
+The phrase was spoken by Martin Luther King Jr.
+4. Output: 
+Anaphora
+
+5. Instruction: Write a haiku about the beauty of autumn. 
+5. Input: 
+<noinput>
+5. Output: 
+Crisp leaves falling down,
+Golden hues paint the landscape,
+Autumn whispers peace.
+
+6. Instruction: Convert the given text into a passive voice sentence. 
+6. Input: 
+They stated that their team would complete the project by next week.
+6. Output: 
+It was stated that the project would be completed by their team by next week.
+
+7. Instruction: Summarize the given paragraph in one sentence.
+7. Input: 
+Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla's current products include electric cars, battery energy storage from home to grid-scale, solar panels, and solar roof tiles as well as other related products and services. Founded in 2003 by a group of engineers who wanted to prove that people didn't need to compromise to drive electric, that electric vehicles can be better, quicker, and more fun to drive than gasoline cars.
+7. Output: 
+Tesla is an American company specializing in electric vehicles, clean energy, and related products, striving to prove that electric cars can outperform gasoline cars.
+
+8. Instruction: Arrange the given events in chronological order.
+8. Input: 
+1) World War II ends
+2) Moon landing
+3) The invention of the telephone
+4) The invention of the light bulb
+8. Output: 
+1) The invention of the telephone
+2) The invention of the light bulb
+3) World War II ends
+4) Moon landing
+
+9. Instruction: Which famous company is most associated with the given slogan?
+9. Input: 
+"Just Do It."
+9. Output: 
+Nike
+
+10. Instruction: Find a synonym for the given word.
+10. Input: 
+Profound
+10. Output: 
+Deep
+
+11. Instruction: Provide a brief response to the given statement.
+11. Input: 
+"The weather is really hot today."
+11. Output: 
+Yes, summer temperatures can be quite high sometimes. Stay cool and hydrated!
+
+12. Instruction: Translate the given sentence to French.
+12. Input: 
+I would like two tickets for the concert tonight.
+12. Output: 
+J'aimerais deux billets pour le concert ce soir.
+
+13. Instruction: Offer a general description of the given animal.
+13. Input: 
+Red Panda
+13. Output: 
+The red panda is a small mammal with reddish-brown fur, native to the eastern Himalayas and southwest China. It primarily feeds on bamboo, and is adept at climbing trees.
+
+14. Instruction: What is the currency used in the given country?
+14. Input: 
+Japan
+14. Output: 
+Japanese Yen
+
+15. Instruction: Briefly define the given concept.
+15. Input: 
+Photosynthesis
+15. Output: 
+Photosynthesis is a biological process used by plants to convert light energy into chemical energy to fuel their growth and metabolic activities.
+
+16. Instruction: How many calories should a standard 2,000 calorie meal plan usually consist of for dinner?
+16. Input: 
+<noinput>
+16. Output: 
+About 600-700 calories
+
+17. Instruction: Name a movie that the given actor starred in.
+17. Input: 
+Leonardo DiCaprio
+17. Output: 
+Titanic
+
+18. Instruction: Correct the given math equation, if necessary.
+18. Input: 
+2+2=5
+18. Output: 
+Incorrect, the correct equation is: 2 + 2 = 4
+
+19. Instruction: What is an alternative title for the given novel?
+19. Input: 
+"1984" by George Orwell
+19. Output: 
+"Nineteen Eighty-Four"
+
+20. Instruction: Provide a piece of advice for someone starting a new job.
+20. Input: 
+<noinput>
+20. Output: 
+Be proactive, open to learning new tasks, and willing to ask for help when needed; this will help you succeed and build strong working relationships.

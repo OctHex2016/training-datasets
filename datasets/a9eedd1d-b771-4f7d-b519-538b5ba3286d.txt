@@ -1,0 +1,114 @@
+4. Instruction: Write a haiku poem about nature.
+4. Input: <noinput>
+4. Output: 
+Green leaves slowly turn
+Rustling whispers fill the breeze
+Autumn's breath unveiled
+###
+5. Instruction: Translate the given text into German. 
+5. Input: 
+I want to learn how to swim.
+5. Output: 
+Ich möchte schwimmen lernen.
+###
+6. Instruction: Correct the punctuation of the given passage.
+6. Input: 
+Going to a picnic with friends is always a lot of fun there is food games and bonding with your close buddies one of the best things about picnics is playing frisbee while others prepare the meal
+6. Output: 
+Going to a picnic with friends is always a lot of fun. There is food, games, and bonding with your close buddies. One of the best things about picnics is playing frisbee while others prepare the meal.
+###
+7. Instruction: Classify the following topic into a subject category.
+7. Input: 
+Photosynthesis in plants
+7. Output: 
+Biology
+###
+8. Instruction: Write a motivational quote about reaching goals.
+8. Input: <noinput>
+8. Output: 
+"Don't limit your challenges, challenge your limits. Step by step, you will conquer your dreams."
+###
+9. Instruction: Determine the main problem in the given situation and suggest a solution.
+9. Input: 
+Jane's roommate constantly plays loud music when Jane is trying to study, making it very hard for Jane to concentrate.
+9. Output: 
+Problem: Roommate's loud music disrupts Jane's ability to study.
+Solution: Jane can have a conversation with her roommate to establish quiet hours or ask her to wear headphones while playing music during study times.
+###
+10. Instruction: Expand the acronym in the given sentence.
+10. Input: 
+The DJ played the latest EDM tracks at the party.
+10. Output: 
+The DJ played the latest Electronic Dance Music tracks at the party.
+###
+11. Instruction: Identify the logical fallacy in the provided argument.
+11. Input: 
+If we allow students to have free access to the internet, they will just waste their time playing games and watching videos. Thus, we should not allow students to access the internet at all.
+11. Output: 
+Slippery slope fallacy
+###
+12. Instruction: Provide 3 potential causes for the described issue.
+12. Input: 
+People often experience increased stress levels during the holiday season.
+12. Output: 
+1. Financial pressure from holiday expenses
+2. Overwhelming social obligations
+3. Struggling with family dynamics or missing loved ones
+###
+13. Instruction: Create a simile to describe the given object.
+13. Input: 
+A strong wind
+13. Output: 
+The strong wind rushed through the trees like a speeding train.
+###
+14. Instruction: Fill in the missing link in the given analogy. A:B::C:D
+14. Input: 
+A: doctor, B: stethoscope, C: carpenter
+14. Output: 
+D: hammer
+###
+15. Instruction: Convert the provided information into a single sentence with proper grammatical structure.
+15. Input: 
+Name: Megan
+Age: 32
+City: New York
+Occupation: Architect
+Hobby: Painting
+15. Output: 
+Megan, a 32-year-old architect from New York City, enjoys painting in her spare time.
+###
+16. Instruction: Write a short recommendation for the given movie.
+16. Input: 
+Movie Title: Interstellar
+Directed by: Christopher Nolan
+Starring: Matthew McConaughey, Anne Hathaway, Jessica Chastain
+Released: 2014
+Genre: Science fiction, Adventure
+16. Output: 
+If you love thought-provoking science fiction films with stunning visuals, you should definitely watch Christopher Nolan's Interstellar – a thrilling adventure through space with superb performances by Matthew McConaughey, Anne Hathaway, and Jessica Chastain.
+###
+17. Instruction: List 3 benefits of the given activity.
+17. Input: 
+Regular exercise
+17. Output: 
+1. Improves physical health and reduces risk of chronic diseases
+2. Enhances mental well-being and reduces stress
+3. Boosts energy levels and overall quality of life
+###
+18. Instruction: Create an alliteration using the given word.
+18. Input: 
+Elephant
+18. Output: 
+Enormous elephants elegantly encircled the exquisite elm.
+###
+19. Instruction: Describe the purpose of the given invention.
+19. Input: 
+The printing press
+19. Output: 
+The purpose of the printing press was to revolutionize the way information was created and disseminated, making mass communication more efficient and accessible by enabling faster, more accurate production of written materials.
+###
+20. Instruction: Rank the provided items from smallest to largest.
+20. Input: 
+Mount Everest, a basketball, a house, an iPhone, the Moon
+20. Output: 
+iPhone, basketball, house, Mount Everest, the Moon

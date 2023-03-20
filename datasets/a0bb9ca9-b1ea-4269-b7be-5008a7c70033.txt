@@ -1,0 +1,103 @@
+4. Instruction: Generate a random password consisting of 8 characters. 
+4. Input: 
+<noinput>
+4. Output: 
+q3e6t9r4
+###
+5. Instruction: Sum the last 5 numbers in an array of integers. 
+5. Input: 
+[2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+5. Output: 
+70
+###
+6. Instruction: Correct the spelling mistake in the sentence "I am very hapy today". 
+6. Input: 
+I am very hapy today.
+6. Output: 
+I am very happy today.
+###
+7. Instruction: Convert the sentence "I love playing football" into a negative sentence. 
+7. Input: 
+I love playing football.
+7. Output: 
+I do not like playing football.
+###
+8. Instruction: What is the capital of Afghanistan? 
+8. Input: 
+<noinput>
+8. Output: 
+The capital of Afghanistan is Kabul.
+###
+9. Instruction: Convert the temperature from Fahrenheit to Celsius. 
+9. Input: 
+Temperature in Fahrenheit: 68
+9. Output: 
+The temperature in Celsius is 20.
+###
+10. Instruction: Find the square root of 64. 
+10. Input: 
+<noinput>
+10. Output: 
+The square root of 64 is 8.
+###
+11. Instruction: Rewrite the sentence "If it rains, I will stay at home" in the present tense. 
+11. Input: 
+If it rains, I will stay at home.
+11. Output: 
+If it is raining, I will stay at home.
+###
+12. Instruction: Create a list of the first 5 even numbers. 
+12. Input: 
+<noinput>
+12. Output: 
+The first 5 even numbers are 2, 4, 6, 8, 10.
+###
+13. Instruction: What is the difference between a crocodile and an alligator? 
+13. Input: 
+<noinput>
+13. Output: 
+Crocodiles have a V-shaped snout while alligators have a U-shaped snout.
+###
+14. Instruction: Write a sentence using the word "ubiquitous". 
+14. Input: 
+<noinput>
+14. Output: 
+Smartphones are now ubiquitous and can be found everywhere.
+###
+15. Instruction: Reorder the following sentence: "that he went to the store yesterday, nobody knows". 
+15. Input: 
+that he went to the store yesterday, nobody knows
+15. Output: 
+Nobody knows that he went to the store yesterday.
+###
+16. Instruction: What is the significance of the number 42 in "The Hitchhiker's Guide to the Galaxy"? 
+16. Input: 
+<noinput>
+16. Output: 
+The number 42 is the "Answer to the Ultimate Question of Life, the Universe, and Everything" in "The Hitchhiker's Guide to the Galaxy".
+###
+17. Instruction: Write a haiku about nature. 
+17. Input: 
+<noinput>
+17. Output: 
+Amidst the green trees,
+Softly whistles the gentle breeze,
+Nature speaks with ease.
+###
+18. Instruction: What is the difference between a lake and a pond? 
+18. Input: 
+<noinput>
+18. Output: 
+Lakes are generally larger and deeper than ponds, while ponds are usually small enough for sunlight to penetrate all the way to the bottom.
+###
+19. Instruction: What is a palindrome? 
+19. Input: 
+<noinput>
+19. Output: 
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward.
+###
+20. Instruction: Replace every "a" in the sentence "I like apples and bananas" with "e". 
+20. Input: 
+I like apples and bananas.
+20. Output: 
+I like epples end benenes.

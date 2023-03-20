@@ -1,0 +1,104 @@
+4. Instruction: What is the tallest building in the world as of October 2021, and where is it located?
+4. Input: <noinput>
+4. Output: 
+The tallest building in the world as of October 2021 is the Burj Khalifa, located in Dubai, United Arab Emirates.
+
+5. Instruction: Classify the following text as either formal or informal language.
+5. Input: 
+Hey dude, what's up? Wanna grab some grub later?
+5. Output: 
+Informal
+
+6. Instruction: Correct any grammatical and punctuation errors in this text.
+6. Input: 
+Whenever you visit you’re aunt and uncle, be sure to bring there favorite cake with you there always thrilled to see you!
+6. Output: 
+Whenever you visit your aunt and uncle, be sure to bring their favorite cake with you. They're always thrilled to see you!
+
+7. Instruction: Translate the following English text to French.
+7. Input: 
+Please pass the salt and pepper.
+7. Output: 
+S'il vous plaît, passez le sel et le poivre.
+
+8. Instruction: Describe the process of photosynthesis in simple terms.
+8. Input: <noinput>
+8. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose (a type of sugar) for energy and oxygen. The process takes place in the chlorophyll-containing cells called chloroplasts, where sunlight's energy is captured and used to transform the carbon dioxide and water into glucose, which is then used by the plant for growth and energy.
+
+9. Instruction: Write a short synopsis of Jane Austen's "Pride and Prejudice."
+9. Input: <noinput>
+9. Output: 
+"Pride and Prejudice" is a classic novel by Jane Austen that follows the story of Elizabeth Bennet, a spirited, intelligent young woman, and her four sisters. When the wealthy Mr. Bingley and his even richer but proud friend, Mr. Darcy, move to their neighborhood, the sisters' lives are changed dramatically. As Elizabeth and Mr. Darcy navigate their own prejudices and clashing personalities, they ultimately come to understand the importance of character, love, and respect in relationships.
+
+10. Instruction: Calculate the compound interest on a $5,000 investment at a 6% annual interest rate for 5 years, compounded annually.
+10. Input: <noinput>
+10. Output: 
+Compound Interest = P(1 + r/n)^(nt) - P
+
+P = Principal amount ($5,000)
+r = Annual interest rate (0.06)
+t = Time period (5 years)
+n = Number of times interest is compounded per year (1)
+
+Compound Interest = 5000(1 + 0.06/1)^(1*5) - 5000
+Compound Interest = 5000(1.06)^5 - 5000
+Compound Interest = $1,689.48
+
+11. Instruction: Name three famous paintings and their respective artists.
+11. Input: <noinput>
+11. Output: 
+1. "Mona Lisa" by Leonardo da Vinci
+2. "Starry Night" by Vincent van Gogh
+3. "The Persistence of Memory" by Salvador Dalí
+
+12. Instruction: Provide an example of a metaphor.
+12. Input: <noinput>
+12. Output: 
+Time is a thief.
+
+13. Instruction: Arrange the following words to form a meaningful sentence.
+13. Input: 
+looked cats room the over crowded
+13. Output: 
+The crowded room looked over the cats.
+
+14. Instruction: List three types of renewable energy sources.
+14. Input: <noinput>
+14. Output: 
+1. Solar energy
+2. Wind energy
+3. Hydropower
+
+15. Instruction: Explain the main difference between HTML and CSS in web development.
+15. Input: <noinput>
+15. Output: 
+HTML (Hypertext Markup Language) is primarily used for creating the structure and content of a website, whereas CSS (Cascading Style Sheets) is used to apply styles, such as colors, fonts, and layouts, to the HTML elements and control the overall appearance of the site.
+
+16. Instruction: Compare and contrast aerobic and anaerobic respiration.
+16. Input: <noinput>
+16. Output: 
+Aerobic respiration requires oxygen and involves breaking down glucose to produce energy in the form of ATP (adenosine triphosphate), water, and carbon dioxide. It occurs in the mitochondria of cells and produces a large amount of energy. Anaerobic respiration does not require oxygen and occurs when there is a lack of oxygen, in which glucose is broken down to produce ATP, lactate or ethanol, and carbon dioxide. Anaerobic respiration produces a smaller amount of energy compared to aerobic respiration and primarily occurs in the cytoplasm of cells.
+
+17. Instruction: Identify the problem in this sentence and suggest an improvement or correction.
+17. Input: 
+Once a person is motivated and work hard, they can achieve their goals.
+17. Output: 
+Problem: Mismatched verb tense in "work hard"
+Correction: Once a person is motivated and works hard, they can achieve their goals.
+
+18. Instruction: Provide the chemical formula for glucose.
+18. Input: <noinput>
+18. Output: 
+C6H12O6
+
+19. Instruction: Give me two reasons for maintaining a healthy diet.
+19. Input: <noinput>
+19. Output: 
+1. A healthy diet can help maintain a healthy weight, reducing the risk of chronic diseases, such as heart disease, diabetes, and some cancers.
+2. Consuming proper nutrients promotes good overall health, improves energy levels, and enhances cognitive function.
+
+20. Instruction: Describe the plot of Shakespeare's "Romeo and Juliet" briefly.
+20. Input: <noinput>
+20. Output: 
+"Romeo and Juliet" is a tragic play by William Shakespeare that tells the story of two young lovers, Romeo Montague and Juliet Capulet, from feuding families. Despite their families' hatred, they fall in love and secretly marry. As they navigate the challenges of their forbidden love, they encounter miscommunications and misfortunes, ultimately leading to their untimely deaths, which then reconciles the feuding families.

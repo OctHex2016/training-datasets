@@ -1,0 +1,103 @@
+4. Instruction: Summarize the main idea of the given article in 2-3 sentences. 
+4. Input: 
+Article: "NASA-funded study says Venus may have been habitable for billions of years"
+4. Output: 
+A study funded by NASA suggests that Venus may have been habitable for billions of years, with surface temperatures much cooler than previously believed due to the presence of water. This finding raises new possibilities for the presence of life on Venus, and further research is needed to confirm this hypothesis.
+###
+5. Instruction: Write a creative story using the given set of words in the input. 
+5. Input: 
+words: rain, mirror, bookstore, cat, glasses
+5. Output: 
+It was raining heavily on that gloomy day when Sarah noticed a peculiar cat outside the bookstore. She followed the cat inside and found herself drawn to a particular book, recommended by the cat, she thought. Sarah looked at herself in the mirror of the store, and to her amazement, she was wearing cat-eye glasses! Suddenly, the words in the book jumped out at her, like a story coming to life.
+###
+6. Instruction: Correct the grammar mistakes in the given sentence. 
+6. Input: 
+The children must of gone to the playground instead of the library.
+6. Output: 
+The children must have gone to the playground instead of the library.
+###
+7. Instruction: Find the synonym of the given word. 
+7. Input: 
+Word: Observe
+7. Output: 
+watch, scrutinize, view, perceive, examine.
+###
+8. Instruction: Suggest a suitable recipe based on the given ingredients. 
+8. Input: 
+Ingredients: chicken, kale, garlic, lemon
+8. Output: 
+A great recipe would be Lemon Garlic Chicken with Kale Salad! Marinate the chicken in lemon and garlic for at least 1 hour, then grill or broil it. Serve it on top of a bed of kale with a lemon vinaigrette dressing.
+###
+9. Instruction: Provide a one-line summary of the given book. 
+9. Input: 
+Book: To Kill a Mockingbird by Harper Lee
+9. Output: 
+To Kill a Mockingbird is a Pulitzer Prize-winning novel published in 1960, which tells the story of racial injustice in a small Alabama town during the Great Depression through the eyes of a young girl named Scout Finch.
+###
+10. Instruction: Translate the given phrase to Spanish. 
+10. Input: 
+Phrase: "What is your name?"
+10. Output: 
+"¿Cuál es tu nombre?"
+###
+11. Instruction: Complete the given analogy by selecting the most suitable option.
+11. Input: 
+Man is to boy as woman is to _______
+Options: girl, child, man, woman
+11. Output: 
+girl
+###
+12. Instruction: Provide a suitable title for the given news article. 
+12. Input: 
+Article: "COVID-19 cases continue to rise in the United States"
+12. Output: 
+"COVID-19 Cases surge in the US: Infections on the rise despite vaccine distribution."
+###
+13. Instruction: Rewrite the given sentence in the passive voice. 
+13. Input: 
+The dog chased the cat.
+13. Output: 
+The cat was chased by the dog.
+###
+14. Instruction: Select the correct spelling of the given word. 
+14. Input: 
+Word: Accommodation
+14. Output: 
+Accommodation
+###
+15. Instruction: Identify the right preposition to complete the sentence. 
+15. Input: 
+Her success in sports could be attributed _______ her hard work and dedication.
+15. Output: 
+to
+###
+16. Instruction: Provide a one word answer to the given question. 
+16. Input: 
+Question: Who wrote the Harry Potter series?
+16. Output: 
+J.K. Rowling.
+###
+17. Instruction: Provide the plural of the given word. 
+17. Input: 
+Word: criterion
+17. Output: 
+criteria
+###
+18. Instruction: Complete the given sentence by selecting the most suitable option. 
+18. Input: 
+Polar bears ________ in the Arctic region.
+Options: live, lived, living
+18. Output: 
+live
+###
+19. Instruction: Identify the incorrect word in the given sentence. 
+19. Input: 
+The surgeon recommended the patient to stay in bed for a few days for he was weak.
+19. Output: 
+recommended. (replace "to" with "that")
+###
+20. Instruction: Specify the capital of the given country. 
+20. Input: 
+Country: France
+20. Output: 
+Paris.

@@ -1,0 +1,23 @@
+4. Instruction: Correct any grammar or spelling mistakes in the following text.
+4. Input: 
+Travelling isimportant for broadening ones horizons and learning abuot new cultures. Recenty, I took a vacaton to Japan, experincing a different way of life than I am used too. Most noticable was there polite and courteous behavior, which seems too be a cultural norm.
+4. Output: 
+Traveling is important for broadening one's horizons and learning about new cultures. Recently, I took a vacation to Japan, experiencing a different way of life than I am used to. Most noticeable was their polite and courteous behavior, which seems to be a cultural norm.
+
+5. Instruction: Summarize the plot of the following movie in just a few sentences.
+5. Input: 
+Inception (2010) is a science fiction film directed by Christopher Nolan starring Leonardo DiCaprio as Dom Cobb, a professional thief who steals information by infiltrating the subconscious of his targets. He's offered a chance to have his criminal history erased in exchange for performing one last impossible task - inception, planting an idea into the mind of a corporate heir. With the help of a skilled team, Cobb tries to navigate through the complex layers of dreams and illusions to successfully complete his mission.
+5. Output: 
+Inception is about a skilled thief named Dom Cobb who infiltrates the subconscious of his targets to steal information. Offered a chance to clear his criminal record, he must perform inception - planting an idea in a corporate heir's mind. Cobb and his team navigate through layers of dreams and illusions to complete their mission.
+
+6. Instruction: Identify the main ingredients in the following recipe and list them separated by commas.
+6. Input: 
+To make a delicious guacamole, you'll need 3 ripe avocados, half a small red onion finely chopped, 1 jalapeño pepper deseeded and finely chopped, 2 juicy limes, a handful of fresh cilantro finely chopped, and some salt and black pepper for seasoning. Start by mashing the avocados, then mix in the red onion, jalapeño pepper, lime juice, cilantro, salt, and black pepper. Give it a good stir before serving with some tortilla chips.
+6. Output: 
+3 ripe avocados, half a small red onion, 1 jalapeño pepper, 2 juicy limes, a handful of fresh cilantro, salt, black pepper
+
+7. Instruction: Argue for the increased use of renewable energy sources.
+7. Input: 
+<noinput>
+7. Output: 
+Increased use of renewable energy sources, such as solar, wind, and hydroelectric power, is essential for addressing climate change and reducing our dependence on fossil fuels. Utilizing renewable energy helps to reduce greenhouse gas emissions, which can mitigate global warming. Additionally, renewable energy resources are abundant and can provide stable and reliable energy, promoting energy security and reducing reliance on foreign oil. Investing in renewable energy infrastructure can also create jobs, stimulate economic growth, and encourage technological innovation in sustainable energy solutions.

@@ -1,0 +1,41 @@
+4. Instruction: Translate the following paragraph from English to French.
+4. Input: 
+The sun was shining brightly on the clear blue sky. Children were playing in the park, enjoying their summer vacation. An ice cream truck parked nearby, and its melodious music attracted customers. The birds were singing and butterflies were fluttering around. It was a beautiful day.
+4. Output: 
+Le soleil brillait intensément sur le ciel bleu clair. Les enfants jouaient dans le parc, profitant de leurs vacances d'été. Un camion de crème glacée était garé à proximité, et sa musique mélodieuse attirait les clients. Les oiseaux chantaient et les papillons virevoltaient. C'était une belle journée.
+
+5. Instruction: Calculate the monthly payment for a 30-year mortgage at an annual interest rate of 3.5% for a $250,000 loan.
+5. Input: 
+<noinput>
+5. Output: 
+The monthly payment for a 30-year mortgage with a 3.5% annual interest rate and a $250,000 loan would be $1,122.61.
+
+6. Instruction: Determine the most important point that the author is making in the following text.
+6. Input: 
+In recent times, there has been a substantial increase in automation use, leading to major concerns about job loss. As machines become more intelligent, they replace human labor in various sectors. Even though technology seems to be one step ahead, experts argue that humans have unique qualities that machines lack. Creativity, empathy, and complex decision-making are just a few of these attributes. Therefore, it is critical for society to better prepare for the future by investing more in creative and interpersonal capacities, focusing less solely on technical skills.
+6. Output: 
+The most important point the author makes is that society should prepare for the future by investing more in creative and interpersonal capacities instead of solely focusing on technical skills, as humans possess unique qualities that machines currently lack.
+
+7. Instruction: Compose a haiku about a rainy day.
+7. Input: 
+<noinput>
+7. Output: 
+Raindrops gently fall,
+Puddles swell in quiet streets,
+Nature drinks deeply.
+
+8. Instruction: Write a summary of the article about electric cars increasing in popularity.
+8. Input: 
+As environmental concerns and green initiatives gain momentum, electric vehicles (EVs) are rapidly growing in popularity. Governments around the world are incentivizing the use of EVs through policies, increased investment in charging infrastructure, and various tax credits. The technology involved in electric vehicles has also seen significant advancements, resulting in better performance, increased range, and decreased charging times. Improved affordability of electric vehicles will likely continue this trend, as well. In addition, car manufacturers are increasingly shifting their focus towards electric alternatives, and some have even set dates for when they plan to phase out their traditional gas-powered vehicles.
+
+8. Output: 
+Electric vehicles are gaining popularity due to environmental concerns, government incentives, and advancements in technology that improve performance, range, and charging times. Manufacturers are shifting their focus towards electric alternatives, with some setting dates for phasing out traditional gas-powered vehicles. The trend is expected to continue as EV affordability improves.
+
+9. Instruction: I need a lesson on how to use a semicolon in writing; write about the basic rules.
+9. Input: 
+<noinput>
+9. Output: 
+A semicolon is used to connect two closely related independent clauses (complete thoughts) that could stand on their own as sentences. It can also be used to improve clarity and style in writing. Here are the basic rules:
+
+1. Connect two related independent clauses: The semicolon should be used when linking two independent clauses that are closely related in meaning or topic, making the transition smoother; for example, "I have a big test tomorrow; I can't go to the party tonight."
+2. Separate items in a series with internal commas: A semicolon can be used to separate items in a list that have internal commas, providing clarity; for example, "I've been to London, England; Paris, France; and Tokyo, Japan."

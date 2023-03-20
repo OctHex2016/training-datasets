@@ -1,0 +1,110 @@
+4. Instruction: Translate the following English text to French.
+4. Input: 
+The cat is sitting on the mat.
+
+4. Output: 
+Le chat est assis sur le tapis.
+
+5. Instruction: Correct the grammatical errors in this sentence, if any.
+5. Input: 
+She don't know, where the shop is located.
+5. Output: 
+She doesn't know where the shop is located.
+
+6. Instruction: List three main benefits of using renewable energy sources.
+6. Input: 
+<noinput>
+6. Output: 
+1. Reduced greenhouse gas emissions
+2. Sustainable energy supply
+3. Lower dependence on fossil fuels
+
+7. Instruction: Write a haiku about autumn.
+7. Input: 
+<noinput>
+7. Output: 
+Crisp leaves falling down
+Golden hues paint the landscape
+Autumn whispers near
+
+8. Instruction: What is the capital city of Portugal?
+8. Input: 
+<noinput>
+8. Output: 
+Lisbon
+
+9. Instruction: Summarize the following paragraph in one sentence.
+9. Input: 
+Organic farming is a method of crop and livestock production that involves much more than choosing not to use pesticides, fertilizers, genetically modified organisms, antibiotics, and growth hormones. This holistic system is designed to optimize the productivity and fitness of diverse communities within the agro-ecosystem, including soil organisms, plants, livestock, and people. The main goal of organic production is to develop enterprises that are sustainable and harmonious with the environment.
+9. Output: 
+Organic farming aims to create sustainable agricultural systems that promote diverse and balanced ecosystems while avoiding harmful chemicals and practices.
+
+10. Instruction: Rewrite the following sentence in passive voice.
+10. Input: 
+The dog chased the cat.
+10. Output: 
+The cat was chased by the dog.
+
+11. Instruction: How many sides does a hexagon have?
+11. Input: 
+<noinput>
+11. Output: 
+Six
+
+12. Instruction: Name the four houses in Hogwarts School of Witchcraft and Wizardry.
+12. Input: 
+<noinput>
+12. Output: 
+1. Gryffindor
+2. Hufflepuff
+3. Ravenclaw
+4. Slytherin
+
+13. Instruction: Arrange the following numbers in ascending order, separated by commas.
+13. Input: 
+17, 3, 25, 8
+13. Output: 
+3, 8, 17, 25
+
+14. Instruction: Convert the following temperature from Celsius to Fahrenheit: 30 degrees Celsius.
+14. Input: 
+<noinput>
+14. Output: 
+86 degrees Fahrenheit
+
+15. Instruction: Write a rhyming couplet about the moon.
+15. Input: 
+<noinput>
+15. Output:
+Under a velvet sky the moon shines bright,
+A sentinel watching over earth's quiet night.
+
+16. Instruction: What is the primary function of a router in computer networks?
+16. Input: 
+<noinput>
+16. Output: 
+The primary function of a router is to forward data packets between computer networks, ensuring that data reaches its intended destination.
+
+17. Instruction: Check the spelling mistake(s) in this sentence.
+17. Input: 
+The museum had a fascinating exhibtion on ancient egyptian civilzation.
+17. Output: 
+The museum had a fascinating exhibition on ancient Egyptian civilization.
+
+18. Instruction: Define the term "photosynthesis" and its importance to the Earth's ecosystem.
+18. Input: 
+<noinput>
+18. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments. This process converts carbon dioxide and water into oxygen and glucose, providing energy for the plant and oxygen for other organisms. Photosynthesis is critical to Earth's ecosystem as it produces oxygen, which supports most life on the planet, and contributes to the removal of excess carbon dioxide from the atmosphere.
+
+19. Instruction: Calculate the area of a rectangle with length 5 meters and width 7 meters.
+19. Input: 
+<noinput>
+19. Output: 
+35 square meters
+
+20. Instruction: Who is the protagonist in the novel "To Kill a Mockingbird"?
+20. Input: 
+<noinput>
+20. Output: 
+Scout Finch (Jean Louise Finch)

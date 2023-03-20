@@ -1,0 +1,114 @@
+4. Instruction: Reorganize the following sentence by replacing the passive voice with an active voice.
+4. Input: 
+The cake was eaten by the children at the party.
+4. Output: 
+The children ate the cake at the party.
+
+5. Instruction: Based on the given text, suggest a suitable title.
+5. Input: 
+Fitness is important for overall health and mental well-being. People who exercise regularly tend to have better physical endurance, stronger immune systems, and improved mental clarity. This article discusses various types of exercises, their benefits, and how to incorporate them into your daily routine to improve your overall health.
+5. Output: 
+Achieving Better Health and Mental Clarity through Regular Exercise
+
+6. Instruction: Translate the given sentence into French.
+6. Input: 
+Please find attached my application for your consideration.
+6. Output: 
+Veuillez trouver ci-joint ma candidature pour votre examen.
+
+7. Instruction: Identify and provide the meaning of the literary device used in the following sentence.
+7. Input: 
+Her eyes were as blue as the deep ocean.
+7. Output: 
+The literary device used is a simile. It compares her eyes to the deep ocean using "as" to emphasize their blue color.
+
+8. Instruction: Write a haiku about nature.
+8. Input: 
+<noinput>
+8. Output: 
+Green leaves whispering,
+The river hums a soft song,
+Nature's symphony.
+
+9. Instruction: Summarize the main point of the given paragraph.
+9. Input: 
+Climate change is a global problem that requires immediate action by all countries. The increasing levels of greenhouse gases, primarily carbon dioxide, in the atmosphere are causing temperature levels to rise, resulting in extreme weather events, such as flooding and hurricanes. These changes pose a threat to the environment and have serious consequences for the health and well-being of people around the world. Governments must work together to reduce carbon emissions in order to alleviate the effects of climate change and protect communities from its damaging consequences.
+9. Output: 
+Climate change, caused by rising greenhouse gas emissions, is an urgent global issue requiring collaborative efforts from all countries to reduce carbon emissions and protect the environment and people's health.
+
+10. Instruction: From the information given, suggest an effective way for Bob to stay motivated in losing weight.
+10. Input: 
+Bob is struggling to lose weight. He is finding it difficult to maintain motivation and stick to his diet plan. He has tried various diets before, but gives up after a few weeks. He enjoys cycling and swimming.
+10. Output: 
+Bob could combine exercise with his weight loss journey by incorporating cycling and swimming into his daily routine. This would make the process more enjoyable and help him stay motivated in the long run.
+
+11. Instruction: Correct the grammar and punctuation in the following sentence.
+11. Input: 
+there pets are misbehaving the dogs are chasing Birds and the cats are climbing Trees.
+11. Output: 
+Their pets are misbehaving; the dogs are chasing birds, and the cats are climbing trees.
+
+12. Instruction: Explain the concept of compound interest.
+12. Input:
+<noinput>
+12. Output: 
+Compound interest is the interest calculated on the initial principal amount as well as on the accumulated interest of previous periods. In other words, it's interest on interest, making your savings or investments grow at an accelerating rate over time compared to simple interest, which is calculated only on the initial principal amount.
+
+13. Instruction: List three main features of the Gothic architecture style.
+13. Input:
+<noinput>
+13. Output: 
+1. Pointed arches
+2. Ribbed vaults
+3. Flying buttresses
+
+14. Instruction: Convert the following temperature from Fahrenheit to Celsius.
+14. Input:
+68 degrees Fahrenheit
+14. Output: 
+20 degrees Celsius
+
+15. Instruction: Briefly describe the plot of the movie "Inception".
+15. Input:
+<noinput>
+15. Output: 
+Inception follows a skilled extractor, Dom Cobb, and his team, as they use special technology to infiltrate the subconscious minds of people through their dreams to steal secrets or plant an idea (inception). The main plot focuses on a mission to perform inception on a business heir to break up his father's empire, while Cobb struggles with his own guilt and memories of his deceased wife.
+
+16. Instruction: What are some tips for writing effective emails?
+16. Input:
+<noinput>
+16. Output: 
+1. Use a clear and concise subject line
+2. Address the recipient appropriately
+3. Start with a polite greeting
+4. Keep the content focused and organized
+5. Use bullet points or numbered lists for clarity
+6. Be concise and to-the-point
+7. Use proper grammar and spelling
+8. End with a closing and your signature
+
+17. Instruction: Explain leap years and why they occur.
+17. Input:
+<noinput>
+17. Output: 
+A leap year is a year with an additional day, making it 366 days long instead of the usual 365 days. Leap years occur because the Earth takes approximately 365.24 days to complete one full orbit around the Sun. To account for the extra 0.24 days, an additional day is added to the calendar every four years, on February 29th, synchronizing the calendar year with the solar year.
+
+18. Instruction: Recommend three classic novels that a high school student should read.
+18. Input:
+<noinput>
+18. Output: 
+1. To Kill a Mockingbird by Harper Lee
+2. Pride and Prejudice by Jane Austen
+3. The Catcher in the Rye by J.D. Salinger
+
+19. Instruction: What are the primary colors, and explain how they can be combined to create other colors.
+19. Input:
+<noinput>
+19. Output: 
+The primary colors are red, blue, and yellow. They are the building blocks for all other colors, as they cannot be created by mixing other colors together. By combining primary colors in different ways, you can create secondary colors: red and blue create purple, blue and yellow create green, and red and yellow create orange.
+
+20. Instruction: Rearrange the following words to form a meaningful sentence.
+20. Input: 
+clever very talented is and Harry
+20. Output: 
+Harry is very talented and clever.

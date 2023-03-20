@@ -1,0 +1,103 @@
+4. Instruction: Rewrite the following sentence using a different word for "buildings" and avoiding the passive voice.
+4. Input: 
+The city skyline is dominated by the massive buildings.
+4. Output: 
+The massive skyscrapers dominate the city skyline.
+
+5. Instruction: Explain the difference between a primary and a secondary source.
+5. Input:
+<noinput>
+5. Output: 
+A primary source is an original document or evidence created during the time being studied, like a diary, a letter, or a historical record. A secondary source is created later, analyzing or interpreting the primary sources, like a textbook, commentary, or scholarly article.
+
+6. Instruction: Describe the role of mitochondria in a cell.
+6. Input:
+<noinput>
+6. Output:
+Mitochondria are the cell's powerhouse, producing energy in the form of adenosine triphosphate (ATP) through cellular respiration. They also play a role in cell signaling, cellular differentiation, cell death, and maintaining cellular calcium levels.
+
+7. Instruction: Given a fact, point out which part is incorrect and correct it.
+7. Input:
+The Great Wall of China is visible from space without any aid.
+7. Output:
+The incorrect part is "visible from space without any aid." The Great Wall of China is not visible from space with the naked eye.
+
+8. Instruction: What is the scientific name for the common house cat?
+8. Input:
+<noinput>
+8. Output:
+Felis catus
+
+9. Instruction: Predict a possible future for self-driving cars.
+9. Input:
+<noinput>
+9. Output:
+In the future, self-driving cars could become the primary mode of transportation as they significantly reduce human error, enhancing safety and efficiency on roads. With advances in technology, they will communicate with one another and coordinate for better traffic flow, dramatically reducing congestion and commute times.
+
+10. Instruction: Create a suitable title for an article discussing the future of renewable energy.
+10. Input:
+<noinput>
+10. Output:
+Harnessing the Power of Tomorrow: Unlocking the Potential of Renewable Energy Sources
+
+11. Instruction: Translate the given English sentence to French.
+11. Input:
+The cat is sleeping on the couch.
+11. Output:
+Le chat dort sur le canapé.
+
+12. Instruction: Is the given statement true or false? Explain your answer.
+12. Input:
+Albert Einstein won a Nobel Prize for his theory of general relativity.
+12. Output:
+False. Albert Einstein won the Nobel Prize in Physics in 1921, but it was for his discovery of the photoelectric effect, not for his theory of general relativity.
+
+13. Instruction: Describe how photosynthesis works in plants.
+13. Input:
+<noinput>
+13. Output:
+Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into oxygen and glucose, a type of sugar. It occurs in the chloroplasts, plant cells' organelles containing chlorophyll, the green pigment that absorbs sunlight. Light-dependent reactions convert solar energy into chemical energy stored in ATP and NADPH molecules. Then, light-independent reactions or the Calvin cycle use the stored energy to power the production of glucose from carbon dioxide.
+
+14. Instruction: Edit the following paragraph and correct any grammatical, punctuation, or spelling errors.
+14. Input:
+In someways, advancements in robotic technology is harming jobs. There are people who've lost there jobs because machines were improved to take over repetitive tasks that human workers use to do. It is possible that theze renovations could lead to better opportunities, though.
+14. Output:
+In some ways, advancements in robotic technology are harming jobs. There are people who've lost their jobs because machines were improved to take over repetitive tasks that human workers used to do. It is possible that these renovations could lead to better opportunities, though.
+
+15. Instruction: Tell me a fun fact about dolphins.
+15. Input:
+<noinput>
+15. Output:
+Dolphins sleep with one eye open, a process known as unihemispheric slow-wave sleep, allowing them to keep an eye on their surroundings and avoid predators while resting.
+
+16. Instruction: Provide a movie recommendation with a brief plot summary fitting the action and science fiction genres. 
+16. Input:
+<noinput>
+16. Output:
+I recommend "The Matrix" (1999). The plot revolves around a computer hacker named Neo, who discovers the reality he perceives is actually a simulated world called the Matrix, controlled by intelligent machines. Neo is recruited by a group of rebels led by Morpheus to help humanity break free from this virtual imprisonment and battle the machines.
+
+17. Instruction: List three benefits of exercise.
+17. Input:
+<noinput>
+17. Output:
+1. Improved cardiovascular health
+2. Weight management and muscle strengthening
+3. Mood enhancement and stress reduction
+
+18. Instruction: Discuss whether the given statement portrays a positive or negative opinion and support your answer.
+18. Input:
+The restaurant's atmosphere was lively, with enthusiastic servers and an enjoyable buzz.
+18. Output:
+The statement portrays a positive opinion because it highlights the restaurant's upbeat ambiance, the energy of the servers, and the overall enjoyable experience.
+
+19. Instruction: Given the chemical formula, name the compound.
+19. Input:
+H2O
+19. Output:
+Water
+
+20. Instruction: Suggest an improvement to the given sentence by increasing formality.
+20. Input:
+People often think that aliens helped build the pyramids 'cause they're so big and impressive.
+20. Output:
+Many individuals speculate that extraterrestrial beings contributed to the construction of the pyramids, due to their immense size and remarkable nature.

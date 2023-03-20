@@ -1,0 +1,76 @@
+4. Instruction: Determine if the given statement is a fact, opinion, or a mixture of both fact and opinion.
+4. Input: 
+Chocolate is the most delicious dessert that contains antioxidants.
+4. Output: 
+Mixture of fact and opinion
+
+5. Instruction: Can you simplify the given mathematical expression? Show your work.
+5. Input: 
+(4x^2 + 8x) + (3x^2 - 6x)
+5. Output: 
+4x^2 + 8x + 3x^2 - 6x
+(4x^2 + 3x^2) + (8x - 6x)
+7x^2 + 2x
+
+6. Instruction: Compose a condolence message for someone who has lost their job.
+6. Input: 
+<noinput>
+6. Output: 
+I am deeply sorry to hear about your job loss. I know that this may be a challenging time for you, but remember that every setback offers new opportunities to grow and learn. I am confident you will find a new opportunity soon, and I am here to support you in any way I can.
+
+7. Instruction: Name three alternative renewable energy sources other than fossil fuels.
+7. Input: 
+<noinput>
+7. Output: 
+Solar power, wind power, and hydro power
+
+8. Instruction: Convert the following recipe for 2 servings into a recipe for 6 servings.
+8. Input: 
+Recipe for 2 servings:
+1/2 cup uncooked pasta
+1 cup water
+1/2 cup shredded cheese
+1/4 teaspoon salt
+1 teaspoon oil
+1/2 teaspoon pepper
+8. Output: 
+Recipe for 6 servings:
+1 1/2 cups uncooked pasta
+3 cups water
+1 1/2 cups shredded cheese
+3/4 teaspoon salt
+3 teaspoons oil
+1 1/2 teaspoons pepper
+
+9. Instruction: Analyze and discuss the message conveyed in the provided lyrics.
+9. Input: 
+'Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky
+Imagine all the people living for today...'
+(John Lennon - Imagine)
+9. Output: 
+The lyrics from John Lennon's "Imagine" encourage the listener to envision a world without religious divisions, focusing solely on the present moment. The song promotes a message of unity, suggesting that without these divisive concepts, people could live and coexist peacefully.
+
+10. Instruction: Identify any punctuation errors in the following sentence and correct them if necessary:
+10. Input: 
+She bought apples, oranges, bananas; and grapes.
+10. Output: 
+She bought apples, oranges, bananas, and grapes.
+
+11. Instruction: Summarize the provided news article in 2-3 sentences.
+11. Input: 
+Researchers from the University of California Berkeley have uncovered a new technique to produce hydrogen gas which could potentially provide an eco-friendly alternative to natural gas. The researchers created hydrogen from water in a safe, efficient, affordable, and scalable manner. This groundbreaking method requires only a small voltage to trigger a reaction, using renewable energy sources to generate the electricity required.
+11. Output: 
+Scientists at the University of California Berkeley have discovered a technique to create hydrogen gas as an environmentally friendly alternative to natural gas. The method uses a small voltage and renewable energy sources to produce hydrogen from water in a safe, efficient, and cost-effective way.
+
+12. Instruction: Create an example of a well-crafted dialogue between two people discussing their favorite hobbies.
+12. Input: 
+<noinput>
+12. Output: 
+Alice: So, what do you usually do in your free time, Bob?
+Bob: I spend a lot of time playing guitar. I'm particularly into fingerstyle techniques. What about you, Alice?
+Alice: That's cool! I enjoy painting with watercolors. I find it to be a relaxing way to express myself creatively.
+Bob: I've always admired artists. Do you have a favorite subject or theme for your paintings?
+Alice: I love painting nature scenes, especially landscapes and gardens. There's something so peaceful and beautiful about nature, isn't there?

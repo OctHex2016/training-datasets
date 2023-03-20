@@ -1,0 +1,147 @@
+4. Instruction: Create a limerick poem that uses humor about a person named Tim.
+4. Input:
+<noinput>
+4. Output:
+There once was a fellow named Tim,
+Who decided to go for a swim,
+He jumped in the pool,
+But quickly felt like a fool,
+As he realized he couldn't move his limb.
+
+###
+5. Instruction: Rewrite the sentence in active voice.
+5. Input:
+The letter was signed by Jane before it was mailed.
+5. Output:
+Jane signed the letter before mailing it.
+
+###
+6. Instruction: Convert the given recipe into a vegan option.
+6. Input:
+Ingredients:
+- 1 pound of ground beef
+- 1 small onion, chopped
+- 1 clove of garlic, minced
+- 1 tsp salt
+- 1 tsp ground black pepper
+- 2 cups of tomato sauce
+- 1 cup of shredded cheddar cheese
+6. Output:
+Ingredients:
+- 1 pound of plant-based ground meat
+- 1 small onion, chopped
+- 1 clove of garlic, minced
+- 1 tsp salt
+- 1 tsp ground black pepper
+- 2 cups of tomato sauce
+- 1 cup of vegan shredded cheddar cheese
+
+###
+7. Instruction: List a minimum of 5 possible consequences of deforestation.
+7. Input:
+<noinput>
+7. Output:
+1. Loss of biodiversity
+2. Climate change
+3. Soil erosion
+4. Flooding
+5. Displacement of indigenous communities
+
+###
+8. Instruction: What is the capital city of Japan and its population?
+8. Input:
+<noinput>
+8. Output:
+The capital city of Japan is Tokyo, and its population is approximately 13.9 million.
+
+###
+9. Instruction: Identify any errors in spelling, grammar, or punctuation in the given text.
+9. Input:
+It's a well known fact, that weather on planet's can be more extrem than on Earth. Especially on Jupiter, were stormes can last for centureys.
+9. Output:
+It's a well-known fact that weather on planets can be more extreme than on Earth. Especially on Jupiter, where storms can last for centuries.
+
+###
+10. Instruction: Write a haiku about autumn leaves.
+10. Input:
+<noinput>
+10. Output:
+Golden leaves flutter,
+A tapestry on the breeze,
+Autumn's breath whispers.
+
+###
+11. Instruction: Describe a healthy, well-balanced breakfast using 5 or more food items.
+11. Input:
+<noinput>
+11. Output:
+A healthy, well-balanced breakfast could include oatmeal topped with fresh berries, a side of plain Greek yogurt, a slice of whole-grain toast with almond butter, a small glass of orange juice, and a serving of scrambled egg whites with spinach.
+
+###
+12. Instruction: Train a dog to stop biting in three steps.
+12. Input:
+<noinput>
+12. Output:
+1. Redirect their attention: When your dog tries to bite, provide a chew toy or treat-dispensing toy to redirect their focus.
+2. Teach commands: Train your dog to understand and follow commands like "no" and "leave it."
+3. Socialize and reward: Socialize your dog with other people and pets, rewarding positive behavior with praise and treats, to reinforce non-biting tendencies.
+
+###
+13. Instruction: Explain the main difference between TCP and UDP.
+13. Input:
+<noinput>
+13. Output:
+The main difference between TCP and UDP is that TCP is a connection-oriented protocol, which establishes a reliable connection between sender and receiver before transferring data, while UDP is a connectionless protocol that sends data without guaranteeing delivery or order.
+
+###
+14. Instruction: Briefly describe cold fusion and its advantages over traditional nuclear fusion.
+14. Input:
+<noinput>
+14. Output:
+Cold fusion is a hypothetical type of nuclear reaction that occurs at or near room temperature, as opposed to traditional nuclear fusion that requires high temperatures. The advantages of cold fusion include reduced energy input, potentially lower costs, negligible radioactive waste, and a safer reaction process compared to traditional nuclear fusion.
+
+###
+15. Instruction: Correct any grammar, spelling, or punctuation errors found in the given text.
+15. Input:
+Their going too meet us at the resteraunt for lunch. Hurry, or we'll might be late!
+15. Output:
+They're going to meet us at the restaurant for lunch. Hurry, or we might be late!
+
+###
+16. Instruction: Write a short paragraph explaining why sleep is important for overall health.
+16. Input:
+<noinput>
+16. Output:
+Sleep is essential for maintaining overall health as it allows the body to restore and rejuvenate itself on a cellular level. During sleep, vital processes such as tissue repair, immune system function, and memory formation take place, contributing to physical health and cognitive function. Lack of sleep can lead to physical ailments, decreased mental performance, and elevated stress levels, underlining the importance of adequate sleep for our well-being.
+
+###
+17. Instruction: List five fundamental human rights that are protected under international law.
+17. Input:
+<noinput>
+17. Output:
+1. Right to life
+2. Prohibition of torture
+3. Right to liberty and security
+4. Right to a fair trial
+5. Freedom of expression
+
+###
+18. Instruction: Paraphrase the following sentence without changing its meaning.
+18. Input:
+The rising ocean levels are a direct consequence of climate change and can lead to devastating consequences for coastal regions.
+18. Output:
+Climate change is responsible for increasing sea levels, which can have disastrous impacts on coastal areas.
+
+###
+19. Instruction: Should the given movie trailer be classified as action, comedy, or drama? Provide an explanation for your answer.
+19. Input:
+The movie trailer showcases a series of high-speed car chases, daring bank heists, and intense shootouts between the main characters and law enforcement.
+19. Output:
+The movie trailer should be classified as action, as the scenes involve high-speed car chases, bank heists, and shootouts, which are typical elements of action films.
+
+###
+20. Instruction: Explain a simple method to improve air quality at home.
+20. Input:
+<noinput>
+20. Output:
+One simple method to improve air quality at home is to use houseplants. Many plants, such as spider plants, snake plants, and peace lilies, have air-purifying properties that can help remove pollutants and toxins while producing oxygen, thus improving indoor air quality.

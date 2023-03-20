@@ -1,0 +1,109 @@
+4. Instruction: Translate the following English text to French.
+4. Input:
+This is a beautiful day to go for a walk in the park.
+4. Output:
+C'est une belle journée pour aller se promener dans le parc.
+###
+5. Instruction: Find the past tense form of the following irregular verb.
+5. Input:
+begin
+5. Output:
+began
+###
+6. Instruction: Write a brief summary of the following article.
+6. Input:
+Uber Eats is buying food delivery startup Postmates for $2.65 billion in an all-stock transaction, both companies announced Monday. The deal will allow Uber to continue to rapidly expand the food delivery market, where it faces growing competition from Grubhub and DoorDash, among others. Uber Eats has been a bright spot for the ride-sharing company in recent months, as demand for rides has fallen sharply due to the COVID-19 pandemic. The deal, which is expected to close in the first quarter of 2021, will create a combined entity that will cover over 50% of the US food delivery market.
+6. Output:
+Uber Eats is acquiring food delivery startup Postmates for $2.65 billion in an all-stock deal to strengthen its position in the growing food delivery market. The deal, expected to close in early 2021, will help Uber Eats compete with rivals Grubhub and DoorDash, and cover over 50% of the US food delivery market.
+###
+7. Instruction: What are the main differences between Java and Python programming languages?
+7. Input:
+<noinput>
+7. Output:
+1. Syntax: Java uses braces to define code blocks, while Python uses indentation.
+2. Typing: Java is statically typed, whereas Python is dynamically typed.
+3. Verbosity: Java code is more verbose due to explicit type declarations, while Python code is more concise.
+4. Execution: Java compiles into bytecode that runs on the Java Virtual Machine (JVM), while Python code is interpreted at runtime.
+5. Performance: Java typically offers better performance than Python, due to its compiled nature and optimizations on the JVM.
+6. Libraries: Python has extensive libraries for data analysis and machine learning, while Java has a wider range of libraries for enterprise application development.
+###
+8. Instruction: Identify which type of literary device is used in the following sentence.
+8. Input:
+The wind was an angry beast, tearing through the city streets.
+8. Output:
+Personification
+###
+9. Instruction: Calculate the area of a triangle with base 10 units and height 8 units.
+9. Input:
+<noinput>
+9. Output:
+40 square units
+###
+10. Instruction: Rewrite the following sentence in passive voice.
+10. Input:
+They are building a new shopping mall near the city center.
+10. Output:
+A new shopping mall is being built near the city center.
+###
+11. Instruction: Identify the adjective in the following sentence.
+11. Input:
+The large elephant walked slowly across the savannah.
+11. Output:
+large
+###
+12. Instruction: Name the political and economic system that centers around the collective ownership of the means of production and aims to eliminate social inequality.
+12. Input:
+<noinput>
+12. Output:
+Socialism
+###
+13. Instruction: Convert the following decimal number to binary.
+13. Input:
+45
+13. Output:
+101101
+###
+14. Instruction: Correct the grammatical errors in the following sentence.
+14. Input:
+The books is on the table and their many pages
+14. Output:
+The book is on the table, and there are many pages.
+###
+15. Instruction: Provide the capital city and currency of Japan.
+15. Input:
+<noinput>
+15. Output:
+Capital city: Tokyo
+Currency: Japanese Yen (JPY)
+###
+16. Instruction: Write a haiku on the theme of winter.
+16. Input:
+<noinput>
+16. Output:
+Snowflakes gently fall,
+Silent, cold, embracing earth,
+Winter's calm descends.
+###
+17. Instruction: Check if the provided argument is a valid email address.
+17. Input:
+Jane.Doe@example.com
+17. Output:
+Valid email address
+###
+18. Instruction: Define the term 'photosynthesis' in the context of plant biology.
+18. Input:
+<noinput>
+18. Output:
+Photosynthesis is a process used by plants and some other organisms to convert light energy, usually from the sun, into chemical energy in the form of glucose or other sugars. This process involves the absorption of light by chlorophyll and the conversion of carbon dioxide and water into glucose and oxygen.
+###
+19. Instruction: Determine which category of machine learning the given algorithm belongs to: K-means clustering.
+19. Input:
+<noinput>
+19. Output:
+Unsupervised learning
+###
+20. Instruction: Suggest a solution for the following problem:
+20. Input:
+John wants to know the fastest route from his house to work, considering the current traffic conditions.
+20. Output:
+John can use a real-time GPS navigation app, such as Google Maps or Waze, which will calculate the fastest route based on his current location and live traffic information.

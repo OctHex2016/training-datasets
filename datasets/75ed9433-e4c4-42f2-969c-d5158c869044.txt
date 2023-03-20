@@ -1,0 +1,115 @@
+4. Instruction: Translate the following text from English to French: "By far, the best part of the trip was the beach we visited". 
+4. Input: 
+<noinput>
+4. Output: 
+De loin, la meilleure partie du voyage était la plage que nous avons visitée.
+
+5. Instruction: Write an advertisement for a new and innovative smartphone that has a built-in holographic display.
+5. Input: 
+<noinput>
+5. Output: 
+Introducing the HoloPhone X1! Revolutionize your smartphone experience with our cutting-edge holographic display technology. Transform your screen into a 3D world where video-calls come to life, games leap out, and movies immerse you like never before. Sleek design, powerful processor, and high-definition camera combine with this groundbreaking feature to redefine what a smartphone can do. Stay ahead of the curve with HoloPhone X1 – the future has arrived.
+
+6. Instruction: Edit the sentences to use gender-neutral language:
+"All salesmen and saleswomen must report their sales numbers to their manager by Friday."
+6. Input: 
+<quote>
+All salesmen and saleswomen must report their sales numbers to their manager by Friday.
+</quote>
+6. Output: 
+All salespeople must report their sales numbers to their manager by Friday.
+
+7. Instruction: List three common causes of car accidents, and provide a brief description for each.
+7. Input: 
+<noinput>
+7. Output: 
+1. Distracted Driving: Drivers engaging in activities such as texting, eating, or talking on the phone can lose focus on the road, resulting in accidents.
+2. Speeding: Driving at excessive speeds reduces reaction time and increases the likelihood of collisions.
+3. Driving under the influence: Alcohol and drugs impair perception, response time, and judgment, increasing the risk of accidents.
+
+8. Instruction: In three sentences, provide a summary of the novel "To Kill a Mockingbird" by Harper Lee.
+8. Input: 
+<noinput>
+8. Output: 
+"To Kill a Mockingbird" is set in the fictional town of Maycomb, Alabama, during the Great Depression. It follows the story of Scout Finch, her brother Jem, and their father Atticus, a lawyer who takes on a controversial case defending an African American man falsely accused of rape. The novel captures the themes of racism, moral growth, and the importance of standing up for what is right, even when it is challenging.
+
+9. Instruction: What are the three primary macronutrients in human nutrition? Provide a brief explanation of their functions.
+9. Input: 
+<noinput>
+9. Output: 
+1. Carbohydrates: Fuel the body by providing energy and aiding in digestion.
+2. Proteins: Essential for building and repairing tissues, supporting immune function, and maintaining hormone balance.
+3. Fats: Provide energy, store nutrients, and support cell growth.
+
+10. Instruction: How long can the average human hold their breath, and what is the world record time for static apnea (voluntary breath-hold)?
+10. Input: 
+<noinput>
+10. Output: 
+The average human can hold their breath for about 30 seconds to 2 minutes. The world record time for static apnea (voluntary breath-hold) is 11 minutes and 54 seconds.
+
+11. Instruction: Write a haiku about the beauty of a quiet winter night.
+11. Input: 
+<noinput>
+11. Output: 
+Silent snowflakes fall,
+Moonlit shadows on the ground,
+Winter whispers peace.
+
+12. Instruction: Identify the three major types of coral reefs and provide a brief description for each.
+12. Input: 
+<noinput>
+12. Output: 
+1. Fringing reefs: These reefs are directly attached to the shore and are the most common type of coral reef.
+2. Barrier reefs: These reefs run parallel to the shoreline but are separated from the shore by a deep, wide lagoon.
+3. Atolls: These are circular or horseshoe-shaped reefs that encircle a lagoon, typically formed around a volcanic island that has subsided.
+
+13. Instruction: Which famous physicist developed the theory of general relativity, and what is its essential idea?
+13. Input: 
+<noinput>
+13. Output: 
+Albert Einstein developed the theory of general relativity. Its essential idea is that gravity is not a force acting between masses but rather a curvature of spacetime caused by the presence of mass.
+
+14. Instruction: Rewrite the given sentence in passive voice: "The company launched a new product last week."
+14. Input: 
+<quote>
+The company launched a new product last week.
+</quote>
+14. Output: 
+A new product was launched by the company last week.
+
+15. Instruction: Explain the average annual temperature range for temperate deciduous forests and provide two examples of animals that inhabit this type of forest.
+15. Input: 
+<noinput>
+15. Output: 
+The average annual temperature range for temperate deciduous forests is between -30°C and 30°C. Two examples of animals that inhabit this type of forest are the white-tailed deer and the red fox.
+
+16. Instruction: Name one benefit of having a diverse ecosystem, and how that benefits the environment.
+16. Input: 
+<noinput>
+16. Output: 
+A diverse ecosystem increases the stability and resilience of the environment. When a variety of species coexist, it reduces the likelihood of collapse due to disturbances such as disease, climate change, or human activities, ensuring a healthy and functional ecosystem.
+
+17. Instruction: Write a motivational message to help someone overcome their fear of public speaking.
+17. Input: 
+<noinput>
+17. Output: 
+Believe in yourself and the power of your voice. Remember that everyone starts somewhere, and confidence grows with practice. Your thoughts and ideas are worth sharing, so take a deep breath, focus on the message you want to convey, and let your passion shine through. You've got this!
+
+18. Instruction: Describe the difference between renewable and non-renewable energy sources, and provide one example for each type.
+18. Input: 
+<noinput>
+18. Output: 
+Renewable energy sources are those that can be replenished naturally over a short period, while non-renewable energy sources are finite and deplete over time. An example of a renewable energy source is solar power, while an example of a non-renewable energy source is coal.
+
+19. Instruction: Write a short review of your favorite novel, providing the title and the reason why you enjoyed it.
+19. Input: 
+<noinput>
+19. Output: 
+My favorite novel is "1984" by George Orwell. The novel is a powerful dystopian story that provides a haunting vision of a society controlled by a totalitarian regime. The themes of surveillance, censorship, and the importance of individual freedom resonated with me deeply, making it a thought-provoking and unforgettable read.
+
+20. Instruction: Create a math riddle for someone to solve, including the answer.
+20. Input: 
+<noinput>
+20. Output: 
+Riddle: If you multiply me by any other number, the result will always be the same. What number am I?
+Answer: 1, because any number multiplied by 1 results in the same number.

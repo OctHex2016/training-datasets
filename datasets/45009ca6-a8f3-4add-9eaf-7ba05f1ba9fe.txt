@@ -1,0 +1,112 @@
+4. Instruction: Transform the text into passive voice.
+4. Input: 
+The cat chased the mouse through the garden.
+4. Output: 
+The mouse was chased through the garden by the cat.
+
+5. Instruction: Identify grammatical errors in the text and correct them.
+5. Input: 
+She like going to school because their is friends there.
+5. Output: 
+She likes going to school because there are friends there.
+
+6. Instruction: Explain the main cause of global warming.
+6. Input:
+<noinput>
+6. Output: 
+The main cause of global warming is the increased levels of greenhouse gases, particularly carbon dioxide, in the Earth's atmosphere due to human activities such as burning fossil fuels, deforestation, and industrial processes.
+
+7. Instruction: Summarize the plot of the novel "Pride and Prejudice" by Jane Austen.
+7. Input: 
+<noinput>
+7. Output: 
+"Pride and Prejudice" is a romantic novel following the lives of Elizabeth Bennet and her four sisters, set in early 19th century England. The story explores the themes of love, marriage, and social class, as Elizabeth and her sisters navigate societal expectations for relationships. Elizabeth meets the wealthy and aloof Mr. Darcy, experiencing a series of misunderstandings that ultimately lead to a change in their perspectives, and the development of their love for each other.
+
+8. Instruction: Translate the following sentence from English to French.
+8. Input: 
+Where is the nearest train station?
+8. Output: 
+Où se trouve la gare la plus proche?
+
+9. Instruction: Suggest 3 tips for better time management.
+9. Input: 
+<noinput>
+9. Output: 
+1. Prioritize tasks based on urgency and importance.
+2. Allocate specific time slots to work on different tasks, breaking larger projects into smaller, manageable steps.
+3. Minimize distractions and maintain focus on one task at a time.
+
+10. Instruction: Classify the following song lyrics as positive or negative in tone.
+10. Input:
+"Here comes the sun, doo-doo-doo-doo
+Here comes the sun, and I say
+It's all right."
+10. Output:
+Positive
+
+11. Instruction: Rearrange the sentences in a logical order to form a coherent paragraph.
+11. Input: 
+There was once a prince who wanted to marry a princess. Unfortunately, he could never tell if they were real princesses. Finally, a simple test using a pea and many mattresses helped the prince find his true princess. He tried many methods to find a real princess but was always uncertain.
+11. Output: 
+There was once a prince who wanted to marry a princess. Unfortunately, he could never tell if they were real princesses. He tried many methods to find a real princess but was always uncertain. Finally, a simple test using a pea and many mattresses helped the prince find his true princess.
+
+12. Instruction: Describe a technique to meditate for beginners.
+12. Input:
+<noinput>
+12. Output: 
+A simple technique for beginners is mindfulness meditation. Sit comfortably in a quiet space, with a straight back and relaxed shoulders. Close your eyes and bring your attention to your breath. Observe each inhale and exhale without trying to control it. If your mind wanders, gently bring your focus back to your breathing. Start with practicing for 5-10 minutes and gradually increase the duration over time.
+
+13. Instruction: Calculate the tip amount for a $50 bill at a 15% tip rate.
+13. Input:
+<noinput>
+13. Output: 
+$7.50
+
+14. Instruction: List 3 ways a person can show empathy towards others.
+14. Input: 
+<noinput>
+14. Output: 
+1. Actively listen to the person, giving them your full attention.
+2. Validate their feelings and emotions, without judgment.
+3. Offer support, understanding, and reassurance.
+
+15. Instruction: Write a poetic description of a sunset.
+15. Input: 
+<noinput>
+15. Output: 
+As the sun descends, painting the sky with fiery hues,
+An orchestra of colors dances across the horizon.
+Crimson, amber, and gold kissing the edge of the world,
+A fleeting moment of beauty before the blanket of night.
+
+16. Instruction: What should be done in case of a minor burn injury?
+16. Input:
+<noinput>
+16. Output: 
+For a minor burn, immediately run cool water over the affected area for 10-15 minutes or apply a cold, wet cloth. After that, gently pat the area dry and apply an antibiotic ointment. Cover the burn with a sterile, non-stick bandage and keep it clean. Avoid using ice, butter, or other home remedies on the burn.
+
+17. Instruction: Provide the gist of the given article in two sentences.
+17. Input: 
+In a groundbreaking study, researchers claim to have found a potential new treatment for Alzheimer's disease. The experimental drug called Aducanumab, developed by the biotech company Biogen, has demonstrated promising results in slowing cognitive decline in patients with early-stage Alzheimer's.
+17. Output: 
+Researchers have found a new experimental drug, Aducanumab, with potential in treating Alzheimer's disease. It shows promise in slowing cognitive decline in early-stage patients.
+
+18. Instruction: Compose a haiku about a snowy winter day.
+18. Input: 
+<noinput>
+18. Output: 
+Snowflakes gently fall,
+Whispering serenity,
+Winter world asleep.
+
+19. Instruction: Provide an example of a metaphor.
+19. Input: 
+<noinput>
+19. Output: 
+Laughter is the music of the soul.
+
+20. Instruction: Critique the given painting in a few sentences.
+20. Input: 
+Starry Night by Vincent van Gogh
+20. Output: 
+Starry Night by Vincent van Gogh is a visually captivating masterpiece, with its bold, imaginative style and powerful use of color. The swirling strokes in the sky evoke a sense of movement, contrasting with the stillness of the small village below. The painting's emotional intensity and unique expression reflect van Gogh's distinct artistic vision, transcending reality and inviting the viewer into a dream-like space.

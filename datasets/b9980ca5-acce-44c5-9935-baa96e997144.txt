@@ -1,0 +1,54 @@
+4. Instruction: Rewrite the following sentences using more formal language.
+4. Input: 
+Hey there! Just wanted to check if there are any updates about our meeting tomorrow morning. I guess I'll grab a cup of coffee before joining you all.
+4. Output: 
+Greetings. I would like to inquire if there are any updates regarding our meeting scheduled for tomorrow morning. I plan to procure a cup of coffee prior to joining the session.
+
+5. Instruction: Summarize the main idea of the given passage.
+5. Input: 
+The primary goal of environmental sustainability is to conserve the Earth's natural resources for the long term benefit of humanity. The three aspects of environmental sustainability are social, economic, and environmental, which are interconnected and must be balanced for a more sustainable future. This can be achieved by reducing our ecosystem's rate of degradation, preserving natural capital, and reducing the use of non-renewable resources.
+5. Output: 
+Environmental sustainability aims to protect Earth's natural resources for the benefit of future generations by considering its social, economic, and environmental aspects. Achieving this requires reducing ecosystem degradation, preserving natural capital, and minimizing the use of non-renewable resources.
+
+6. Instruction: Identify two examples of personification from the given poem text.
+6. Input: 
+Breezes blow upon the hill,
+Whispering secrets to the trees,
+Grasses swayed to their gentle tune,
+Dancing with the moonlit breeze.
+
+The rugged mountains stood tall,
+Their peaks lost in the sky,
+A river hums a lullaby,
+As it flows gently by.
+6. Output: 
+1. "Whispering secrets to the trees."
+2. "A river hums a lullaby."
+
+7. Instruction: Determine the purpose of the following survey question and suggest a way to improve it.
+7. Input: 
+"How annoying do you find pop-up advertisements on websites? Scale from 1-10 (1 being barely annoying and 10 being extremely annoying)."
+7. Output: 
+Purpose: To gauge the level of annoyance caused by pop-up advertisements on websites.
+
+Suggested Improvement: "On a scale of 1-10, please rate your level of annoyance with pop-up advertisements on websites (1 being barely annoying and 10 being extremely annoying)."
+
+8. Instruction: Point out the logical fallacy in the following statement.
+8. Input: 
+If we allow children to use smartphones, they will just spend all their time on them and won't focus on their studies.
+8. Output: 
+This statement has a slippery slope fallacy, as it assumes a series of dire consequences from allowing children to use smartphones without proper evidence to support those claims.
+
+9. Instruction: Propose three creative taglines for a company selling eco-friendly products.
+9. Input: 
+<noinput>
+9. Output: 
+1. "Nature's Ally: Sustainable Solutions for Modern Living."
+2. "Brighter Tomorrow: Innovating Earth-Friendly Choices Today."
+3. "Green Horizons: Eco-care for a Better World."
+
+10. Instruction: Analyze the given phrase and identify whether it is an idiom, metaphor, or simile.
+10. Input: 
+"Break a leg!"
+10. Output: 
+Idiom

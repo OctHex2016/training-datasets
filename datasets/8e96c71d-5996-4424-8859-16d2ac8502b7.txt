@@ -1,0 +1,63 @@
+4. Instruction: Rewrite the given text in a more formal tone.
+4. Input: 
+Hey, I just wanted to let you know that I can't make it to your party this weekend. I've got a lot of work to do, so I'm gonna have to pass. Sorry, and I hope y'all have a great time!
+4. Output: 
+I regret to inform you that I will be unable to attend your party this weekend due to an overwhelming amount of work obligations. Please accept my apologies, and I wish you a delightful gathering.
+
+###
+5. Instruction: Provide a brief summary of the given text.
+5. Input: 
+In the novel "To Kill a Mockingbird" by Harper Lee, the story revolves around a young girl named Scout Finch and her brother Jem who live with their father Atticus in the fictional town of Maycomb, Alabama. The book examines themes of morality, justice, innocence, prejudice, and empathy, setting its characters against the backdrop of racial inequality in the American South in the 1930s. Atticus Finch, a respected lawyer, is assigned the difficult task of defending Tom Robinson, a black man who has been falsely accused of raping a white woman. As the story unfolds, Atticus' defense of Tom and the relations between white and black residents of Maycomb are starkly exposed, revealing the deeply ingrained bigotries and prejudices of Southern society during that time.
+5. Output: 
+"To Kill a Mockingbird" is a novel by Harper Lee that follows the lives of Scout Finch and her family in 1930s Alabama, amidst prevalent racial prejudices. The story explores themes such as morality and justice when Scout's father, lawyer Atticus Finch, defends a black man falsely accused of rape.
+
+###
+6. Instruction: Recommend five movies from different genres, with a brief description of each.
+6. Input: 
+<noinput>
+6. Output: 
+1. The Shawshank Redemption (Drama) - A poignant story of friendship and hope set in a maximum-security prison, where a falsely accused man forms an unlikely bond with a fellow inmate.
+2. Inception (Sci-fi) - A suspenseful thriller that takes you on a journey into the world of dreams, featuring a team of skilled extractors who must navigate through layers of consciousness.
+3. The Godfather (Crime) - An epic crime drama that delves into the powerful and morally complex world of the mafia, as an aging patriarch passes control to his reluctant son.
+4. Spirited Away (Animated) - A beautifully crafted and enchanting tale of a young girl who finds herself in a magical world, where she must navigate her way through various obstacles to save her parents.
+5. The Notebook (Romance) - An emotional love story that transcends time and tells the tale of two young lovers from different social backgrounds amidst the backdrop of World War II.
+
+###
+7. Instruction: Correct any grammar errors and awkward phrasing of the given text.
+7. Input: 
+These days, social medias is a effective way to get attentionn from public. The more followers or subscribers you got, the more higher assumtion of influencer you become.
+7. Output: 
+These days, social media is an effective way to attract public attention. The more followers or subscribers you have, the higher your perceived influence becomes.
+
+###
+8. Instruction: Translate the given English text into French.
+8. Input: 
+I would like to organize a meeting for tomorrow. Can you suggest a suitable time and location?
+8. Output: 
+J'aimerais organiser une réunion pour demain. Pouvez-vous suggérer un horaire et un lieu appropriés?
+
+###
+9. Instruction: What are the potential advantages and disadvantages of artificial intelligence?
+9. Input: 
+<noinput>
+9. Output: 
+Advantages:
+1. Increased efficiency and accuracy
+2. Automation of repetitive tasks
+3. Improved decision-making
+4. Enhanced user experiences through personalization
+5. Ability to work 24/7 without fatigue
+
+Disadvantages:
+1. Job displacement and unemployment
+2. High setup and maintenance costs
+3. Reliance on connectivity and electricity
+4. Limitations in understanding human emotions and context
+5. Ethical and security concerns, such as privacy breaches and misuse of AI technologies
+
+###
+10. Instruction: Explain the given term in simple, layman's terms.
+10. Input: 
+Climate change
+10. Output: 
+Climate change refers to the long-term shifts in temperature, precipitation, and weather patterns on Earth, typically resulting from human activities like burning fossil fuels, deforestation, and pollution. This change leads to various environmental consequences, such as melting ice, rising sea levels, and extreme weather events.

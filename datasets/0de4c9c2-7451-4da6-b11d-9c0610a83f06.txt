@@ -1,0 +1,108 @@
+4. Instruction: Reframe the input question in an affirmative sentence.
+4. Input: 
+Is Elon Musk the founder of SpaceX?
+4. Output: 
+Elon Musk is the founder of SpaceX.
+###
+5. Instruction: Define the term in simple language.
+5. Input: 
+<noinput>
+5. Output: 
+Climate change refers to long-term changes in temperature, precipitation, and other atmospheric conditions that can affect weather patterns and ecosystems.
+###
+6. Instruction: Translate the input sentence from English to French.
+6. Input: 
+How long will it take to get to the nearest store?
+6. Output: 
+Combien de temps faudra-t-il pour se rendre au magasin le plus proche?
+###
+7. Instruction: Come up with a rhyming couplet using the given topic.
+7. Input: 
+Nature's beauty
+7. Output: 
+Nature's beauty, a canvas so divine,
+Blossoming colors and scents that intertwine.
+###
+8. Instruction: Solve the math problem.
+8. Input: 
+What is the derivative of the function: y = 6x^3 + 4x^2 - 2x + 4?
+8. Output: 
+y' = 18x^2 + 8x - 2
+###
+9. Instruction: Write the summary of the input paragraph.
+9. Input: 
+The North Atlantic Treaty Organization (NATO) is a political and military alliance of 30 North American and European countries. Established in 1949, its primary objective was to ensure military cooperation, collective defense against external threats, and to promote peace in Europe. NATO members jointly coordinate their defenses, basing the overall strategy on the principle that an attack on one member country would be considered an attack on all. Over the years, NATO has evolved and expanded its focus to tackle emerging security challenges like terrorism, cyber threats, and crisis response.
+9. Output: 
+NATO is a political and military alliance of 30 North American and European countries formed in 1949. Its primary objective is military cooperation, collective defense, and promoting peace in Europe. NATO has evolved over time to address emerging security challenges such as terrorism, cyber threats, and crisis response.
+###
+10. Instruction: Rewrite the input sentence in passive voice.
+10. Input: 
+She opened the windows to let some fresh air in.
+10. Output: 
+The windows were opened by her to let some fresh air in.
+###
+11. Instruction: For the given input, suggest two alternative ways to handle the situation.
+11. Input: 
+I accidentally sent a personal email to my boss instead of my friend.
+11. Output: 
+1. Send a follow-up email to your boss apologizing for the mistake and explaining it was unintentional.
+2. Approach your boss directly, apologize for that mistaken email and assure them it won't happen again.
+###
+12. Instruction: Pick out the main ingredients from the given recipe and list them.
+12. Input:
+For the spaghetti carbonara, you will need to buy 400g spaghetti, 2 tbsp of olive oil, 200g pancetta or bacon, diced, 3 large eggs, 100g parmesan cheese, freshly ground black pepper, and garnish with fresh parsley.
+12. Output:
+400g spaghetti, 2 tbsp olive oil, 200g pancetta or bacon, 3 large eggs, 100g parmesan cheese, fresh parsley.
+###
+13. Instruction: Create an acrostic poem using the word "LOVE".
+13. Input: 
+<noinput>
+13. Output: 
+Lingering whispers on a starry night,
+Optimistic heartbeats, dreams taking flight,
+Visions of happiness and warmth shared,
+Eternity in your embrace, for our love is declared.
+###
+14. Instruction: Identify the logical fallacy in the given statement.
+14. Input: 
+You shouldn't vote for her, as she's not even a good gardener.
+14. Output: 
+Red herring fallacy - the quality of her gardening skills is irrelevant to her capability as a candidate.
+###
+15. Instruction: Write a metaphor based on the given input.
+15. Input: 
+Our teamwork
+15. Output: 
+Our teamwork is a well-oiled machine, functioning seamlessly towards success.
+###
+16. Instruction: Convert the given Celsius temperature to Fahrenheit.
+16. Input: 
+36°C
+16. Output: 
+96.8°F
+### 
+17. Instruction: Come up with a tagline for the business described in the input.
+17. Input:
+A bakery specializing in customized cakes for all occasions.
+17. Output:
+A Slice of Delight - For every celebration, we add a personalized touch.
+###
+18. Instruction: Briefly explain the main principle of the given scientific concept.
+18. Input: 
+<noinput>
+18. Output:
+The greenhouse effect is a natural process where gases in the Earth's atmosphere, such as water vapor, carbon dioxide, and methane, trap heat from the sun, maintaining a balanced temperature on the planet for supporting life. However, human activities have caused an increase in these gases, leading to enhanced greenhouse effect and global warming.
+###
+19. Instruction: Determine the author's tone in the given sentence.
+19. Input:
+The so-called expert delivered his long-winded, convoluted explanation in such an unnecessarily complicated manner that half the audience had fallen asleep before he even finished his first point.
+19. Output:
+The author's tone is critical and sarcastic.
+###
+20. Instruction: Compose a haiku about the given subject.
+20. Input: 
+Morning dew
+20. Output:
+Morning dew glistens,
+Nature's jewels softly wake,
+Life's whispers begin.

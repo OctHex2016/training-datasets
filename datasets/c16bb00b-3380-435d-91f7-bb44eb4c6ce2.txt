@@ -1,0 +1,181 @@
+4. Instruction: Identify the logical fallacy in the given argument.
+4. Input: 
+You should trust Tim's opinion on smartphones because he has the latest iPhone.
+4. Output: 
+Appeal to Authority
+
+5. Instruction: Suggest three potential research topics related to environmental science.
+5. Input:
+<noinput>
+5. Output:
+1. The impact of climate change on biodiversity.
+2. Strategies for sustainable waste management in urban areas.
+3. The effectiveness of renewable energy sources in reducing greenhouse gas emissions.
+
+6. Instruction: Explain the term "opportunity cost" in simple words.
+6. Input:
+<noinput>
+6. Output:
+Opportunity cost refers to the value of the best alternative you missed out on by choosing another option.
+
+7. Instruction: Edit the given text to correct spelling and grammar mistakes.
+7. Input:
+I wnat to became a good wryter so I wiil keep practise writing everyday.
+7. Output:
+I want to become a good writer, so I will keep practicing writing every day.
+
+8. Instruction: Summarize the main idea of the text in one sentence.
+8. Input:
+The rise of electric vehicles (EVs) is reshaping the automotive industry, bringing new market players and demanding diversified strategies from established brands. Adoption of EVs has been driven by concerns about climate change and government incentives to reduce greenhouse gas emissions.
+8. Output:
+The surge in electric vehicle usage is transforming the automotive landscape due to climate change and government policies for emission reduction.
+
+9. Instruction: List three potential risks of investing in cryptocurrency.
+9. Input:
+<noinput>
+9. Output:
+1. High price volatility
+2. Cybersecurity risks, such as hacking of digital wallets
+3. Regulatory changes impacting the market
+
+10. Instruction: Write a brief paragraph describing the Golden Gate Bridge.
+10. Input:
+<noinput>
+10. Output:
+The Golden Gate Bridge, an iconic symbol of San Francisco, is a suspension bridge that spans the Golden Gate Strait. Opened in 1937, it has a total length of 1.7 miles, and its construction was an engineering feat. With its distinctive International Orange color and stunning surroundings, the bridge attracts millions of visitors each year.
+
+11. Instruction: Compose a haiku about autumn.
+11. Input:
+<noinput>
+11. Output:
+Crimson leaves falling,
+Cool breeze whispers to the trees,
+Autumn's breath takes hold.
+
+12. Instruction: Write a thesis statement about the impact of social media on human communication.
+12. Input:
+<noinput>
+12. Output:
+Social media has significantly altered human communication dynamics, fostering connections over vast distances while simultaneously impairing genuine face-to-face interactions.
+
+13. Instruction: What is the formula to calculate the area of a circle?
+13. Input:
+<noinput>
+13. Output:
+The formula to calculate the area of a circle is A = πr², where A is the area, π is approximately 3.14159, and r is the radius of the circle.
+
+14. Instruction: Analyze the tone of the following text.
+14. Input:
+You've given me a heartache that no one else could heal.
+You didn't even bat an eye as you turned away and walked right past me,
+leaving our memories in the dust.
+14. Output:
+The tone of the text is somber and melancholic.
+
+15. Instruction: Propose a plan to increase community involvement in a local park cleanup event.
+15. Input:
+<noinput>
+15. Output:
+1. Create flyers and social media posts to advertise the event.
+2. Reach out to schools, clubs, and organizations to encourage group participation.
+3. Offer incentives such as free refreshments, raffle prizes, and volunteer certificates.
+4. Partner with local businesses for sponsorships and support.
+5. Organize fun activities during the event to make it enjoyable for participants of all ages.
+
+16. Instruction: Detect the emotions expressed in the following lyrics.
+16. Input:
+At last, the skies above are blue,
+My heart was wrapped up in clover,
+The night I looked at you.
+16. Output:
+Joy, happiness, and love.
+
+17. Instruction: Name three items used in a traditional Japanese tea ceremony.
+17. Input:
+<noinput>
+17. Output:
+1. Chawan (tea bowl)
+2. Chasen (bamboo whisk)
+3. Natsume (tea caddy)
+
+18. Instruction: Translate the following line from Shakespeare's "Romeo and Juliet" into modern English.
+18. Input:
+O Romeo, Romeo, wherefore art thou Romeo?
+18. Output:
+Oh Romeo, Romeo, why are you Romeo?
+
+19. Instruction: What is the process of osmosis?
+19. Input:
+<noinput>
+19. Output:
+Osmosis is the movement of solvent molecules, often water, through a selectively permeable membrane, from an area of low solute concentration to an area of high solute concentration, in order to equalize the concentrations on both sides of the membrane.
+
+20. Instruction: From the following statements, identify which one is a fact and which one is an opinion.
+20. Input:
+Fact or Opinion: The apple is red.
+Fact or Opinion: The apple tastes delicious.
+20. Output:
+Fact: The apple is red.
+Opinion: The apple tastes delicious.
+
+21. Instruction: Write a persuasive sentence to convince someone to adopt a pet from an animal shelter.
+21. Input:
+<noinput>
+21. Output:
+Adopting a pet from an animal shelter not only gives you a loving companion but also saves a life and supports the fight against animal homelessness and overpopulation.
+
+22. Instruction: State two advantages of using solar energy.
+22. Input:
+<noinput>
+22. Output:
+1. Solar energy is a renewable and sustainable resource.
+2. Using solar energy reduces dependency on fossil fuels and lowers greenhouse gas emissions.
+
+23. Instruction: Formulate a question based on the information given in the sentence.
+23. Input:
+Emily won the first prize in the annual town baking competition with her delicious chocolate cake.
+23. Output:
+What kind of cake did Emily bake to win the first prize in the annual town baking competition?
+
+24. Instruction: Deduce a probable outcome from the given situation.
+24. Input:
+Due to severe storms, many roads are closed, and people are advised not to leave their homes unless necessary.
+24. Output:
+A probable outcome is that there will be significantly reduced traffic on the roads and a possible increase in demand for food delivery services.
+
+25. Instruction: Write a simile to describe how fast someone is running.
+25. Input:
+<noinput>
+25. Output:
+He was running as fast as a cheetah chasing its prey.
+
+26. Instruction: Describe the purpose of an annotated bibliography.
+26. Input:
+<noinput>
+26. Output:
+The purpose of an annotated bibliography is to provide an overview of the sources used in a research project, summarizing the main arguments, methods, and findings while also evaluating the credibility and relevance of each source to the topic of study.
+
+27. Instruction: Provide a brief explanation of photosynthesis.
+27. Input:
+<noinput>
+27. Output:
+Photosynthesis is a process in which plants, algae, and some bacteria convert light energy from the sun into chemical energy (glucose) using water and carbon dioxide, releasing oxygen as a byproduct.
+
+28. Instruction: Write a concise summary of the key points of a podcast episode about time management.
+28. Input:
+In this podcast episode, the hosts offer several time management techniques, emphasize the importance of setting priorities, and discuss ways to avoid procrastination. They suggest using methods such as the Pomodoro Technique, time blocking, and the Eisenhower Matrix to structure tasks effectively. Additionally, they recommend finding a personal organization system that works best for you, such as digital apps or traditional pen and paper.
+28. Output:
+The podcast explores time management by covering techniques like the Pomodoro Technique and the Eisenhower Matrix, highlighting priority-setting, addressing procrastination, and recommending personalized organization tools.
+
+29. Instruction: List two main differences between a resume and a CV (curriculum vitae).
+29. Input:
+<noinput>
+29. Output:
+1. A resume is typically shorter, 1-2 pages, while a CV can be longer and more extensive in detail.
+2. A resume focuses on relevant work experience and skills, whereas a CV includes a thorough account of a person's academic and professional history, including publications, presentations, and awards.
+
+30. Instruction: Provide a brief definition for "metaphor."
+30. Input:
+<noinput>
+30. Output:
+A metaphor is a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable, in order to imply a resemblance or make a symbolic comparison.

@@ -1,0 +1,122 @@
+4. Instruction: What is the capital of the country mentioned in the text?
+4. Input: 
+Mount Everest, the highest peak in the world, is located in the heart of the Himalayas in Nepal.
+4. Output: 
+Kathmandu
+
+5. Instruction: Write a brief summary for this news article.
+5. Input: 
+Apple announced its much-awaited iPhone 13 lineup yesterday during its annual September event. The new lineup, comprising the iPhone 13 Mini, iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max, features improved battery life, faster A15 Bionic chipset, and enhanced camera capabilities. The prices start at $699 for the iPhone 13 Mini and go up to $1,099 for the iPhone 13 Pro Max. Pre-orders will begin on September 17, with the devices being available in stores starting September 24.
+5. Output: 
+Apple unveiled the iPhone 13 lineup, including the Mini, standard, Pro, and Pro Max models. The new iPhones have enhanced battery life, faster A15 Bionic chipset, and improved camera functions. Prices range from $699 to $1,099, with pre-orders starting September 17 and availability in stores from September 24.
+
+6. Instruction: Translate the given text to Spanish.
+6. Input: 
+I can't wait to meet you in person.
+6. Output: 
+No puedo esperar a conocerte en persona.
+
+7. Instruction: Identify the author of the quote.
+7. Input: 
+"Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring."
+7. Output: 
+Marilyn Monroe
+
+8. Instruction: Detect any grammar mistakes in the given sentence and correct them.
+8. Input: 
+Me and him enjoys playing soccer during the weekends.
+8. Output: 
+He and I enjoy playing soccer during the weekends.
+
+9. Instruction: Provide an opening sentence for an article talking about the benefits of reading.
+9. Input: 
+<noinput>
+9. Output: 
+Embraced by millions, reading has long been celebrated as a gateway to knowledge, cognitive enrichment, and personal growth.
+
+10. Instruction: Write a haiku about nature.
+10. Input: 
+<noinput>
+10. Output: 
+Whispering leaves dance,
+Rivers caress the earth's skin,
+Nature breathes in peace.
+
+11. Instruction: What's the best way to get from point A to point B on this map?
+11. Input: 
+Sorry, I cannot provide an image. Please provide text-based information about points A and B.
+11. Output: 
+Unfortunately, without any details about the locations of points A and B, I am unable to provide the best route.
+
+12. Instruction: Provide dialogue for a conversation between two friends discussing their upcoming vacation plans.
+12. Input: 
+<noinput>
+12. Output: 
+Friend 1: "Hey, have you thought about where we should go for our vacation this year?"
+Friend 2: "Yeah! I was thinking about visiting the beach or maybe going for a mountain trip. What do you think?"
+Friend 1: "I love the idea of a mountain trip. We can hike, explore nature, and relax at the same time."
+Friend 2: "That sounds perfect! Let's start looking for some nice mountain lodges then."
+
+13. Instruction: Convert the following recipe into a vegetarian version.
+13. Input: 
+Ingredients:
+- 1 pound ground beef
+- 1/2 cup bread crumbs
+- 1/4 cup grated Parmesan cheese
+- 1/4 cup chopped parsley
+- 1/4 cup milk
+- 1/2 teaspoon salt
+- 1/4 teaspoon ground black pepper
+13. Output: 
+Ingredients:
+- 1 pound meatless ground (vegetarian protein)
+- 1/2 cup bread crumbs
+- 1/4 cup grated Parmesan cheese (or vegan cheese for a vegan version)
+- 1/4 cup chopped parsley
+- 1/4 cup milk (or plant-based milk for a vegan version)
+- 1/2 teaspoon salt
+- 1/4 teaspoon ground black pepper
+
+14. Instruction: Why was Nikola Tesla's connection to alternating current (AC) significant?
+14. Input: 
+<noinput>
+14. Output: 
+Nikola Tesla's connection to alternating current (AC) was significant because he improved and helped to develop the AC electrical system, which rapidly became the dominant technology for transmitting electricity over long distances. Tesla's work on AC was a key factor in making electric power widely available, efficient, and revolutionizing the landscape of the electrical industry.
+
+15. Instruction: List three PlayStation 4 exclusive games.
+15. Input: 
+<noinput>
+15. Output: 
+1. Bloodborne
+2. The Last of Us Part II
+3. God of War
+
+16. Instruction: Come up with a story title for a romance novel about a time-traveling protagonist.
+16. Input: 
+<noinput>
+16. Output: 
+"Heartbeats Across Time"
+
+17. Instruction: Which famous painter is associated with the term "Impressionism"?
+17. Input: 
+<noinput>
+17. Output: 
+Claude Monet
+
+18. Instruction: Provide an example of an alliteration using the letter "P."
+18. Input: 
+<noinput>
+18. Output: 
+Peter Piper picked a peck of pickled peppers.
+
+19. Instruction: Review the given book in one sentence.
+19. Input: 
+"The Catcher in the Rye" by J.D. Salinger
+19. Output: 
+A thought-provoking, raw portrayal of teenage angst and disillusionment, J.D. Salinger's "The Catcher in the Rye" still resonates with readers years after its publication.
+
+20. Instruction: Describe the process of photosynthesis.
+20. Input: 
+<noinput>
+20. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients with the help of chlorophyll, converting light energy into chemical energy by combining carbon dioxide and water, and ultimately producing oxygen and glucose.

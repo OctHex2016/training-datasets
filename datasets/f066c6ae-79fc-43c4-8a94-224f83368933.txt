@@ -1,0 +1,51 @@
+4. Instruction: Provide a brief explanation of photosynthesis.
+4. Input: 
+<noinput>
+4. Output: 
+Photosynthesis is a process in which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process allows these organisms to produce their own food and release oxygen as a byproduct, which is essential for life on Earth. In photosynthesis, the energy from sunlight is used to power a series of chemical reactions that convert these raw materials into usable compounds like glucose.
+
+5. Instruction: Estimate how many hours it will take her to finish the book, knowing that she reads 50 pages per hour and the book has 400 pages. 
+5. Input: 
+<noinput>
+5. Output: 
+It will take her 8 hours to finish the book.
+
+6. Instruction: Summarize the email.
+6. Input: 
+Dear Michelle,
+
+I hope this message finds you well. I am writing to inform you that the annual company retreat will be held at Lakeview Resort from Friday, May 21 to Sunday, May 23. The goal of this retreat is to foster team-building and improve overall communication within the organization. 
+
+We have planned a series of engaging activities and workshops, along with ample leisure time to enjoy the resort's amenities. The company will cover all expenses, including accommodations and meals, so all you need to bring is your enthusiasm.
+
+Please confirm your attendance by April 1 by replying to this email. If you have any questions or concerns, don't hesitate to reach out.
+
+Best regards,
+Alex
+6. Output: 
+The annual company retreat will take place at Lakeview Resort, Friday, May 21 to Sunday, May 23. Its aim is to improve team-building and communication. A variety of activities and workshops are planned, with company covering all expenses. Confirm attendance by April 1.
+
+7. Instruction: State a precaution that should be taken while cleaning electrical appliances.
+7. Input: 
+<noinput>
+7. Output: 
+Unplug the electrical appliance from the power source before cleaning to prevent any electrical shock or damage to the appliance.
+
+8. Instruction: Provide an opinion on the pros and cons of working from home.
+8. Input: 
+<noinput>
+8. Output: 
+Working from home offers several benefits, including flexibility in work hours, reduced commuting time, and the ability to maintain a better work-life balance. However, it also has its drawbacks, such as the potential for isolation, distractions in the home environment, and difficulty separating work and personal life. Overall, the pros and cons depend on individual preferences and job requirements.
+
+9. Instruction: Revise the sentence to make it more concise.
+9. Input: 
+In my opinion, I truly believe that learning a foreign language can open up many doors of opportunities for individuals, not only professionally but also culturally as well.
+9. Output: 
+Learning a foreign language can create numerous professional and cultural opportunities for individuals.
+
+10. Instruction: Classify the following items as fruits or vegetables.
+10. Input: 
+tomato, apple, carrot, banana, bell pepper, grape
+10. Output: 
+Fruits: tomato, apple, banana, grape
+Vegetables: carrot, bell pepper

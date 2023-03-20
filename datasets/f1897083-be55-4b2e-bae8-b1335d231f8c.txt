@@ -1,0 +1,124 @@
+4. Instruction: Summarize the following text in one sentence.
+4. Input: 
+During the Annual Shareholder Meeting, the leading tech company Stellar Wave announced that they will be focusing extensively on expanding their cloud computing services. This decision comes after conducting market analysis to identify areas of growth and high demand within the tech industry. As part of the expansion strategy, Stellar Wave's cloud computing division is set to grow by 30%, with an additional investment of over $2 billion. The company also plans to launch new tools for developers and improve the scalability and security of its cloud infrastructure.
+4. Output: 
+Stellar Wave will invest $2 billion to expand its cloud computing services by 30%, launching new developer tools and enhancing scalability and security.
+
+5. Instruction: Correct any grammatical errors in the given sentence.
+5. Input: 
+Me and my friend visit the library every weeks for studying.
+5. Output: 
+My friend and I visit the library every week for studying.
+
+6. Instruction: Write a haiku related to the input text.
+6. Input: 
+A quaint river flows,
+Gentle ripples on the surface,
+Nature's serene dance.
+6. Output:
+Quaint river's embrace,
+Soft waltz of ripples below,
+Nature at her best.
+
+7. Instruction: Name three famous paintings by the artist.
+7. Input: 
+Vincent van Gogh
+7. Output: 
+1. Starry Night
+2. Sunflowers
+3. Café Terrace at Night
+
+8. Instruction: Create a slogan for the following product.
+8. Input: 
+Product: EcoBottle - A reusable, eco-friendly water bottle made from recycled materials
+8. Output:
+EcoBottle - Hydrate the Green way, Change Starts with One Bottle.
+
+9. Instruction: List three reasons why the given statement may be incorrect.
+9. Input: 
+Eating carrots significantly improves eyesight.
+9. Output:
+1. Correlation does not imply causation.
+2. Vitamin A deficiency is only one cause of poor eyesight.
+3. Improvements from carrot consumption may not be noticeable or substantial in individuals with healthy eyes.
+
+10. Instruction: Explain why this quote may be true.
+10. Input: 
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+10. Output: 
+This quote suggests that success is not a permanent state and one must continue to strive for improvement, just as failure is not the end and can be overcome with determination and persistence.
+
+11. Instruction: Describe the following pattern in words.
+11. Input: 
+0, 1, 1, 2, 3, 5, 8, 13, 21
+11. Output: 
+The given sequence is the Fibonacci series, where each number is the sum of the two preceding ones, starting from 0 and 1.
+
+12. Instruction: Determine the author's intent in this sentence.
+12. Input: 
+Seeing his hard work pay off, Marcos felt a rush of happiness envelop his entire being.
+12. Output: 
+The author shows Marcos experiencing intense happiness and satisfaction from the success achieved through his diligent efforts.
+
+13. Instruction: Convert the following recipe into metric units.
+13. Input: 
+Ingredients:
+- 2 cups of flour
+- 1 cup of sugar
+- 1/2 cup of butter
+- 1 teaspoon of baking soda
+- 1/4 teaspoon of salt
+13. Output: 
+Ingredients:
+- 480 ml of flour
+- 240 ml of sugar
+- 120 ml of butter
+- 5 ml of baking soda
+- 1.25 ml of salt
+
+14. Instruction: Translate this text to Spanish.
+14. Input: 
+She was walking her dog in the park when it started to rain.
+14. Output: 
+Ella estaba paseando a su perro en el parque cuando comenzó a llover.
+
+15. Instruction: Recommend a movie title based on the given data.
+15. Input: 
+Interests: science fiction, space exploration, twists
+Favorite movie: Inception
+15. Output: 
+Interstellar
+
+16. Instruction: Calculate the compound interest for the given data.
+16. Input: 
+Principal Amount: $5,000
+Interest Rate: 3%
+Years: 5
+Compounding: Annually
+16. Output: 
+Compound Interest: $796.15
+
+17. Instruction: Who is the author of the given quote?
+17. Input: 
+"Give me six hours to chop down a tree, and I will spend the first four sharpening the axe." - ?
+17. Output: 
+Abraham Lincoln
+
+18. Instruction: What is the technique used in the given painting?
+18. Input: 
+The Persistence of Memory by Salvador Dalí
+18. Output: 
+Surrealism
+
+19. Instruction: Rate this hotel review from 1 to 5, where 1 means terrible and 5 means excellent. 
+19. Input: 
+Beautiful location, spacious rooms, very clean, excellent service! Loved the view and the amenities were top-notch. Definitely coming back to this place on my next vacation.
+19. Output: 
+5
+
+20. Instruction: Propose two alternative energy sources for the given scenario.
+20. Input: 
+A rural village in a hilly area with limited access to the electricity grid
+20. Output: 
+1. Solar power
+2. Micro-hydro systems

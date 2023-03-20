@@ -1,0 +1,114 @@
+
+
+4. Instruction: Given a short paragraph, compress it into a single sentence summary.
+4. Input: 
+The United Nations is a global organization dedicated to maintaining international peace and stability by promoting cooperation among nations. Its mandate is to provide a forum for discussion of international issues, facilitate negotiation of agreements and treaties, and foster social and economic development.
+4. Output: 
+The United Nations is an organization that supports global peace and stability by encouraging cooperation among nations, hosting international discussions, facilitating negotiations of agreements and treaties, and supporting social and economic development.
+###
+5. Instruction: Provide a recommendation for a book based on a specific genre and a plot you enjoyed recently. 
+5. Input: 
+Genre: Mystery 
+Plot: An amateur detective aims to find out the truth behind his girlfriend's disappearance. The clues lead him to a dark secret that changes everything.
+5. Output: 
+I would recommend "The Girl on the Train" by Paula Hawkins. Like the mystery plot you described, it features an amateur detective trying to unravel a dark and complex web of secrets. The novel is fast-paced and suspenseful, with plenty of twists and turns to keep the reader guessing till the end. 
+###
+6. Instruction: Complete a sentence with the appropriate word or phrase.
+6. Input: 
+She was a well-respected professor of __________.
+6. Output: 
+She was a well-respected professor of history, known for her expertise in various areas, including ancient civilizations and modern political movements.
+###
+7. Instruction: Summarize an article on a topic of interest to you.
+7. Input: 
+Article: 
+Title: The Science of Happiness
+Content: This article explains that happiness is a state of mind that can be achieved by understanding how your brain works, recognizing your own positive qualities, and cultivating healthy habits. By practicing gratitude, mindfulness, and positive thinking, individuals can increase their happiness and overall well-being.
+7. Output: 
+According to the article "The Science of Happiness," happiness is a mental state that can be achieved by understanding how the brain works, acknowledging one's own positive qualities, and cultivating healthy habits. By practicing gratitude, mindfulness, and positive thinking, people can increase their overall well-being and lead happier lives.
+###
+8. Instruction: Revise an email to make it more professional.
+8. Input: 
+Dear John,
+I'm so excited to start working on this project with you! Can we meet at the coffee shop near my house tomorrow?
+Best,
+Alice
+8. Output: 
+Dear Mr. Smith,
+I am very pleased to have the opportunity to collaborate with you on this project. Would it be possible to arrange a meeting to discuss the project in more detail? I suggest a time and date that are most convenient for you.
+Sincerely,
+Alice Johnson
+###
+9. Instruction: Given a topic or question, provide a brief explanation or answer. 
+9. Input: 
+Topic: Carbon footprint
+9. Output: 
+Carbon footprint refers to the amount of greenhouse gases, primarily carbon dioxide, that are emitted by a person, organization, or product. It is a measure of the impact of human activities on the environment, and is typically expressed in terms of CO2-equivalent units. Reducing one's carbon footprint is an important way to mitigate climate change and promote sustainability.
+###
+10. Instruction: Given a sentence with grammatical errors, correct it.
+10. Input: 
+The book lays on the table, opened to the same page for hours. 
+10. Output: 
+The book has been lying on the table open to the same page for hours. 
+###
+11. Instruction: Given a sentence, convert it into a question.
+11. Input: 
+The movie was filmed in Germany.
+11. Output: 
+Was the movie filmed in Germany?
+###
+12. Instruction: Given a sentence, rewrite it in the opposite voice.
+12. Input: 
+The boy kicked the ball.
+12. Output: 
+The ball was kicked by the boy.
+###
+13. Instruction: Given a phrase, provide a synonym or definition. 
+13. Input: 
+Phrase: carte blanche
+13. Output: 
+Carte blanche is a french term that means "unrestricted power to act as one wishes." It is usually used to describe situations where someone is given total freedom to make decisions or take actions without any restrictions or limitations.
+###
+14. Instruction: Given two sentences on a topic, combine them into a single sentence.
+14. Input: 
+1. The sky was cloudy.
+2. It was going to rain soon.
+14. Output: 
+The sky was cloudy and it was going to rain soon.
+###
+15. Instruction: Paraphrase a sentence to make it simpler and easier to understand.
+15. Input: 
+Despite several attempts, the researchers were unable to replicate the experiment, which cast doubt on the validity of the original study.
+15. Output: 
+The researchers couldn't repeat the experiment, which made them question if the original study was right.
+###
+16. Instruction: Given a word or phrase, provide an example to illustrate its usage. 
+16. Input: 
+Phrase: cognitive dissonance 
+16. Output: 
+Cognitive dissonance is the mental discomfort people experience when they hold two or more contradictory beliefs, ideas or values. For example, a person might believe that smoking is harmful to one's health, but also smoke regularly. This contradiction creates cognitive dissonance, making the person feel uncomfortable or uneasy.
+###
+17. Instruction: Fill in the blank with the appropriate word or phrase.
+17. Input: 
+The room is __________ with sunlight. 
+17. Output: 
+The room is filled with sunlight, giving it a warm and cozy feeling.
+###
+18. Instruction: Given a statement, provide an argument for or against it.
+18. Input: 
+Statement: College education should be free for everyone. 
+18. Output: 
+Argument for: College education should be free for everyone because it would improve accessibility and equality, allowing people from all backgrounds to get the education they need to succeed. This would also promote economic growth and innovation by investing in human capital.
+Argument against: College education shouldn't be free for everyone because it would be too expensive for taxpayers and wouldn't incentivize students to work hard and make responsible choices. Additionally, free college education would diminish the value of a degree, making it less competitive in the job market.
+###
+19. Instruction: Given a scenario, provide a recommendation on how to resolve it.
+19. Input:
+Scenario: You are working on an important project, but you keep getting distracted by social media notifications on your phone.
+19. Output:
+To avoid distraction from social media notifications, you can turn off notifications from apps or put your phone in silent mode. Also, try to schedule specific blocks of time for social media use, and stick to it. Alternatively, you can use apps that help you limit your social media use, like "Freedom" or "StayFocusd". Finally, you can try to work in a different setting, like a quiet library or coffee shop, where the environment is conducive to concentration. 
+###
+20. Instruction: Given a sentence, add a descriptive detail to make it more engaging.
+20. Input: 
+The sun was shining.
+20. Output: 
+The sun was shining brightly, casting a warm golden light over the landscape and illuminating the vibrant colors of the flowers in the garden.

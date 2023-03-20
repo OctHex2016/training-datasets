@@ -1,0 +1,112 @@
+4. Instruction: Write a short story that involves a character named Alice and a dog named Max. 
+4. Input: 
+<noinput>
+4. Output: 
+Once there was a girl named Alice who loved spending time with her dog Max. They went on adventures together and always had fun, but one day Max got sick. Alice took care of him and got him the help he needed so they could continue their adventures together. They grew even closer after that and had many more happy days together.
+###
+5. Instruction: Given a list of words, sort the words in alphabetical order and return the first and last words in the sorted list. 
+5. Input: 
+apple, banana, cat, dog, elephant
+5. Output: 
+apple, elephant
+###
+6. Instruction: What is the capital of Kyrgyzstan? 
+6. Input: 
+<noinput>
+6. Output: 
+Bishkek
+###
+7. Instruction: Rewrite the following sentence to have a different structure: "The cat meowed loudly at the door." 
+7. Input: 
+<noinput>
+7. Output: 
+At the door, the cat let out a loud meow.
+###
+8. Instruction: Given a list of numbers, find the second highest number. 
+8. Input: 
+2, 5, 7, 10, 3
+8. Output: 
+7
+###
+9. Instruction: Write a poem about the color blue. 
+9. Input: 
+<noinput>
+9. Output: 
+Blue is the color of the sea,  
+Of the sky at dusk and dawn,  
+Of the eyes of that someone,  
+Who you're thinking of every morn.  
+It's a color that speaks to the soul,  
+Of calmness and of peace,  
+It reminds us of our goals,  
+And the joys that we all seek.  
+###
+10. Instruction: How many elements are in the periodic table? 
+10. Input: 
+<noinput>
+10. Output: 
+118
+###
+11. Instruction: Given a list of numbers, return the sum of the squares of the even numbers in the list. 
+11. Input: 
+1, 2, 3, 4, 5, 6
+11. Output: 
+56 (2^2 + 4^2 + 6^2)
+###
+12. Instruction: Describe the weather in Tokyo. 
+12. Input: 
+<noinput>
+12. Output: 
+It is mostly sunny with a few clouds and a high of 25 degrees Celsius. There is a slight chance of rain later in the evening.
+###
+13. Instruction: Rewrite the following sentence to convey the same meaning using a different word choice: "The boy was happy to be going to the party." 
+13. Input: 
+<noinput>
+13. Output: 
+The boy was delighted to be going to the party.
+###
+14. Instruction: Write a short script for a dialogue between two characters discussing their hobbies. 
+14. Input: 
+<noinput>
+14. Output: 
+Character 1: Hey, do you have any hobbies?
+Character 2: Yeah, I like to paint and knit. How about you?
+Character 1: I play guitar and I like to write music.
+Character 2: That's really cool. We should do something artistic together sometime.
+Character 1: Yeah, that sounds like fun.
+###
+15. Instruction: Given a list of colors, return the color that appears the most frequently in the list. 
+15. Input: 
+red, blue, green, blue, purple, pink, blue
+15. Output: 
+blue
+### 
+16. Instruction: How do you make a cake from scratch? 
+16. Input: 
+<noinput>
+16. Output: 
+To make a cake from scratch, you will need flour, sugar, eggs, butter, baking powder, and milk. Mix the dry ingredients together, then cream the butter and sugar, add the eggs and wet ingredients, and finally mix everything together and pour it into a greased baking pan. Bake at 350 degrees Fahrenheit for about 30 minutes or until a toothpick inserted into the center comes out clean. Frost and decorate as desired.
+###
+17. Instruction: Given a list of words, return a new list in reverse order. 
+17. Input: 
+dog, cat, mouse, bird, fish
+17. Output: 
+fish, bird, mouse, cat, dog
+###
+18. Instruction: What are the three primary colors? 
+18. Input: 
+<noinput>
+18. Output: 
+The three primary colors are red, blue, and yellow.
+###
+19. Instruction: Write a paragraph about your favorite book. 
+19. Input: 
+<noinput>
+19. Output: 
+My favorite book is "The Catcher in the Rye" by J.D. Salinger. I love the way it explores themes of teenage angst and alienation, and the character of Holden Caulfield is so relatable and memorable. The writing is also very engaging and keeps me hooked from beginning to end. I've read it multiple times and it never gets old.
+###
+20. Instruction: Given a list of numbers, return the median value in the list. 
+20. Input: 
+1, 2, 3, 4, 5, 6, 7
+20. Output: 
+4

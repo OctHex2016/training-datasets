@@ -1,0 +1,122 @@
+4. Instruction: Determine the literary devices used in the given text. 
+4. Input: 
+All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts, his acts being seven ages.
+4. Output: 
+metaphor, simile, personification
+
+###
+5. Instruction: Paraphrase the given quote from a notable person.
+5. Input: 
+"In the end, we will remember not the words of our enemies, but the silence of our friends." - Martin Luther King Jr.
+5. Output: 
+Ultimately, it's not the hurtful words of our adversaries that will stay with us but the quiet inaction of those we consider friends. 
+
+###
+6. Instruction: Provide a synonym and an antonym for the given word.
+6. Input: 
+achieve
+6. Output: 
+Synonym: accomplish; Antonym: fail
+
+###
+7. Instruction: Write a short summary of the given news article.
+7. Input: 
+"E-Commerce giant Amazon plans to open three new fulfillment centers in Ohio. The facilities, in Akron, Toledo, and Groveport, are expected to create more than 3,500 full-time jobs with industry-leading pay and benefits. Workers at the new fulfillment centers will pick, pack, and ship customer items, such as books, toys, kitchenware, and electronics. Amazon's new investments are projected to be around $890 million, and the centers are scheduled to open in late 2022. Ohio state government and local authorities are truly excited, as these projects will bring significant employment opportunities and economic development to the region."
+7. Output: 
+Amazon is set to open three new fulfillment centers in Akron, Toledo, and Groveport, Ohio, creating over 3,500 full-time jobs. The $890 million investment will focus on pick, pack, and ship operations for various products, with the facilities planned to open in late 2022.
+
+###
+8. Instruction: Write a haiku about nature.
+8. Input: 
+<noinput>
+8. Output: 
+Whispering wind calls,
+Leaves dance through the autumn light,
+Nature's symphony.
+
+###
+9. Instruction: Compare and contrast the main ideas of two given works or texts.
+9. Input: 
+Book 1: "The Catcher in the Rye" by J.D. Salinger
+Book 2: "To Kill a Mockingbird" by Harper Lee
+9. Output: 
+Both "The Catcher in the Rye" and "To Kill a Mockingbird" explore themes of innocence and coming of age. While "The Catcher in the Rye" takes a more pessimistic view of adolescent struggles and alienation, "To Kill a Mockingbird" reflects on morality, justice, and empathy through the eyes of a young girl in the racially divided American south.
+
+###
+10. Instruction: Translate the text into French.
+10. Input: 
+Please wait in line until your turn comes.
+10. Output: 
+Veuillez attendre dans la file jusqu'à ce que votre tour arrive.
+
+###
+11. Instruction: Proofread and correct any grammatical errors in the given text.
+11. Input: 
+Me and my freind goes to the libary to borrow a cook book. Theirs so many to chose from, it's hard to decide wich one to take.
+11. Output: 
+My friend and I go to the library to borrow a cookbook. There are so many to choose from, it's hard to decide which one to take.
+
+###
+12. Instruction: Write two historical events that occurred during Leonardo da Vinci's lifetime. 
+12. Input: 
+<noinput>
+12. Output: 
+1. Columbus discovers the New World in 1492.
+2. Fall of Constantinople in 1453.
+
+###
+13. Instruction: Convert the obtained Fahrenheit temperature into Celsius.
+13. Input: 
+The temperature in New York is reported to be 68°F.
+13. Output: 
+The temperature in New York is 20°C.
+
+###
+14. Instruction: Explain the significance of the given scientific concept.
+14. Input: 
+Evolution by natural selection
+14. Output: 
+Evolution by natural selection is a fundamental process in biology, first proposed by Charles Darwin. It explains how species adapt and change over generations through the survival and reproduction of individuals with advantageous traits, eventually leading to the development of new species. This concept not only enriches our understanding of the diversity of life on Earth but is also the principal guiding theory underlying modern biological research and discoveries.
+
+###
+15. Instruction: Write an advice on handling stress and maintaining work-life balance.
+15. Input: 
+<noinput>
+15. Output: 
+To manage stress and maintain work-life balance, focus on setting boundaries between work and personal time, delegating tasks when needed, prioritizing self-care, and incorporating physical activity, relaxation techniques, or hobbies into your daily routine. It's essential to communicate openly with coworkers, supervisors, or family members when necessary to create a supportive environment that fosters healthy balance.
+
+###
+16. Instruction: Propose a marketing slogan for the new line of electric bikes.
+16. Input: 
+<noinput>
+16. Output: 
+"Revolutionize your ride! Experience the effortless future of cycling with our eco-friendly electric bikes."
+
+###
+17. Instruction: Pick one country from Africa and provide its capital city and official language. 
+17. Input: 
+<noinput>
+17. Output: 
+Country: Kenya; Capital: Nairobi; Official language: English, Swahili
+
+###
+18. Instruction: Describe the role of chlorophyll in photosynthesis.
+18. Input: 
+<noinput>
+18. Output: 
+Chlorophyll is a green pigment found in the chloroplasts of plant cells. Its primary role in photosynthesis is to absorb light energy from the sun, initiating the process of converting it into chemical energy stored as glucose, providing plants with the fuel they need for growth and development. Chlorophyll is essential for capturing the light necessary for the light-dependent reactions of photosynthesis.
+
+###
+19. Instruction: Debunk the misconception presented and provide the correct information.
+19. Input: 
+Vaccines cause autism.
+19. Output: 
+Multiple scientific studies have debunked the myth that vaccines cause autism. There is no evidence to support this claim, and vaccines have been proven safe and effective in preventing various diseases. The original publication that sparked the myth has been retracted due to fraudulent data and unethical practices by the author.
+
+###
+20. Instruction: Invent a new word and provide its definition.
+20. Input: 
+<noinput>
+20. Output: 
+Word: Pextivity
+Definition: The act of engaging in spontaneous creative activities with friends, combining elements of playfulness, exploration, and collaboration.

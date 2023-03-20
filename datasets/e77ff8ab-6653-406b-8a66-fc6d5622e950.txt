@@ -1,0 +1,101 @@
+4. Instruction: Given a paragraph, output the most frequent word and its count.
+4. Input:
+In the world of finance, diversification is often considered the holy grail. If you’ve ever listened to an investment manager talk about investment risk, you’ve likely heard the phrase “diversify your portfolio.” Although diversification can’t make you immune to loss, it’s a critical part of investing that helps to spread out and mitigate risk.
+4. Output:
+The (4)
+###
+5. Instruction: Given a sentence, output the sentiment of the sentence. The sentiment can be positive, negative, or neutral.
+5. Input:
+This is the best restaurant I have ever been to in my entire life.
+5. Output:
+Positive
+###
+6. Instruction: Given a word or phrase, generate a list of its synonyms.
+6. Input:
+Happy
+6. Output:
+Delighted, thrilled, ecstatic, overjoyed, elated.
+###
+7. Instruction: Given a paragraph, suggest alternative or better phrasing than what currently exists.
+7. Input:
+Federal prosecutors announced Monday that former Republican state Sen. Frank Artiles has been arrested in Miami-Dade County on charges of illegal campaign contributions, false swearing in connection with voting, and violations of the Miami-Dade County Conflict of Interest and Code of Ethics Ordinance in connection with Miami-Dade County’s 2020 general election. Prosecutors allege that Artiles paid an independent candidate in that race named Alexis Rodriguez an undisclosed amount of money to run in that race and to change his name to that of the incumbent Democratic senator who was also running for re-election in that same race, with the result that Rodriguez received more than six thousand votes despite never campaigning or spending any significant amount of money on campaigning. 
+7. Output:
+Federal prosecutors announced on Monday that former Republican state senator Frank Artiles had been charged with violating campaign finance laws, falsifying statements regarding voting, and contravening the Conflict of Interest and Code of Ethics Ordinance of Miami-Dade County in connection with the 2020 general election. Artiles allegedly paid an independent candidate, Alexis Rodriguez in the race, an undisclosed amount of money to change his name to that of the incumbent Democratic senator who was also running for re-election in the same race. Rodriguez subsequently received over six thousand votes despite never campaigning or spending significant money on the campaign.
+###
+8. Instruction: Given a sentence, generate a paraphrased version that has the same meaning.
+8. Input:
+The Mona Lisa is one of the most famous paintings in history.
+8. Output:
+Few paintings in history are as well known as the Mona Lisa.
+###
+9. Instruction: Given a question or prompt, generate a short answer.
+9. Input:
+What is the square root of 144?
+9. Output:
+12.
+###
+10. Instruction: Given a sentence, reverse the order of its words.
+10. Input:
+I am currently working on a project for school.
+10. Output:
+School for project a on working currently am I.
+###
+11. Instruction: Given a sentence or paragraph, output the part of speech and dictionary definitions of a chosen word.
+11. Input:
+She reached out to grab the edge of the table before she fell.
+11. Output:
+"Reached" is a verb, which means "to stretch out" or "to try to make contact with someone." 
+###
+12. Instruction: Given a sentence, capitalize the first letter of every word.
+12. Input:
+this is a random sentence.
+12. Output:
+This Is A Random Sentence.
+###
+13. Instruction: Given two phrases, determine whether they are synonymous or antonymous (have opposite meanings).
+13. Input:
+Successful, triumphant
+13. Output:
+Synonymous
+###
+14. Instruction: Given a sentence, swap the positions of two words.
+14. Input:
+The cat sat on the mat.
+14. Output:
+The sat cat on the mat.
+###
+15. Instruction: Given a sentence, replace a given word with its antonym.
+15. Input:
+The music at the party was incredibly loud.
+15. Output:
+The music at the party was incredibly quiet. 
+###
+16. Instruction: Given a sentence, output the longest word in the sentence.
+16. Input:
+She completed the marathon in just under three hours.
+16. Output:
+Completed
+###
+17. Instruction: Given a sentence, output its parts in reverse order (last word first).
+17. Input:
+I walked the dog this morning.
+17. Output:
+Morning this walked dog the I.
+###
+18. Instruction: Given an image, describe what is happening in the image.
+18. Input:
+<noinput>
+18. Output:
+I can't help you with that. Sounds like you need an image recognition model!
+###
+19. Instruction: Given a sentence, find and output all the named entities in the sentence. 
+19. Input:
+Katherine Johnson is known for her work at NASA as a "human computer."
+19. Output:
+Katherine Johnson (person), NASA (organization).
+###
+20. Instruction: Given a sentence or paragraph, summarize its meaning in a short sentence.
+20. Input:
+The COVID-19 pandemic has caused unprecedented disruptions to daily life and unprecedented economic hardship, but the political response to the crisis has varied widely between different countries and even within individual countries.
+20. Output:
+COVID-19 has caused extreme hardship and diverse political responses.

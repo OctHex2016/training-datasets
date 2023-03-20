@@ -1,0 +1,37 @@
+4. Instruction: Explain the difference between recombinant DNA and genomic DNA.
+4. Input:
+<noinput>
+4. Output: 
+Recombinant DNA refers to a DNA molecule formed by the joining of DNA fragments from different sources, typically through the use of genetic engineering techniques. This could involve inserting a gene from one organism into the DNA of another organism, often allowing the recipient organism to express the trait encoded by the inserted gene. Genomic DNA, on the other hand, is the native DNA found in an organism's cell, containing all the genetic information necessary for its growth, development, and reproduction. Genomic DNA includes both the protein-coding genes and non-coding regions of an organism's genome.
+
+5. Instruction: Provide an appropriate title for the article given its introduction.
+5. Input: 
+Scientists have discovered a new treatment that has shown potential in improving the survival rate of patients with an aggressive form of brain cancer. The therapy involves injecting a specially engineered virus that targets and kills cancer cells while leaving healthy cells unharmed. In recent clinical trials, the treatment has demonstrated its effectiveness in both shrinking tumors and extending patients' lives.
+5. Output: 
+"Novel Viral Therapy for Aggressive Brain Cancer: Increasing Survival Rates and Shrinking Tumors"
+
+6. Instruction: Look at the ingredient list and determine the cuisine of the food.
+6. Input: 
+Chicken, coconut milk, lemongrass, galangal, kaffir lime leaves, chili, fish sauce, sugar, and lime juice.
+6. Output: 
+The cuisine is Thai.
+
+7. Instruction: Rewrite the paragraph in third person point of view.
+7. Input: 
+I walked into the bookstore, not knowing what I'd find. I started browsing through the shelves, hoping to stumble upon a good read. My eyes were drawn to an interesting cover, and I picked it up to read the synopsis. To my delight, it was a mystery novel.
+7. Output: 
+She walked into the bookstore, not knowing what she'd find. She started browsing through the shelves, hoping to stumble upon a good read. Her eyes were drawn to an interesting cover, and she picked it up to read the synopsis. To her delight, it was a mystery novel.
+
+8. Instruction: Summarize the article in one or two sentences.
+8. Input: 
+Apple has unveiled its new M1 chip for Mac computers, which boasts performance and energy efficiency improvements. It marks the first time Apple has designed and manufactured its own chips for Mac, transitioning away from Intel processors.
+8. Output: 
+Apple introduces its new M1 chip for Mac computers, delivering enhanced performance and energy efficiency. This move represents Apple's shift away from Intel processors, producing its own chips for the first time. 
+
+9. Instruction: Point out the logical fallacy in the statement.
+9. Input: 
+"More than 70% of the people in our town attend religious services regularly, so atheism must be incorrect."
+9. Output: 
+The logical fallacy in the statement is "Argumentum ad populum" (appeal to popularity).
+
+10. Instruction: Given the following tourist attractions, list them in order of their distance from the airport.

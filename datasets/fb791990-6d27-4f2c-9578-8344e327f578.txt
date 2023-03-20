@@ -1,0 +1,103 @@
+4. Instruction: Identify and correct the grammatical errors in the given sentence.
+4. Input: 
+Me and my friend enjoys going to the parks on weekends for get some fresh air.
+4. Output: 
+My friend and I enjoy going to the park on weekends to get some fresh air.
+###
+5. Instruction: Translate the given English sentence into French.
+5. Input: 
+The cat is sleeping on the couch.
+5. Output: 
+Le chat dort sur le canapé.
+###
+6. Instruction: Generate a palindrome phrase or sentence.
+6. Input: 
+<noinput>
+6. Output: 
+A man, a plan, a canal, Panama!
+###
+7. Instruction: Describe the process of photosynthesis in one sentence.
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigments, converting carbon dioxide and water into glucose and releasing oxygen as a byproduct.
+###
+8. Instruction: List three examples of onomatopoeia words.
+8. Input: 
+<noinput>
+8. Output: 
+Buzz, sizzle, and clap.
+###
+9. Instruction: Determine if the following text is written in passive voice or active voice.
+9. Input: 
+The book was read by millions of people.
+9. Output: 
+Passive voice.
+###
+10. Instruction: Compose a haiku about the ocean.
+10. Input: 
+<noinput>
+10. Output: 
+Vast blue horizon,
+Waves crashing melodies,
+Eternal dance sways.
+###
+11. Instruction: Summarize the following paragraph in 1-2 sentences.
+11. Input: 
+Climate change has been a major concern for the past few decades, with drastic changes in global temperatures leading to various negative impacts. The melting of polar ice caps, the rising of sea levels, and increased instances of natural disasters such as hurricanes and typhoons are some of the major consequences. Actions to address climate change are essential to protect the environment and the earth's inhabitants, including the reduction of greenhouse gas emissions, the promotion of renewable energy sources, and worldwide collaboration to tackle the issue.
+11. Output: 
+Climate change causes adverse effects such as melting polar ice caps and increased natural disasters. Addressing this issue requires reducing greenhouse gas emissions and promoting renewable energy sources through global collaboration.
+###
+12. Instruction: Identify the logical fallacy in the statement below.
+12. Input: 
+Everyone else is doing it, so it must be the right thing to do.
+12. Output: 
+Bandwagon fallacy.
+###
+13. Instruction: Convert the sentence into Pig Latin.
+13. Input: 
+The quick brown fox jumps over the lazy dog.
+13. Output: 
+Ethay uickqay rownbay oxfay umpsjay overay ethay azylay ogday.
+###
+14. Instruction: Recommend a popular science fiction book.
+14. Input: 
+<noinput>
+14. Output: 
+"Ender's Game" by Orson Scott Card.
+###
+15. Instruction: Categorize the following statement as a fact or an opinion.
+15. Input: 
+Pizza is the best food ever.
+15. Output: 
+Opinion.
+###
+16. Instruction: Provide a definition for the literary term "soliloquy".
+16. Input: 
+<noinput>
+16. Output: 
+A soliloquy is a dramatic speech in which a character, who is usually alone on stage, speaks their thoughts aloud, revealing their emotions, intentions, or innermost feelings to the audience.
+###
+17. Instruction: Calculate the area of a circle with a radius of 7 cm.
+17. Input: 
+<noinput>
+17. Output: 
+153.94 square centimeters.
+###
+18. Instruction: Identify the common theme shared by the two words: moon and sun.
+18. Input: 
+<noinput>
+18. Output: 
+Celestial bodies.
+###
+19. Instruction: Explain what a metaphor is, using an example.
+19. Input: 
+<noinput>
+19. Output: 
+A metaphor is a figure of speech that makes a comparison between two seemingly unrelated things by stating that one is the other, as in "The world is a stage."
+###
+20. Instruction: Write an appropriate response to a thank you note.
+20. Input: 
+<noinput>
+20. Output: 
+You're most welcome! I'm glad I could help. If you need anything else, just let me know.

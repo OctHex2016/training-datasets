@@ -1,0 +1,113 @@
+4. Instruction: Generate an original tweet that expresses excitement about a recent vacation.
+4. Input: 
+Just returned from a vacation in Hawaii
+4. Output: 
+Just spent the most amazing time in #Hawaii! From the stunning beaches to the delicious food, I couldn't have asked for a better trip! #travel #vacation
+###
+5. Instruction: Correct the following sentence for grammar and spelling errors.
+5. Input: 
+He dont know nothing about football.
+5. Output: 
+"He doesn't know anything about football."
+###
+6. Instruction: Write a one-paragraph summary of the given article.
+6. Input: 
+Article: https://www.nytimes.com/2021/03/26/us/politics/biden-immigration.html
+6. Output: 
+The Biden administration is attempting to rework the Trump-era border policies that separated families and drastically reduced the number of people allowed into the country. The goal is to create a more humane, efficient immigration system, but the administration is facing challenging decisions and logistical hurdles in trying to execute their plans. The number of people attempting to cross the border is rising and many of them are unaccompanied minors. The administration is also trying to address the root causes of illegal immigration, including poverty and violence in Central America, in order to reduce the need for people to flee their homes in search of a better life.
+###
+7. Instruction: Describe the steps to make a classic Caesar salad.
+7. Input: 
+<noinput>
+7. Output: 
+To make a classic Caesar salad, you will need 2 heads of romaine lettuce, croutons, 1/2 cup Parmesan cheese, and 1 cup of Caesar dressing. Cut lettuce into bite-sized pieces and put them along with the croutons into a large salad bowl. Add the Caesar dressing and toss to coat. Finish it off with the grated Parmesan cheese.
+###
+8. Instruction: Write a short poem about a sunset.
+8. Input: 
+<noinput>
+8. Output: 
+As daylight fades, 
+The sky is set ablaze. 
+A colorful canvas, 
+A beauty that amazes. 
+The sunset paints, 
+A stunning work of art. 
+A moment so fleeting, 
+But forever in my heart.
+###
+9. Instruction: Explain the concept of supply and demand.
+9. Input: 
+<noinput>
+9. Output: 
+Supply and demand is an economic model that is used to determine the price and quantity of goods and services in a market. Essentially, the more people that want a particular product or service, the higher the demand will be. Meanwhile, the more available that product or service is, the higher the supply will be. When there is an excess of supply over demand, prices will drop, while when there is a scarcity of supply, prices will rise.
+###
+10. Instruction: What is the closest national park to Seattle?
+10. Input: 
+<noinput>
+10. Output: 
+The closest national park to Seattle is Olympic National Park, which is located about 2.5 hours away. The park is known for its stunning natural beauty, including forests, beaches, and mountains.
+###
+11. Instruction: What is the best way to prepare a steak?
+11. Input: 
+<noinput>
+11. Output: 
+The best way to prepare a steak depends on personal preference, but a good rule of thumb is to season it with salt and pepper, and cook it on high heat for a few minutes on each side (depending on desired level of doneness). Let the steak rest for a few minutes before slicing and serving.
+###
+12. Instruction: Rewrite the following sentence in the passive voice.
+12. Input: 
+The dog chased the cat up the tree.
+12. Output: 
+The cat was chased up the tree by the dog.
+###
+13. Instruction: What is the capital of Brazil?
+13. Input: 
+<noinput>
+13. Output: 
+The capital of Brazil is Brasília.
+###
+14. Instruction: Write a humorous two-line joke.
+14. Input: 
+<noinput>
+14. Output: 
+Why did the tomato turn red? Because it saw the salad dressing!
+###
+15. Instruction: What are the main features of the iPhone 12?
+15. Input: 
+<noinput>
+15. Output: 
+The iPhone 12 features a 5G network, A14 Bionic chip, Super Retina XDR display, and improved camera and video capabilities.
+###
+16. Instruction: Write a brief summary of the plot of the book "To Kill a Mockingbird."
+16. Input: 
+<noinput>
+16. Output: 
+"To Kill a Mockingbird" is a classic novel by Harper Lee, set in the 1930s in the deep south of the United States. The story follows Scout Finch and her family as they navigate the issues of racial injustice, morality, and growing up in a small town. The central plot of the book revolves around the trial of a black man, Tom Robinson, who is falsely accused of raping a white woman, and the family's struggle to stand up for what is right in a community that is deeply divided along racial lines.
+###
+17. Instruction: What are the lyrics to the chorus of Queen's "Bohemian Rhapsody"?
+17. Input: 
+<noinput>
+17. Output: 
+The chorus to Queen's "Bohemian Rhapsody" goes:
+"Bohemian Rhapsody,
+Easy come, easy go,
+Little high, little low,
+Any way the wind blows,
+Doesn't really matter to me, to me."
+###
+18. Instruction: What is the difference between a crocodile and an alligator?
+18. Input: 
+<noinput>
+18. Output: 
+Crocodiles and alligators are both reptiles that belong to the order Crocodilia, but there are some differences between the two. One key difference is that alligators have a wider, U-shaped snout, while crocodiles have a more narrow, V-shaped snout. Additionally, alligators are only found in the Americas, while crocodiles are found in Africa, Asia, Australia, and the Americas.
+###
+19. Instruction: Write a one-paragraph review of the latest movie you watched.
+19. Input: 
+Movie: "Nomadland" (2020)
+19. Output: 
+"Nomadland" is a deeply affecting movie that tells the story of a woman who, after losing everything, sets out on a journey through the American West in search of a new life. The film is beautifully shot and features stunning landscapes and a phenomenal performance by Frances McDormand. Although at times it can be slow moving, "Nomadland" is a powerful exploration of grief, loss, and the search for home."
+###
+20. Instruction: Edit the following sentence to eliminate redundancy.
+20. Input: 
+The child's backpack was on the ground on the floor.
+20. Output: 
+The child's backpack was on the floor.

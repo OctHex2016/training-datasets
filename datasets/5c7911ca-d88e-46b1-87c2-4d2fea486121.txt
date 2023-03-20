@@ -1,0 +1,73 @@
+4. Instruction: Create a short poem that delights the arrival of spring.
+4. Input: 
+<noinput>
+4. Output: 
+As winter's chill fades to the past,
+The warmth of spring arrives at last.
+Blooms burst forth, a symphony of hue,
+Gently kissed by golden sun and morning dew.
+
+Birds return with songs of mirth,
+Celebrating the rebirth of our precious earth.
+New life emerges, a wondrous sight,
+As days grow longer, bathing in the light.
+###
+5. Instruction: Rewrite this paragraph in passive voice.
+5. Input: 
+The cat chased the mouse, which ran into the hole. The dog barked at the cat, and the owner scolded the dog.
+5. Output: 
+The mouse was chased by the cat and ran into the hole. The cat was barked at by the dog, and the dog was scolded by the owner.
+###
+6. Instruction: Predict a likely consequence if the given scenario occurs.
+6. Input: 
+Deforestation continues at an alarming rate.
+6. Output: 
+If deforestation continues at an alarming rate, numerous species will lose their habitats, leading to a decline in biodiversity. Soil erosion and flooding risks will increase, and the climate will be negatively impacted due to the decreased capacity to absorb CO2.
+###
+7. Instruction: Suggest an existing piece of technology to fit the specified requirements.
+7. Input: 
+A device to keep track of daily activities, monitor heart rate and sleep patterns.
+7. Output: 
+A fitness tracker, such as a Fitbit or Apple Watch, would be an excellent choice for monitoring daily activities, heart rate, and sleep patterns.
+###
+8. Instruction: Analyze the excerpt and identify the writing style.
+8. Input: 
+"It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him."
+8. Output: 
+The writing style in this excerpt is descriptive, with a dystopian atmosphere. The passage effectively evokes the bleak environment and creates vivid imagery through detailed, sensory language.
+###
+9. Instruction: List possible solutions to mitigate the issue mentioned.
+9. Input: 
+Plastic pollution in the oceans.
+9. Output: 
+1. Reduce single-use plastic consumption.
+2. Support bans on single-use plastics.
+3. Promote recycling and proper waste disposal.
+4. Participate in beach clean-up activities.
+5. Increase public awareness and education on plastic pollution.
+6. Support innovative technologies that help remove plastics from oceans and coastlines.
+7. Encourage the development of eco-friendly alternatives and biodegradable materials.
+###
+10. Instruction: Identify any grammatical errors and suggest corrections.
+10. Input: 
+The reason why he's not succeeding are his lack of motivation, bad time management and hes always procrastinating.
+10. Output: 
+The reason why he's not succeeding is his lack of motivation, bad time management, and he's always procrastinating.
+###
+11. Instruction: Summarize the key points of the given text.
+11. Input: 
+Revolut is a fintech company that offers a range of financial services through its mobile app, including a fee-free current account, foreign currency exchanges at interbank rates, cryptocurrency trading, budgeting tools, and more. Founded in 2015 by Nikolay Storonsky and Vlad Yatsenko, the company has grown rapidly, now boasting over 15 million users worldwide. Revolut aims to disrupt traditional banking operations by offering an all-in-one financial platform that caters to the evolving demands of modern consumers.
+11. Output: 
+Revolut is a fintech company providing a mobile app with various financial services, such as fee-free current accounts, currency exchange, crypto trading, and budgeting tools. Founded in 2015, it has over 15 million users and aims to disrupt traditional banking by catering to modern consumer needs.
+###
+12. Instruction: Translate the sentence into Spanish.
+12. Input: 
+I would like to order a cheeseburger, french fries, and a large soda.
+12. Output: 
+Me gustaría pedir una hamburguesa con queso, papas fritas y un refresco grande.
+###
+13. Instruction: Write a well-structured and logical argument in favor of renewable energy sources.
+13. Input: 
+<noinput>
+13. Output: 
+Renewable energy sources, such as solar, wind, and hydroelectric power, should be supported because they provide sustainable and environmentally friendly alternatives to fossil fuels. Firstly, renewable energy produces little to no greenhouse gas emissions, resulting in a reduced carbon footprint and slowing the effects of climate change. Secondly, renewable energy resources are not finite like fossil fuels; they are inexhaustible and can be replenished naturally. Lastly, investing in renewable energy sectors can create job opportunities and stimulate economic growth, supporting both the environment and the workforce. Therefore, transitioning to renewable energy sources is not only ecologically responsible but also economically beneficial.

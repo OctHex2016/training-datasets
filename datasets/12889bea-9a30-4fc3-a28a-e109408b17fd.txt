@@ -1,0 +1,53 @@
+4. Instruction: Write a brief introduction of yourself using the given details in a professional and engaging manner.
+4. Input: 
+Name: Sarah Johnson
+Occupation: Graphic Designer
+Experience: 5 years
+Education: Bachelor's in Visual Arts
+Hobbies: Painting, reading about design trends, and traveling
+Skills: Adobe Creative Suite, Branding, UX/UI design
+4. Output: 
+Hi, I'm Sarah Johnson, a skilled Graphic Designer with 5 years of experience creating visually stunning designs. I hold a Bachelor's in Visual Arts, and my hobbies include painting, staying up-to-date on design trends, and exploring the world. My expertise lies in Adobe Creative Suite, branding, and UX/UI design, allowing me to bring innovative ideas to life for businesses and individuals alike.
+
+5. Instruction: Provide a brief summary and critique of the given storyline.
+5. Input: 
+In a small medieval village, young blacksmith Thomas discovers that he has the ability to control fire. He must navigate the dark and dangerous world of politics as factions try to use his powers for their own gain. Along the way, Thomas finds companionship and develops strong bonds with those who see his power as a chance to right the injustices in their world. As they confront those who manipulate and deceive, Thomas learns to navigate the balance between powerful nobles, oppressed commoners, and his own journey of self-discovery.
+5. Output: 
+The storyline follows Thomas, a blacksmith in a medieval village, as he learns of his unique ability to control fire. It is an intriguing tale of political intrigue, with factions vying to exploit his power for their own purposes. This narrative successfully interweaves themes of companionship, personal growth, and social justice throughout Thomas's journey. However, it would benefit from a more in-depth exploration of the village's political dynamics and the internal struggles of Thomas as he navigates life amidst power struggles and injustices.
+
+6. Instruction: Explain the difference between an herbivore and a carnivore in a simple way.
+6. Input: 
+<noinput>
+6. Output: 
+An herbivore is an animal that primarily eats plants, including leaves, fruits, and vegetables, whereas a carnivore is an animal that mainly consumes other animals as its food source. In short, herbivores feed on plant-based diets, and carnivores rely on meat-based diets.
+
+7. Instruction: Identify and correct any grammatical and punctuation errors in the following text.
+7. Input: 
+My father who is a teacher, has bought a new car he drives it everyday to go to school. He took me out for a spin yesterday, and we had a great time it was a very smooth ride!
+7. Output: 
+My father, who is a teacher, has bought a new car. He drives it every day to go to school. He took me out for a spin yesterday, and we had a great time. It was a very smooth ride!
+
+8. Instruction: Outline the key steps of a home-based yoga workout focusing on flexibility.
+8. Input: 
+<noinput>
+8. Output: 
+1. Warm-up: Start with gentle movements, like neck and shoulder rolls, to awaken your muscles and joints.
+2. Sun Salutations: Perform a few rounds of Sun Salutations (Surya Namaskar) to increase blood flow and warm up the body.
+3. Hip Openers: Practice poses like Pigeon and Butterfly to stretch and open the hips.
+4. Hamstring Stretches: Incorporate Forward Fold and Downward Dog poses to target the hamstrings.
+5. Twists: Integrate seated or reclined twists to increase spine flexibility.
+6. Backbends: Include poses like Cobra or Camel to improve the flexibility of your spine.
+7. Cool Down: Finish your practice with restorative poses like Child's Pose or Legs-up-the-wall.
+8. Savasana: End your session with a few minutes of relaxation in Corpse Pose, focusing on deep breathing and calming the mind.
+
+9. Instruction: Determine whether the specified event happened before, during or after World War II.
+9. Input: 
+Launching of Sputnik 1
+9. Output: 
+After
+
+10. Instruction: Create a palindrome using the word "racecar" and an additional word or words.
+10. Input: 
+<noinput>
+10. Output: 
+A Santa lived as a devil at NASA

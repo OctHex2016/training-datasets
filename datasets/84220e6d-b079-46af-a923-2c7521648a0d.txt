@@ -1,0 +1,45 @@
+4. Instruction: Write a brief summary of the key points from the information provided.
+4. Input: 
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions to maximize its chance of successfully achieving its goals. Specifically, AI can be categorized into three types: narrow AI, which can perform specific tasks without being explicitly programmed how to do them; general AI, which can perform any intellectual tasks that humans can; and strong AI, which possess at least one emotional component and can learn, reason and understand.
+4. Output: 
+AI is the demonstration of intelligence by machines, and it comprises intelligent agents that perceive their environment and act to achieve goals. There are three categories of AI: narrow AI, which performs specific tasks without explicit programming; general AI, which can do any intellectual task humans can; and strong AI, which has emotional components and can learn, reason, and understand.
+
+5. Instruction: From the given data, provide a brief description of the company's history and its achievements.
+5. Input: 
+SkyHigh Industries was established in 2003, by founders Johnathan Hill and Maria Peterson, with the initial focus on producing environmentally friendly building materials. In its early years, the company experienced exponential growth, expanding its product range to include sustainable energy solutions. By 2007, SkyHigh Industries was recognized as a leading innovator in green technology, winning numerous industry awards. Today, the company is a major player in the global market, providing eco-friendly materials and energy solutions to clients all over the world.
+5. Output:
+SkyHigh Industries, founded in 2003 by Johnathan Hill and Maria Peterson, started with producing environmentally friendly building materials. It rapidly grew and expanded its range to include sustainable energy solutions. Recognized as a leader in green technology, it has won several awards and is now a major global provider of eco-friendly materials and energy solutions.
+
+6. Instruction: Describe the impact of climate change on the coral reefs based on the given information.
+6. Input: 
+Climate change is causing ocean temperatures to rise, affecting the delicate balance needed for coral reefs to thrive. Higher temperatures result in coral bleaching, an event in which corals expel their symbiotic algae, which can lead to coral death. Additionally, increasingly severe storms linked with climate change can lead to physical damage to reefs, while increased carbon dioxide levels in the atmosphere cause ocean acidification, hampering coral growth and survival.
+6. Output: 
+Climate change adversely affects coral reefs by raising ocean temperatures, causing coral bleaching and potentially leading to coral death. Severe storms associated with climate change cause physical damage to the reefs, and increased atmospheric carbon dioxide levels lead to ocean acidification, impairing coral growth and survival.
+
+7. Instruction: Recommend a plant-based protein source for vegans.
+7. Input: 
+<noinput>
+7. Output: 
+Lentils
+
+8. Instruction: Edit the following paragraph to fix grammar, punctuation, and spelling errors.
+8. Input: 
+The cat ran quicker then the rabbit. billy wuz curious what had maked the cat go so fast. he thought may be the cat was scared of somthing, but he couldnt see any thing threatening. so billy just shrugged and contiuned playing with his toys.
+8. Output: 
+The cat ran quicker than the rabbit. Billy was curious what had made the cat go so fast. He thought maybe the cat was scared of something, but he couldn't see anything threatening. So, Billy just shrugged and continued playing with his toys.
+
+9. Instruction: Name three ways to reduce your carbon footprint.
+9. Input: 
+<noinput>
+9. Output: 
+1. Use public transportation or carpool
+2. Consume less meat and dairy
+3. Purchase energy-efficient appliances
+
+10. Instruction: Write a haiku about mountains.
+10. Input: 
+<noinput>
+10. Output: 
+Majestic peaks rise
+Silent guardians loom tall
+Nature's ancient art

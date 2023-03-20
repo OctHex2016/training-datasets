@@ -1,0 +1,50 @@
+4. Instruction: Translate the following English sentence into French.
+4. Input: 
+I would like to book a table for two people tonight.
+4. Output: 
+Je voudrais réserver une table pour deux personnes ce soir.
+
+###
+5. Instruction: Write a brief overview of the given movie plot.
+5. Input: 
+A young farm boy named Luke Skywalker meets the mysterious old hermit, Obi-Wan Kenobi. Together, they embark on a dangerous mission to rescue Princess Leia from the evil empire, who are building a powerful space station named the Death Star. Along their journey, they join forces with smugglers Han Solo and Chewbacca and team up to accomplish their mission and destroy the Death Star.
+5. Output: 
+In a galaxy far away, the young Luke Skywalker and the wise Obi-Wan Kenobi journey to save Princess Leia from the clutches of the evil empire. As they attempt to stop the powerful Death Star, they ally with the daring smugglers Han Solo and Chewbacca, setting the stage for an epic battle between good and evil.
+
+###
+6. Instruction: Summarize the main point of this news article in one sentence.
+6. Input: 
+Ongoing vaccine development worldwide faces a new challenge as multiple strains of COVID-19 emerge, prompting companies and researchers to adapt vaccines accordingly, while officials urge the public to maintain safety measures.
+6. Output: 
+Vaccine development faces challenges due to new COVID-19 strains, requiring adaptation while officials emphasize continued safety measures.
+
+###
+7. Instruction: Write a haiku on the theme of springtime.
+7. Input: <noinput>
+7. Output: 
+Cherry blossoms bloom,
+Whispers of life's sweet return,
+Nature awakes, warmed.
+
+###
+8. Instruction: Identify 3 logical fallacies in the following statement.
+8. Input: 
+Smoking should not be banned because my grandpa smoked his whole life and lived to be 95, most of my friends smoke, and anyway, everyone has to die sometime.
+8. Output: 
+1. Anecdotal evidence (grandpa's story),
+2. Bandwagon fallacy (most of my friends smoke),
+3. Appeal to nature fallacy (everyone has to die sometime).
+
+###
+9. Instruction: Suggest 3 improvements for the following paragraph.
+9. Input: 
+The cat jumped on table. She licked her paw while watching outside. It was raining, since no birds she feel a bit bored.
+9. Output: 
+1. Correct grammatical errors: "The cat jumped on the table."
+2. Add detail and improve sentence structure: "She licked her paw while attentively watching the rain outside."
+3. Clarify and improve phrasing: "Since there were no birds to watch, she felt slightly bored."
+
+###
+10. Instruction: Identify the literary device used in the following sentence.
+10. Input: 
+She was as quiet as a mouse when she went into her son's room.

@@ -1,0 +1,187 @@
+4. Instruction: Convert this paragraph from passive voice to active voice.
+4. Input:
+The cake was being made by Jane when the power went out. Unfortunately, by the time the electricity was restored, the cake was ruined. It was decided that a bakery cake would be bought for the party instead.
+4. Output:
+Jane was making the cake when the power went out. Unfortunately, by the time the electricity came back on, the cake had been ruined. Jane decided to buy a bakery cake for the party instead.
+
+###
+5. Instruction: Write a product review about a smartphone.
+5. Input: 
+Smartphone Model: iPhone 13 Pro
+Rating: 4.5/5
+5. Output:
+I recently purchased the iPhone 13 Pro, and I am incredibly happy with the performance and features. The A15 Bionic chip provides smooth and fast operations, and the battery life is impressive. The Dolby Vision HDR video quality and ProRAW photography is stunning. The 5G capability also enhances my overall experience. However, the price is quite high, so it may not be suitable for everyone's budget. Overall, I give the iPhone 13 Pro a 4.5/5 star rating and highly recommend it for anyone searching for a top-end smartphone.
+
+###
+6. Instruction: Make a suggestion of three gift ideas for a person's 30th birthday.
+6. Input:
+Gender: Female
+Interests: Travel, photography, and books
+Budget: $100-$200
+6. Output:
+1. A high-quality travel photography book, such as "Destinations of a Lifetime" by National Geographic, to inspire her with amazing places and images from around the world.
+2. A scratch-off world map for her to track and display her travel adventures in a visually appealing way.
+3. A Kindle Paperwhite e-reader to enable her to carry and enjoy hundreds of books while she is traveling.
+
+###
+7. Instruction: Tell me a mind-blowing fact about the universe.
+7. Input:
+<noinput>
+7. Output:
+Did you know that a teaspoon of a neutron star weighs about as much as a mountain? Neutron stars are incredibly dense remnants of massive stars after they collapse. Their density is so extreme that just one teaspoonful of their material would weigh about 10 million tons!
+
+###
+8. Instruction: Write a thank-you email to a professor for extra help with an assignment.
+8. Input:
+Professor's Name: Dr. Elizabeth Thompson
+Subject: Microeconomics
+Assignment Topic: Market Equilibrium
+8. Output:
+Subject: Thank You for Your Guidance on the Market Equilibrium Assignment
+
+Dear Dr. Elizabeth Thompson,
+
+I wanted to take a moment to express my sincere gratitude for the extra help and guidance you provided me while working on the Market Equilibrium assignment in our Microeconomics class. Your insights and explanations truly enabled me to grasp the concepts and apply them effectively to the project.
+
+Having the opportunity to discuss my ideas and questions one-on-one with you was invaluable, and I feel more confident tackling similar issues in the future. I appreciate your dedication to your students and your willingness to go above and beyond in ensuring our success.
+
+Thank you once again, and I look forward to applying what I have learned in your class to real-world scenarios.
+
+Best regards,
+
+[Your Name]
+
+###
+9. Instruction: Analyze the advantages and disadvantages of the electric cars and summarize.
+9. Input: 
+<noinput>
+9. Output:
+Advantages:
+1. Environmental benefits: Electric cars produce zero tailpipe emissions, reducing air pollution and greenhouse gas emissions.
+2. Lower operating costs: Electricity is generally cheaper than gasoline, and electric cars typically require less maintenance due to fewer moving parts.
+3. Quiet and smooth performance: Electric motors provide instant torque for quick acceleration and smoother overall driving experience.
+
+Disadvantages:
+1. Limited driving range: Electric cars typically have a shorter driving range than their gasoline-powered counterparts.
+2. Charging infrastructure: Charging stations may not be as readily available, especially in remote areas, making long trips challenging.
+3. Initial cost: Electric cars can be more expensive upfront, although tax incentives and lower operating costs may offset this over time.
+10. Instruction: Compose an engaging Tweet about a project management software's new features.
+10. Input:
+Software: TaskMaster Pro
+New Features: Time tracking, file sharing, and third-party app integration
+10. Output:
+🚀 Introducing TaskMaster Pro's latest features: Time tracking ⏰, seamless file sharing 📁 & integration with your favorite apps 🤝! Organize your team, smash deadlines & streamline your project management process like never before. Upgrade now & take your productivity to the next level! #TaskMasterPro #ProjectManagement
+
+###
+11. Instruction: Imagine a fictional character, describe their appearance, and short background.
+11. Input:
+<noinput>
+11. Output:
+Meet Alaric Brandt, a 6'2" tall man with a chiseled jawline, piercing green eyes, and shoulder-length jet-black hair. With a mysterious aura, he's known for his striking tattoos and always sporting a leather jacket. Alaric works as a private investigator in a city plagued by crime and corruption, using his keen instincts and relentless determination to seek justice for those who have been wronged.
+
+###
+12. Instruction: Explain the process of preparing a cup of coffee using the French press method.
+12. Input:
+<noinput>
+12. Output:
+1. Boil water: Bring clean, fresh water to a boil and let it sit for about 30-60 seconds to cool down to around 195-205°F.
+2. Grind coffee: Freshly grind 30 grams (about 6 tablespoons) of coffee beans to a medium-coarse consistency.
+3. Add coffee to the French press: Place the ground coffee into the French press carafe.
+4. Pour water: Slowly pour in 500ml of hot water, ensuring all the coffee grounds are saturated for even brewing.
+5. Stir and steep: Stir gently to mix the grounds and water, then cover the French press with the plunger, and let it steep for 4 minutes.
+6. Plunge: Slowly press down the plunger evenly and firmly until it reaches the bottom.
+7. Pour: Pour your freshly brewed coffee into your cup, taking care not to disturb the grounds left in the bottom of the carafe. Enjoy!
+
+###
+13. Instruction: Develop a short plot for a thriller movie.
+13. Input:
+<noinput>
+13. Output:
+Title: "Echo"
+
+Synopsis: Retired FBI agent, Marisa Edwards, now a true crime writer, receives a cryptic letter from a self-proclaimed serial killer. The letter reveals explicit details about an unsolved cold case from her past – details that never became public. As Marisa tries to connect the dots, more correspondence arrives, along with taunting hints for new murders to come. Desperate to unmask the killer, she teams up with Alex, an IT expert with a dark past of his own. They soon discover a twisted pattern: each murder echoes a crime from Marisa's previous investigations, as if recreating a personal "greatest hits" album. With each new clue, Marisa and Alex realize that the killer is closer than they ever imagined, as both their lives become entangled in a deadly game of cat and mouse.
+
+###
+14. Instruction: Compare and contrast the iPhone and the Android operating systems.
+14. Input:
+<noinput>
+14. Output:
+iPhone (iOS):
+1. Developed by Apple, available exclusively on Apple devices.
+2. Known for a sleek, user-friendly interface and strong security measures.
+3. Limited customization options, with apps required to adhere to Apple's design guidelines.
+4. The App Store has a strict app review process, ensuring higher quality and security.
+5. Seamless integration with other Apple devices and services like iCloud, iMessage, and AirDrop.
+
+Android:
+1. Developed by Google, available on devices from various manufacturers.
+2. Offers a more open platform for developers, allowing for more customization options and features.
+3. Users have more freedom to personalize their devices and install apps from various sources.
+4. Google Play Store has a less strict app review process, resulting in a wider variety of apps but potentially less security.
+5. Facilitates integration with Google services, like Gmail, Google Drive, and Google Photos.
+
+###
+15. Instruction: Write a haiku about a peaceful forest.
+15. Input:
+<noinput>
+15. Output:
+Whispers in the breeze,
+Mossy land embraces trees,
+Forest's gentle peace.
+
+###
+16. Instruction: Write a catchy slogan for a vegan food restaurant.
+16. Input:
+Restaurant Name: Green Haven
+16. Output:
+Green Haven: Taste the Future, Savor the Earth - Dive into Plant-Based Bliss!
+
+###
+17. Instruction: Summarize the key points of the article based on the input text.
+17. Input:
+A recent study published in the Journal of Medical Technology has uncovered fascinating insights into how artificial intelligence (AI) can be utilized to predict Alzheimer's disease (AD) earlier than traditional methods. Using AI-based algorithms, the study analyzed MRI data from the Alzheimer's Disease Neuroimaging Initiative, which includes information on both healthy participants and those with AD.
+
+Researchers found that the AI model was able to detect changes in brain structure, including mild cognitive impairment, at the preclinical stage with a high degree of accuracy. This system's early detection capabilities could be crucial in diagnosing Alzheimer's disease before symptoms become severe, enabling earlier treatment and slowing down the progression of the disease. According to experts, the next steps would involve further validation of these findings and the eventual integration of AI technology into routine clinical practice to benefit patients worldwide.
+17. Output:
+Artificial intelligence (AI) can predict Alzheimer's disease earlier than traditional methods by analyzing MRI data, as found in a new study published in the Journal of Medical Technology. The AI model can detect preclinical changes in brain structure with high accuracy. Early detection capabilities could enable earlier treatment and slow disease progression. Further validation and integration of AI technology into clinical practice are needed.
+
+###
+18. Instruction: List five essential elements of a compelling short story.
+18. Input:
+<noinput>
+18. Output:
+1. Engaging plot: A gripping and well-structured storyline that keeps the reader intrigued.
+2. Complex characters: Multidimensional, believable characters with distinct personalities and motivations.
+3. Conflict: A central problem or challenge that drives the story and creates tension.
+4. Theme: A unifying message or central idea that highlights the story's purpose.
+5. Resolution: A satisfying conclusion that resolves the conflict and provides a sense of closure.
+
+###
+19. Instruction: Create a brief dialog between two people who meet in a coffee shop.
+19. Input:
+<noinput>
+19. Output:
+Emma: Hi, do you mind if I sit here? All the other tables seem to be occupied.
+
+Michael: No problem at all, please have a seat.
+
+Emma: Thank you. I'm Emma, by the way.
+
+Michael: Nice to meet you, Emma. I'm Michael. What brings you here today?
+
+Emma: Oh, just grabbing a latte before heading to work. You?
+
+Michael: Same here, but I'm just reading through some emails. What do you do for a living?
+
+Emma: I'm an architect. I'm currently working on a project nearby. How about you?
+
+Michael: I'm a software developer. It's always nice to meet new people during these coffee breaks.
+
+Emma: Agreed! Maybe we'll run into each other again here sometime.
+
+###
+20. Instruction: Explain the importance of the ozone layer and its role in protecting the earth.
+20. Input:
+<noinput>
+20. Output:
+The ozone layer is a crucial part of Earth's stratosphere that contains a high concentration of ozone (O3) molecules. It plays a vital role in protecting life on Earth by absorbing the majority of harmful ultraviolet (UV) radiation emitted by the sun. UV radiation can cause a variety of damaging effects on both humans and the environment, such as skin cancer, eye damage, and the suppression of the human immune system. It can also harm marine life, impairing photosynthesis in phytoplankton, and decrease agricultural crop yields. The ozone layer acts as a shield, preventing these harmful UV rays from reaching the Earth's surface, and therefore helps maintain the delicate balance of our ecosystem.

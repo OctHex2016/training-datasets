@@ -1,0 +1,120 @@
+4. Instruction: Translate the given sentence to French.
+4. Input: 
+She is an amazing artist.
+4. Output: 
+Elle est une artiste incroyable.
+###
+5. Instruction: Summarize the main idea of the following text.
+5. Input: 
+Artificial intelligence (AI) is the ability of computer systems to learn, reason, perceive, and process natural language. AI and machine learning (ML) technologies have advanced significantly in recent years, creating significant growth opportunities in various industries, from healthcare to finance to transportation. With the potential to disrupt established industries and transform the way humans interact with technology, AI and ML are expected to have broad societal implications beyond technological realms.
+5. Output: 
+Artificial intelligence and machine learning technologies are rapidly advancing, offering growth opportunities in various industries and having widespread societal implications beyond just technology.
+###
+6. Instruction: Rearrange the given words to create a sentence.
+6. Input: 
+freedom speech of importance the stress
+6. Output: 
+Stress the importance of freedom of speech.
+###
+7. Instruction: List three benefits of meditation. 
+7. Input: 
+<noinput>
+7. Output: 
+1. Reduced stress.
+2. Improved focus and concentration.
+3. Enhanced emotional well-being.
+###
+8. Instruction: Fact-check the following statement.
+8. Input: 
+Finland is the largest country in Europe.
+8. Output: 
+The statement is false. Russia is the largest country in Europe.
+###
+9. Instruction: Explain the idiom "bite the bullet."
+9. Input: 
+<noinput>
+9. Output: 
+"Bite the bullet" is an idiom that means to face a difficult or unpleasant situation with courage and determination.
+###
+10. Instruction: Edit the given sentence to correct grammatical mistakes.
+10. Input: 
+She have three dogs, and he has two cats.
+10. Output: 
+She has three dogs, and he has two cats.
+###
+11. Instruction: Determine the musical genre of the provided song lyrics.
+11. Input: 
+Baby, you're a firework
+Come on, let your colors burst
+Make 'em go, "Aah, aah, aah"
+You're gonna leave 'em all in awe, awe, awe
+11. Output: 
+Pop
+###
+12. Instruction: Suggest a suitable title for the story based on the given excerpt.
+12. Input: 
+In a small village nestled at the foot of a tall mountain, there lived an old healer who was said to have mystical powers. One night, during a raging storm, a desperate man arrived at the healer's door, seeking help for his terminally ill daughter.
+12. Output: 
+The Healer of the Mountain Village
+###
+13. Instruction: Convert the given recipe ingredients list into metric units.
+13. Input: 
+2 cups all-purpose flour
+1/2 cup granulated sugar
+1/4 cup brown sugar
+1/2 teaspoon salt
+13. Output: 
+480 ml all-purpose flour
+120 ml granulated sugar
+60 ml brown sugar
+2.5 ml salt
+###
+14. Instruction: Identify the fallacy in the argument.
+14. Input: 
+We can't trust any politicians because every politician I've met has lied.
+14. Output: 
+Hasty Generalization
+###
+15. Instruction: Write a haiku related to autumn.
+15. Input: 
+<noinput>
+15. Output: 
+Crisp air, leaves falling,
+Golden hues and brisk cool breeze,
+Autumn whispers peace.
+###
+16. Instruction: Name the author of the following book.
+16. Input: 
+The Catcher in the Rye
+16. Output: 
+J.D. Salinger
+###
+17. Instruction: Solve the riddle.
+17. Input: 
+I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?
+17. Output: 
+A pencil
+###
+18. Instruction: Assess if the given text contains a valid web address.
+18. Input: 
+Please visit our new website at www.example-website!com.
+18. Output: 
+Invalid web address
+###
+19. Instruction: List the steps for folding a paper airplane.
+19. Input: 
+<noinput>
+19. Output: 
+1. Start with a rectangular piece of paper.
+2. Fold the paper in half lengthwise, then open it.
+3. Fold the top two corners inward to meet at the center crease.
+4. Fold the top edge down to the bottom of the folded corners.
+5. Fold the bottom two corners outward to meet at the center crease.
+6. Fold each side back along the center crease to create wings.
+7. Adjust the wings and tail for optimal flight.
+###
+20. Instruction: Analyze the tone of the following text.
+20. Input: 
+The outrage in the community was palpable; cruel, senseless actions had left everyone reeling in shock and anger.
+20. Output: 
+Angry and somber

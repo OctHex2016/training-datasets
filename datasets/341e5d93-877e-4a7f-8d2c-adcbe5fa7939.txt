@@ -1,0 +1,23 @@
+4. Instruction: Describe how a coin toss is an example of a traditional probability experiment, including its assumptions.
+4. Input: 
+<noinput>
+4. Output: 
+A coin toss is a traditional probability experiment because it meets some basic assumptions: the sample space is finite, with two possible outcomes (heads or tails); the outcomes are mutually exclusive, as a toss cannot result in both heads and tails simultaneously; and the likelihood of each outcome is equal, assuming the coin is fair (i.e., not biased), with both heads and tails having a 50% chance of appearing. Thus, it is a simple and widely used example to demonstrate the basic principles of probability theory.
+###
+5. Instruction: Write a paragraph using the given input to describe how to pick a location for a coffee shop. 
+5. Input: 
+population, foot traffic, nearby businesses
+5. Output: 
+In order to pick a prime location for a coffee shop, you'll want to consider several key factors. Firstly, select an area with a substantial population, as a higher population usually translates to more potential customers. Secondly, choose a location with ample foot traffic, as passersby are more likely to become patrons when they notice your inviting coffee shop. Additionally, consider the presence of nearby businesses, as partnering with complementary establishments or positioning your coffee shop in close proximity to offices or retail shops can generate regular customer flow and increase sales.
+###
+6. Instruction: Edit the text input by eliminating awkward wording and improving its flow.
+6. Input: 
+Nowadays, people is busy and rushing and often they not have the occasion of having balanced diet, and that may then result in being lacking in essential nutrients.
+6. Output: 
+Nowadays, people are busy and constantly in a rush, which often leaves them without the opportunity to have a balanced diet. Consequently, they may lack essential nutrients.
+###
+7. Instruction: Provide an explanation of the term "negative feedback loop" and give an example from the human body.
+7. Input:
+<noinput>
+7. Output: 
+A negative feedback loop is a regulatory mechanism that counteracts changes in a system to maintain stability and restore balance. In this process, a deviation from a set point (such as optimum temperature, pH or hormone levels) triggers a response to reverse the change and bring the system back to its desired state. A well-known example in the human body is the regulation of body temperature. When body temperature rises above the set point (around 37 °C or 98.6 °F), the body initiates cooling mechanisms (e.g., sweating and vasodilation) to dissipate excess heat and lower the temperature. Conversely, when body temperature drops below the set point, warming mechanisms (e.g., shivering and vasoconstriction) are activated to generate and conserve heat, raising the temperature back to the desired level.

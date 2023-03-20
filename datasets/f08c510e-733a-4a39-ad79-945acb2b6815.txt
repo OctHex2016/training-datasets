@@ -1,0 +1,106 @@
+4. Instruction: Given a passage, summarize it in one sentence. 
+4. Input: 
+The passage is about the history of World War II.
+4. Output: 
+World War II involved many countries and was the deadliest conflict in human history, resulting in over 70 million fatalities. 
+###
+5. Instruction: Given a sentence containing a grammatical error, correct the error and provide explanation.
+5. Input: 
+Me and my friends are going to the movies tonight.
+5. Output: 
+My friends and I are going to the movies tonight. The subject of this sentence should be the nominative form of the first-person pronoun (I), not the objective form (me). 
+###
+6. Instruction: Given a list of words, arrange them in alphabetical order.
+6. Input: 
+apple, elephant, cat, banana, dog, frog
+6. Output: 
+apple, banana, cat, dog, elephant, frog
+### 
+7. Instruction: Given two numbers, find their sum, product and quotient.
+7. Input: 
+Number 1: 10
+Number 2: 5
+7. Output: 
+The sum is 15, the product is 50, and the quotient is 2.
+###
+8. Instruction: Given a paragraph, correctly use pronouns to replace proper nouns.
+8. Input: 
+Mary is a student at the University of XYZ. Mary is studying computer science. Mary is excited about the upcoming hackathon.
+8. Output: 
+She is a student at the University of XYZ, studying computer science. She is excited about the upcoming hackathon.
+###
+9. Instruction: Given a sentence, rewrite the sentence using different words with the same meaning.
+9. Input: 
+The boy rode his bike to the park.
+9. Output: 
+The boy cycled to the park on his bicycle.
+###
+10. Instruction: Given a phrase, identify the part of speech it represents.
+10. Input: 
+The running man
+10. Output: 
+"the" is a determiner, "running" is a gerund, and "man" is a noun.
+###
+11. Instruction: Given a set of instructions, organize them into numbered steps.
+11. Input: 
+1. Pour the batter into the baking pan.
+2. Preheat the oven to 350 degrees.
+3. Bake for 20 minutes.
+11. Output: 
+1. Preheat the oven to 350 degrees.
+2. Pour the batter into the baking pan.
+3. Bake for 20 minutes.
+###
+12. Instruction: Given a sentence, identify the subject and the verb.
+12. Input: 
+She sings beautifully.
+12. Output: 
+"she" is the subject and "sings" is the verb.
+###
+13. Instruction: Given a mathematical expression, simplify it by combining like terms.
+13. Input: 
+9x + 3x + 2x - 4
+13. Output: 
+14x - 4
+###
+14. Instruction: Given a sentence, replace a word with a synonym.
+14. Input: 
+The cat walked lazily across the yard.
+14. Output: 
+The feline strolled leisurely across the lawn.
+###
+15. Instruction: Interpret a literary device presented in a phrase.
+15. Input:
+"The curtains were blue"
+15. Output:
+This is an example of imagery, which creates a vivid picture of the curtains' color through sensory experience.
+###
+16. Instruction: Given a statement, identify whether it is a fact or an opinion.
+16. Input: 
+"Football is the greatest sport in the world."
+16. Output: 
+This is an opinion, as one person's view of what the 'greatest sport' is varies from another's.
+###
+17. Instruction: Rewrite a sentence from passive voice to active voice. 
+17. Input:
+The book was read by Kate. 
+17. Output: 
+Kate read the book.
+### 
+18. Instruction: Given a sentence with a dangling modifier, rewrite the sentence to eliminate the dangling modifier.
+18. Input: 
+Walking along the beach, the waves crashed upon the shore.
+18. Output: 
+While walking along the beach, I heard the waves crashing upon the shore.
+###
+19. Instruction: Given a question, write a sentence that provides an answer. 
+19. Input: 
+What is the capital of Australia?
+19. Output: 
+The capital of Australia is Canberra.
+###
+20. Instruction: Given a set of words, create a sentence with the words in a logical order. 
+20. Input: 
+school, went, after, I, home
+20. Output: 
+After I went home, I realized I had left my bag at school.

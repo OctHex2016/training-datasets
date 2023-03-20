@@ -1,0 +1,109 @@
+4. Instruction: Provide a synonym for the given word.
+4. Input: 
+Obtuse
+4. Output: 
+Dense
+
+5. Instruction: Convert the following text into an affirmative sentence.
+5. Input: 
+He did not see the movie.
+5. Output: 
+He saw the movie.
+
+6. Instruction: Summarize the main idea of the following text.
+6. Input: 
+Elephants are the largest land animals on Earth and have distinctly massive bodies, large ears, and long trunks. Interestingly, they are herbivorous, consuming a large quantity of plant material daily. There are two species: the African elephant and the Asian elephant. African elephants have larger ears and concave backs, while the Asian counterparts have smaller ears and convex or level backs. Elephants are highly intelligent and display a range of emotions, including empathy and self-awareness.
+6. Output: 
+Elephants, the largest land animals, have unique features like long trunks and large ears, with two species, African and Asian elephants, differing in ear size and back shape. They are herbivorous, intelligent, and emotionally complex creatures.
+
+7. Instruction: Correct any spelling mistakes in the following text.
+7. Input: 
+She wents to the stroe to by some fruites.
+7. Output: 
+She went to the store to buy some fruits.
+
+8. Instruction: Name the country of origin for the following dish.
+8. Input: 
+Baklava
+8. Output: 
+Turkey
+
+9. Instruction: Identify the sport for the term given below.
+9. Input:
+Grand slam
+9. Output: 
+Tennis
+
+10. Instruction: Give me a unique example of a palindrome.
+10. Input:
+<noinput>
+10. Output: 
+A Santa at NASA
+
+11. Instruction: Rephrase the following sentence to make it more concise.
+11. Input: 
+During the time period of World War II, many countries were involved in the fighting.
+11. Output: 
+During World War II, many countries participated in the conflict.
+
+12. Instruction: Determine the tone of the following passage.
+12. Input: 
+I'm sorry, but I'm not sure I can come up with any more pointless chores for you to do just yet. It must be amazing to have so much free time that you're eager to clean every inch of our house to perfection.
+12. Output: 
+Sarcastic
+
+13. Instruction: Translate the given sentence into Spanish.
+13. Input: 
+I like to swim in the ocean.
+13. Output: 
+Me gusta nadar en el océano.
+
+14. Instruction: Identify the primary cause of the event in the following text.
+14. Input: 
+Because of a break in the water supply pipe, streets were flooded and traffic was heavily disrupted.
+14. Output: 
+A break in the water supply pipe.
+
+15. Instruction: Suggest three items to bring on a hiking trip.
+15. Input: 
+<noinput>
+15. Output: 
+1. Water bottle
+2. Trail map
+3. Comfortable shoes
+
+16. Instruction: Find the error in the sentence below and rewrite it correctly.
+16. Input: 
+Either John or his classmates needs a ride to the game tonight.
+16. Output: 
+Either John or his classmates need a ride to the game tonight.
+
+17. Instruction: What is the main occupation of the person mentioned in the text?
+17. Input: 
+Dr. Jane Smith spent years researching cancer treatments and has made significant contributions to medical science, publishing numerous articles detailing her discoveries.
+17. Output: 
+Cancer researcher
+
+18. Instruction: Write an acrostic poem for the word "LOVE".
+18. Input: 
+<noinput>
+18. Output: 
+Lingering glances, warm and tender,
+Onwards we go, hand in hand,
+Vows whispered softly, hearts surrendered,
+Endlessly entwined, love shall stand.
+
+19. Instruction: Provide a brief description of the term given below.
+19. Input: 
+Sonnet
+19. Output: 
+A sonnet is a 14-line poem with a specific rhyme scheme, often exploring themes such as love, beauty, or the passage of time.
+
+20. Instruction: List the main benefits of the product mentioned in the given text.
+20. Input: 
+Our solar-powered charger uses advanced technology to harness the sun's energy and convert it into usable power for your devices. With its durable and waterproof design, it is perfect for outdoor adventurers who need to keep their devices charged. The charger is also highly efficient, storing power for later use even on a cloudy day.
+20. Output: 
+1. Solar-powered
+2. Durable and waterproof
+3. Perfect for outdoor use
+4. Highly efficient, can store power on cloudy days

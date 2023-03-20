@@ -1,0 +1,107 @@
+4. Instruction: Generate a question related to the given topic. 
+4. Input: 
+Vaccines
+4. Output: 
+How effective are vaccines in preventing diseases, and what are some common misconceptions about them?
+###
+5. Instruction: Complete the given sentence with a one-word answer.
+5. Input: 
+The capital of France is _______.
+5. Output: 
+Paris
+###
+6. Instruction: Rewrite the given sentence in passive voice. 
+6. Input: 
+The chef cooked the meal. 
+6. Output: 
+The meal was cooked by the chef. 
+###
+7. Instruction: Reorder the given sentences to form a coherent paragraph. 
+7. Input: 
+Sentences: 
+A. The sun dipped below the horizon. 
+B. The water sparkled in the fading light. 
+C. The beach was empty now. 
+D. The sky turned pink and orange. 
+
+7. Output: 
+The sky turned pink and orange as the sun dipped below the horizon. The water sparkled in the fading light, and the beach was empty now. 
+###
+8. Instruction: Generate an example of using the word "ubiquitous" in a sentence. 
+8. Input: 
+ubiquitous
+8. Output: 
+The smartphone is ubiquitous in modern society, as most people carry one with them everywhere they go. 
+###
+9. Instruction: Rewrite the given sentence without using any adjectives.
+9. Input: 
+The big, fluffy dog ran excitedly through the park. 
+9. Output: 
+The dog ran through the park. 
+###
+10. Instruction: Classify the given text as either spam or not spam. 
+10. Input: 
+"Congratulations! You have been selected for a free vacation to Hawaii. Click the link to claim your prize now!" 
+10. Output: 
+This text is spam, and the user should not click the link. 
+###
+11. Instruction: Generate a synonym for the word "transparent". 
+11. Input: 
+transparent 
+11. Output: 
+Clear 
+###
+12. Instruction: Correct the spelling mistake in the given sentence. 
+12. Input: 
+Tey went to the park yesturday. 
+12. Output: 
+They went to the park yesterday. 
+###
+13. Instruction: Generate a rhyming word for the given word. 
+13. Input: 
+cat 
+13. Output: 
+Rat 
+###
+14. Instruction: Generate a definition for the given word. 
+14. Input: 
+zealot 
+14. Output: 
+A zealot is a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals. 
+###
+15. Instruction: Identify the grammatical error in the given sentence. 
+15. Input: 
+Me and my friends are going to the movies tonight. 
+15. Output: 
+The grammatical error in this sentence is the use of "me" instead of "I". The correct sentence would be "My friends and I are going to the movies tonight." 
+###
+16. Instruction: Generate a country that is landlocked with no coastline. 
+16. Input: <noinput>
+16. Output: 
+One example of a country that is landlocked with no coastline is Mongolia. 
+###
+17. Instruction: Generate a palindrome using the given word. 
+17. Input: 
+racecar 
+17. Output: 
+Racecar 
+###
+18. Instruction: Rewrite the given sentence using the subjunctive mood. 
+18. Input: 
+It is imperative that you speak to him about this matter. 
+18. Output: 
+It is imperative that he be spoken to about this matter. 
+###
+19. Instruction: Generate a synonym for the word "enthusiastic". 
+19. Input: 
+enthusiastic 
+19. Output: 
+Eager 
+###
+20. Instruction: Rearrange the words to form a new sentence. 
+20. Input: 
+Words: 
+yesterday / ran / I / the store / to / quickly 
+
+20. Output: 
+Yesterday, I ran quickly to the store.

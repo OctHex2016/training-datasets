@@ -1,0 +1,146 @@
+4. Instruction: Identify the format the given text is written in, such as a poem, essay, or letter.
+4. Input:
+Dear Mr. Johnson,
+
+I'm writing to express my interest in the position of marketing executive, as advertised on your website. With 5 years of experience in marketing, I believe I can bring fresh ideas and strategies to your company.
+
+I look forward to the opportunity to discuss my qualifications further.
+
+Sincerely,
+Jane Smith
+4. Output:
+Letter
+
+###
+5. Instruction: Modify the sentence(s) to make the statement less definitive.
+5. Input:
+This is the best coffee in the world.
+5. Output:
+This might be among the best coffee in the world.
+
+###
+6. Instruction: Translate the following sentence into an emoji sequence:
+6. Input:
+I love pizza, video games, and music.
+6. Output:
+🍕❤️🎮❤️🎶
+
+###
+7. Instruction: List three possible topics for a research paper about climate change.
+7. Input:
+<noinput>
+7. Output:
+1. The Impact of Climate Change on Global Biodiversity
+2. The Role of Urban Planning in Mitigating Climate Change Effects
+3. Examining the Relationship Between Climate Change and Human Health
+
+###
+8. Instruction: Summarize the following paragraph without losing essential information.
+8. Input:
+Search engine optimization (SEO) is the process of improving the visibility of a website or web page in a search engine's unpaid results - often referred to as "organic" or "earned" results. In general, the higher a site appears in the search results list and the more frequently a site appears in the search results, the more visitors it will receive from the search engine's users. These visitors can then be converted into customers for the website owner.
+8. Output:
+Search engine optimization (SEO) enhances a website's visibility in "organic" search engine results, increasing its ranking and frequency. A higher rank attracts more visitors, who can become customers for the website owner.
+
+###
+9. Instruction: Explain the difference between a plant cell and an animal cell.
+9. Input:
+<noinput>
+9. Output:
+A plant cell typically has a cell wall, large central vacuole, and plastids (such as chloroplasts) that are absent in an animal cell. On the other hand, animal cells contain lysosomes and centrioles, which are usually not found in plant cells.
+
+###
+10. Instruction: Write a haiku inspired by the beach.
+10. Input:
+<noinput>
+10. Output:
+Waves embrace the shore,
+Sunlight dances on the sand,
+Infinite ocean.
+
+###
+11. Instruction: List three appropriate activities for team building in the workplace.
+11. Input:
+<noinput>
+11. Output:
+1. Office Trivia Challenge
+2. Escape Room Experience
+3. Team-building Lunch and Learn
+
+###
+12. Instruction: Develop a positive affirmation to help someone build confidence in public speaking.
+12. Input:
+<noinput>
+12. Output:
+I am a powerful and inspiring speaker, holding the attention of my audience with grace and charisma.
+
+###
+13. Instruction: Write a brief movie synopsis for a romantic comedy about a time traveler.
+13. Input:
+<noinput>
+13. Output:
+Clocked Out Love follows Avery, a quirky time traveler, as they accidentally bounce through history, falling for a contemporary novelist named Blake. Trying to manipulate the timeline for love, Avery inadvertently changes historical events, sparking comic misunderstandings and chaos. Can Blake's pen alter destiny to save their one-of-a-kind romance amidst the whirlwind of time?
+
+###
+14. Instruction: Come up with a catchy slogan for a new eco-friendly cleaning product line.
+14. Input:
+<noinput>
+14. Output:
+Nature's Clean: Unleash the Power of Green
+
+###
+15. Instruction: Identify three important elements in the given recipe that should not be ignored to achieve a successful result.
+15. Input:
+Preheat the oven to 350°F (180°C). Mix 2 cups of all-purpose flour, 1/2 teaspoon of salt, and 1 tablespoon of baking powder in a large bowl. In another bowl, combine 1/2 cup of softened unsalted butter, 3/4 cup of granulated sugar, and beat until light and fluffy. Stir in 2 large eggs, one at a time. Add 1 teaspoon of vanilla extract and 1 cup of milk. Gradually pour the dry ingredients into the wet, stirring just enough to combine evenly. Pour the batter into a greased 9" round cake pan and bake for 35-40 minutes or until a toothpick inserted comes out clean.
+15. Output:
+1. Preheat the oven to 350°F (180°C)
+2. Gradually pour the dry ingredients into the wet, stirring just enough to combine evenly.
+3. Bake for 35-40 minutes or until a toothpick inserted comes out clean.
+
+###
+16. Instruction: Point out the logical fallacy in the given statement.
+16. Input:
+Everyone I know loves pizza, so it must be the most popular food in the world.
+16. Output:
+Hasty generalization.
+
+###
+17. Instruction: Arrange the given words in alphabetical order.
+17. Input:
+pear, orange, apple, banana, mango
+17. Output:
+apple, banana, mango, orange, pear
+
+###
+18. Instruction: From the given scenario, deduce the type of relationship between the two individuals.
+18. Input:
+Emma and Sophia are discussing their weekend plans, and Emma says she will be visiting her favorite aunt. Sophia mentions that Emma's aunt is her mother's sister, making her Emma's cousin.
+18. Output:
+Cousins
+
+###
+19. Instruction: Outline the pros and cons of a study focusing on the effects of caffeine intake during pregnancy.
+19. Input:
+<noinput>
+19. Output:
+Pros:
+1. Identify potential risks to mother and fetus
+2. Formulate evidence-based recommendations
+3. Raise awareness of potential harm
+
+Cons:
+1. Ethical considerations in exposing mothers and fetuses to caffeine
+2. Potential confounding factors affecting results
+3. Difficulties in accurately measuring caffeine intake
+
+###
+20. Instruction: Write a step-by-step explanation of how to solve a Rubik's Cube for a beginner.
+20. Input:
+<noinput>
+20. Output:
+1. Solve the white cross: Match the white center to the side colors, forming a white cross.
+2. Complete the first layer: Position the white corner pieces to line up with corresponding center colors.
+3. Solve the middle layer: Using specific algorithms, place the edge pieces in the appropriate positions in the middle layer.
+4. Solve the yellow cross: Use an algorithm to adjust the yellow edges to form a cross.
+5. Align the yellow edges: Position the yellow edge pieces with their matched center color.
+6. Position the yellow corners: Utilize an algorithm to correctly place the yellow corners in their respective slots.
+7. Orient the yellow corners: Use the final algorithms to correct the orientation of the yellow corners, solving the Rubik's Cube.

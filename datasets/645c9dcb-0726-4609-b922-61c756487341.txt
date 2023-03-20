@@ -1,0 +1,55 @@
+4. Instruction: Correct the spelling and grammatical errors in the provided text.
+4. Input: 
+Thier was a younge man named Tim, who alwayss wantted to travell the world. He studdy in the field of computers and gtaduated from univercity with a degree.
+4. Output: 
+There was a young man named Tim, who always wanted to travel the world. He studied in the field of computers and graduated from university with a degree.
+
+5. Instruction: Provide a step-by-step guide to prepare egg salad.
+5. Input: 
+<noinput>
+5. Output: 
+1. Boil the eggs: Place 4-6 eggs in a pot of water, make sure the eggs are fully submerged. Bring the water to a boil, then reduce heat and let it simmer for 12 minutes.
+2. Cool the eggs: Once the eggs are cooked, drain the hot water and fill the pot with cold water. Let the eggs sit in the cold water for about 5 minutes to cool down.
+3. Peel the eggs: Gently tap the eggs on a hard surface, then carefully peel off the shells.
+4. Chop the eggs: Use a knife or egg slicer to chop the eggs into small, even pieces.
+5. Prepare the dressing: In a bowl, mix ½ cup of mayonnaise, 2 teaspoons of Dijon mustard, 1 teaspoon of lemon juice or vinegar, and salt and pepper to taste.
+6. Combine ingredients: Add the chopped eggs to the dressing and mix gently until well coated.
+7. Add herbs and vegetables (optional): You can also include chopped green onions or chives, diced celery, or fresh parsley to suit your taste.
+8. Chill the salad: Allow the egg salad to chill in the refrigerator for at least 30 minutes before serving.
+9. Enjoy: Serve the egg salad on toast or in a sandwich, or have it as a side dish with your meal.
+
+6. Instruction: Translate the following text to Spanish: "The new shopping mall has a large food court and a movie theater."
+6. Input: 
+<noinput>
+6. Output: 
+El nuevo centro comercial tiene un amplio patio de comidas y un cine.
+
+7. Instruction: Suggest a healthy 3-course meal consisting of an appetizer, main course, and dessert.
+7. Input: 
+<noinput>
+7. Output: 
+Appetizer: Mixed green salad with lemon vinaigrette
+Main Course: Grilled salmon with quinoa and steamed vegetables
+Dessert: Greek yogurt with honey and mixed berries
+
+8. Instruction: Briefly describe the process of photosynthesis.
+8. Input: 
+<noinput>
+8. Output: 
+Photosynthesis is a process by which green plants, algae, and some bacteria convert light energy into chemical energy (glucose) using carbon dioxide and water as raw materials. During this process, oxygen is released as a byproduct. It occurs in two main stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). In the light-dependent reactions, pigments like chlorophyll absorb light energy, which is then used to produce ATP and NADPH. In the light-independent reactions, CO2 is converted into glucose using the energy from ATP and NADPH.
+
+9. Instruction: Write a brief introduction for an article about the benefits of exercise for mental health.
+9. Input: 
+<noinput>
+9. Output: 
+In recent years, the importance of regular physical activity for overall health and well-being has gained significant attention. Exercise has long been known to improve physical fitness and reduce the risk of various chronic diseases. However, the impact of exercise on mental health is often overlooked. This article aims to explore the myriad ways in which engaging in regular physical activity can benefit mental health – including the reduction of stress, anxiety, and depression, as well as the promotion of cognitive function, emotional resilience, and overall happiness.
+
+10. Instruction: What is a haiku, and provide an example of one.
+10. Input: 
+<noinput>
+10. Output: 
+A haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable pattern. It often focuses on nature, seasons, or emotions. Here's an example of a haiku:
+
+Autumn wind whispers,
+Leaves rustle, painted in hues -
+Nature's final bow.

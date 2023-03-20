@@ -1,0 +1,119 @@
+
+
+4. Instruction: Rewrite the following sentence to be more concise. 
+4. Input: 
+The reason why I was late is because my car broke down on the highway.
+4. Output: 
+I was late because my car broke down on the highway. 
+###
+5. Instruction: Generate a new sentence using the given phrase as a noun. 
+5. Input: 
+Skydiving
+5. Output: 
+Skydiving is a thrilling experience that many people enjoy. 
+###
+6. Instruction: Given a set of instructions, generate a sequence of steps to complete the task. 
+6. Input: 
+How to make a cup of tea:
+1. Boil water 
+2. Prepare tea bag 
+3. Place tea bag in the cup 
+4. Pour boiling water over the tea bag 
+5. Let it steep for a few minutes 
+6. Remove the tea bag 
+7. Add sugar or milk as desired 
+6. Output: 
+1. Fill kettle with water and plug it in.
+2. Put a tea bag in a cup.
+3. When kettle boils, pour water into the cup.
+4. Let it steep for a few minutes.
+5. Remove the tea bag.
+6. Add sugar or milk as desired. 
+###
+7. Instruction: Given an image, provide a caption that describes the image. 
+7. Input: 
+An image of a group of people playing soccer in a park. 
+7. Output: 
+A group of people playing soccer in the park on a sunny day. 
+###
+8. Instruction: Identify the sentiment of the given statement as positive, negative or neutral. 
+8. Input: 
+I really enjoyed the movie, it was so entertaining and engaging! 
+8. Output: 
+Positive. 
+###
+9. Instruction: Generate a summary of the following news article. 
+9. Input: 
+https://www.bbc.com/news/business-58415040
+9. Output: 
+The UK unemployment rate has fallen to 4.6% after the number of people in work rose by 183,000 in May to July this year. This was the largest increase since 2014, and was attributed to the reopening of the economy after pandemic restrictions. Job vacancies also hit a record high of 1m for the first time since records began in 2001, which experts believe is due to a combination of factors including Brexit and staff shortages in several industries. 
+###
+10. Instruction: Identify the word that is spelled incorrectly in the following sentence. 
+10. Input: 
+I am confidant that I can finish this task on time. 
+10. Output: 
+The word "confidant" is spelled incorrectly, it should be "confident." 
+###
+11. Instruction: Given a word, provide its synonym. 
+11. Input: 
+Beautiful 
+11. Output: 
+Gorgeous. 
+###
+12. Instruction: Given a set of instructions, identify the ingredient or tool that is missing. 
+12. Input: 
+How to make a sandwich:
+1. Get two slices of bread. 
+2. Spread mayonnaise on one slice. 
+3. Add turkey, lettuce and tomato. 
+4. Top with second slice of bread. 
+12. Output: 
+The instruction is missing mustard. 
+###
+13. Instruction: Generate a rhyming word for the following word. 
+13. Input: 
+Cat
+13. Output: 
+Hat
+###
+14. Instruction: Rephrase the following sentence in passive voice. 
+14. Input: 
+The customer service representative solved the problem. 
+14. Output: 
+The problem was solved by the customer service representative. 
+###
+15. Instruction: Identify the antonym of the following word. 
+15. Input: 
+Heavy 
+15. Output: 
+Light 
+###
+16. Instruction: Given a question, generate the correct answer. 
+16. Input: 
+What is the capital of France? 
+16. Output: 
+Paris. 
+###
+17. Instruction: Identify the homophone of the following word. 
+17. Input: 
+Flower 
+17. Output: 
+Flour. 
+###
+18. Instruction: Identify the part of speech of the following word. 
+18. Input: 
+Swim 
+18. Output: 
+Verb. 
+###
+19. Instruction: Rewrite the following sentence in past tense. 
+19. Input: 
+I eat cereal every morning for breakfast. 
+19. Output: 
+I ate cereal every morning for breakfast. 
+###
+20. Instruction: Complete the following analogy. 
+20. Input: 
+Apple : Fruit :: Carrot : _____ 
+20. Output: 
+Vegetable.

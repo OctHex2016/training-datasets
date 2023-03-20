@@ -1,0 +1,54 @@
+4. Instruction: Summarize the article in two to three sentences.
+4. Input: 
+Jeff Bezos has officially stepped down as Amazon CEO, handing over the position to Andy Jassy, who previously led Amazon Web Services (AWS). Bezos announced the decision in February, with the transition taking place on July 5, 2021. Bezos remains with Amazon as executive chairman but will focus on other projects, including Blue Origin, The Washington Post, and his philanthropic efforts. Andy Jassy, the new CEO, joined Amazon in 1997 and played a key role in the development of AWS, which accounts for around 52% of Amazon's operating profits. 
+
+4. Output: 
+Jeff Bezos stepped down as Amazon CEO on July 5, 2021, and was succeeded by former AWS leader Andy Jassy. Bezos will now focus on other projects, including Blue Origin, The Washington Post, and philanthropy, while remaining as Amazon's executive chairman.
+
+5. Instruction: Recommend a recipe based on the provided chili ingredients.
+5. Input: 
+Ground turkey, kidney beans, tomato sauce, green bell pepper, onions, garlic, chili powder, cumin, black pepper, salt
+
+5. Output: 
+A hearty Turkey and Kidney Bean Chili would be the perfect recipe for these ingredients. Begin by sautéing onions, garlic, and green bell pepper, then add ground turkey and cook until browned. Stir in tomato sauce, kidney beans, and spices, including chili powder, cumin, salt, and black pepper. Simmer the chili for 30-40 minutes until the flavors meld together, and serve with your choice of toppings like shredded cheese, sour cream, or green onions.
+
+6. Instruction: Identify the main purpose of the email.
+6. Input: 
+Subject: Let's schedule a quarterly review meeting
+
+Hi Alex,
+
+I hope this email finds you well. I wanted to touch base with you regarding our quarterly review. It's time for us to analyze the progress made and target areas for improvement. Please send me your preferred dates and times for the meeting so that we can get it scheduled ASAP.
+
+Looking forward to your response.
+
+Best regards,
+Maria
+6. Output: 
+The main purpose of the email is to schedule a quarterly review meeting.
+7. Instruction: Correct the grammar and punctuation errors in the given text.
+7. Input: 
+your Order is been confirmed and we have recieved payment. Your package will be shipped witin 3-4 business day's.  please feel free to contact us with any quetions or concerns.
+
+7. Output: 
+Your order has been confirmed, and we have received payment. Your package will be shipped within 3-4 business days. Please feel free to contact us with any questions or concerns.
+
+8. Instruction: Explain the concept of photosynthesis in simple terms.
+8. Input: 
+<noinput>
+8. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into energy (in the form of glucose) and oxygen. In simple terms, these organisms use light energy to make their own food and release oxygen, which is essential for life on Earth.
+
+9. Instruction: Translate the given text from English to Spanish.
+9. Input: 
+I would like to book a table for four at your restaurant tomorrow evening.
+9. Output: 
+Me gustaría reservar una mesa para cuatro en su restaurante mañana por la noche.
+
+10. Instruction: Determine whether the following argument is logically valid or invalid.
+10. Input: 
+All fish can swim.
+Sharks can swim.
+Therefore, all sharks are fish.
+10. Output: 
+Logically valid

@@ -1,0 +1,145 @@
+4. Instruction: Translate the given text to French.
+4. Input: 
+The sun rises in the east and sets in the west.
+4. Output: 
+Le soleil se lève à l'est et se couche à l'ouest.
+
+###
+
+5. Instruction: Provide a fun fact about chameleons.
+5. Input: 
+<noinput>
+5. Output: 
+Chameleons can move their eyes independently, allowing them to look in two different directions at the same time.
+
+###
+
+6. Instruction: Rank the given list of movies based on their plots.
+6. Input: 
+1. A spaceship crash-lands on an unknown planet inhabited by talking apes.
+2. A poor artist and a rich young woman fall in love aboard a doomed ship.
+3. A young wizard learns about his magical heritage while attending a school for witchcraft and wizardry.
+4. A retired superhero returns to fight crime again, despite putting his family in danger.
+6. Output: 
+1. A young wizard learns about his magical heritage while attending a school for witchcraft and wizardry.
+2. A retired superhero returns to fight crime again, despite putting his family in danger.
+3. A poor artist and a rich young woman fall in love aboard a doomed ship.
+4. A spaceship crash-lands on an unknown planet inhabited by talking apes.
+
+###
+
+7. Instruction: Summarize the given news article in a headline.
+7. Input: 
+Police officers from the Sanderstown Police Department performed a daring rescue operation yesterday, saving a lost elderly man stranded in the woods. The elderly man was reported missing by his family, who grew concerned after he went for a walk and hadn't returned home by nightfall. Using a specially trained search dog and a drone, the officers located the stranded man, who had become disoriented in the dense forest. The officers were praised by the man's family, expressing their gratitude for their quick and professional actions.
+7. Output: 
+Daring rescue operation saves lost elderly man stranded in woods
+
+###
+
+8. Instruction: Comment on the given Youtube video description.
+8. Input: 
+In this video, I'll show you how to create a stunning watercolor landscape in just 20 minutes! You don't have to be an expert artist to follow along - just grab your brushes, some watercolors, and let the creativity flow. You'll learn how to paint everything from trees and flowers to rolling hills and a serene river. I hope this tutorial inspires you to explore the beautiful world of watercolor!
+8. Output: 
+Your tutorial is amazing! Very beginner-friendly, and the watercolor landscape turned out stunning. It inspired me to keep practicing and exploring this wonderful art medium. Thank you for sharing your talent!
+
+###
+
+9. Instruction: Describe the benefits of gardening.
+9. Input: 
+<noinput>
+9. Output: 
+The benefits of gardening include reducing stress, improving mental health, promoting physical fitness, fostering a sense of community, developing patience and nurturing critical thinking. Additionally, gardening contributes to environmental well-being, as it adds to the biodiversity, filters air pollution, reduces erosion, and promotes pollination.
+
+###
+
+10. Instruction: Edit the given text to fix spelling and grammar errors.
+10. Input: 
+Thier dog was barking becouse it was time fore a walk. It jumps around, wagging it's tail, and wieghing it's leach in its mouth.
+10. Output: 
+Their dog was barking because it was time for a walk. It jumped around, wagging its tail, and holding its leash in its mouth.
+
+###
+
+11. Instruction: Write a haiku about thunderstorms.
+11. Input: 
+<noinput>
+11. Output: 
+Flashes in night sky,
+Echoes of the storm's fury,
+Nature's symphony.
+
+###
+
+12. Instruction: Calculate the tip for a $47 meal at an 18% rate.
+12. Input: 
+<noinput>
+12. Output: 
+$8.46
+
+###
+
+13. Instruction: Recommend a book to help someone sleep better.
+13. Input: 
+<noinput>
+13. Output: 
+"Sleep Smarter" by Shawn Stevenson
+
+###
+
+14. Instruction: Based on the given reviews, categorize the product as good, decent, or bad.
+14. Input: 
+Review 1: The sound quality of these earbuds is excellent, and they fit comfortably in my ears.
+Review 2: I love the long battery life and the handy charging case that comes with this product.
+Review 3: These earbuds offer a great balance between price and performance. Highly recommended!
+14. Output: 
+Good
+
+###
+
+15. Instruction: Name a famous scientist and their achievement.
+15. Input: 
+<noinput>
+15. Output: 
+Albert Einstein, known for his theory of relativity.
+
+###
+
+16. Instruction: Write a short poem about technology.
+16. Input: 
+<noinput>
+16. Output: 
+Machines of progress,
+Our connection and our bane,
+Digital embrace.
+
+###
+
+17. Instruction: Predict and describe a future invention that could change the world.
+17. Input: 
+<noinput>
+17. Output: 
+Virtual Reality Ecosystem - a fully integrated, immersive virtual world that connects all aspects of life, including work, education, entertainment, and social interactions. It would eliminate the need for physical transportation, revolutionize the way we communicate, and break down boundaries between nations and cultures.
+
+###
+
+18. Instruction: Explain the process of photosynthesis in simple terms.
+18. Input: 
+<noinput>
+18. Output: 
+Photosynthesis is a process used by plants to convert sunlight, carbon dioxide, and water into energy and oxygen. The energy is stored as glucose, which is used by the plants for growth and nourishment, while the oxygen is released into the environment as a byproduct.
+
+###
+
+19. Instruction: Rewrite the given text in passive voice.
+19. Input: 
+The committee was discussing the new proposal when John entered the room.
+19. Output: 
+The new proposal was being discussed by the committee when John entered the room.
+
+###
+
+20. Instruction: Determine the meaning of the given proverb.
+20. Input: 
+Actions speak louder than words.
+20. Output: 
+The proverb "Actions speak louder than words" means that what people do is more important and indicative of their character than what they say.

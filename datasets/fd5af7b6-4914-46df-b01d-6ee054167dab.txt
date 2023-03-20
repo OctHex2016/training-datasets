@@ -1,0 +1,121 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input:
+The dog chased the cat around the house.
+4. Output:
+The cat was chased around the house by the dog.
+
+###
+5. Instruction: Choose the correct word from the options provided that best fits the phrase.
+5. Input:
+Phrase: "break down _____ tears."
+Options: of, in, at, up
+5. Output:
+in
+
+###
+6. Instruction: Proofread the text and correct any spelling or grammatical errors.
+6. Input:
+"Perhapse it ws a difficult days for Jane. Firstly her compoter stoped working, and than she losted her car keys."
+6. Output:
+"Perhaps it was a difficult day for Jane. Firstly, her computer stopped working, and then she lost her car keys."
+
+###
+7. Instruction: How can you describe the taste of the dish using a metaphor?
+7. Input:
+Dish: Creamy mushroom pasta
+7. Output:
+The taste of creamy mushroom pasta is like a symphony of flavors, harmoniously melting in your mouth.
+
+###
+8. Instruction: Identify the kind of bird in the given text by its description.
+8. Input:
+A small, green bird with a bright red throat and a short, slightly curved beak.
+8. Output:
+Ruby-throated Hummingbird
+
+###
+9. Instruction: Tell me something interesting about the city from the provided fact.
+9. Input:
+Fact: Melbourne, Australia, was once called Batmania.
+9. Output:
+Melbourne was originally called Batmania after one of its founding fathers, John Batman.
+
+###
+10. Instruction: What is a possible cause of the problem described in the given text?
+10. Input:
+Symptoms: Car engine making loud noises and losing power when accelerating.
+10. Output:
+One possible cause could be a clogged or damaged exhaust system.
+
+###
+11. Instruction: Determine which celebrity the main subject of the given text is. 
+11. Input:
+"Known for her iconic pop hits and impressive vocal range, she rose to fame in the late 1990s with her debut album. She also starred in a 2001 movie titled 'Glitter.'"
+11. Output:
+Mariah Carey
+
+###
+12. Instruction: Identify the literary device used in the given sentence.
+12. Input:
+"All the world's a stage, and all the men and women merely players."
+12. Output:
+Metaphor
+
+###
+13. Instruction: Write a brief summary of the given text.
+13. Input:
+"Kabuki is a traditional Japanese dance-drama theatre form that combines music, drama, and dance. The word kabuki is derived from the verb 'kabuku,' which means 'to lean' or 'to be out of the ordinary,' thus, it can also be interpreted as 'avant-garde' or 'bizarre' theatre. It originated during the Edo Period and was initially performed by female troupes, later becoming dominated by male actors. Kabuki is known for its elaborate makeup and costumes, stylized acting, and intricate stage techniques, such as revolving stages and trapdoors."
+13. Output:
+Kabuki is a Japanese dance-drama combining music, drama, and dance, originating from the Edo Period. Originated by female troupes and later by males, it is characterized by elaborate makeup, costumes, stylized acting, and intricate stage techniques.
+
+###
+14. Instruction: Identify the name of the song and the artist in the given lyrics.
+14. Input:
+"We're just two lost souls swimmin' in a fishbowl, year after year."
+14. Output:
+Song: Wish You Were Here
+Artist: Pink Floyd
+
+###
+15. Instruction: Translate the phrase into French.
+15. Input:
+Phrase: "The weather is beautiful today."
+15. Output:
+"Le temps est beau aujourd'hui."
+
+###
+16. Instruction: Describe the feeling of the character in the given situation.
+16. Input:
+Situation: Sarah just found out she got the job she's been dreaming of for years.
+16. Output:
+Sarah feels ecstatic, overjoyed, and relieved as her hard work and determination have paid off.
+
+###
+17. Instruction: What is the meaning of the idiom in the given sentence?
+17. Input:
+"The detective decided to spill the beans and reveal the truth about the case."
+17. Output:
+The idiom "spill the beans" means to disclose a secret or reveal confidential information.
+
+###
+18. Instruction: Rank the given list of items from most to least expensive.
+18. Input:
+Items: Bar of soap, diamond necklace, bicycle, leather jacket
+18. Output:
+Diamond necklace, bicycle, leather jacket, bar of soap
+
+###
+19. Instruction: How can you prevent the occurrence of the issue described in the given text?
+19. Input:
+Issue: Spreading of misinformation on social media.
+19. Output:
+To prevent misinformation on social media, always fact-check sources, promote media literacy, and encourage the reporting of false content to the platform administrators.
+
+###
+20. Instruction: Compose a haiku about the given topic.
+20. Input:
+Topic: A walk in the autumn woods
+20. Output:
+Crisp leaves crunch below,
+Golden hues dance in the breeze,
+Autumn's breath whispers.

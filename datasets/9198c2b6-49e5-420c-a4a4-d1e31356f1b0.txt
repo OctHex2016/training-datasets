@@ -1,0 +1,91 @@
+4. Instruction: Rewrite the given sentence in passive voice. 
+4. Input: 
+The cat chased the mouse through the garden.
+4. Output: 
+The mouse was chased through the garden by the cat.
+
+5. Instruction: Select the most appropriate genre for this movie plot and explain why. 
+5. Input: 
+"In a dystopian future, society is divided into five factions, each dedicated to the cultivation of a particular virtue. A young girl grapples with her assigned faction's philosophy as she uncovers a secret rebellion threatening to destroy their society from within."
+5. Output: 
+The most appropriate genre for this movie plot is science fiction, specifically dystopian fiction, because it takes place in a futuristic world with a unique societal structure, and deals with themes related to rebellion, societal control, and the exploration of human values and virtues.
+
+6. Instruction: Identify a grammatical error in the sentence and correct it. 
+6. Input: 
+She enjoy listening to music, reading novels and to paint.
+6. Output: 
+She enjoys listening to music, reading novels, and painting.
+
+7. Instruction: List three possible solutions or interventions to address the given social issue. 
+7. Input: 
+Youth unemployment
+7. Output: 
+1. Implementing vocational training and apprenticeship programs that equip young people with practical skills relevant to the job market.
+2. Encouraging entrepreneurship and providing support for young people to create their businesses, such as low-interest loans, grants or mentorship programs.
+3. Strengthening partnerships between schools, universities, and employers to better align educational curricula with industry needs and provide youth with internship and job placement opportunities.
+
+8. Instruction: Write a short blurb promoting the benefits of a vegetarian diet. 
+8. Input: <noinput>
+8. Output: 
+Discover a healthier, more sustainable lifestyle by adopting a vegetarian diet! Packed with nutrient-rich fruits, vegetables, and plant-based proteins, a vegetarian diet not only boosts your overall health and vitality but also helps reduce your environmental footprint. By choosing a plant-based lifestyle, you'll enjoy better heart health, lower cancer risks, and improved weight management, all while contributing to a kinder, greener world for future generations.
+
+9. Instruction: Choose the correct form of the verb to complete the sentence. 
+9. Input: 
+If she (come / comes) to the party tonight, I'll be surprised.
+9. Output: 
+If she comes to the party tonight, I'll be surprised.
+
+10. Instruction: Assume the role of a travel agent and briefly suggest a romantic vacation package for a young couple visiting France. 
+10. Input: <noinput>
+10. Output: 
+For a truly romantic and unforgettable experience, we suggest a 7-day Paris and French Riviera getaway for you and your loved one. Begin your journey in Paris, the City of Love, where you'll spend three nights in a charming boutique hotel, stroll hand-in-hand along the Seine, and enjoy an intimate candlelit dinner at a world-class restaurant. After exploring iconic sites like the Eiffel Tower and Louvre, head south to the French Riviera for four days of sun-soaked relaxation along the Côte d'Azur. Experience the glamour of Cannes, the breathtaking beauty of Nice, and the charming narrow streets of Antibes, all while savoring the delightful Mediterranean cuisine and breathtaking seaside vistas.
+
+11. Instruction: Identify the logical fallacy in the given statement.
+11. Input: 
+"Don't listen to her argument about pollution; she drives an SUV!"
+11. Output: 
+The logical fallacy in this statement is an ad hominem fallacy. The person is attacking the character or circumstances of the individual making the argument rather than addressing the argument itself.
+
+12. Instruction: Briefly explain how a water filtration system works.
+12. Input: <noinput>
+12. Output: 
+A water filtration system works by removing impurities and contaminants from the water through a series of physical, chemical, and biological processes. Depending on the type of filtration system, water may pass through a sediment filter to remove large particles like sand, silt, and debris. Then, the water may go through an activated carbon filter that removes unwanted chemicals, such as chlorine, and improves the taste and odor of the water. Additional processes, such as reverse osmosis, UV disinfection, or ion-exchange, can further purify the water by removing dissolved minerals, bacteria, viruses, and heavy metals. The result is clean, safe, and healthy drinking water.
+
+13. Instruction: Rank the following historical events in chronological order.
+13. Input: 
+- The American Revolution
+- The French Revolution
+- World War II
+- The Renaissance
+13. Output: 
+1. The Renaissance
+2. The American Revolution
+3. The French Revolution
+4. World War II
+
+14. Instruction: Create a haiku about nature.
+14. Input: <noinput>
+14. Output: 
+Misty mountain peaks
+Whispering winds through the pines
+Nature's harmony
+
+15. Instruction: Paraphrase the given quote while retaining its meaning. 
+15. Input: 
+"Life is what happens when you're busy making other plans." - John Lennon
+15. Output: 
+"Life unfolds while you're preoccupied with different intentions." - John Lennon
+
+16. Instruction: Summarize the benefits and drawbacks of using social media for business.
+16. Input: <noinput>
+16. Output: 
+Benefits of using social media for business include increased brand visibility, enhanced customer engagement, access to valuable market insights, and cost-effective advertising opportunities. Drawbacks, on the other hand, may include concerns about privacy and data security, potential negative feedback or online reputation damage, the need for a dedicated social media team, and the challenge of keeping up with constantly changing trends and algorithms.
+
+17. Instruction: What is one effective strategy for reducing sugar consumption? Explain.
+17. Input: <noinput>
+17. Output: 
+One effective strategy for reducing sugar consumption is to replace added sugars with natural alternatives. Consuming fruits, vegetables, and whole grains that are naturally sweet and rich in fiber can help satisfy cravings for sweetness while providing essential nutrients and maintaining stable blood sugar levels. Additionally, natural sweeteners such as honey, maple syrup, or stevia can offer healthier alternatives when added in moderation to recipes and beverages.
+
+18. Instruction: Choose the correct word to complete the sentence: Their / There / They're
+18. Input: 
+I put the books on the shelf over ____.

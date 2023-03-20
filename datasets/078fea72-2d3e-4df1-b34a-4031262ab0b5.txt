@@ -1,0 +1,102 @@
+4. Instruction: Generate a list of 5 synonyms for the word "happy".
+4. Input: 
+<noinput>
+4. Output: 
+Content, joyful, delighted, ecstatic, cheerful.
+###
+5. Instruction: Edit this sentence to make it more concise without changing the meaning.
+5. Input: 
+John drove to the city, and he parked his car in a lot, which was located near the market, where he wanted to buy some vegetables.
+5. Output: 
+John parked his car near the market to buy vegetables.
+###
+6. Instruction: Given an incomplete sentence, complete it with a suitable word or phrase.
+6. Input: 
+I am allergic to peanuts, so I cannot eat <what?>.
+6. Output: 
+peanut-based products
+###
+7. Instruction: Find the antonym for the word "dark".
+7. Input: 
+<noinput>
+7. Output: 
+Light
+###
+8. Instruction: Given a sentence, identify the main clause and the subordinate clause.
+8. Input: 
+Since I was feeling sick, I went to the doctor.
+8. Output: 
+Main clause: I went to the doctor. Subordinate clause: Since I was feeling sick.
+###
+9. Instruction: Generate a random number between 1 and 100.
+9. Input: 
+<noinput>
+9. Output: 
+54
+###
+10. Instruction: Given a complex math problem, simplify the expression.
+10. Input: 
+3x + 2x - 5x + 7x
+10. Output: 
+7x
+###
+11. Instruction: Identify the subject of this sentence.
+11. Input: 
+The cat is sleeping on the couch.
+11. Output: 
+The cat
+###
+12. Instruction: Given two words, write a sentence using both of them in a way that illustrates their opposite meanings.
+12. Input: 
+hot, cold
+12. Output: 
+It's too hot to wear a jacket outside, but it's too cold to take it off inside.
+###
+13. Instruction: Given a list of items, sort them alphabetically.
+13. Input: 
+pineapple, grapefruit, apple, banana, orange
+13. Output: 
+apple, banana, grapefruit, orange, pineapple
+###
+14. Instruction: Given two phrases, combine them into a single sentence using "and".
+14. Input: 
+The sky is blue.
+The grass is green.
+14. Output: 
+The sky is blue and the grass is green.
+###
+15. Instruction: Write a rhyming sentence using the word "cat".
+15. Input: 
+<noinput>
+15. Output: 
+My cat likes to wear a hat.
+###
+16. Instruction: Given a phrase, write a sentence that means the opposite.
+16. Input: 
+I am feeling well.
+16. Output: 
+I am not feeling well.
+###
+17. Instruction: Write a sentence that uses the word "immediately".
+17. Input: 
+<noinput>
+17. Output: 
+Please call me back immediately.
+###
+18. Instruction: Given a phrase, make it negative.
+18. Input: 
+He always eats breakfast.
+18. Output: 
+He never eats breakfast.
+###
+19. Instruction: Explain what is happening in the picture.
+19. Input: 
+<noinput>
+19. Output: 
+I'm sorry, I cannot see the picture as I am an AI language model and do not have visual capabilities.
+###
+20. Instruction: Identify the adjectives in this sentence.
+20. Input: 
+The big, red ball rolled down the hill.
+20. Output: 
+big, red.

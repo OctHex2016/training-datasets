@@ -1,0 +1,101 @@
+4. Instruction: Summarize the main idea of the given paragraph in one sentence.
+4. Input: 
+The rising cost of living has led many people to explore alternative housing solutions. One popular option is tiny homes – small, mobile structures that prioritize space efficiency and affordability. While they may not have all the amenities of a traditional house, they offer many benefits such as lower costs, environmental friendliness, and the freedom to live more simply. As a result, an increasing number of people are choosing to downsize and invest in these innovative living spaces.
+4. Output: 
+Tiny homes are becoming a popular alternative housing solution due to their affordability, space efficiency, and environmental friendliness.
+
+5. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+5. Input: 
+30°C
+5. Output: 
+86°F
+
+6. Instruction: Explain the term herd immunity in the context of vaccination.
+6. Input: 
+<noinput>
+6. Output: 
+Herd immunity refers to the protection of a population against the spread of an infectious disease when a significant proportion of its individuals become immune through vaccination or previous infection, reducing the likelihood of disease transmission and protecting vulnerable individuals who cannot be vaccinated.
+
+7. Instruction: Fix any grammatical errors in the given sentence.
+7. Input: 
+She walk to the store for bought some fruits yesterday.
+7. Output: 
+She walked to the store to buy some fruits yesterday.
+
+8. Instruction: Provide a synonym for the given word.
+8. Input: 
+Excited
+8. Output: 
+Thrilled
+
+9. Instruction: Identify the type of logical fallacy in the given statement, if any.
+9. Input: 
+If we allow students to bring cell phones to school, soon they will start taking calls during class and cheating on tests.
+9. Output: 
+Slippery slope
+
+10. Instruction: Write a haiku about the beauty of nature.
+10. Input: 
+<noinput>
+10. Output: 
+Golden leaves flutter,
+Gentle breeze whispers secrets,
+Nature's beauty thrives.11. Instruction: Provide the capital city of the given country.
+11. Input: 
+Germany
+11. Output: 
+Berlin
+
+12. Instruction: Is the given statement true or false? "The sun is a planet."
+12. Input: 
+<noinput>
+12. Output: 
+false
+
+13. Instruction: Classify the given animal into the kingdom, Animalia, Plantae, or Fungi.
+13. Input: 
+Lion
+13. Output: 
+Animalia
+
+14. Instruction: Rewrite the given sentence in passive voice.
+14. Input: 
+The artist painted the portrait.
+14. Output: 
+The portrait was painted by the artist.
+
+15. Instruction: Determine which book has thicker pages based on the given gram per square meter (gsm) values.
+15. Input: 
+Book A: 100 gsm, Book B: 120 gsm
+15. Output: 
+Book B
+
+16. Instruction: Explain the main difference between renewable and non-renewable energy resources.
+16. Input: 
+<noinput>
+16. Output: 
+Renewable energy resources are replenished naturally and can be used indefinitely, while non-renewable resources have limited reserves and will eventually be depleted through consumption.
+
+17. Instruction: Name a historical event that occurred in the given year.
+17. Input: 
+1969
+17. Output: 
+Apollo 11 moon landing
+
+18. Instruction: Provide a recommendation for an indoor plant that requires low maintenance and low light.
+18. Input: 
+<noinput>
+18. Output: 
+Snake plant (Sansevieria)
+
+19. Instruction: Translate the given phrase from English to Spanish.
+19. Input: 
+"Where is the train station?"
+19. Output: 
+"¿Dónde está la estación de tren?"
+
+20. Instruction: Based on the given ingredients, suggest a dish that can be prepared.
+20. Input: 
+Rice, chicken, onions, bell peppers, soy sauce, garlic
+20. Output: 
+Chicken Fried Rice

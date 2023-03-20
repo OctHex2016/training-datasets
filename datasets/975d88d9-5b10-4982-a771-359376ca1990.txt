@@ -1,0 +1,114 @@
+4. Instruction: Identify the pattern in the given sentence and complete the pattern with one more element.
+4. Input: 
+apple, orange, grape, blueberry, strawberry, __(?)
+4. Output: 
+raspberry
+###
+5. Instruction: Find rhyming words for the given word.
+5. Input: 
+"boat"
+5.Output: 
+float, coat, note, throat
+###
+6. Instruction: What is the square root of the given number?
+6. Input: 
+144
+6. Output: 
+12
+###
+7. Instruction: Reword the given sentence to passive voice.
+7. Input: 
+The cat chased the dog.
+7. Output: 
+The dog was chased by the cat.
+###
+8. Instruction: List the steps of the scientific method in order.
+8. Input: 
+<noinput>
+8. Output: 
+1. Make an observation.
+2. Conduct research.
+3. Form a hypothesis.
+4. Test the hypothesis through experimentation.
+5. Analyze data and draw conclusions.
+6. Communicate results.
+###
+9. Instruction: Summarize the plot of the given movie.
+9. Input: 
+The Shawshank Redemption
+9. Output: 
+The Shawshank Redemption is the story of Andy Dufresne, a banker falsely convicted of murder, who forms a bond with an inmate named Red in Shawshank State Penitentiary. Over the years, Andy shares his financial expertise to the corrupt prison warden and guards while maintaining hope of exoneration. Eventually, Andy escapes the prison through a tunnel he secretly dug, while revealing the warden's corruption. In the end, Andy and Red reunite in Mexico, finally living free lives.
+###
+10. Instruction: Analyze the given literary passage and identify the primary theme.
+10. Input: 
+"It was the best of times; it was the worst of times. It was the age of wisdom; it was the age of foolishness. It was the epoch of belief; it was the epoch of incredulity."
+
+— A Tale of Two Cities, Charles Dickens
+10. Output: 
+The primary theme of this passage is the duality and contrast between opposing forces or experiences.
+###
+11. Instruction: Write a brief profile introduction for the person described in the given information.
+11. Input: 
+Name: Samantha Green,
+Occupation: Architect,
+Hobbies: photography, hiking,
+Achievements: won an architectural design competition, designed an eco-friendly city park.
+11. Output: 
+Samantha Green is a talented architect who has won prestigious design competitions and focused her work on sustainable projects, like eco-friendly city parks. In addition to her professional achievements, Samantha enjoys exploring nature and capturing its beauty through photography and hiking.
+###
+12. Instruction: Give the main function of the following organ in the human body.
+12. Input: 
+heart
+12. Output: 
+The main function of the heart is to pump blood throughout the body, supplying oxygen and nutrients to the tissues and removing waste products.
+###
+13. Instruction: Determine the tone of the given text.
+13. Input: 
+"With the gardening gloves still on, her fingers awkwardly fumbled for the right key. Eventually, the door opened with a creaking sound that announced her arrival."
+13. Output: 
+descriptive
+###
+14. Instruction: Translate the given sentence to French.
+14. Input: 
+"Where is the train station?"
+14. Output: 
+"Où est la gare?"
+###
+15. Instruction: Write a short news headline to describe the following event details.
+15. Input: 
+Company: Amazing Technologies, 
+Product: AI-driven smart glasses,
+Release date: October 1st,
+Feature: virtual assistant, navigation system.
+15. Output: 
+"Amazing Technologies Launches AI-Powered Smart Glasses with Virtual Assistant & Navigation on October 1st"
+###
+16. Instruction: What is the capital city of the given country?
+16. Input: 
+France
+16. Output: 
+Paris
+###
+17. Instruction: Identify the literary device used in the given line.
+17. Input: 
+"The wind whispered secrets through the trees."
+17. Output: 
+personification
+###
+18. Instruction: Suggest three professions that might use the given tool in their work.
+18. Input: 
+microscope
+18. Output: 
+biologist, forensic scientist, medical researcher
+###
+19. Instruction: Write an apologetic email subject for a missed meeting.
+19. Input: 
+<noinput>
+19. Output: 
+"Apologies for Missing the Meeting - Rescheduling Request"
+###
+20. Instruction: Explain the difference between the two words provided.
+20. Input: 
+e.g. and i.e.
+20. Output: 
+"e.g." stands for "exempli gratia" and is used to provide examples. "i.e." stands for "id est" and is used to clarify or rephrase a statement.

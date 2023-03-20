@@ -1,0 +1,105 @@
+4. Instruction: Rewrite the following sentence by removing any passive voice.
+4. Input:
+The package was delivered by the courier yesterday.
+4. Output:
+The courier delivered the package yesterday.
+###
+5. Instruction: Summarize the main point of the following paragraph in one sentence.
+5. Input:
+The theory of relativity, developed by Albert Einstein in the early 20th century, has two main components: the special relativity and the general relativity. Special relativity deals with objects moving at near-light speeds by establishing a relationship between time and space, whereas general relativity concerns the effect of gravity on large-scale structures such as planets, stars, and galaxies. Both theories have had a significant impact on the field of physics and have provided a greater understanding of the universe.
+5. Output:
+The theory of relativity, consisting of special relativity and general relativity, explains the relationship between time and space in high-speed objects and the effect of gravity on large-scale structures.
+###
+6. Instruction: Identify any grammatical errors in the given sentence and correct them.
+6. Input:
+They is a great soccer player and have many skillz.
+6. Output:
+They are a great soccer player and have many skills.
+###
+7. Instruction: Extend the following list into ten items.
+7. Input:
+Chocolate, Vanilla
+7. Output:
+Chocolate, Vanilla, Strawberry, Mint, Cookies and Cream, Rocky Road, Pistachio, Caramel, Neapolitan, Coffee
+###
+8. Instruction: Provide an analogy for the following phrase: "As brave as a lion."
+8. Input:
+<noinput>
+8. Output:
+As swift as a cheetah.
+###
+9. Instruction: Translate the following English sentence into French.
+9. Input:
+I love exploring new places and meeting different people.
+9. Output:
+J'adore explorer de nouveaux endroits et rencontrer des personnes différentes.
+###
+10. Instruction: Provide a suitable ending for the given story plot.
+10. Input:
+Long ago in a mystical forest, lived a magical creature named Luna. She had the power to control the elements and protect the forest from harm. One day, an evil sorcerer entered the forest, intending to use Luna's powers for his wicked purposes. In a fierce battle, Luna fought against the sorcerer and his dark minions.
+10. Output:
+Ultimately, Luna prevailed, driving the sorcerer and his minions out of the forest. The forest was once again safe, and Luna continued her role as its guardian, ensuring that no harm would ever befall it and its inhabitants.
+###
+11. Instruction: Create an original limerick.
+11. Input:
+<noinput>
+11. Output:
+There once was a frog who could croon,
+Underneath the light of the moon.
+He sang songs of love,
+Like a romantic dove,
+As the stars above gently swoon.
+###
+12. Instruction: Provide advice on how to maintain a healthy weight.
+12. Input:
+<noinput>
+12. Output:
+To maintain a healthy weight, focus on consuming a balanced diet, portion control, staying hydrated, engaging in regular physical activity, getting adequate sleep, and managing stress.
+###
+13. Instruction: From the given passage, identify the protagonist and the antagonist.
+13. Input:
+In the small town of Oakville, Sammy led a seemingly ordinary life. However, unbeknownst to others, he possessed extraordinary powers. He used his abilities to help those in need, earning the admiration of the townsfolk. But there was one person who despised him – Rick, the town's bully, who wanted to bring Sammy down and expose his secrets.
+13. Output:
+Protagonist: Sammy; Antagonist: Rick.
+###
+14. Instruction: Choose the most suitable title for the given topic.
+14. Input:
+How to become more productive and manage time effectively.
+14. Output:
+"Mastering Time Management: Unlocking Your Productivity Potential".
+###
+15. Instruction: Name five popular dog breeds.
+15. Input:
+<noinput>
+15. Output:
+Labrador Retriever, Golden Retriever, German Shepherd, Beagle, Bulldog.
+###
+16. Instruction: Briefly explain the significance of Thomas Edison's inventions.
+16. Input:
+<noinput>
+16. Output:
+Thomas Edison's inventions, such as the incandescent light bulb, phonograph, and motion picture camera, revolutionized daily life, communication, and entertainment, contributing greatly to the modern world we live in today.
+###
+17. Instruction: State the main purpose of photosynthesis in plants.
+17. Input:
+<noinput>
+17. Output:
+The main purpose of photosynthesis in plants is to convert sunlight, carbon dioxide, and water into glucose and oxygen, providing the plant with energy for growth and development.
+###
+18. Instruction: Classify the following sports as individual or team sports.
+18. Input:
+Tennis, Soccer, Golf, Basketball, Swimming
+18. Output:
+Individual sports: Tennis, Golf, Swimming; Team sports: Soccer, Basketball.
+###
+19. Instruction: Use the following idea to create an original quote.
+19. Input:
+Focusing on the present moment while planning for the future.
+19. Output:
+"Let the present be your compass, while the future becomes your destination."
+###
+20. Instruction: Explain the difference between a simile and a metaphor.
+20. Input:
+<noinput>
+20. Output:
+A simile is a figure of speech that compares two unlike things using words "like" or "as" to create an explicit comparison, e.g., "She is as brave as a lion." A metaphor is a figure of speech that compares two unlike things by implying that one is the other, without using "like" or "as," e.g., "He is a rock in times of trouble."

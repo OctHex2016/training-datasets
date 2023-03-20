@@ -1,0 +1,117 @@
+4. Instruction: Without adding personal opinion, rewrite the following passage in a more formal and academic style.
+4. Input: 
+Folks usually say practice makes perfect, and to be honest, they ain't wrong. When you repeatedly do a task, you get better at it, no doubt. That's how basketball players improve their shots, and pianists play faster tunes.
+4. Output: 
+It is often stated that practice leads to perfection, and indeed, this assertion holds merit. As an individual engages in a task repeatedly, their proficiency in performing the task increases. This concept is exemplified in how basketball players enhance their shooting ability and pianists augment the tempo of their music.
+
+5. Instruction: Identify the incorrect word or phrase, then correct the error in the given sentence.
+5. Input: 
+The rabbits is hiding in the grass.
+5. Output: 
+The rabbits are hiding in the grass.
+
+6. Instruction: Compare and contrast the given topics. 
+6. Input: 
+Fruit and Vegetables
+6. Output: 
+Fruits and vegetables are both plant-based foods that are essential for a healthy diet, offering a wide range of nutrients. Fruits are usually sweet or tangy, and are the reproductive structures of a plant, primarily housing seeds. Vegetables, on the other hand, have a more diverse range of tastes and textures, and can include any edible part of a plant, such as leaves, stems, and roots. While fruits tend to be consumed raw or in desserts, vegetables are often included in savoury dishes but may sometimes be eaten raw.
+
+7. Instruction: Elaborate on the importance of the given subject in daily life.
+7. Input: 
+Effective communication
+7. Output: 
+Effective communication is essential in daily life, as it plays a crucial role in building relationships, conveying thoughts and ideas, and resolving conflicts. It allows individuals to express their needs, desires, and emotions in a clear and concise manner, facilitating understanding and reducing potential misunderstandings. Effective communication also aids in decision-making and problem-solving, contributing to successful cooperation, teamwork, and personal and professional growth.
+
+8. Instruction: If possible, provide at least two possible ways to resolve the given conflict.
+8. Input: 
+Neighbors arguing about loud music playing late at night
+8. Output: 
+1) Dialogue and mutual understanding: Both neighbors can have a conversation to discuss the issue and find a time frame when loud music can be played without disturbing the other party. Alternatively, they can agree on a volume level for late-night music that is not disruptive.
+2) Soundproofing solutions: The neighbor playing loud music can consider investing in soundproofing measures, such as installing acoustic panels or using noise-cancelling headphones, to minimize noise disturbances.
+
+9. Instruction: Summarize the plot of the given book or movie. 
+9. Input: 
+The Great Gatsby
+9. Output: 
+The Great Gatsby takes place in the Roaring Twenties and follows the story of Jay Gatsby, a mysterious and wealthy man who hosts extravagant parties in hopes of winning back his lost love, Daisy Buchanan. The story is narrated by Gatsby's neighbor, Nick Carraway, who observes the superficiality and moral decay of the wealthy society. Gatsby's obsession with obtaining the unattainable ultimately leads to Gatsby's tragic downfall and untimely death.
+
+10. Instruction: Recommend three things to do in the given location.
+10. Input: 
+Paris, France
+10. Output: 
+1) Visit the Eiffel Tower, a renowned Parisian landmark and an iconic symbol of France.
+2) Explore the Louvre Museum, which houses the famous Mona Lisa and an extensive collection of art and historical artifacts.
+3) Stroll through Montmartre, a picturesque hilltop neighborhood with cobblestone streets, quaint cafes, and the stunning Basilica of the Sacré-Cœur.
+11. Instruction: Explain the concept of the given term in simple words.
+11. Input: 
+Inflation
+11. Output: 
+Inflation is when the prices of goods and services increase over time, causing the value of money to decrease. This means you need more money to buy the same items as before because everything becomes more expensive.
+
+12. Instruction: Using the given facts, state a fair conclusion.
+12. Input: 
+Jack eats an apple every morning. Jack always brings a lunchbox to work.
+12. Output: 
+Jack has a consistent daily routine that includes eating an apple every morning and bringing a lunchbox to work.
+
+13. Instruction: List four pros and cons of the given topic.
+13. Input: 
+Working from home
+13. Output: 
+Pros:
+1) Reduced commuting time and expenses.
+2) Greater flexibility in managing work-life balance.
+3) Ability to create a personalized work environment.
+4) Lower overheads for employers.
+
+Cons:
+1) Potential isolation and lack of social interaction.
+2) Difficulty separating work from personal life.
+3) Limited face-to-face communication with colleagues.
+4) Potential distractions from household activities and family members.
+
+14. Instruction: Comment on the effectiveness of the given strategy or plan.
+14. Input: 
+Studying for exams by only attending classes and not reviewing the material.
+14. Output: 
+This strategy is not very effective for preparing for exams. While attending classes is important, reviewing the material is essential for deepening understanding and retaining the learned information. A more effective plan would involve periodic review, practicing problems, and self-testing to better prepare for exams.
+
+15. Instruction: Give three examples of the given category.
+15. Input: 
+Electronic devices
+15. Output: 
+1) Smartphone
+2) Laptop
+3) Microwave
+
+16. Instruction: Identify the primary purpose of the given text.
+16. Input: 
+Commercial advertisement for a weight loss program
+16. Output: 
+The primary purpose of the text is to persuade the audience to enroll in the weight loss program.
+
+17. Instruction: What is likely to happen if the given action is taken?
+17. Input: 
+Removing all the trees in a forest
+17. Output: 
+If all the trees are removed from a forest, there will likely be extensive ecological consequences, such as loss of habitat for numerous species, increased risk of soil erosion, disrupted balance of atmospheric gases, and impact on climate due to reduced carbon capture.
+
+18. Instruction: Correctly use the given word in a sentence.
+18. Input: 
+Pernicious
+18. Output: 
+The pernicious effects of air pollution on human health have led to growing concerns and calls for stricter environmental regulations.
+
+19. Instruction: Create a haiku about the given topic.
+19. Input: 
+Autumn leaves
+19. Output: 
+Crimson leaves falling,
+Whispers of the autumn breeze,
+Nature's dance unfolds.
+
+20. Instruction: Predict the potential outcome of the given situation.
+20. Input: 
+A person starts their own business without a proper plan or research.
+20. Output:
+Inadequate planning and lack of research increase the risk of failure for the new business. The person may face challenges in attracting customers, managing finances, and sustaining the business in a competitive market. It's crucial to develop a well-researched plan before starting a business to improve the chances of success.

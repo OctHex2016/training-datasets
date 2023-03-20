@@ -1,0 +1,109 @@
+4. Instruction: Paraphrase the following sentence using the provided vocabulary words.
+4. Input: 
+The movie has been postponed. (delayed, film)
+4. Output: 
+The film has been delayed.
+###
+5. Instruction: Identify any logical fallacies present in this argument.
+5. Input: 
+Everyone is buying this smartphone, so it must be the best one available.
+5. Output: 
+This argument contains the "Bandwagon fallacy" or the "Appeal to popularity fallacy."
+###
+6. Instruction: Correct any grammatical errors you find in the given text.
+6. Input: 
+Their going to their friends house in there car.
+6. Output: 
+They're going to their friend's house in their car.
+###
+7. Instruction: Prioritize the following tasks in importance from most to least.
+7. Input: 
+clean the house, complete the project, pick up the kids from school, buy groceries
+7. Output: 
+1. Pick up the kids from school
+2. Complete the project
+3. Buy groceries
+4. Clean the house
+###
+8. Instruction: Arrange the provided words in alphabetical order.
+8. Input: 
+orange, grapefruit, apple, banana, strawberry
+8. Output: 
+apple, banana, grapefruit, orange, strawberry
+###
+9. Instruction: Provide a plausible historical explanation for the given proverb.
+9. Input: 
+"Don't count your chickens before they hatch."
+9. Output: 
+This proverb likely originated from the practice of chicken farming. It serves as a reminder not to assume success before it is guaranteed, as it is difficult to determine which eggs will successfully hatch and produce live chicks.
+###
+10. Instruction: Calculate the area of a rectangle with the given dimensions.
+10. Input: 
+length: 5m, width: 3m
+10. Output: 
+The area of the rectangle is 15 square meters.
+###
+11. Instruction: Give a piece of unusual trivia about a famous United States landmark.
+11. Input:
+<noinput>
+11. Output: 
+There is a hidden room inside Mount Rushmore that was intended to hold America's most important documents, but the project was never finished.
+###
+12. Instruction: Provide the punchline to the given joke.
+12. Input: 
+Why don't scientists trust atoms?
+12. Output: 
+Because they make up everything.
+###
+13. Instruction: Analyze the given data and suggest one reasonable conclusion.
+13. Input: 
+A survey of 500 people found that 80% of respondents prefer working from home.
+13. Output: 
+Based on the survey results, it can be concluded that a large majority of people find remote work preferable to working in an office.
+###
+14. Instruction: Create a haiku about nature.
+14. Input: 
+<noinput>
+14. Output: 
+Whispering wind sighs,
+Forest green and sunlit gold,
+Nature breathes its song.
+###
+15. Instruction: Provide instructions on how to tie a square knot.
+15. Input: 
+<noinput>
+15. Output: 
+1. Cross the left end (A) over the right end (B) of the rope.
+2. Tuck A under B, creating a half knot.
+3. Cross A over B again, this time mirroring the first step.
+4. Tuck A under B, pulling both ends tight to finish the square knot.
+###
+16. Instruction: Classify the following sentence as either declarative, interrogative, imperative, or exclamatory.
+16. Input: 
+Stop that right now!
+16. Output: 
+The sentence is imperative.
+###
+17. Instruction: Given a quote from a famous person, identify who said it.
+17. Input: 
+"In the End, we will remember not the words of our enemies, but the silence of our friends."
+17. Output: 
+This quote is attributed to Martin Luther King Jr.
+###
+18. Instruction: Estimate the outdoor temperature based on these environmental observations.
+18. Input: 
+People are wearing coats and scarves, there is frost on the ground, and breath is visible in the air.
+18. Output: 
+The outdoor temperature is likely around or below the freezing point, approximately 32°F (0°C).
+###
+19. Instruction: Provide a healthy recipe substitution for a given ingredient.
+19. Input: 
+Butter in cookies
+19. Output: 
+A healthy substitution for butter in cookies is using applesauce. Replace half the amount of butter with an equal quantity of applesauce.
+###
+20. Instruction: Describe the role of a given element in a story.
+20. Input: 
+The setting in "To Kill a Mockingbird."
+20. Output: 
+The setting in "To Kill a Mockingbird" provides a backdrop of racial tension and societal norms in the American South during the 1930s, which influences the characters' perspectives and decisions, helping drive the plot and themes of the story.

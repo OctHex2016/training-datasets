@@ -1,0 +1,42 @@
+4. Instruction: Identify the main theme in the given paragraph.
+4. Input: 
+Environmental conservation has become a critical issue in today's world. We are constantly facing the loss of biodiversity, deforestation, and pollution. As a result, numerous governments and organizations have initiated efforts to raise awareness and develop solutions to address these problems. Green technologies, sustainable urban planning, and renewable energy solutions are some examples of such measures.
+4. Output: 
+Environmental conservation
+
+5. Instruction: Summarize the following news article in a tweet.
+5. Input: 
+A new study published in Nature Geoscience has found that the polar ice cap on Mars, which is believed to be made entirely of water ice, is in fact also composed of a substantial amount of carbon dioxide ice. The discovery comes as a potential game-changer for future missions to Mars, as scientists and engineers now need to take into account the frozen carbon dioxide's potential to create hazardous conditions on the planet's surface. The study's authors also note that the discovery could alter our understanding of Mars' climate history and impact future strategies for terraforming the planet.
+5. Output: 
+New study reveals Mars' polar ice cap contains significant amount of CO2 ice - this discovery may alter future mission plans, Mars climate history understanding, and terraforming strategies. #Mars #IceCaps #SpaceExploration
+
+6. Instruction: Create a trivia question about a historical event and provide the correct answer.
+6. Input: 
+<noinput>
+6. Output: 
+Question: In what year did the Battle of Hastings take place in England, leading to the beginning of the Norman Conquest?
+Answer: 1066
+
+7. Instruction: Compare and contrast the educational philosophies of Montessori and traditional schools.
+7. Input: 
+<noinput>
+7. Output: 
+Montessori schools promote independent learning, hands-on activities, and student autonomy. Traditional schools often follow a structured curriculum, teacher-led instruction, and a more hierarchical learning environment. However, both systems aim to provide students with knowledge, skills, and character development.
+
+8. Instruction: Explain the difference between a renewable and a non-renewable energy source.
+8. Input: 
+<noinput>
+8. Output: 
+A renewable energy source comes from natural processes that can be replenished, like solar, wind, or hydro power. Non-renewable energy sources are finite and cannot be replaced once depleted, like coal, oil, and natural gas.
+
+9. Instruction: Rank the following cities by population, from largest to smallest: London, Tokyo, New York, Shanghai.
+9. Input: 
+<noinput>
+9. Output: 
+Tokyo, Shanghai, New York, London
+
+10. Instruction: Write a condolence message to someone who lost their sibling in an accident.
+10. Input: 
+<noinput>
+10. Output: 
+I am deeply saddened by the loss of your dear sibling. Please know that we are here for you, and you are in our thoughts and prayers. Wishing you strength and comfort during this difficult time.

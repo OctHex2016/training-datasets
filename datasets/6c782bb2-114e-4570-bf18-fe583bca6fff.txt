@@ -1,0 +1,103 @@
+4. Instruction: Summarize the key findings of the research article given its title.
+4. Input: 
+Title: The effects of mindfulness-based interventions on depression and anxiety in adults: A systematic review and meta-analysis.
+4. Output: 
+The review found that mindfulness-based interventions have a significant effect on reducing symptoms of depression and anxiety in adults. The effect size was found to be moderate, suggesting that such interventions may be a viable treatment option for individuals struggling with these disorders. Additionally, the review identified several factors that may influence the effectiveness of these interventions, such as frequency and duration of practice, type of intervention, and participant characteristics. Overall, the findings suggest that mindfulness-based interventions hold promise as an effective treatment approach for depression and anxiety in adults.
+###
+5. Instruction: Correct the sentence grammatically.
+5. Input: 
+He writted a letter to his grandmother last week.
+5. Output: 
+He wrote a letter to his grandmother last week.
+### 
+6. Instruction: Identify the subject, verb, and object of the given sentence.
+6. Input: 
+The cat chased the mouse around the room.
+6. Output: 
+Subject: The cat, Verb: chased, Object: the mouse
+###
+7. Instruction: Provide a synonym for the following word.
+7. Input: 
+Euphoria
+7. Output: 
+Bliss
+###
+8. Instruction: Give me a one-sentence summary of a news article.
+8. Input: 
+Joe Biden and Vladimir Putin Meet in Geneva to Discuss Differences.
+8. Output: 
+The two world leaders discussed a range of issues, including cyberattacks and human rights, during a summit in Switzerland.
+###
+9. Instruction: Write a haiku about the following topic.
+9. Input: 
+Cherry blossoms in spring.
+9. Output: 
+Pink petals falling,
+Dancing in the gentle breeze,
+Springtime's sweet embrace.
+###
+10. Instruction: Rewrite the sentence in the passive voice.
+10. Input: 
+The teacher gave the students a test.
+10. Output: 
+A test was given to the students by the teacher.
+###
+11. Instruction: Translate the following text from French to English.
+11. Input: 
+Je voudrais une baguette, s'il vous plaît.
+11. Output: 
+I would like a baguette, please.
+###
+12. Instruction: Identify the main idea of the following paragraph.
+12. Input: 
+The causes of climate change are complex, but scientists agree that human activity is a major driver. The burning of fossil fuels to power transportation, industry, and homes releases large amounts of greenhouse gases into the atmosphere, trapping heat and causing the planet's temperature to rise. Deforestation and other land-use changes also contribute to climate change by reducing the amount of carbon stored in plants and soil. Additionally, changes in agricultural practices, such as the use of synthetic fertilizers, can release nitrous oxide, a potent greenhouse gas, into the atmosphere.
+12. Output: 
+Human activity, such as the burning of fossil fuels, deforestation, and changes in agricultural practices, is a major contributor to climate change.
+###
+13. Instruction: Provide a synonym for the following word.
+13. Input: 
+Inevitable
+13. Output: 
+Unavoidable
+###
+14. Instruction: Edit the sentence to be more formal.
+14. Input: 
+I wanna go to the party tonight.
+14. Output: 
+I would like to attend the party this evening.
+###
+15. Instruction: Write a brief summary of the plot of a movie.
+15. Input: 
+Jaws
+15. Output: 
+A great white shark terrorizes a New England beach town, leading a police chief, a marine scientist, and a fisherman to team up to hunt it down.
+###
+16. Instruction: Rewrite the sentence to use an active voice.
+16. Input: 
+The book was read by me in one night.
+16. Output: 
+I read the book in one night.
+###
+17. Instruction: Answer the following question.
+17. Input: 
+What is the capital of Spain?
+17. Output: 
+Madrid.
+###
+18. Instruction: Write a descriptive sentence about the given image.
+18. Input: 
+<noinput>
+18. Output: 
+A golden sunset over a tranquil ocean, with seagulls flying in the distance.
+###
+19. Instruction: Edit the sentence to correct the punctuation.
+19. Input: 
+Her favorite foods are pizza tacos and sushi.
+19. Output: 
+Her favorite foods are pizza, tacos, and sushi.
+###
+20. Instruction: Provide two antonyms for the following word.
+20. Input: 
+Brave
+20. Output: 
+Cowardly, timid.

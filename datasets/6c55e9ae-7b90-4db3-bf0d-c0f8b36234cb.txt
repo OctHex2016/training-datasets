@@ -1,0 +1,121 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input:
+The dog chased the cat.
+4. Output:
+The cat was chased by the dog.
+###
+5. Instruction: Suggest two potential improvements for the given website.
+5. Input:
+www.example.com
+5. Output:
+1. Better categorization and organization of content to improve navigation.
+2. Mobile-friendly design to enhance user experience on all devices.
+###
+6. Instruction: Explain the main ideas of the article in one paragraph.
+6. Input:
+The recent study on the effects of climate change on biodiversity has revealed alarming results. According to the research, around 30% of species could be pushed to the brink of extinction if global temperatures continue to rise. This rapid loss of biodiversity is expected to have significant implications for ecosystems around the world. Moreover, the socioeconomic consequences are apparent, as local communities that depend on these ecosystems for their livelihoods will be adversely affected. The study also suggests that it is not too late to act, and adopting sustainable practices and reducing greenhouse gas emissions can mitigate the potentially disastrous consequences.
+6. Output:
+The article highlights the findings of a recent study that discovered the detrimental effects of climate change on biodiversity, with nearly 30% of species facing possible extinction due to rising global temperatures. This rapid loss of biodiversity not only impacts ecosystems, but also negatively affects the socioeconomic aspects of local communities that rely on them. However, the study emphasizes that it is still possible to prevent these consequences by adopting sustainable practices and reducing greenhouse gas emissions.
+###
+7. Instruction: Rewrite the given sentence replacing the negative connotations with positive ones.
+7. Input:
+I'm not feeling well today, and I'm struggling to concentrate.
+7. Output:
+I'm feeling a bit under the weather today, but I'm doing my best to focus.
+###
+8. Instruction: Suggest a fictional name for a galaxy.
+8. Input:
+<noinput>
+8. Output:
+Aetherius Nebulon
+###
+9. Instruction: Create a rhyming couplet using the given word "nigh".
+9. Input:
+<noinput>
+9. Output:
+As the sun sets and darkness draws nigh,
+We dream under the hallowed, moonlit sky.
+###
+10. Instruction: Reorder the words in the sentence to form a question.
+10. Input:
+the library going are you to
+10. Output:
+Are you going to the library?
+###11. Instruction: Find the misplaced modifier and correct the given sentence.
+11. Input:
+While walking through the park, a snake nearly bit John.
+11. Output:
+While walking through the park, John nearly got bitten by a snake.
+###
+12. Instruction: Identify the type of exercise based on the provided description.
+12. Input:
+This workout primarily focuses on strengthening and conditioning muscles by lifting weights, using machines or dumbbells, and performing compound exercises.
+12. Output:
+Strength training
+###
+13. Instruction: Transform the given ingredients into a recipe.
+13. Input:
+- Chicken breasts
+- Soy sauce
+- Honey
+- Garlic
+- Ginger
+- Cornstarch
+- Broccoli
+- Rice
+13. Output:
+Honey Garlic Chicken and Broccoli Stir Fry:
+
+1. In a small bowl, mix together soy sauce, honey, minced garlic, and grated ginger. Set aside.
+2. Slice the chicken breasts into bite-sized pieces.
+3. Heat a large skillet over medium-high heat and add some oil.
+4. Add the chicken to the skillet and cook until browned and cooked through.
+5. While the chicken is cooking, cut the broccoli into small florets.
+6. In another small bowl, mix some cornstarch with cold water and stir until smooth.
+7. Add the broccoli and sauce mixture to the skillet with the chicken.
+8. Stir in the cornstarch mixture, and cook until the sauce thickens and the broccoli is tender.
+9. Serve over cooked rice.
+###
+14. Instruction: Suggest a title for a mystery novel.
+14. Input:
+<noinput>
+14. Output:
+Echoes of Forgotten Whispers
+###
+15. Instruction: Translate the following English sentence into French.
+15. Input:
+The weather is sunny today.
+15. Output:
+Il fait beau aujourd'hui.
+###
+16. Instruction: Provide a concise summary of the given movie plot.
+16. Input:
+After being held captive in an underground bunker for years, a young woman escapes and sets out on a perilous journey to reunite with her family while being pursued by her abductor and the dangerous creatures that roam the ravaged landscape.
+16. Output:
+A survivor of long-term captivity escapes and embarks on a dangerous quest to reunite with her family while being chased by her captor and facing monstrous threats in a devastated world.
+###
+17. Instruction: Provide three possible solutions to the problem.
+17. Input:
+High noise levels in a city apartment.
+17. Output:
+1. Install noise-reducing materials like acoustic panels or soundproof curtains.
+2. Use white noise machines or devices to create a constant and calming background sound.
+3. Bring up the issue with the landlord, and explore possible structural modifications or moving to a quieter unit. 
+###
+18. Instruction: Explain the purpose and function of the given object.
+18. Input:
+Glasses
+18. Output:
+Glasses are a type of eyewear designed to correct vision problems, such as nearsightedness, farsightedness, or astigmatism. They consist of framed lenses that are worn in front of the eyes to improve visual clarity and focus.
+###
+19. Instruction: Give synonyms for the given word.
+19. Input:
+happy
+19. Output:
+Joyful, content, delighted, cheerful, ecstatic
+###
+20. Instruction: Provide a brief biography of the given historical figure.
+20. Input:
+Albert Einstein
+20. Output:
+Albert Einstein (1879-1955) was a renowned theoretical physicist who developed the groundbreaking theories of relativity. Born in Germany, he later became a Swiss and US citizen. Einstein's work laid the foundation for much of modern physics, including the photoelectric effect and mass-energy equivalence, leading to his famous formula, E=mc². Awarded the Nobel Prize in Physics in 1921, he remains one of the most influential figures in the world of science.

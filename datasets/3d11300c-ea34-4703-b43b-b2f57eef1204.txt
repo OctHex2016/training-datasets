@@ -1,0 +1,113 @@
+4. Instruction: Compose a tweet to promote an event for a charity organization.
+4. Input: 
+Event name: Hike for Hope
+Location: Sunshine National Park
+Date: August 14th
+Charity: Children's Hospital Support
+4. Output: 
+🌄Join us on August 14th at Sunshine National Park for #HikeForHope! Enjoy the great outdoors while supporting the Children's Hospital Support charity! Mark your calendar and let's make a difference together! 🏥💕 #CharityEvent #ChildrensHospitalSupport
+
+5. Instruction: Provide the instructions to make iced coffee at home.
+5. Input: <noinput>
+5. Output: 
+1. Brew a strong cup of coffee using your preferred method.
+2. Allow the coffee to cool down to room temperature.
+3. Fill a tall glass with ice cubes.
+4. Pour the cooled coffee over the ice cubes.
+5. Add milk, cream, or sweeteners to taste, and mix until combined.
+6. Serve immediately and enjoy your homemade iced coffee!
+
+6. Instruction: Advise on negotiating for a higher starting salary in a new job.
+6. Input: <noinput>
+6. Output: 
+1. Do market research on comparable positions and salary ranges.
+2. Highlight accomplishments and additional skills that justify a higher salary.
+3. Wait for the employer to provide the initial offer before negotiating.
+4. Clearly express your salary expectations and reasoning.
+5. Use past salary as leverage, if applicable.
+6. Show enthusiasm for the position, but emphasize your value.
+7. Be open to negotiating other benefits, like vacation days or flexible hours.
+
+7. Instruction: Classify the given sentence as positive, negative, or neutral sentiment.
+7. Input: 
+That movie was a delightful surprise!
+7. Output: 
+Positive
+
+8. Instruction: List the main functions of white blood cells in the human immune system.
+8. Input: <noinput>
+8. Output: 
+1. Protect the body against infections by identifying and eliminating pathogens.
+2. Aid in the inflammatory process to promote healing.
+3. Engulf and destroy foreign substances and debris.
+4. Produce and secrete antibodies to neutralize specific pathogens.
+5. Regulate and coordinate immune system responses.
+
+9. Instruction: Correct the grammatical errors in the given sentence.
+9. Input: 
+Their going to there friends house too play with there toys.
+9. Output: 
+They're going to their friend's house to play with their toys.
+
+10. Instruction: Describe how an electric generator works.
+10. Input: <noinput>
+10. Output: 
+An electric generator works by converting mechanical energy into electrical energy. It uses the principle of electromagnetic induction, where a magnetic field interacts with a conductor, such as a coil of wire, to create an electric current. When the coil rotates in the magnetic field or a magnetic field moves around a stationary coil, a current is induced in the wire. This generated electricity can then be used to power various devices and appliances.
+
+11. Instruction: Explain the greenhouse effect.
+11. Input: <noinput>
+11. Output: 
+The greenhouse effect is a natural process by which certain gases in Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the sun. These gases allow sunlight to pass through to the Earth's surface but absorb and re-radiate the infrared heat or longwave radiation emitted by the Earth. By trapping heat in the atmosphere, the greenhouse effect helps keep the Earth's temperature stable and suitable for life. However, human activities, such as burning fossil fuels, have increased greenhouse gas concentrations, leading to enhanced greenhouse effects and global warming.
+
+12. Instruction: Write a presidential election campaign slogan.
+12. Input: <noinput>
+12. Output: 
+"Building a Better Tomorrow for All."
+
+13. Instruction: Translate the following sentence into German.
+13. Input: 
+I am very proud of what we have achieved.
+13. Output: 
+Ich bin sehr stolz auf das, was wir erreicht haben.
+
+14. Instruction: Write a haiku about nature.
+14. Input: <noinput>
+14. Output: 
+Leaves flutter softly,
+Dancing on autumn's sweet breeze,
+Nature's peaceful hymn.
+
+15. Instruction: Identify whether the given fact is true or false.
+15. Input: 
+Polar bears have clear fur, not white.
+15. Output: 
+True
+
+16. Instruction: Estimate the number of hours required to drive from Los Angeles to San Francisco and recommend an ideal driving departure time based on optimal traffic conditions.
+16. Input: 
+Los Angeles to San Francisco: approximately 380 miles.
+Average highway speed: 65 mph
+16. Output: 
+The estimated drive time is around 380 miles / 65 mph = 5.85 hours, approximately 6 hours. To avoid peak traffic, an ideal driving departure time would be early morning around 5 a.m. or mid-afternoon around 2 p.m.
+
+17. Instruction: Write a lyric that can serve as the opening line of a love song.
+17. Input: <noinput>
+17. Output: 
+"Underneath a sky of stars, I found the missing piece, your heart."
+
+18. Instruction: Suggest a possible title for a research paper on renewable energy adoption in developed countries.
+18. Input: <noinput>
+18. Output: 
+"Green Transitions: Analyzing Renewable Energy Adoption in Developed Countries"
+
+19. Instruction: Identify the logical fallacy in the following argument.
+19. Input: 
+He must be a good basketball player because he's really tall.
+19. Output: 
+Hasty Generalization
+
+20. Instruction: Rewrite the given sentence in a passive voice.
+20. Input: 
+The dog bit the mail carrier.
+20. Output: 
+The mail carrier was bitten by the dog.

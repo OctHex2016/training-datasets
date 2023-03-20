@@ -1,0 +1,118 @@
+4. Instruction: Translate the following English sentence into French.
+4. Input:
+Can I get a hot chocolate, please?
+4. Output:
+Puis-je avoir un chocolat chaud, s'il vous plaît?
+
+5. Instruction: Rewrite the following paragraph in a formal tone.
+5. Input:
+Hey, I thought I'd let you know that I'm gonna be late. I got caught in traffic and there's no way I'll make it on time. See you soon!
+5. Output:
+I would like to inform you that I will be arriving late due to an unforeseen traffic situation. I apologize for the inconvenience and anticipate my arrival as soon as possible.
+
+6. Instruction: Find the mistake in the sentence below and correct it.
+6. Input:
+Their going to the beach with there friends.
+6. Output:
+They're going to the beach with their friends.
+
+7. Instruction: Summarize the following paragraph in one sentence.
+7. Input:
+Dog therapy is a popular tool used in hospitals, schools, and nursing homes to provide comfort and stress relief to those in need. The therapeutic benefits of spending time with a gentle, trained dog can lead to lower blood pressure, reduced anxiety, and improved mood for those interacting with the animal.
+7. Output:
+Dog therapy, utilized in various settings, provides comfort and stress relief by offering therapeutic benefits such as lower blood pressure, reduced anxiety, and improved mood.
+
+8. Instruction: Identify the type of logical fallacy in the given sentence.
+8. Input:
+Everyone is buying coconut water these days, so it must be good for you.
+8. Output:
+Bandwagon fallacy
+
+9. Instruction: Write a haiku about autumn.
+9. Input:
+<noinput>
+9. Output:
+Crisp leaves underfoot,
+Golden hues dance in cool breeze,
+Autumn whispers peace.
+
+10. Instruction: Write a brief definition of "photosynthesis".
+10. Input:
+<noinput>
+10. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, which they use as energy sources.
+
+11. Instruction: Provide a suitable synonym for the word "exasperate".
+11. Input:
+<noinput>
+11. Output:
+Aggravate
+
+12. Instruction: Rank the following cities by population size from the largest to the smallest: Tokyo, New York City, London, and Mumbai.
+12. Input:
+<noinput>
+12. Output:
+Tokyo, Mumbai, New York City, London
+
+13. Instruction: Write a response to an email about a delayed shipment.
+13. Input:
+Subject: Shipment delay - Order #12345
+Hello,
+I placed an order last week and the shipment was supposed to arrive today, but I haven't received any updates. Can you let me know when to expect my delivery? Thanks.
+
+Best regards,
+Jane Smith
+13. Output:
+Subject: Re: Shipment delay - Order #12345
+
+Dear Jane Smith,
+
+We apologize for the delay in your shipment. We understand how important it is for you to receive your order in a timely manner. Due to unforeseen circumstances, there has been a slight delay in our shipping process. We are working diligently to get your order to you as soon as possible. You can expect your shipment to arrive within the next 2-3 business days. We appreciate your patience and understanding. If you have any further questions, please do not hesitate to reach out.
+
+Best regards,
+[Your Name]
+[Company Name]
+
+14. Instruction: Rearrange the following words to form a coherent sentence.
+14. Input:
+quick brown The over jumped fox dog lazy the.
+14. Output:
+The quick brown fox jumped over the lazy dog.
+
+15. Instruction: Write the chemical equation for the combustion of methane.
+15. Input:
+<noinput>
+15. Output:
+CH4 + 2O2 → CO2 + 2H2O
+
+16. Instruction: Write a brief description of Antarctica.
+16. Input:
+<noinput>
+16. Output:
+Antarctica is Earth's southernmost continent, consisting largely of a massive ice sheet and the world's coldest and driest climate. It is home to unique flora and fauna, as well as scientific research stations from various countries, with a keen focus on climate and environmental research.
+
+17. Instruction: Determine which type of word is missing from this sentence: "She slowly read the _____."
+17. Input:
+<noinput>
+17. Output:
+Noun
+
+18. Instruction: Identify and name the literary device used in the following line: "The sun smiled down on the green meadow."
+18. Input:
+<noinput>
+18. Output:
+Personification
+
+19. Instruction: Write three healthy lifestyle habits.
+19. Input:
+<noinput>
+19. Output:
+1. Regular physical exercise
+2. Eating a balanced and nutritious diet
+3. Getting sufficient sleep
+
+20. Instruction: Explain the main difference between weather and climate.
+20. Input:
+<noinput>
+20. Output:
+Weather refers to the short-term atmospheric conditions in a specific location, while climate refers to the long-term patterns of temperature, precipitation, and other conditions in a region.

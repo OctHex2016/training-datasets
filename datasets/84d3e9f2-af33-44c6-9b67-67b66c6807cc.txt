@@ -1,0 +1,117 @@
+4. Instruction: Break the text into a list of its component sentences.
+4. Input: 
+Georgetown University is one of the world's leading academic and research institutions, offering a unique educational experience that prepares the next generation of global citizens to lead and make a difference in the world. Located in Washington, D.C., we offer a variety of undergraduate and graduate programs on-campus and online.
+4. Output: 
+1. Georgetown University is one of the world's leading academic and research institutions.
+2. It offers a unique educational experience that prepares the next generation of global citizens to lead and make a difference in the world.
+3. Located in Washington, D.C., we offer a variety of undergraduate and graduate programs on-campus and online.
+###
+5. Instruction: Create an acrostic poem using the word "forest". 
+5. Input: 
+<noinput>
+5. Output: 
+Fascinating creatures roaming the land,
+Overhead, the leaves rustle and sway.
+Refreshing breezes through the trees,
+Emerald moss carpets the floor,
+Silv'ry whispers echo in the air,
+Time stands still within this enclave.
+###
+6. Instruction: Determine the type of logical fallacy in the given statement.
+6. Input: 
+If we let kids take cell phones to school, they will end up using them during class.
+6. Output: 
+Slippery slope
+###
+7. Instruction: Convert the CSV format into a list of dictionaries.
+7. Input: 
+Name, Age, Occupation
+John, 32, Accountant
+Maria, 25, Architect
+8. Output: 
+[{"Name": "John", "Age": "32", "Occupation": "Accountant"},
+ {"Name": "Maria", "Age": "25", "Occupation": "Architect"}]
+ ###
+8. Instruction: Reorder the words in this sentence by alphabetical order.
+8. Input: 
+The cold river flows swiftly through the valley.
+8. Output: 
+cold flows river swiftly the through valley.
+###
+9. Instruction: Identify the literary devices used in this sentence.
+9. Input: 
+The sun kissed the horizon in a brilliant embrace, as the world slowly said goodbye to the day.
+9. Output: 
+Personification, metaphor, imagery.
+###
+10. Instruction: Calculate the tip amount for a restaurant bill.
+10. Input: 
+Total Bill: $85.50
+Tip Percentage: 20%
+10. Output: 
+$17.10
+###
+11. Instruction: Translate the following sentence into French.
+11. Input: 
+This restaurant has delicious seafood.
+11. Output: 
+Ce restaurant a des fruits de mer délicieux.
+###
+12. Instruction: Write a one-sentence recommendation based on the given description.
+12. Input:
+Title: The Lion, The Witch, and The Wardrobe
+Author: C.S. Lewis
+Plot: Four siblings discover a magical world inside a wardrobe, where they encounter mystical creatures and learn to rely on courage and love to defeat evil.
+12. Output:
+"The Lion, The Witch, and The Wardrobe" by C.S. Lewis is a captivating adventure filled with magical creatures and powerful lessons about courage and love, perfect for readers of any age.
+###
+13. Instruction: Identify the adjectives in the given sentence.
+13. Input: 
+The old, massive oak tree stood majestically at the edge of the forest.
+13. Output: 
+old, massive
+###
+14. Instruction: Convert the given list of synonyms into a sentence using at least three of them.
+14. Input: 
+Happy, Joyful, Pleased, Content, Cheerful, Jovial
+14. Output: 
+Emma felt joyful, content, and cheerful after receiving positive news from her friends.
+###
+15. Instruction: Provide one advantage and one disadvantage of nuclear energy.
+15. Input: 
+<noinput>
+15. Output: 
+Advantage: Nuclear energy produces a significant amount of electricity with low greenhouse gas emissions.
+Disadvantage: Nuclear waste generated from nuclear power plants poses a challenge for safe disposal and management.
+###
+16. Instruction: Explain the meaning of the idiom "barking up the wrong tree."
+16. Input: 
+<noinput>
+16. Output: 
+The idiom "barking up the wrong tree" means pursuing a mistaken or misguided course of action, or targeting the wrong person, object, or problem.
+###
+17. Instruction: Write a haiku featuring the theme of "tranquility."
+17. Input: 
+<noinput>
+17. Output: 
+Soft whispers of breeze,
+Calm ripples on quiet lake,
+Nature's embrace, peace.
+###
+18. Instruction: Which character delivers the famous soliloquy "To be, or not to be" and in which play?
+18. Input: 
+<noinput>
+18. Output:
+Hamlet delivers the "To be, or not to be" soliloquy in William Shakespeare's play "Hamlet."
+###
+19. Instruction: Summarize the given text in one sentence.
+19. Input: 
+In 1789, the French Revolution began with the radicalization of the country’s political culture, the collapse of the monarchy, and the rise of radical political factions. The revolution led to significant social change in France, most notably the end of feudalism, broadened rights, and resentment of inequalities and privileges. The execution of King Louis XVI, the Reign of Terror, and the rise of Napoleon Bonaparte marked key moments in the revolution.
+19. Output: 
+The French Revolution (1789) was a transformative period marked by political upheaval, social change, and the emergence of Napoleon Bonaparte, ultimately overturning the monarchy and challenging traditional power structures in France.
+###
+20. Instruction: Write a brief fact about Saturn.
+20. Input: 
+<noinput>
+20. Output: 
+Saturn is the sixth planet from the sun and is known for its spectacular system of rings primarily composed of ice and rock particles.

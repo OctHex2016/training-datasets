@@ -1,0 +1,115 @@
+4. Instruction: Generate a short summary of the given article. 
+4. Input: 
+Article: Researchers at Google have created an AI-based tool that can turn web pages into short videos automatically. The tool named T5-Webpage2Video uses natural language processing to examine the content on a webpage and pulls out the most relevant information to create a summary, which is then presented alongside related images and animations to craft a video. The tool, which is currently still in development, could be used in a range of applications, including creating video summaries of news articles or scientific papers.
+4. Output: 
+Google researchers developed an AI-based tool called T5-Webpage2Video that can convert a webpage into a short video by analyzing its content and extracting the most relevant information to create a summary. This tool could have various applications, including creating video summaries of news articles or scientific papers. However, the tool is still in development. 
+###
+5. Instruction: Reword the given sentence without changing its meaning or tense. 
+5. Input: 
+The audience was moved to tears by the performance of the young actor. 
+5. Output: 
+The young actor's performance moved the audience to tears. 
+###
+6. Instruction: Translate this paragraph from English to French. 
+6. Input: 
+<noinput>
+6. Output: 
+<output in French>
+###
+7. Instruction: Which country in Africa has the largest population? 
+7. Input: 
+<noinput>
+7. Output: 
+Nigeria has the largest population in Africa. 
+###
+8. Instruction: Rewrite the given code using a for loop. 
+8. Input: 
+```
+num_list = [1, 2, 3, 4, 5]
+squares = []
+
+for num in num_list:
+    squares.append(num * num) 
+```
+8. Output: 
+```
+num_list = [1, 2, 3, 4, 5]
+squares = []
+
+for i in range(len(num_list)):
+    squares.append(num_list[i]*num_list[i])
+```
+###
+9. Instruction: Generate a paraphrase for the sentence "Success requires hard work." 
+9. Input: 
+<noinput>
+9. Output: 
+Achieving success demands a tremendous amount of effort. 
+###
+10. Instruction: Classify the given email as spam or not spam. 
+10. Input: 
+Sender: John Doe
+Subject: Special Offer: 50% off on all products
+
+10. Output: 
+The email is classified as spam. 
+###
+11. Instruction: Extract the main topics discussed in the given article. 
+11. Input: 
+Article: Latest technology in electric cars results in longer driving range. The new battery technology was created by researchers at Stanford University and Hong Kong Polytechnic University. The technology uses a solid-state lithium battery which replaces traditional liquid electrodes. This creates a lighter, safer and more stable battery and also allows for faster charging times. The new battery technology could be a significant step forward in the adoption of electric cars, as longer driving ranges were often cited as a concern when making decisions to purchase electric vehicles.
+11. Output: 
+The article discusses the latest technology in electric cars that results in a longer driving range. The battery technology is created by researchers at Stanford University and Hong Kong Polytechnic University, which uses a solid-state lithium battery to replace the traditional liquid electrodes. The new battery not only creates a lighter, safer and more stable battery; it also allows faster charging time. The new battery technology could potentially boost the adoption of electric cars as longer driving ranges are often cited as a concern for people considering purchasing electric cars. 
+###
+12. Instruction: Generate a creative and unique title for the given article. 
+12. Input: 
+Article: The impact of Covid-19 on tourism industry. 
+12. Output: 
+Traveling in the times of pandemic: The Covid-19's impact on the global tourism industry. 
+###
+13. Instruction: Identify the antonym of the word "extrovert". 
+13. Input: 
+<noinput>
+13. Output: 
+The antonym of the word "extrovert" is "introvert". 
+###
+14. Instruction: Edit the given sentence for grammar or spelling errors. 
+14. Input: 
+"Thier were many peple at the partee last nite." 
+14. Output: 
+"There were many people at the party last night." 
+###
+15. Instruction: What is the capital city of Thailand? 
+15. Input: 
+<noinput>
+15. Output: 
+The capital city of Thailand is Bangkok. 
+###
+16. Instruction: List at least five different species of animals that live in the rainforest. 
+16. Input: 
+<noinput>
+16. Output: 
+The rainforest is home to various species of animals such as monkeys, toucans, jaguars, tarantulas, and snakes. 
+###
+17. Instruction: Complete the analogy: "Hot is to cold as fire is to ___." 
+17. Input: 
+<noinput>
+17. Output: 
+"Hot is to cold as fire is to ice." 
+###
+18. Instruction: Generate a pun or wordplay based on the word "bee". 
+18. Input: 
+<noinput>
+18. Output: 
+Why did the bee get married? Because he found his honey! 
+###
+19. Instruction: Write a one-sentence caption for the given image.
+19. Input: 
+Image: A person standing on a mountaintop, looking over the valley below. 
+19. Output: 
+"Reaching new heights and taking in the breathtaking view." 
+###
+20. Instruction: Can you provide more information about the concept of blockchain? 
+20. Input: 
+<noinput>
+20. Output: 
+Blockchain is a decentralized, digital ledger technology that records transactions across a network of computers, providing transparency, security, and a tamper-proof method for storing and transferring data.

@@ -1,0 +1,110 @@
+4. Instruction: Translate the given phrase into French.
+4. Input: 
+Good morning, how are you?
+4. Output: 
+Bonjour, comment ça va?
+
+5. Instruction: Recommend three job search engines or websites.
+5. Input: 
+<noinput>
+5. Output: 
+1. Indeed
+2. Glassdoor
+3. LinkedIn
+
+6. Instruction: Provide three constructive ways to deal with stress.
+6. Input: 
+<noinput>
+6. Output: 
+1. Practice deep breathing or meditation.
+2. Engage in regular physical activity or exercise.
+3. Establish a healthy work-life balance and prioritize self-care.
+
+7. Instruction: Write a haiku about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Majestic mountains,
+Rivers whispering secrets,
+Nature's harmony.
+
+8. Instruction: Identify the fallacy in this argument.
+8. Input: 
+She's vegan, so she must be against hunting.
+8. Output: 
+Hasty generalization
+
+9. Instruction: Create a unique acronym based on the given topic.
+9. Input: 
+Topic: Environmental Conservation
+9. Output: 
+P.R.O.T.E.C.T - Preserve Resources, Organize, Teach, Engage, Conserve, and Treasure
+
+10. Instruction: Describe the concept of entropy in thermodynamics.
+10. Input: 
+<noinput>
+10. Output: 
+Entropy, symbolized as 'S,' is a state function in thermodynamics that quantifies the degree of disorder or randomness in a system. It increases when a system undergoes a spontaneous process and is related to the number of accessible microstates. In brief, higher entropy implies a higher degree of chaos or unpredictability.
+
+11. Instruction: Convert this temperature from Celsius to Fahrenheit.
+11. Input: 
+23°C
+11. Output: 
+73.4°F
+
+12. Instruction: Summarize the text while retaining the key points.
+12. Input: 
+Graphene is a form of carbon, made of a single layer of carbon atoms organized in a hexagonal lattice. It's touted for its outstanding electronic properties, high durability, and extreme flexibility. It's the first 2D crystal ever known, and it's approximately 200 times stronger than steel per unit of weight. Scientists believe that graphene could potentially revolutionize many industries, including computing, telecommunications, and energy storage. However, despite its remarkable potential, scientists and engineers still face challenges in producing and utilizing graphene in a practical, cost-effective manner.
+12. Output: 
+Graphene, a 2D carbon material with high durability and electronic properties, is stronger than steel and can revolutionize industries like computing and energy storage. However, challenges remain in producing and using graphene cost-effectively.
+
+13. Instruction: Calculate the tip for a restaurant bill.
+13. Input: 
+Bill amount: $54.30
+Tip percentage: 18%
+13. Output: 
+$9.77
+
+14. Instruction: Name three functions of the United Nations.
+14. Input: 
+<noinput>
+14. Output: 
+1. Maintain international peace and security.
+2. Promote sustainable development and human rights.
+3. Facilitate humanitarian aid during disasters and emergencies.
+
+15. Instruction: Rephrase the following sentence into passive voice.
+15. Input: 
+The dog bit the mailman.
+15. Output: 
+The mailman was bitten by the dog.
+
+16. Instruction: Explain the significance of the Turing Test.
+16. Input: 
+<noinput>
+16. Output: 
+The Turing Test is a measure to evaluate a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. Originally proposed by Alan Turing, the test serves as a benchmark for assessing artificial intelligence's progress and potential limitations.
+
+17. Instruction: Identify the palindrome(s) in the following words.
+17. Input: 
+animal, madam, level, garden, racecar
+17. Output: 
+madam, level, racecar
+
+18. Instruction: Write a one-liner joke involving an animal.
+18. Input: 
+<noinput>
+18. Output: 
+Why don't some couples go to the zoo? Because they're not sure if they're ready for kids and a caged animal.
+
+19. Instruction: Edit the following sentence for grammar and punctuation.
+19. Input: 
+the sun rises in the east andsets, in the west
+19. Output: 
+The sun rises in the east and sets in the west.
+
+20. Instruction: Analyze the given situation and suggest what advice you would give.
+20. Input: 
+Jenny feels overwhelmed by the amount of work she has to do, and she's unsure where to start.
+20. Output: 
+Advise Jenny to break her work into smaller, manageable tasks and prioritize them based on importance and deadlines. Encourage her to focus on one task at a time and set realistic goals for completing them. This will help her feel more in control and reduce her overwhelm.

@@ -1,0 +1,105 @@
+4. Instruction: Can you explain the difference between a crocodile and an alligator? 
+4. Input: 
+<noinput>
+4. Output: 
+Both are reptiles, but crocodiles have a V-shaped snout while an alligator's snout is U-shaped. Additionally, crocodiles are typically found in saltwater habitats while alligators prefer freshwater habitats.
+###
+5. Instruction: Given a text file, remove all stop words and punctuations, and list the top 5 most frequently appearing words. 
+5. Input: 
+Text file: "The quick brown fox, jumps over the lazy dog."
+5. Output: 
+"quick" (1), "brown" (1), "fox" (1), "jumps" (1), "lazy" (1)
+###
+6. Instruction: Describe what the Monty Hall problem is and how it can be solved. 
+6. Input: 
+<noinput>
+6. Output: 
+The Monty Hall problem is a probability puzzle in which you are presented with three doors, behind one of which is a prize. After you have chosen a door, the host reveals one of the other two doors which does not contain the prize. You are then given the option of switching to the remaining unopened door or staying with your original choice. The optimal strategy is to always switch as it increases your chance of winning from 1/3 to 2/3.
+###
+7. Instruction: Paraphrase the sentence, "The quick brown fox jumps over the lazy dog." 
+7. Input: 
+Original sentence: "The quick brown fox jumps over the lazy dog."
+7. Output: 
+The lazy dog is leaped over by a quick brown fox.
+###
+8. Instruction: Add two matrices together element-wise. 
+8. Input: 
+Matrix A: [1 2; 3 4]
+Matrix B: [4 3; 2 1]
+8. Output: 
+[5 5; 5 5]
+###
+9. Instruction: Given a set of student grades, calculate the average, median, and standard deviation. 
+9. Input: 
+Grades: {70, 80, 90, 85, 95}
+9. Output: 
+Average: 84
+Median: 85
+Standard deviation: 8.4
+###
+10. Instruction: Rewrite the sentence, "I am excited for the party tonight!" in the past tense. 
+10. Input: 
+Original sentence: "I am excited for the party tonight!"
+10. Output: 
+I was excited for the party last night! 
+###
+11. Instruction: Given a set of numbers, find the maximum and minimum values. 
+11. Input: 
+Set: {5, 10, 7, 3, 1}
+11. Output: 
+Max value: 10
+Min value: 1
+###
+12. Instruction: What are the units for measuring power? 
+12. Input: 
+<noinput>
+12. Output: 
+The units for measuring power are watts (W).
+###
+13. Instruction: Given a string, reverse the order of its words. 
+13. Input: 
+String: "Hello, world!"
+13. Output: 
+"world! Hello,"
+###
+14. Instruction: Identify the part of speech for the word "jump" in the sentence, "The frog will jump over the log." 
+14. Input: 
+Sentence: "The frog will jump over the log."
+14. Output: 
+"Jump" is a verb.
+###
+15. Instruction: Given a dataset, apply principal component analysis and find the top 3 principal components. 
+15. Input: 
+Dataset: Input a dataset of your choice.
+15. Output: 
+The top three principal components are...
+###
+16. Instruction: Convert the temperature from Celsius to Fahrenheit. 
+16. Input: 
+Temperature in Celsius: 25°C
+16. Output: 
+The temperature in Fahrenheit is 77°F.
+###
+17. Instruction: Given a paragraph, summarize the main idea in one sentence. 
+17. Input: 
+Paragraph: Input a paragraph of your choice.
+17. Output: 
+The main idea can be summarized as...
+###
+18. Instruction: Correct the spelling mistake in the sentence, "I am extatic for my upcoming vacation." 
+18. Input: 
+Original sentence: "I am extatic for my upcoming vacation."
+18. Output: 
+"I am ecstatic for my upcoming vacation."
+###
+19. Instruction: Given a set of images, classify them into categories based on their content. 
+19. Input: 
+Images: Input a set of images of your choice.
+19. Output: 
+The images can be classified into categories of...
+###
+20. Instruction: Given a sentence, add punctuation and capitalization as necessary. 
+20. Input: 
+Sentence: "hello there how are you"
+20. Output: 
+"Hello there, how are you?"

@@ -1,0 +1,31 @@
+4. Instruction: Identify the correct preposition from the given choices and complete the sentence.
+4. Input: 
+Sentence: She is very good (at, with, on) cooking pasta.
+4. Output: 
+She is very good at cooking pasta.
+###
+5. Instruction: You work at a restaurant and need to write a short introduction for a new menu item. Provide a creative description of the dish.
+5. Input: 
+Dish name: Tropical Mango Parfait
+Main ingredients: Mango, coconut milk, yogurt, granola
+5. Output: 
+Introducing our lip-smacking Tropical Mango Parfait! This heavenly dessert combines sweet, ripe mangoes with creamy coconut milk-infused yogurt, layered with crunchy granola for a delightful texture. Each spoonful transports your taste buds to a tropical island paradise. Don't miss out on this scrumptious treat – it's a must-try for every mango lover!
+###
+6. Instruction: Replace overused words in the sentence with suitable synonyms to make it sound more engaging.
+6. Input: 
+The very strong man quickly lifted the incredibly heavy weight with ease.
+6. Output: 
+The extraordinarily powerful man swiftly hoisted the tremendously hefty weight with facility.
+###
+7. Instruction: Find out if the claim is true or false by utilizing a well-known reference.
+7. Input: 
+Claim: The Eiffel tower is the tallest building in Paris.
+Reference: Eiffel tower is 330 meters tall.
+7. Output: 
+True
+###
+8. Instruction: Explain the basic differences between a comma and a semicolon.
+8. Input: 
+<noinput>
+8. Output: 
+A comma is used to separate elements in a sentence, such as items in a list, clauses, or to indicate a pause. A semicolon is used to connect two closely-related independent clauses, highlight a contrast or balance, or separate items in a list when commas are already being used for clarity. Comma usage is more versatile, while semicolons are more specific in their function.

@@ -1,0 +1,189 @@
+4. Instruction: Choose a recipe and list its ingredients.
+
+4. Input: 
+<noinput>
+
+4. Output: 
+Chicken Alfredo:
+- 8 oz fettuccine
+- 3/4 lb boneless, skinless chicken breasts
+- Salt and pepper
+- 2 tbsp olive oil
+- 6 tbsp unsalted butter
+- 2 cups heavy cream
+- 1 1/2 cups grated Parmesan cheese
+- Fresh parsley for garnish
+
+###
+
+5. Instruction: Identify the main sources of greenhouse gas emissions from the given list.
+
+5. Input: 
+car exhaust, deforestation, volcanic eruptions, reforestation, fossil fuel combustion, planting trees, agriculture, waste decomposition
+
+5. Output: 
+car exhaust, deforestation, volcanic eruptions, fossil fuel combustion, agriculture, waste decomposition
+
+###
+
+6. Instruction: Rewrite the following sentence without using the word "happy".
+
+6. Input: 
+She was happy and content in her new home.
+
+6. Output: 
+She was joyful and content in her new home.
+
+###
+
+7. Instruction: Given the following data structure, extract the value of "address" for "person B".
+
+7. Input: 
+{
+    "person A": {
+        "name": "Alice",
+        "address": "123 Main St",
+    },
+    "person B": {
+        "name": "Bob",
+        "address": "456 Elm St",
+    },
+    "person C": {
+        "name": "Charlie",
+        "address": "789 Oak St",
+    },
+}
+
+7. Output: 
+456 Elm St
+
+###
+
+8. Instruction: Provide two synonyms for the word "smart".
+
+8. Input: 
+<noinput>
+
+8. Output: 
+intelligent, clever
+
+###
+
+9. Instruction: What was the historical significance of the Marshall Plan?
+
+9. Input: 
+<noinput>
+
+9. Output: 
+The Marshall Plan was a significant post-World War II economic aid program initiated to help rebuild war-torn Europe, prevent the spread of communism, and stabilize the continent's economies. It played a crucial role in the reconstruction and economic recovery of European countries, fostering cooperation and setting the stage for the development of the European Union.
+
+###
+
+10. Instruction: Translate the following sentence from English to French.
+
+10. Input: 
+The weather is beautiful today.
+
+10. Output: 
+Le temps est magnifique aujourd'hui.
+
+###
+
+11. Instruction: Summarize the given text in a sentence.
+
+11. Input: 
+Jane Austen's novel "Pride and Prejudice" follows the lives of the Bennet sisters, primarily focusing on Elizabeth Bennet and her evolving relationship with the wealthy and seemingly aloof Mr. Darcy. Set in the early 19th century, the novel uses wit and satire to emphasize themes of social class, reputation, and the importance of marrying for love.
+
+11. Output: 
+"Pride and Prejudice" is a novel that narrates the development of Elizabeth Bennet's relationship with Mr. Darcy, highlighting themes of social class, reputation, and love-based marriages through wit and satire.
+
+###
+
+12. Instruction: Create a short, catchy slogan for a new eco-friendly electric car.
+
+12. Input: 
+<noinput>
+
+12. Output: 
+Drive Green, Embrace the Future
+
+###
+
+13. Instruction: Determine if the provided email address is valid according to general email formatting rules.
+
+13. Input: 
+john.doe-example.com
+
+13. Output: 
+Invalid email address
+
+###
+
+14. Instruction: Identify the noun and the verb in the given sentence.
+
+14. Input: 
+The cat jumped on the table.
+
+14. Output: 
+Noun: cat, Verb: jumped
+
+###
+
+15. Instruction: Provide a rhyming couplet about reading books.
+
+15. Input: 
+<noinput>
+
+15. Output: 
+In books, we find adventures grand and bold,
+New worlds to explore, countless tales untold.
+
+###
+
+16. Instruction: Correct the sentence by placing commas in appropriate locations.
+
+16. Input: 
+She traveled to London Paris Rome and Madrid in just one month.
+
+16. Output: 
+She traveled to London, Paris, Rome, and Madrid in just one month.
+
+###
+
+17. Instruction: What is the capital city of Japan?
+
+17. Input: 
+<noinput>
+
+17. Output: 
+Tokyo
+
+###
+
+18. Instruction: Critique the coherence of the given sentence from a logical perspective.
+
+18. Input: 
+The sun was shining because it rained heavily yesterday.
+
+18. Output: 
+The sentence lacks coherence because the sun shining is not logically related to heavy rain from the previous day.
+
+###
+
+19. Instruction: Based on the reviewer's comments, determine if the book is worth reading.
+
+19. Input: 
+The book had a captivating story, well-developed characters, and an engaging writing style. The only downside was the slow pacing in a few chapters, which wasn't enough to detract from the overall enjoyment.
+
+19. Output: 
+Yes, the book is worth reading.
+
+###
+
+20. Instruction: What do mitochondria do in animal cells?
+
+20. Input: 
+<noinput>
+
+20. Output: 
+Mitochondria are the powerhouse of animal cells, producing ATP (adenosine triphosphate) through cellular respiration to provide energy for various cellular processes.

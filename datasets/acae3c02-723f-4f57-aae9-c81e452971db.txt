@@ -1,0 +1,163 @@
+4. Instruction: Paraphrase the following sentence without changing its meaning. 
+4. Input: 
+It is important to prioritize your health and well-being above all else, even when you have a lot of responsibilities and obligations. 
+4. Output: 
+Putting your health and well-being first is necessary, even if you have many responsibilities and obligations. 
+###
+5. Instruction: Generate a haiku poem about autumn. 
+5. Input: 
+<noinput> 
+5. Output: 
+Autumn leaves falling,
+A rustling, golden carpet,
+Nature's artwork shines. 
+###
+6. Instruction: Summarize the main points from this journal article. 
+6. Input: 
+Title: Improving Working Conditions in Garment Supply Chains: The Role of Unions in Cambodia
+Authors: Jill Tucker, Garima Sharma, Malte Timpte
+Journal: Journal of Business Ethics
+Date: September 2020
+Link: https://link.springer.com/article/10.1007/s10551-020-04491-z
+6. Output: 
+This article explores the role of unions in improving working conditions in the garment industry in Cambodia. The study found that unions had a significant impact on reducing overtime and increasing wages for workers. The article highlights the need for collaboration between unions, local government, and industry stakeholders to further improve working conditions in the garment industry. 
+###
+7. Instruction: Identify the parts of speech for each word in the sentence. 
+7. Input: 
+The quick brown fox jumps over the lazy dog.
+7. Output: 
+The (article) quick (adjective) brown (adjective) fox (noun) jumps (verb) over (preposition) the (article) lazy (adjective) dog (noun). 
+###
+8. Instruction: Generate a recipe for a vegetarian lasagna. 
+8. Input: 
+<noinput>
+8. Output: 
+Recipe for Vegetarian Lasagna:
+
+Ingredients:
+- 1 box of lasagna noodles
+- 1 onion, diced
+- 2 cloves of garlic, minced
+- 2 zucchini, sliced
+- 1 eggplant, sliced
+- 1 can of diced tomatoes
+- 1 cup of tomato sauce
+- 1 cup of ricotta cheese
+- 2 cups of shredded mozzarella cheese
+- 1/2 cup of grated Parmesan cheese
+
+Instructions:
+1. Preheat the oven to 375°F
+2. Cook the lasagna noodles according to the package directions and set aside.
+3. In a large skillet over medium heat, sauté the onion and garlic until fragrant.
+4. Add the zucchini and eggplant, and cook until soft.
+5. Stir in the diced tomatoes and tomato sauce.
+6. In a separate bowl, combine the ricotta cheese and one cup of the shredded mozzarella cheese.
+7. Spread a layer of the tomato sauce mixture on the bottom of a 9x13 inch baking dish.
+8. Layer the cooked noodles on top, followed by a layer of the ricotta mixture.
+9. Repeat these layers until all ingredients are used, ending with a layer of tomato sauce on top.
+10. Sprinkle the remaining shredded mozzarella and Parmesan cheese on top of the lasagna.
+11. Cover with aluminum foil and bake for 25 minutes.
+12. Remove the foil and bake for an additional 25 minutes, or until the cheese is bubbly and brown.
+13. Let cool for 10 minutes before serving. Enjoy! 
+### 
+9. Instruction: Rewrite the following sentence using the passive voice. 
+9. Input: 
+The teacher graded the students' papers with a red pen. 
+9. Output: 
+The students' papers were graded with a red pen by the teacher. 
+###
+10. Instruction: Generate a list of the top 5 most visited cities in Europe. 
+10. Input: 
+<noinput>
+10. Output: 
+Top 5 Most Visited Cities in Europe:
+
+1. Paris, France
+2. Amsterdam, Netherlands
+3. Barcelona, Spain
+4. Rome, Italy
+5. Prague, Czech Republic 
+### 
+11. Instruction: Correct the spelling errors in the following sentence. 
+11. Input: 
+Tomorow is the begining of a new weak. 
+11. Output: 
+Tomorrow is the beginning of a new week. 
+###
+12. Instruction: Fill in the blank with the appropriate preposition. 
+12. Input: 
+We need to submit the report [blank] Friday. 
+12. Output: 
+We need to submit the report by Friday. 
+###
+13. Instruction: Write a personal statement for a job application as a software engineer. 
+13. Input:
+Name: Alex Kim
+Education: Bachelor of Science in Computer Science from University of California, Berkeley
+Work Experience: Software Engineer at Google for 2 years 
+13. Output:
+Dear Hiring Manager, 
+
+I am excited to apply for the Software Engineer position at your company. As a recent graduate of UC Berkeley with a Bachelor of Science in Computer Science, I have developed a strong foundation in software design and development. My experience as a software engineer at Google has allowed me to hone my skills in full-stack development, collaborating with cross-functional teams, and identifying and solving complex technical problems.
+
+As a highly adaptable software engineer, I am confident that my skills in agile development, data structures, and algorithms will make me an asset to your team. I am adaptable with a proven track record of thinking outside the box and taking on new challenges. I am excited to bring these accomplishments and strengths to your company and continue growing as a software engineer.
+
+Thank you for considering my application. I look forward to discussing further how I can contribute to your team.
+
+Sincerely, 
+Alex Kim 
+###
+14. Instruction: Translate the following sentence to Spanish. 
+14. Input: 
+I would like to order two tacos, please. 
+14. Output: 
+Me gustaría ordenar dos tacos, por favor. 
+###
+15. Instruction: Edit the following sentence to remove redundancies. 
+15. Input: 
+The new innovation has completely revolutionized the way we think and has changed everything we previously thought. 
+15. Output: 
+The new innovation has completely revolutionized the way we think and changed everything. 
+### 
+16. Instruction: Generate a list of 5 best-selling books of all time. 
+16. Input: 
+<noinput>
+16. Output: 
+5 Best-Selling Books of All Time:
+
+1. Don Quixote by Miguel de Cervantes
+2. A Tale of Two Cities by Charles Dickens
+3. The Lord of the Rings by J.R.R. Tolkien
+4. The Little Prince by Antoine de Saint-Exupéry
+5. Harry Potter and the Philosopher's Stone by J.K. Rowling 
+###
+17. Instruction: Identify the verb tense in the following sentence. 
+17. Input: 
+I have been studying Spanish for three years. 
+17. Output: 
+Present perfect continuous. 
+###
+18. Instruction: Generate a list of the top 5 most-watched TV shows of 2021. 
+18. Input: 
+<noinput>
+18. Output: 
+Top 5 Most-Watched TV Shows of 2021:
+
+1. The Falcon and the Winter Soldier
+2. Mare of Easttown
+3. Loki
+4. WandaVision
+5. Ted Lasso 
+###
+19. Instruction: Edit the following sentence to correct grammatical errors. 
+19. Input: 
+Me and my brother seen the movie last night. 
+19. Output: 
+My brother and I saw the movie last night. 
+### 
+20. Instruction: Generate a tongue twister with the word "squirrel". 
+20. Input: 
+<noinput>
+20. Output: 
+Silly Sally saw six squirrels sailing swiftly southward.

@@ -1,0 +1,45 @@
+4. Instruction: Convert the given sentence into a yes-or-no question.
+4. Input: 
+You have been practicing the guitar every day.
+4. Output: 
+Have you been practicing the guitar every day?
+
+5. Instruction: Based on the scenario, suggest a suitable resolution for the conflict.
+5. Input: 
+Tom and Emily are arguing about which movie to watch tonight. Tom prefers action movies while Emily wants to watch a romantic comedy.
+5. Output: 
+Tom and Emily could find a movie that combines elements of action and romantic comedy, so both of their preferences are taken into account.
+
+6. Instruction: Proofread the given paragraph and correct any grammar or punctuation errors.
+6. Input: 
+The quick, brown fox jumps ober the lazy dog Well, There; not much time left too go The person, who seemed like a stranger, walked towards her!.
+6. Output: 
+The quick brown fox jumps over the lazy dog. Well, there's not much time left to go. The person, who seemed like a stranger, walked towards her.
+
+7. Instruction: Write an opening sentence for a horror story.
+7. Input: 
+<noinput>
+7. Output: 
+It was a dark and stormy night when the eerie silence was shattered by the sound of scratching at the door.
+
+8. Instruction: Compose a limerick about a man named Jim from Dublin.
+8. Input: 
+<noinput>
+8. Output: 
+There once was a man named Jim from Dublin,
+Whose antics were sure to keep folks a-grumblin',
+He'd dance and he'd jest,
+But soon they'd detest,
+His tall tales that never stopped bubblin'.
+
+9. Instruction: Summarize these main points in a single sentence.
+9. Input: 
+John is a talented artist, the festival will take place on the weekend, and the weather forecast predicts sunshine.
+9. Output: 
+Talented artist John is preparing for the festival, set to take place on a sunny weekend.
+
+10. Instruction: Which countries invented these items: pizza, the bicycle, and the Rubik's cube?
+10. Input: 
+<noinput>
+10. Output: 
+Pizza was invented in Italy, the bicycle in Germany, and the Rubik's cube in Hungary.

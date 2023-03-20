@@ -1,0 +1,84 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input: 
+The dog chased the cat up the tree.
+4. Output: 
+The cat was chased up the tree by the dog.
+###
+5. Instruction: Come up with an original tongue twister using the letter "S".
+5. Input: 
+<noinput>
+5. Output: 
+Seven slithering snakes slid silently, slyly snapping at savory slices of salami.
+###
+6. Instruction: Identify the type and subgenre of the following book description.
+6. Input: 
+"Viktor Hartmann, a talented young composer, finds himself entangled in a complex web of betrayal and intrigue after he receives a mysterious letter inviting him to an elite gathering of Europe's most powerful magical practitioners."
+6. Output: 
+Type: Fiction
+Subgenre: Historical Fantasy
+###
+7. Instruction: Evaluate the following debate argument and point out any logical fallacies, if present.
+7. Input: 
+"Professional athletes don't deserve to make so much money. People like doctors, who are saving lives, should make more money. Athletes merely entertain and don't contribute anything truly valuable or meaningful to society."
+7. Output: 
+The argument presents a False Comparison fallacy. Comparing the earnings of professional athletes to doctors and their respective societal contributions is not an apples-to-apples comparison. Each profession functions differently and their financial structures also differ. Moreover, both athletes and doctors contribute to society in their own ways, with athletes promoting physical activity, teamwork, and entertainment. Thus, it is not justified to compare their monetary values solely based on their contribution to society.
+###
+8. Instruction: Summarize the article below in three sentences.
+8. Input: 
+"Researchers at the University of Manchester have discovered a potential new treatment for Alzheimer's disease in a preclinical study. The study involved modifying tau protein, which forms toxic fragments in the brains of Alzheimer's patients, through the use of a protein kinase called MARK4. The team found that when tau protein was modified by MARK4, it became less toxic, and the production of toxic fragments was reduced, suggesting that drugs targeting MARK4 could help slow down Alzheimer's disease. Alzheimer's currently affects more than 5 million people in the United States alone."
+8. Output: 
+Researchers at the University of Manchester have found that modifying tau protein using a protein kinase called MARK4 may reduce its toxicity and slow down Alzheimer's disease. The preclinical study discovered that when MARK4 modified tau protein, the production of toxic fragments was decreased. This breakthrough suggests that drugs targeting MARK4 could be a potential treatment for the millions of people affected by Alzheimer's.
+###
+9. Instruction: Suggest a suitable title for the following paragraph.
+9. Input: 
+"The rise of remote working has made it possible for people to work from any corner of the world. As a result, more and more people are choosing to become "digital nomads," traveling and working from different locations without a fixed address. This lifestyle brings many advantages, like flexibility and greater work-life balance, but it also presents unique challenges, such as lack of stable social connections and logistical complexities. Companies must adapt and create policies conducive to a rising digital nomad population to avoid missing out on valuable talent."
+9. Output: 
+Embracing the Digital Nomad: Challenges and Opportunities for Companies
+###
+10. Instruction: What are the nutritional benefits of kale? 
+10. Input: 
+<noinput>
+10. Output: 
+Kale is rich in nutrients, providing high amounts of vitamins A, C, and K. It also contains minerals like calcium, potassium, and iron, as well as dietary fiber. Additionally, kale has antioxidants and phytonutrients, which have been associated with various health benefits such as reducing inflammation, maintaining good eye health, and supporting heart health.
+###
+11. Instruction: Translate the following sentence into French.
+11. Input: 
+The book is on the table next to the lamp.
+11. Output: 
+Le livre est sur la table à côté de la lampe.
+###
+12. Instruction: Correct the grammar and punctuation mistakes in the following sentence.
+12. Input: 
+Its raining outside, however me and my friend is going to the store tommorow.
+12. Output: 
+It's raining outside; however, my friend and I are going to the store tomorrow.
+###
+13. Instruction: Predict the ending of a story with the following setup.
+13. Input: 
+"Long ago, in a faraway kingdom, there lived a king who was known for his wisdom and fairness. One day, a mysterious figure presented the king with two magical stones, one black and one white. The figure claimed that each stone had the power to change the fate of the kingdom, but warned the king to choose wisely."
+13. Output: 
+The wise king, hesitant to trust the mysterious figure, pondered his decision carefully. He acknowledged that both the black and white stones could bring about either prosperity or ruin, depending on how they were used. After much thought, the king chose neither stone, instead relying on his own wisdom and the strength of his people to shape their destiny. The kingdom continued to prosper, and the mysterious figure vanished, never to be seen again.
+###
+14. Instruction: Arrange the events in the correct chronological order.
+14. Input: 
+a. The Treaty of Versailles was signed.
+b. World War II started.
+c. World War I started.
+d. The League of Nations was formed.
+14. Output: 
+c. World War I started.
+a. The Treaty of Versailles was signed.
+d. The League of Nations was formed.
+b. World War II started.
+###
+15. Instruction: Write a compelling opening line for a science fiction novel.
+15. Input: 
+<noinput>
+15. Output: 
+As the last remnants of Earth's sun fizzled into darkness, humanity embarked on a daring voyage to the distant whispers of an unknown galaxy.
+###
+16. Instruction: Explain the process of photosynthesis.
+16. Input:
+<noinput>
+16. Output:
+Photosynthesis is the process by which plants, algae, and certain bacteria convert light energy from the sun into chemical energy in the form of glucose or other sugars. The process occurs primarily in the chlorophyll-containing chloroplasts within plant cells. Photosynthesis involves two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). During the light-dependent reactions, water molecules are split, releasing oxygen gas and producing ATP, and NADPH is also generated. During the light-independent reactions, also known as the Calvin cycle, carbon dioxide is fixed into a stable form using the ATP and NADPH generated during the light-dependent reactions. These reactions ultimately produce glucose and other sugars, which the plant uses for energy, growth, and repair.

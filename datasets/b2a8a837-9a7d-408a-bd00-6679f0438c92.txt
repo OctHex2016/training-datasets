@@ -1,0 +1,77 @@
+4. Instruction: Translate the following sentence into French.
+4. Input: 
+I would like to order a coffee with milk, please.
+4. Output: 
+Je voudrais commander un café au lait, s'il vous plaît.
+###
+5. Instruction: Identify the name of the city in this riddle.
+5. Input:
+I am a city with a long history, once the capital of a great empire. My landmarks include the Colosseum and the Trevi Fountain. What city am I?
+5. Output:
+Rome
+###
+6. Instruction: Explain the term "sustainable development" in your own words.
+6. Input:
+<noinput>
+6. Output:
+Sustainable development refers to the process of utilizing resources and conducting economic growth in a way that does not deplete or damage the natural environment, ensuring that future generations can also meet their needs.
+###
+7. Instruction: Read the argument and discuss the possible counterargument.
+7. Input:
+Dogs are better pets than cats because they are more intelligent and friendly.
+7. Output:
+A possible counterargument is that while dogs may typically be more intelligent and friendly than cats, the suitability of a pet depends on individual preferences and needs. Some people may prefer cats for their low maintenance, independence, and less demanding nature.
+###
+8. Instruction: What is the significance of the event or person in history? 
+8. Input:
+The Treaty of Tordesillas
+8. Output:
+The Treaty of Tordesillas holds significance in history as it was a key agreement between Spain and Portugal in 1494 that aimed to divide newly discovered lands outside Europe. This treaty shaped the future of global colonization patterns, as it divided the world into Spanish and Portuguese spheres of influence, thus shaping the development of modern countries in the Americas, Africa, and Asia.
+###
+9. Instruction: Check the provided paragraph for grammar and make necessary edits.
+9. Input:
+The boy said, "Tommorow, I'am going to the park, can you cames?" He was excited about his plans, but he missed writing the sentences grammatically corrects.
+9. Output:
+The boy said, "Tomorrow, I am going to the park. Can you come?" He was excited about his plans, but he missed writing the sentences grammatically correctly.
+###
+10. Instruction: Describe how the process works.
+10. Input:
+Photosynthesis
+10. Output:
+Photosynthesis is the process through which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. It occurs primarily in the chlorophyll-containing cells called chloroplasts. During photosynthesis, light energy is captured and used to split water molecules, releasing oxygen and creating high-energy molecules like ATP. These molecules are then utilized in the Calvin cycle to transform CO2 into glucose, which is the source of energy for the plant's growth, reproduction, and other functions.
+###
+11. Instruction: Summarize the plot of the movie.
+11. Input:
+The Matrix
+11. Output:
+The Matrix follows Thomas Anderson, a computer programmer who leads a double life as a hacker called Neo. He discovers the world he's living in is a complex computer simulation called the Matrix, controlled by sentient machines who harvest humans for energy. Neo is approached by a group of rebels led by Morpheus, who believes Neo is "the One" to save humanity from enslavement within the Matrix. Throughout the film, Neo and his allies fight against the system, confronting the Matrix's powerful digital agents and working to uncover the truth about their reality.
+###
+12. Instruction: Provide a haiku about the topic.
+12. Input:
+Autumn leaves
+12. Output:
+Crimson leaves falling
+Cool breeze whispers through the trees
+Autumn's dance begins
+###
+13. Instruction: Provide an example of alliteration in a sentence.
+13. Input:
+<noinput>
+13. Output:
+She sold seashells by the seashore, swiftly sifting sand.
+###
+14. Instruction: Explain how to perform the task.
+14. Input:
+Changing a car tire
+14. Output:
+To change a car tire, follow these steps:
+1. Park on a level surface, engage the parking brake, and turn on hazard lights.
+2. Locate the spare tire, jack, and lug wrench, typically found in the trunk.
+3. Place wheel chocks or heavy objects behind the wheels to prevent rolling.
+4. Loosen the lug nuts on the flat tire by turning counterclockwise with the wrench (do not remove them yet).
+5. Position the jack under the car's jacking point and slowly raise the car until the flat tire is off the ground.
+6. Fully remove the loosened lug nuts and pull the flat tire off.
+7. Align the holes of the spare tire with the wheel bolts and mount it.
+8. Hand-tighten the lug nuts onto the wheel bolts, then use the wrench to partially tighten diagonally.
+9. Lower the car back onto the ground and remove the jack.
+10. Fully tighten the lug nuts using the wrench in a diagonal pattern, and place the flat tire, jack, and tools back in the trunk.

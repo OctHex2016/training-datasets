@@ -1,0 +1,147 @@
+4. Instruction: Summarize the key points discussed in the given article.
+4. Input: 
+Article: "5 Tips for Working Remotely During the Pandemic"
+4. Output: 
+The article discusses the challenges of working remotely during the pandemic and offers five tips for staying productive and focused: creating a designated workspace, sticking to a routine, taking breaks, prioritizing communication, and seeking help when needed.
+###
+5. Instruction: Rewrite the given sentence using proper grammar and punctuation.
+5. Input: 
+Sentences: "thomas is a friend of mine he likes pizza a lot he eats it every day."
+5. Output: 
+Thomas is a friend of mine. He likes pizza a lot and eats it every day.
+###
+6. Instruction: Classify the given animals based on their habitat. 
+6. Input: 
+- Dolphin
+- Koala
+- Polar bear
+6. Output: 
+- Dolphin: aquatic
+- Koala: forest
+- Polar bear: arctic
+###
+7. Instruction: Generate a list of recommended books based on the given topic. 
+7. Input: 
+Topic: Leadership
+7. Output: 
+1. "The 7 Habits of Highly Effective People" by Stephen R. Covey
+2. "Leaders Eat Last" by Simon Sinek
+3. "The Art of Possibility" by Rosamund Stone Zander and Benjamin Zander
+4. "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
+5. "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead" by Brené Brown
+###
+8. Instruction: Generate a list of three recommended restaurants for a romantic dinner. 
+8. Input: 
+City: New York
+Cuisine: Italian
+8. Output: 
+1. Carbone
+2. Scarpetta
+3. L'Artusi
+###
+9. Instruction: Write a sentence using the given word in context. 
+9. Input: 
+Word: Epiphany
+9. Output: 
+After years of struggling to find a career she was passionate about, Maria had an epiphany while traveling abroad and decided to pursue a career in international development. 
+###
+10. Instruction: Rewrite the given sentence using a more formal tone.
+10. Input: 
+Sentence: "I wanna hang out with you guys this weekend."
+10. Output: 
+I would like to spend time with you all this upcoming weekend.
+###
+11. Instruction: Generate a list of pros and cons for the given topic. 
+11. Input: 
+Topic: Studying abroad
+11. Output: 
+Pros:
+- Opportunity to experience a new culture
+- Opportunity to learn a new language
+- Opportunity to gain independence and confidence
+- Opportunity to make international friends
+- Enhance resume and career opportunities
+
+Cons:
+- Can be expensive
+- Can be difficult to adjust to a new culture and way of life
+- Homesickness and missing family and friends
+- Unfamiliar academic standards and language barriers
+- Cultural differences and misunderstandings
+###
+12. Instruction: Adding a missing word to the given sentence. 
+12. Input: 
+Sentence: "The _____ is the largest organ in the human body."
+12. Output: 
+The skin is the largest organ in the human body.
+###
+13. Instruction: Generate a list of features and specifications for the given product.
+13. Input: 
+Product: iPhone 12
+13. Output: 
+Features:
+- A14 Bionic chip
+- OLED display
+- Super Retina XDR display
+- Ceramic Shield front cover
+- 5G capable
+- Dual-camera system
+- Night Mode, Deep Fusion, and Smart HDR 3
+- Dolby Vision HDR recording
+- MagSafe wireless charging
+
+Specifications:
+- Dimensions: 5.78 x 2.81 x 0.29 inches
+- Screen size: 6.1 inches
+- Resolution: 1170 x 2532 pixels
+- Weight: 164 g
+- Battery life: Up to 17 hours of video playback or up to 65 hours of audio playback
+###
+14. Instruction: Describe the given concept or idea.
+14. Input: 
+Concept: Artificial intelligence (AI)
+14. Output: 
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. AI is used in a variety of applications, including natural language processing, speech recognition, image recognition, and decision making. AI has the potential to revolutionize industries and improve our everyday lives, but it also raises concerns about privacy, security, and ethics. 
+###
+15. Instruction: Correct the given spelling mistake in the sentence. 
+15. Input: 
+Sentence: "He recievd a parcel from his aunt yesterday."
+15. Output: 
+He received a parcel from his aunt yesterday.
+###
+16. Instruction: Select the correct verb to complete the sentence.
+16. Input: 
+Sentence: "She _____ to become a doctor."
+Choices: 
+a) hope
+b) hopes
+c) hoping
+d) hoped
+16. Output: 
+She hopes to become a doctor. 
+###
+17. Instruction: Write a question based on the given information. 
+17. Input: 
+Information: The Mona Lisa was painted by Leonardo da Vinci.
+17. Output: 
+Who painted the Mona Lisa?
+###
+18. Instruction: Rewrite the given sentence using active voice.
+18. Input: 
+Sentence: "The cake was baked by my sister."
+18. Output: 
+My sister baked the cake. 
+###
+19. Instruction: Reorder the given sentence to form a grammatically correct sentence. 
+19. Input: 
+Sentence: "on the weekend went hiking John and his friends."
+19. Output: 
+John and his friends went hiking on the weekend.
+###
+20. Instruction: Generate a list of three recommended tourist attractions for the given city. 
+20. Input: 
+City: Paris
+20. Output: 
+1. Eiffel Tower 
+2. The Louvre Museum
+3. Notre-Dame Cathedral (when open again after restoration from the fire damage)

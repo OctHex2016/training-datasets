@@ -1,0 +1,112 @@
+
+
+4. Instruction: Summarize the main idea of the given news article. 
+4. Input: 
+Article: https://www.nytimes.com/2021/09/07/world/europe/apple-eu-tax-appeal.html
+4. Output: 
+The European Union’s General Court has delivered a long-awaited decision on Apple’s closely watched tax battle with the bloc, annulling a 2016 order that found the company had received illegal tax breaks from Ireland worth €13.1bn ($15.3bn).
+###
+5. Instruction: Rewrite the given sentence in active voice. 
+5. Input: 
+Passive: The book was read by the girl in one day.
+5. Output: 
+Active: The girl read the book in one day.
+###
+6. Instruction: Convert the given sentence into past perfect tense. 
+6. Input:
+Present simple: I cook dinner every night.
+6. Output: 
+Past perfect: I had cooked dinner every night.
+###
+7. Instruction: What is the definition of photosynthesis? 
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It involves the absorption of carbon dioxide and the release of oxygen, which is subsequently used by living organisms in respiration.
+###
+8. Instruction: Identify the adverb(s) in the sentence and explain what function they are serving. 
+8. Input: 
+Sentence: She walked slowly towards the exit.
+8. Output: 
+Adverb(s): slowly
+Function: modifies the verb 'walked', providing more information about the manner in which she walked.
+###
+9. Instruction: Correct the grammatical error in the given sentence. 
+9. Input: 
+Incorrect sentence: Me and him went to the beach yesterday.
+9. Output: 
+Correct sentence: He and I went to the beach yesterday.
+###
+10. Instruction: Rearrange the letters to form a word. 
+10. Input: 
+Letters: E S T L S A
+10. Output: 
+Stales 
+###
+11. Instruction: Classify the given animal into its respective group (mammal, bird, reptile, etc). 
+11. Input: 
+Animal: Salmon
+11. Output: 
+Fish
+###
+12. Instruction: Write a metaphor about life. 
+12. Input: 
+<noinput>
+12. Output: 
+Life is like a camera, focus on the good times, develop from the negatives and if things don't work out, take another shot.
+###
+13. Instruction: Identify the rhyme scheme of the given poem. 
+13. Input: 
+Poem: 
+I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.
+13. Output: 
+Rhyme scheme: ABABCC
+###
+14. Instruction: Write a haiku poem about autumn. 
+14. Input: 
+<noinput>
+14. Output: 
+Crisp leaves fall slowly,
+Colors change, air turns chilly,
+Autumn has arrived.
+###
+15. Instruction: Correct the spelling mistake in the given word. 
+15. Input: 
+Incorrect word: Recieve
+15. Output: 
+Correct word: Receive
+###
+16. Instruction: Provide an antonym for the given word. 
+16. Input: 
+Word: Bright
+16. Output: 
+Dark
+###
+17. Instruction: Write an analogy about the relationship between a bird and a nest. 
+17. Input: 
+<noinput>
+17. Output: 
+A bird needs a nest to survive, just as a book needs a shelf to be stored.
+###
+18. Instruction: What is the definition of socialism? 
+18. Input: 
+<noinput>
+18. Output: 
+Socialism is a political and economic theory advocating for collective or governmental ownership and administration of the means of production and distribution of goods. It aims to create a more equal society and reduce inequalities through the redistribution of wealth and power.
+###
+19. Instruction: Write a one-sentence story using the given characters. 
+19. Input: 
+Characters: Farmer, cow, fox
+19. Output: 
+The farmer saved his cow from the fox's attack by chasing it away with his pitchfork.
+###
+20. Instruction: Provide the opposite meaning of the given word. 
+20. Input: 
+Word: Brave
+20. Output: 
+Cowardly.

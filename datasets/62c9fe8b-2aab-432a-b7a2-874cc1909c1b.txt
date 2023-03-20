@@ -1,0 +1,123 @@
+4. Instruction: Calculate the rate of return on investment given the following parameters: initial investment, final return, and years invested.
+4. Input: 
+Initial investment: 1000
+Final return: 2000
+Years invested: 5
+4. Output: 
+14.87%
+
+###
+5. Instruction: Convert the following hex color code to its RGB representation.
+5. Input: 
+#1A2B3C
+5. Output: 
+(26, 43, 60)
+
+###
+6. Instruction: Explain the given proverb in simpler terms.
+6. Input: 
+Actions speak louder than words.
+6. Output: 
+What you do is more important than what you say.
+
+###
+7. Instruction: Write an acrostic poem using the word "DREAM".
+7. Input: 
+<noinput>
+7. Output: 
+Dare to reach the stars
+Risk makes the journey worthwhile
+Eyes on the prize, step by step
+Aspire to greatness, upward bound
+Moments and memories fuel your ascent
+
+###
+8. Instruction: Identify the logical fallacy present in the argument.
+8. Input: 
+If she doesn't stop smoking now, she will definitely get cancer.
+8. Output: 
+False cause (post hoc ergo propter hoc)
+
+###
+9. Instruction: Offer feedback on the given mission statement.
+9. Input: 
+Our mission is to relentlessly deliver premium products, employ excellence, and create an all-embracing community.
+9. Output: 
+The mission statement is too vague and uses buzzwords. Consider rephrasing it to clearly specify the target audience, the products or services provided, and the unique value proposition.
+
+###
+10. Instruction: Create a pun involving the word "cheese".
+10. Input: 
+<noinput>
+10. Output: 
+Why did the cheese go broke? Because it lost all its provolone!
+
+###
+11. Instruction: Summarize the given argument in one sentence.
+11. Input: 
+The study shows that people who consume more fruits and vegetables are less likely to develop chronic diseases, such as diabetes and heart disease. The researchers found that the participants who ate at least five servings of fruits and vegetables daily had a significantly reduced risk of these illnesses compared to those who consumed fewer servings.
+11. Output: 
+Consuming at least five servings of fruits and vegetables daily significantly reduces the risk of developing chronic diseases like diabetes and heart disease.
+
+###
+12. Instruction: Translate the following sentence into Spanish.
+12. Input: 
+I would like to book a reservation for two tonight.
+12. Output: 
+Me gustaría reservar una mesa para dos personas esta noche.
+
+###
+13. Instruction: Determine if the following email address is valid or not.
+13. Input: 
+john.doe@example.com
+13. Output: 
+Valid
+
+###
+14. Instruction: Provide a fitting title for the given article excerpt.
+14. Input: 
+Remote work has been increasingly adopted by companies worldwide, providing employees with greater flexibility and the opportunity to maintain a healthy work-life balance. This shift has also led to a dramatically increased demand for virtual collaboration tools and the development of innovative technology solutions to maintain team productivity and cohesion.
+14. Output: 
+The Rise of Remote Work: Embracing Flexibility and Virtual Collaboration
+
+###
+15. Instruction: Rank the following options in the descending order of priority based on the provided input.
+15. Input: 
+Customer complaint, data backup, urgent meeting with a client, a response to a query from the finance department.
+15. Output: 
+urgent meeting with a client, customer complaint, response to a query from the finance department, data backup.
+
+###
+16. Instruction: What is the literary device used in the given phrase? 
+16. Input: 
+The wind whispered through the trees.
+16. Output: 
+Personification
+
+###
+17. Instruction: Suggest an improvement for the given slogan.
+17. Input: 
+You can count on us because we're the best electricians.
+17. Output: 
+Powering your world with reliable and expert electric solutions.
+
+###
+18. Instruction: Convert the given text into the first person point of view.
+18. Input: 
+They were walking in the park when they noticed a beautiful butterfly.
+18. Output: 
+I was walking in the park when I noticed a beautiful butterfly.
+
+###
+19. Instruction: Propose a hypothesis based on the given observation.
+19. Input: 
+People who exercise regularly tend to recover faster from colds.
+19. Output: 
+Regular exercise may boost immune system function and shorten the duration of colds.
+
+###
+20. Instruction: What is the major flaw in the following user interface design element? 
+20. Input: 
+A button labeled "Reset" placed next to the "Submit" button on a form.
+20. Output: 
+The proximity of the "Reset" button to the "Submit" button increases the chances of accidental clicks and data loss.

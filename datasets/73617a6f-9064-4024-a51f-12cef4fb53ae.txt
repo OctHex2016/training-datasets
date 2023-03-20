@@ -1,0 +1,65 @@
+4. Instruction: Evaluate the provided meal plan and suggest improvements for a balanced diet.
+4. Input: 
+Breakfast: White bread with butter, jam, and a glass of milk
+Lunch: Cheeseburger with fries and soda
+Dinner: Fried chicken with mashed potatoes and gravy
+Snack: Bag of chips
+4. Output: 
+To improve this meal plan for a more balanced diet, consider the following suggestions:
+1. Breakfast: Replace white bread with whole-grain bread, incorporate a source of protein like eggs or yogurt, and add a serving of fruit.
+2. Lunch: Choose a grilled chicken sandwich on whole-grain bread, swap the fries for a side salad, and replace the soda with water.
+3. Dinner: Opt for baked or grilled chicken instead of fried, serve steamed vegetables, and choose brown rice or a baked sweet potato instead of mashed potatoes.
+4. Snack: Replace the bag of chips with a healthier alternative like carrot sticks with hummus or a small handful of nuts and dried fruits.
+
+
+
+5. Instruction: Write a brief summary of the given article.
+5. Input: 
+Title: "Tech Giants Team Up to Tackle Cybercrime: Microsoft and Amazon Collaborate on AI Project"
+Author: Jane Adams
+Date: March 15, 2022
+
+Microsoft and Amazon have announced a new partnership that will see the tech giants working together to create advanced artificial intelligence (AI) technology to combat cybercrime. The collaboration is intended to lead to innovations and improvements in cybersecurity, protecting businesses and personal information from hackers in the ever-evolving digital landscape.
+
+The AI systems developed will be designed to monitor and analyze potential threats and vulnerabilities in user networks, ultimately helping users and companies make more informed decisions about how to protect their data best. The collaboration between Microsoft and Amazon will allow for the sharing of resources, knowledge, and experience, significantly enhancing both companies' cybersecurity efforts.
+
+Cyber attacks have continued to increase in recent years, putting immense pressure on businesses to maintain and improve security. The partnership between Microsoft and Amazon is expected to give businesses the powerful tools they need to protect themselves and their consumers' personal and sensitive information from online predators.
+5. Output: 
+Microsoft and Amazon have recently announced a partnership to develop advanced AI technology for combating cybercrime. The collaboration aims to boost cybersecurity by sharing resources, knowledge, and experience, and ultimately help businesses and individuals make informed decisions on protecting their data. This joint effort comes amidst a surge in cyber attacks, ensuring that companies have the necessary tools to defend their networks and sensitive user information.
+
+
+
+6. Instruction: Write five trivia questions related to space.
+6. Input: 
+<noinput>
+6. Output: 
+1. What is the largest planet in our solar system?
+2. Which space probe took the first close-up photos of Pluto in 2015?
+3. Who was the first person to walk on the moon?
+4. What is the term for a celestial object that enters Earth's atmosphere and burns up?
+5. What is the name of the galaxy that contains our solar system?
+
+
+
+7. Instruction: Rewrite the given paragraph in a more formal tone.
+7. Input: 
+You know, it's kind of wild to think about how things have changed since I started in this job. I mean, back then, all I had was a notepad and a phone that didn't even have a decent camera. These days, there's just so much cool tech available to make our work easier. Plus, people actually seem to get that going green is super important for our planet's future. Man, it's just really cool to see how far we've come.
+7. Output: 
+It is noteworthy to observe the transformation that has occurred since my initial employment in this position. In the past, the resources available were limited to a notepad and a standard phone with an unsatisfactory camera. However, modern advancements in technology have significantly facilitated our work processes. Furthermore, there is an increasing awareness and emphasis on environmental sustainability's critical role in our planet's future. The progression in both technology and environmental consciousness has been truly remarkable.
+
+
+
+8. Instruction: Calculate the tip amount for the given restaurant bill.
+8. Input: 
+Bill amount: $85
+Tip percentage: 20%
+8. Output: 
+The tip amount is $17.
+
+
+
+9. Instruction: Invent a device or product to tackle the problem of plastic waste in oceans.
+9. Input: 
+<noinput>
+9. Output: 
+The Ocean Guardian is a solar-powered, floating vessel that autonomously patrols the ocean to collect and compact plastic waste. Equipped with advanced AI programming and sensors, it can detect and navigate areas with high concentrations of plastic debris. Additionally, the Ocean Guardian features a "plastic netting" system that efficiently captures floating plastic while minimizing harm to marine life. Once full, the vessel returns to a nearby collection station where the compacted plastic is offloaded, ready for recycling or proper disposal. The Ocean Guardian fleet aims to progressively reduce the adverse impact of plastic waste on our ocean ecosystems.

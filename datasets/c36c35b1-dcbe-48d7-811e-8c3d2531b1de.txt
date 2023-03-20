@@ -1,0 +1,88 @@
+4. Instruction: Write a weather forecast using the weather conditions provided.
+4. Input: 
+City: New York City; Temperature: 75°F (24°C); Condition: Partly cloudy; Humidity: 60%; Wind: South at 10 mph (16 km/h); Chance of precipitation: 20%
+4. Output: 
+Today in New York City, expect partly cloudy skies with a mild temperature of 75°F (24°C). Humidity will be around 60%, making it comfortably dry. Winds will be blowing from the south at 10 mph (16 km/h), providing a gentle breeze. There is a 20% chance of precipitation today, so be prepared for a slight chance of showers, but overall, it should be a pleasant day.
+
+5. Instruction: Write a brief summary of the key features of the product.
+5. Input: 
+The new Magic Blender Pro is an advanced kitchen appliance designed to enhance your culinary experience. With its powerful 1500-watt motor and specially designed stainless-steel blades, the blender grants restaurant-quality results with minimal effort. It offers multiple settings such as chopping, smoothies, pulsing, and ice crushing, making it suitable for a variety of tasks. The 8-cup capacity blending jar is dishwasher-safe, durable, and BPA-free, allowing for safe and easy cleanup. The Blender Pro also comes with a 5-year limited warranty, ensuring peace of mind and long-term satisfaction for customers.
+5. Output: 
+The Magic Blender Pro offers a 1500-watt motor, stainless-steel blades, and multiple settings to provide restaurant-quality results. Its 8-cup capacity jar is dishwasher-safe and BPA-free for easy cleanup and safe use. The blender includes a 5-year limited warranty for customer satisfaction.
+
+6. Instruction: Identify the type of logical fallacy present in the statement.
+6. Input: 
+"If you don't support the government's new plan to cut taxes, you're clearly not patriotic."
+6. Output: 
+False Dichotomy (either/or fallacy)
+
+7. Instruction: Write a brief movie plot based on the given keywords.
+7. Input: 
+Mysterious island, treasure hunt, eccentric billionaire, adventurers, ancient curse
+7. Output: 
+A group of adventurers, led by an eccentric billionaire, embarks on a thrilling journey to a mysterious island in search of a legendary lost treasure. As they navigate through the island's treacherous terrain and solve ancient puzzles, they unknowingly unleash an ancient curse that threatens their lives and forces them to confront their deepest fears. They must now band together to break the curse and uncover the island's hidden secrets before it's too late.
+
+8. Instruction: Convert the following information into a haiku (5-7-5 syllable pattern).
+8. Input: 
+The leaves are turning red; there's a chill in the air; autumn is here at last.
+8. Output: 
+Leaves turning to red
+Chilly whispers through the air
+Autumn has arrived
+
+9. Instruction: Tell me how long it takes light to travel from the Moon to the Earth.
+9. Input: 
+<noinput>
+9. Output: 
+Light from the Moon takes approximately 1.28 seconds to travel to the Earth.
+
+10. Instruction: Translate the English sentence into French.
+10. Input: 
+Do you know where the nearest restaurant is?
+10. Output: 
+Savez-vous où se trouve le restaurant le plus proche?
+
+11. Instruction: Proofread and correct the grammar mistakes in the text.
+11. Input: 
+We has discussed about the marketing plan yesturday, but their were some important points we need's to review today. It's also neccessary to analyse the data carefulli and finding any errors before we proceed.
+11. Output: 
+We discussed the marketing plan yesterday, but there were some important points we need to review today. It's also necessary to analyze the data carefully and find any errors before we proceed.
+
+12. Instruction: Name three key differences between dogs and wolves.
+12. Input: 
+<noinput>
+12. Output: 
+1. Domestication: Dogs are domesticated, while wolves are wild.
+2. Socialization: Dogs are more socialized with humans, whereas wolves are not.
+3. Physical features: Dogs have more varied physical features due to selective breeding, while wolves have a more consistent build and appearance.
+
+13. Instruction: What is the current status of the problem?
+13. Input: 
+We recently noticed a high number of software crashes causing the user interface to freeze, requiring manual restarts. Our engineers have collected the necessary data and are working on finding the root cause.
+13. Output: 
+The current status of the problem is that the engineers are analyzing the collected data to determine the root cause of the software crashes causing the user interface to freeze.
+
+14. Instruction: Suggest three measures to conserve water at home.
+14. Input: 
+<noinput>
+14. Output: 
+1. Fix any leaking taps and pipes.
+2. Use a water-saving showerhead and take shorter showers.
+3. Only run dishwashers and washing machines with full loads.
+
+15. Instruction: Calculate the gravitational force between two objects.
+15. Input: 
+Mass of object 1 = 10 kg, Mass of object 2 = 20 kg, Distance between the objects = 2 meters, Gravitational constant (G) = 6.674 × 10^-11 N(m/kg)^2
+15. Output: 
+The gravitational force formula is F = G * ((m1 * m2) / r^2). Substituting the values:
+F = (6.674 × 10^-11 N(m/kg)^2) * ((10 kg * 20 kg) / (2 m)^2)
+F = (6.674 × 10^-11) * (200 / 4)
+F = 3.34 * 10^-10 N
+The gravitational force between the two objects is 3.34 * 10^-10 N.
+
+16. Instruction: Create a funny and original joke.
+16. Input: 
+<noinput>
+16. Output: 
+Why did the hipster refuse to swim in the main pool?
+Because he only does things in the "current" stream!

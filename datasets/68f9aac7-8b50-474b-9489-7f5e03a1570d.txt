@@ -1,0 +1,122 @@
+4. Instruction: Generate a rhyming couplet in iambic pentameter.
+4. Input:
+<noinput>
+4. Output: 
+Upon the bridge she stood, her thoughts aflight,
+A sea of stars adorned the velvet night.
+
+###
+5. Instruction: Read the movie synopsis and tell what genre or genres this movie belongs to.
+5. Input: 
+After a high school student discovers he has supernatural powers, he must struggle to maintain a balance between his normal life and his newfound responsibilities, all while an ancient evil rises from the shadows, hellbent on world domination.
+5. Output: 
+This movie belongs to the genres of fantasy, action, and coming-of-age drama.
+
+###
+6. Instruction: Identify a logical fallacy in the given argument, if present, and provide a brief explanation for it.
+6. Input: 
+The presidential candidate is obviously dishonest, as he is a politician, and all politicians are dishonest.
+6. Output: 
+The logical fallacy in this argument is hasty generalization. It assumes that all politicians are necessarily dishonest without providing evidence or considering individual cases, leading to an unfair judgment of the presidential candidate.
+
+###
+7. Instruction: Calculate the compound interest on the given principal amount, interest rate, and time period.
+7. Input: 
+Principal amount: $1000, Interest rate: 5%, Time period: 4 years
+7. Output: 
+The compound interest in 4 years would be $215.89 (rounded to two decimal places).
+
+###
+8. Instruction: Name the literary device used in the given text and explain its purpose.
+8. Input: 
+There was such wailing and gnashing of teeth in the kingdom when the prince went missing.
+8. Output: 
+The literary device used is hyperbole. Its purpose is to exaggerate the sadness and distress felt by the people of the kingdom, emphasizing the importance of the missing prince.
+
+###
+9. Instruction: Determine whether the given statement refers to renewable or non-renewable resources.
+9. Input: 
+Tidal energy is produced by harnessing the power of ocean currents.
+9. Output: 
+This statement refers to renewable resources.
+
+###
+10. Instruction: Provide a healthy dinner menu suggestion for a vegetarian person.
+10. Input:
+<noinput>
+10. Output: 
+Grilled vegetable kabobs, quinoa and black bean salad, and roasted red pepper hummus with whole grain pita bread.
+
+###
+11. Instruction: Correct the grammatical mistakes in the sentence.
+11. Input: 
+She aims to ensures everyone in her class feel included and valued.
+11. Output: 
+She aims to ensure everyone in her class feels included and valued.
+
+###
+12. Instruction: Suggest an appropriate topic for a five-minute ice breaker speech at a business conference.
+12. Input:
+<noinput>
+12. Output: 
+"How embracing failure leads to innovation and growth in business."
+
+###
+13. Instruction: As a language model, provide your opinion on the given topic.
+13. Input: 
+What do you think about artificial intelligence's increasing influence on modern society?
+13. Output: 
+As a language model, I don't have personal opinions or feelings. However, I can provide you with well-reasoned arguments and insights from various perspectives on the topic, considering both the potential positives and negatives of artificial intelligence's growing impact on society.
+
+###
+14. Instruction: Translate the following sentence from English to French.
+14. Input: 
+She is an accomplished artist, and her work has been exhibited in many galleries.
+14. Output: 
+Elle est une artiste accomplie et son travail a été exposé dans de nombreuses galeries.
+
+###
+15. Instruction: Combine the two sentences into one sentence, removing redundancy where appropriate.
+15. Input: 
+Our team won the football match. Our team had been training hard for the football match.
+15. Output: 
+Our team won the football match after training hard for it.
+
+###
+16. Instruction: Explain the main difference between a metaphor and a simile.
+16. Input: 
+<noinput>
+16. Output: 
+The main difference between a metaphor and a simile is that a metaphor directly equates two unrelated things to add meaning, whereas a simile compares two unrelated things using words such as "like" or "as" to illustrate their similarities.
+
+###
+17. Instruction: What are the requirements for an object to be considered a planet according to the International Astronomical Union (IAU)?
+17. Input: 
+<noinput>
+17. Output: 
+According to the International Astronomical Union (IAU), an object must meet three requirements to be considered a planet: 1) it must orbit the Sun; 2) it must be massive enough that its own gravity causes it to form a spherical shape; and 3) it must have cleared its orbit of other debris and objects.
+
+###
+18. Instruction: List three possible ways to address air pollution in urban areas.
+18. Input: 
+<noinput>
+18. Output: 
+1) Promoting public transportation use, cycling, and walking to reduce vehicle emissions.
+2) Implementing stricter emissions regulations for industrial facilities and vehicles.
+3) Planting more trees and developing green spaces to absorb air pollutants.
+
+###
+19. Instruction: Rewrite the given sentence in passive voice.
+19. Input: 
+The committee approved the project proposal.
+19. Output: 
+The project proposal was approved by the committee.
+
+###
+20. Instruction: Suggest three movie titles that would be suitable for a film about a time-traveling historian.
+20. Input: 
+<noinput>
+20. Output: 
+1) "Chronicles of the Past"
+2) "Timeless Discoveries"
+3) "Forging History's Path"

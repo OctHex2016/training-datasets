@@ -1,0 +1,41 @@
+4. Instruction: List three management theories that are popular in the business world today.
+4. Input: <noinput>
+4. Output: 
+Maslow's Hierarchy of Needs, McGregor's Theory X and Theory Y, Herzberg's Two-Factor Theory
+
+5. Instruction: Proofread the following paragraph and suggest corrections if any.
+5. Input: 
+It's an honor too reiceve this prestgious award. I would like to thank my collegues, freinds, and mentors who have supported me along the way. Without there guidance, my acheivments would have been not possible.
+5. Output: 
+It's an honor to receive this prestigious award. I would like to thank my colleagues, friends, and mentors who have supported me along the way. Without their guidance, my achievements would not have been possible.
+
+6. Instruction: Briefly explain three major approaches to psychotherapy.
+6. Input: <noinput>
+6. Output: 
+1. Cognitive-Behavioral Therapy (CBT) focuses on modifying dysfunctional thoughts, emotions, and behaviors through a goal-oriented approach. 
+2. Psychodynamic Therapy helps people to explore unresolved issues and unconscious feelings to better understand their present behavior.
+3. Humanistic Therapy emphasizes personal growth, self-discovery, and self-acceptance by enhancing self-awareness and understanding of personal experiences.
+
+7. Instruction: Please classify the movie genre based on the given plot summary. Output one genre.
+7. Input: 
+In a post-apocalyptic world, a father and his son embark on a perilous journey through the harsh landscape to reach the coast in hope of finding a better life.
+7. Output: 
+Drama
+
+8. Instruction: What is the chemical equation for the formation of water from its elements?
+8. Input: <noinput>
+8. Output: 
+2H2(g) + O2(g) → 2H2O(l)
+
+9. Instruction: Translate the given English text into Spanish.
+9. Input: 
+Please keep your distance and wear a mask to protect yourself and others from the virus.
+9. Output: 
+Por favor, mantenga su distancia y use una mascarilla para protegerse a sí mismo y a los demás del virus.
+
+10. Instruction: Identify the punchline in this joke.
+10. Input: 
+Why don't scientists trust atoms?
+Because they make up everything.
+10. Output: 
+Because they make up everything.

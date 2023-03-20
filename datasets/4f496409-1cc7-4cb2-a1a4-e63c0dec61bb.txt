@@ -1,0 +1,127 @@
+4. Instruction: Rearrange the following words to form a meaningful sentence.
+4. Input:
+garden the lizard in green spotted the
+4. Output:
+The spotted green lizard is in the garden.
+
+###
+5. Instruction: Name three authors of the science fiction genre and one of their most popular books.
+5. Input: 
+<noinput>
+5. Output:
+- Isaac Asimov: Foundation
+- Frank Herbert: Dune
+- Ray Bradbury: Fahrenheit 451
+
+###
+6. Instruction: Paraphrase the given sentence.
+6. Input: 
+Modern technology has radically transformed the ways in which we communicate.
+6. Output:
+Contemporary devices have significantly altered how people interact with each other.
+
+###
+7. Instruction: Convert the following paragraph to first person narration.
+7. Input: 
+John went to the market to buy groceries. As he drove back home, his phone rang. His wife wanted to remind him about the party they were attending tonight.
+7. Output:
+I went to the market to buy groceries. As I drove back home, my phone rang. My wife wanted to remind me about the party we were attending tonight.
+
+###
+8. Instruction: Is the following an example of personification? Yes or no?
+8. Input: 
+The wind whispered through the trees.
+8. Output:
+Yes
+
+###
+9. Instruction: Correct the grammar and punctuation errors in the following sentence.
+9. Input: 
+so we made some cookies, ate them; and played a game
+9. Output:
+So, we made some cookies, ate them, and played a game.
+
+###
+10. Instruction: What is the summary of the given story in 3-4 sentences?
+10. Input: 
+Once there lived a great lion in a deep jungle. Instead of hunting, the lion would threaten other animals to bring him food. One day, a clever hare came up with a plan and volunteered to go to the lion. When the hare reached the lion, he told him that another lion in the jungle had tried to eat him. The lion, enraged, demanded to see the other lion. The clever hare led him to a well and pointed at the reflection of the lion in the water. The lion, thinking it was a real lion, jumped into the well and drowned, thus saving all the animals in the jungle.
+10. Output:
+In a jungle, a great lion threatened other animals to bring him food. A clever hare volunteered to be his next prey, devising a plan to save the animals. The hare convinced the lion that there was another lion threatening him, leading him to a well. Fooled by his own reflection, the lion jumped in and drowned, freeing the animals from his tyranny.
+
+###
+11. Instruction: Continue the story from the given sentence in a fantasy context.
+11. Input:
+It was a foggy morning when Max stumbled upon a mysterious ancient gate in the heart of the forest.
+11. Output:
+As Max approached the gate, he noticed that it was adorned with intricate carvings of mythical creatures and glowing runes. Unbeknownst to him, the gate was a portal to another realm, hidden for centuries. As Max reached out to touch the engravings, a sudden burst of light engulfed him. When the light dissipated, Max found himself standing in a magnificent kingdom of floating islands, whimsical creatures, and enchanting sights unlike anything he had ever seen before.
+
+###
+12. Instruction: Which word best describes the tone of the given sentence: somber, cheerful, or neutral?
+12. Input:
+Today, the weather is warm and sunny, with a gentle breeze.
+12. Output:
+Cheerful
+
+###
+13. Instruction: Identify which figure of speech the provided sentence uses: simile or metaphor?
+13. Input:
+The stars are twinkling diamonds in the sky.
+13. Output:
+Metaphor
+
+###
+14. Instruction: Construct a haiku about nature.
+14. Input:
+<noinput>
+14. Output:
+Majestic mountains,
+Whispers of the flowing stream,
+Nature's symphony.
+
+###
+15. Instruction: List six popular subgenres of the mystery novel.
+15. Input:
+<noinput>
+15. Output:
+1. Detective fiction
+2. Cozy mystery
+3. Police procedural
+4. Legal thriller
+5. Hardboiled mystery
+6. Historical mystery
+
+###
+16. Instruction: Translate the following English sentence to French.
+16. Input:
+I would like a cup of coffee with milk, please.
+16. Output:
+Je voudrais une tasse de café avec du lait, s'il vous plaît.
+
+###
+17. Instruction: Convert the Celsius temperature to Fahrenheit and round to the nearest whole number.
+17. Input:
+25 °C
+17. Output:
+77 °F
+
+###
+18. Instruction: Identify the correct spelling of the following words: 1) hare, 2) rappid
+18. Input:
+<noinput>
+18. Output:
+1) hare
+2) rapid
+
+###
+19. Instruction: Compare and contrast online education and traditional classroom learning in a few sentences.
+19. Input:
+<noinput>
+19. Output:
+Online education provides students with flexibility, allowing them to learn anytime and anywhere, while traditional classroom learning follows a fixed schedule at a physical location. Both methods foster interaction, but online learning mainly relies on virtual discussions and email communication, whereas traditional learning encourages face-to-face interactions. Traditional classroom learning may have quicker feedback from teachers, while online education might experience a delay in response time.
+
+###
+20. Instruction: Give an analysis of the current economic situation of a fictional country called Xyrstan.
+20. Input:
+Xyrstan has recently focused on the development of renewable energy resources, including solar and wind power in response to growing energy demands. Inflation remains steady at 2.5%, with unemployment below 10%. The nation's GDP shows a 5% growth in the past year, and they are experiencing a trade surplus. However, there are concerns regarding income disparity and the increasing reliance on the energy sector.
+20. Output:
+Xyrstan is taking a forward-thinking approach by focusing on renewable energy resources, aligning with global sustainability trends. The nation's stable inflation, controlled unemployment rates, and 5% GDP growth signify a stable economy with potential growth. The trade surplus also suggests a competitive edge in its exports. However, the concerns of income disparity and over-reliance on the energy sector could indicate potential vulnerabilities if unaddressed. Diversifying its economy and implementing policies to close the income gap would help ensure long-term stability and prosperity for Xyrstan.

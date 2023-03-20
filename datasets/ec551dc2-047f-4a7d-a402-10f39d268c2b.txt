@@ -1,0 +1,110 @@
+4. Instruction: Given a short phrase, write a longer story incorporating that phrase. 
+4. Input: 
+Phrase: Lost in the woods 
+4. Output: 
+Mary had always been adventurous, but this time she had ventured further than ever before. She was on a solo camping trip and decided to go for a hike. The problem was that she didn’t tell anyone where she was going. After hours of wandering in the forest, she realized she was lost. The sun had set and it was getting dark. She tried to retrace her steps, but she only ended up going deeper into the woods. Panic set in, but she knew she had to remain calm. She eventually found a clearing and set up camp for the night. She spent a restless night hoping to be found. The next morning, Mary set off on what she hoped was the right path. Eventually, she heard a search party and their calls. She had never been so relieved in her life.
+###
+5. Instruction: Given a short paragraph, summarize the main points.
+5. Input: 
+There are several benefits to drinking coffee including enhanced cognitive function and a reduced risk of heart disease. Studies have also shown that coffee drinkers have a decreased risk of developing type 2 diabetes and liver cancer. Some of the drawbacks of drinking coffee include elevated heart rate and blood pressure. Excessive coffee consumption is also associated with increased anxiety and insomnia.
+5. Output: 
+Coffee provides numerous advantages, including improving cognitive function and reducing the risk of heart disease, type 2 diabetes, and liver cancer. It is important to be aware of the potential downsides, such as elevated heart rate and blood pressure, as well as increased anxiety and insomnia with excessive consumption. 
+###
+6. Instruction: Given a question, provide the best answer from the provided options. 
+6. Input: 
+Question: Who developed the 4 stages of cognitive development? 
+Options: Jean Piaget, Erik Erikson, B.F. Skinner, Ivan Pavlov 
+6. Output: 
+Jean Piaget 
+###
+7. Instruction: Given a statement, rewrite it with better grammar. 
+7. Input: 
+Statement: Me and him went to the store. 
+7. Output: 
+He and I went to the store. 
+###
+8. Instruction: Given a sentence, rewrite it in the passive voice. 
+8. Input: 
+Sentence: The company will acquire the startup. 
+8. Output: 
+The startup will be acquired by the company. 
+###
+9. Instruction: Given a sentence, replace a word with its synonym. 
+9. Input: 
+Sentence: The cat meowed loudly. 
+Synonym: screeched 
+9. Output: 
+The cat screeched loudly. 
+###
+10. Instruction: Given a phrase, generate a rhyming couplet. 
+10. Input: 
+Phrase: Sunny day 
+10. Output: 
+The sun was shining, it was a beautiful day
+I could feel the warmth on my face, as I went along my way
+###
+11. Instruction: Given a sentence, replace the adjective with its antonym. 
+11. Input: 
+Sentence: The weather is hot and humid. 
+Antonym: cold 
+11. Output: 
+The weather is cold and dry. 
+###
+12. Instruction: Given a sentence, insert a missing preposition or article. 
+12. Input: 
+Sentence: I talked ___ Antonio on phone. 
+12. Output: 
+I talked to Antonio on the phone. 
+###
+13. Instruction: Write a haiku about autumn. 
+13. Input: 
+<noinput> 
+13. Output: 
+Leaves in shades of red
+Falling gently to the ground
+Autumn is here now
+###
+14. Instruction: Given a phrase, write a synonym and antonym respectively. 
+14. Input: 
+Phrase: Rare opportunity 
+14. Output: 
+Synonym: Uncommon chance
+Antonym: Ordinary likelihood
+###
+15. Instruction: Given a sentence, reorder the words to form a question. 
+15. Input: 
+Sentence: The concert starts at 8 PM. 
+15. Output: 
+At what time does the concert start? 
+###
+16. Instruction: Given a sentence, change the verb tense. 
+16. Input: 
+Sentence: She is cooking dinner. 
+New tense: past continuous 
+16. Output: 
+She was cooking dinner. 
+###
+17. Instruction: Given a sentence with a missing word, fill in the blank. 
+17. Input: 
+Sentence: I love ___ by the ocean. 
+Missing word: being 
+17. Output: 
+I love being by the ocean. 
+###
+18. Instruction: Given a phrase, write a metaphor. 
+18. Input: 
+Phrase: The sun is shining. 
+18. Output: 
+The sun is a golden spotlight, illuminating the world below. 
+###
+19. Instruction: Given a sentence, rewrite it in a negative form. 
+19. Input: 
+Sentence: She will arrive at the airport by 6 PM. 
+19. Output: 
+She will not arrive at the airport by 6 PM. 
+###
+20. Instruction: Given a sentence, remove the unnecessary words to make it more concise. 
+20. Input: 
+Sentence: The reason why I didn't show up for the meeting is because I had a family emergency. 
+20. Output: 
+I didn't show up for the meeting due to a family emergency.

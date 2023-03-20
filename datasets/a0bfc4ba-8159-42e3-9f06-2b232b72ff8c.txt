@@ -1,0 +1,100 @@
+4. Instruction: Remove grammatical errors and rewrite the given sentence. 
+4. Input: 
+me and mah frnd r plaanning an evnt as cause for raising fund.
+4. Output: 
+My friend and I are planning an event as a cause for raising funds.
+###
+5. Instruction: Formulate the main idea of the text into a concise sentence. 
+5. Input: 
+Climate change is impacting the world in various ways, including more frequent and severe extreme weather events, such as hurricanes, heatwaves, and wildfires. Apart from melting polar ice caps and rising sea levels, climate change has also disrupted ecosystems and led to a decline in biodiversity. Due to human activities, primarily greenhouse gas emissions from fossil fuel combustion, deforestation, and land-use change, climate change is progressing rapidly and threatens our planet's delicate balance.
+5. Output: 
+Climate change, fueled by human activities, is causing diverse impacts including extreme weather, melting ice caps, and biodiversity loss, threatening Earth's delicate balance.
+###
+6. Instruction: Translate the sentence to Spanish. 
+6. Input: 
+I am planning to start learning Spanish next week.
+6. Output: 
+Planeo comenzar a aprender español la próxima semana.
+###
+7. Instruction: Describe the plot of the film in two or three sentences.
+7. Input: 
+The Shawshank Redemption
+7. Output: 
+Banker Andy Dufresne is wrongly convicted of murdering his wife and her lover and is sentenced to life in Shawshank State Penitentiary. Over the years, he forms a close friendship with fellow inmate Ellis 'Red' Redding, and through patience and ingenuity, Andy orchestrates an unlikely escape from prison.
+###
+8. Instruction: Reorder the words to create a coherent sentence.
+8. Input: 
+pieces jigsaw scattered were the all floor of over
+8. Output: 
+The jigsaw pieces were scattered all over the floor.
+###
+9. Instruction: Analyze the given argument and determine if it's valid or not.
+9. Input: 
+All humans are mammals. All whales are mammals. Therefore, all humans are whales.
+9. Output: 
+Invalid
+###
+10. Instruction: Recommend an Italian dish based on the given ingredients.
+10. Input: 
+tomatoes, garlic, basil, olive oil, spaghetti
+10. Output: 
+Spaghetti alla Napoletana11. Instruction: Provide a hypothesis for the given research question.
+11. Input: 
+Do artistic people have different spatial awareness than non-artistic people?
+11. Output: 
+Artistic individuals may possess heightened spatial awareness compared to non-artistic individuals, allowing them to excel in their creative endeavors.
+###
+12. Instruction: Write a short congratulations message for someone's job promotion. 
+12. Input: 
+<noinput>
+12. Output: 
+Congratulations on your well-deserved promotion! Your hard work and dedication have truly paid off. I wish you continued success in your new role!
+###
+13. Instruction: Suggest a tourist destination for the following preferences.
+13. Input: 
+historical places, picturesque views, European destination
+13. Output: 
+Prague, Czech Republic
+###
+14. Instruction: Create a 5-letter word using the given scrambled letters.
+14. Input: 
+etrda
+14. Output: 
+Rated
+###
+15. Instruction: Provide a possible region of origin and ingredients for the given dish.
+15. Input: 
+Sushi
+15. Output: 
+Region of origin: Japan
+Ingredients: raw fish, vinegared rice, nori (seaweed), vegetables
+###
+16. Instruction: Identify the poetic device used in the given phrase.
+16. Input: 
+Time flies like an arrow
+16. Output: 
+Simile
+###
+17. Instruction: Explain the meaning of the given idiom.
+17. Input: 
+At the drop of a hat
+17. Output: 
+To do something immediately, without hesitation or delay
+###
+18. Instruction: Determine the tense of the given verb.
+18. Input: 
+wrote
+18. Output: 
+Past simple
+###
+19. Instruction: Calculate the percentage increase/decrease between the old and new values.
+19. Input: 
+Old Value: 150, New Value: 120
+19. Output: 
+20% decrease
+###
+20. Instruction: Give a fitting example of a metaphor.
+20. Input: 
+<noinput>
+20. Output: 
+The world is a stage, and we are all actors.

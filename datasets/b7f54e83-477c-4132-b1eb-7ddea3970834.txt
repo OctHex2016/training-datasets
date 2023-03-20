@@ -1,0 +1,153 @@
+
+
+4. Instruction: Edit the given sentence by replacing the adjective with a synonym.
+4. Input: 
+The cake was delicious.
+4. Output: 
+The cake was delectable. 
+###
+5. Instruction: Generate the lyrics of a song with a given theme.
+5. Input: 
+Theme: Love and heartbreak
+5. Output: 
+Verse 1: 
+You always taught me how to love
+But now I'm feeling so burned out
+All the things we had, they're gone
+I'm feeling so torn apart
+
+Chorus:
+Love is a battlefield 
+Been here before, I know the drill 
+Heartbreak, make me feel 
+Loving you, still but losing will
+
+Verse 2:
+Every moment felt so real 
+Now it feels like such a steal 
+My heart is breaking, I can't breathe 
+I'm feeling so incomplete 
+###
+6. Instruction: Generate a recipe for a given type of cuisine.
+6. Input: 
+Thai cuisine
+6. Output: 
+Thai Green Curry
+Ingredients:
+2 cups cooked jasmine rice
+1 tablespoon canola oil
+1 pound boneless and skinless chicken thighs, sliced
+Salt and pepper to taste
+1/4 cup diced onion
+2 tablespoons green curry paste
+2 tablespoons fish sauce
+1 teaspoon honey
+1 1/4 cups coconut milk
+1/4 cup roughly chopped cilantro
+
+Directions:
+1. Heat canola oil in a large skillet over medium heat.
+2. Add chicken and season with salt and pepper.
+3. Cook until browned on all sides, about 5-7 minutes.
+4. Add diced onion and continue cooking for another 3-4 minutes.
+5. Add green curry paste, fish sauce, and honey to the skillet.
+6. Stir to combine and cook for 2 minutes.
+7. Add coconut milk to the skillet and bring to a simmer.
+8. Reduce heat and let the curry simmer for 10-15 minutes, stir occasionally.
+9. Serve over cooked jasmine rice and garnish with roughly chopped cilantro
+###
+7. Instruction: Generate the punchline to a given joke setup. 
+7. Input: 
+Why don't scientists trust atoms?
+7. Output: 
+Because they make up everything. 
+###
+8. Instruction: Rewrite the following sentence using a passive voice structure.
+8. Input: 
+The cat chased the mouse.
+8. Output: 
+The mouse was chased by the cat. 
+###
+9. Instruction: Generate a summary of a given news article.
+9. Input: 
+https://www.nytimes.com/2021/05/02/sports/soccer/super-league-collapse.html
+9. Output: 
+Multiple teams have left the Super League now after receiving backlash from fans and players. This league has been one of the most controversial things to happen in soccer and has been causing upheaval for many teams. However, despite the recent collapse, the idea of the league has caused some clubs that were part of it to be under scrutiny. 
+###
+10. Instruction: Determine the sentiment of a given text.
+10. Input: 
+"The movie was amazing and I loved it."
+10. Output: 
+Positive 
+###
+11. Instruction: Generate a description of a novel based on its cover art.
+11. Input: 
+Image of a cover art with a dragon and a knight in the background.
+11. Output: 
+This epic journey takes you on a wild ride full of adventure. A young knight braves the unknown, battling fierce monsters and cunning wizards, all to save his love from an ever-looming threat. The dragon looms in the background, a formidable foe that will test our hero to his very limits. Will his love be enough to conquer it all? 
+###
+12. Instruction: Generate the translation of a word/phrase from English to a given language.
+12. Input: 
+Translate "hello" to Spanish.
+12. Output: 
+Hola
+###
+13. Instruction: Generate a tweet about a current event.
+13. Input: 
+2020 Tokyo Olympics 
+13. Output: 
+Looking forward to the 2020 Tokyo Olympics! The world is coming together in sport and it's always amazing to see the talents on display. #olympics #sports #tokyo2020
+###
+14. Instruction: Generate a series of trivia questions about a given topic.
+14. Input: 
+US Presidents
+14. Output: 
+1. Who was the first president of the United States?
+2. Who was the president during the Civil War?
+3. Which president is commonly known as the "Great Communicator"?
+4. Who served as president during the era of World War II?
+5. Which president was impeached but ultimately remained in office?
+###
+15. Instruction: Generate an argument in favor/against a given statement.
+15. Input: 
+Should college athletes be paid?
+15. Output: 
+For: College athletes bring in a lot of revenue for universities, yet they don't receive any compensation for their contributions. Given the risk of injury and the amount of time and effort they put in, it's only fair that they are compensated for their work. This would allow them to focus on their sports and their studies without the added stress of financial insecurity. 
+
+Against: College athletes already receive scholarship money and other benefits, such as travel and access to top coaches. Paying them would blur the line between amateur and professional sports, it would be difficult to implement a fair pay scale, and not all sports bring in enough revenue to justify paying their athletes. Furthermore, paying college athletes would take money away from other educational programs, which would be a net negative for the university as a whole. 
+###
+16. Instruction: Summarize a given paragraph.
+16. Input: 
+The witness provided key testimony that significantly implicates the defendant in the crime. Her testimony was corroborated by several other witnesses, and she was able to provide details that only someone who was present at the scene of the crime would know. Furthermore, her testimony is consistent with the physical evidence recovered by the police, which strengthens the case against the defendant.
+16. Output: 
+The witness's testimony was backed up by several others, and the details she knew could only have come from someone present during the crime. The testimony also matched the physical evidence recovered, which supported the case against the defendant. 
+###
+17. Instruction: Provide a definition of a given term.
+17. Input: 
+What is socialism?
+17. Output: 
+Socialism is an economic and political system that seeks to eliminate inequality by having the government control industries and distribute resources more equally among members of society. 
+###
+18. Instruction: Generate a summary of a movie based on its title.
+18. Input: 
+Title: Inception
+18. Output: 
+Inception is a mind-bending thriller that explores the idea of entering the dreams of others in order to influence their actions. When a team of thieves is tasked with planting an idea in the mind of a powerful business magnate, they find that the line between reality and dreams is blurrier than they ever imagined. With stunning visuals and a twisty plot, Inception will keep you on the edge of your seat until the very end. 
+###
+19. Instruction: Generate a question and answer pair for a trivia game.
+19. Input: 
+Category: Literature 
+19. Output: 
+Q: What is the title of Harper Lee's only published novel? 
+A: To Kill a Mockingbird. 
+###
+20. Instruction: Generate a list of steps to complete a given task.
+20. Input: 
+How to make iced coffee.
+20. Output: 
+1. Brew a pot of coffee and let it cool to room temperature.
+2. Fill a glass with ice.
+3. Pour the coffee over the ice.
+4. Add milk or creamer to the desired taste.
+5. Sweeten with sugar or syrups if desired.
+6. Stir well and enjoy your refreshing iced coffee.

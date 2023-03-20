@@ -1,0 +1,139 @@
+4. Instruction: Convert the given text into a formal letter.
+4. Input: 
+Hey, John! Here's that contract we talked about before. If you could add those revisions and send it my way when done, that'd be great! Thanks!
+4. Output: 
+Dear Mr. John,
+
+I hope this letter finds you well. I am writing to attach the contract we discussed during our recent conversation. If you could kindly review and incorporate the necessary revisions, I would greatly appreciate your efforts.
+
+Once you have completed the revisions, please send the revised contract back to me for further review. Thank you for your time and effort in addressing this matter.
+
+Sincerely,
+
+[Your Name]
+
+###
+5. Instruction: Summarize the given text in one sentence.
+5. Input: 
+The study examined the effects of caffeine on reaction times and cognitive performance in older adults. The results showed an improvement in reaction times and a slight increase in cognitive performance when compared to the control group.
+5. Output: 
+The study revealed that caffeine improved reaction times and slightly enhanced cognitive performance in older adults.
+
+###
+6. Instruction: Write a haiku based on the given theme.
+6. Input: 
+Autumn leaves.
+6. Output: 
+Golden leaves descend,
+Whispers of a season's end,
+Nature's artful blend.
+
+###
+7. Instruction: Translate the given English text to French.
+7. Input: 
+Where is the nearest train station?
+7. Output: 
+Où se trouve la gare la plus proche?
+
+###
+8. Instruction: Identify the literary device used in the given sentence.
+8. Input: 
+A host of golden daffodils.
+8. Output: 
+Imagery.
+
+###
+9. Instruction: What should the user do based on the given error message on their computer?
+9. Input: 
+Error: Insufficient space on disk.
+9. Output: 
+The user should delete or move unnecessary files to free up space or consider upgrading their storage capacity.
+
+###
+10. Instruction: Explain a concept and provide an example.
+10. Input: 
+Simile.
+10. Output: 
+A simile is a figure of speech that compares two different things using the words "like" or "as" to create a vivid image or make a point. For example, "Her smile was as bright as the sun."
+
+###
+11. Instruction: Correct the grammar and punctuation in the given sentence.
+11. Input: 
+Theyre cakes in the pantry; to is fresh fruit in the fridge.
+11. Output: 
+There are cakes in the pantry; there is fresh fruit in the fridge.
+
+###
+12. Instruction: Write the given sentence in passive voice.
+12. Input: 
+The gardener planted flowers.
+12. Output: 
+Flowers were planted by the gardener.
+
+###
+13. Instruction: Restate the given proverb or idiom to make it more understandable to a modern audience.
+13. Input: 
+A stitch in time saves nine.
+13. Output: 
+Fixing a small issue early on can prevent it from becoming a more significant problem later.
+
+###
+14. Instruction: Create a creative name for a fictional business based on the given type of business.
+14. Input: 
+Vegetarian restaurant.
+14. Output: 
+Leafy Delights Café.
+
+###
+15. Instruction: Write a limerick based on the given topic.
+15. Input: 
+A cat in a hat.
+15. Output: 
+There once was a cat in a hat
+Whose feline attire was quite pat
+It would strut and it'd prance
+In its hat-wearing dance
+A dapper and fancy aristocrat!
+
+###
+16. Instruction: What advice would you give someone who is experiencing the given problem?
+16. Input: 
+Struggling with procrastination.
+16. Output: 
+Identify the reasons for the procrastination, break tasks into smaller, manageable steps, prioritize tasks, set deadlines, eliminate distractions, and use motivational techniques such as rewards upon completion of tasks.
+
+###
+17. Instruction: Describe the given object in detail.
+17. Input: 
+A vintage typewriter.
+17. Output: 
+A vintage typewriter is a mechanical writing device, often featuring a weighted body with a glossy paint finish, round keys with individual letter stamps, a type lever that moves with each key press, and a platen roller to hold the paper in place. It has an ink ribbon that transfers ink to the paper and a bell chiming to indicate the end of a line.
+
+###
+18. Instruction: Suggest three activities for a person to do based on their interests.
+18. Input: 
+Likes painting, reading, and jogging.
+18. Output: 
+1. Participate in an outdoor painting workshop or plein air painting sessions.
+2. Join a local book club to discuss and share thoughts with like-minded readers.
+3. Sign up for a charity run or running event to combine the love for jogging with a sense of contributing to a good cause.
+
+###
+19. Instruction: Write a brief conclusion of the given research topic.
+19. Input: 
+The impact of artificial intelligence on the job market.
+19. Output: 
+In conclusion, artificial intelligence has the potential to both enhance and disrupt the job market, with automation and improved efficiency leading to job displacement, while also creating new employment opportunities in areas requiring AI expertise and human judgment.
+
+###
+20. Instruction: Write a tweet to announce the release of a new software update.
+20. Input: 
+<noinput>
+20. Output: 
+🎉 Exciting news! Our latest software update is now live 🔥! Discover enhanced features, improved performance, and slick new designs. Upgrade now and experience the difference for yourself! 🚀 #SoftwareUpdate #NewReleasePlease note: There is an oversight in the instructions provided in Task 17. The numerical formatting style does not match the rest of the tasks. Please find the revised instructions for Task 17 below:
+
+17. Instruction: Describe the given object in detail.
+17. Input: 
+A vintage typewriter.
+17. Output: 
+A vintage typewriter is a mechanical writing device, often featuring a weighted body with a glossy paint finish, round keys with individual letter stamps, a type lever that moves with each key press, and a platen roller to hold the paper in place. It has an ink ribbon that transfers ink to the paper and a bell chiming to indicate the end of a line.

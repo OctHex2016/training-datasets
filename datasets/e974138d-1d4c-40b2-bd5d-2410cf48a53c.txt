@@ -1,0 +1,122 @@
+4. Instruction: Generate a one-sentence summary of the given article.
+4. Input: 
+Article:
+Scientists have discovered a new species of bat in West Africa which has a striking orange and black appearance and the unusual trait of having a horseshoe-shaped nose.
+4. Output: 
+A new species of bat has been found in West Africa with a unique horseshoe-shaped nose and a striking orange and black appearance.
+###
+5. Instruction: Rewrite the given sentence in active voice.
+5. Input: 
+Sentence:
+The ball was thrown by John.
+5. Output: 
+John threw the ball.
+###
+6. Instruction: Given a set of keywords, generate a creative story incorporating all of them.
+6. Input: 
+Keywords: Castle, Potion, Dragon, Knight
+6. Output: 
+Once upon a time, a brave knight entered an enchanted castle to retrieve a magical potion that would help him defeat a fierce dragon that had been terrorizing nearby villages. As he navigated through the castle's treacherous corridors, the knight encountered a series of challenges and obstacles, but he remained steadfast and determined to complete his mission. Eventually, he found the potion and emerged victorious in his battle against the dragon, saving the kingdom and earning the eternal gratitude of its subjects.
+###
+7. Instruction: Given a question, provide a short and simple answer.
+7. Input: 
+Question:
+What is the capital of Italy?
+7. Output: 
+Rome
+###
+8. Instruction: Fill in the blank with an appropriate word.
+8. Input: 
+Sentence: 
+I _____ like to go out for dinner tonight.
+8. Output: 
+would
+###
+9. Instruction: Rearrange the words to form a coherent sentence.
+9. Input: 
+Words:
+the / park / to / we / going / are / later
+9. Output: 
+We are going to the park later.
+###
+10. Instruction: Editing - fix the grammatical error in the given sentence.
+10. Input: 
+Sentence: 
+Me and my friend went to the store.
+10. Output: 
+My friend and I went to the store.
+###
+11. Instruction: Given a topic, generate a set of questions related to the topic.
+11. Input: 
+Topic: Climate Change
+11. Output: 
+1. What is climate change?
+2. What are the causes of climate change?
+3. What are the effects of climate change?
+4. How can we reduce the impact of climate change?
+5. What can individuals do to help fight climate change?
+###
+12. Instruction: Given a word or phrase, generate a list of synonyms.
+12. Input: 
+Word/Phrase: Happy
+12. Output: 
+Joyful, content, pleased, cheerful, delighted, thrilled, elated, ecstatic, euphoric, overjoyed, blissful
+###
+13. Instruction: Fill in the blank with an appropriate preposition.
+13. Input: 
+Sentence:
+I'm going ___ the gym.
+13. Output: 
+to
+###
+14. Instruction: Given a word or phrase, generate a list of antonyms.
+14. Input: 
+Word/Phrase: Big
+14. Output: 
+Small, tiny, little, miniature, compact, minuscule, petite, diminutive, modest, slight, narrow
+###
+15. Instruction: Given two words, determine if they are synonyms, antonyms, or unrelated.
+15. Input: 
+Words: Excited - Enthusiastic
+15. Output: 
+Synonyms
+###
+16. Instruction: Generate a one-word title for the given prompt.
+16. Input: 
+Prompt: A thrilling adventure through a mysterious forest.
+16. Output: 
+Unknown
+###
+17. Instruction: Summarize the plot of the given movie or book.
+17. Input: 
+Movie/Book:
+The Hobbit
+17. Output: 
+The Hobbit is a fantasy novel by J. R. R. Tolkien about the journey of a hobbit named Bilbo Baggins, who embarks on a dangerous mission to reclaim a treasure stolen from a group of dwarves by the dragon Smaug.
+###
+18. Instruction: Given a user query, provide a list of potential answers.
+18. Input: 
+Query: Best pizza places in New York City
+18. Output: 
+1. Di Fara Pizza
+2. Lombardi's Pizza
+3. Joe's Pizza
+4. Patsy's Pizzeria
+5. Motorino
+6. Grimaldi's Pizzeria
+7. Prince Street Pizza
+###
+19. Instruction: Rewrite the given sentence in a different tense.
+19. Input: 
+Sentence: 
+She sings beautifully.
+19. Output: 
+She sang beautifully.
+###
+20. Instruction: Choose the correct word to complete the sentence.
+20. Input: 
+Sentence: 
+I ___ to the store this morning.
+Options: went, gone, go
+20. Output: 
+went

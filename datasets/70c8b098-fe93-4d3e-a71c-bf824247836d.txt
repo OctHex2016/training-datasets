@@ -1,0 +1,122 @@
+4. Instruction: Summarize the provided text in one sentence.
+4. Input: 
+Researchers from the University of California and Stanford University have discovered a new way to convert carbon dioxide into plastics, building materials, and other valuable products using engineered bacteria. This breakthrough could provide important solutions for two pressing environmental issues: reducing greenhouse gas emissions and reducing plastic pollution in the ocean.
+4. Output: 
+The researchers have found a method to convert CO2 into useful materials using engineered bacteria, potentially tackling both greenhouse gas emissions and plastic pollution simultaneously.
+
+5. Instruction: Identify the passive voice in the given sentence and change it to active voice.
+5. Input: 
+The cake was eaten by the kids.
+5. Output: 
+The kids ate the cake.
+
+6. Instruction: Translate the given sentence to French.
+6. Input: 
+Can you please give me directions to the nearest train station?
+6. Output: 
+Pouvez-vous me donner les directions pour la gare la plus proche, s'il vous plaît?
+
+7. Instruction: Recommend three books for someone who is interested in learning about investing in stocks.
+7. Input: 
+<noinput>
+7. Output: 
+1. "The Intelligent Investor" by Benjamin Graham
+2. "A Random Walk Down Wall Street" by Burton G. Malkiel
+3. "One Up On Wall Street" by Peter Lynch
+
+8. Instruction: Calculate the compound interest earned on a $5,000 investment over 5 years at an annual interest rate of 4% compounded annually.
+8. Input: 
+<noinput>
+8. Output: 
+The compound interest earned is $1,082.43.
+
+9. Instruction: List down the steps to make a peanut butter and jelly sandwich.
+9. Input: 
+<noinput>
+9. Output: 
+1. Gather ingredients: bread, peanut butter, jelly, knife, and plate.
+2. Place two slices of bread on the plate.
+3. On one bread slice, spread peanut butter evenly with a knife.
+4. On the other bread slice, spread jelly evenly with a separate knife.
+5. Press the two slices of bread together with the spreads facing each other.
+6. Cut the sandwich into halves or quarters, if desired.
+7. Enjoy your peanut butter and jelly sandwich.
+
+10. Instruction: Explain the main difference between mitosis and meiosis.
+10. Input: 
+<noinput>
+10. Output: 
+The main difference between mitosis and meiosis is that mitosis results in two identical daughter cells, while meiosis results in four genetically unique haploid cells.
+
+11. Instruction: List the five phases of project management.
+11. Input: 
+<noinput>
+11. Output: 
+1. Initiation
+2. Planning
+3. Execution
+4. Monitoring and Control
+5. Closure
+
+12. Instruction: Proofread the given sentence and correct any grammatical errors.
+12. Input: 
+I prefers coffee to tea whenever I wakes up in the morning.
+12. Output: 
+I prefer coffee to tea whenever I wake up in the morning.
+
+13. Instruction: Can you name the four classical elements in ancient philosophy?
+13. Input: 
+<noinput>
+13. Output: 
+1. Fire
+2. Water
+3. Air
+4. Earth
+
+14. Instruction: Rewrite the given sentence in the passive voice.
+14. Input: 
+AI technology is transforming the way businesses operate.
+14. Output: 
+The way businesses operate is being transformed by AI technology.
+
+15. Instruction: Name a famous movie for each of the following genres: action, romance, and science fiction.
+15. Input: 
+<noinput>
+15. Output: 
+Action: Die Hard
+Romance: The Notebook
+Science Fiction: The Matrix
+
+16. Instruction: What is the formula for calculating the area of a circle?
+16. Input: 
+<noinput>
+16. Output: 
+The formula for calculating the area of a circle is A = πr², where A is the area and r is the radius of the circle.
+
+17. Instruction: Explain the greenhouse effect in a few sentences.
+17. Input: 
+<noinput>
+17. Output: 
+The greenhouse effect is a natural process where greenhouse gases, such as carbon dioxide and methane, trap heat within Earth's atmosphere. This trapped heat helps maintain Earth's temperature and supports life. However, human activities have increased greenhouse gas concentrations, causing more heat to be trapped, leading to global warming.
+
+18. Instruction: Compliment the person on their new haircut.
+18. Input: 
+<noinput>
+18. Output: 
+Your new haircut looks fantastic! It really suits your face shape and brings out your best features.
+
+19. Instruction: Convert 157 miles to kilometers using the conversion rate of 1 mile = 1.60934 km.
+19. Input: 
+<noinput>
+19. Output: 
+157 miles is equivalent to 252.66578 kilometers.
+
+20. Instruction: Suggest five topics for a podcast about nutrition.
+20. Input: 
+<noinput>
+20. Output: 
+1. Debunking common nutrition myths
+2. The impact of various diets on health
+3. The science behind food cravings and how to control them
+4. Superfoods and their benefits
+5. Strategies for maintaining a balanced diet on a busy schedule

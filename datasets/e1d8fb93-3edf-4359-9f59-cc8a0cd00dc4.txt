@@ -1,0 +1,93 @@
+4. Instruction: Identify the correct spelling of the given words.
+4. Input: 
+accesible, embarassing, maintanance, aquantance
+4. Output: 
+accessible, embarrassing, maintenance, acquaintance
+###
+
+5. Instruction: What is the main idea of the text?
+5. Input: 
+The concept of machine learning, a subset of artificial intelligence, involves the development of algorithms that allow computers to learn from and make decisions based on data. Instead of being explicitly programmed to complete specific tasks, machine learning systems can analyze patterns within large data sets and make predictions based on those patterns. This enables the systems to adapt and improve over time as they are exposed to more data, potentially making them more efficient and effective than traditional methods.
+5. Output: 
+The main idea is that machine learning is a subset of artificial intelligence that allows computers to learn from and make decisions based on data, enabling them to adapt and improve over time.
+###
+
+6. Instruction: Create an acrostic poem for the word "gratitude".
+6. Input: 
+<noinput>
+6. Output: 
+Gladness in our hearts,
+Rays of sunshine on our face,
+Appreciating life's gifts,
+Thankful for the little things,
+Incline our minds to see the good,
+Trusting in the moments we have,
+Understanding we're not alone,
+Delighting in the joys of living,
+Embracing love and thankfulness.
+###
+
+7. Instruction: Which author wrote this famous quote? Provide the author's full name.
+7. Input: 
+"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+7. Output: 
+Jane Austen
+###
+
+8. Instruction: Name the mistake in the following sentence, and correct it.
+8. Input: 
+The cat were resting on the window ledge, watching the birds fly by.
+8. Output: 
+Mistake: "were" should be "was"
+Corrected: The cat was resting on the window ledge, watching the birds fly by.
+###
+
+9. Instruction: Calculate the tip amount for a $50 dinner bill with a 20% tip.
+9. Input: 
+<noinput>
+9. Output: 
+$10
+###
+
+10. Instruction: Generate a marketing slogan for a new brand of eco-friendly sneakers.
+10. Input: 
+<noinput>
+10. Output: 
+"Step into a greener future with our planet-loving sneakers!"
+###
+
+11. Instruction: Name three essential steps to take when planning a vacation.
+11. Input: 
+<noinput>
+11. Output: 
+1. Choose a destination and dates.
+2. Create a budget and plan activities.
+3. Book accommodations and transportation.
+###
+
+12. Instruction: Is the argument presented in the following text valid? Explain your reasoning.
+12. Input: 
+All birds can fly. Penguins are birds. Therefore, penguins can fly.
+12. Output: 
+The argument is not valid. The premise "all birds can fly" is incorrect, as there are exceptions, such as penguins, which cannot fly. This false premise leads to an incorrect conclusion.
+###
+
+13. Instruction: Rearrange the given words to form a meaningful question.
+13. Input: 
+invention electricity most important
+13. Output: 
+What is the most important invention in electricity?
+###
+
+14. Instruction: Provide a synonym for the given word.
+14. Input: 
+incredible
+14. Output: 
+astonishing
+###
+
+15. Instruction: How does sunlight assist the process of photosynthesis in plants?
+15. Input: 
+<noinput>
+15. Output: 
+Sunlight is the energy source that plants use during photosynthesis to convert carbon dioxide and water into glucose and oxygen. Chlorophyll, the green pigment in plant cells, absorbs sunlight and uses its energy to carry out the chemical reactions involved in photosynthesis.

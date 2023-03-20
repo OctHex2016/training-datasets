@@ -1,0 +1,59 @@
+4. Instruction: Rewrite the paragraph in a more professional and formal tone.
+4. Input: 
+Hey, it's no big deal, but we kinda messed up the numbers in the report. Could you, like, fix 'em and let us know if anything is seriously wrong? Thanks, buddy.
+4. Output: 
+Dear colleague, it has come to our attention that there may be some discrepancies in the figures presented in the report. Please kindly review and rectify any inaccuracies, and inform us if there are any significant errors. We appreciate your assistance.
+
+###
+5. Instruction: Estimate the calories burned during a 30-minute walk for a person weighing 68 kg.
+5. Input: 
+<noinput>
+5. Output: 
+A person weighing 68 kg burns approximately 3.09 calories per minute during a leisurely walk. During a 30-minute walk, they would burn approximately 3.09 calories/minute x 30 minutes = 92.7 calories.
+
+###
+6. Instruction: Correct the grammar and punctuation errors in the following sentence.
+6. Input: 
+Their are three issues in this project firs, second and third; however, we'll focus only on them, main problems.
+6. Output: 
+There are three issues in this project: first, second, and third. However, we will focus only on the main problems.
+
+###
+7. Instruction: Write five synonyms for the word "success."
+7. Input: 
+<noinput>
+7. Output: 
+1. Achievement
+2. Accomplishment
+3. Victory
+4. Triumph
+5. Attainment
+
+###
+8. Instruction: Name a few sources of renewable energy and briefly explain one of them.
+8. Input: 
+<noinput>
+8. Output: 
+Some sources of renewable energy include solar power, wind power, hydroelectric power, biomass power, and geothermal power. Solar power, for example, involves capturing the sun's energy through solar panels and converting it into electricity. This process is clean, sustainable, and helps to reduce our reliance on fossil fuels.
+
+###
+9. Instruction: How can someone improve communication skills in a professional setting?
+9. Input: 
+<noinput>
+9. Output: 
+To improve communication skills in a professional setting, one can:
+1. Actively listen to others, showing empathy and understanding.
+2. Choose words carefully, avoiding jargon and using clear, concise language.
+3. Practice nonverbal communication skills, like maintaining eye contact and using appropriate gestures.
+4. Develop presentation skills for meetings and pitches.
+5. Seek feedback from colleagues and superiors to identify areas for improvement.
+6. Attend workshops, seminars, or courses to learn new techniques and strategies for effective communication.
+
+###
+10. Instruction: Share three valuable tips for writing a compelling argumentative essay.
+10. Input: 
+<noinput>
+10. Output: 
+1. Develop a clear thesis: Begin your essay with a strong and concise statement of your argument, which serves as the anchor of your paper.
+2. Provide strong evidence: Support your thesis with strong, well-researched facts, statistics, and expert opinions that substantiate your position.
+3. Address counterarguments: Acknowledge opposing viewpoints and provide a reasonable refutation to demonstrate the strength of your own argument.

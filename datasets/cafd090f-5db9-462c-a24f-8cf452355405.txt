@@ -1,0 +1,52 @@
+4. Instruction: Rewrite the given sentences in passive voice. 
+4. Input: 
+Carol teaches English at the language school. The committee will announce the winner.
+4. Output: 
+English is taught by Carol at the language school. The winner will be announced by the committee.
+###
+5. Instruction: Summarize the main idea of the given text. 
+5. Input: 
+Natural disasters can be extremely devastating and potentially ruin the lives of many people. They can be so powerful that they have the ability to wipe out entire communities and destroy numerous structures. Some natural disasters, such as earthquakes, hurricanes, volcanic eruptions, and tsunamis, are caused by geological processes. Climate change is also a significant factor in the increasing frequency and intensity of extreme weather events such as droughts, floods, and storms. The people who are most vulnerable to the effects of natural disasters are those who live in poor and developing countries. This is because they may lack sufficient resources or infrastructure to cope with the aftermath of the disaster.
+5. Output: 
+Natural disasters, caused by geological processes and climate change, have the power to devastate communities and affect most severely those living in poor and developing countries.
+###
+6. Instruction: Which machine-learning model is best suitable for the following problem? 
+6. Input: 
+A major car manufacturer wants to develop a model to predict if a car will likely pass or fail a safety test before sending it for testing.
+6. Output: 
+Classification model
+###
+7. Instruction: Determine the type of the given poem. 
+7. Input: 
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+(by Robert Frost)
+7. Output: 
+Narrative poem
+###
+8. Instruction: What other career paths are related to making a video game for a student interested in video game development?
+8. Input: 
+<noinput>
+8. Output: 
+Game designer, game programmer, game artist, game producer, game tester, sound designer, level designer, game writer, and user experience designer.

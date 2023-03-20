@@ -1,0 +1,52 @@
+4. Instruction: Summarize the main points of this excerpt in a single sentence.
+4. Input: 
+Thousands of birds perished as a result of the smoke and pollutants emitted from the factory, impacting various bird species inhabiting the nearby ecosystems. The factory, which produced chemicals for various industries, was found to be non-compliant with environmental guidelines and faced significant backlash from local communities and environmentalists alike. This led to the closure of the factory and a broader examination of pollution impacts on wildlife.
+4. Output: 
+The environmentally non-compliant factory led to the loss of thousands of birds, causing community backlash, its closure, and a broader examination of pollution effects on wildlife.
+
+###
+5. Instruction: Write a limerick about someone named "Joe".
+5. Input: 
+<noinput>
+5. Output: 
+There once was a fellow named Joe
+Whose laughter would set hearts a-glow
+He told jokes all night
+And to everyone's delight,
+He was the star of the show.
+
+###
+6. Instruction: Identify and list two potential positives and two potential negatives of excessive social media usage.
+6. Input: 
+<noinput>
+6. Output: 
+Positives: Increased connectivity with others, potential for instant access to news and information.
+
+Negatives: Increased feelings of isolation, screen addiction and lack of engaging in offline activities.
+
+###
+7. Instruction: Modify the following recipe instructions to make it vegan.
+7. Input: 
+Preheat your oven to 350°F (180°C). Grease an 8-inch round cake pan. In a large mixing bowl, cream together 1/2 cup softened unsalted butter and 1 cup granulated sugar until light and fluffy. Add in 2 large eggs, one at a time, and mix well. Stir in 1 teaspoon vanilla extract. In a separate bowl, whisk together 1 and 1/2 cups all-purpose flour, 1 and 3/4 teaspoons baking powder, and a pinch of salt. Add the dry ingredients to the butter mix alternating with 1/2 cup whole milk, beginning and ending with the dry ingredients.
+7. Output: 
+Preheat your oven to 350°F (180°C). Grease an 8-inch round cake pan. In a large mixing bowl, cream together 1/2 cup softened vegan butter and 1 cup granulated sugar until light and fluffy. Add in 2 flax egg replacements, one at a time, and mix well. Stir in 1 teaspoon vanilla extract. In a separate bowl, whisk together 1 and 1/2 cups all-purpose flour, 1 and 3/4 teaspoons baking powder, and a pinch of salt. Add the dry ingredients to the butter mix alternating with 1/2 cup plant-based milk, beginning and ending with the dry ingredients.
+
+###
+8. Instruction: Develop a short scene setting description for a rainy day in an old town.
+8. Input: 
+<noinput>
+8. Output: 
+Heavy raindrops pelted the cobblestone streets of the old town, filling the air with the ambient sound of their torrential dance. Buildings loomed, their timeworn facades darkened by moisture, while aging leaves floating in gutters streamed towards overflowing drains. People huddled under worn-out umbrellas as they hurried through the narrow lanes, seeking shelter from the relentless downpour.
+
+###
+9. Instruction: Which historical figure said the following quote: "I have not failed. I’ve just found 10,000 ways that won’t work."
+9. Input: 
+<noinput>
+9. Output: 
+Thomas Edison
+
+###
+10. Instruction: Formulate a question that requires the answer: "42."
+10. Input: 
+<noinput>10. Output: 
+What is the result of multiplying 6 by 7?

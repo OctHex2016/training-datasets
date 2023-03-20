@@ -1,0 +1,37 @@
+4. Instruction: Rewrite the given sentence in the passive voice.
+4. Input: 
+The committee will review the budget proposal on Monday.
+4. Output: 
+The budget proposal will be reviewed by the committee on Monday.
+###
+5. Instruction: Evaluate the mathematical expression and provide the result.
+5. Input:
+25 * (7 + 2) - 5
+5. Output:
+220
+###
+6. Instruction: Summarize the main ideas of the given text in two sentences or fewer.
+6. Input: 
+Our new line of sports apparel has been performing exceptionally well in the market, attracting pro athletes and fitness enthusiasts alike. With advanced moisture-wicking fabric and ergonomic designs, you can expect enhanced performance and comfort during workouts. In addition, our partnerships with several professional teams have given us access to valuable insights and input from top-tier athletes, enabling us to constantly improve our products. Furthermore, we're committed to sustainability, and our manufacturing processes are environmentally friendly, making use of recycled materials whenever possible.
+6. Output: 
+The new line of sports apparel features advanced fabric and ergonomic designs for improved performance and comfort, and it's backed by professional athletes' insights. The company prioritizes sustainability in its environmentally friendly manufacturing processes and uses recycled materials.
+###
+7. Instruction: Provide a 3-step beginner's guide on how to start investing in stocks.
+7. Input: <noinput>
+7. Output:
+1. Research and learn about the stock market and basic investment concepts.
+2. Open a brokerage account with a reliable platform or financial institution.
+3. Begin by investing in well-established companies, index funds, or exchange-traded funds (ETFs) and monitor progress while continuously learning and expanding your portfolio.
+###
+8. Instruction: Identify the major theme in the given poem and explain it briefly.
+8. Input: 
+Do not go gentle into that good night,
+Old age should burn and rave at the close of day;
+Rage, rage against the dying of the light.
+
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+
+8. Output:
+The major theme of the poem is the struggle against the inevitability of death. The poet urges people to fight against the dying light, even in the face of aging and darkness, suggesting that passion and resistance should persist till the very end.

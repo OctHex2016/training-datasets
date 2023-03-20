@@ -1,0 +1,44 @@
+4. Instruction: Evaluate the given recipe for a chocolate chip cookie and suggest 3 improvements to it.
+4. Input: 
+1 cup butter, softened; 1 cup white sugar; 1 cup packed brown sugar; 2 eggs; 2 tsp vanilla extract; 3 cups all-purpose flour; 1 tsp baking soda; 2 tsp hot water; 1/2 tsp salt; 2 cups semisweet chocolate chips; 1 cup chopped walnuts.
+4. Output: 
+1. Replace 1/2 cup of white sugar with the same amount of brown sugar for a softer texture.
+2. Chill the dough for at least 30 minutes to prevent spreading and improve flavor.
+3. Add 1/2 teaspoon of baking powder to provide a slightly cakey texture to the cookies.
+
+5. Instruction: Rewrite the text to change its perspective from third person to first person.
+5. Input: 
+John drove the car towards the stadium, feeling excited about the game. He met his friends, who had already reserved seats for everyone. As they chatted, they bought drinks and popcorn, eager for the match to start.
+5. Output: 
+I drove the car towards the stadium, feeling excited about the game. I met my friends, who had already reserved seats for everyone. As we chatted, we bought drinks and popcorn, eager for the match to start.
+
+6. Instruction: In a few sentences, explain the main differences between a debit card and a credit card.
+6. Input: 
+<noinput>
+6. Output: 
+A debit card allows you to spend money by drawing on funds you've already deposited in your checking account. A credit card, on the other hand, lets you borrow money by drawing on a line of credit, which you have to pay back with interest. Debit cards do not impact your credit score, while credit cards do, depending on your usage and repayment behavior.
+
+7. Instruction: Using the passage provided, paraphrase it without changing the meaning.
+7. Input: 
+The primary goal of SEO is to optimize a website so that it appears higher up in the list of search engine results pages. By making the website more attractive to search engines, more users will visit the site, which in turn will increase its success, revenue, and credibility.
+7. Output: 
+SEO's main objective is to enhance a website's position on search engine results pages. By making the website more appealing to search engines, it will attract more visitors, ultimately boosting its success, revenue, and credibility.
+
+8. Instruction: Find the title of the research paper that has the introduction provided.
+8. Input: 
+Recent advances in artificial intelligence have led to the development of algorithms capable of creating original, high-quality artwork. This has raised concerns about the possible impact on the art market, ownership rights, and the role of human artists. In this paper, we examine these issues and propose solutions to address them while preserving the creative potential of AI in the art world.
+8. Output: 
+"Exploring the Impact of Artificial Intelligence on the Art Market: Ownership, Rights, and the Role of Human Artists"
+
+9. Instruction: Write a biography of a fictional character, mentioning their name, age, occupation, place of residence, and hobbies.
+9. Input: 
+<noinput>
+9. Output: 
+Oliver Chadwick is a 32-year-old detective living in the bustling city of Newbury. He is an expert in solving mysterious crimes and works passionately at the Newbury Police Department. Oliver resides in a cozy apartment close to the heart of the city. In his spare time, he enjoys playing the piano, practicing martial arts, and exploring the diverse cuisine that the city has to offer.
+
+10. Instruction: Determine the percentage increase between the two given values.
+10. Input: 
+Original value: 120
+New value: 180
+10. Output: 
+50%

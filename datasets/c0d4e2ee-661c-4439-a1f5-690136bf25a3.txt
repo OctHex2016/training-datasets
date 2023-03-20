@@ -1,0 +1,116 @@
+4. Instruction: Rewrite the following paragraph in a more formal style.
+4. Input:
+Hey guys! I'm really excited to announce that our company is going to host an online web conference next week. It's gonna be a great oppotunity to discuss those cool new features we're adding soon. So, mark your calendars and get ready for an epic presentation!
+4. Output:
+Greetings everyone! We are pleased to announce that our company will be hosting an online web conference next week. This will present an excellent opportunity for us to discuss the upcoming new features in a professional setting. Please ensure you note the date in your calendars and prepare for a comprehensive presentation.
+
+5. Instruction: Translate the following text to French.
+5. Input:
+This weekend, I will go hiking in the mountains with my friends. We plan to take a lot of photographs and enjoy the beautiful scenery.
+5. Output:
+Ce week-end, je vais faire de la randonnée en montagne avec mes amis. Nous prévoyons de prendre beaucoup de photos et de profiter du magnifique paysage.
+
+6. Instruction: Write a haiku about the beauty of nature.
+6. Input:
+<noinput>
+6. Output:
+Cascading river,
+Whispers songs among the trees,
+Nature's harmony.
+
+7. Instruction: List 3 common symptoms of the common cold.
+7. Input:
+<noinput>
+7. Output: 
+1. Runny or stuffy nose
+2. Sore throat
+3. Cough
+
+8. Instruction: Correct any grammatical errors in the following sentence.
+8. Input:
+Me, John and Sara has went to the cafe in yesterday.
+8. Output:
+John, Sara, and I went to the cafe yesterday.
+
+9. Instruction: Write a concise summary of the given text.
+9. Input:
+The first-time investor should be very cautious before investing, as the world of investment is often complex and can be difficult for new beginners to understand. Many types of financial markets and various opportunities exist, but unsound investments can lead to devastating losses. It is crucial to research, acquire a solid understanding of the assets, and learn from trustworthy sources. Additionally, first-time investors should start with smaller investments and gradually expand their portfolio as they become more educated and confident.
+9. Output:
+First-time investors should approach investing with caution by researching and understanding their assets, learning from reliable sources, and starting with small investments before gradually expanding their portfolio.
+
+10. Instruction: Explain how photosynthesis works in plants.
+10. Input:
+<noinput>
+10. Output:
+Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose (sugar) and oxygen. This occurs primarily in the chlorophyll-containing cells of the leaves, called chloroplasts. In the presence of sunlight, a chemical reaction occurs which converts water (H2O) and carbon dioxide (CO2) into glucose (C6H12O6) and releases oxygen (O2) as a byproduct. This glucose is then used by the plant for energy and growth, while the oxygen is released into the atmosphere.
+
+11. Instruction: Create a rhyming couplet dealing with time.
+11. Input:
+<noinput>
+11. Output:
+As seconds turn to minutes, hours to days,
+Time's relentless march moves on, always.
+
+12. Instruction: Is Bitcoin a good investment in the long-term? Provide a brief analysis.
+12. Input:
+<noinput>
+12. Output:
+Whether Bitcoin is a good long-term investment depends on one's risk tolerance and investment goals. Some argue that it could be a good investment due to its potential for future widespread adoption and disruptive impact on the financial industry. However, others point to the high volatility, regulatory uncertainties, and lack of intrinsic value as reasons for caution. It is vital for an investor to conduct thorough research and consider their own risk profile before deciding to invest in Bitcoin.
+
+13. Instruction: Provide a brief overview of the Hub and Spoke model in logistics.
+13. Input:
+<noinput>
+13. Output:
+The Hub and Spoke model in logistics refers to a centralized network structure where all transportation routes are organized around a central hub. In this system, the hub serves as a central processing and sorting facility. Operations connect various smaller destinations (spokes) to the central hub, facilitating efficient handling and transportation of cargo. The model is commonly used by airlines, package delivery services, and freight transportation companies to streamline their operations, reduce transportation costs, and improve connectivity between regions.
+
+14. Instruction: Detect and replace any inappropriate words in the given text.
+14. Input:
+She was ecstatic to receive the crappy gift her friend had picked out for her.
+14. Output:
+She was ecstatic to receive the quirky gift her friend had picked out for her.
+
+15. Instruction: Compare and contrast aerobic exercises and anaerobic exercises.
+15. Input:
+<noinput>
+15. Output:
+Aerobic exercises involve low to moderate-intensity activities that can be sustained for longer periods, like running or swimming. They primarily utilize the oxygen-dependent metabolic pathway and improve cardiovascular endurance. Anaerobic exercises, on the other hand, involve high-intensity activities performed in short bursts, such as weightlifting or sprinting. These exercises primarily use non-oxygen-dependent metabolic pathways and improve muscle strength, power, and speed. In summary, aerobic exercises promote endurance, while anaerobic exercises focus on strength and high-intensity performance.
+
+16. Instruction: Name the four main layers of the Earth and briefly describe their characteristics.
+16. Input:
+<noinput>
+16. Output:
+1. Crust: The outermost layer, composed mainly of solid rocks and varying in thickness from 5 to 70 kilometers.
+2. Mantle: The layer beneath the crust, consisting of solid but partially molten rocks extending up to 2,900 kilometers deep.
+3. Outer Core: A liquid layer composed mostly of molten iron and nickel, with a depth of 2,200 kilometers below the mantle.
+4. Inner Core: The Earth's center, a solid sphere composed primarily of iron and nickel, with a radius of approximately 1,220 kilometers.
+
+17. Instruction: Briefly describe the concept of the butterfly effect.
+17. Input:
+<noinput>
+17. Output:
+The butterfly effect refers to the idea that a small change in initial conditions can have significant consequences for a larger system. Derived from chaos theory, it gets its name from the notion that the flap of a butterfly's wings in Brazil could ultimately cause a tornado in Texas. The concept is often used to illustrate the unpredictable nature of complex, non-linear systems, such as weather patterns or financial markets.
+
+18. Instruction: Edit the following paragraph to improve readability.
+18. Input:
+It was a bright day that was, like, super hot or something. The melted ice cream truck, well not really melted but you know what I mean, was, like, parked beside the playground, and all the kids were, like, so happy to buy, like, ice cream, which was happily melting in their, like, grateful hands.
+18. Output:
+It was a bright, scorching hot day. The ice cream truck was parked beside the playground, and all the joyful children eagerly bought ice cream, which quickly melted in their grateful hands.
+
+19. Instruction: Suggest three ways to improve workplace productivity.
+19. Input:
+<noinput>
+19. Output:
+1. Prioritize tasks: Create a clear schedule to manage time efficiently, prioritizing important and urgent matters.
+2. Minimize distractions: Reduce noise or visual disturbances, discourage excessive socializing, and eliminate unessential digital interruptions.
+3. Encourage regular breaks: Short breaks promote mental rejuvenation and prevent burnout, improving overall focus and productivity.
+
+20. Instruction: Outline the essential steps of effective problem-solving.
+20. Input:
+<noinput>
+20. Output:
+1. Identify the problem: Clearly define the issue at hand.
+2. Analyze the problem: Gather relevant information, identify constraints and contributing factors.
+3. Generate potential solutions: Brainstorm diverse and creative options.
+4. Evaluate and select a solution: Assess the feasibility, risks, and benefits of each option, and choose an optimal solution.
+5. Implement the solution: Execute the chosen strategy and monitor progress.
+6. Review and adapt: Evaluate the results, and if necessary, revise the plan and reapply the process.

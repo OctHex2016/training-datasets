@@ -1,0 +1,125 @@
+4. Instruction: Correct the grammar and punctuation of the given sentence.
+4. Input: 
+me and my freinds like to eat pizza's and burger's they is very yum
+4. Output: 
+My friends and I like to eat pizzas and burgers; they are very yummy.
+
+5. Instruction: Can you guess the writer's intention in the following sentence? Provide a short explanation.
+5. Input: 
+The last thing I want is to hurt you.
+5. Output: 
+The writer is trying to communicate that they don't want to cause any harm or distress to the person they are addressing, even though it may be unintentional.
+
+6. Instruction: What is the opinion of Maria about Edvard in the following paragraph?
+6. Input: 
+Maria has always admired Edvard's intelligence and work ethic. He helps her when she struggles with difficult concepts, and she appreciates his patience and guidance. Maria finds Edvard to be an invaluable friend and support.
+6. Output: 
+Maria has a high opinion of Edvard, admiring his intelligence and work ethic, and appreciating his patience, guidance, and friendship.
+
+7. Instruction: Describe the given image using a single sentence.
+7. Input: 
+<noinput>
+7. Output: 
+A striking sunset illuminates the sky with shades of orange, pink, and purple, silhouetting trees in the foreground.
+
+8. Instruction: Rewrite the following sentence in a more formal tone.
+8. Input: 
+hey, did you hear about the big new thing that just happened?
+8. Output: 
+Hello, have you heard about the significant event that has recently occurred?
+
+9. Instruction: Identify and correct any factual errors in the following sentence.
+9. Input: 
+Neil Armstrong was the third person to walk on the moon in 1971.
+9. Output: 
+Neil Armstrong was the first person to walk on the moon in 1969.
+
+10. Instruction: Convert the given recipe ingredients into cups, ounces, or teaspoons, maintaining their original quantities. If an ingredient is hard to measure in those units, use the closest approximation.
+10. Input: 
+- 250g all-purpose flour
+- 2 large eggs
+- 125mL milk
+- 50g granulated sugar
+- 2tbsp vegetable oil
+10. Output: 
+- 2 cups all-purpose flour
+- 2 large eggs
+- 0.5 cups milk
+- 1/4 cup granulated sugar
+- 2 tbsp vegetable oil
+
+11. Instruction: Generate a rhyming poem about a river using approximately 6 lines.
+11. Input: 
+<noinput>
+11. Output: 
+A river flows both day and night,
+Its waters glisten in the light,
+It takes its time, it doesn't hurry,
+Along the banks, the flowers flurry,
+In tranquil paths, it finds its way,
+And charms the heart where it does lay.
+
+12. Instruction: Evaluate the survey results and provide a summary.
+12. Input: 
+Survey: Favorite Colors
+- Blue: 32
+- Green: 25
+- Red: 18
+- Yellow: 10
+- Purple: 13
+- Orange: 2
+12. Output: 
+The majority of survey respondents chose Blue as their favorite color, with Green being the second most popular choice. Red and Purple had relatively fewer votes while Yellow and Orange were the least favored colors.
+
+13. Instruction: Identify the two political regions mentioned in the provided excerpt.
+13. Input: 
+John is well-versed in global politics, particularly in the situations concerning the European Union and the Middle East.
+13. Output: 
+European Union, Middle East
+
+14. Instruction: Write a brief synopsis for a superhero movie.
+14. Input: 
+<noinput>
+14. Output: 
+When a brilliant scientist discovers a deadly new element on Earth's moon, she becomes Moonbeam – a mysterious superhero with cosmic powers. Now, as the world faces an extraterrestrial threat, Moonbeam must join forces with other heroes to protect the planet from destruction and uncover the truth behind her newfound abilities.
+
+15. Instruction: Discuss the pros and cons of using public transportation.
+15. Input: 
+<noinput>
+15. Output: 
+Pros: Environmentally friendly, economically efficient, reduces traffic congestion, encourages community engagement, doesn't require parking.
+Cons: Limited routes and schedules, potential delays or unreliability, can be crowded, may not be as comfortable as private vehicles, not always accessible for people with disabilities.
+
+16. Instruction: Analyze the root cause of the character's fear in the given text.
+16. Input: 
+Samantha still shudders at the thought of dark, enclosed spaces. As a child, she was accidentally trapped in the cellar for hours, and the memory haunts her to this day.
+16. Output: 
+The root cause of Samantha's fear of dark, enclosed spaces is the traumatic experience of being trapped in a cellar as a child.
+
+17. Instruction: Generate a question to ask at the end of the given story.
+17. Input: 
+Once upon a time, in a small village near a dense forest, there lived a young boy named Jack. Jack was an adventurous boy who spent his days exploring the forest and admiring the beauty of nature. One day, as Jack ventured deep into the forest, he stumbled upon a mysterious cave. Filled with curiosity, Jack entered the cave and soon discovered a hidden treasure chest. He decided to share his new-found riches with his family and the villagers, improving the lives of everyone around him.
+17. Output: 
+How would Jack's discovery of the treasure chest and his decision to share the riches impact the future of the village?
+
+18. Instruction: Briefly describe an appropriate setting for the given genre.
+18. Input: 
+Mystery novel
+18. Output: 
+A small, isolated coastal town with a rich history, filled with enigmatic residents and shrouded in an atmosphere of fog and secrecy.
+
+19. Instruction: Combine the two given sentences using a compound sentence structure.
+19. Input: 
+Roses are red. Violets are blue.
+19. Output: 
+Roses are red, and violets are blue.
+
+20. Instruction: List five countries in Africa, along with their capital cities.
+20. Input: 
+<noinput>
+20. Output: 
+1. Nigeria - Abuja
+2. Egypt - Cairo
+3. Kenya - Nairobi
+4. South Africa - Pretoria, Bloemfontein, Cape Town (tri-capital)
+5. Ghana - Accra

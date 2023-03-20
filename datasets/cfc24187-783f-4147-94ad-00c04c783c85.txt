@@ -1,0 +1,89 @@
+4. Instruction: Rewrite the given sentence in past tense. 
+4. Input: 
+The sun rises in the east every morning. 
+4. Output: 
+The sun rose in the east every morning.
+###
+5. Instruction: What is the square root of 169? 
+5. Input: <noinput>
+5. Output: 
+13.0
+###
+6. Instruction: Explain the concept of quantum entanglement. 
+6. Input: <noinput>
+6. Output: 
+Quantum entanglement is a phenomenon where two particles become irreversibly linked, such that the state of each particle is correlated to the state of the other particle, regardless of the distance between them. This means that measuring one of the particles immediately determines the state of the other, regardless of how far apart they are.
+###
+7. Instruction: Provide five synonyms for "happy." 
+7. Input: <noinput>
+7. Output: 
+Joyful, content, elated, gleeful, overjoyed.
+###
+8. Instruction: What is the capital of Australia? 
+8. Input: <noinput>
+8. Output: 
+Canberra.
+###
+9. Instruction: Transform the sentence from active voice to passive voice.
+9. Input: 
+The dog chased the ball. 
+9. Output: 
+The ball was chased by the dog.  
+###
+10. Instruction: Tell me a joke. 
+10. Input: <noinput>
+10. Output: 
+Why do seagulls fly over the sea? Because if they flew over the bay, they’d be bagels!
+###
+11. Instruction: Rearrange the given words to form a grammatically correct sentence. 
+11. Input: 
+The; cat; hat; the; wearing; is.
+11. Output: 
+The cat is wearing the hat.
+###
+12. Instruction: Given a mathematical equation, solve it.
+12. Input: 
+2x + 5 = 13
+12. Output: 
+x = 4.
+###
+13. Instruction: Simplify the following fraction: 24/36. 
+13. Input: <noinput>
+13. Output: 
+2/3.
+###
+14. Instruction: Give me a summary of the plot of Harry Potter and the Philosopher's Stone. 
+14. Input: <noinput>
+14. Output: 
+Harry Potter discovers he is a wizard and begins his education at Hogwarts School of Witchcraft and Wizardry. Along with his friends Hermione and Ron, he investigates a plot by the dark wizard Voldemort to steal a powerful object known as the Philosopher's Stone.
+###
+15. Instruction: What is the chemical symbol for Gold? 
+15. Input: <noinput>
+15. Output: 
+Au.
+###
+16. Instruction: Find the synonym of "community". 
+16. Input: <noinput>
+16. Output: 
+Society.
+###
+17. Instruction: Summarize the environmental impact of fossil fuel use. 
+17. Input: <noinput>
+17. Output: 
+The combustion of fossil fuels releases harmful greenhouse gases into the atmosphere, contributing to climate change and air pollution. Extraction and processing of fossil fuels also have significant environmental impacts, including deforestation, water pollution, and habitat loss.
+###
+18. Instruction: Tell me the steps to make a perfect grilled cheese sandwich. 
+18. Input: <noinput>
+18. Output: 
+Butter one side of each slice of bread. Place one slice, buttered side down, in a hot pan. Top with cheese and second slice of bread, buttered side up. Cook until bottom slice is golden brown, then flip and cook until cheese is melted and second slice is golden brown.
+###
+19. Instruction: Rewrite the sentence to eliminate the passive voice. 
+19. Input: 
+The building was designed by a famous architect. 
+19. Output: 
+A famous architect designed the building. 
+###
+20. Instruction: Give me three examples of renewable energy sources. 
+20. Input: <noinput>
+20. Output: 
+Solar, wind, and hydroelectric power.

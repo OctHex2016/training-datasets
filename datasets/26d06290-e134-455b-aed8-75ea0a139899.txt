@@ -1,0 +1,118 @@
+4. Instruction: Transform the given sentence into a question about the causes of the event.
+4. Input: 
+The housing market crashed in 2008.
+4. Output: 
+What caused the housing market to crash in 2008?
+
+###
+5. Instruction: Paraphrase the given statement to express a positive outlook.
+5. Input: 
+Online learning can be challenging for many students.
+5. Output: 
+Online learning offers an opportunity for students to grow and develop new skills.
+
+###
+6. Instruction: Give advice on how to improve the email subject line.
+6. Input: 
+Email subject: urgent meeting in the conference room now!
+6. Output: 
+Improved email subject: Important: Immediate Conference Room Meeting Required
+
+###
+7. Instruction: Identify which category the given statement falls under - Fact or Opinion.
+7. Input: 
+Going to the beach is the best way to spend a summer day.
+7. Output: 
+Opinion
+
+###
+8. Instruction: Combine the two sentences provided into a single sentence using a semicolon.
+8. Input: 
+Some people love to read books. Others hate it.
+8. Output: 
+Some people love to read books; others hate it.
+
+###
+9. Instruction: Is the given statement an example of Alliteration, Assonance or Consonance?
+9. Input: 
+She sells seashells by the seashore.
+9. Output: 
+Alliteration
+
+###
+10. Instruction: Create a possible scenario based on the given headline:
+10. Input: 
+"Inventor creates device to turn trash into treasure"
+10. Output: 
+In a small town, a creative inventor develops a revolutionary device that can transform discarded items into valuable resources. This new technology could revolutionize waste management by reducing landfill waste and providing a sustainable source of materials for industries, all while benefiting the local community.
+
+###
+11. Instruction: Explain the key takeaway of the following statement:
+11. Input: 
+"Strive not to be a success, but rather to be of value."
+11. Output: 
+Focus on making a positive impact and being valuable to others, rather than solely pursuing personal success.
+
+###
+12. Instruction: Convert the given quote into a question.
+12. Input: 
+"Give a man a fish and you feed him for a day; teach a man to fish, and you feed him for a lifetime."
+12. Output: 
+What is the underlying lesson behind "give a man a fish and you feed him for a day; teach a man to fish, and you feed him for a lifetime"?
+
+###
+13. Instruction: For the given topic, write a hook sentence that could grab a reader's attention.
+13. Input: 
+The effects of deforestation
+13. Output: 
+Did you know that every second, a forest area equivalent to a football field is destroyed worldwide, and the repercussions are far more devastating than you might imagine?
+
+###
+14. Instruction: Choose the most suitable analogy for the given phrase.
+14. Input: 
+Inventory management in a retail store
+14. Output: 
+Inventory management in a retail store is like organizing a library; you must keep track of items, ensure optimal placement, and maintain a smooth flow of resources.
+
+###
+15. Instruction: Assess the pros and cons of the given statement.
+15. Input: 
+Introducing a four-day work week
+15. Output: 
+Pros: Improved work-life balance, increased productivity, reduced burnout, cost savings on office resources.
+Cons: Possible loss of income for hourly workers, potential overload of work during the shortened work week, challenges in coordinating with clients or companies operating on a traditional schedule.
+
+###
+16. Instruction: Add the missing information in the given sentence.
+16. Input: 
+The protest took place on ___ because of ___.
+16. Output: 
+The protest took place on September 20th because of concerns about climate change.
+
+###
+17. Instruction: Rewrite the given statement as a polite request.
+17. Input: 
+Close the door on your way out.
+17. Output: 
+Please remember to close the door on your way out.
+
+###
+18. Instruction: Give an example scenario based on the given proverb.
+18. Input: 
+"Actions speak louder than words."
+18. Output: 
+A politician promises to improve the education system during their campaign, but once they are in office, they actively work on policies that invest in schools, hire more teachers, and create better learning environments, proving their commitment to education through their actions, not just their words.
+
+###
+19. Instruction: Based on the given input, what is an assumption that could be made?
+19. Input: 
+You see a group of people wearing suits and carrying briefcases.
+19. Output: 
+They are likely attending a business-related event or working in a professional setting.
+
+###
+20. Instruction: Determine the main point of the given passage.
+20. Input: 
+There has been a growing trend in the number of companies offering remote work opportunities for their employees. This shift is largely attributed to advancements in technology, which has enabled people to work from virtually any location with a reliable internet connection. Companies that offer remote work options have experienced various benefits, such as increased productivity, reduced office costs, and an expanded talent pool.
+20. Output: 
+The main point is that advancements in technology have led to a growing trend of remote work opportunities, offering benefits to both employees and companies.

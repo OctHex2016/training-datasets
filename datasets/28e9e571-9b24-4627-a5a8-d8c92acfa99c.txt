@@ -1,0 +1,105 @@
+
+
+4. Instruction: Rewrite the following text in active voice.
+4. Input:
+The book was read by Sarah.
+4. Output:
+Sarah read the book.
+###
+
+5. Instruction: Answer the following question in one sentence.
+5. Input:
+What is the boiling point of water at sea level?
+5. Output: 
+The boiling point of water at sea level is 100 degrees Celsius or 212 degrees Fahrenheit.
+
+6. Instruction: Paraphrase the following sentence.
+6. Input: 
+The government has introduced a new policy to control water pollution in the city.
+6. Output: 
+A new policy has been implemented by the government to manage the issue of water pollution in the city.
+
+7. Instruction: Write a summary of the following text.
+7. Input: 
+Article: "Why We Sleep" by Matthew Walker is a valuable read for anyone who is interested in understanding how and why we sleep. The book explains the importance of sleep for our overall health and functioning, as well as the negative effects of sleep deprivation.
+
+7. Output: 
+"Why We Sleep" is a beneficial piece of writing that outlines the significance of sleep for our wellbeing and productivity and the detrimental impacts of a lack of sleep.
+
+8. Instruction: Suggest a title for the following article.
+8. Input: 
+Article: New Study Shows the Benefits of Meditation for Stress Reduction.
+8. Output: 
+"Exploring the Effects of Meditation on Stress Management: Recent Study Findings."
+
+9. Instruction: Rewrite the following text to make it more concise.
+9. Input: 
+The company intends to implement new policies and strategies to improve employee productivity and satisfaction in the workplace.
+9. Output: 
+The company plans to improve employee productivity and satisfaction through new policies and strategies.
+
+10. Instruction: Correct the spelling mistake in the following text.
+10. Input: 
+The proffesor gave a presentation on the topic of climate change.
+10. Output: 
+The professor gave a presentation on the topic of climate change.
+
+11. Instruction: Provide a synonym for the word "hilarious" in the following sentence.
+11. Input: 
+The comedian's performance was hilarious and had the audience laughing the entire time.
+11. Output: 
+The comedian's performance was uproarious and had the audience laughing the entire time.
+
+12. Instruction: Explain the difference between a crocodile and an alligator.
+12. Input: 
+<noinput>
+12. Output: 
+Crocodiles have longer, more V-shaped snouts and tend to live in saltwater habitats, while alligators have shorter, more U-shaped snouts and are more common in freshwater habitats.
+
+13. Instruction: In the following sentence, replace the phrasal verb "put off" with a one-word synonym.
+13. Input: 
+I keep putting off cleaning my room because I hate doing it.
+13. Output: 
+I keep procrastinating cleaning my room because I hate doing it.
+
+14. Instruction: Identify the type of sentence in the following example.
+14. Input: 
+Can you please pass the salt?
+14. Output: 
+The sentence is an interrogative.
+
+15. Instruction: Complete the following sentence with the appropriate form of the verb in parentheses.
+15. Input: 
+I _________ (to wash) my car this afternoon.
+15. Output: 
+I will wash my car this afternoon.
+
+16. Instruction: Provide a synonym for the word "exquisite" in the following sentence.
+16. Input: 
+The restaurant is known for its exquisite cuisine and impeccable service.
+16. Output: 
+The restaurant is known for its superb cuisine and flawless service.
+
+17. Instruction: Write a tweet summarizing the following article.
+17. Input: 
+Article: "New Study Finds that Drinking Coffee May Reduce Risk of Alzheimer's Disease."
+17. Output: 
+"Good news for coffee lovers! A new study reveals that coffee consumption is linked to a reduced risk of Alzheimer's disease. #coffeelove #healthylifestyle"
+
+18. Instruction: Correct the grammatical error in the following sentence.
+18. Input: 
+Their going to the concert tonight with Sarah and I.
+18. Output: 
+They're going to the concert tonight with Sarah and me.
+
+19. Instruction: In the following sentence, replace the adjective "beautiful" with a one-word synonym.
+19. Input: 
+The sunset over the ocean was incredibly beautiful.
+19. Output: 
+The sunset over the ocean was stunning.
+
+20. Instruction: Provide a proper noun in the following sentence.
+20. Input: 
+I am planning a trip to _________ for my summer vacation.
+20. Output: 
+I am planning a trip to Hawaii for my summer vacation.

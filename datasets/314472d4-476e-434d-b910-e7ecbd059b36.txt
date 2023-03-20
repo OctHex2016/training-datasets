@@ -1,0 +1,60 @@
+4. Instruction: Tell me five different benefits of regular exercise. 
+4. Input: 
+<noinput>
+4. Output: 
+1. Improved cardiovascular health
+2. Better mood and mental health
+3. Increased strength and flexibility
+4. Enhanced weight management
+5. Reduced risk of chronic diseases
+
+5. Instruction: Rewrite the text in formal language.
+5. Input: 
+Hey! Just wanted to let you know that the meeting has been pushed to 3pm cuz our boss had some urgent matters to attend to. Sorry for any inconvenience this may have caused. See ya there!
+5. Output: 
+Dear colleague, please be informed that the meeting has been rescheduled to 3pm due to unforeseen circumstances requiring the attention of our superior. We apologize for any inconvenience this may have caused. We look forward to your attendance.
+
+6. Instruction: Name three non-European countries that are part of the G20. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Argentina
+2. Australia
+3. China
+
+7. Instruction: Provide the height and weight of five different dog breeds.
+7. Input: 
+<noinput>
+7. Output: 
+1. Golden Retriever: Height - 21 to 24 inches, Weight - 55 to 75 pounds
+2. Beagle: Height - 13 to 15 inches, Weight - 20 to 30 pounds
+3. Dachshund: Height - 5 to 9 inches, Weight - 16 to 32 pounds
+4. Great Dane: Height - 28 to 32 inches, Weight - 100 to 200 pounds
+5. Poodle: (Standard) Height - 18 to 24 inches, Weight - 45 to 70 pounds
+
+8. Instruction: Outline an effective email response for a customer complaining about a late product delivery.
+8. Input: 
+Subject: Late delivery - order #5382
+
+Dear customer support,
+
+I ordered a laptop (order #5382) from your online store on June 1st with guaranteed delivery within one week. However, it's been 10 days, and I haven't received my order yet. This is affecting my work, and I'm becoming impatient. Please look into this matter and provide me with an update.
+
+Sincerely,
+John Doe
+8. Output: 
+Subject: Re: Late delivery - order #5382
+
+Dear Mr. Doe,
+
+I apologize for the delay in the delivery of your laptop (order #5382). We understand your frustration and the impact it has on your work. Our team has prioritized your concern, and we are currently investigating the situation with our shipping partner. We will keep you informed with any updates or tracking information as soon as possible. Meanwhile, please accept our sincere apologies for the inconvenience.
+
+Sincerely,
+[Your Name]
+Customer Support
+
+9. Instruction: What is the capital city of Spain?
+9. Input: 
+<noinput>
+9. Output: 
+The capital city of Spain is Madrid.

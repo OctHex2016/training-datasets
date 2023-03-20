@@ -1,0 +1,113 @@
+4. Instruction: Write a brief positive review for the following product.
+4. Input:
+Product: Breeze Air Purifier
+4. Output:
+I am extremely satisfied with my Breeze Air Purifier! It's compact, efficient, and ensures that the air in my home stays fresh and clean. The noise level is minimal, and the modern design blends seamlessly into my living space. Highly recommended for those seeking improved air quality.
+
+5. Instruction: Describe three key responsibilities of an HR manager.
+5. Input: <noinput>
+5. Output:
+1. Recruitment and Selection: Attract, evaluate, and hire potential employees based on an organization's needs.
+2. Employee Development and Training: Facilitate employee growth and improvement by providing workshops, training programs, and other resources.
+3. Performance Management and Appraisals: Assess and monitor employee performance, provide feedback, and implement appropriate measures to ensure optimal productivity.
+
+6. Instruction: Correct the grammar in the following sentence.
+6. Input:
+I saw three sheeps at a farm yesterday.
+6. Output:
+I saw three sheep at a farm yesterday.
+
+7. Instruction: Based on historical records, provide the name of the famous person.
+7. Input:
+Italian polymath and painter, whose most famous work is the Mona Lisa.
+7. Output:
+Leonardo da Vinci
+
+8. Instruction: Rewrite the following passage in positive connotation.
+8. Input:
+The overpriced restaurant had a stale interior, rude servers, and the food was unbearable for my palate.
+8. Output:
+The upscale restaurant had a vintage interior, assertive servers, and the food had a unique flavor for my palate.
+
+9. Instruction: Determine whether the situation is ironic or not.
+9. Input:
+A fire station burns down.
+9. Output:
+Yes, the situation is ironic.
+
+10. Instruction: Name the literary device used in the following sentence.
+10. Input:
+She sells seashells by the seashore.
+10. Output:
+Tongue Twister
+
+11. Instruction: Summarize the paragraph in one sentence.
+11. Input:
+Breathing exercises can improve your focus and help you relax. When feeling stressed, simply close your eyes and take slow, deep breaths for a few moments. Learning to control your breathing patterns alone can lead to significant improvements in your mental well-being and overall health.
+11. Output:
+Breathing exercises can enhance focus and relaxation, leading to improved mental well-being and overall health.
+
+12. Instruction: Convert the following into passive voice.
+12. Input:
+The children are decorating the room for the birthday party.
+12. Output:
+The room is being decorated by the children for the birthday party.
+
+13. Instruction: Indentify the type of fallacy in the following argument.
+13. Input:
+You should oppose the new tax on sugary drinks because a celebrity athlete opposes it too.
+13. Output:
+Argument from authority
+
+14. Instruction: Explain the meaning of the following idiom.
+14. Input:
+Bite the bullet
+14. Output:
+To face a painful or difficult situation with courage and determination.
+
+15. Instruction: Write a haiku about a winter night.
+15. Input: <noinput>
+15. Output:
+Silent snow descends,
+Moonlight glimmers on cold ground,
+Winter's breath whispers.
+
+16. Instruction: Provide the synonym for the given word.
+16. Input:
+Courageous
+16. Output:
+Brave
+
+17. Instruction: Translate the following text to French.
+17. Input:
+I need help with my homework.
+17. Output:
+J'ai besoin d'aide avec mes devoirs.
+
+18. Instruction: Calculate the square root of the given number.
+18. Input:
+144
+18. Output:
+12
+
+19. Instruction: Provide the GDP (nominal) of the United States for 2020.
+19. Input: <noinput>
+19. Output:
+In 2020, the GDP (nominal) of the United States was approximately $21.43 trillion.
+
+20. Instruction: Draft a polite email asking for an extension on a paper deadline.
+20. Input: <noinput>
+20. Output:
+Subject: Extension Request for Paper Deadline
+
+Dear [Professor's Name],
+
+I am writing to request a one-week extension on the deadline of our [Course Name] paper. Unfortunately, I have been dealing with some unforeseen personal circumstances that have impeded my ability to make adequate progress on the assignment.
+
+I understand the importance of timely submissions and take full responsibility for the delay. An extension would be greatly appreciated, and I assure you that I will use the extra time wisely.
+
+Thank you for considering my request, and I look forward to your reply.
+
+Kind regards,
+
+[Your Name]

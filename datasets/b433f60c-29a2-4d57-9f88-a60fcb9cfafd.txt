@@ -1,0 +1,41 @@
+4. Instruction: Identify the passive voice in the following paragraph and replace them with active voice sentences.
+4. Input: 
+The books were borrowed from the library by Mary, and her day was spent reading them under a tree. The cake that was left on the counter was eaten by Tom.
+4. Output:
+Mary borrowed the books from the library and spent her day reading them under a tree. Tom ate the cake left on the counter.
+
+5. Instruction: What is the main difference between a reptile and an amphibian?
+5. Input: 
+<noinput>
+5. Output: 
+The main difference between a reptile and an amphibian is that reptiles are cold-blooded vertebrates with scales and most lay eggs on land, while amphibians are cold-blooded vertebrates with smooth skin, laying eggs in water and usually undergoing a metamorphosis during their life cycle.
+
+6. Instruction: Summarize the following text.
+6. Input: 
+Artificial intelligence (AI) has seen significant growth and advancement in recent years. It's an interdisciplinary field that involves computer science, mathematics, and various forms of engineering. AI development often focuses on tasks such as natural language processing, computer vision, and machine learning. The uses of artificial intelligence are wide-ranging: from self-driving cars to virtual personal assistants, and its influence continues to expand. There are also ethical concerns surrounding artificial intelligence, such as the loss of jobs and the creation of autonomous weapons. As it continues to advance, it's vital to consider both the benefits and potential risks of AI.
+6. Output: 
+AI has grown significantly in recent years as an interdisciplinary field, focusing on tasks such as natural language processing and machine learning. Its wide range of applications includes self-driving cars and virtual personal assistants, but ethical concerns such as job loss and autonomous weapons must also be considered.
+
+7. Instruction: Are cats obligate carnivores? Explain your answer.
+7. Input: 
+<noinput>
+7. Output: 
+Yes, cats are obligate carnivores. This means that they need animal-derived nutrients in their diet and cannot maintain their health on a plant-based diet. Cats require specific nutrients such as taurine, arachidonic acid, and high protein content, which are found primarily in meat and other animal-derived products.
+
+8. Instruction: Rewrite this sentence in future perfect tense.
+8. Input: 
+We are making a cake.
+8. Output: 
+We will have made a cake.
+
+9. Instruction: Sum up the plot of the novel "Pride and Prejudice" in 1-2 sentences.
+9. Input:
+<noinput>
+9. Output: 
+In Jane Austen's "Pride and Prejudice," Elizabeth Bennet navigates societal expectations, relationships, and her own prejudices, ultimately leading to her and Mr. Darcy overcoming their differences and finding love together.
+
+10. Instruction: Decide if the following statement is true or false, and provide an explanation: "You cannot take two integers, one even and one odd, and add them together to get an odd number."
+10. Input:
+<noinput>
+10. Output: 
+False. If you add an even integer and an odd integer, their sum will always be an odd number. This is because an even integer is divisible by 2 without a remainder, while an odd integer has a remainder of 1 when divided by 2. Adding the two together gives a remainder of 1, making the sum odd.

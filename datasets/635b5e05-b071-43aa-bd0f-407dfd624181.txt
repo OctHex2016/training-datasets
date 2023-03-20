@@ -1,0 +1,109 @@
+
+
+4. Instruction: Generate a short story about a person who wins the lottery.
+4. Input: 
+<noinput>
+4. Output: 
+John had always dreamed of winning the lottery, but he never expected it to become reality. As he held the winning ticket in his hand, he felt a rush of excitement and disbelief. The first thing he did was quit his job and book a trip around the world. For the first time in his life, he felt truly free.
+###
+5. Instruction: Rewrite the sentence in the active voice.
+5. Input: 
+The cake was baked by Mary.
+5. Output: 
+Mary baked the cake.
+###
+6. Instruction: Summarize the main idea of the article in one sentence. 
+6. Input: 
+https://www.bbc.com/news/business-61234764
+6. Output: 
+Amazon announces it will build 10,000 electric delivery vehicles and invest $100m in the renewable sector to reach its goal of zero emissions by 2040.
+###
+7. Instruction: Given a set of words, group them based on a certain category.
+7. Input: 
+Dog, Cat, Fish, Hamster, Bird
+7. Output: 
+Pets: Dog, Cat, Hamster, Bird | Non-pets: Fish
+###
+8. Instruction: Correct the grammar in the sentence.
+8. Input: 
+Me and him went to the store.
+8. Output: 
+He and I went to the store.
+###
+9. Instruction: Given a set of data, classify each data point into one of the two categories based on specific criteria.
+9. Input: 
+1. Jon, 30, single, works in finance, salary $80,000
+2. Sarah, 25, married, works in education, salary $50,000
+3. Mark, 40, married, works in real estate, salary $120,000
+Classify each person as either middle class or upper class based on their income and job.
+9. Output: 
+Middle class: Jon | Upper class: Sarah, Mark
+###
+10. Instruction: Given two sentences, compare and contrast their main ideas. 
+10. Input: 
+Sentence 1: Dogs are loyal companions that offer unconditional love.
+Sentence 2: Cats are independent animals that prefer solitude.
+10. Output: 
+Sentence 1 and 2 differ in their descriptions of the relationship between humans and pets. While dogs are portrayed as loyal and affectionate, cats are depicted as solitary animals.
+###
+11. Instruction: Given a sentence, add a dependent clause to extend the meaning of the sentence. 
+11. Input: 
+The house was old.
+11. Output: 
+Although the house was old, it had a certain charm that many modern houses lacked.
+###
+12. Instruction: Given a set of numbers, calculate the median. 
+12. Input: 
+2, 4, 6, 8, 10
+12. Output: 
+6
+###
+13. Instruction: Rewrite the sentence in the past perfect tense.
+13. Input: 
+She eats lunch every day at noon.
+13. Output: 
+She had eaten lunch every day at noon.
+###
+14. Instruction: Given a sentence, paraphrase it while retaining its original meaning.
+14. Input: 
+Many people believe that money can buy happiness.
+14. Output: 
+A common belief among people is that happiness can be purchased with money.
+###
+15. Instruction: Given a word, provide its definition and an example usage.
+15. Input: 
+Plethora
+15. Output: 
+Definition: A large or excessive amount of something.
+Example: There was a plethora of choices at the buffet table.
+###
+16. Instruction: Given two numbers, calculate their quotient and remainder.
+16. Input: 
+Dividend: 23
+Divisor: 4
+16. Output: 
+Quotient: 5 | Remainder: 3
+###
+17. Instruction: Given a sentence, identify the most important keyword.
+17. Input: 
+Maria loves to bake cakes for her friends and family.
+17. Output: 
+Keyword: cakes
+###
+18. Instruction: Given a set of words, arrange them in alphabetical order.
+18. Input: 
+Violet, Indigo, Blue, Green, Yellow, Orange, Red
+18. Output: 
+Blue, Green, Indigo, Orange, Red, Violet, Yellow
+###
+19. Instruction: Given a sentence, add a modifying phrase to provide additional information.
+19. Input: 
+The girl walked to school.
+19. Output: 
+The girl, wearing a pink backpack, walked to school.
+###
+20. Instruction: Given a sentence with a homophone error, correct the error.
+20. Input: 
+Their going to the party next week.
+20. Output: 
+They're going to the party next week.

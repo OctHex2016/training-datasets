@@ -1,0 +1,104 @@
+4. Instruction: Reorder the following sentences to form a coherent story.
+4. Input: 
+- Jeremy saw Sally walking towards the park.
+- Sally invited Jeremy to join her on the bench and have lunch together.
+- They exchanged numbers and promised to stay in touch.
+- As Jeremy was about to continue his walk, Sally called out to him.
+4. Output: 
+- Jeremy saw Sally walking towards the park.
+- As Jeremy was about to continue his walk, Sally called out to him.
+- Sally invited Jeremy to join her on the bench and have lunch together.
+- They exchanged numbers and promised to stay in touch.
+
+5. Instruction: Translate the following English text into French.
+5. Input: <noinput>
+5. Output: Traduisez le texte suivant en anglais en français.
+
+6. Instruction: Create a haiku about a crisp autumn day.
+6. Input: <noinput>
+6. Output: Leaves crunch underfoot,
+Golden hues paint the forest,
+Autumn air whispers.
+
+7. Instruction: Identify the subject and predicate of the following sentence.
+7. Input: The children played with their toys in the park.
+7. Output: Subject: The children, Predicate: played with their toys in the park
+
+8. Instruction: Convert the following active voice sentence into passive voice.
+8. Input: The students completed the assignment on time.
+8. Output: The assignment was completed on time by the students.
+
+9. Instruction: Imagine you are writing an email to your boss explaining that you need to leave work early due to a personal emergency. Write a short, polite, and professional email.
+9. Input: <noinput>
+9. Output: Subject: Request for early leave today
+
+Dear [Boss's Name],
+
+I hope this email finds you well. Unfortunately, I am experiencing an unexpected personal emergency that requires my attention today. As a result, I am kindly requesting your permission to leave work early.
+
+Please let me know if there are any necessary steps or additional information needed for this request. I will make sure to complete and handover any urgent tasks before leaving.
+
+Thank you for your understanding and support.
+
+Sincerely,
+[Your Name]
+
+10. Instruction: Choose the correct form of the verb for each sentence. 
+10. Input:
+- They (goes/go) to the cinema every week.
+- She (has/have) brown hair.
+10. Output:
+- They go to the cinema every week.
+- She has brown hair.
+
+11. Instruction: Rewrite the following sentences into a single sentence without loss of meaning, using correct punctuation and grammar.
+11. Input: 
+- The cake was delicious. It had a chocolate frosting. We all enjoyed it.
+11. Output: The cake, which was delicious and had a chocolate frosting, was enjoyed by all.
+
+12. Instruction: Indicate which sentence is grammatically correct.
+12. Input: 
+- Its raining outside, so bring you're umbrella.
+- It's raining outside, so bring your umbrella.
+12. Output: It's raining outside, so bring your umbrella.
+
+13. Instruction: Detect and correct the spelling mistakes in the sentence.
+13. Input: She has a great sence of humer and always makes everyone laogh.
+13. Output: She has a great sense of humor and always makes everyone laugh.
+
+14. Instruction: Identify whether each word in the given list is a noun, adjective, or verb.
+14. Input:
+- beautiful
+- read
+- cat
+14. Output:
+- beautiful (adjective)
+- read (verb)
+- cat (noun)
+
+15. Instruction: Compose a brief positive review of a fictional restaurant called "Bistro Bella".
+15. Input: <noinput>
+15. Output: I had dinner at Bistro Bella last night, and I was thoroughly impressed! From the moment I entered, the inviting ambience and pleasant service made for a fantastic experience. The food was superb – the risotto with truffle oil was divine, and the tiramisu was truly a masterpiece. I will definitely be returning to Bistro Bella and recommend it to anyone seeking an unforgettable dining experience!
+
+16. Instruction: Explain the difference between a cold and the flu.
+16. Input: <noinput>
+16. Output: A cold and the flu are both respiratory illnesses caused by different viruses. A cold usually has milder symptoms such as sneezing, coughing, sore throat, and a runny nose. In contrast, the flu tends to have more severe symptoms like high fever, body aches, extreme tiredness, and sometimes respiratory problems like pneumonia. The flu often comes on suddenly, while a cold develops more gradually. Additionally, the flu can lead to complications and is more dangerous, especially for young children, elderly people, and those with weakened immune systems.
+
+17. Instruction: Give a brief explanation of how photosynthesis works.
+17. Input: <noinput>
+17. Output: Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, water, and carbon dioxide into sugars and oxygen. In the presence of sunlight, chlorophyll (a pigment inside the chloroplasts of plant cells) absorbs the light energy. This energy is then used to power a series of chemical reactions that convert water and carbon dioxide into glucose, a simple sugar, and oxygen gas. The glucose is then used by the plant as an energy source for growth and reproduction, and the oxygen is released into the atmosphere as a byproduct.
+
+18. Instruction: Evaluate the following argument: "If Sally is taller than Mark, and Mark is taller than John, then Sally is taller than John."
+18. Input: <noinput>
+18. Output: The argument is valid, as it correctly applies the transitive property of relationships. If Sally is taller than Mark (the first premise) and Mark is taller than John (the second premise), then it logically follows that Sally is taller than John.
+
+19. Instruction: List any three benefits of regular exercise.
+19. Input: <noinput>
+19. Output: 
+1. Improved physical health: Regular exercise strengthens the muscles, bones and increases cardiovascular health, reducing the risk of chronic diseases.
+2. Mental well-being: Exercise releases endorphins that improve mood, relieve stress, and reduce symptoms of depression and anxiety.
+3. Weight management: Engaging in regular physical activity helps maintain a healthy weight by burning calories and increasing metabolism.
+
+20. Instruction: Summarize the following text.
+20. Input: In recent years, many businesses have started implementing strategies to improve their environmental footprint. One common approach is by reducing plastic waste, primarily from single-use items like bags, straws, and bottles. Companies are exploring alternatives, such as biodegradable materials, refillable systems, or paper products, to better cater to eco-conscious consumers. Additionally, organizations are working to reduce their energy consumption by investing in energy-efficient technologies like LED lighting, motion sensors, and solar panels. These actions not only help protect the environment but can also save businesses money in the long run.
+20. Output: Many businesses are adopting eco-friendly practices, such as reducing plastic waste from single-use items and investing in energy-efficient technologies. This helps protect the environment, appeals to eco-conscious consumers, and can also save businesses money in the long term.

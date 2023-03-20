@@ -1,0 +1,73 @@
+4. Instruction: Translate the following text from French to English.
+4. Input: 
+La Joconde est un tableau de Léonard de Vinci, réalisé entre 1503 et 1506, qui représente un portrait mi-corps, probablement celui de la Florentine Lisa Gherardini, épouse de Francesco del Giocondo, et qui est exposé au musée du Louvre à Paris, la capitale de la France. Il s'agit de l'une des œuvres d'art les plus célèbres et les plus reproduites du monde.
+4. Output: 
+The Mona Lisa is a painting by Leonardo da Vinci, created between 1503 and 1506, which represents a half-length portrait, probably that of the Florentine Lisa Gherardini, wife of Francesco del Giocondo, and which is exhibited at the Louvre Museum in Paris, the capital of France. It is one of the most famous and most reproduced works of art in the world.
+
+5. Instruction: Recommend a suitable course of action to prevent procrastination for college students.
+5. Input: <noinput>
+5. Output: 
+To prevent procrastination, college students should create a well-structured schedule with specific deadlines, allowing for short breaks and rewards after completing tasks. Practicing effective time management, maintaining a clutter-free work environment, eliminating distractions, following the "2-minute rule" for small tasks, setting realistic goals, and focusing on the benefits of timely task completion will help prevent procrastination.
+
+6. Instruction: Identify the meter used in the given poem excerpt and note any deviations.
+6. Input: 
+Shall I compare thee to a summer's day? 
+Thou art more lovely and more temperate: 
+Rough winds do shake the darling buds of May, 
+And summer's lease hath all too short a date.
+6. Output: 
+The meter used in this poem excerpt is iambic pentameter. There are no significant deviations in the given excerpt.
+
+7. Instruction: Rewrite the following sentence with proper punctuation and grammar.
+7. Input: 
+their going to theyre friends house, whom they haven't seen in 5 years; for a pool party.
+7. Output: 
+They're going to their friend's house, whom they haven't seen in five years, for a pool party.
+
+8. Instruction: Suggest a dish and a beverage to pair with the dish, based on the given cuisine.
+8. Input: 
+Italian cuisine
+8. Output: 
+Dish: Chicken Piccata
+Beverage: Chianti or Sauvignon Blanc
+
+9. Instruction: Explain the relationship between economic growth and environmental sustainability.
+9. Input: <noinput> 
+9. Output: 
+Economic growth often results in increased production and consumption, leading to a greater utilization of natural resources and higher carbon emissions. This can negatively impact the environment and contribute to issues like deforestation, air and water pollution, and climate change. However, environmental sustainability focuses on balancing current needs with the preservation of resources for future generations. There is a need for innovative solutions, such as cleaner technologies, renewable energy, and sustainable practices, to ensure that economic growth aligns with environmental sustainability and does not harm the planet.
+
+10. Instruction: Classify the given statement as an example of ethos, pathos, or logos.
+10. Input: 
+Aristotle’s ideas have guided Western thought for centuries, so studying his works will likely provide valuable insights into human nature and life.
+10. Output: 
+Ethos
+
+11. Instruction: Briefly summarize the main storyline of the Shakespearean tragedy "Macbeth."
+11. Input: <noinput>
+11. Output: 
+Macbeth, a brave and ambitious Scottish general, receives a prophecy from three witches that he will become King of Scotland. Consumed by his ambitions and driven by his manipulative wife, Lady Macbeth, Macbeth murders King Duncan and seizes the throne. This leads to a series of murders to consolidate power, guilt, paranoia, and a descent into madness for both Macbeth and Lady Macbeth. Ultimately, Macbeth is defeated and killed in battle, and his actions bring chaos and tragedy to Scotland.
+
+12. Instruction: List the nutrients in a medium-sized apple.
+12. Input: <noinput>
+12. Output: 
+A medium-sized apple contains dietary fiber, vitamin C, potassium, and small amounts of vitamin A, calcium, and iron. It also contains sugar, mainly in the form of fructose.
+
+13. Instruction: Suggest five different ways an individual can manage stress more effectively.
+13. Input: <noinput>
+13. Output: 
+1. Engage in regular physical exercise.
+2. Practice deep breathing or meditation techniques.
+3. Maintain a balanced diet and prioritize sleep.
+4. Set realistic goals and break tasks into manageable parts.
+5. Seek social support from friends, family, or a professional counselor.
+
+14. Instruction: Identify the main purpose of the U.S. Constitution and three key concepts it embodies.
+14. Input: <noinput>
+14. Output: 
+The main purpose of the U.S. Constitution is to establish the framework for the U.S. government, defining powers and structure while protecting citizens' rights. Three key concepts it embodies are the separation of powers, checks and balances, and federalism.
+
+15. Instruction: Analyze the given brand slogan and explain what it conveys about the brand's personality.
+15. Input: 
+Just do it! – Nike
+15. Output: 
+The Nike slogan "Just Do It!" conveys a sense of bold confidence, motivation, and empowerment in the face of challenges or self-doubt. It encourages action and determination, reflecting Nike's association with athleticism, high performance, and perseverance.

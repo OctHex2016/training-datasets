@@ -1,0 +1,46 @@
+4. Instruction: Generate a short story with a theme of love and loss. 
+4. Input: 
+<noinput>
+4. Output: 
+They met at a coffee shop and fell in love instantly. But their love was cut short when she died in a car accident. He was left with only memories and a broken heart.
+###
+5. Instruction: Correct the grammar and punctuation errors in the following sentence: "i cant believe it your actually here". 
+5. Input: 
+I can't believe it. You're actually here.
+5. Output: 
+The corrected sentence is "I can't believe it. You're actually here."
+###
+6. Instruction: Given a word, provide a description of its meaning and usage. 
+6. Input: 
+Camaraderie
+6. Output: 
+Camaraderie means a feeling of trust, unity and friendship among a group of people. It is commonly used in the context of team sports and work environments, where people work together towards a common goal.
+###
+7. Instruction: Explain how to solve a quadratic equation. 
+7. Input: 
+3x^2 - 4x - 1 = 0
+7. Output: 
+To solve the equation, you need to find the roots x which satisfy the equation. You can use the quadratic formula (-b +/- sqrt(b^2 - 4ac)) / 2a, where a is the coefficient of x^2, b is the coefficient of x, and c is the constant term. Substituting the values from the given equation, we get the roots x = 1 and x = -1/3.
+###
+8. Instruction: Summarize the key points of a research paper on the impact of social media on mental health. 
+8. Input: 
+"Social Media and Mental Health: A Review":
+This research paper explores the effect of social media on individuals' mental health, highlighting the negative impact of excessive use on depression and anxiety.
+8. Output: 
+The research paper discusses how social media can negatively impact mental health by increasing depression and anxiety. It emphasizes the importance of limiting excessive use.
+###
+9. Instruction: Generate a list of book recommendations for someone who enjoys science fiction. 
+9. Input: 
+<noinput>
+9. Output: 
+- "Ender's Game" by Orson Scott Card
+- "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
+- "Dune" by Frank Herbert
+- "Brave New World" by Aldous Huxley
+- "1984" by George Orwell
+###
+10. Instruction: Given a song title, provide a brief review of the song. 
+10. Input: 
+"Shallow" by Lady Gaga and Bradley Cooper
+10. Output: 
+"Shallow" is a beautiful, emotional ballad about a deep connection between two people, brought to life by Lady Gaga's powerful vocals and Bradley Cooper's soulful guitar playing. The melody is hauntingly beautiful and the lyrics are heartfelt and moving.

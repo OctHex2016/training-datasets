@@ -1,0 +1,106 @@
+4. Instruction: Convert the given list of strings to lowercase.
+4. Input:
+['APPLE', 'ORANGE', 'BANANA']
+4. Output: 
+['apple', 'orange', 'banana']
+###
+5. Instruction: Based on the given features, classify the input dataset into one of the two categories.
+5. Input:
+Features - age, gender, education, income, marital status
+Dataset:
+
+| age | gender | education | income | marital status | label |
+|-----|--------|-----------|--------|----------------|-------|
+| 28  | Male   | Bachelor  | 60,000 | Single         | 1     |
+| 42  | Female | Master    | 90,000 | Married        | 2     |
+| 35  | Male   | PhD       | 120,000| Married        | ?     |
+5. Output:
+The input dataset can be classified into category 2. 
+###
+6. Instruction: Given two dates, calculate the number of days between them (inclusive).
+6. Input:
+(start date) 2021-08-01, (end date) 2021-08-07
+6. Output:
+The number of days between the given dates is 7.
+###
+7. Instruction: Given a sentence, remove all punctuations.
+7. Input:
+"The quick! Brown, fox jumps over: the lazy~ dog."
+7. Output:
+The quick Brown fox jumps over the lazy dog
+###
+8. Instruction: Given a sentence, replace all occurrences of the word "happy" with "glad".
+8. Input:
+"I am happy to meet you, hope you are also happy."
+8. Output:
+I am glad to meet you, hope you are also glad.
+###
+9. Instruction: Provide a brief summary of the given article.
+9. Input: <noinput>
+9. Output: 
+The article discusses the effects of climate change on polar bears in the Arctic. It explains how the melting ice is leading to a decrease in food, which in turn is causing a decline in the overall population of polar bears. The article also provides some solutions to reduce the impact of climate change on polar bears.
+###
+10. Instruction: Given a list of numbers, return the sum of all the odd numbers in the list.
+10. Input:
+[2, 3, 4, 6, 9, 11, 14, 16]
+10. Output:
+The sum of all the odd numbers in the list is 23.
+###
+11. Instruction: Rearrange the following words to form a grammatically correct sentence. "busy"/"lately"/"have"/"been"/"you".
+11. Input: <noinput>
+11. Output:
+Have you been busy lately?
+###
+12. Instruction: Given a paragraph, extract all phone numbers mentioned in it.
+12. Input:
+"My phone number is 555-1234. Please call me anytime. If I am not available, you can contact my office at (555) 555-5555."
+12. Output:
+[555-1234, (555) 555-5555]
+###
+13. Instruction: Based on the given key, extract the corresponding value from the dictionary.
+13. Input: 
+{"name": "John", "age": 30, "city": "New York"}
+Key: "age"
+13. Output:
+The corresponding value for the given key is 30.
+###
+14. Instruction: Convert the given text to camelCase.
+14. Input:
+"convert this text to camel case"
+14. Output:
+convertThisTextToCamelCase
+###
+15. Instruction: Classify the given image into one of the three categories: cat, dog, or bird.
+15. Input: (image file) 
+15. Output:
+The input image can be classified into the "dog" category.
+###
+16. Instruction: Given a sentence, output a new sentence that has all the words in reverse order.
+16. Input:
+"I love coding in Python"
+16. Output:
+Python in coding love I
+###
+17. Instruction: Given a sentence, replace all occurrences of the word "apple" with "banana".
+17. Input:
+"I have an apple, he has an apple, and she has an apple."
+17. Output:
+I have a banana, he has a banana, and she has a banana.
+###
+18. Instruction: Given a list of numbers, return the product of all the even numbers in the list.
+18. Input:
+[2, 3, 4, 5, 6, 7, 8]
+18. Output:
+The product of all the even numbers in the list is 64.
+###
+19. Instruction: Given a sentence, return the number of times the word "the" occurs in it.
+19. Input:
+"The quick brown fox jumps over the lazy dog. The dog barks at the fox, but the fox keeps running."
+19. Output:
+The number of times the word "the" occurs in the sentence is 4.
+###
+20. Instruction: Convert the given list of integers to binary.
+20. Input:
+[11, 26, 39]
+20. Output:
+[1011, 11010, 100111]

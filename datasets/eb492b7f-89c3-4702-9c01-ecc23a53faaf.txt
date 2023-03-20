@@ -1,0 +1,95 @@
+4. Instruction: Rewrite the following sentence in the passive voice.
+4. Input: 
+The company will launch the new product next month. 
+4. Output: 
+The new product will be launched by the company next month. 
+###
+5. Instruction: What is the square root of 729? 
+5. Input: <noinput>
+5. Output: 
+27
+###
+6. Instruction: Sum the numbers in the following list.
+6. Input: 
+[3, 6, 9, 12, 15]
+6. Output: 
+45
+###
+7. Instruction: Find the synonym of the word "happy".
+7. Input: <noinput>
+7. Output: 
+joyful, delighted, pleased, content
+###
+8. Instruction: Generate a sentence with the word "ameliorate". 
+8. Input: <noinput>
+8. Output: 
+The company is taking steps to ameliorate the negative impact on the environment caused by its production activities.
+###
+9. Instruction: Identify the error in the following sentence.
+9. Input: 
+I have went shopping yesterday.
+9. Output: 
+The error is "have went". The correct form is "have gone".
+###
+10. Instruction: Rewrite the following sentence to make it more concise.
+10. Input: 
+The curriculum of this course contains a variety of different topics that are all related to the subject matter of the course. 
+10. Output: 
+The course covers diverse related topics.
+###
+11. Instruction: Correct the punctuation in the following sentence.
+11. Input: 
+The cat is very cute she has big green eyes and fluffy fur. 
+11. Output: 
+The cat is very cute. She has big green eyes and fluffy fur.
+###
+12. Instruction: Generate a sentence using the word "dogmatic". 
+12. Input: <noinput>
+12. Output: 
+John has a dogmatic approach to politics and is unwilling to consider alternative viewpoints.
+###
+13. Instruction: Identify the tense of the following sentence.
+13. Input: 
+I will have been working here for two years next month. 
+13. Output: 
+Future perfect continuous tense
+###
+14. Instruction: Correct the subject-verb agreement in the following sentence.
+14. Input: 
+The group of students is discussing their research projects. 
+14. Output: 
+The group of students are discussing their research projects.
+###
+15. Instruction: Find the antonym of the word "darkness". 
+15. Input: <noinput>
+15. Output: 
+Light
+###
+16. Instruction: Identify the subject and predicate in the following sentence.
+16. Input: 
+The coffee shop on Main Street has delicious pastries. 
+16. Output: 
+Subject: The coffee shop on Main Street
+Predicate: has delicious pastries
+###
+17. Instruction: Generate a sentence using the word "ubiquitous".
+17. Input: <noinput>
+17. Output: 
+Smartphones have become ubiquitous in modern society.
+###
+18. Instruction: Find the error in the following sentence.
+18. Input: 
+Me and my friend went hiking last weekend. 
+18. Output: 
+The error is using "Me" instead of "I". The sentence should be "My friend and I went hiking last weekend."
+###
+19. Instruction: What is the capital of Brazil?
+19. Input: <noinput>
+19. Output: 
+Brasília
+###
+20. Instruction: Correct the verb tense in the following sentence.
+20. Input: 
+I am studying computer science for 2 years now.
+20. Output: 
+The verb tense should be Present Perfect Continuous: "I have been studying computer science for 2 years now."

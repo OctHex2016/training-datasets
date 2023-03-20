@@ -1,0 +1,41 @@
+4. Instruction: Analyze the given text and provide relevant keywords or phrases.
+4. Input:
+Nuclear energy is an alternative source of energy that has the potential to reduce carbon emissions significantly. Not only does nuclear power produce electricity without generating carbon dioxide, but its waste products have significantly lower levels of radiation compared to burning fossil fuels.
+4. Output:
+Nuclear energy, alternative source, carbon emissions, nuclear power, electricity, carbon dioxide, waste products, radiation, fossil fuels.
+
+5. Instruction: Read the beginning of the story and provide an engaging continuation.
+5. Input:
+Once upon a time in a small peaceful village, there lived a girl named Ella. Ella was known for her beautiful voice, and every night she sang for the townsfolk.
+5. Output:
+One day, the village chief received news of a visiting noble from a neighboring kingdom, who was fascinated with musical talents. Hearing of Ella's beautiful voice, the noble asked for her to perform at his esteemed gala. The villagers were thrilled and worked together to create a stunning gown for Ella. As the night approached, Ella practiced her most enchanting song, ready to leave a mark on the hearts of everyone in attendance.
+
+6. Instruction: Identify the poetic device(s) used in this line of poetry.
+6. Input:
+The sun set, painting the sky a vivid canvas of color.
+6. Output:
+Imagery, metaphor.
+
+7. Instruction: Write a recipe summary for vegetarian lasagna.
+7. Input:
+<noinput>
+7. Output:
+In this vegetarian lasagna recipe, we layer a delicious marinara sauce, a mix of vegetables such as spinach, zucchini, and mushrooms, ricotta and mozzarella cheeses, and no-boil lasagna noodles. The dish is baked in the oven until it's bubbly, golden, and ready to serve. Enjoy a hearty, meat-free meal that's packed with flavor and satisfying for the whole family.
+
+8. Instruction: Evaluate the statement and determine if it is true or false: "Polar bears are white because their fur has no pigmentation."
+8. Input:
+<noinput>
+8. Output:
+True
+
+9. Instruction: Summarize the main point of the article provided.
+9. Input:
+Apple Inc. has announced that the much-awaited iPhone 14 series will be launched in September 2023. According to the company, the flagship models will feature breakthrough innovations in its camera system, display technology, and chip design. Additionally, it will also introduce a new design language for the first time since 2017. The tech giant is aiming to strengthen its market position and capture a larger consumer base by offering an unparalleled user experience.
+9. Output:
+Apple Inc. is launching the iPhone 14 series in September 2023, featuring breakthrough innovations in camera, display, chip design, and a new design language. The company aims to strengthen its market position and attract a larger consumer base with this release.
+
+10. Instruction: Explain the scientific concept of osmosis in simple terms.
+10. Input:
+<noinput>
+10. Output:
+Osmosis is the movement of water molecules through a selectively permeable membrane from an area of lower solute concentration (more water) to an area of higher solute concentration (less water). This process helps to balance the concentration of dissolved substances on both sides of the membrane.

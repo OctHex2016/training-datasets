@@ -1,0 +1,114 @@
+4. Instruction: Analyze a given text and report any hyperboles in the text. A hyperbole is an extreme exaggeration.
+4. Input: 
+I'm so hungry I could eat a horse. My suitcase weighed a ton. She cried a river of tears when she found out the news.
+4. Output: 
+Hyperboles found:
+1. I could eat a horse.
+2. My suitcase weighed a ton.
+3. She cried a river of tears.
+###
+5. Instruction: Convert a given temperature in Celsius to Fahrenheit.
+5. Input: 
+37 °C
+5. Output: 
+98.6 °F
+###
+6. Instruction: State the main intention of the following text.
+6. Input: 
+We are writing to express our dissatisfaction with the recent order from your company. The products we received were not as described and were of poor quality. We request that you rectify the situation and replace the products or issue a refund as soon as possible, to avoid further inconvenience.
+6. Output: 
+The main intention of the text is to express dissatisfaction with a recent order and request that the products be replaced or a refund be issued.
+###
+7. Instruction: For a given text, point out any instances of sarcasm.
+7. Input: 
+Oh great, I just love sitting in traffic for hours. Just what I needed, another coffee mug for my collection. Is there anything better than being sick during a vacation?
+7. Output: 
+Sarcasm instances:
+1. I just love sitting in traffic for hours.
+2. Just what I needed, another coffee mug for my collection.
+3. Is there anything better than being sick during a vacation?
+###
+8. Instruction: Correct any grammar or spelling errors in the following text.
+8. Input: 
+Their going to they're friends house. The books is on the tabel. She was confuse when the cat jump onto the counter.
+8. Output: 
+They're going to their friends' house. The book is on the table. She was confused when the cat jumped onto the counter.
+###
+9. Instruction: Create a rhyming couplet using the provided phrase.
+9. Input: 
+Life is a journey
+9. Output: 
+Life is a journey, full of twists and turns,
+Face every challenge, let the fire within you burns.
+###
+10. Instruction: Rewrite the given sentence in passive voice.
+10. Input: 
+The dog bit the mail carrier.
+10. Output: 
+The mail carrier was bitten by the dog.
+###
+11. Instruction: Describe the given idiom's meaning and use it in a sentence.
+11. Input: 
+Bite the bullet
+11. Output: 
+Meaning: To face a difficult situation with courage and determination.
+Sentence: Realizing there was no way to avoid the consequences, he decided to bite the bullet and confess his mistake to his supervisor.
+###
+12. Instruction: Suggest three names for a new smartphone model.
+12. Input: 
+<noinput>
+12. Output: 
+1. Spectra X1
+2. Apollo Elite
+3. Fusion Pro
+###
+13. Instruction: Based on the given information, determine which person is taller.
+13. Input: 
+Alex is 5'11" (180 cm), and Olivia is 6'0" (183 cm).
+13. Output: 
+Olivia is taller.
+###
+14. Instruction: Paraphrase the given quotation using simpler language.
+14. Input: 
+"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment." - Ralph Waldo Emerson
+14. Output: 
+Staying true to yourself when the world is always pushing you to change is the most significant achievement.
+###
+15. Instruction: Identify the protagonist and antagonist in the given summary.
+15. Input: 
+In a small rural village, a kind-hearted and shy girl named Rose encounters a cunning and deceitful merchant named James, who tries to cheat her family out of their valuable possessions. Little by little, Rose discovers her own strength and courage, eventually outwitting James and saving her family from his evil schemes.
+15. Output: 
+Protagonist: Rose
+Antagonist: James
+###
+16. Instruction: Calculate the total cost of the items in a given shopping list.
+16. Input: 
+5 apples at $0.50 each, 2 packs of rice at $2.00 each, 4 cans of soda at $1.25 each, and 1 box of cereal at $4.00.
+16. Output: 
+Total cost: $14.25
+###
+17. Instruction: Describe the color and pattern of a tie that would go well with a navy blue suit.
+17. Input: 
+<noinput>
+17. Output: 
+A tie with a light-to-medium shade of blue or gray, featuring a subtle diagonal striped pattern, would go well with a navy blue suit.
+###
+18. Instruction: Translate the following sentence into French.
+18. Input: 
+Where is the nearest train station?
+18. Output: 
+Où se trouve la gare la plus proche?
+###
+19. Instruction: Choose the correct word to fill in the blank in the given sentence.
+19. Input: 
+The plate slipped from her grasp and the sound of shattering glass echoed (through, threw) the room.
+19. Output: 
+The plate slipped from her grasp and the sound of shattering glass echoed through the room.
+###
+20. Instruction: Provide three interesting facts about the Great Wall of China.
+20. Input: 
+<noinput>
+20. Output: 
+1. The Great Wall of China is approximately 13,171 miles (21,196 kilometers) in length.
+2. Construction of the wall began in the 7th century BC and took over 2,000 years to complete.
+3. The wall was originally built to protect China from invasions by nomadic tribes and to maintain control over trade along the Silk Road.

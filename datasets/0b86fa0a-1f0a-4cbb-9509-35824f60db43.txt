@@ -1,0 +1,110 @@
+4. Instruction: Create a sentence using the given phrasal verb in context. 
+4. Input: 
+Phrasal verb: break down
+Context: After driving for hours, my car suddenly stopped working.
+4. Output: 
+My car broke down after driving for hours, leaving me stuck on the side of the road with no help in sight.
+###
+5. Instruction: Find the synonym for the given word. 
+5. Input: 
+Word: significant
+5. Output: 
+Important
+###
+6. Instruction: Rewrite the given sentence to remove passive voice. 
+6. Input: 
+Sentence: The cake was baked by the chef for the wedding.
+6. Output: 
+The chef baked the cake for the wedding.
+###
+7. Instruction: Explain the concept of supply and demand. 
+7. Input: 
+<noinput>
+7. Output: 
+Supply and demand is a fundamental concept in economics that describes how the availability of goods and services directly affects their market price. When the supply of a product increases, assuming that demand remains constant, the price of that product will decrease. Conversely, if the supply of a product decreases and the demand remains the same, the price of that product will increase.
+###
+8. Instruction: Write a poem about a sunset.
+8. Input: 
+<noinput>
+8. Output: 
+The sky glows with a fiery hue,
+As the sun sets out of view.
+Colors blend and dance and fuse,
+Bringing peace with every hue.
+The sky fades to a gentle hue,
+As evening blankets me and you.
+With each sunset, a new day is born,
+And with its beauty, our souls are reborn. 
+###
+9. Instruction: Translate the given sentence into Spanish.
+9. Input: 
+Sentence: I love to watch the stars at night.
+9. Output: 
+Me encanta mirar las estrellas por la noche.
+###
+10. Instruction: Identify the punctuation error in the given sentence. 
+10. Input: 
+Sentence: The dog, barked loudly at the mailman.
+10. Output: 
+There is a comma error: it should be "The dog barked loudly at the mailman."
+###
+11. Instruction: Rewrite the following sentence to change its voice to active. 
+11. Input: 
+Sentence: The movies are being watched by us.
+11. Output: 
+We are watching the movies.
+###
+12. Instruction: Define the term "cognitive dissonance". 
+12. Input: 
+<noinput>
+12. Output: 
+Cognitive dissonance is a psychological concept which describes the mental discomfort experienced by individuals who hold two or more contradictory beliefs, values, or ideas at the same time. This discomfort often leads to a change in behavior or a rationalization of these conflicting beliefs in order to reduce the dissonance.
+###
+13. Instruction: Write a short story about a person who finds a mysterious package on their doorstep.
+13. Input: 
+<noinput>
+13. Output: 
+As the person approached their front door, they noticed a small, unmarked package lying on their doorstep. After hesitating for a moment, they picked up the package and brought it inside. They carefully peeled away the wrapping to reveal a strange object they had never seen before. As they examined it closer, they realized that this was no ordinary package. Little did they know, this was the beginning of the most intriguing and dangerous adventure of their life.
+###
+14. Instruction: State the difference between "affect" and "effect". 
+14. Input: 
+<noinput>
+14. Output: 
+Affect refers to the action of influencing or producing change, while effect refers to a change that is brought about by an action or cause. A simple way to differentiate between the two is to remember that affect is a verb while effect is mostly used as a noun.
+###
+15. Instruction: Write a summary of the given article. 
+15. Input: 
+Article: https://www.nytimes.com/2021/05/23/us/politics/texas-abortion-supreme-court.html
+15. Output: 
+In a major challenge to Roe v. Wade, Texas Governor signed a law banning abortions after six weeks of pregnancy, which is before many women even know they are pregnant. The law includes a rarely used enforcement mechanism that allows private citizens to sue anyone who they believe has violated the law, including doctors who perform abortions or people who help facilitate the procedure. This law is expected to be appealed all the way to the Supreme Court.
+###
+16. Instruction: Write a sentence using the given synonym in context. 
+16. Input: 
+Synonym: jubilant
+Context: Your team just won the championship game.
+16. Output: 
+After your team just won the championship game, you feel absolutely jubilant.
+###
+17. Instruction: Suggest an alternative phrasing for the given sentence. 
+17. Input: 
+Sentence: She is not only smart, but also kind.
+17. Output: 
+Not only is she smart, but she is also kind. 
+###
+18. Instruction: Identify the error in subject-verb agreement in the given sentence. 
+18. Input: 
+Sentence: The group of friends are planning a trip to the beach.
+18. Output: 
+There is a subject-verb agreement error; "group" is a singular noun and should be followed by "is" instead of "are", so the correct sentence is "The group of friends is planning a trip to the beach."
+###
+19. Instruction: Rewrite the following sentence in the present perfect tense. 
+19. Input: 
+Sentence: She ate five tacos at the restaurant near her house.
+19. Output: 
+She has eaten five tacos at the restaurant near her house.
+###
+20. Instruction: Define the term "gaslighting". 
+20. Input: 
+<noinput>
+20. Output: 
+Gaslighting is a form of emotional abuse in which an individual manipulates another person into doubting their own memory, perception, or sanity. It is a tactic often used by narcissists, and it can be extremely damaging to the victim's mental health and well-being. The goal of gaslighting is to gain control over the victim, making them unsure of themselves and dependent on the gaslighter's approval or support.

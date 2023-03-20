@@ -1,0 +1,133 @@
+4. Instruction: Write a short summary about the plot of a well-known book or movie. 
+4. Input: 
+Book/Movie Title: The Great Gatsby
+4. Output: 
+The Great Gatsby is a novel by F. Scott Fitzgerald. The story follows the wealthy Jay Gatsby, as he tries to win back his former love, Daisy Buchanan. The book is a commentary on the decadence and shallow values of the wealthy in 1920s America.
+###
+5. Instruction: Explain how to make your favorite dish or beverage. 
+5. Input: 
+Name of dish/beverage: Spaghetti Carbonara
+5. Output: 
+Spaghetti Carbonara is an Italian dish made with spaghetti, eggs, cheese, and bacon. To make it:
+· Cook spaghetti according to package instructions.
+· In a separate pan, cook bacon until crispy.
+· In a bowl, whisk together eggs and parmesan cheese.
+· Drain spaghetti and add to the pan with the bacon.
+· Remove from heat, add the egg mixture, and stir constantly until the sauce thickens.
+· Serve hot.
+###
+6. Instruction: Define a technical term used in your field of study. 
+6. Input: 
+Term: Dependent Variable
+6. Output: 
+In research, a dependent variable is a variable that is being measured or tested in an experiment. It is dependent on the independent variable, which is the variable being manipulated or changed. The dependent variable is used to measure the effect or impact of the independent variable on the outcome.
+###
+7. Instruction: Generate a list of things to do on a rainy day. 
+7. Input: 
+<noinput>
+7. Output: 
+On a rainy day, you can:
+· Read a book or watch a movie
+· Bake some cookies or make some hot chocolate
+· Do a puzzle or play board games
+· Try out a new art project or craft
+· Have a game day with your friends or family
+· Write in your journal or start a new one
+· Clean out your closet or do some decluttering
+· Relax with a bubble bath or spa day at home
+###
+8. Instruction: Create an interesting sentence using a word provided. 
+8. Input: 
+Word: Serendipity
+8. Output: 
+Serendipity brought us together in the most unexpected way.
+###
+9. Instruction: Rewrite a sentence to be clearer and more concise. 
+9. Input: 
+Sentence to edit: The students who are in the writing course, which is mandatory, are required to attend every class meeting, which meets twice a week.
+9. Output: 
+Writing course students must attend every twice-weekly meeting.
+###
+10. Instruction: Provide a definition for a commonly used idiom. 
+10. Input: 
+Idiom: Piece of cake
+10. Output: 
+Piece of cake is an idiom meaning that something is very easy to accomplish or do. It originated in the early 1900s, and some believe it comes from the idea of winning a cake at a fair as a prize or reward.
+###
+11. Instruction: Write a blog post about a recent travel experience. 
+11. Input: 
+<noinput>
+11. Output: 
+Last month I traveled to Japan for the first time. I was blown away by the rich culture and history, the kind and welcoming people, and the stunning landscapes. Some highlights of the trip included visiting the ancient temples in Kyoto, taking a cooking class to learn how to make sushi and ramen, and experiencing the hustle and bustle of Tokyo. I cannot wait to go back and explore more of this amazing country. 
+###
+12. Instruction: Provide step-by-step instructions to change a tire on a car. 
+12. Input: 
+<noinput>
+12. Output: 
+To change a tire on a car:
+· Find a safe and flat location to park the car and engage the emergency brake.
+· Use the tire iron to loosen the lug nuts on the flat tire.
+· Place the jack underneath the car in the designated lifting area.
+· Use the jack to lift the car until the flat tire is off the ground.
+· Remove the lug nuts and set them aside.
+· Remove the flat tire and place it aside.
+· Place the spare tire on the car and put the lug nuts back on.
+· Use the jack to lower the car back to the ground.
+· Use the tire iron to tighten the lug nuts.
+### 
+13. Instruction: Summarize a news article in one sentence. 
+13. Input: 
+Link to the article: https://www.bbc.com/news/world-asia-58016077
+13. Output: 
+Thousands of people are stranded as Typhoon In-Fa lashes eastern China.
+###
+14. Instruction: Write a short paragraph explaining the differences between two similar things. 
+14. Input: 
+Two things to compare: City and town
+14. Output: 
+Cities are typically larger and more populous than towns, with more diverse economies and cultural offerings. Towns, on the other hand, tend to be smaller and more tight-knit, with a slower pace of life and more of an emphasis on community values.
+###
+15. Instruction: Write a poem about a sunset. 
+15. Input: 
+<noinput>
+15. Output: 
+As the sun descends, 
+colors explode across the sky. 
+Pink, purple, orange, and red, 
+a magnificent goodbye.
+###
+16. Instruction: Write a review of your favorite book or movie. 
+16. Input: 
+Title of book/movie: The Hunger Games
+16. Output: 
+The Hunger Games is a thrilling dystopian novel that explores issues of power, inequality, and rebellion. With a strong and resourceful protagonist, an engaging plot, and a world that is both familiar and hauntingly different from our own, this book is a must-read for anyone who loves action, adventure, and intelligent social commentary.
+###
+17. Instruction: Ask a trivia question about a famous historical figure. 
+17. Input: 
+Name of historical figure: Leonardo da Vinci
+17. Output: 
+What is the title of the famous painting by Leonardo da Vinci that depicts the scene from the Last Supper?
+###
+18. Instruction: Come up with a witty response to a common greeting. 
+18. Input: 
+Common greeting: How are you?
+18. Output: 
+I'm like a dictionary, always up for wordplay.  
+###
+19. Instruction: Correct a grammatically incorrect sentence. 
+19. Input: 
+Incorrect sentence: There dog chased it's tail in circles.
+19. Output: 
+Their dog chased its tail in circles.
+###
+20. Instruction: Provide a step-by-step guide to creating an effective resume. 
+20. Input: 
+<noinput>
+20. Output: 
+To create an effective resume:
+· Start by brainstorming your skills, experiences, and achievements related to the job you want.
+· Choose a clear and easy-to-read format, with clear headings and bullet points.
+· Use keywords and phrases from the job posting to show that you are a good match for the position.
+· Focus on achievements, not just job duties, and use numbers or data when possible to quantify your impact.
+· Proofread and edit the document carefully, and have someone else check it as well.
+· Tailor each resume to the specific job you are applying for, and make sure it looks professional and polished.

@@ -1,0 +1,141 @@
+
+
+4. Instruction: Edit the following sentence to make it grammatically correct.
+4. Input: 
+She don’t eat meat.
+4. Output: 
+Edit the sentence to “She doesn’t eat meat.”
+###
+
+
+5. Instruction: Generate a movie title that includes the words "Dream" and "Nightmare". 
+5. Input: 
+<noinput>
+5. Output: 
+Dream Nightmare: A Journey Through the Unknown
+###
+
+
+6. Instruction: Write a function in Python to check whether a given string is a palindrome.
+6. Input: 
+Enter the string to check: "racecar"
+6. Output: 
+Input: Enter the string to check: "racecar"
+Output: True. The string is a palindrome.
+```
+def is_palindrome(s):
+    return s == s[::-1]
+ 
+# take input from the user
+user_input = input("Enter a string: ")
+ 
+if is_palindrome(user_input):
+    print("The string is a palindrome.")
+else:
+    print("The string is not a palindrome.")
+```
+
+
+7. Instruction: Find a synonym for the word "happy" in the following sentence. Output the sentence with the synonym.
+7. Input: 
+Jasmine was very happy with her test results. 
+7. Output: 
+Jasmine was elated with her test results.
+
+
+8. Instruction: Compose a question about the capital city of Guatemala.
+8. Input: 
+<noinput>
+8. Output: 
+What is the capital city of Guatemala?
+
+
+9. Instruction: Write a function in Python to remove all vowels from a given string.
+9. Input: 
+Enter a string: "Hello, World!"
+9. Output: 
+Input: Enter a string: "Hello, World!"
+Output: "Hll, Wrld!".
+```python
+def remove_vowels(s):
+    vowels = ('a', 'e', 'i', 'o', 'u')
+    result = ""
+    for c in s:
+        if c.lower() not in vowels:
+            result += c
+    return result
+ 
+# take input from the user
+user_input = input("Enter a string: ")
+ 
+print(remove_vowels(user_input))
+```
+
+
+10. Instruction: Write an imperative statement that asks to perform a search on Google Scholar for the article "Predictive Policing and Civil Rights" by Alfreda Robinson.
+10. Input: 
+<noinput>
+10. Output: 
+Perform a search on Google Scholar for the article "Predictive Policing and Civil Rights" by Alfreda Robinson.
+
+
+11. Instruction: Write a function to calculate the factorial of a given number.
+11. Input: 
+Enter a number to get its factorial: 5
+11. Output: 
+Input: Enter a number to get its factorial: 5
+Output: The factorial of 5 is 120.
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+ 
+# take input from the user
+user_input = int(input("Enter a number to get its factorial: "))
+ 
+print("The factorial of", user_input, "is", factorial(user_input))
+```
+
+
+12. Instruction: Edit the following sentence to make it more concise.
+12. Input: 
+The people who live in that house are my neighbors. 
+12. Output: 
+My neighbors live in that house. 
+
+
+13. Instruction: Generate a password that is 8 characters long.
+13. Input: 
+<noinput>
+13. Output: 
+Generate a password that is 8 characters long. 
+```python
+import random
+import string
+
+def generate_password(length):
+    password = ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+    return password
+
+password = generate_password(8)
+print(password)
+```
+
+
+14. Instruction: Write an explanation of the difference between machine learning and deep learning in less than 100 words.
+14. Input: 
+<noinput>
+14. Output: 
+Machine learning is a subset of artificial intelligence that uses algorithms to identify patterns in data and make predictions or decisions based on that data. Deep learning is a subset of machine learning that uses neural networks with many layers to analyze complex relationships in data. Essentially, deep learning encompasses machine learning but can handle more complex tasks and larger amounts of data. It uses a layered architecture to automatically learn features from the data, without relying on human-crafted features.
+
+
+15. Instruction: Write a piece of code to calculate the area of a circle with radius 5.
+15. Input: 
+<noinput>
+15. Output: 
+pi = 3.14159
+r = 5
+area = pi * r ** 2
+print(f"The area of the circle is {area:.2f}")

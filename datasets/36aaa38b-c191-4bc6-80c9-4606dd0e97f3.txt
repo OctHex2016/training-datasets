@@ -1,0 +1,110 @@
+4. Instruction: Rewrite this sentence in the active voice. 
+4. Input: 
+The cake was eaten by the dog.
+4. Output: 
+The dog ate the cake. 
+### 
+5. Instruction: Paraphrase the following paragraph. 
+5. Input: 
+Global warming is expected to have a significant impact on the earth's climate. There are a number of contributing factors, including deforestation and the burning of fossil fuels. If immediate action is not taken to mitigate these effects, the consequences could be catastrophic for the planet as a whole.
+5. Output: 
+The climate of the earth is believed to be largely impacted by global warming. This impact is caused by multiple factors such as deforestation and fossil fuel combustion, among others. The planet could face drastic consequences if measures are not taken to curb these issues immediately. 
+### 
+6. Instruction: Summarize the given news article. 
+6. Input: 
+Title: "COVID-19 vaccination distribution to begin next week"
+Link: https://www.cnn.com/2021/12/14/health/us-coronavirus-tuesday/index.html 
+6. Output: 
+The US is expected to begin distributing the COVID-19 vaccine next week. Frontline healthcare workers and long-term care facility residents will be the first to receive the vaccine. 
+### 
+7. Instruction: Turn the given question into a statement. 
+7. Input: 
+Is the store open on Sundays?
+7. Output: 
+The store is open on Sundays. 
+### 
+8. Instruction: Correct the grammar in the following sentence. 
+8. Input: 
+Me and my friends are going to the movies tonight.
+8. Output: 
+My friends and I are going to the movies tonight. 
+### 
+9. Instruction: Generate a sentence with a specified word. 
+9. Input: 
+Word: "extravagant"
+9. Output: 
+Susan's taste in fashion is quite extravagant. 
+### 
+10. Instruction: Compare and contrast the given two concepts. 
+10. Input: 
+Concept 1: iPhone 
+Concept 2: Android 
+10. Output: 
+The iPhone and Android have several differences and similarities. The iPhone is known for its user-friendly interface and the availability of a smaller range of models. In contrast, Android phones offer a more flexible and customizable experience with a wider range of device options. Additionally, the iPhone operating system is proprietary, while Android is open-source. 
+### 
+11. Instruction: Write a brief guide on how to make a simple salad. 
+11. Input: 
+<noinput>
+11. Output: 
+To make a simple salad, mix together your choice of greens, such as lettuce, spinach, or arugula, with vegetables like tomatoes, cucumbers, and carrots. Add a protein source like grilled chicken or tofu and a salad dressing of your choice. Toss everything together until it is well-combined and enjoy! 
+### 
+12. Instruction: Identify what is wrong with the following code. 
+12. Input: 
+Code: 
+x = 5
+y = "Hello, World!"
+print(x + y)
+12. Output: 
+The code will result in a TypeError because it is attempting to concatenate a string and an integer. To fix this issue, convert the integer to a string or the string to an integer before adding them together. 
+### 
+13. Instruction: State the definition of the given term. 
+13. Input: 
+Term: Empathy 
+13. Output: 
+Empathy refers to the ability to understand and share the feelings of others. It involves putting oneself in another person's shoes and feeling what they are feeling. Empathy is a critical component of emotional intelligence and can help build stronger relationships with others. 
+### 
+14. Instruction: Provide a few examples of the given topic. 
+14. Input: 
+Topic: Renewable energy sources 
+14. Output: 
+Renewable energy sources include solar power, wind power, hydroelectric power, geothermal power, and bioenergy. Solar power involves capturing the energy from the sun's rays and converting it into electricity. Wind power harnesses the energy from wind turbines to generate electricity. Hydroelectric power relies on the flow of water to generate electricity, while geothermal power uses the earth's internal heat to produce energy. Bioenergy involves using organic material such as wood or crops to generate heat or electricity. 
+### 
+15. Instruction: Transform the given image using a specific editing tool. 
+15. Input: 
+Image: https://unsplash.com/photos/Z5M6M8Wruoo 
+Tool: Photoshop 
+Task: Use the clone stamp tool to remove the power lines in the image. 
+15. Output: 
+<No output provided as the work is visual> 
+### 
+16. Instruction: Write a review about a recently watched movie. 
+16. Input: 
+Movie: Dune (2021)
+16. Output: 
+I recently watched Dune and was thoroughly impressed by the film's visuals and story. The cinematography was stunning, and the special effects were top-notch. The performances by the actors, particularly Timothy Chalamet and Rebecca Ferguson, were excellent. The movie stayed true to the book and offered a unique and immersive sci-fi experience. I highly recommend this film to anyone looking for an epic adventure. 
+### 
+17. Instruction: Describe a scientific concept in simple terms. 
+17. Input: 
+Concept: The theory of relativity 
+17. Output: 
+The theory of relativity is a scientific model developed by Albert Einstein to describe the way time, space, and gravity interact. Essentially, it suggests that time and space are not fixed and that they can change depending on the observer's perspective. It also explains how gravity works and how it can warp space-time. This theory has helped us better understand many phenomena in the universe and has had a significant impact on modern physics. 
+### 
+18. Instruction: Rewrite the following sentence in a formal tone. 
+18. Input: 
+Hey, what's up? 
+18. Output: 
+Hello, how are you doing today? 
+### 
+19. Instruction: Use the given list of words to write a haiku. 
+19. Input: 
+Words: Autumn, leaves, wind, rustling, red 
+19. Output: 
+Autumn leaves rustle, 
+Dancing on the wind's cold breath, 
+Red now turning brown. 
+### 
+20. Instruction: Write a letter to your supervisor requesting time off. 
+20. Input: 
+<noinput> 
+20. Output: 
+Dear [Supervisor's name], I'm writing to request time off from work for [insert dates]. There is an important family event that I need to attend, and I would like to use my vacation days to do so. I will make sure that all my work is up-to-date before I leave, and I will make arrangements to have my responsibilities covered while I am away. Thank you for your understanding, and I look forward to hearing back from you soon. Sincerely, [Your name]

@@ -1,0 +1,306 @@
+4. Instruction: Combine the given sentences into one coherent sentence without losing the meaning.
+4. Input: 
+The weather was terrible. I decided to watch a movie. I had a good time.
+4. Output: 
+Due to the terrible weather, I decided to watch a movie and had a good time.
+
+5. Instruction: Identify the primary genre of the given movie based on its description.
+5. Input: 
+A man with no name enters a small Western town while two rival families are fighting over the control of the town's money and resources. The stranger decides to play both sides for his own benefit.
+5. Output: 
+Western
+
+6. Instruction: Please explain the main difference between these two words: imply and infer.
+6. Input: 
+<noinput>
+6. Output: 
+The main difference between "imply" and "infer" is that "imply" refers to a speaker or writer suggesting something indirectly or subtly, while "infer" refers to a listener or reader deducing meaning from the information presented.
+
+7. Instruction: Translate the given sentence from English to Spanish.
+7. Input: 
+I am going to the supermarket to buy some groceries.
+7. Output: 
+Voy al supermercado a comprar algunos comestibles.
+
+8. Instruction: List three positive characteristics of the protagonist in the given literary description.
+8. Input: 
+Sherlock Holmes is a master detective, known for his keen observation skills, incredible deductive reasoning, and a strong work ethic that leads him to solve even the most difficult cases.
+8. Output: 
+1. Keen observation skills.
+2. Incredible deductive reasoning.
+3. Strong work ethic.
+
+9. Instruction: Identify which of the given statements is invalid in the context of the facts provided.
+9. Input: 
+Fact: Kelly is a vegan.
+Statement 1: Kelly eats vegetables.
+Statement 2: Kelly avoids consuming animal products.
+Statement 3: Kelly eats a hamburger for lunch.
+9. Output: 
+Statement 3
+
+10. Instruction: Provide a synonym for the given word.
+10. Input: 
+enormous
+10. Output: 
+gigantic
+
+11. Instruction: Improve the grammar and punctuation in the given sentence.
+11. Input: 
+its raining outside, let's stay in side!
+11. Output: 
+It's raining outside; let's stay inside!
+
+12. Instruction: What is the meaning of the given idiom?
+12. Input: 
+to let the cat out of the bag
+12. Output: 
+To reveal a secret, usually unintentionally.
+
+13. Instruction: Convert the given recipe's ingredients to metric units.
+13. Input: 
+1 cup flour,
+1/2 cup sugar,
+2 cups milk,
+4 tablespoons butter
+13. Output: 
+240 ml flour,
+100 ml sugar,
+480 ml milk,
+60 ml butter
+
+14. Instruction: Summarize the major events in the provided text.
+14. Input: 
+The story begins with Jack, a poor farmer, deciding to sell his cow for money. On the way to the market, he meets a man who offers Jack magic beans in exchange for the cow. Jack agrees, and when he returns home, Jack's mother is furious and throws the beans out the window. The next morning, a giant beanstalk has grown outside the house. Jack climbs the beanstalk and discovers a castle belonging to a giant. Jack steals several valuable items from the giant, including a goose that lays golden eggs and a magical harp. Eventually, the giant chases Jack down the beanstalk, but Jack manages to cut down the beanstalk just in time, causing the giant to fall to his death.
+14. Output: 
+Jack, a poor farmer, sells his cow for magic beans which grow into a giant beanstalk. He climbs it, discovers a giant's castle, and steals valuable items including a goose that lays golden eggs and a magical harp. The giant chases Jack, who cuts down the beanstalk, causing the giant's death.
+
+15. Instruction: What famous landmark is associated with the city mentioned in the given passage?
+15. Input: 
+Paris, the capital of France, is an enchanting city filled with art, culture, and history. From its quaint cobblestone streets to the fashionable boutiques, there is something for everyone in this bustling metropolis.
+15. Output: 
+Eiffel Tower16. Instruction: What is the name of the plant family the given flower belongs to?
+16. Input: 
+Tulip
+16. Output: 
+Liliaceae
+
+17. Instruction: Identify two possible themes portrayed in the provided literary excerpt.
+17. Input: 
+Romeo and Juliet, written by William Shakespeare, is a tragic love story about two young star-crossed lovers from feuding families. The play explores the nature of love, fate, and the conflict between the individual and society.
+17. Output: 
+1. The power of love.
+2. The consequences of feuds and societal conflicts.
+
+18. Instruction: Propose a suitable title for the given article.
+18. Input: 
+An article discusses the impact of climate change on the world's oceans. It explains how global warming causes sea levels to rise due to the melting ice caps and thermal expansion. The article also describes the devastating effects of ocean acidification, warmer water temperatures, and habitat destruction on marine ecosystems.
+18. Output: 
+Oceans in Peril: The Devastating Effects of Climate Change on Marine Ecosystems
+
+19. Instruction: Rearrange the given words to create a meaningful sentence.
+19. Input: 
+old the tree climbed the up boy
+19. Output: 
+The old boy climbed up the tree.
+
+20. Instruction: Describe the basic principle behind the scientific theory mentioned in the given sentence.
+20. Input: 
+The theory of evolution by natural selection was introduced by Charles Darwin in his 1859 book, "On the Origin of Species."
+20. Output: 
+The basic principle of the theory of evolution by natural selection is that organisms with traits better adapted to their environment are more likely to survive and pass on their favorable traits to offspring, gradually leading to changes in the population over time.
+
+21. Instruction: Match each of the following devices to their appropriate category based on the primary use.
+21. Input: 
+1. Smartphone
+2. Refrigerator
+3. Washing machine
+4. Laptop
+5. Oven
+
+Categories:
+A. Household Appliance
+B. Personal Computing
+C. Communication and Entertainment
+21. Output: 
+1. Smartphone - C. Communication and Entertainment
+2. Refrigerator - A. Household Appliance
+3. Washing machine - A. Household Appliance
+4. Laptop - B. Personal Computing
+5. Oven - A. Household Appliance
+
+22. Instruction: What type of logical fallacy is demonstrated in the provided argument?
+22. Input: 
+All my friends love this restaurant, so it must be good.
+22. Output: 
+Bandwagon fallacy
+
+23. Instruction: Rewrite the given sentence in the passive voice.
+23. Input: 
+The cat chased the mouse.
+23. Output: 
+The mouse was chased by the cat.
+
+24. Instruction: What famous person is referenced in the provided quote?
+24. Input: 
+"Float like a butterfly, sting like a bee."
+24. Output: 
+Muhammad Ali
+
+25. Instruction: Identify the given literary device used in the provided excerpt.
+25. Input: 
+The curtains of his bed were drawn aside, and Scrooge, starting up into a half-recumbent attitude, found himself face to face with the unearthly visitor who drew them...
+25. Output: 
+personification26. Instruction: Correct the typo in the given sentence.
+26. Input: 
+The resaurant was crowded during dinner time.
+26. Output: 
+The restaurant was crowded during dinner time.
+
+27. Instruction: Provide an antonym for the given word.
+27. Input: 
+expand
+27. Output: 
+contract
+
+28. Instruction: List three safety precautions mentioned in the given text.
+28. Input: 
+When working with power tools, proper safety precautions are necessary. Always wear the appropriate protective equipment, such as safety goggles and gloves. Be sure to unplug the power tool when not in use, and never use a power tool near flammable materials or in wet conditions.
+28. Output: 
+1. Wearing appropriate protective equipment.
+2. Unplugging power tools when not in use.
+3. Avoiding use near flammable materials and wet conditions.
+
+29. Instruction: Convert the given time from military (24-hour) format to standard (12-hour) format.
+29. Input: 
+18:30
+29. Output: 
+6:30 PM
+
+30. Instruction: Explain the difference between the two terms provided.
+30. Input: 
+weather and climate
+30. Output: 
+Weather refers to the short-term atmospheric conditions, including temperature, humidity, precipitation, and wind. Climate, on the other hand, refers to the long-term average weather patterns in a region, typically defined by averages and variations over a period of at least 30 years.
+
+31. Instruction: Determine the figure of speech used in the provided quote.
+31. Input: 
+"Success is not the key to happiness. Happiness is the key to success." - Albert Schweitzer
+31. Output: 
+Antithesis
+
+32. Instruction: Write a brief definition for the given word.
+32. Input: 
+obfuscate
+32. Output: 
+To deliberately make something difficult to understand, usually with the intention to confuse or deceive.
+
+33. Instruction: What is the ordinal form of the given number?
+33. Input: 
+15
+33. Output: 
+15th
+
+34. Instruction: Write a friendly and polite closing statement for an email.
+34. Input: 
+<noinput>
+34. Output: 
+Thank you for your time, and I look forward to hearing from you soon. Have a great day!
+
+35. Instruction: What is the capital city of the country mentioned in the given text?
+35. Input: 
+Australia is known for its amazing wildlife, stunning landscapes, and beautiful beaches. The continent is home to several major cities, including Sydney, Melbourne, and Brisbane.
+35. Output: 
+Canberra
+
+36. Instruction: Describe the process mentioned in the given text in three steps.
+36. Input: 
+Photosynthesis is the process by which green plants convert sunlight, carbon dioxide, and water into glucose and oxygen. The energy absorbed by chlorophyll within the plant's cells allows the plant to power this chemical reaction, providing the plant with energy and releasing oxygen as a byproduct.
+36. Output: 
+1. Chlorophyll absorbs sunlight in the plant's cells.
+2. The plant combines carbon dioxide and water using absorbed energy.
+3. Glucose is produced for the plant's energy, and oxygen is released as a byproduct.
+
+37. Instruction: Spot the oxymoron in the given sentence.
+37. Input: 
+The book was a tragic comedy, full of unexpected twists and turns.
+37. Output: 
+tragic comedy
+
+38. Instruction: Extract the primary argument made by the author in the provided text.
+38. Input: 
+In his essay, John argues that despite the advancements in technology, the importance of human interaction should not be overlooked. He claims that technology should be used as a tool for enhancing communication rather than replacing it entirely.
+38. Output: 
+The importance of human interaction should not be overlooked, even with advancements in technology.
+
+39. Instruction: What does the author imply by the following statement?
+39. Input: 
+Wise investments in your youth can pay hefty dividends in the future.
+39. Output: 
+Sensible financial decisions made early in life can lead to significant financial benefits later.
+
+40. Instruction: Identify the type of statistical error in the given statement.
+40. Input: 
+A small sample of people surveyed believe that the majority of the population approves of a new controversial policy.
+40. Output: 
+Sampling error41. Instruction: What likely event is described in the given idiom?
+41. Input: 
+break the ice
+41. Output: 
+Initiating conversation or social interaction between people who were previously unfamiliar or uncomfortable with each other.
+
+42. Instruction: Provide the singular form of the given word.
+42. Input: 
+mice
+42. Output: 
+mouse
+
+43. Instruction: Compute the sum of the numbers provided.
+43. Input: 
+273, -128, 25, 89
+43. Output: 
+259
+
+44. Instruction: Find the main source of conflict in the given literary description.
+44. Input: 
+In George Orwell's "Animal Farm," the animals on a farm rebel against their human owner, Mr. Jones, to establish a society where animals control their own lives. However, the pigs on the farm, led by the cunning Napoleon, gradually take control and corrupt the original ideals of the rebellion.
+44. Output: 
+The corruption of power and the betrayal of the original ideals of the rebellion.
+
+45. Instruction: Classify the given animal into its correct category.
+45. Input: 
+Dolphin
+45. Output: 
+Mammal
+
+46. Instruction: Correct the spelling mistake in the given sentence.
+46. Input: 
+He enjoyed hiking through the beautifil scenery of the national park.
+46. Output: 
+He enjoyed hiking through the beautiful scenery of the national park.
+
+47. Instruction: What literary technique is used in the provided quote?
+47. Input: 
+"Life's but a walking shadow, a poor player / That struts and frets his hour upon the stage / And then is heard no more." - William Shakespeare, Macbeth
+47. Output: 
+Metaphor
+
+48. Instruction: Name the appropriate plants' organs for the given functions.
+48. Input: 
+1. Converts light energy into chemical energy
+2. Transports water and nutrients
+48. Output: 
+1. Leaves
+2. Roots and stems (vascular tissues)
+
+49. Instruction: Determine the type of poetry mentioned in the given description.
+49. Input: 
+The poem consists of 14 lines, typically written in iambic pentameter, and follows a specific rhyme scheme. It typically focuses on themes of love, beauty, and mortality.
+49. Output: 
+Sonnet
+
+50. Instruction: How long does it take for the Earth to revolve around the Sun?
+50. Input: 
+<noinput>
+50. Output: 
+365.25 days

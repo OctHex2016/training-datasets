@@ -1,0 +1,55 @@
+4. Instruction: Summarize the main points of the following text.
+4. Input: 
+Conflict resolution is a crucial skill to be deployed across various aspects of life, be it in personal or professional relationships. People often find themselves in situations where disagreements or conflicts may arise, and it is essential to understand how best to navigate these complexities. Active listening, empathy, maintaining open lines of communication, and adopting a problem-solving approach are some methods that can aid in resolving conflicts effectively. Mediation can also be a beneficial method in many cases. By incorporating these techniques, individuals and groups can improve their interpersonal relationships and foster a healthier environment.
+4. Output: 
+Conflict resolution is a vital skill for personal and professional relationships. Key methods to address conflicts include active listening, empathy, open communication, problem-solving, and mediation. By using these techniques, individuals can enhance interpersonal relationships and create a healthier environment.
+
+5. Instruction: Explain the difference between prokaryotic and eukaryotic cells.
+5. Input:
+<noinput>
+5. Output:
+Prokaryotic cells are simpler, smaller, and lack membrane-bound organelles such as nuclei. Their genetic material is found in a single circular chromosome in the cytoplasm. Bacteria and archaea are examples of prokaryotes. In contrast, eukaryotic cells are larger, more complex, and contain membrane-bound organelles, including a nucleus that houses their genetic material. Eukaryotes include animals, plants, fungi, and protists.
+
+6. Instruction: Translate the following English text into French.
+6. Input:
+Always wash your hands before eating and after using the restroom.
+6. Output:
+Toujours se laver les mains avant de manger et après avoir utilisé les toilettes.
+
+7. Instruction: Identify the topic of the conversation below.
+7. Input:
+A: "Do you still have those old vinyl records?"
+B: "Yeah, I have a whole collection. Some of them are rare releases."
+A: "I've been thinking about getting a turntable so I can play them."
+7. Output:
+The topic of the conversation is vinyl records and playing them.
+
+8. Instruction: Imagine that you just got back from the future. Describe an invention you saw there.
+8. Input:
+<noinput>
+8. Output:
+In the future, I saw an invention called "Teleportation Booths," which allowed people to instantly travel between any two points on Earth. These booths revolutionized transportation, eliminated commutes, and made the world more connected than ever before.
+
+9. Instruction: Provide a recipe for a breakfast smoothie that contains at least three types of fruits.
+9. Input:
+<noinput>
+9. Output:
+Ingredients:
+- 1 banana
+- 1/2 cup strawberries
+- 1/2 cup blueberries
+- 1 cup spinach (optional, for added nutrition)
+- 1 cup Greek yogurt
+- 1/2 cup of your preferred milk or juice
+- 1 cup ice
+
+Instructions:
+1. Place all ingredients in a blender.
+2. Blend on high for 1-2 minutes or until smooth and creamy.
+3. Pour into a glass and enjoy your healthy breakfast smoothie.
+
+10. Instruction: Edit the following sentence to make it more concise.
+10. Input:
+The park area includes a variety of amenities such as a playground, a picnic area, a wide walking path, and also a large, open green space.
+10. Output:
+The park features a playground, picnic area, walking path, and open green space.

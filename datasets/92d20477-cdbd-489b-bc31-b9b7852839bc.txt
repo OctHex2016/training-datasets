@@ -1,0 +1,119 @@
+4. Instruction: Translate the given English text into French.
+4. Input: 
+Is it going to rain tomorrow?
+4. Output: 
+Est-ce qu'il va pleuvoir demain?
+
+5. Instruction: Create a haiku about cherry blossoms.
+5. Input: 
+<noinput>
+5. Output: 
+Cherry blossoms bloom,
+Soft whispers of spring arrive,
+Petals dance in breeze.
+
+6. Instruction: Summarize the given story in one sentence.
+6. Input: 
+Once upon a time in a small village, there was a young boy named Jack who lived with his mother. They were very poor, and their only possession was a cow that didn't produce any milk. One day, Jack's mother told him to take the cow to the market to sell it. On the way to the market, Jack met a man who offered him some magic beans in exchange for the cow. Jack agreed and brought the beans home to his mother, who was very angry and threw them out of the window. The next morning, a gigantic beanstalk had grown outside their house, and Jack decided to climb it. At the top, he found a magical land with a huge castle. Inside the castle, a giant lived, and Jack discovered he had a goose that laid golden eggs. Jack stole the goose, and as the giant chased him, he quickly climbed down the beanstalk and cut it down, causing the giant to fall to his death. Jack and his mother then lived happily ever after, rich from the golden eggs the goose laid.
+6. Output: 
+Jack traded his cow for magic beans, climbed a beanstalk into a giant's castle, stole a goose that laid golden eggs, and became wealthy after defeating the giant.
+
+7. Instruction: Correct the grammar and punctuation in the following sentence.
+7. Input: 
+there new office, has everything they needed, for there employees to be productive.
+7. Output: 
+Their new office has everything they need for their employees to be productive.
+
+8. Instruction: What are the main differences between vegan and vegetarian diets?
+8. Input: 
+<noinput>
+8. Output: 
+Vegan diets exclude all animal products, including meat, poultry, fish, dairy, eggs, and even honey, while vegetarian diets only exclude meat, poultry, and fish but permit dairy and eggs.
+
+9. Instruction: Provide directions to cook scrambled eggs for breakfast.
+9. Input: 
+<noinput>
+9. Output: 
+1. Crack 2-3 eggs into a bowl.
+2. Add salt and pepper to taste, and whisk until well beaten.
+3. Heat 1 tablespoon of butter or oil in a non-stick skillet over medium heat.
+4. Pour the beaten eggs into the skillet.
+5. Stir gently with a spatula, pushing the eggs around until they form soft curds.
+6. Once they reach your desired consistency, remove the pan from heat.
+7. Serve immediately with toast or your preferred sides.
+
+10. Instruction: Write a brief introduction for a research paper on artificial intelligence in healthcare.
+10. Input: 
+<noinput>
+10. Output: 
+Artificial intelligence (AI) has become a transformative force in various industries, healthcare being no exception. As the sector continues to evolve, the integration of AI-powered technologies holds tremendous potential for improving patient outcomes, reducing costs, and enhancing overall healthcare experiences. This research paper aims to explore the advancements and challenges of AI applications in healthcare, from diagnostics and treatment planning to drug discovery and personalized medicine, ultimately shedding light on how AI can revolutionize the way we approach healthcare in the 21st century.
+
+11. Instruction: Determine if the statement is true or false and explain why.
+11. Input: 
+The Sun is a planet.
+11. Output: 
+False. The Sun is not a planet; it is a star. Stars, like the Sun, generate energy through nuclear fusion in their cores and emit light and heat, while planets do not have this ability.
+
+12. Instruction: Compose a short condolence message for the loss of a loved one.
+12. Input: 
+<noinput>
+12. Output: 
+I am deeply saddened to hear about the loss of your loved one. Please accept my heartfelt condolences, and know that I am here for you in this time of sorrow. May you find comfort in the loving memories you shared and the strength to endure this difficult time.
+
+13. Instruction: Describe the steps to properly cite a book in APA format.
+13. Input: 
+<noinput>
+13. Output: 
+1. Begin with the author's last name, followed by their initials for the first and middle names.
+2. Add the publication year in parentheses, followed by a period.
+3. Write the book title in italics, capitalizing only the first letter of the first word and any subtitles, followed by a period.
+4. Include the edition, if applicable, in parentheses, e.g., (3rd ed.).
+5. List the city of publication, followed by a colon.
+6. Write the name of the publisher, followed by a period.
+
+Example: Smith, J. D. (2020). The Amazing World of Books (4th ed.). New York: Great Publishing Co.
+
+14. Instruction: Write a brief recommendation for a good science fiction book.
+14. Input: 
+<noinput>
+14. Output: 
+I highly recommend "Dune" by Frank Herbert, a classic science fiction novel that explores themes of political intrigue, environmentalism, and human potential. Set on the desert planet Arrakis, the story follows the epic journey of a young noble named Paul Atreides, whose destiny is irrevocably connected to the valuable, life-altering spice called melange. The book offers a richly woven narrative, complex characters, and thought-provoking concepts that will leave a lasting impression on readers.
+
+15. Instruction: Convert the following active voice sentence into passive voice.
+15. Input: 
+I made a mistake.
+15. Output: 
+A mistake was made by me.
+
+16. Instruction: Can plants grow without sunlight? Explain your answer.
+16. Input: 
+<noinput>
+16. Output: 
+Plants can grow without sunlight to some extent, but not indefinitely. They can use artificial light sources (such as fluorescent lights or LED grow lights) to substitute for sunlight and undergo photosynthesis, the process of converting light energy into chemical energy used for growth. However, if deprived of all light sources, plants will eventually die because they cannot produce the energy needed for growth and maintenance.
+
+17. Instruction: Compare and contrast the use of solar energy and wind energy as renewable energy sources.
+17. Input: 
+<noinput>
+17. Output: 
+Solar energy and wind energy are both renewable energy sources that do not deplete natural resources and produce minimal greenhouse gas emissions. Solar energy harnesses sunlight through solar panels to generate electricity, while wind energy converts the kinetic energy in wind using wind turbines. The primary differences between them are their resource availability and efficiency: solar energy relies on sunlight, and its efficiency varies depending on the geographic location and time of day, whereas wind energy depends on wind patterns and can be more consistent in certain areas. Additionally, solar panels can be easily integrated into residential and commercial buildings, whereas wind turbines are typically larger and require open spaces for installation.
+
+18. Instruction: Provide a brief explanation of what search engine optimization (SEO) is.
+18. Input: 
+<noinput>
+18. Output: 
+Search engine optimization (SEO) is the practice of enhancing a website's visibility and ranking in search engine results by employing various strategies, techniques, and best practices. The goal of SEO is to increase organic (non-paid) web traffic and improve user experience by optimizing site content, structure, and performance to match the criteria search engines use to evaluate and rank websites.
+
+19. Instruction: List four examples of non-verbal communication.
+19. Input: 
+<noinput>
+19. Output: 
+1. Facial expressions (e.g., smiling or frowning)
+2. Gestures (e.g., waving or pointing)
+3. Body language (e.g., posture or stance)
+4. Eye contact (e.g., maintaining or avoiding)
+
+20. Instruction: Write an opening line for a mystery novel that will grab the reader's attention.
+20. Input: 
+<noinput>
+20. Output: 
+The moment Detective Hawkins stepped into the dimly lit room, the acrid scent of lingering secrets and murder hung heavy in the air, gripping her senses like an unyielding vice.

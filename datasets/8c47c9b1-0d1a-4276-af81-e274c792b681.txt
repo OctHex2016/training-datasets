@@ -1,0 +1,103 @@
+4. Instruction: Generate a brief plot summary for the following TV series. 
+4. Input: 
+Stranger Things
+4. Output: 
+Stranger Things is a sci-fi series set in the 1980s about a group of friends who investigate supernatural occurrences in their small town, including the mysterious disappearance of their friend.
+###
+5. Instruction: Incorrect grammar correction. Correct the grammar error but preserve meaning. 
+5. Input: 
+They was walking to the store when the phone rang.
+5. Output: 
+They were walking to the store when the phone rang. 
+###
+6. Instruction: Suggest a movie that meets the following criteria.
+6. Input: 
+Looking for a romantic-comedy movie that features a couple who defies societal norms.
+6. Output: 
+You might enjoy "Crazy Rich Asians" which tells a story about a young couple who face cultural differences and disapproval from the groom's wealthy Asian family.
+###
+7. Instruction: Ask a fact-check question about a famous novel.
+7. Input: 
+What year was "The Great Gatsby" first published?
+7. Output: 
+"The Great Gatsby" was first published in 1925.
+###
+8. Instruction: Summarize a scientific article. 
+8. Input: 
+Here is the link to the article. 
+https://www.cell.com/developmental-cell/fulltext/S1534-5807(21)00414-2
+8. Output: 
+The article discusses how activation of the Sonic Hedgehog signaling pathway contributes to the development and growth of certain types of sarcoma cancer. The study provides potential therapeutic opportunities for treating sarcomas by blocking Sonic Hedgehog activation. 
+###
+9. Instruction: Clarify a piece of convoluted writing. 
+9. Input: 
+What does the following sentence mean? "Despite the significant lack of funding for our initiative, we were able to secure funds through a considerable amount of donors"
+9. Output: 
+While our initiative was facing a significant lack of funding, we were able to secure funds from a considerable amount of donors. 
+###
+10. Instruction: Expand the acronym. 
+10. Input: 
+What does NASA stand for?
+10. Output: 
+NASA stands for National Aeronautics and Space Administration. 
+###
+11. Instruction: Provide the opposite meaning of a word. 
+11. Input: 
+What is the opposite of "accept"?
+11. Output: 
+The opposite of "accept" is "reject".
+###
+12. Instruction: Generate a restaurant recommendation. 
+12. Input: 
+Looking for a restaurant that serves vegetarian dishes near the city center. 
+12. Output: 
+You might enjoy XYZ Restaurant which provides a variety of vegetarian options and is conveniently located in the city center.
+###
+13. Instruction: Ask for the definition of an industry term. 
+13. Input: 
+What does the term "blockchain" mean?
+13. Output: 
+Blockchain is a specific type of distributed ledger technology that records and tracks transactions in a secure and transparent way through a decentralized digital database. 
+###
+14. Instruction: Provide an example of a literary device in a piece of writing. 
+14. Input: 
+What is an example of alliteration in the following phrase? "Sally sells seashells by the seashore."
+14. Output: 
+The example of alliteration in this phrase is the repetition of the "s" sound in "Sally sells seashells". 
+###
+15. Instruction: Create a weather forecast for a specific location. 
+15. Input: 
+What will the weather be like in Seattle tomorrow?
+15. Output: 
+Tomorrow in Seattle it will be partly cloudy, with a high of 72°F and a low of 55°F.
+###
+16. Instruction: Summarize a historical event. 
+16. Input: 
+What was the significance of the Emancipation Proclamation?
+16. Output: 
+The Emancipation Proclamation was a presidential executive order signed in 1863 by Abraham Lincoln that declared all slaves in Confederate areas "shall be then, thenceforward, and forever free". It was a significant step towards the abolition of slavery in the United States. 
+###
+17. Instruction: Explain the meaning of a phrase within a specific context. 
+17. Input: 
+What does the phrase "the grapes of wrath" mean in John Steinbeck's novel of the same name? 
+17. Output: 
+Throughout the novel, "the grapes of wrath" refers to the anger and resentment of poor farmers and laborers who suffer from hardship and oppression during the Great Depression. 
+###
+18. Instruction: Suggest a playlist for a specific mood. 
+18. Input: 
+Looking for music to listen to when feeling sad. 
+18. Output: 
+You might enjoy the "Sad Songs" playlist on Spotify which features popular songs about heartbreak and somber emotions. 
+###
+19. Instruction: Clarify a jargon term in a scientific paper. 
+19. Input: 
+What does "epigenetics" mean in the context of the following scientific paper? Here is the link to the article. 
+https://www.nature.com/articles/s41467-021-24655-7
+19. Output: 
+In this paper, "epigenetics" refers to the study of heritable changes in gene expression that occur without changes to the DNA sequence itself. These changes can be influenced by environmental factors and are associated with various diseases including cancer. 
+###
+20. Instruction: Convert a sentence from active to passive voice.
+20. Input: 
+Change the following sentence to passive voice: "The dog chased the cat."
+20. Output: 
+The cat was chased by the dog.

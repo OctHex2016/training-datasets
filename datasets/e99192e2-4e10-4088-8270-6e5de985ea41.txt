@@ -1,0 +1,163 @@
+4. Instruction: Spot and correct any grammatical errors in the given text.
+4. Input: 
+People uses cellphones everyday. It's make our lives easier and more connected with others. Since, its invention, it has transform the way we communicate.
+4. Output: 
+People use cellphones every day. They make our lives easier and more connected with others. Since its invention, it has transformed the way we communicate.
+
+5. Instruction: List the achievements of the featured person in the input text in a bullet point format.
+5. Input: 
+Albert Einstein was born in 1879 in Germany. He is best known for his general theory of relativity and the famous equation E=mc², which states that energy is equal to mass times the speed of light squared. His work helped lay the foundation for atomic energy and quantum mechanics. He won the Nobel Prize for Physics in 1921 for his discovery of the photoelectric effect.
+5. Output: 
+- Developed the general theory of relativity
+- Formulated the equation E=mc²
+- Laid the foundation for atomic energy
+- Contributed to quantum mechanics
+- Won the Nobel Prize for Physics in 1921 for discovering the photoelectric effect
+
+6. Instruction: Identify the logical fallacy in the given statement.
+6. Input: 
+All vegetarians eat vegetables, Lisa eats vegetables, so she must be a vegetarian.
+6. Output: 
+Affirming the consequent
+
+7. Instruction: Write a brief news article about a major volcanic eruption.
+7. Input: 
+<noinput>
+7. Output: 
+Title: Major Volcanic Eruption causes Havoc and Evacuations
+
+A major volcanic eruption occurred today at Mount Ramen, one of the largest and most active volcanoes in the region. The eruption sent a massive ash plume tens of thousands of feet into the sky, causing chaos for local residents and disrupting air travel.
+
+Authorities have issued evacuation orders for the towns and villages surrounding the volcano, and emergency shelters have been set up for displaced residents. Reports suggest that hundreds of homes have been destroyed, and local infrastructure has suffered significant damage.
+
+Seismologists warned of the possibility of further eruptions, with increased volcanic activity observed in the days leading up to the event. Government officials are working closely with scientists and emergency responders to monitor the situation and provide aid to those affected.
+
+8. Instruction: Based on the given quote, provide a brief interpretation of its meaning.
+8. Input: 
+"The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke
+8. Output: 
+The quote means that if good people choose to remain passive or uninvolved in the face of evil, it allows the evil to succeed and prevail. It encourages individuals to take action against wrongdoing and injustice, rather than staying silent and sacrificing the greater good.
+
+9. Instruction: Calculate the cost of a road trip based on the given information.
+9. Input: 
+Miles driven: 700
+Miles per gallon: 30
+Gas price per gallon: $3
+9. Output: 
+Cost of the road trip: $70
+
+10. Instruction: Summarize the benefits of using solar energy.
+10. Input: 
+<noinput>
+10. Output: 
+Benefits of using solar energy include:
+- Renewable and sustainable energy source
+- Reduces greenhouse gas emissions
+- Lowers electricity bills
+- Low maintenance costs
+- Creates jobs and supports economic growth
+- Can be utilized in remote locations where electricity is difficult to access
+- Increases energy independence and energy security
+
+11. Instruction: Identify the internal rhyme in the following lines of poetry.
+11. Input: 
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore.
+11. Output: 
+Midnight dreary and weak and weary
+
+12. Instruction: Provide advice on how to effectively study for an upcoming exam.
+12. Input: 
+<noinput>
+12. Output: 
+- Create a study schedule
+- Break the material into smaller, manageable chunks
+- Use active learning techniques such as note-taking, summarizing, and teaching others
+- Test yourself through practice exams or quizzes
+- Use mnemonic devices to help remember information
+- Study in a quiet, organized, and distraction-free environment
+- Take breaks to avoid burnout and maintain focus
+- Review and consolidate your learnings regularly
+- Get enough rest, eat well, and exercise to keep your body and mind in good condition
+
+13. Instruction: Convert the following Celsius temperatures to Fahrenheit.
+13. Input: 
+15°C, 30°C, 40°C
+13. Output: 
+59°F, 86°F, 104°F
+
+14. Instruction: Rank the mentioned items in the input text by importance to World War II Allies.
+14. Input: 
+The Enigma machine, penicillin, radar technology, and strategic bombing
+14. Output: 
+1. Radar technology
+2. Strategic bombing
+3. The Enigma machine
+4. Penicillin
+
+15. Instruction: Write a short eulogy for a beloved pet.
+15. Input: 
+Dog named Max
+15. Output: 
+We gather today to remember and celebrate the life of our beloved pet and family member, Max. He was not just a dog, but also a loyal companion and source of unconditional love. From his playful bounding through the park to his warm presence at our feet, Max brought us endless joy and touched our hearts deeply. We will cherish the memories of long walks, shared moments, and the boundless energy that defined him. Rest in peace, dear Max. You will always hold a special place in our hearts.
+
+16. Instruction: Translate the given text into French.
+16. Input: 
+Hello, how are you today? I am fine, thank you for asking.
+16. Output: 
+Bonjour, comment ça va aujourd'hui ? Je vais bien, merci de demander.
+
+17. Instruction: Name five animals that primarily eat bamboo.
+17. Input: 
+<noinput>
+17. Output: 
+1. Giant panda
+2. Red panda
+3. Bamboo lemur
+4. Bamboo rat
+5. Greater bamboo lemur
+
+18. Instruction: Choose the most appealing movie plot from the following and briefly explain your choice.
+18. Input: 
+A) A detective solving a murder in a small town
+B) A group of friends embarking on a cross-country road trip
+C) A young woman navigating life in a dystopian world
+18. Output: 
+C) A young woman navigating life in a dystopian world.
+
+Explanation: This plot is the most appealing due to its potential for complex world-building, character development, and social commentary within the tense and challenging environment. It creates numerous possibilities for unexpected twists, high-stakes situations, and the exploration of the resilience and adaptability of the human spirit.
+
+19. Instruction: Critique the given resume.
+19. Input: 
+John Doe
+123 Elm St. Anytown, USA
+Phone: (555) 555-5555
+Email: John.Doe@example.com
+
+Objective: To find a job.
+
+Experience:
+07/2014 - 06/2018: Company A - Position B
+- Stuff
+
+Education:
+College X
+- Degree in Y
+
+Skills
+- Good at things
+- Fast learner
+19. Output: 
+1. Strengthen the objective statement with a specific job title or desired field.
+2. Replace "Stuff" with detailed responsibilities, accomplishments, and relevant skills used in the position at Company A.
+3. Include the duration and the major of the degree obtained at College X.
+4. Replace "Good at things" and "Fast learner" with specific, relevant, and quantifiable skills or abilities related to the desired position.
+
+20. Instruction: Write a 5-7 sentence book review for a science fiction novel.
+20. Input: 
+Title: Galactic Dominoes
+Author: Tony M. Evans
+20. Output: 
+Galactic Dominoes by Tony M. Evans is a compelling science fiction novel that takes readers on an extraordinary space adventure filled with unexpected twists, warping galaxies, and intriguing characters. The story revolves around a diverse crew trying to prevent an intergalactic war by piecing together the remnants of an ancient alien technology. Evans masterfully weaves together conflicting loyalties, intricate world-building, and well-developed characters to create an immersive atmosphere that's hard to put down. 
+
+The writing style is engrossing and effortlessly moves between science-driven explanations and emotion-driven moments, maintaining a perfect balance throughout. While Galactic Dominoes predominantly focuses on the larger political and scientific subjects, the novel doesn't shy away from exploring the personal journeys of the core characters. Overall, Galactic Dominoes is a thrilling, engaging read that will both entertain and challenge science fiction enthusiasts.

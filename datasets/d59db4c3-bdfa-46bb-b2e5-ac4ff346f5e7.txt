@@ -1,0 +1,112 @@
+4. Instruction: Suggest three modifications to a diet plan to make it healthier.
+4. Input: 
+Current diet plan: Breakfast - Cereal with whole milk, Lunch - Hamburger and fries, Dinner - Pizza and soda
+4. Output: 
+1. Replace whole milk with low-fat or almond milk for breakfast.
+2. For lunch, opt for a grilled chicken sandwich and salad instead of a hamburger and fries.
+3. Serve dinner with whole wheat pizza topped with vegetables and a side of unsweetened iced tea or water instead of soda.
+
+5. Instruction: Edit the given paragraph to make it grammatically correct.
+5. Input: 
+Their going to the park this saturday for the ice cream social, that they have been organised. Tom said they has invited over hundreds of peoples to joined the fun.
+5. Output: 
+They're going to the park this Saturday for the ice cream social, which they have organized. Tom said they have invited over a hundred people to join the fun.
+
+6. Instruction: Arrange the listed elements in chronological order.
+6. Input: 
+Grocery shopping, feeding the cat, folding laundry, making dinner.
+6. Output: 
+Feeding the cat, folding laundry, grocery shopping, making dinner.
+
+7. Instruction: Summarize the following text into a few sentences.
+7. Input: 
+The Art of War is an ancient Chinese military treatise dating from the Late Spring and Autumn Period (roughly 5th century BC). The work, which is attributed to the ancient Chinese military strategist Sun Tzu (Master Sun), is composed of 13 chapters. Each one is devoted to an aspect of warfare and how it applies to military strategy and tactics. For almost 1,500 years, it was the lead text in an anthology known as the Seven Military Classics, which received its traditional title in the 11th century during the Northern Song Dynasty. The followings belong among the most influential Chinese texts: the Six Secret Teachings, the T'ai Kung's Six Secret Teachings, and the Methods of the Sima.
+7. Output: 
+The Art of War, an ancient Chinese military treatise by strategist Sun Tzu, consists of 13 chapters addressing various aspects of warfare, military strategy, and tactics. The text, which dates back to the Late Spring and Autumn Period (5th century BC), was part of the highly influential Seven Military Classics anthology for nearly 1,500 years, alongside works such as the Six Secret Teachings, T'ai Kung's Six Secret Teachings, and the Methods of the Sima.
+
+8. Instruction: Name a prominent event from 20th century history.
+8. Input: 
+<noinput>
+8. Output: 
+The Apollo 11 moon landing in 1969.
+
+9. Instruction: Explain the concept of photosynthesis in simple terms.
+9. Input: 
+<noinput>
+9. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into oxygen and glucose (sugar). In essence, plants use sunlight as a source of energy to create food, which allows them to grow.
+
+10. Instruction: Calculate the tip amount for a restaurant bill.
+10. Input: 
+Total bill - $60; Tip percentage - 20%
+10. Output: 
+$12
+
+11. Instruction: Evaluate the credibility of the presented information.
+11. Input: 
+Article Title: "Scientists Discover a New Breed of Penguins that Can Fly"
+Source: FunnyNews.co
+Date: April 1, 2021
+11. Output: 
+The credibility of this information is doubtful due to the source being unfamiliar and potentially satirical, and the date published is April 1st (April Fool's Day), which is known for prank news.
+
+12. Instruction: Recommend three books for someone wanting to learn about personal finance.
+12. Input: 
+<noinput>
+12. Output: 
+1. "Rich Dad Poor Dad" by Robert T. Kiyosaki
+2. "The Total Money Makeover" by Dave Ramsey
+3. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko
+
+13. Instruction: Correct the spelling and grammatical errors in the given sentence.
+13. Input: 
+She byed a ebook from the onlie store.
+13. Output: 
+She bought an ebook from the online store.
+
+14. Instruction: Write a haiku about nature.
+14. Input: 
+<noinput>
+14. Output: 
+Gentle breeze whispers
+Leaves dance with the flowing stream
+Nature's harmony
+
+15. Instruction: Translate the following sentence into Spanish.
+15. Input: 
+Please bring an umbrella, it's raining outside.
+15. Output: 
+Por favor, trae un paraguas, está lloviendo afuera.
+
+16. Instruction: Identify the logical fallacy in the given argument.
+16. Input: 
+"People who drink coffee stay awake longer, so drinking decaf coffee will help you stay awake too."
+16. Output: 
+False analogy - the argument assumes that the property of caffeine in regular coffee is present in decaffeinated coffee, despite being chemically different.
+
+17. Instruction: Suggest three possible consequences of not getting enough sleep.
+17. Input: 
+<noinput>
+17. Output: 
+1. Decreased cognitive function and concentration
+2. Weakened immune system
+3. Increased irritability and mood swings
+
+18. Instruction: Write a brief conclusion for the following research paper.
+18. Input: 
+Title: "The Effects of Social Media Usage on Mental Health in Adolescents"
+Findings: The study showed higher levels of anxiety and depression among frequent social media users in comparison to less frequent users.
+18. Output: 
+In conclusion, our study indicates a significant correlation between increased social media usage and elevated anxiety and depression levels in adolescents. This research highlights the importance of monitoring and regulating usage, as well as promoting responsible, balanced engagement with social media among young people to improve mental well-being.
+
+19. Instruction: Identify the cause and effect relationship in the following sentence.
+19. Input: 
+Due to heavy rainfall, the outdoor concert was canceled.
+19. Output: 
+Cause: Heavy rainfall; Effect: Outdoor concert was canceled.
+
+20. Instruction: Describe the primary goals of the European Union (EU).
+20. Input: 
+<noinput>
+20. Output: 
+The primary goals of the European Union include promoting peace and stability, fostering economic collaboration, ensuring the free movement of goods, services, and people, and enhancing overall social and environmental well-being across its member states.

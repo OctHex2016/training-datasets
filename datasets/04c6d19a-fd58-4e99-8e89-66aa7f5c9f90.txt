@@ -1,0 +1,132 @@
+4. Instruction: Edit the paragraph to correct any grammatical mistakes and improve clarity.
+4. Input: 
+Nervious anxiety those speaking thing in the front of the hole crowded room, stomach in knots as I trying to find the right words to say. It’s, realy, all-to-familiar scene for me, when i should present in front of a class or during a meeting at work. the fear, was of public speaking actualy crippling. but, I knew I needed, to find a solution, in order  to better success at work, and advance in my career.
+4. Output: 
+Nervous anxiety, speaking in front of a whole crowded room, stomach in knots as I try to find the right words to say. It's a really all-too-familiar scene for me, whether I'm presenting in front of a class or during a meeting at work. The fear of public speaking is actually crippling, but I knew I needed to find a solution in order to better succeed at work and advance in my career.
+
+5. Instruction: Write a brief summary of the given article.
+5. Input: 
+Scientists from the University of San Francisco have discovered a new type of enzyme that appears to have promising potential in the treatment of cancer. The enzyme, called NPL6, has been found to be capable of targeting and destroying cancer cells, while leaving healthy cells unharmed. Researchers believe that this unique ability could lead to more effective, safer treatments for a wide variety of cancer types.
+
+In a recent study, the scientists tested the enzyme on various cancer cells, including lung, breast, and colon cancer cells. The results demonstrated that NPL6 was effective at inhibiting the growth of these cancer cells. Additionally, NPL6 displayed minimal toxicity to healthy cells, making it a promising candidate for cancer treatment.
+
+Further research is needed to fully understand the mechanism by which NPL6 targets cancer cells, and to develop effective, targeted drug therapies based on the enzyme. If the enzyme proves effective at targeting cancer cells in humans, it could revolutionize cancer treatment and potentially save millions of lives.
+5. Output: 
+Researchers at the University of San Francisco have discovered an enzyme, NPL6, that can target and destroy cancer cells while sparing healthy cells. Preliminary studies show NPL6 effectively inhibits the growth of various cancer cells, such as lung, breast, and colon cancer, with minimal toxicity to healthy cells. Further research is required to understand NPL6's mechanism and to develop targeted drug therapies, potentially revolutionizing cancer treatment.
+
+6. Instruction: Rewrite the following sentence using passive voice.
+6. Input: 
+The dog chased the cat up the tree.
+6. Output: 
+The cat was chased up the tree by the dog.
+
+7. Instruction: Which type of literary device is used in this quote from William Shakespeare’s Macbeth, and explain its effect on the audience?
+7. Input: 
+"Fair is foul, and foul is fair."
+7. Output: 
+The literary device used in this quote is a paradox. A paradox is a statement that appears self-contradictory but reveals a truth. In this case, the paradox "Fair is foul, and foul is fair" serves to confuse and intrigue the audience, setting the stage for the theme of appearance versus reality, which runs throughout the play.
+
+8. Instruction: Identify the emotions conveyed by these emoji combinations. 
+8. Input: 
+1) 😂🤣
+2) 😊😍
+3) 😭😩
+8. Output: 
+1) Hilarious laughter
+2) Happy and adoring love
+3) Sadness and distress
+
+9. Instruction: Convert the given Celsius temperature to Fahrenheit. 
+9. Input: 
+30°C
+9. Output: 
+86°F
+
+10. Instruction: Write a haiku about spring.
+10. Input: 
+<noinput>
+10. Output: 
+Cherry blossoms bloom,
+Soft whispers of spring arrive,
+Nature awakens.
+
+11. Instruction: Recommend three short story collections for someone interested in science fiction and fantasy. 
+11. Input: 
+<noinput>
+11. Output: 
+1. Ray Bradbury: The Illustrated Man
+2. Ursula K. Le Guin: The Unreal and the Real
+3. Ted Chiang: Stories of Your Life and Others
+#End12. Instruction: Evaluate the pros and cons for someone considering a career change at 40 years of age.
+12. Input: 
+<noinput>
+12. Output: 
+Pros:
+1. Potential for job satisfaction
+2. Opportunities to learn new skills
+3. Increased adaptability and resilience
+4. Networking opportunities
+5. Chance to follow a passion or interest
+
+Cons:
+1. Potential decrease in income
+2. Age bias in certain industries
+3. May require additional education or training
+4. Challenges in adjusting to a new work culture
+5. Less time to build retirement savings in the new career
+
+13. Instruction: Suggest three non-alcoholic alternatives to enjoy at a social gathering.
+13. Input: 
+<noinput>
+13. Output: 
+1. Mocktails (e.g., Virgin Mojito, Shirley Temple, or Virgin Pina Colada)
+2. Sparkling water with a twist of lime or lemon
+3. Non-alcoholic craft beers or wines
+
+14. Instruction: Explain the difference between aerobic and anaerobic exercises.
+14. Input: 
+<noinput>
+14. Output: 
+Aerobic exercise refers to activities that involve continuous, low to moderate-intensity movement, using oxygen to provide energy. Examples include walking, swimming, and cycling. Aerobic exercises help improve cardiovascular endurance.
+
+Anaerobic exercise involves short, intense bursts of activity where the body relies on stored energy without using oxygen. Examples include sprinting, heavy weightlifting, and high-intensity interval training (HIIT). Anaerobic exercises help build strength, power, and muscle mass.
+
+15. Instruction: Write a catchy slogan for a new vegan food delivery service.
+15. Input: 
+<noinput>
+15. Output: 
+"Plant-Powered Delights, Delivered Right"
+
+16. Instruction: If 6x + 4 = 1, what is the value of x? 
+16. Input: 
+<noinput>
+16. Output: 
+x = -0.5
+
+17. Instruction: Paraphrase this quote by Mahatma Gandhi: "Happiness is when what you think, what you say, and what you do are in harmony."
+17. Input: 
+<noinput>
+17. Output: 
+Joy occurs when your thoughts, words, and actions align in harmony.
+
+18. Instruction: Critique the given logo design for a fictional tech company, "TechTrends".
+18. Input: 
+The logo for TechTrends features a gear icon in blue, which is surrounded by curved, green arrows pointing outward. The company name, "TechTrends," is written in black, italicized Arial font beneath the gear and arrows.
+18. Output: 
+The logo is conceptually consistent with the tech industry theme, using the gear icon as a symbol of mechanics and progress. However, the choice of the Arial font in italics may appear dated and generic. Consider using a more modern, distinctive font to improve brand recognition. Additionally, the green arrows could be incorporated more closely into the overall design to create a more cohesive and balanced appearance.
+
+19. Instruction: Describe the difference between open-source and proprietary software.
+19. Input: 
+<noinput>
+19. Output: 
+Open-source software is software whose source code is made publicly available, allowing anyone to view, use, modify, and redistribute the code. This promotes collaboration, transparency, and often results in faster improvement and development.
+
+Proprietary software refers to software whose source code is owned and controlled by a company or individual. The source code is not accessible to the public, and users must obtain a license to use the software. This provides exclusive intellectual property rights and competitive advantages to the owner but may limit customization and transparency for users.
+
+20. Instruction: What are three essential elements of plot structure in a narrative story?
+20. Input: 
+<noinput>
+20. Output: 
+1. Exposition (introduction): Provides background information, sets the scene, and introduces the main characters.
+2. Climax: The turning point in the story where the main character faces the main conflict, leading to tension and high emotions.
+3. Resolution (denouement): The conclusion of the story where loose ends are tied up, the conflict is resolved, and the characters' situations are brought to closure.

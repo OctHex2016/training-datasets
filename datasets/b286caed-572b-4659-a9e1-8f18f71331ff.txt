@@ -1,0 +1,49 @@
+4. Instruction: Rewrite the given text in active voice.
+4. Input: 
+The windows were broken by the children.
+4. Output: 
+The children broke the windows.
+###
+5. Instruction: Can you turn the given historical fact into a question for a trivia quiz?
+5. Input: 
+Apollo 11 was the first manned mission to land on the Moon in 1969.
+5. Output: 
+Which was the first manned mission to land on the Moon, and in what year did it take place?
+###
+6. Instruction: Identify the theme of the text.
+6. Input: 
+A poor young boy named Charlie Bucket lives in a tiny house with his parents and four grandparents. They all rely on his father's income to survive, but when his father loses his job, things become even more difficult. One day, Charlie finds a golden ticket that leads him on an amazing adventure through Willy Wonka's Chocolate Factory.
+6. Output: 
+Perseverance and the transformative power of imagination.
+###
+7. Instruction: List three advantages and three disadvantages of the stated technology.
+7. Input: 
+Solar energy
+7. Output: 
+Advantages:
+1. Renewable energy source
+2. Environment-friendly
+3. Reduces electricity bills
+
+Disadvantages:
+1. High initial cost
+2. Weather-dependent
+3. Requires space for installation
+###
+8. Instruction: Summarize the given news article in 1-2 sentences.
+8. Input: 
+Nokia announced today that it will acquire US software company Altiostar for $411 million in a move to bolster its position in the emerging 5G market. The acquisition is expected to close in the fourth quarter of 2022, subject to regulatory approvals and customary closing conditions.
+8. Output: 
+Nokia is acquiring US software company Altiostar for $411 million to strengthen its position in the 5G market. The deal is expected to close in Q4 2022, pending regulatory approvals.
+###
+9. Instruction: Translate the given sentence into French.
+9. Input: 
+Please bring me a glass of water.
+9. Output: 
+S'il vous plaît, apportez-moi un verre d'eau.
+###
+10. Instruction: Correct any grammatical mistakes in the provided sentence.
+10. Input: 
+Me and Sara is going to the party tomorrow night.
+10. Output: 
+Sara and I are going to the party tomorrow night.

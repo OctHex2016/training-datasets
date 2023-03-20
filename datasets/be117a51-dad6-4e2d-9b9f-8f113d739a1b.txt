@@ -1,0 +1,105 @@
+4. Instruction: Describe the main plot for the given movie title.
+4. Input: 
+The Shawshank Redemption
+4. Output: 
+The Shawshank Redemption tells the story of Andy Dufresne, a banker who is wrongly convicted of murdering his wife and her lover. He is sentenced to life at the Shawshank State Penitentiary. In prison, Andy befriends a fellow inmate, Ellis "Red" Redding. Over the years, Andy maintains his innocence and experiences the brutal realities of prison life while trying to find redemption and hope. Ultimately, Andy hatches a daring plan to escape Shawshank, revealing an unexpected twist.
+
+5. Instruction: Rewrite the given paragraph in a formal tone, avoiding contractions and informal phrases.
+5. Input: 
+Hey, I just wanted to let you know that I've got a friend who's an expert in this stuff. They were gonna look it over, and they said they'd be happy to help you out. So, if you want, just send over the info, and we'll see what we can do.
+5. Output: 
+Hello, I wanted to inform you that I have a friend who specializes in the relevant subject matter. They have agreed to review the information and extend their assistance. If you are agreeable, please provide the necessary details, and we will proceed accordingly.
+
+6. Instruction: Translate the given sentence from English to French.
+6. Input: 
+How are you feeling today?
+6. Output: 
+Comment ça va aujourd'hui?
+
+7. Instruction: Identify and list the main color displayed in the following image in order:
+7. Input: 
+<noinput>
+7. Output: 
+As a text-based model, I am unable to process visual information or provide responses related to images.
+
+8. Instruction: List the latest US presidents in reverse chronological order.
+8. Input: 
+<noinput>
+8. Output: 
+Joe Biden, Donald Trump, Barack Obama, George W. Bush.
+
+9. Instruction: Compare and contrast cats and dogs in 50 words or less.
+9. Input: 
+<noinput>
+9. Output: 
+Cats are usually independent, quiet, and agile, while dogs are more social, loyal, and trainable. Both can be affectionate companions, but cats need less attention, grooming, and exercise, while dogs require daily walks, playtime, and social interaction.
+
+10. Instruction: Is email a secure form of communication? Why or why not?
+10. Input: 
+<noinput>
+10. Output: 
+Email can be vulnerable to security risks as hackers can intercept, read or alter messages, and gain access to sensitive information. Several measures can be taken to increase email security, such as using encryption, strong passwords, and two-factor authentication, but inherently, email is not the most secure form of communication.
+
+11. Instruction: Define the term "Artificial Intelligence".
+11. Input: 
+<noinput>
+11. Output: 
+Artificial Intelligence (AI) refers to the development of computer systems or software that can perform tasks typically requiring human intelligence, such as problem-solving, learning, recognition, understanding natural language, and decision-making.
+
+12. Instruction: You are given a short story. Write an alternative ending to this story.
+12. Input: 
+One day, Samantha found a mysterious box on her doorstep. She carefully opened it to discover a book about time travel. Samantha excitedly read through the pages, desperate to know if time travel was real. Finally, she found a passage that explained how to build a time machine. Late at night, she sneaked out to her garage and assembled the time machine. Feeling triumphant, she climbed in and carefully input the destination: The Victorian Era.
+12. Output: 
+As Samantha entered the time machine, a sudden unease washed over her. Perhaps meddling with time wasn't the safest option. She reconsidered her decision and, with mixed feelings, reluctantly dismantled the time machine. Instead, Samantha used her newfound knowledge to write a compelling book on time travel, inspiring many readers with captivating narratives about the past and the possibilities of the unknown.
+
+13. Instruction: What is the capital of Switzerland?
+13. Input: 
+<noinput>
+13. Output: 
+The capital of Switzerland is Bern.
+
+14. Instruction: Write a haiku about springtime.
+14. Input: 
+<noinput>
+14. Output: 
+Cherry blossoms bloom,
+Nature awakes from her sleep,
+Life renews, unfurls.
+
+15. Instruction: Explain the purpose of an operating system in a computer.
+15. Input: 
+<noinput>
+15. Output: 
+An operating system (OS) serves as the core software responsible for managing a computer's hardware, resources and providing a user-friendly interface. It coordinates between the hardware components and software applications, allowing users to interact with the computer, manage files, execute programs, and perform tasks efficiently.
+
+16. Instruction: Which one is healthier: brown rice or white rice? Explain your choice.
+16. Input: 
+<noinput>
+16. Output: 
+Brown rice is generally considered healthier than white rice. This is because brown rice is a whole grain that retains the bran and germ layers, providing higher levels of nutrients, fiber, and various vitamins and minerals. In contrast, white rice is processed, resulting in the removal of the bran and germ, which leads to lower nutritional content.
+
+17. Instruction: Identify the grammatical error(s) in the following sentence:
+17. Input: 
+Despite her busy schedule, Alice find time to exercise regularly and eat healthy.
+17. Output: 
+In the sentence, "find" should be "finds" to maintain subject-verb agreement, and "eat" should be "eat healthily" to correct the form of the modifying word.
+
+Corrected sentence: Despite her busy schedule, Alice finds time to exercise regularly and eat healthily.
+
+18. Instruction: Can you perform mathematical operations and provide answers?
+18. Input: 
+What is 12 + 8?
+18. Output: 
+12 + 8 = 20
+
+19. Instruction: Summarize the main benefits of renewable energy sources.
+19. Input: 
+<noinput>
+19. Output: 
+The main benefits of renewable energy sources include reduced greenhouse gas emissions, environmental sustainability, lower dependence on fossil fuels, and long-term cost savings. Renewable energy often has relatively lower operating costs and can contribute to energy security and diversification.
+
+20. Instruction: Write a brief persuasive argument for enforcing strict environmental regulations.
+20. Input: 
+<noinput>
+20. Output: 
+Strict environmental regulations protect our planet and promote a sustainable future for generations to come. By enforcing regulations, we curb pollution, reduce waste, and maintain biodiversity. Strict standards also encourage innovation and the development of green technologies, leading to job growth and economic benefits. Ultimately, ensuring the well-being of our environment is a shared responsibility and a vital investment in our common future.

@@ -1,0 +1,102 @@
+4. Instruction: Write a 50-word summary of the given news article.
+4. Input: 
+A sharp increase in acute malnutrition in war-affected children in northern Ethiopia has taken medical professionals by surprise. This has occurred due to months of insecurity amid a drawn-out military conflict in the region. Hospitals are overwhelmed as UN agencies warn that some children have reached the brink of death without any attention.
+4. Output: 
+War-affected children in northern Ethiopia are suffering from acute malnutrition due to months of insecurity amid a prolonged military conflict. Hospitals struggle to cope with the sharp surge, as medical professionals are caught unprepared. UN agencies warn of children reaching the brink of death without medical attention.
+ 
+5. Instruction: Find the most important point in the following passage.
+5. Input: 
+Aquatic plants are primarily native to bodies of water, like creeks, rivers, ponds, and lakes, where they are important for maintaining a healthy ecosystem. They produce oxygen, are a food source for fish, and provide shelter to many aquatic organisms. However, with rising temperatures globally, the essential role aquatic plants play in the world's waterways is being threatened.
+5. Output: 
+The most important point is that aquatic plants play an essential role in maintaining healthy ecosystems by producing oxygen, providing food for fish, and sheltering aquatic organisms, but rising global temperatures are threatening their role.
+
+6. Instruction: State how the author feels about preserving historical buildings based on the excerpt.
+6. Input: 
+While the urge to develop and modernize cities is understandable, we must not forget the importance of preserving historical buildings. They add charm and character to urban landscapes, serving as tangible links to our past. Destroying them in favor of bland and homogenous structures would result in losing our valuable heritage.
+6. Output: 
+The author feels strongly about the importance of preserving historical buildings as they believe these buildings add charm, character, and serve as links to our past, contributing to our heritage.
+
+7. Instruction: Choose a side in the given debate and support it.
+7. Input: 
+Debate: Do the advantages of working from home outweigh the disadvantages?
+7. Output: 
+In my opinion, the advantages of working from home do outweigh the disadvantages. Remote work allows employees to have a more flexible schedule, save commuting time, and reduce transportation costs. While there may be some drawbacks, such as a possible lack of professional interaction and workspace boundaries, these can be mitigated through effective communication tools and good self-management skills. Greater work-life balance and reduced stress levels can also contribute to increased productivity and employee satisfaction.
+
+8. Instruction: Read the context and rephrase the key idea in a way that an 8-year-old would understand. 
+8. Input: 
+Studies have shown that production of greenhouse gases by humans, especially carbon dioxide and methane, through industrial activities and deforestation, is causing a significant increase in global temperatures. This phenomenon is referred to as anthropogenic climate change, which is causing many concerning changes in the environment and ecosystems globally.
+8. Output: 
+People are creating a lot of gas from big machines and cutting down trees, making Earth's temperature hotter. This is causing problems for the environment, plants, and animals.
+
+9. Instruction: Create a rhyming slogan to promote recycling. 
+9. Input: 
+<noinput>
+9. Output: 
+Save the planet, let's begin; Reduce, Reuse, and put it in the bin.
+
+10. Instruction: Transform the given feedback into a constructive criticism.
+10. Input: 
+Your presentation was terrible. It seemed unprepared and you were rambling the entire time.
+10. Output: 
+During your presentation, it appeared that you could benefit from additional preparation to convey the information more clearly. To improve, consider organizing your content in a concise manner and focusing on key points.
+11. Instruction: Identify the main issue in the following statement.
+11. Input: 
+The company's products continue to be delayed due to supply chain disruptions and the ongoing pandemic, resulting in frustrated customers and revenue loss.
+11. Output: 
+The main issue is the delay in the company's products due to supply chain disruptions and the pandemic, which leads to frustrated customers and revenue loss.
+
+12. Instruction: Write a haiku poem about a still pond in a forest.
+12. Input: 
+<noinput>
+12. Output: 
+Still pond reflects sky,
+Whispering forest surrounds,
+Nature's mirror calm.
+
+13. Instruction: Translate the given sentence from English to French.
+13. Input: 
+The weather is beautiful today.
+13. Output: 
+Le temps est magnifique aujourd'hui.
+
+14. Instruction: Write an alternative ending to this story.
+14. Input: 
+After searching for days, they finally found the enchanted forest. As they entered the forest, a magical spell suddenly turned them into beautiful butterflies. Unable to return to their human forms, they decided to live happily ever after, dancing on the wind and spreading color throughout the forest.
+14. Output: 
+After searching for days, they finally found the enchanted forest. As they entered the forest, they stumbled across an ancient hidden temple. Inside, they discovered a treasure trove of magical artifacts that granted them incredible powers. They decided to dedicate their lives to protecting the enchanted forest, their newfound home, and maintaining the balance between nature and magic.
+
+15. Instruction: Proofread the sentence and correct any errors.
+15. Input: 
+The recent budget cuts have forced the company to downsize their staff, affecting morrale among employees.
+15. Output: 
+The recent budget cuts have forced the company to downsize their staff, affecting morale among employees.
+
+16. Instruction: Explain the difference between stocks and bonds.
+16. Input: 
+<noinput>
+16. Output: 
+Stocks are shares of ownership in a company, which allow investors to potentially profit from a company's growth and success. Bonds, on the other hand, are debt securities issued by a company, government or other organization, which promise to pay back the principal amount plus interest to bondholders. Essentially, stocks represent ownership in a company, while bonds represent a loan made by an investor.
+
+17. Instruction: What are some potential advantages of owning an electric vehicle?
+17. Input: 
+<noinput>
+17. Output: 
+Some potential advantages of owning an electric vehicle (EV) include lower fuel and maintenance costs, reduced greenhouse gas emissions and air pollution, as well as tax credits and incentives provided by certain governments. Additionally, EVs generally offer a smoother and quieter driving experience compared to traditional internal combustion engines.
+
+18. Instruction: Highlight the most significant weakness of the given argument.
+18. Input: 
+People should not trust peer-reviewed scientific studies because there is a possibility of error or bias, even among credentialed scientists.
+18. Output: 
+The most significant weakness of the argument is the dismissal of peer-reviewed scientific studies as a whole, which undermines the rigorous process of peer-review designed to minimize errors and biases. Disregarding the entire body of evidence based on the possibility of occasional error or bias is an extreme standpoint that can lead to ignoring valuable and credible information.
+
+19. Instruction: Continue the given story in a suspenseful way. 
+19. Input: 
+It was a dark and stormy night when Emma decided to venture into the empty house at the end of her street. As the wind howled and the lightning illuminated her surroundings, she cautiously approached the front door.
+19. Output: 
+With her heart pounding in her chest, Emma slowly reached for the doorknob, feeling a mix of curiosity and fear. The door creaked open, revealing an eerie darkness beyond. She hesitated for a moment before stepping inside. As her eyes adjusted to the dimly lit surroundings, she felt a sudden chill in the air, and the floorboards groaned beneath her feet. She sensed that something was lurking just beyond her field of vision, waiting for the right moment to make itself known.
+
+20. Instruction: Create a unique acronym for a fictional organization and provide its full name.
+20. Input: 
+<noinput>
+20. Output: 
+S.P.A.C.E.D. - Society for the Preservation of Ancient Cultures, Environments, and Discoveries.

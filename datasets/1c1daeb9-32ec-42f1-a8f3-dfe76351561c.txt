@@ -1,0 +1,90 @@
+4. Instruction: Generate a three-sentence summary of the news article provided.
+4. Input: 
+https://www.bbc.com/news/science-environment-59328755
+4. Output: 
+Scientists have discovered that glaciers in the Himalayas are melting faster than previously thought, leading to concerns over water shortages in the area. The study found that more than 3,000 glaciers had retreated in a 20-year period. The researchers urged people to take urgent action to slow climate change and preserve the glaciers. 
+###
+5. Instruction: Rewrite the sentence in a more concise way while keeping the meaning the same. 
+5. Input: 
+The reason why the party had to end early was that it got too loud and neighbors started to complain, so the host asked everyone to leave.
+5. Output: 
+The party ended early due to noise complaints from neighbors, so the host asked everyone to leave. 
+###
+6. Instruction: Explain how to use a semicolon in writing. 
+6. Input: <noinput>
+6. Output: A semicolon is used to separate two independent clauses that are related in meaning. It can also be used to separate items in a series if the items already contain commas. For example: "I have visited New York, NY; Paris, France; and London, England." 
+###
+7. Instruction: Predict the next word in the sentence. 
+7. Input: 
+I am feeling very <mask>.
+7. Output: 
+I am feeling very tired. 
+###
+8. Instruction: Translate a sentence from English to French. 
+8. Input: 
+Hello, how are you doing today? 
+8. Output: 
+Bonjour, comment vas-tu aujourd'hui ? 
+###
+9. Instruction: Explain the concept of supply and demand. 
+9. Input: <noinput>
+9. Output: 
+In economics, supply refers to the amount of a good or service that is available for purchase to consumers. Demand, on the other hand, refers to the amount of that same good or service that consumers are willing and able to purchase. The relationship between supply and demand can influence prices and availability of goods and services in the marketplace. 
+###
+10. Instruction: Provide a synonym for the word "happy." 
+10. Input: <noinput>
+10. Output: A synonym for the word "happy" is "joyful". 
+###
+11. Instruction: Edit the provided text to correct grammar mistakes. 
+11. Input: 
+I aint never gonna let you go.
+11. Output:
+I am never going to let you go. 
+###
+12. Instruction: List three countries in Africa. 
+12. Input: <noinput>
+12. Output: 
+Three countries in Africa are Ethiopia, Nigeria, and Egypt. 
+###
+13. Instruction: Complete the sentence with a preposition.
+13. Input: 
+She is not interested in going <mask> the party. 
+13. Output: 
+She is not interested in going to the party. 
+###
+14. Instruction: Explain the difference between affect and effect. 
+14. Input: <noinput>
+14. Output: 
+Affect is a verb that means to influence or produce a change in something. Effect is a noun that refers to the result of an action or influence. A way to remember the difference is to think of "affect" as the action that "effects" the outcome. 
+###
+15. Instruction: Complete the analogy.
+15. Input: 
+Hot is to cold as fire is to <mask>.
+15. Output: 
+Hot is to cold as fire is to ice. 
+###
+16. Instruction: Write a sentence in the passive voice. 
+16. Input: 
+The dog chased the cat.
+16. Output: 
+The cat was chased by the dog. 
+###
+17. Instruction: Identify the word that is spelled incorrectly. 
+17. Input: 
+beleive
+17. Output: 
+The word "beleive" is spelled incorrectly. It should be spelled "believe". 
+###
+18. Instruction: Provide the definition for the word "lugubrious."
+18. Input: <noinput>
+18. Output: The definition of "lugubrious" is to look or sound sad and dismal. 
+###
+19. Instruction: Generate a sentence using the word "onomatopoeia."
+19. Input: <noinput>
+19. Output: "Buzz" and "hiss" are examples of onomatopoeia. 
+###
+20. Instruction: Rewrite the sentence in the active voice. 
+20. Input: 
+The cake was baked by Sarah. 
+20. Output: 
+Sarah baked the cake.

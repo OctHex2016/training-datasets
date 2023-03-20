@@ -1,0 +1,104 @@
+4. Instruction: Given a paragraph containing a list of facts, summarize the main idea of the paragraph in one sentence.
+4. Input: 
+Paragraph:
+Electric cars are becoming more popular each year. In the UK, the number of new electric cars registered in 2020 has increased by 185% compared to the previous year. This trend is expected to continue as more and more people are becoming aware of the environmental benefits of electric cars.
+4. Output: 
+The popularity of electric cars is increasing due to the growing awareness of their environmental benefits, with a significant increase in new registrations in the UK in 2020.
+###
+5. Instruction: Given a set of words or phrases, generate a coherent sentence or paragraph that includes all the words or phrases. 
+5. Input: 
+Words/Phrases: beach, sun, ice cream, family, vacation
+5. Output: 
+We had an amazing family vacation by the beach, where we enjoyed the sun and delicious ice cream.
+###
+6. Instruction: Correct the grammatical errors in the sentence.
+6. Input: 
+Sentence: They was very happy to see you yesterday. 
+6. Output: 
+They were very happy to see you yesterday.
+###
+7. Instruction: Given a sentence, change the passive voice to active voice. 
+7. Input: 
+Sentence: The book was written by Jane Austen.
+7. Output: 
+Jane Austen wrote the book.
+###
+8. Instruction: Complete the sentence with the appropriate word or phrase.
+8. Input: 
+Sentence: The flowers were in full ____.
+8. Output: 
+Bloom.
+###
+9. Instruction: Given a question, answer it with a sentence that includes a specific word or phrase. 
+9. Input: 
+Question: What are some things to do in Paris?
+Word/Phrase: Eiffel Tower
+9. Output: 
+One must visit the iconic Eiffel Tower when in Paris, along with numerous other attractions.
+###
+10. Instruction: Given a sentence, rephrase it using a different word or phrase with a similar meaning. 
+10. Input: 
+Sentence: He was extremely exhausted after running the marathon.
+10. Output: 
+After completing the marathon, he was very fatigued.
+###
+11. Instruction: Given a word, generate two synonymous words and use them in a sentence. 
+11. Input: 
+Word: Beautiful
+11. Output: 
+The stunning sunset over the horizon was truly breathtaking and gorgeous.
+###
+12. Instruction: Given a sentence, add a descriptive phrase to it. 
+12. Input: 
+Sentence: The cat was sleeping on the couch.
+12. Output: 
+The fluffy cat was sound asleep on the comfy couch.
+###
+13. Instruction: Given a sentence, remove the unnecessary words while preserving the intended meaning. 
+13. Input: 
+Sentence: In my personal opinion, I think that we should leave early to avoid traffic.
+13. Output: 
+I think we should leave early to avoid traffic.
+###
+14. Instruction: Given a question, answer it with a fact. 
+14. Input: 
+Question: What is the highest mountain in the world?
+14. Output: 
+Mount Everest, located in the Himalayas, is the highest mountain in the world with an elevation of 29,029 feet (8,848 meters).
+###
+15. Instruction: Given a sentence, add a necessary comma. 
+15. Input: 
+Sentence: After we eat we are going to watch a movie.
+15. Output: 
+After we eat, we are going to watch a movie.
+###
+16. Instruction: Given a sentence, change it to a negative sentence. 
+16. Input: 
+Sentence: I have a lot of homework tonight.
+16. Output: 
+I do not have much homework tonight.
+###
+17. Instruction: Given a sentence, change it to a question. 
+17. Input: 
+Sentence: She is going to the store.
+17. Output: 
+Is she going to the store?
+###
+18. Instruction: Given a paragraph, replace all instances of a certain word with a synonym.
+18. Input: 
+Paragraph: John had a huge collection of books in his library. He loved reading and would spend hours in his library. His favorite genres were fantasy and science fiction.
+Word: Huge
+18. Output: 
+John had an enormous collection of books in his library. He loved reading and would spend hours in his library. His favorite genres were fantasy and science fiction.
+###
+19. Instruction: Given a sentence, change the tense. 
+19. Input: 
+Sentence: The kids are playing outside.
+19. Output: 
+The kids were playing outside.
+###
+20. Instruction: Given a sentence, add an appropriate adverb. 
+20. Input: 
+Sentence: The dog barked.
+20. Output: 
+The dog loudly barked.

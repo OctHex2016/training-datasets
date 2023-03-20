@@ -1,0 +1,34 @@
+4. Instruction: Modify the provided text except for the character names to make it a different story setting. Keep the original characters in your revision.
+4. Input: 
+Once upon a time in a small village, there lived two friends, Alice and Bob. They were inseparable and always took time to play in the woods together, enjoying their shared love of adventure.
+
+4. Output: 
+Long ago in a bustling city, two friends, Alice and Bob, resided in neighboring high-rise apartments. They spent their weekends exploring hidden alleyways and secretly following maps to uncover urban mysteries, united by their passion for adventure.
+###
+5. Instruction: Create a limerick using the given title.
+5. Input: 
+The Curious Cat
+5. Output: 
+There once was a curious cat
+Who wore a fine, feathered hat
+With a wiggle and leap
+He'd land on his feet
+And chase every mouse he'd just spied at
+###
+6. Instruction: What precautions should be taken when a natural disaster, such as an earthquake, occurs in your area?
+6. Input: 
+<noinput>
+6. Output: 
+1. Prepare an emergency kit with essentials including food, water, medicine, and clothing.
+2. Have an evacuation plan and know your family's meeting point.
+3. Drop, cover, and hold on; seek shelter under sturdy furniture or in a safe, enclosed location.
+4. Stay inside until the shaking stops and avoid using elevators.
+5. Confirm that gas lines, water lines, and electrical systems are intact; turn off utilities if necessary.
+6. Contact loved ones and use texts or social media to minimize phone line congestion.
+7. Be prepared for possible aftershocks and avoid potentially unstable structures or debris.
+###
+7. Instruction: Compare and contrast Renewable Energy and Nonrenewable Energy in a few sentences.
+7. Input: 
+<noinput>
+7. Output: 
+Renewable energy comes from inexhaustible sources, such as sunlight, wind, and water, and has a lower environmental impact, making them more sustainable in the long run. Nonrenewable energy, sourced from finite reserves like coal, oil, and natural gas, is more cost-effective and reliable, but its extraction and use contribute significantly to pollution and climate change. Comparatively, renewable energy technologies are still emerging and can face challenges regarding efficiency and consistency, whereas nonrenewable energy resources are well-established but ultimately unsustainable.

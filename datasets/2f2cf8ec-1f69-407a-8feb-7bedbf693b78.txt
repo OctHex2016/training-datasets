@@ -1,0 +1,26 @@
+4. Instruction: Rewrite the following sentence into passive voice.
+4. Input: 
+The committee is examining the document carefully.
+4. Output: 
+The document is being examined carefully by the committee.
+###
+5. Instruction: Translate the following English sentence into French.
+5. Input: 
+I will go to the supermarket tomorrow.
+5. Output: 
+Je vais aller au supermarché demain.
+###
+6. Instruction: Summarize the following job listing in 3 sentences or less.
+6. Input: 
+Title: Software Developer
+We are seeking an innovative software developer to join our growing team. The successful candidate will be responsible for creating and maintaining software applications that enhance the user experience and meet business requirements. Candidate must have at least 3 years of experience in software development, strong analytical skills, and proficiency in Java, C#, .NET or Python programming languages. Good understanding of database technologies, such as SQL or NoSQL, and familiarity with Agile methodologies are required. The role will involve collaborating with cross-functional teams, designing scalable solutions and ensuring that applications align with the company's technical strategy. Competitive salary and benefits package provided.
+6. Output: 
+Software Developer needed with 3+ years of experience in Java, C#, .NET or Python, and database technologies like SQL or NoSQL. Candidate should be experienced in Agile methodologies and able to work with cross-functional teams. Competitive salary and benefits provided.
+###
+7. Instruction: Create a title and an opening paragraph for an article discussing the benefits of meditation for stress relief.
+7. Input: 
+<noinput>
+7. Output: 
+Title: Unwind Your Mind: The Power of Meditation for Stress Relief
+
+Opening paragraph: In today's fast-paced world, stress has become an unavoidable part of daily life for many. Enter meditation, a powerful tool that offers a much-needed respite from the constant strain on our mental and emotional well-being. This ancient practice not only helps to relax the body and clear the mind but also provides a wealth of scientifically-proven benefits that can help alleviate stress, enhance focus, and promote an overall sense of balance and peace.

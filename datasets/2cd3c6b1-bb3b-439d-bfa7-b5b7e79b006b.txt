@@ -1,0 +1,128 @@
+4. Instruction: Rewrite the given sentence while maintaining its meaning but with a more professional tone.
+4. Input: 
+This guy's work is totally a waste of time.
+4. Output: 
+The work produced by this individual seems to have very limited value.
+
+###
+5. Instruction: Classify if the given fact is true or false based on your knowledge.
+5. Input: 
+Venus is the hottest planet in our solar system.
+5. Output: 
+True
+
+###
+6. Instruction: Translate the English sentence into French.
+6. Input: 
+The cake is delicious.
+6. Output: 
+Le gâteau est délicieux.
+
+###
+7. Instruction: Evaluate the given argument and provide an example that invalidates the argument, if possible.
+7. Input: 
+All humans are mortal, and thus it is impossible for humans to have a soul that continues after death.
+7. Output: 
+The premise that "all humans are mortal" does not necessarily disprove the existence of a soul that continues after death. For example, someone could argue that while the physical body dies, the soul may exist independently of the body and continue in another form or realm.
+
+###
+8. Instruction: List three potential risks associated with the given activity.
+8. Input: 
+Extreme sports like base jumping
+8. Output: 
+1. Fatal accidents due to equipment failure or human error
+2. Severe injuries such as fractures, dislocations, or spinal injuries
+3. Legal consequences as some extreme sports take place in restricted locations or without proper permissions
+
+###
+9. Instruction: Generate a 5-point plan to improve the given aspect of your life.
+9. Input: 
+finances
+9. Output: 
+1. Create a budget and track monthly expenses.
+2. Cut down on unnecessary expenses, like dining out extensively or having multiple subscription services.
+3. Build an emergency fund with at least three to six months' worth of living expenses.
+4. Pay off high-interest debt and avoid accumulating more.
+5. Actively educate yourself about personal finance, investment opportunities, and long-term savings strategies.
+
+###
+10. Instruction: Given a movie title, provide a brief summary of its plot.
+10. Input: 
+The Godfather
+10. Output: 
+"The Godfather" is a crime drama film that tells the story of the Corleone, a powerful Mafia family, led by patriarch Vito Corleone. It follows Vito's rise and fall in the world of organized crime, as well as the challenges faced by his family as they struggle to protect their interests and maintain power amid shifting alliances and betrayals.
+
+###
+11. Instruction: Tell if the given fact is a common myth or misconception.
+11. Input: 
+Cracking your knuckles causes arthritis.
+11. Output: 
+Common myth
+
+###
+12. Instruction: Recommend three gifts within the budget for the given occasion.
+12. Input: 
+10 year wedding anniversary, budget of $200.
+12. Output: 
+1. A romantic weekend getaway to a nearby bed and breakfast.
+2. A personalized piece of jewelry, such as a bracelet, necklace, or cufflinks, engraved with your wedding date.
+3. A couple's spa day experience, including treatments like massages, facials, or other wellness activities.
+
+###
+13. Instruction: Briefly describe a method for solving the given problem.
+13. Input: 
+Reducing plastic waste in the oceans
+13. Output: 
+One method for reducing plastic waste in the oceans is through proactive beach cleanups and implementing effective waste management systems in coastal cities. This would help to prevent plastic waste from entering the ocean in the first place, reducing the need for large-scale cleanup efforts.
+
+###
+14. Instruction: Identify if there is a logical fallacy in the given statement. If so, explain the fallacy.
+14. Input: 
+All female superheroes should be portrayed by actresses who are conventionally attractive. Look at Wonder Woman, she's successful!
+14. Output: 
+Yes, there is a logical fallacy in the statement - the cherry-picking fallacy. This fallacy is present when only a single example or piece of evidence is provided while ignoring other contradicting examples. In this case, using the example of Wonder Woman, a popular character, to imply a universal rule for other female superheroes without considering other potential factors and characters is flawed.
+
+###
+15. Instruction: Imagine a use case scenario for the given technology.
+15. Input: 
+Augmented reality applications in education
+15. Output: 
+A use case scenario for augmented reality in education could be interactive anatomy lessons for medical students. Instead of using textbooks and images, students could use augmented reality headsets or devices to explore a virtual 3D model of the human body in real-time, dissecting it layer by layer, and interact with individual organs to gain a deeper understanding of the complex human anatomy.
+
+###
+16. Instruction: Provide an example of a smarter goal that pertains to the given field.
+16. Input: 
+Weight loss
+16. Output: 
+Lose 15 pounds within the next three months by implementing a balanced diet and daily exercise, tracking calorie intake and energy expenditure, and monitoring progress weekly.
+
+###
+17. Instruction: Explain two benefits of practicing the given activity.
+17. Input: 
+Meditation
+17. Output: 
+1. Improved mental well-being: Meditation can help reduce stress, anxiety, and depression by promoting relaxation and mindfulness, which can lead to greater emotional resilience and overall mental health.
+2. Enhanced focus and concentration: Regular meditation has been shown to improve attention and cognitive skills, including memory and processing speed, which can ultimately boost productivity and overall brain function.
+
+###
+18. Instruction: Write a haiku that captures the essence of the given subject.
+18. Input: 
+Autumn leaves
+18. Output: 
+Crimson, gold cascade
+Whispering breeze, cool embrace
+Nature's lullaby
+
+###
+19. Instruction: Detect if there are any grammatical errors. If any exists, correct them.
+19. Input: 
+She needs to buy a new pair of shoe because hers is all worn out.
+19. Output: 
+She needs to buy a new pair of shoes because hers are all worn out.
+
+###
+20. Instruction: Create a nutritious and balanced vegetarian lunch option.
+20. Input: 
+<noinput>
+20. Output: 
+Quinoa and black bean salad with avocado, cherry tomatoes, roasted red bell peppers, and spinach, topped with a lemon-tahini dressing and a side of whole-grain bread.

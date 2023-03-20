@@ -1,0 +1,103 @@
+4. Instruction: Given a scientific word, define it in layman's terms.
+4. Input: 
+Photosynthesis
+4. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into sugar and oxygen. It's the reason that we breathe oxygen and why plants are so important to our planet's ecosystem.
+###
+5. Instruction: Identify the country that a popular dish originates from and provide a brief history of how it came to be.
+5. Input: 
+Tacos al pastor 
+5. Output: 
+Tacos al pastor originated in Mexico and are a spinoff of the Lebanese shawarma. In the 1930s, Lebanese immigrants began settling in central Mexico, bringing with them a zest for slow-cooked, spiced meat on vertical rotisseries, a common feature in Middle Eastern cuisine. Today, tacos al pastor are enjoyed throughout the world for their bold and complex flavors.
+###
+6. Instruction: Given a topic, provide a list of historical figures associated with it. 
+6. Input: 
+Psychoanalysis 
+6. Output: 
+Sigmund Freud, Carl Jung, Melanie Klein, Jacques Lacan, Anna Freud, Karen Horney, Erik Erikson
+###
+7. Instruction: Given a movie title, provide a brief summary of the plot.
+7. Input: 
+The Godfather 
+7. Output: 
+The Godfather follows the Corleone family, an Italian-American mafia family, and their patriarch, Vito Corleone. The film explores themes of power, loyalty, and family, as the Corleone family navigates challenges to its control over the New York City criminal underworld.
+###
+8. Instruction: Given two similar-sounding words, distinguish between their uses in a sentence.
+8. Input: 
+Its vs it's
+8. Output: 
+"Its" is a possessive pronoun used to indicate ownership, while "it's" is a contraction of "it is" or "it has."
+###
+9. Instruction: Given a book title, write a short review of the book.
+9. Input: 
+To Kill a Mockingbird 
+9. Output: 
+"To Kill a Mockingbird" by Harper Lee is a literary masterpiece that is both poignant and heart-wrenching. Set in 1930s Alabama, it is a coming-of-age story told from the perspective of Scout Finch as she navigates the racial tensions and societal norms of the Deep South. The novel is a powerful meditation on justice, morality, and the human experience.
+###
+10. Instruction: Given a food ingredient, provide a list of dishes it is commonly used in. 
+10. Input: 
+Garlic 
+10. Output: 
+Garlic is a versatile ingredient used in many dishes around the world, including Italian pasta dishes like aglio e olio, flavorful Spanish soups like gazpacho, and Asian stir-fries like shrimp and broccoli with garlic sauce.
+###
+11. Instruction: Given a person's name, describe their historical importance.
+11. Input: 
+Rosa Parks 
+11. Output: 
+Rosa Parks was a civil rights activist who became famous for her refusal to give up her seat on public transportation to a white person. Her action sparked the Montgomery Bus Boycott and became a pivotal moment in the civil rights movement. Parks' bravery and determination continue to inspire people today.
+###
+12. Instruction: Given a product, provide a list of its features.
+12. Input: 
+iPhone 
+12. Output: 
+The iPhone is a smartphone made by Apple that features a high-resolution retina display, advanced cameras, facial recognition technology, wireless charging, an A12 chip for fast performance, and access to the App Store with over a million apps.
+###
+13. Instruction: Given a word or phrase, define it in another language. 
+13. Input: 
+Bonjour 
+13. Output: 
+"Bonjour" is a French word used to greet someone. In English, it translates to "hello."
+###
+14. Instruction: Given a mathematical equation, solve for the variable. 
+14. Input: 
+5x + 8 = 33 
+14. Output: 
+x = 5
+###
+15. Instruction: Given a short passage, edit it to correct any grammatical errors. 
+15. Input: 
+"Their going to they'r house there" 
+15. Output: 
+"They're going to their house there."
+###
+16. Instruction: Given a landmark, provide its location and notable historical events associated with it.
+16. Input: 
+Eiffel Tower 
+16. Output: 
+The Eiffel Tower is located in Paris, France and is one of the world's most recognizable landmarks. It was constructed in 1887-1889 as the entrance arch to the 1889 World's Fair. Today it is a symbol of French culture and attracts millions of visitors each year.
+###
+17. Instruction: Given a word, provide a list of synonyms for it. 
+17. Input: 
+Happy 
+17. Output: 
+Content, ecstatic, joyful, jubilant, pleased, delighted.
+###
+18. Instruction: Given a topic or theme, suggest three books that explore it.
+18. Input: 
+Identity 
+18. Output: 
+1. "The Color Purple" by Alice Walker
+2. "The Bell Jar" by Sylvia Plath
+3. "The Namesake" by Jhumpa Lahiri
+###
+19. Instruction: Given a word, provide a list of opposite words for it. 
+19. Input: 
+Hot 
+19. Output: 
+Cold, frigid, chilly, cool, icy.
+###
+20. Instruction: Given a geographical location, provide a list of animals native to that area. 
+20. Input: 
+Australian outback 
+20. Output: 
+Kangaroo, koala, wombat, emu, kookaburra, Tasmanian devil.

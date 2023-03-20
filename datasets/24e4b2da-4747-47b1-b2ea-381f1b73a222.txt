@@ -1,0 +1,134 @@
+4. Instruction: Write a short acrostic poem using the following word.
+4. Input: 
+TELESCOPE
+4. Output: 
+To the skies we gaze,
+Endless wonders and stars ablaze,
+Longing to uncover celestial displays,
+Exploring from far away floors,
+Searching for planets and cosmic doors,
+Capturing light through the void unscathed,
+Observing the hidden and fascinating maze,
+Pioneering knowledge with boundless grace,
+Eager to understand the cosmos' embrace.
+
+###
+5. Instruction: Rearrange the following sentences to make a cohesive and logical paragraph.
+5. Input: 
+The sun was setting. Birds were chirping. Jane arrived at the park. Children were playing games. Flowers were blooming.
+5. Output: 
+Jane arrived at the park. The sun was setting, and flowers were blooming. Birds were chirping as children were playing games.
+
+###
+6. Instruction: Summarize the given passage in one sentence.
+6. Input: 
+Orcas, also known as killer whales, are the largest members of the dolphin family. They are among the world's most powerful predators, known to prey on a variety of animals, including seals, fish, and even other whales. Orcas can be found in the Arctic and Antarctic regions and have a complex social structure with strong bonds among members of the same pod.
+6. Output: 
+Orcas, the largest dolphin family members and powerful predators, can be found in the Arctic and Antarctic regions, maintaining a complex social structure within their pods.
+
+###
+7. Instruction: Based on the customer review, give a rating from 1 to 5 stars, with 5 being the best.
+7. Input: 
+The coffee was too bitter and the service was slow. The ambiance, however, was charming, and I enjoyed the pleasant background music.
+7. Output: 
+3 stars
+
+###
+8. Instruction: Create two band names, using the given list of words.
+8. Input: 
+Midnight, Dream, Phoenix, Crystal, Revolution
+8. Output: 
+1) Crystal Phoenix Revolution
+2) Midnight Dream
+
+###
+9. Instruction: Translate the following sentence into French.
+9. Input: 
+The cat is sleeping on the blue chair.
+9. Output: 
+Le chat dort sur la chaise bleue.
+
+###
+10. Instruction: Correct the grammar mistakes in the following sentence.
+10. Input: 
+They has a large collection of books, but she don't like to read them.
+10. Output: 
+They have a large collection of books, but she doesn't like to read them.
+
+###
+11. Instruction: List three possible solutions to the presented problem.
+11. Input: 
+How can I motivate myself to exercise regularly in the morning?
+11. Output: 
+1) Establish a routine by setting a fixed time for exercising each day.
+2) Prepare your workout clothes and equipment the night before to minimize distractions.
+3) Use positive reinforcements, such as rewards or a progress chart, to track your achievements.
+
+###
+12. Instruction: Explain how to properly clean a laptop keyboard.
+12. Input: 
+<noinput>
+12. Output: 
+To properly clean a laptop keyboard, start by turning off and unplugging the laptop. Use a can of compressed air to blow away dust and debris from between the keys. Next, dampen a microfiber cloth with isopropyl alcohol and gently clean the key surfaces, ensuring not to soak the cloth or allow excess liquid to seep into the keyboard. Finally, use a dry microfiber cloth to gently wipe the surfaces dry and allow the keyboard to air dry completely before turning the laptop back on.
+
+###
+13. Instruction: Briefly explain the greenhouse effect.
+13. Input: 
+<noinput>
+13. Output: 
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the sun, preventing it from escaping back into space. This process helps regulate the Earth's temperature, but an increase in greenhouse gas emissions due to human activities can amplify the effect, contributing to global warming.
+
+###
+14. Instruction: Write the missing word in the famous quote.
+14. Input: 
+"With great power, comes great _____."
+14. Output: 
+responsibility
+
+###
+15. Instruction: Provide nutritional advice based on the given meal plan.
+15. Input: 
+Breakfast: 4 pancakes with syrup, bacon, and a glass of orange juice.
+Lunch: Cheeseburger and fries with a soda.
+Dinner: Fried chicken, mashed potatoes, and gravy with a side of mac and cheese.
+15. Output: 
+To improve the nutritional value of this meal plan, consider incorporating more fruits, vegetables, and whole grains while reducing processed and fried foods. For example, add a side of fresh fruit to breakfast, replace the soda at lunch with water, and swap the fried chicken and mac and cheese at dinner for a grilled chicken and vegetable stir-fry.
+
+###
+16. Instruction: List three benefits of drinking water regularly.
+16. Input: 
+<noinput>
+16. Output: 
+1) Helps maintain proper hydration for bodily functions.
+2) Assists in flushing out waste and toxins from the body.
+3) Promotes healthy skin and can aid in weight management. 
+
+###
+17. Instruction: Given a movie title, create a brief tagline.
+17. Input: 
+Time Travelers United
+17. Output: 
+When every second counts, history's heroes rise.
+
+###
+18. Instruction: Write an email subject line for a company's newsletter announcing a seasonal promotion.
+18. Input: 
+<noinput>
+18. Output: 
+Embrace the Season - Save 25% on Our Exclusive Collection!
+
+###
+19. Instruction: Identify the main theme of the given poem.
+19. Input: 
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+19. Output: 
+The main theme of the poem is to fight against the inevitability of death and to live life passionately.
+
+###
+20. Instruction: Calculate the percentage of 50 out of 200.
+20. Input: 
+<noinput>
+20. Output: 
+25%

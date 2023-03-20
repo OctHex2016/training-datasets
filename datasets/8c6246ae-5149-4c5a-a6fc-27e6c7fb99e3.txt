@@ -1,0 +1,61 @@
+4. Instruction: From the given paragraph, extract and list the symptoms of the mentioned medical condition.
+4. Input: 
+Alice suffers from seasonal affective disorder (SAD) - a type of depression that occurs around the same time each year, typically in winter. Some common symptoms that she experiences include low energy, feelings of sadness, loss of interest in activities, weight gain, oversleeping, irritability, and difficulty concentrating.
+4. Output: 
+- Low energy
+- Feelings of sadness
+- Loss of interest in activities
+- Weight gain
+- Oversleeping
+- Irritability
+- Difficulty concentrating
+
+5. Instruction: Rewrite the given passage in plain language, making it easier to understand for a wide audience.
+5. Input: 
+The efficacious control mechanism of orchestrated preemptive strike operations is crucial for the stability and security of a nation. The strategic utilization of intelligence resources permits the comprehensive neutralization of imminent threats.
+5. Output: 
+Effective planning and control of early attack operations are important for a country's safety and stability. Smart use of information helps to stop threats before they cause harm.
+
+6. Instruction: Convert the sentence into a limerick without losing its meaning.
+6. Input: 
+An eager young turtle named Jed loved playing with circles and pi but his math made him slow, and in circles, he'd go, so he just ate some lettuce instead.
+6. Output: 
+There once was a turtle named Jed,
+Who with circles and pi liked to tread,
+But his math made him slow,
+In circles, he'd go,
+So he munched on some lettuce instead.
+
+7. Instruction: List three potential ways in which climate change could impact agriculture.
+7. Input: 
+<noinput>
+7. Output: 
+1. Altered growing seasons due to temperature fluctuations
+2. Increased pests and diseases affecting crops
+3. Declining water availability for irrigation
+
+8. Instruction: Write a brief press release about the new environmentally friendly packaging innovation.
+8. Input: 
+<noinput>
+8. Output: 
+FOR IMMEDIATE RELEASE
+
+New Environmentally Friendly Packaging Innovation Set to Revolutionize the Industry
+
+[City, Date] – Today marks a game-changing development in sustainable packaging, as [Company Name] announces its latest eco-friendly innovation. Designed to minimize waste and environmental impact, the new packaging material is made from 100% recycled and biodegradable materials. With increased pressure on businesses to reduce their carbon footprint, this breakthrough delivers a greener alternative to traditional packaging. [Company Name] is proud to lead the way in responsible packaging, paving the way for a more sustainable future. For more information, visit [website] or contact [Company Spokesperson] at [email address / phone number].
+
+-End-
+
+9. Instruction: Please explain the difference between espresso and drip coffee, including the brewing methods and taste.
+9. Input: 
+<noinput>
+9. Output: 
+Espresso is a concentrated coffee beverage made by forcing hot water under high pressure through finely ground coffee beans. The result is a full-bodied and robust taste, with a creamy crema on top. The high-pressure method extracts flavor quickly, producing a strong, concentrated shot of coffee in a short time.
+
+Drip coffee, on the other hand, is brewed by pouring hot water over coarsely ground coffee beans placed in a coffee filter. The water filters through the grounds, picking up flavors as it passes, and into a carafe or cup. With a slower brewing time, drip coffee is lighter in taste compared to an espresso, with a more balanced flavor.
+
+10. Instruction: Identify and fix any grammatical errors in the following sentences.
+10. Input: 
+Running in thunderstorm isn't a good idea, since it can be dangerous, you should find other ways of exercize indoors.
+10. Output: 
+Running in a thunderstorm isn't a good idea since it can be dangerous; you should find other ways of exercise indoors.

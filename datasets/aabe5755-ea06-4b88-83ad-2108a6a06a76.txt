@@ -1,0 +1,59 @@
+4. Instruction: Identify any logical fallacy present in this argument.
+4. Input: 
+Everyone knows that vitamin C helps boost the immune system. I don't know anyone who has gotten sick after taking vitamin C supplements regularly, so vitamin C must be able to prevent all illnesses entirely.
+4. Output:
+The logical fallacy in the argument is "Hasty Generalization." The conclusion that vitamin C prevents all illnesses entirely is based on limited evidence and personal anecdotes.
+
+5. Instruction: Write a brief news headline based on the given summary.
+5. Input: 
+A wildfire triggered by unseasonal heatwaves has claimed the lives of three firefighters in Northern California. The blaze threatens to escalate as more than 2,500 people have been evacuated from their homes due to increasing dangers.
+5. Output: 
+Wildfire in Northern California Kills 3 Firefighters, Forces Evacuation of Over 2,500 Residents
+
+6. Instruction: Suggest an improvement to the given piece of writing.
+6. Input: 
+I am very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very concerned by the lack of progress our team.
+6. Output:
+I am extremely concerned by the lack of progress our team is making.
+
+7. Instruction: List three symptoms of the medical condition provided.
+7. Input: 
+Migraine
+7. Output: 
+1. Severe or throbbing headache, typically on one side of the head.
+2. Sensitivity to light and sound.
+3. Nausea and vomiting.
+
+8. Instruction: Is the following statement a fact or an opinion? Explain your choice.
+8. Input: 
+The Harry Potter series is the best book series ever written.
+8. Output: 
+Opinion. The statement is subjective as it is based on personal preferences and not on objective or measurable criteria. People's opinions on the best book series might differ.
+
+9. Instruction: Calculate the tip for the given bill using a 15% tip rate.
+9. Input: 
+$75
+9. Output: 
+$11.25 (A 15% tip on a $75 bill)
+
+10. Instruction: Provide an advice for someone starting their first job out of college.
+10. Input: 
+<noinput>
+10. Output: 
+Take the time to build positive relationships with your coworkers and superiors; be open to learning from their experiences and expertise. Embrace challenges as opportunities for growth, and do not be afraid to ask questions when you require clarification or guidance.
+
+11. Instruction: Rewrite the given sentence using passive voice.
+11. Input: 
+She baked the cake for the party.
+11. Output: 
+The cake was baked by her for the party.
+
+12. Instruction: Summarize the given article.
+12. Input: 
+<title>
+Scientists Discover New Earth-Like Planet
+
+<article>
+A team of astronomers led by Nasa scientists have made a remarkable discovery: a planet similar in size to Earth, orbiting a nearby star. The new planet, named Kepler-452b, is about 1,400 light-years away from our solar system and is said to be in the "habitable zone." This new planet is thought to have conditions appropriate for life.
+
+The host star Kepler-452 is a close match to our sun, and Kepler-452b orbits it at a similar distance as the Earth. This suggests that the planet may have a similar climate to ours, with water and even liquid oceans. However, scientists say it's still too early to know for sure if there is life on the planet, with much more research required.

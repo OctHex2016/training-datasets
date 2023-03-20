@@ -1,0 +1,125 @@
+4. Instruction: Summarize the article's main idea in one sentence.
+4. Input: 
+The article discusses the benefits of electric bikes, such as improving health, reducing air pollution, and decreasing the global impact of gas-powered transportation, and argues that cities should encourage their use and expand infrastructure for them.
+4. Output: 
+The article advocates for the promotion of electric bikes in cities due to their potential to improve health, reduce pollution, and lessen dependence on fossil fuels.
+
+### 
+5. Instruction: Transform the statement into a question.
+5. Input: 
+She is attending the conference.
+5. Output: 
+Is she attending the conference?
+
+### 
+6. Instruction: Explain how electric power steering works in a simplistic way.
+6. Input: 
+<noinput>
+6. Output: 
+Electric power steering uses an electric motor to assist the driver in turning the car's wheels, reducing the physical effort needed and making steering more responsive and precise.
+
+### 
+7. Instruction: Correct the spelling mistakes in the text.
+7. Input: 
+She ofter spendx hourse at the beeach enjoyng the suun, waves, and freesh bree'z.
+7. Output:
+She often spends hours at the beach enjoying the sun, waves, and fresh breeze.
+
+### 
+8. Instruction: Identify the logical fallacy in the argument.
+8. Input: 
+People who own expensive cars must have high-paying jobs since high-paying jobs provide the money needed for expensive purchases.
+8. Output: 
+Hasty generalization.
+
+### 
+9. Instruction: Provide an example of oxymoron.
+9. Input: 
+<noinput>
+9. Output: 
+Deafening silence.
+
+### 
+10. Instruction: Identify the subject and predicate in the sentence.
+10. Input: 
+The kids played soccer in the park.
+10. Output: 
+Subject: The kids
+Predicate: played soccer in the park
+
+### 
+11. Instruction: Calculate the compound interest for the given scenario.
+11. Input: 
+Amount: 5000 USD
+Interest rate: 5%
+Years: 3
+Compound frequency: yearly
+11. Output: 
+Compound interest: 783.53 USD
+
+### 
+12. Instruction: Write a haiku about a summer storm. 
+12. Input: 
+<noinput>
+12. Output: 
+Lightning sparks the sky,
+Raindrops dance upon the leaves,
+Summer storm retreats.
+
+### 
+13. Instruction: Find the mistake in the following Python code and suggest a fix.
+13. Input: 
+def multiply(a, b)
+    return a * b
+13. Output: 
+Mistake: Missing colon after function definition.
+Fix: def multiply(a, b):
+
+### 
+14. Instruction: Identify the main theme of the following phrase.
+14. Input: 
+Time flies like an arrow; fruit flies like a banana.
+14. Output: 
+Wordplay and humor.
+
+### 
+15. Instruction: Recommend a book for someone interested in cryptocurrency.
+15. Input: 
+<noinput>
+15. Output: 
+"Mastering Bitcoin" by Andreas M. Antonopoulos.
+
+### 
+16. Instruction: Create a safety tip for using a chainsaw.
+16. Input: 
+<noinput>
+16. Output: 
+Always wear protective gear such as safety goggles, ear protection, gloves, and steel-toed boots when operating a chainsaw.
+
+### 
+17. Instruction: Generate a possible title for a movie about space exploration.
+17. Input: 
+<noinput>
+17. Output: 
+"Galactic Frontiers"
+
+### 
+18. Instruction: Translate the following text into French.
+18. Input: 
+The weather is beautiful today, perfect for a picnic at the park.
+18. Output: 
+Le temps est magnifique aujourd'hui, parfait pour un pique-nique au parc.
+
+### 
+19. Instruction: Describe what "schadenfreude" means.
+19. Input: 
+<noinput>
+19. Output: 
+Schadenfreude is the experience of pleasure or satisfaction derived from another person's misfortune or suffering.
+
+### 
+20. Instruction: Evaluate the following mathematical expression.
+20. Input: 
+(5 * 3) - (8 / 2) + 6
+20. Output: 
+16

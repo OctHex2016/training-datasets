@@ -1,0 +1,55 @@
+4. Instruction: Identify the algorithms or techniques mentioned in the text and list them separated by commas.
+4. Input: 
+In machine learning, a wide variety of algorithms and techniques can be employed to train and optimize models. Classic methods include linear regression, logistic regression, and decision trees. More advanced techniques such as ensemble methods, specifically, random forest, and boosting techniques like AdaBoost, and gradient boosting, have emerged over the years. Deep learning methods, comprising convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers, have also become popular for tasks like image and natural language processing.
+4. Output: 
+linear regression, logistic regression, decision trees, ensemble methods, random forest, AdaBoost, gradient boosting, deep learning, convolutional neural networks (CNNs), recurrent neural networks (RNNs), transformers
+
+5. Instruction: Translate the English phrase into Latin.
+5. Input: 
+Phrase: "Seize the day"
+5. Output: 
+Carpe diem
+
+6. Instruction: What is the theme of the given poem?
+6. Input: 
+One Art
+
+The art of losing isn't hard to master;
+so many things seem filled with the intent
+to be lost that their loss is no disaster.
+
+Lose something every day. Accept the fluster
+of lost door keys, the hour badly spent.
+The art of losing isn't hard to master.
+
+(Elizabeth Bishop)
+6. Output: 
+The theme of the poem is the art of coping with loss and accepting it as an inevitable part of life.
+
+7. Instruction: Convert the given informal text into a more formal style.
+7. Input: 
+Hey, I just wanted to ask if you could manage to send me the report by, like, 4 p.m.? I kinda need it for the meeting with the boss later today. Thx!
+7. Output: 
+Dear [Colleague's name], would you please be able to send me the report by 4 p.m.? I require it for our meeting with the manager this afternoon. Thank you.
+
+8. Instruction: Correct the grammatical errors, if any, in the given sentence.
+8. Input: 
+Neither her sisters nor Anna was satisfied with the hotel where they was staying.
+8. Output: 
+Neither her sisters nor Anna was satisfied with the hotel where they were staying.
+
+9. Instruction: Extract the average rating and reviewer name from the given review.
+9. Input: 
+Review: 
+The room was spacious, and the staff was accommodating. The front desk staff, in particular, was incredibly helpful when I requested an early check-in. I would also like to mention the breakfast, which was delicious. The only thing that could have been better is the Wi-Fi, which was a bit slow. 
+
+Reviewer: Jamie Smith
+Average Rating: 4.5/5
+9. Output: 
+Average Rating: 4.5/5, Reviewer: Jamie Smith
+
+10. Instruction: Modify the given sentence to make it less repetitive by combining similar ideas.
+10. Input: 
+I love my dog because he is funny. I love my dog because he is caring. I love my dog because he is smart.
+10. Output: 
+I love my dog because he is funny, caring, and smart.

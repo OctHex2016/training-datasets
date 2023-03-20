@@ -1,0 +1,127 @@
+
+
+4. Instruction: Generate a rhyming couplet with the word “moon” in it.
+4. Input: 
+<noinput>
+4. Output: 
+The moon rose high in the sky,
+As the world below let out a sigh.
+###
+5. Instruction: Classify this flower as a monocot or dicot based on its characteristics.
+5. Input: 
+This flower has parallel-veined leaves and flower parts in multiples of three.
+5. Output: 
+This flower is a monocot.
+###
+6. Instruction: Rewrite this sentence in the active voice: “The cat was chased by the dog.”
+6. Input: 
+<noinput>
+6. Output: 
+The dog chased the cat.
+###
+7. Instruction: Summarize the main points of this research article on climate change.
+7. Input: 
+[Link to a research article]
+7. Output: 
+According to the research, human activity significantly contributes to climate change and its consequences, including rising sea levels and more frequent natural disasters. Efforts to reduce greenhouse gas emissions are crucial to mitigating these effects.
+###
+8. Instruction: Generate a pun with the word “book” in it.
+8. Input: 
+<noinput>
+8. Output: 
+I'm reading a book on the history of glue. I just can’t seem to put it down.
+###
+9. Instruction: Explain what the quote “All animals are equal, but some animals are more equal than others” means in the context of the book Animal Farm.
+9. Input: 
+<noinput>
+9. Output: 
+This quote reflects the pigs' manipulation of the other animals on the farm to maintain their own power and privileges, despite promises of equality among all animals. The pigs are the "more equal" animals referred to in the quote.
+###
+10. Instruction: Given a function, find the derivative of the function with respect to x.
+10. Input: 
+f(x) = x^2 + 3x - 7
+10. Output: 
+f'(x) = 2x + 3
+###
+11. Instruction: Describe the process of making a classic French omelette.
+11. Input: 
+<noinput>
+11. Output: 
+Beat two eggs with salt and pepper in a bowl. Heat butter in a nonstick pan and pour the eggs into the pan. With a fork or spatula, gently stir the eggs in a circular motion until they start to come together. Allow cooked egg to sit for 10 seconds, then fold the omelette in half and slide onto a plate. Serve hot.
+###
+12. Instruction: Identify which country consumes the most chocolate per capita.
+12. Input: 
+<noinput>
+12. Output: 
+Switzerland consumes the most chocolate per capita, at approximately 19.4 pounds per person per year.
+###
+13. Instruction: Write a short story describing the scene in the provided image.
+13. Input: 
+[link to an image]
+13. Output: 
+The sun had just begun to rise over the mountains, casting a soft pink and orange glow over the quiet village. In the distance, a farmer could already be heard shouting to his animals while a group of children gathered by a pond, eager to begin their day of exploring the outdoors.
+###
+14. Instruction: Generate a haiku about autumn leaves.
+14. Input: 
+<noinput>
+14. Output: 
+Golden leaves falling,
+Nature's confetti dancing,
+Autumn's sweet farewell.
+###
+15. Instruction: Describe the steps to change a flat tire on a car.
+15. Input: 
+<noinput>
+15. Output: 
+Locate spare tire, lug wrench, and jack in car. Loosen lug nuts on flat tire. Lift the car with the jack and remove the lug nuts and flat tire. Position the spare tire and replace the lug nuts, tightening them by hand. Lower car to the ground, then tighten lug nuts completely. 
+###
+16. Instruction: Rewrite this sentence to eliminate any gender bias: “The manager spoke to his employees about the new policy.”
+16. Input: 
+<noinput>
+16. Output: 
+The manager spoke to their employees about the new policy. 
+###
+17. Instruction: Define the term "cognitive dissonance" and give an example.
+17. Input: 
+<noinput>
+17. Output: 
+Cognitive dissonance is a mental state of discomfort arising from conflicting beliefs or values. For example, if someone believes that smoking is harmful but continues to smoke, they may experience cognitive dissonance. To alleviate this discomfort, they may either quit smoking or rationalize their behavior by dismissing the risks associated with smoking.
+###
+18. Instruction: Generate a joke about fruit.
+18. Input: 
+<noinput>
+18. Output: 
+Why did the banana go to the doctor? Because it wasn't peeling well.
+###
+19. Instruction: Explain the function of the Golgi apparatus in a cell.
+19. Input: 
+<noinput>
+19. Output: 
+The Golgi apparatus is responsible for modifying, sorting, and packaging proteins and lipids for transport to their final destination within or outside the cell. It does this by adding sugars, lipids or phosphate groups to proteins, creating glycoproteins or lipoproteins, which are then packaged into vesicles for transport. 
+###
+20. Instruction: List the ingredients and steps to bake a chocolate cake from scratch.
+20. Input: 
+<noinput>
+20. Output: 
+Ingredients:
+- 2 cups sugar
+- 1 3/4 cups all-purpose flour
+- 3/4 cup unsweetened cocoa powder
+- 1 1/2 tsp baking soda
+- 1 tsp baking powder
+- 1 tsp salt
+- 2 eggs
+- 1 cup milk
+- 1/2 cup vegetable oil
+- 2 tsp vanilla extract
+- 1 cup boiling water
+
+Steps:
+1. Preheat the oven to 350°F (175°C).
+2. Grease and flour two 9-inch cake pans.
+3. In a large bowl, stir together the sugar, flour, cocoa, baking soda, baking powder, and salt. Add eggs, milk, oil, and vanilla and mix with an electric mixer until well combined.
+4. Stir in boiling water last, and blend until smooth.
+5. Pour evenly into the prepared pans.
+6. Bake for 30-35 minutes in the preheated oven, until a toothpick inserted into the center comes out clean.
+7. Cool the cake layers in the pans for 10 minutes, then remove and cool completely on wire racks.
+8. Frost and decorate as desired.

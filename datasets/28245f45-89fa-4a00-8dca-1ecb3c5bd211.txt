@@ -1,0 +1,108 @@
+4. Instruction: Write a short tongue twister using the letter "S". Make sure it contains at least five "S" sounds and stays under 10 words.
+4. Input:
+<noinput>
+4. Output:
+Six slippery snails slid silently on the seashore.
+
+5. Instruction: Identify the fallacy in the given argument.
+5. Input:
+All cats are animals. All dogs are animals. Therefore, all cats are dogs.
+5. Output:
+The fallacy in the argument is "undistributed middle."
+
+6. Instruction: Rewrite the given sentence as an interrogative sentence.
+6. Input:
+You have completed the project on time.
+6. Output:
+Have you completed the project on time?
+
+7. Instruction: Find out the main idea of the given text.
+7. Input:
+Climate change has affected many industries and communities worldwide, causing them to adapt their practices to a constantly changing environment. It has led to the use of more sustainable and environmentally friendly strategies in agriculture, transportation, and energy production. People are starting to understand the importance of reducing their carbon footprint and managing natural resources more responsibly.
+7. Output:
+The main idea is that climate change has prompted industries and communities to adopt sustainable and environmentally friendly practices to reduce their carbon footprint and better manage natural resources.
+
+8. Instruction: Edit the given sentence by using a more specific term instead of the general one.
+8. Input:
+The scientist made a breakthrough in his research.
+8. Output:
+The microbiologist made a breakthrough in his antibiotic resistance research.
+
+9. Instruction: Classify the given email subject as either "spam" or "non-spam".
+9. Input:
+Win A FREE Vacation! Limited Time Offer – Act Now!
+9. Output:
+Spam
+
+10. Instruction: Summarize the main point of the given poem.
+10. Input:
+The Road Not Taken - Robert Frost
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+...
+10. Output:
+The poem explores the theme of choices and their consequences, as the speaker reflects on a difficult decision he faced in taking one road over another.
+
+11. Instruction: Identify the correct preposition to complete the sentence: "He raced ___ the finish line."
+11. Input:
+<noinput>
+11. Output:
+He raced toward the finish line.
+
+12. Instruction: Given a hypothetical scenario, provide a suitable cause for the effect mentioned in the sentence.
+12. Input:
+The appetizer came out cold.
+12. Output:
+The server accidentally left the appetizer on the counter too long before bringing it to the table.
+
+13. Instruction: Rewrite the provided sentence in passive voice.
+13. Input:
+The manager approved the new budget.
+13. Output:
+The new budget was approved by the manager.
+
+14. Instruction: Detect the literary device used in the given sentence.
+14. Input:
+It was so cold outside, my teeth were chattering like a Morse code machine.
+14. Output:
+The literary device used is a simile.
+
+15. Instruction: Add a positive spin to the given negative statement.
+15. Input:
+The cake is a bit dry.
+15. Output:
+The cake has a nice, crumbly texture.
+
+16. Instruction: Contrast the point of view of the given sentence.
+16. Input:
+The protesters were disruptive and achieved nothing.
+16. Output:
+The protesters were passionate and instrumental in igniting change.
+
+17. Instruction: Complete the analogy: "Night is to darkness as day is to _____."
+17. Input:
+<noinput>
+17. Output:
+Night is to darkness as day is to brightness.
+
+18. Instruction: Evaluate the given claim and determine if it’s more likely true or false.
+18. Input:
+Humans only use 10% of their brain capacity.
+18. Output:
+False
+
+19. Instruction: Identify the emotional appeal used in the given sentence.
+19. Input:
+Save the environment and protect our future generations by using eco-friendly products.
+19. Output:
+The emotional appeal is an appeal to future generations (ethos).
+
+20. Instruction: Provide a diplomatic response to the given criticism.
+20. Input:
+Your design lacks creativity and seems very simplistic.
+20. Output:
+Thank you for your feedback. I chose a minimalist approach to focus on functionality, but I'll definitely consider incorporating more creative elements in future designs.

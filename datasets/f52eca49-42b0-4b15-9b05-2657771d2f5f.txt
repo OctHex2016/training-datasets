@@ -1,0 +1,125 @@
+4. Instruction: List some benefits of daily exercise.
+4. Input: 
+<noinput>
+4. Output: 
+- Improved cardiovascular health
+- Weight control and fat reduction
+- Enhanced muscle strength and flexibility
+- Increased stamina and energy
+- Better mental health and reduced stress
+- Boosted immune system
+- Improved cognitive function
+- Better sleep quality
+
+5. Instruction: Write a brief recommendation for a nutritious breakfast.
+5. Input:
+<noinput>
+5. Output:
+I recommend a nutritious breakfast composed of a whole-grain cereal or oatmeal, accompanied by fresh fruit and low-fat yogurt. This combination provides a healthy mix of complex carbohydrates, fiber, vitamins, and minerals, boosting your energy and jump-starting your metabolism for the day.
+
+6. Instruction: Determine the subject and predicate in the sentence.
+6. Input:
+The sunflowers brightened the garden.
+6. Output:
+Subject: The sunflowers
+Predicate: brightened the garden
+
+7. Instruction: Can humans drink seawater? Explain why or why not.
+7. Input:
+<noinput>
+7. Output:
+No, humans cannot drink seawater because it has high levels of salt. Consuming seawater leads to dehydration, as the high salt content forces your body to lose more water than what you gain from drinking it. This imbalance between salt and water makes it dangerous and harmful to drink seawater.
+
+8. Instruction: Translate the following English sentence to Spanish.
+8. Input:
+I love to travel to new places.
+8. Output:
+Me encanta viajar a lugares nuevos.
+
+9. Instruction: Write a haiku about nature.
+9. Input:
+<noinput>
+9. Output:
+Gentle summer breeze,
+Whispers through the rustling leaves,
+Nature's symphony.
+
+10. Instruction: Provide a list of synonyms for the word "happy".
+10. Input:
+<noinput>
+10. Output:
+- Joyful
+- Delighted
+- Elated
+- Content
+- Pleased
+- Cheerful
+- Gleeful
+
+11. Instruction: Summarize the main idea of the passage.
+11. Input:
+The Grand Canyon, one of the most stunning natural wonders in the world, has been carved over millions of years by the Colorado River. Stretching almost 300 miles in length, the canyon is 18 miles wide in some places and up to a mile deep. This remarkable spectacle attracts over 6 million visitors every year, making the Grand Canyon one of the most visited national parks in the United States. Various recreational activities, such as hiking, rafting, and helicopter tours, allow tourists to explore and experience this geological marvel up close.
+11. Output:
+The Grand Canyon, a breathtaking geological wonder created by the Colorado River over millions of years, is a popular destination attracting millions of visitors each year, who can partake in various activities to immerse themselves in its awe-inspiring beauty.
+
+12. Instruction: Identify the type of poem from the excerpt below.
+12. Input:
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+12. Output:
+The poem is a classic example of a Robert Frost's "The Road Not Taken," which is a narrative poem.
+
+13. Instruction: Recommend a movie based on the user's interests.
+13. Input:
+I love fantasy movies with lots of magic and strong, complex characters.
+13. Output:
+Given your interests in fantasy, magic and complex characters, I'd recommend the movie "The Lord of the Rings: The Fellowship of the Ring." This film offers an epic adventure with fascinating magical elements, intriguing characters, and an immersive plot.
+
+14. Instruction: Write a brief summary of the plot of "Alice's Adventures in Wonderland".
+14. Input:
+<noinput>
+14. Output:
+"Alice's Adventures in Wonderland" follows a young girl named Alice as she falls down a rabbit hole into a fantastical realm filled with peculiar creatures, enchanting landscapes, and nonsensical logic. Throughout her journey, she encounters a wide range of bizarre characters and navigates curious situations, all the while trying to find her way back home.
+
+15. Instruction: Calculate the value of x in the equation 5x - 8 = 12.
+15. Input:
+<noinput>
+15. Output:
+To solve for x, add 8 to both sides: 5x = 20.
+Now, divide both sides by 5: x = 4.
+
+16. Instruction: Briefly describe the process of photosynthesis.
+16. Input:
+<noinput>
+16. Output:
+Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose (food) and oxygen. Light-dependent reactions in the chlorophyll pigments capture sunlight and generate energy, while light-independent reactions use that energy, along with CO2 and water, to produce glucose and release oxygen as a byproduct.
+
+17. Instruction: Choose the correct word to complete the sentence.
+17. Input:
+The cat __________ off the rooftop.
+a) fall
+b) fell
+c) falls
+17. Output:
+b) fell
+
+18. Instruction: Identify the author of the book "To Kill a Mockingbird".
+18. Input:
+<noinput>
+18. Output:
+Harper Lee is the author of "To Kill a Mockingbird."
+
+19. Instruction: Write a short paragraph describing the features of a good smartphone.
+19. Input:
+<noinput>
+19. Output:
+A good smartphone should have a sleek design with a high-quality and durable build. It should feature a high-resolution, crisp display for optimal viewing experiences, long battery life for all-day usage, and a user-friendly interface for easy navigation. Moreover, it should have a fast and powerful processor, ample storage capacity, and cutting-edge security features. Lastly, a good smartphone should come equipped with advanced cameras to capture high-quality photos and videos.
+
+20. Instruction: State whether the statement is a fact or an opinion.
+20. Input:
+Sharks are the most dangerous animals in the ocean.
+20. Output:
+Opinion

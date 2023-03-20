@@ -1,0 +1,121 @@
+4. Instruction: Provide a one-sentence summary of the given article.
+4. Input: 
+Article: 
+Scientists have discovered a new species of shark in the Atlantic Ocean, named the "Ninja lanternshark."
+4. Output: 
+The ninja lanternshark, a new species of shark found in the Atlantic Ocean, has been discovered by scientists. 
+###
+5. Instruction: Write a question that can help identify the emotions behind a statement.
+5. Input: 
+Statement: "I can't believe she said that to me."
+5. Output: 
+What emotions are you feeling right now after hearing her say that to you? 
+###
+6. Instruction: Fill in the blanks of the sentence with proper prepositions.
+6. Input: 
+People who live ________ cities are often _____ risk ________ developing respiratory diseases _______ air pollution.
+6. Output: 
+People who live in cities are often at risk of developing respiratory diseases due to air pollution.
+###
+7. Instruction: Edit the given sentence by changing the noun phrase to a pronoun.
+7. Input: 
+Sentence: 
+The dog barked at the mailman, and the mailman ran away from the dog.
+7. Output: 
+The dog barked at the mailman, and he ran away from it.
+###
+8. Instruction: Infer the cause of an observed phenomenon.
+8. Input: 
+Observation: 
+The floor is wet.
+8. Output: 
+It looks like someone spilled water on the floor, I would recommend cleaning it up before someone slips and falls. 
+###
+9. Instruction: Neutralize the sentiment of a given statement.
+9. Input: 
+Statement: 
+I absolutely love sushi.
+9. Output: 
+I have tried sushi before and think it is quite enjoyable.
+###
+10. Instruction: Classify a given object into a given category.
+10. Input: 
+object: 
+Banana
+category: 
+Vegetable or Fruit?
+10. Output: 
+The banana is classified as a fruit due to its seeds and how it grows. 
+###
+11. Instruction: Provide a synonym for a given word in the sentence.
+11. Input: 
+Sentence: 
+I'm so tired, I just want to go to sleep.
+word to be replaced: tired
+11. Output: 
+I'm so exhausted, I just want to go to sleep.
+###
+12. Instruction: Summarize a given speech or video clip in one sentence.
+12. Input: 
+Video clip: 
+A 5-minute lecture on the importance of washing hands thoroughly.
+12. Output: 
+The speaker stresses the importance of washing hands thoroughly in a 5-minute lecture.
+###
+13. Instruction: Provide a descriptive adjective for the given noun.
+13. Input: 
+Noun: 
+Tea
+13. Output: 
+Tea is a soothing and refreshing drink that can be enjoyed hot or cold. 
+###
+14. Instruction: Help come up with a prompt for a creative writing assignment.
+14. Input: 
+Subject:
+The beach
+14. Output: 
+Write a story from the perspective of a crab living on the beach. 
+###
+15. Instruction: Provide a fact about a given topic. 
+15. Input: 
+Topic: 
+The Great Wall of China
+15. Output: 
+The Great Wall of China is the longest wall in the world, stretching over 13,000 miles. 
+###
+16. Instruction: Come up with a creative headline for a given news article.
+16. Input: 
+News article: 
+A new park opens in the heart of the city
+16. Output: 
+A Breath of Fresh Air: New Park Opens in the Heart of the City
+###
+17. Instruction: Translate a phrase from English to another language. 
+17. Input: 
+Phrase: 
+Goodbye
+Language to translate to: 
+Spanish
+17. Output: 
+Adiós
+###
+18. Instruction: Come up with a sentence using a given word in the proper context.
+18. Input: 
+Word: 
+Conundrum
+18. Output: 
+I am faced with a conundrum - I cannot decide which college to attend. 
+###
+19. Instruction: Explain a concept or scientific phenomenon.
+19. Input: 
+Concept: 
+Photosynthesis
+19. Output: 
+Photosynthesis is the process by which plants and other organisms convert light energy into chemical energy, which then fuels the growth and function of cells. 
+###
+20. Instruction: Come up with a question that will reveal if someone is familiar with a popular cultural reference.
+20. Input: 
+Reference: 
+The Godfather
+20. Output: 
+Have you seen The Godfather before?

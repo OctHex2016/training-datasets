@@ -1,0 +1,113 @@
+4. Instruction: Combine the words into a single compound keyword.
+4. Input: 
+smart, home, security, system
+4. Output: 
+SmartHomeSecuritySystem
+###
+5. Instruction: Summarize the given text in two sentences.
+5. Input: 
+After years of research and development, Tesla has finally unveiled its new electric pickup truck known as the Cybertruck. With its futuristic design, impressive performance, and an affordable price tag, it has taken the automotive world by storm. The Cybertruck is surrounded by excitement and skepticism alike, as some see it as the future of trucks while others doubt its viability.
+5. Output: 
+Tesla's new electric pickup truck, the Cybertruck, features a futuristic design and impressive performance at an affordable price. There is excitement and skepticism surrounding its future viability in the truck market.
+###
+6. Instruction: Provide a possible explanation for the given phenomenon.
+6. Input: 
+Rainbows are seen in the sky after it rains.
+6. Output: 
+Rainbows form after rain because water droplets in the sky refract, or bend, light from the sun into a circle of colors. As the sunlight passes through the water droplets, it separates into its various wavelengths, creating the visible spectrum of colors that we see as a rainbow.
+###
+7. Instruction: Rewrite the given text in passive voice.
+7. Input: 
+People all over the world listen to music on Spotify.
+7. Output: 
+Music is listened to on Spotify by people all over the world.
+###
+8. Instruction: Write a haiku inspired by the following theme.
+8. Input: 
+Autumn leaves falling
+8. Output: 
+Autumn leaves descend
+Crimson hues blanket the ground
+Nature's quilt of peace
+###
+9. Instruction: Generate a short palindrome for the given word.
+9. Input: 
+race
+9. Output: 
+racecar
+###
+10. Instruction: Identify the type of fallacy in the given argument.
+10. Input: 
+If we legalize marijuana, we'll have to legalize other harmful drugs like cocaine, heroin, and meth.
+10. Output: 
+Slippery slope fallacy
+###
+11. Instruction: Briefly interpret the quote.
+11. Input: 
+"The only thing necessary for the triumph of evil is for good men to do nothing." - Edmund Burke
+11. Output: 
+This quote emphasizes that inaction and indifference from good people allow evil to succeed. It serves as a call to the morally upright to actively resist evil in any form.
+###
+12. Instruction: Create a short anecdote involving the given topic.
+12. Input: 
+Adapting to living in a foreign country.
+12. Output: 
+An American expatriate named Emma moved to Spain for her job. The first week, she went to a local grocery store in Barcelona to buy some food. When she couldn't find her favorite peanut butter brand, she asked for "mantequilla de cacahuete". The store clerk gave her a puzzled look, as "mantequilla" means "butter", not "peanut butter." Eventually, the store clerk understood what she intended to ask and directed her to "crema de cacahuete." Emma smiled and thanked the clerk, realizing that even everyday language holds surprises in a foreign country.
+###
+13. Instruction: Convert the given Fahrenheit temperature to Celsius.
+13. Input: 
+95 °F
+13. Output: 
+35 °C
+###
+14. Instruction: Name the given capitals of the countries.
+14. Input: 
+United States:
+Germany:
+Australia:
+Brazil:
+14. Output: 
+United States: Washington, D.C.
+Germany: Berlin
+Australia: Canberra
+Brazil: Brasília
+###
+15. Instruction: List the five stages of grief, according to the Kübler-Ross model.
+15. Input: 
+<noinput>
+15. Output: 
+1. Denial
+2. Anger
+3. Bargaining
+4. Depression
+5. Acceptance
+###
+16. Instruction: Describe the given image using five adjectives.
+16. Input: 
+A picture of a densely wooded forest at sunset, with towering trees and rays of golden sunlight filtering through the leaves.
+16. Output: 
+Verdant, serene, enchanting, picturesque, illuminated.
+###
+17. Instruction: Translate the given sentence into French.
+17. Input: 
+The book is on the table.
+17. Output: 
+Le livre est sur la table.
+###
+18. Instruction: Identify the literary device used in the given sentence.
+18. Input: 
+The stars danced playfully in the moonlit sky.
+18. Output: 
+Personification
+###
+19. Instruction: Which company manufactures the iPhone?
+19. Input: 
+<noinput>
+19. Output: 
+Apple Inc.
+###
+20. Instruction: Determine the verb tense in the given sentence.
+20. Input: 
+The plane will land at the airport soon.
+20. Output: 
+Future simple tense

@@ -1,0 +1,71 @@
+4. Instruction: Generate a short story based on the following prompt.
+4. Input:
+"Every night at midnight, the old man would walk to the graveyard, sit next to a certain grave, and tell a story. One night, a young girl saw him and decided to join him."
+4. Output:
+The old man had been coming to the graveyard for years, telling stories to his late wife buried beneath the ground. But tonight, he wasn't alone. A young girl, her blonde hair pulled back in a ponytail, sat next to him intently listening to his story. As he finished, she smiled at him and asked him to tell her more. It was the start of a beautiful friendship.
+###
+5. Instruction: Summarize the following research article in three sentences.
+5. Input: 
+https://www.sciencedirect.com/science/article/pii/S2589750021000504
+5. Output: 
+The paper discusses the benefits of using machine learning algorithms for speech emotion recognition. The proposed method uses a combination of supporting vector machine and random forest algorithms, which was found to be effective in identifying emotions from speech with high accuracy. The results suggest that this method could potentially be used in various industries that require emotion recognition, such as mental health research and the entertainment industry.
+###
+6. Instruction: Turn the following positive sentence into a negative sentence. 
+6. Input:
+I love listening to classical music while I work.
+6. Output:
+I don't enjoy listening to classical music while I work.
+###
+7. Instruction: Simplify the following complex sentence.
+7. Input:
+Although there has been some progress in our understanding of the underlying mechanisms involved in inflammatory diseases, further research is required in order to develop effective treatments.
+7. Output:
+More research is needed to treat inflammatory diseases.
+###
+8. Instruction: Write a short summary of the plot of the movie "Inception".
+8. Input:
+<noinput>
+8. Output:
+The protagonist, Dom Cobb, is a skilled thief who is hired to perform an impossible task: Inception, the implantation of an idea into a person's subconscious. As the story progresses, Cobb and his team travel through multiple levels of dreams, each more dangerous than the last, to complete their mission before it's too late.
+###
+9. Instruction: What is the fastest land animal in the world?
+9. Input:
+<noinput>
+9. Output:
+The fastest land animal in the world is the cheetah, which can run up to speeds of 70-75 mph (112-120 km/h).
+###
+10. Instruction: Correct the following sentence for grammatical errors.
+10. Input:
+She don't like to eat vegetables and always refuse them.
+10. Output:
+She doesn't like to eat vegetables and always refuses them.
+###
+11. Instruction: Suggest a witty comeback to someone who says "You're not making any sense".
+11. Input:
+<noinput>
+11. Output:
+I'm speaking in cursive, darling. You just can't read it.
+###
+12. Instruction: Translate the following phrase to French.
+12. Input:
+Hello, how are you?
+12. Output:
+Bonjour, comment allez-vous? 
+###
+13. Instruction: Write a one-paragraph description of the city of Tokyo.
+13. Input:
+<noinput>
+13. Output:
+Tokyo, the capital of Japan, is a bustling and vibrant city known for its incredible technology, fashion, and food. Home to over 13 million people, it is the largest metropolitan area in the world. In Tokyo, you can find everything from traditional shrines and temples to high-end shopping and entertainment. You can taste some of the world's best sushi or explore the neon-lit streets of Shibuya. Tokyo is truly a city that never sleeps, with endless possibilities for adventure and excitement. 
+###
+14. Instruction: Rewrite the following sentence using an active voice.
+14. Input:
+The ball was thrown by John.
+14. Output:
+John threw the ball. 
+###
+15. Instruction: Write an argumentative essay on whether or not animals should be kept in zoos.
+15. Input:
+<noinput>
+15. Output:
+There are those who argue that zoos serve an important role in animal conservation and education, allowing people to learn about different species and providing a safe environment for animals. However, others contend that keeping animals in zoos is cruel and unethical, and that wild animals should be allowed to live freely in their natural habitats. Ultimately, the decision of whether or not to keep animals in zoos is a complex one with valid arguments on both sides. While zoos can educate people and help save endangered species, the welfare of the animals must always be taken into account. Ultimately, it is up to society to decide what is best for both humans and animals.

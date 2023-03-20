@@ -1,0 +1,61 @@
+4. Instruction: Write a critical review of a movie, highlighting its strengths and weaknesses.
+4. Input: 
+Movie: The Shawshank Redemption
+4. Output: 
+"The Shawshank Redemption" is a powerful and moving film that stands as one of the most memorable movies of all time. The movie, directed by Frank Darabont, is an adaptation of Stephen King's novella "Rita Hayworth and the Shawshank Redemption." The strengths of the film lie in its compelling storyline, masterful performances, and immersive cinematography. The characters, particularly Tim Robbins as Andy Dufresne and Morgan Freeman as Ellis Boyd 'Red' Redding, are brilliantly portrayed and elicit emotional investment from the audience. The film's weakness is its sometimes slow pacing, which may discourage viewers who appreciate a tighter narrative. Overall, "The Shawshank Redemption" is a must-see film that offers a profound exploration of the human spirit in the face of adversity.
+
+5. Instruction: Rewrite the following text in a formal tone.
+5. Input: 
+Hey there! So we gotta figure out what’s up with all the missing socks. I mean, seriously, where do they go, right? We should probs do some investigating and find out how these socks keep vanishing into thin air!
+5. Output: 
+Greetings, it has come to our attention that we must investigate the issue relating to missing socks. Evidently, it is imperative to identify the cause of their disappearance. We should conduct thorough research to determine the reason behind these vanishings.
+
+6. Instruction: Classify the following emotions as positive, negative, or neutral.
+6. Input: 
+Happiness, Anger, Surprise, Boredom, Excitement, Disgust
+6. Output: 
+Positive: Happiness, Excitement
+Negative: Anger, Disgust
+Neutral: Surprise, Boredom
+
+7. Instruction: Summarize the main idea of the article.
+7. Input: 
+Healthy urban design is about more than walkability and green spaces. It encompasses improving the quality of life, creating resilient cities, and ensuring their growth is environmentally sustainable. As the world's population becomes increasingly urbanized, cities face many challenges, including air pollution, rising temperatures, and a deficit of affordable housing. To tackle these issues, urban planners should embrace innovative methods that prioritize human and environmental health. These may include the integration of green roofs, vertical gardens, urban forests, and the promotion of public transport over private vehicles. In doing so, cities can become healthier places to live for generations to come.
+7. Output: 
+The article focuses on the importance of healthy urban design to address challenges such as air pollution, rising temperatures, and affordable housing. It emphasizes the significance of innovative methods, including green roofs, vertical gardens, and urban forests, and prioritizing public transport to ensure a sustainable and healthy environment in cities. 
+
+8. Instruction: Create a fictional restaurant menu.
+8. Input: <noinput>
+8. Output: 
+Appetizers:
+- Tomato Bruschetta
+- Spinach and Artichoke Dip
+- Stuffed Mushroom Caps
+
+Salads:
+- Classic Caesar Salad
+- Greek Salad
+- Southwest Chicken Salad
+
+Entrees:
+- Seared Salmon with Lemon-Dill Sauce
+- Chicken Marsala
+- Mushroom Risotto
+
+Desserts:
+- Chocolate Lava Cake
+- Tiramisu
+- Strawberry Cheesecake
+
+Beverages:
+- Iced Tea
+- Lemonade
+- Selection of Wine and Beer
+
+9. Instruction: Write a short personal statement for a college application.
+9. Input: 
+Intended Major: Computer Science
+Goals: To better understand how technology impacts the world and develop new software solutions
+Interests: Coding, AI, Machine Learning
+9. Output: 
+As an aspiring computer scientist, my goals are to delve deeper into the world of technology, and examine the ways in which it shapes our society. My passion for coding, artificial intelligence, and machine learning has invigorated my desire to be part of the next generation of innovative software solutions. I am eager to contribute to a college environment that encourages creativity and collaboration while providing the resources needed to flourish academically. Through pursuing a degree in Computer Science, I hope to gain the skills, knowledge, and understanding to play a meaningful role in the rapidly-evolving digital landscape.

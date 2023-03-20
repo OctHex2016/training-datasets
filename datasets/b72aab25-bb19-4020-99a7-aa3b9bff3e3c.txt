@@ -1,0 +1,45 @@
+4. Instruction: Please summarize the main idea of the passage.
+4. Input: 
+The psychological impact of colors on human behavior has been widely studied. Research suggests that colors can evoke moods, feelings, and even influence our actions. For instance, red is often associated with aggression or romance, while blue tends to elicit feelings of calmness and tranquility. Green is linked to nature and growth, often promoting relaxation and feelings of rejuvenation. Additionally, colors can influence our perception of temperature, with warm colors (red, orange, and yellow) giving the illusion of warmth and cool colors (blue, green, and purple) giving the illusion of cold. This is important for industries such as interior design, packaging, and advertising where color choice can make a significant impact on consumer behavior.
+4. Output: 
+Colors have a psychological impact on human behavior by evoking moods, feelings, and influencing actions. They also affect our perception of temperature. This knowledge is crucial in industries like interior design, packaging, and advertising, where color choices impact consumer behavior.
+5. Instruction: List 5 European capitals.
+5. Input: 
+<noinput>
+5. Output: 
+1. London, United Kingdom
+2. Paris, France
+3. Rome, Italy
+4. Berlin, Germany
+5. Madrid, Spain
+###
+6. Instruction: Identify the main verb and the subject in the given sentence.
+6. Input: 
+The curious cat climbed the tall tree in the backyard.
+6. Output: 
+Main verb: climbed
+Subject: The curious cat
+###
+7. Instruction: Rewrite the following sentence in the passive voice.
+7. Input: 
+The dog chased the cat all around the house.
+7. Output: 
+The cat was chased by the dog all around the house.
+###
+8. Instruction: Please find the error in the sentence and fix it.
+8. Input: 
+She was very tired, but decides to finish her work anyway.
+8. Output: 
+She was very tired, but decided to finish her work anyway.
+###
+9. Instruction: Convert the given Celsius temperature to Fahrenheit.
+9. Input: 
+35°C
+9. Output: 
+95°F
+###
+10. Instruction: Explain the concept behind photosynthesis.
+10. Input: 
+<noinput>
+10. Output: 
+Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight into chemical energy in the form of glucose or other sugars. It involves the absorption of light energy by chlorophyll pigments, which drives the transformation of carbon dioxide and water into glucose and oxygen. This process not only provides the energy needed for the growth and survival of the organism but also plays a crucial role in the removal of carbon dioxide from the atmosphere and the production of oxygen, supporting life on Earth.

@@ -1,0 +1,229 @@
+4. Instruction: Summarize this paragraph in one sentence.
+4. Input:
+Air pollution is a major global problem, impacting the health of millions of people around the world. It occurs when harmful or excessive amounts of substances are released into the Earth's atmosphere, which can lead to a range of adverse health effects, including respiratory illnesses, heart disease, and negative impacts on cognitive function. Factors contributing to air pollution include industrial processes, emissions from cars and other vehicles, household energy use, and natural occurrences such as wildfires and volcanic activity.
+4. Output:
+Air pollution, caused by factors like industrial processes, vehicle emissions, and natural occurrences, is a global issue resulting in numerous health problems including respiratory illnesses, heart disease, and cognitive impairments.
+
+5. Instruction: Correct any grammatical errors in the following sentence.
+5. Input:
+If you goes to the store, please pickup some eggs and breads for me.
+5. Output:
+If you go to the store, please pick up some eggs and bread for me.
+
+6. Instruction: Write a haiku about autumn.
+6. Input:
+<noinput>
+6. Output:
+Leaves gently falling,
+Colors painting the landscape,
+Autumn's breath whispers.
+
+7. Instruction: What is the capital city of France?
+7. Input:
+<noinput>
+7. Output:
+The capital city of France is Paris.
+
+8. Instruction: Explain how photosynthesis works in simple terms.
+8. Input:
+<noinput>
+8. Output:
+Photosynthesis is a process in which plants, algae, and some bacteria take in sunlight, carbon dioxide, and water to produce oxygen and glucose (energy) for their growth and other life functions.
+
+9. Instruction: List 5 characteristics of mammals.
+9. Input:
+<noinput>
+9. Output:
+1. Warm-blooded (endothermic)
+2. Have hair or fur
+3. Give birth to live young (except monotremes)
+4. Produce milk for their offspring
+5. Possess a backbone and a four-chambered heart
+
+10. Instruction: Transform this narrative sentences to passive voice.
+10. Input:
+John sent the package to Mary yesterday.
+10. Output:
+The package was sent to Mary by John yesterday.
+
+11. Instruction: Recommend a healthy breakfast option.
+11. Input:
+<noinput>
+11. Output:
+A healthy breakfast option is a bowl of oatmeal with fresh fruits, nuts, and a dash of honey for sweetness.
+
+12. Instruction: Calculate the percentage increase of $500 to $600.
+12. Input:
+<noinput>
+12. Output:
+The percentage increase from $500 to $600 is 20%.
+
+13. Instruction: Reorder these words to form a meaningful sentence.
+13. Input:
+stairs the her slowly walked up dog
+13. Output:
+Her dog slowly walked up the stairs.
+
+14. Instruction: How many seats are in the U.S. Senate?
+14. Input:
+<noinput>
+14. Output:
+There are 100 seats in the U.S. Senate.
+
+15. Instruction: Translate the following English sentence to French.
+15. Input:
+I am going to the library to pick up a book.
+15. Output:
+Je vais à la bibliothèque pour prendre un livre.
+
+16. Instruction: Identify the piano keys in the C major chord.
+16. Input:
+<noinput>
+16. Output:
+The piano keys in the C major chord are C, E, and G.
+
+17. Instruction: Write an original riddle.
+17. Input:
+<noinput>
+17. Output:
+I speak without a mouth and hear without ears, I have no body but come alive with the wind; what am I? Answer: An echo.
+
+18. Instruction: Explain what the term "melting point" means.
+18. Input:
+<noinput>
+18. Output:
+Melting point is the temperature at which a solid substance turns into a liquid state due to the increase in heat.
+
+19. Instruction: Classify the following animal as a mammal, bird, or reptile.
+19. Input:
+Penguin
+19. Output:
+Bird
+
+20. Instruction: Rearrange this sentence to passive voice: "She ate the whole pizza by herself."
+20. Input:
+<no_input>
+20. Output:
+The whole pizza was eaten by her.
+4. Instruction: Translate the following English sentence to French.
+4. Input: 
+Where is the nearest train station?
+4. Output: 
+Où se trouve la gare la plus proche?
+
+###
+5. Instruction: Summarize this article in three sentences.
+5. Input: 
+The gradual increase in renewable energy production worldwide is playing a significant role in reducing greenhouse gas emissions globally. According to a recent report by the International Renewable Energy Agency, almost half of the world's new electricity generation capacity in 2021 utilized renewable energy production methods. Furthermore, the report indicates that the installed cost of utility-scale solar and wind power is now lower than the price of new fossil fuel power plants, making the switch to green energy more economically viable for countries and private investors.
+
+5. Output:
+The ongoing growth of renewable energy production is helping to decrease global greenhouse gas emissions. In 2021, close to half of the world's newly installed electricity generation capacity relied on renewables, as reported by the International Renewable Energy Agency. Additionally, the costs for utility-scale solar and wind power installations have dropped below those of new fossil fuel plants, increasing the economic appeal of greener energy alternatives.
+
+###
+6. Instruction: Propose a creative name for a vegan fast-food restaurant.
+6. Input: 
+<noinput>
+6. Output: 
+Plant-n-Go
+
+###
+7. Instruction: What book is this quote from?
+7. Input: 
+“All animals are equal, but some animals are more equal than others.”
+7. Output: 
+This quote is from George Orwell's book, "Animal Farm."
+
+###
+8. Instruction: Re-write this sentence into an interrogative form.
+8. Input: 
+The urban population is growing rapidly.
+8. Output: 
+Is the urban population growing rapidly?
+
+###
+9. Instruction: Fact-check the claim in the statement.
+9. Input: 
+The Great Wall of China is the only man-made structure visible from space.
+9. Output: 
+This claim is false. The Great Wall of China is not visible from space with the naked eye.
+
+###
+10. Instruction: What is the scientific name of this plant?
+10. Input: 
+Common sunflower
+10. Output: 
+Helianthus annuus
+
+###
+11. Instruction: Explain the main function of a capacitor in an electronic circuit.
+11. Input: 
+<noinput>
+11. Output: 
+The main function of a capacitor in an electronic circuit is to store electrical energy and release it when needed. It does this by accumulating charge on its plates when a voltage is applied across it, and discharging the stored energy when the voltage source is removed or diminished.
+
+###
+12. Instruction: List three professional certifications for project managers.
+12. Input: 
+<noinput>
+12. Output: 
+1. Project Management Professional (PMP)
+2. Certified Associate in Project Management (CAPM)
+3. PRINCE2 Practitioner
+
+###
+13. Instruction: Evaluate the mathematical expression.
+13. Input: 
+(4 + 2) * (9 - 3) / 3
+13. Output: 
+12
+
+###
+14. Instruction: What famous building is this quote about and who said it?
+14. Input: 
+“It is as if one frame of God’s creation had been put on display with a single glance to see all its grandeur.”
+14. Output: 
+The quote is about the Hagia Sophia, and it was said by Procopius of Caesarea.
+
+ ###
+15. Instruction: Provide an example of alliteration in a sentence.
+15. Input: 
+<noinput>
+15. Output: 
+She sells seashells by the seashore.
+
+###
+16. Instruction: Define the term "cognitive dissonance."
+16. Input: 
+<noinput>
+16. Output: 
+Cognitive dissonance is a psychological theory that refers to the mental discomfort experienced by an individual when they hold two or more contradictory beliefs, values, or attitudes simultaneously. This discomfort often drives the person to resolve the inconsistency by changing their beliefs, attitudes, or actions.
+
+ ###
+17. Instruction: Correct any grammatical or punctuation errors in the sentence.
+17. Input: 
+Theres a reason for their being a lot of disagreement on this issue; people have diferent opinions.
+17. Output: 
+There's a reason for there being a lot of disagreement on this issue; people have different opinions.
+
+###
+18. Instruction: Name three essential nutrients found in fruits and vegetables.
+18. Input: 
+<noinput>
+18. Output: 
+1. Vitamin C
+2. Potassium
+3. Dietary fiber
+
+ ###
+19. Instruction: Identify the logical fallacy in the argument.
+19. Input: 
+Since everyone is buying that product, it must be the best choice.
+19. Output: 
+Bandwagon fallacy
+
+###
+20. Instruction: Generate a palindrome phrase or sentence.
+20. Input: 
+<noinput>
+20. Output: 
+A man, a plan, a canal, Panama!

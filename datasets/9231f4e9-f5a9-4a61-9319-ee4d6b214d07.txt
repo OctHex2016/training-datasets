@@ -1,0 +1,108 @@
+4. Instruction: Translate the following sentence into French.
+4. Input: 
+The quick brown fox jumps over the lazy dog.
+4. Output: 
+Le renard brun rapide saute par-dessus le chien paresseux.
+
+5. Instruction: Explain how photosynthesis works in simple terms.
+5. Input:
+<noinput>
+5. Output: 
+Photosynthesis is a process where plants turn sunlight, water, and carbon dioxide into oxygen and glucose, which helps them grow and produce energy.
+
+6. Instruction: Tell me the minimum recommended water intake per day for an adult.
+6. Input:
+<noinput>
+6. Output: 
+The minimum recommended water intake per day for an adult is approximately 3.7 liters (125 ounces) for men and 2.7 liters (91 ounces) for women.
+
+7. Instruction: Correct the grammar and punctuation errors in the following passage. 
+7. Input: 
+I would like two share an story it was an rainy day and, Jessy was wating at the bus stop he was late to school, as usual. Than, he saw an old lady with heavy bag he thought; and offered to help it brought a smile on her face
+7. Output: 
+I would like to share a story. It was a rainy day, and Jessy was waiting at the bus stop, late to school as usual. Then, he saw an old lady with a heavy bag and thoughtfully offered to help. It brought a smile to her face.
+
+8. Instruction: Solve the following math problem: What is the square root of 169?
+8. Input:
+<noinput>
+8. Output: 
+The square root of 169 is 13.
+
+9. Instruction: Write a brief news headline about a man who saved a kitten from a tree. 
+9. Input:
+<noinput>
+9. Output: 
+Local Hero Saves Kitten from a Tree.
+
+10. Instruction: Based on the ingredients list, identify the dish being prepared.
+10. Input: 
+Chicken, bell peppers, onions, tomatoes, garlic, cumin, paprika, salt, pepper, cilantro, and tortillas.
+10. Output: 
+Chicken fajitas.
+
+11. Instruction: Suggest 3 tips for improving memory.
+11. Input:
+<noinput>
+11. Output: 
+1. Get regular exercise.
+2. Practice mindfulness and strategic memorization techniques.
+3. Maintain a healthy diet rich in Omega-3 fatty acids, antioxidants, and vitamins.
+
+12. Instruction: Based on the movie description, give me the title and the year of release.
+12. Input: 
+Marty, a teenager from the 1980s, accidentally travels to the 1950s using a time machine invented by eccentric scientist Doc Brown. He meets his parents in their youth and must ensure they fall in love or he'll cease to exist. Directed by Robert Zemeckis, the film stars Michael J. Fox and Christopher Lloyd.
+12. Output: 
+"Back to the Future" (1985).
+
+13. Instruction: Turn the given sentence into passive voice. 
+13. Input: 
+The cat chased the mouse.
+13. Output: 
+The mouse was chased by the cat.
+
+14. Instruction: Identify the country where the breed of dog originated. 
+14. Input: 
+Golden Retriever
+14. Output: 
+Scotland
+
+15. Instruction: Write a brief company mission statement for a sustainable clothing brand.
+15. Input:
+<noinput>
+15. Output: 
+Our mission is to create fashionable, high-quality, and environmentally responsible clothing that empowers our customers, uplifts communities, and protects the planet for future generations.
+
+16. Instruction: What type of literary device is used in the following sentence: "The snow whispered beneath her feet as she walked cautiously through the park."
+16. Input: 
+<noinput>
+16. Output: 
+Personification.
+
+17. Instruction: List down five healthy food options suitable for a vegetarian.
+17. Input:
+<noinput>
+17. Output: 
+1. Quinoa
+2. Chickpeas
+3. Spinach
+4. Almonds
+5. Tofu
+
+18. Instruction: Write a brief introduction for an essay about the benefits of exercise.
+18. Input:
+<noinput>
+18. Output: 
+In today's fast-paced world, the importance of exercise is often underrated. Regular physical activity not only helps maintain a healthy weight, but also enhances mental well-being, improves cardiovascular health, and boosts overall quality of life. This essay will discuss the benefits of exercise and illustrate why it should be an integral part of our daily routine.
+
+19. Instruction: Based on the given information, determine if the statement is accurate or not.
+19. Input: 
+Information: Thomas Edison is known for inventing the electric light bulb.
+Statement: Edison invented the electric light bulb.
+19. Output: 
+Accurate
+
+20. Instruction: Provide an alternative title for the book "To Kill a Mockingbird" by Harper Lee.
+20. Input:
+<noinput>
+20. Output: 
+Innocence and Injustice

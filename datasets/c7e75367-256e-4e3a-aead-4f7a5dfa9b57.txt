@@ -1,0 +1,132 @@
+4. Instruction: Please summarize the main idea in the following text passage.
+4. Input: 
+The human brain is the central organ of the human nervous system, and it is highly unusual in its complexity. The brain, along with the spinal cord, makes up the central nervous system, and its main job is to respond to both the internal and external environment. It processes information that it receives from the sensory organs and responds by sending out information to the muscles, glands, and organs, telling them what to do. The brain is responsible for many complex functions, such as thinking, perceiving, emotion, and our most basic instincts.
+4. Output: 
+The human brain is an incredibly complex central organ of the nervous system that processes information from sensory organs, communicates with muscles, glands, and organs, and is responsible for thinking, perceiving, emotion, and basic instincts. 
+
+###
+5. Instruction: Translate the following sentence into French: "I'm very excited for my trip to Paris next month."
+5. Input: 
+<noinput>
+5. Output: 
+Je suis très enthousiaste pour mon voyage à Paris le mois prochain.
+
+###
+6. Instruction: Rank these four types of exercise equipment in order from the most helpful for losing weight to the least helpful: Treadmill, Rowing machine, Medicine ball, Spin bike.
+6. Input: 
+<noinput>
+6. Output: 
+1. Treadmill
+2. Spin bike
+3. Rowing machine
+4. Medicine ball
+
+###
+7. Instruction: Write a haiku about the beauty of a lush forest.
+7. Input:
+<noinput>
+7. Output:
+Green leaves whispering,
+Ancient trees stand tall and proud,
+Nature's sweet embrace.
+
+###
+8. Instruction: List the full chemical names for these chemical formulas: H2O, NaCl, H2SO4, CO2.
+8. Input: 
+<noinput>
+8. Output: 
+1. H2O - Water (Dihydrogen monoxide)
+2. NaCl - Sodium chloride
+3. H2SO4 - Sulfuric acid
+4. CO2 - Carbon dioxide
+
+###
+9. Instruction: Write a three-sentence advertisement that encourages people to visit Ireland.
+9. Input: 
+<noinput>
+9. Output: 
+Discover the beauty of Ireland, a land of rolling green hills and vibrant culture. Unforgettable experiences await you in this enchanting country as you explore its vibrant cities and charming villages. Come visit Ireland, where warm welcomes and memories to last a lifetime are in abundance.
+
+###
+10. Instruction: Determine the main theme of this excerpt from a novel.
+10. Input: 
+Tom had a strong connection to the ocean his entire life. From his early childhood memories of splashing in the waves with his father to his daily escapes from the daily grind to walk along the shoreline with his dog, the ocean had always been there for him. The roar of the waves and the smell of the salty air brought him solace, and it was where he felt most at peace.
+10. Output: 
+The main theme is the strong and comforting connection between the protagonist, Tom, and the ocean. 
+
+###
+11. Instruction: Write a 6-word story about a lonely astronaut.
+11. Input: 
+<noinput>
+11. Output: 
+Among stars, a heart longs for home.
+
+###
+12. Instruction: Create a sample email subject line for a company’s newsletter announcing a special sale event.
+12. Input: 
+<noinput>
+12. Output: 
+Exclusive Sale Event - Huge Savings Inside!
+
+###
+13. Instruction: Suggest a name for a mobile app that helps users find and rate local restaurants.
+13. Input: 
+<noinput>
+13. Output: 
+DineFinder
+
+###
+14. Instruction: Identify the two main types of conflict shown in the following passage.
+14. Input: 
+As Sarah drove to work, her internal battle raged on – should she confront her boss about the unfair treatment or keep quiet to maintain the peace? Meanwhile, her old car was wheezing and showing signs that it would break down any moment, adding to her mounting stress.
+14. Output: 
+1. Internal conflict (Sarah's dilemma about confronting her boss)
+2. External conflict (Sarah's car issues)
+
+###
+15. Instruction: Calculate the area of a circle with a radius of 7 cm. (Use π = 3.14159)
+15. Input: 
+<noinput>
+15. Output: 
+153.93791 square centimeters
+
+###
+16. Instruction: Write a paragraph comparing two psychological theories, behaviorism and humanism.
+16. Input: 
+<noinput>
+16. Output: 
+Behaviorism and humanism are two distinct psychological theories that approach human behavior and development from different perspectives. Behaviorism emphasizes the role of environmental stimuli in shaping behavior, focusing on observable actions and asserting that human behavior is a result of conditioning and reinforcement. In contrast, humanism emphasizes the importance of free will, personal growth, self-actualization, and the intrinsic drive toward self-improvement. While both theories contribute valuable insights, behaviorism is more deterministic and fosters an external locus of control, whereas humanism promotes an internal locus of control and emphasizes the uniqueness of individuals.
+
+###
+17. Instruction: Write a limerick about a cat who loves playing the piano.
+17. Input: 
+<noinput>
+17. Output: 
+There once was a cat with a flair,
+For tickling ivories with care,
+His paws danced with glee,
+On the piano, you see,
+As enchanting tunes filled the air.
+
+###
+18. Instruction: Provide nutritional advice for someone who wants to lose weight.
+18. Input: 
+<noinput>
+18. Output: 
+To lose weight effectively, focus on a balanced diet that includes whole, nutrient-dense foods. Prioritize consuming lean protein sources like chicken, fish, legumes, and dairy, as well as plenty of fruits, vegetables, and whole grains. Avoid processed foods, refined sugars, and excessive fat intake. Remember to stay well-hydrated, practicing portion control, and consider combining your diet with regular physical activity for the best results.
+
+###
+19. Instruction: Correct the grammar and spelling errors in the following passage.
+19. Input: 
+Their home was an eclectik display of varius cultures and time periods, each peice bringing someting unique too the assemblege. The couhc was a traditonal red velvet Victorian sofa; the cofee table a rustic wood slab with modren metal legs. As guests enters, they felt intrigued.
+19. Output: 
+Their home was an eclectic display of various cultures and time periods, each piece bringing something unique to the assemblage. The couch was a traditional red velvet Victorian sofa; the coffee table a rustic wood slab with modern metal legs. As guests entered, they felt intrigued.
+
+###
+20. Instruction: Provide three general tips on how to improve public speaking skills.
+20. Input: 
+<noinput>
+20. Output: 
+1. Practice frequently to build confidence and familiarity with your material.
+2. Focus on engaging your audience with eye contact, body language, and vocal variety.
+3. Work on improving your organization and clarity to ensure your message is easy to understand and follow.

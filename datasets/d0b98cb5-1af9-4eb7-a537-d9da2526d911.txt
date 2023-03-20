@@ -1,0 +1,134 @@
+4. Instruction: Summarize this news article about climate change in 3 sentences.
+4. Input:
+Article link: https://www.bbc.com/news/science-environment-61424412
+4. Output:
+The article reports that the world is currently not on track to meet the Paris climate agreement of keeping warming below 1.5C. Scientists warn that the only way to meet the target is to drastically reduce carbon emissions within this decade. The article also highlights the potential consequences of not meeting the target, including more frequent extreme weather events and rising sea levels.
+###
+5. Instruction: Suggest 3 personalized book recommendations based on my previous reading history.
+5. Input:
+Books I enjoyed in the past:
+- The Nightingale by Kristin Hannah
+- Where the Crawdads Sing by Delia Owens
+- Educated by Tara Westover
+5. Output:
+Based on your previous reading history, I would recommend:
+- The Vanishing Half by Brit Bennett
+- Anxious People by Fredrik Backman
+- Normal People by Sally Rooney
+###
+6. Instruction: Write a short story about a person who discovers they have a superpower. 
+6. Input:
+<noinput>
+6. Output:
+I always thought I was a normal guy. That was until I discovered that I had the ability to fly. It was an exhilarating experience. With a flick of my mind, I could soar through the sky and feel the wind on my face. I had to keep my power a secret, but I couldn't help but wonder what else I was capable of.
+###
+7. Instruction: Reword this paragraph to target a younger audience.
+7. Input:
+Paragraph: As we age, our bodies start to slow down and we are more prone to illnesses. It's important to take care of our health by eating well and exercising regularly.
+7. Output:
+When we get older, our bodies might not work quite as well as they used to. But we can help them stay strong by eating good foods and playing outside. Let's make sure we take care of our bodies so we can keep having lots of fun!
+###
+8. Instruction: Generate a humorous one-liner based on the provided topic.
+8. Input:
+Topic: Cats
+8. Output:
+"I used to think cats were the perfect pets, until I realized they were just using me for food and shelter."
+### 
+9. Instruction: Write a recipe for a dessert that can be made in under 30 minutes.
+9. Input: 
+<noinput>
+9. Output:
+Quick and Easy Chocolate Mousse:
+Ingredients:
+- 1 cup heavy cream
+- 1 cup chocolate chips
+- 1 tsp vanilla extract
+- 1 pinch of salt
+Directions:
+1. Melt the chocolate chips in a microwave safe bowl, stirring every 15 seconds until smooth.
+2. In a separate bowl, whip the heavy cream until stiff peaks form.
+3. Add vanilla and a pinch of salt to the whipped cream, and mix until combined.
+4. Gently fold in the melted chocolate until fully combined.
+5. Place the mousse in the fridge to chill for at least 20 minutes before serving.
+###
+10. Instruction: Identify the main theme of this poem and explain its significance.
+10. Input:
+Poem: 
+Stopping by Woods on a Snowy Evening 
+BY ROBERT FROST
+Whose woods these are I think I know.
+His house is in the village though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+He gives his harness bells a shake
+To ask if there is some mistake.
+The only other sound’s the sweep
+Of easy wind and downy flake.
+The woods are lovely, dark and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
+10. Output:
+The main theme of this poem is the struggle between obligations and the desire for peace and rest. The speaker stops to admire the beauty of the snowy woods but ultimately feels compelled to continue on their journey. This theme is significant because it is a common experience people can relate to in their own lives, of having responsibilities and duties that may make it difficult to take a moment to appreciate beauty and stillness. 
+###
+11. Instruction: Explain how to perform a common yoga pose.
+11. Input:
+Yoga pose: Downward Facing Dog
+11. Output:
+To perform Downward Facing Dog:
+1. Begin in a plank pose, with your hands shoulder-width apart and your feet hip-width apart.
+2. Press your hands and feet into the mat and lift your hips up towards the ceiling, creating an inverted V-shape with your body.
+3. Let your head hang down between your arms, and engage your core muscles to support your spine.
+4. Hold this pose for several breaths, then release back to plank or gentle child's pose.
+This pose is great for stretching the hamstrings, calves, and shoulders, and can also help improve overall body awareness and posture. 
+###
+12. Instruction: Name three Directors who have won an Academy Award and their winning films.
+12. Input:
+<noinput>
+12. Output:
+Three Directors who have won an Academy Award and their winning films are:
+- Martin Scorsese, for The Departed
+- Francis Ford Coppola, for The Godfather Part II
+- Steven Spielberg, for Schindler's List
+###
+13. Instruction: Write a press release for a new product release.
+13. Input:
+New Product: Smart Watch with Advanced Health Features
+13. Output:
+Introducing the latest innovation in wearable technology: the Smart Watch with Advanced Health Features. With its sleek design and cutting-edge sensors, this watch can track everything from your heart rate to your sleep patterns, providing you with valuable insights about your health and wellness. In addition, the Smart Watch can also send notifications from your smartphone and control your music. Say goodbye to bulky fitness trackers and welcome the Smart Watch with Advanced Health Features into your life. 
+###
+14. Instruction: Summarize the main points from this TED Talk about the future of technology in education.
+14. Input:
+TED Talk link: https://www.ted.com/talks/philippe_starck_why_designers_should_collaborate_with_nature?language=en
+14. Output:
+I'm sorry, the provided link is not a TED Talk about the future of technology in education. Please provide a proper link.
+###
+15. Instruction: Identify five famous landmarks in Paris and briefly describe them.
+15. Input:
+<noinput>
+15. Output:
+Five famous landmarks in Paris and their descriptions are:
+- Eiffel Tower: a wrought iron lattice tower located on the Champ de Mars, built in 1889 for the World's Fair.
+- Notre-Dame Cathedral: a medieval Catholic cathedral located on the Île de la Cité, famous for its Gothic architecture and historic significance.
+- The Louvre Museum: a world-renowned art museum housed in a former royal palace, featuring the Mona Lisa and other famous works of art.
+- Arc de Triomphe: a historical monument located at the western end of the Champs-Élysées, honoring those who fought and died for France in the French Revolutionary and Napoleonic Wars.
+- Montmartre: a hill in the 18th arrondissement, known for its bohemian atmosphere and stunning views of the city, including the iconic Basilica of the Sacré-Cœur. 
+###
+16. Instruction: Write a product review for a new smartphone model.
+16. Input:
+Product: Samsung Galaxy S21
+16. Output:
+The Samsung Galaxy S21 is an incredible phone. The camera is top-notch and takes stunning pictures. The battery life is impressive and lasts all day. The user interface is very sleek and easy to navigate. Overall, I highly recommend this phone to anyone in the market for a new device. 
+###
+17. Instruction: Generate 3 alternate titles for this book and describe how they differ from the original.
+17. Input:
+Book: To Kill a Mockingbird by Harper Lee
+17. Output:
+Three alternate titles for To Kill a Mockingbird could be:
+1. Atticus: Portrait of a Southern Gentleman. This title would emphasize the character of Atticus Finch and the theme of racial justice in the South.
+2. Scout's Tale: A Coming of Age Story. This title would focus on the character of Scout Finch and her personal journey throughout the novel.
+3. Racism and Redemption: Tales from a Small Southern Town. This title would highlight the overarching themes of race relations and societal change in the South during the 1930s.

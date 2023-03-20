@@ -1,0 +1,95 @@
+4. Instruction: Convert the following sentence to passive voice. 
+4. Input: 
+The dog chased the squirrel up the tree.
+4. Output: 
+The squirrel was chased up the tree by the dog.
+
+5. Instruction: What is the boiling point of water at sea level in Fahrenheit? 
+5. Input: <noinput>
+5. Output: 
+The boiling point of water at sea level in Fahrenheit is 212°F.
+
+6. Instruction: Poetically describe the sunset in a haiku.
+6. Input: <noinput>
+6. Output: 
+Golden sun descends,
+Crimson hues blend with twilight,
+Silence cloaks the land.
+
+7. Instruction: Tell me the capital city of Australia.
+7. Input: <noinput>
+7. Output: 
+The capital city of Australia is Canberra.
+
+8. Instruction: Remove redundant words from the given sentence.
+8. Input: 
+I personally believe that my personal opinion is very important for the team.
+8. Output: 
+I believe that my opinion is important for the team.
+
+9. Instruction: Classify the following text as being either positive, negative, or neutral.
+9. Input: 
+The dark moody clouds loomed overhead as rain began to pelt down.
+9. Output: 
+Negative
+
+10. Instruction: Write a short farewell speech for a retiring coworker.
+10. Input: <noinput>
+10. Output: 
+Dear friends and colleagues, today, we gather to say goodbye to a respected member of our team. [Coworker's Name] has dedicated many years to our company, contributed to countless projects, and left a lasting impact on all of us. As we bid [him/her] farewell, let's celebrate the memories, laughter, and achievements shared. Though [he/she] may be retiring, the legacy [he/she] leaves behind will continue to inspire us. [Coworker's Name], we wish you a well-deserved and happy retirement. May your new journey be filled with joy and relaxation. Cheers to you, and thank you for everything!
+
+11. Instruction: Provide a relevant quote about perseverance.
+11. Input: <noinput>
+11. Output: 
+"It always seems impossible until it's done." - Nelson Mandela
+
+12. Instruction: Rewrite the paragraph without using the word "very."
+12. Input: 
+She was very tired after a very long day at work. She found it very difficult to focus on her dinner, feeling very hungry but also very sleepy.
+12. Output: 
+She was exhausted after an exceptionally long day at work. She found it challenging to focus on her dinner, feeling extremely hungry but also overwhelmingly sleepy.
+
+13. Instruction: Summarize the given article in two sentences.
+13. Input: 
+Artificial intelligence and machine learning technologies are transforming industries worldwide—from finance to healthcare, from agriculture to manufacturing, and more. Investors, both public and private, are funding these advancements at a rapid pace, and technology companies continue to scale their operations to develop and deploy innovative AI solutions. As the technology grows increasingly capable, it also brings up ethical and practical concerns. Experts believe one of the most vital aspects of artificial intelligence is addressing the limitations of the technology and emphasizing responsible development and deployment that maximizes benefits while minimizing potential harm.
+13. Output: 
+Artificial intelligence and machine learning are revolutionizing numerous industries, fueled by rapid investments from both public and private sectors. Ethical and practical concerns arise as these technologies advance, highlighting the importance of responsible development and minimizing potential harm.
+
+14. Instruction: List the symptoms of the common cold.
+14. Input: <noinput>
+14. Output: 
+Symptoms of the common cold include: sneezing, runny nose, nasal congestion, sore throat, cough, mild headache, and fatigue.
+
+15. Instruction: Decide which of the two sentences is grammatically correct.
+15. Input: 
+A) She enjoys reading, napping, and to watch tv.
+B) She enjoys reading, napping, and watching tv.
+15. Output: 
+B) She enjoys reading, napping, and watching tv.
+
+16. Instruction: Create a mnemonic to remember the order of operations in mathematics.
+16. Input: <noinput>
+16. Output: 
+PEMDAS: Parentheses, Exponents, Multiplication and Division, Addition and Subtraction. (Phrase: Please Excuse My Dear Aunt Sally)
+
+17. Instruction: What is the gestation period of an elephant?
+17. Input: <noinput>
+17. Output: 
+The gestation period of an elephant is approximately 22 months.
+
+18. Instruction: Proofread and correct the following paragraph.
+18. Input: 
+It was an unpleasent suprise when my neighber started building a enormus shed on his backyard. The constructin noise was loud and continued for weaks. I wish he communicated his plans before he start the work.
+18. Output: 
+It was an unpleasant surprise when my neighbor started building an enormous shed in his backyard. The construction noise was loud and continued for weeks. I wish he had communicated his plans before he began the work.
+
+19. Instruction: Name three major cities in Japan.
+19. Input: <noinput>
+19. Output: 
+Tokyo, Osaka, Yokohama
+
+20. Instruction: Translate the following sentence into French.
+20. Input: 
+Where is the nearest bakery?
+20. Output: 
+Où se trouve la boulangerie la plus proche?

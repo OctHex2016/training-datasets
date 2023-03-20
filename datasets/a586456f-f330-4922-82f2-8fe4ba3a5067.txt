@@ -1,0 +1,122 @@
+4. Instruction: Rewrite the given text using active voice.
+4. Input: 
+The cake was baked by Sarah.
+4. Output: 
+Sarah baked the cake.
+###
+
+5. Instruction: Based on the description, name the city being talked about.
+5. Input: 
+This city features iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. It is also known as the "City of Light" and is known for its romantic ambiance and exceptional art, fashion, and gastronomy.
+5. Output: 
+Paris
+###
+
+6. Instruction: Summarize the given article in one sentence.
+6. Input: 
+Bitcoin, the world's largest cryptocurrency by market capitalization, soared in price by more than 10% on Monday, reaching a record high of nearly $47,000 after Elon Musk's electric vehicle company, Tesla Inc., announced in a regulatory filing that it had bought $1.5 billion worth of bitcoin. The document filed with the US Securities and Exchange Commission also stated that Tesla intends to begin accepting payments in bitcoin for its products, making it the first major automaker to do so.
+6. Output: 
+Bitcoin's price reached a record high after Tesla announced a $1.5 billion investment and plans to accept the cryptocurrency for its products.
+###
+
+7. Instruction: Identify the type of reasoning in the following argument: All human beings are mortal. Socrates is a human being. Therefore, Socrates is mortal.
+7. Input:
+<noinput>
+7. Output:
+Deductive reasoning
+###
+
+8. Instruction: Propose a creative slogan for a vegan restaurant.
+8. Input: 
+<noinput>
+8. Output:
+Energize with Nature: Taste the Plant-Powered Difference!
+###
+
+9. Instruction: Translate the sentence into Spanish.
+9. Input: 
+The weather is very nice today.
+9. Output:
+El clima está muy agradable hoy.
+###
+
+10. Instruction: Proofread the given text and correct any errors.
+10. Input:
+I have too many frends who I'd love to meet up with outside the city, but their to far awat.
+10. Output:
+I have too many friends who I'd love to meet up with outside the city, but they're too far away.
+
+11. Instruction: Identify the correct stage of Erik Erikson's psychosocial development theory that corresponds to the issue given: A toddler learning to be independent and developing a sense of self-control.
+11. Input:
+<noinput>
+11. Output:
+Autonomy vs. Shame and Doubt
+###
+
+12. Instruction: Provide a brief explanation of the greenhouse effect.
+12. Input:
+<noinput>
+12. Output:
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere trap heat, keeping the planet's temperature within a range suitable for sustaining life. These gases, called greenhouse gases, include carbon dioxide, methane, and water vapor. The greenhouse effect contributes to global warming when human activities, such as burning fossil fuels, increase the concentration of these gases, leading to an enhanced greenhouse effect and causing the Earth's average temperature to rise.
+###
+
+13. Instruction: Which part of a plant cell is responsible for photosynthesis?
+13. Input:
+<noinput>
+13. Output:
+Chloroplasts
+###
+
+14. Instruction: Evaluate the given statement and state whether it is a fact or an opinion.
+14. Input:
+Chocolate is the best dessert.
+14. Output:
+Opinion
+###
+
+15. Instruction: Remove unnecessary repetitions from the sentence to make it more concise.
+15. Input:
+The public transportation system in the city can be really, really slow and highly, highly inefficient at times, causing frustration for users.
+15. Output:
+The public transportation system in the city can be really slow and highly inefficient at times, causing frustration for users.
+###
+
+16. Instruction: Come up with a witty social media caption for a picture of two friends on a tandem bike.
+16. Input:
+<noinput>
+16. Output:
+"Pedal partners in crime: Where we go, we go together! 🚴‍♀️🚴‍♂️ #TandemThrills"
+###
+
+17. Instruction: What is the name of the economic system in which private individuals or businesses own capital goods and where production, prices, and the distribution of goods are mainly determined by competition in a free market?
+17. Input:
+<noinput>
+17. Output:
+Capitalism
+###
+
+18. Instruction: Transform the given haiku into a single prose sentence.
+18. Input:
+autumn evening,
+there's joy in seeing
+a solitary leaf
+
+18. Output:
+On an autumn evening, there is joy in witnessing a solitary leaf.
+###
+
+19. Instruction: Write an alternative ending to the sentence: "She opened the letter and ..."
+19. Input:
+<noinput>
+19. Output:
+She opened the letter and discovered the long-lost treasure map, sending her on the adventure of a lifetime.
+###
+
+20. Instruction: Match the author with the correct literary work.
+20. Input:
+Author: Jane Austen
+a) To Kill a Mockingbird
+b) Nineteen Eighty-Four
+c) Pride and Prejudice
+20. Output:
+Author: Jane Austen - c) Pride and Prejudice

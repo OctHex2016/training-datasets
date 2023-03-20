@@ -1,0 +1,107 @@
+4. Instruction: Translate the given text to French.
+4. Input:
+Hello, how are you? I hope you are fine. Let's meet at the park at 4pm.
+4. Output:
+Bonjour, comment ça va? J'espère que tu vas bien. Rencontrons-nous au parc à 16 heures.
+
+5. Instruction: Summarize the main idea of the paragraph.
+5. Input:
+Fast fashion is a term used to describe cheap, trendy clothing that has a short lifespan. It often involves clothes that are manufactured quickly and sold at low prices. Fast fashion has negative impacts on the environment and contributes to a throw-away culture, in which people constantly buy and discard clothing. This cycle of purchasing and throwing away fuels pollution and waste.
+5. Output:
+Fast fashion refers to cheap, trendy clothing with a short lifespan, which contributes to a throw-away culture and has negative impacts on the environment.
+
+6. Instruction: Convert the given recipe steps into passive voice.
+6. Input:
+Preheat the oven to 350°F. Mix butter and sugar together. Add eggs and vanilla extract. Stir in flour, baking soda, and salt. Fold in chocolate chips.
+6. Output:
+The oven should be preheated to 350°F. Butter and sugar should be mixed together. Eggs and vanilla extract should be added. Flour, baking soda, and salt should be stirred in. Chocolate chips should be folded in.
+
+7. Instruction: Rewrite the sentence by replacing the underlined word with a suitable synonym.
+7. Input:
+She was very angry and slammed the door.
+7. Output:
+She was very furious and slammed the door.
+
+8. Instruction: What is the name of the world's largest ocean by surface area?
+8. Input:
+<noinput>
+8. Output:
+Pacific Ocean
+
+9. Instruction: Solve the math problem: 2x + 3 = 11
+9. Input:
+<noinput>
+9. Output:
+x = 4
+
+10. Instruction: Identify the error in the sentence and correct it.
+10. Input:
+Their going to the beach for the weekend.
+10. Output:
+They're going to the beach for the weekend.
+
+11. Instruction: Compose a haiku about autumn leaves.
+11. Input:
+<noinput>
+11. Output:
+Crisp leaves swirling down,
+Painted hues of red and gold,
+Autumn's breath whispers.
+
+12. Instruction: Convert the text into the reported speech form.
+12. Input:
+She said, "I will meet you there at 2pm."
+12. Output:
+She said that she would meet me there at 2pm.
+
+13. Instruction: What was Leonardo da Vinci famous for?
+13. Input:
+<noinput>
+13. Output:
+Leonardo da Vinci was famous for his contributions to art, science, and engineering. He is best known for his paintings, such as the Mona Lisa and The Last Supper.
+
+14. Instruction: Combine the following sentences into a single compound sentence.
+14. Input:
+The sun was shining brightly. We went to the park.
+14. Output:
+The sun was shining brightly, so we went to the park.
+
+15. Instruction: Identify the adverbs in the sentence.
+15. Input:
+He ran quickly towards the store and bought some groceries hastily.
+15. Output:
+quickly, hastily
+
+16. Instruction: List three applications of Artificial intelligence in healthcare.
+16. Input:
+<noinput>
+16. Output:
+- Medical image analysis
+- Drug discovery and development
+- Personalized treatment recommendations
+
+17. Instruction: Provide an alternative ending to the given story.
+17. Input:
+Jack found the treasure map under a rock. He followed the map to the location of the hidden treasure chest. When he dug up the chest and opened it, he found it empty.
+17. Output:
+Jack found the treasure map under a rock. He followed the map to the location of the hidden treasure chest. When he dug up the chest and opened it, he was amazed to find a precious collection of rare gemstones.
+
+18. Instruction: What is the capital city of Japan?
+18. Input:
+<noinput>
+18. Output:
+Tokyo
+
+19. Instruction: Convert the Celsius temperature to Fahrenheit.
+19. Input:
+25°C
+19. Output:
+77°F
+
+20. Instruction: Identify the theme of the following poem.
+20. Input:
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+20. Output:
+The theme of the poem is the struggle against death and the importance of living life to its fullest.

@@ -1,0 +1,38 @@
+4. Instruction: Rewrite the given sentence using an active voice.
+4. Input: 
+The cake was eaten by Jane.
+4. Output: 
+Jane ate the cake.
+###
+5. Instruction: Evaluate the truthiness of the statement and explain your reasoning.
+5. Input: 
+All birds can fly.
+5. Output: 
+The statement is false. Although many birds have the ability to fly, there are several species of flightless birds, such as ostriches and penguins.
+###
+6. Instruction: Propose an innovative solution to reduce plastic waste.
+6. Input: 
+<noinput>
+6. Output: 
+Implement a closed-loop system that promotes the efficient recycling and repurposing of plastics. This system would involve the collection and processing of plastic waste, followed by the design and manufacturing of new products using the recycled material, thus reducing the need for virgin plastic production and minimizing overall waste.
+###
+7. Instruction: What are the benefits of learning a foreign language?
+7. Input: 
+<noinput>
+7. Output: 
+1. Cognitive benefits: Improved memory, problem-solving skills, and critical thinking abilities.
+2. Communication skills: Enhanced understanding of different cultures and better intercultural communication.
+3. Professional opportunities: Increased employability and career prospects for bilingual or multilingual individuals.
+4. Personal growth: Encouragement of open-mindedness, adaptability, and self-confidence.
+5. Travel experiences: Improved navigation and local interactions when visiting a foreign country.
+###
+8. Instruction: Interpret the meaning of the idiom.
+8. Input: 
+Better late than never
+8. Output: 
+It means that it is still better to complete a task or arrive at a destination later than expected, rather than not doing it or not showing up at all.
+###
+9. Instruction: Summarize the main idea of the text.
+.imreadSplitParagraph.newBuilder()>
+9. Input: 
+The Brain–Computer Interface (BCI) is an emerging technology that allows direct communication between the human brain and machines. It has the potential to dramatically alter the way people interact with their electronic devices, as well as benefit those with physical disabilities. BCIs have been primarily studied for their possible applications in stroke rehabilitation and control of prostheses, and the technology has shown promise in cases where individuals have lost control over their limbs due to neurological disorders or amputations. With further research and development, BCIs could become a common, mainstream technology, improving the quality of life for people with physical disabilities and changing the way we interact with technology.

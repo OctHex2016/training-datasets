@@ -1,0 +1,137 @@
+4. Instruction: Translate the given sentence into Spanish.
+4. Input:
+It's raining cats and dogs outside.
+4. Output:
+Está lloviendo a cántaros afuera.
+
+5. Instruction: Identify the tone of the passage.
+5. Input:
+The sun was shining warmly, and the air was alive with the sweet scent of lilacs. A slight breeze tickled the leaves, and the birds chatted happily from the branches above.
+5. Output:
+The tone of the passage is positive and serene.
+
+6. Instruction: Which parts of the email should be rephrased for improved professionalism?
+6. Input:
+Heya Lucy, I hope ur doing good! Just a heads-up, we're gonna need you to attend the team meeting on Monday, 11 a.m. No big deals, just some updates and a few decisions to make. Cheers, Mark.
+6. Output:
+1. Replace "Heya" with "Dear"
+2. Replace "ur" with "you're"
+3. Replace "gonna" with "going to"
+4. Replace "No big deals" with "We will be discussing"
+5. Replace "Cheers" with "Best regards"
+
+7. Instruction: Explain the concept of investing in stocks in simple terms.
+7. Input:
+<noinput>
+7. Output:
+Investing in stocks means buying shares or partial ownership in a company. When the company's performance is good, and its value increases, your shares also go up in value, allowing you to make a profit by selling them. However, if the company does not perform well, the share price may drop, causing a loss on your investment.
+
+8. Instruction: Outline the main benefits of a vegetarian diet.
+8. Input:
+<noinput>
+8. Output:
+1. Healthier life: Lower risk of heart disease, obesity, diabetes, and hypertension.
+2. Environmental sustainability: Reduced greenhouse gas emissions and land usage.
+3. Animal welfare: Avoiding the cruelty involved in large-scale animal farming.
+4. Cost-effective: Plant-based diets can be more affordable.
+5. Nutrients: Rich in vitamins, minerals, and antioxidants.
+
+9. Instruction: Compose a get well soon message for a friend who has had an accident.
+9. Input:
+<noinput>
+9. Output:
+Dear [Friend's Name],
+
+I am so sorry to hear about your accident. I genuinely hope that you begin to feel better soon and experience a swift and full recovery. Please remember to take care of yourself and don't hesitate to reach out if you need any help or support during your healing process.
+
+Wishing you a speedy return to health.
+
+Warm regards,
+
+[Your Name]
+
+10. Instruction: Determine if the given movie review is positive or negative.
+10. Input:
+This film was excruciatingly dull, with a poorly executed plot and one-dimensional characters.
+10. Output:
+Negative
+
+11. Instruction: Fix the grammatical errors in the provided sentence.
+11. Input:
+She doesn't knows where to find informations for her research paper.
+11. Output:
+She doesn't know where to find information for her research paper.
+
+12. Instruction: Elaborate on the pros and cons of owning a Tesla electric car.
+12. Input:
+<noinput>
+12. Output:
+Pros:
+1. Environmentally friendly: Reduced greenhouse gas emissions compared to gas-powered cars.
+2. Fuel cost savings: Lower cost-per-mile driven due to cheaper electricity.
+3. Advanced technology: Advanced autopilot capabilities and software updates.
+4. Minimal maintenance: Fewer moving parts leads to reduced regular maintenance.
+5. Sleek design: Aesthetically appealing exterior and modern interior.
+
+Cons:
+1. Initial cost: Expensive upfront price compared to traditional vehicles.
+2. Range anxiety: Limited driving range and charging infrastructure.
+3. Charging time: Charging an electric car takes longer than refueling a gas-powered car.
+4. Potential repair costs: Limited availability of Tesla-licensed repair facilities.
+5. Depreciation: High rate of depreciation, affecting resale value.
+
+13. Instruction: Rewrite the given sentences in passive voice.
+13. Input:
+A virus infects the computer. The dog chased the cat.
+13. Output:
+The computer is infected by a virus. The cat was chased by the dog.
+
+14. Instruction: Identify two advantages and two disadvantages of remote work.
+14. Input:
+<noinput>
+14. Output:
+Advantages:
+1. Flexibility: Workers can choose when and where they work.
+2. Reduced commuting: Eliminates time and costs associated with commuting.
+
+Disadvantages:
+1. Isolation: Less interaction with colleagues, which can lead to feelings of loneliness.
+2. Distractions: Home environment may have more distractions, resulting in reduced productivity.
+
+15. Instruction: Rank the given animals in terms of size from smallest to largest.
+15. Input:
+elephant, squirrel, whale, rabbit
+15. Output:
+squirrel, rabbit, elephant, whale
+
+16. Instruction: Proofread the given text and correct any spelling errors.
+16. Input:
+Despite teh steep challanges, teh team perseervered and surmounted obsticales, emerging vyctorious in teh end.
+16. Output:
+Despite the steep challenges, the team persevered and surmounted obstacles, emerging victorious in the end.
+
+17. Instruction: Write down three ways to manage stress effectively.
+17. Input:
+<noinput>
+17. Output:
+1. Exercise: Regular physical activity can help reduce stress levels.
+2. Mindfulness techniques: Deep breathing exercises, meditation, or yoga can help to relax the mind.
+3. Social connections: Reach out to friends and family for support and positive interactions.
+
+18. Instruction: Describe the difference between weather and climate.
+18. Input:
+<noinput>
+18. Output:
+Weather refers to short-term atmospheric conditions in a specific area, including temperature, precipitation, humidity, and wind. Climate, on the other hand, represents the average weather conditions of a region over an extended period, typically 30 years or more, and includes patterns and trends.
+
+19. Instruction: Create a brief definition of photosynthesis.
+19. Input:
+<noinput>
+19. Output:
+Photosynthesis is a biological process in which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into oxygen and glucose, providing energy for growth and reproduction.
+
+20. Instruction: Determine the next number in the sequence and explain the pattern.
+20. Input:
+1, 4, 9, 16, 25
+20. Output:
+The next number in the sequence is 36. The pattern is that each number is the square of an integer: 1=1x1, 4=2x2, 9=3x3, 16=4x4, 25=5x5, and 36=6x6.

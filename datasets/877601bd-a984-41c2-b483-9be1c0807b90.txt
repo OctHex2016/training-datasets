@@ -1,0 +1,46 @@
+4. Instruction: Summarize the main points of the given text.
+4. Input: 
+After years of testing, scientists have finally discovered a new, non-invasive treatment for Alzheimer's disease. The treatment involves using focused ultrasound waves to open the blood-brain barrier, allowing the medication to directly reach affected areas of the brain. Clinical trials have shown promising results, with noticeable improvements in cognitive function and memory for those who have undergone the treatment. This breakthrough has the potential to help millions of people affected by Alzheimer's around the world, offering hope for a brighter future.
+4. Output: 
+Scientists have discovered a non-invasive treatment for Alzheimer's disease using focused ultrasound waves to open the blood-brain barrier, allowing medication to directly reach affected brain areas. Clinical trials show improvements in cognitive function and memory, potentially helping millions of people affected by Alzheimer's globally.
+
+5. Instruction: Translate the following sentence into French.
+5. Input:
+The cat is sleeping on the sofa.
+5. Output:
+Le chat dort sur le canapé.
+
+6. Instruction: Generate a rhyming couplet about love.
+6. Input:
+<noinput>
+6. Output:
+In the garden of hearts, love blooms with vibrant hues,
+Together forever, our souls in harmony, two by twos.
+
+7. Instruction: Provide three alternative titles for a book about learning how to play the guitar.
+7. Input:
+<noinput>
+7. Output:
+1. Strumming Success: Mastering the Art of Guitar Playing
+2. Six Strings to Stardom: A Beginner's Guide to Guitar
+3. Guitar Grooves: Unlock Your Inner Musician
+
+8. Instruction: Proofread and fix any errors in the given sentence.
+8. Input:
+The boy ran tword the park wit excitement, his icecream inf his hand.
+8. Output:
+The boy ran toward the park with excitement, his ice cream in his hand.
+
+9. Instruction: Choose the correct spelling of the word: occur/get/keep.
+9. Input:
+Which spelling is correct: ocurr, occurr or occur?
+9. Output:
+occur
+
+10. Instruction: Suggest three possible improvements that can be made to an online shopping website.
+10. Input:
+<noinput>
+10. Output:
+1. Enhance search functionality for ease of product discovery
+2. Implement a user-friendly return and refund process
+3. Optimize site loading speed for faster browsing experience

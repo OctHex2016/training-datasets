@@ -1,0 +1,120 @@
+4. Instruction: Rewrite the given sentence into a more formal tone. 
+4. Input: 
+Hey, do ya know if we got a meeting this afternoon or not?
+4. Output: 
+Excuse me, are you aware if we have a scheduled meeting this afternoon?
+
+5. Instruction: Compose a rhyming couplet using the given theme. 
+5. Input: 
+<noinput>
+5. Output: 
+In the majestic woods, the trees stand tall and grand,
+Their leaves rustling softly, like whispers in a woodland.
+
+6. Instruction: Demonstrate how to perform a juggling cascade using 3 balls in a step by step format.
+6. Input: 
+<noinput>
+6. Output: 
+1. Hold two balls in your dominant hand and one ball in your non-dominant hand.
+2. Start by tossing the first ball from your dominant hand to your non-dominant hand in an arc shape.
+3. When the first ball reaches its peak height, toss the ball from your non-dominant hand to your dominant hand with a similar arc shape.
+4. As the second ball reaches its peak, toss the third ball from your dominant hand to your non-dominant hand, mirroring the previous tosses.
+5. Continue this pattern, alternating tossing from one hand to the other while ensuring each toss reaches a similar peak height.
+
+7. Instruction: Predict the next line in the conversation based on the provided context. 
+7. Input: 
+Friend 1: "I've had a long day at work, I need something refreshing to drink."
+Friend 2: "How about you try that new smoothie place, they have a great selection of fruit smoothies."
+7. Output: 
+Friend 1: "That sounds perfect! What flavors do you recommend?"
+
+8. Instruction: Summarize the main points of the input text without including specific details. 
+8. Input: 
+"Blue whales are the largest animals ever known to have lived on Earth. These magnificent marine mammals rule the oceans at up to 100 feet long and upwards of 200 tons. Their tongues alone can weigh as much as an elephant, and their hearts can be as large as an automobile. Despite their colossal size, blue whales are known to feed primarily on tiny shrimp-like animals called krill. During certain times of the year, a single adult blue whale consumes about 4 tons of krill each day."
+8. Output: 
+Blue whales are the largest animals to have ever existed, with enormous dimensions and weight. Even with their massive size, their diet mainly consists of tiny shrimp-like animals called krill.
+
+9. Instruction: Identify the logical fallacy in the given statement, if present.
+9. Input: 
+People have been eating food with chemicals and artificial ingredients for years, so it must be safe to continue doing so.
+9. Output: 
+This statement represents the "appeal to tradition" logical fallacy.
+
+10. Instruction: Identify the author's purpose in writing the given text. Is it to inform, entertain, persuade or express?
+10. Input: 
+"'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe."
+10. Output: 
+The purpose of this text is to entertain.
+
+11. Instruction: Please convert the given text to the active voice.
+11. Input: 
+The bone was buried by the dog.
+11. Output: 
+The dog buried the bone.
+
+12. Instruction: Provide an alternative solution to the problem mentioned in the input.
+12. Input: 
+Our household is always running out of utensils because the family members constantly forget to unload the dishwasher in a timely manner.
+12. Output: 
+Consider setting a designated daily time for unloading the dishwasher and assign responsible family members to handle the task on assigned days to ensure a consistent and efficient utensil supply.
+
+13. Instruction: Write a concluding sentence that summarizes the main idea of the input text.
+13. Input: 
+Plant-based diets are gaining popularity due to health and environmental reasons. Ongoing research indicates that plant-based eating can be beneficial for heart health, weight loss, and diabetes management. Moreover, this eating pattern could minimize the environmental impact on our planet by reducing food related greenhouse gas emissions.
+13. Output: 
+In conclusion, plant-based diets are not only beneficial for personal health but also have the potential to improve our planet's environmental health.
+
+14. Instruction: Correct any grammatical or punctuation errors in the given sentence.
+14. Input: 
+If your going too the store, could'nt you get please me some milk bread and eggs.
+14. Output: 
+If you're going to the store, could you please get me some milk, bread, and eggs?
+
+15. Instruction: Determine the author's tone in the provided passage. Is it subjective or objective? Provide a reason for your choice.
+15. Input: 
+Cellphones have made communication much easier and convenient. Now, people can stay connected with their friends and family anytime and anywhere.
+15. Output: 
+The author's tone is objective because the passage is presenting factual information without any personal bias or opinion.
+
+16. Instruction: Indicate the type of logical fallacy in the argument, if present.
+16. Input: 
+Many successful entrepreneurs are college dropouts, so dropping out of college will make you a successful entrepreneur.
+16. Output: 
+This argument contains the "false cause" logical fallacy.
+
+17. Instruction: List three possible negative consequences of a sedentary lifestyle.
+17. Input: 
+<noinput>
+17. Output: 
+1. Increased risk of obesity.
+2. Increased likelihood of developing cardiovascular diseases.
+3. Decreased muscle strength and flexibility.
+
+18. Instruction: Suggest a suitable title for the given passage.
+18. Input: 
+"Owning a dog can be incredibly rewarding, providing companionship and unconditional love. However, it is important to consider the various responsibilities involved before taking the plunge. Routine care elements like grooming, feeding, and medical checkups can add up financially. Another essential aspect to consider is the time and attention required for training, exercise, and socialization."
+18. Output: 
+Weighing the Responsibilities: The True Costs of Dog Ownership
+
+19. Instruction: Describe the main advantages and disadvantages of online learning.
+19. Input: 
+<noinput>
+19. Output: 
+Advantages: 
+1. Flexibility in scheduling and location.
+2. Access to a wider variety of courses and educational resources.
+3. Opportunity for self-paced learning and personalized education.
+
+Disadvantages:
+1. Limited face-to-face interaction and social engagement.
+2. Self-discipline and time management challenges.
+3. Technical issues and potential lack of access to digital resources.
+
+20. Instruction: Convert the given text into a more concise and precise statement.
+20. Input: 
+We pulled questions from nearly two dozen studies that sought to measure the effectiveness of certain treatments for patients with Type 2 diabetes, in order to gain an understanding of how effective these treatments truly were for managing the condition.
+20. Output: 
+We analyzed data from nearly 24 studies on Type 2 diabetes treatment effectiveness to better understand their viability for managing the condition.

@@ -1,0 +1,113 @@
+
+
+4. Instruction: Give me the English counterparts of these common Spanish phrases.
+4. Input: 
+a. "¿Cómo estás?"
+b. "Mucho gusto"
+c. "Hasta luego"
+4. Output: 
+a. "How are you?"
+b. "Nice to meet you"
+c. "See you later"
+###
+5. Instruction: Paraphrase the following sentence
+5. Input: 
+As the pandemic spread across the world, people started to panic buy toilet paper.
+5. Output: 
+Toilet paper became scarce as alarm and panic increased with the pandemic outbreak worldwide.
+###
+6. Instruction: Suggest a witty and engaging title for this article based on the topic 
+6. Input: 
+Topic: How to be Productive While Working from Home
+6. Output: 
+How to Conquer Procrastination and Achieve Peak Performance When Home is Your Workspace
+###
+7. Instruction: Generate a unique username for this website that is both catchy and memorable.
+7. Input: 
+Website: An online bakery called "Sweet Dreams Bakery"
+7. Output: 
+"SweetTreatsbySD"
+###
+8. Instruction: Write a social media post that would attract potential customers to your new product.
+8. Input: 
+Product: A new brand of eco-friendly shoes 
+8. Output: 
+Introducing our latest eco-friendly shoes! Take a step towards a sustainable environment while looking stylish too! 
+###
+9. Instruction: Summarize the main points of the following article.
+9. Input: 
+Article: "10 Foods to Boost Your Immune System"
+9. Output: 
+Maintaining a healthy immune system should be a top priority! Incorporating the following 10 foods can help boost your immune system: blueberries, ginger, spinach, garlic, oranges, almonds, turmeric, green tea, broccoli, and sweet potatoes.
+###
+10. Instruction: Correct the spelling and grammar errors in the following sentences. 
+10. Input: 
+a. Their going to meet us there. 
+b. Its important to drink enough water on hot days.
+10. Output: 
+a. "They're going to meet us there."
+b. "It's important to drink enough water on hot days." 
+###
+11. Instruction: Write a social media post that promotes awareness of a pressing social or environmental issue. 
+11. Input: 
+Issue: The negative impact of plastic pollution on the ocean. 
+11. Output: 
+Stop! Don't throw that plastic bag into the ocean. Our oceans are in danger due to plastic pollution. Let's do our part and save our planet! #savetheoceans #noplasticpollution 
+###
+12. Instruction: Identify the literary device used in the following sentence: "The curtain of night fell upon us."
+12. Input: 
+<noinput>
+12. Output: 
+Personification- a non-human subject is given human qualities. 
+###
+13. Instruction: Rewrite the following sentence to avoid using the passive voice.
+13. Input:
+The book was read by the student in just one night. 
+13. Output: 
+The student finished reading the book in just one night. 
+###
+14. Instruction: Simplify the following complex sentence to be more easily understood.
+14. Input: 
+Although he was late, he was still able to catch the train that he needed to take in order to attend his important meeting, which he was very grateful for.
+14. Output: 
+He caught the train for his meeting, even though he was late. 
+###
+15. Instruction: Translate the following French sentence to English.
+15. Input: 
+Est-ce que vous avez des frères et soeurs? 
+15. Output: 
+Do you have any brothers and sisters? 
+###
+16. Instruction: Classify the following word as a noun, verb, adverb, or adjective. 
+16. Input: 
+Happy 
+16. Output: 
+Adjective 
+###
+17. Instruction: Complete the following sentence with the correct word: "I _____ basketball every weekend." 
+17. Input: 
+play
+17. Output: 
+I play basketball every weekend. 
+###
+18. Instruction: Generate a list of potential titles for this movie plot.
+18. Input: 
+Movie plot: An ordinary man discovers he has a rare power that lets him travel to alternate realities. 
+18. Output: 
+1. "Reality Hop"
+2. "The Multiverse Traveler"
+3. "Dimensions Collide"
+4. "The Power to Jump Worlds" 
+5. "Traveling Through Time and Space" 
+###
+19. Instruction: Explain the plot of the book you recently read in five sentences or less. 
+19. Input: 
+Book: "To Kill a Mockingbird" by Harper Lee. 
+19. Output: 
+"To Kill a Mockingbird" takes place in 1930s Alabama and tells the story of a white lawyer who defends a black man falsely accused of rape. Narrated by his daughter, Scout, the novel explores themes of racism, justice, and coming-of-age in a small Southern town. Despite its controversial subject matter, the book has become a classic and a staple in American literature.
+###
+20. Instruction: Provide an analogy to explain the concept of electricity. 
+20. Input: 
+<noinput> 
+20. Output: 
+Electricity is like water flowing through a pipe. If the pipe is properly connected, the water can power a generator and create electricity. Similarly, if the circuit is completed, electrons can flow and create electrical current.

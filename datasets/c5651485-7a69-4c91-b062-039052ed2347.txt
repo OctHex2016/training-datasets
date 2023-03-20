@@ -1,0 +1,70 @@
+4. Instruction: Paraphrase the given text, maintaining the original meaning.
+4. Input:
+A digital wallet, often called an e-wallet, is an electronic device that allows a person to carry out electronic financial transactions, such as making payments or transferring funds. Many e-wallets can be accessed on a mobile device like a smartphone, while some can be used on a computer.
+4. Output: 
+An e-wallet, also known as a digital wallet, is an electronic tool enabling individuals to conduct financial transactions electronically, including payments and fund transfers. Numerous e-wallets can be accessed via mobile devices such as smartphones, while others are accessible on computers.
+
+5. Instruction: Identify the fallacy in the given argument.
+5. Input:
+The CEO of the company is happy about our project because his daughter just got engaged, and he's in a good mood.
+5. Output: 
+The fallacy in this argument is "post hoc ergo propter hoc" or "false cause." It assumes that the CEO's happiness about the project is solely due to his good mood from his daughter's engagement, rather than the merits of the project itself.
+
+6. Instruction: Showcase the differences between prokaryotic and eukaryotic cells.
+6. Input:
+<noinput>
+6. Output: 
+The primary differences between prokaryotic and eukaryotic cells include:
+1. Size: Prokaryotic cells are generally smaller than eukaryotic cells.
+2. Nuclear membrane: Prokaryotic cells lack a defined nucleus with a nuclear membrane, whereas eukaryotic cells possess a nucleus enclosed by a nuclear membrane.
+3. DNA structure: Prokaryotic cells have circular DNA, while eukaryotic cells have linear DNA.
+4. Organelles: Prokaryotic cells lack membrane-bound organelles, while eukaryotic cells contain various membrane-bound organelles such as mitochondria, endoplasmic reticulum, and Golgi apparatus.
+5. Cell division: Prokaryotic cells reproduce through binary fission, while eukaryotic cells reproduce by mitosis and meiosis.
+
+7. Instruction: List five possible steps to reduce air pollution.
+7. Input:
+<noinput>
+7. Output: 
+1. Encourage and promote public transportation, cycling, and walking to reduce vehicle emissions.
+2. Implement stricter regulations on industrial emissions and enforce the use of cleaner technologies.
+3. Increase the use of renewable energy sources like wind, solar, and hydroelectric power, as they produce minimal pollutants.
+4. Plant more trees and develop green spaces in urban areas to improve air quality by absorbing pollutants and producing oxygen.
+5. Raise awareness about the causes and effects of air pollution and promote eco-friendly practices among individuals, such as reducing energy consumption and properly disposing of waste.
+
+8. Instruction: Convert the given poem into a short story. 
+8. Input: 
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+8. Output: 
+On the edge of passing into the eternal darkness, an elderly man refuses to surrender quietly into the night. With each setting sun, his spirit ignites with a relentless fury, fighting the fading of the light. Even though he knows that the wisest of men realize the inevitability of darkness, he cannot accept that their brilliance was left unacknowledged. The fire within him continues to burn, rejecting any notion of a gentle surrender, as his heart screams against the approaching veil of the night.
+
+9. Instruction: List three advantages and three disadvantages of online education.
+9. Input:
+<noinput>
+9. Output:
+Advantages:
+1. Flexibility: Allows learners to manage their time and adjust their schedules, accommodating work, family, and personal commitments.
+2. Location-independent access: Students can access courses and materials from anywhere with an internet connection.
+3. Broader course offerings: Students have access to a wider range of classes and educational resources than they might find in traditional educational institutions.
+
+Disadvantages:
+1. Limited face-to-face interaction: A lack of personal interaction with peers and instructors can lead to feelings of isolation and decreased motivation.
+2. Technical difficulties: Online courses require a stable internet connection and compatible devices, which can create accessibility barriers for some students.
+3. Less personalized support: Students may experience delays in receiving feedback or assistance from instructors, and some might struggle to adapt to self-paced learning.
+
+10. Instruction: Provide an overview of the functions of the human liver.
+10. Input:
+<noinput>
+10. Output: 
+The human liver is a vital organ that performs numerous essential functions, including:
+1. Detoxification: Removing toxins, such as alcohol and drugs, from the blood.
+2. Metabolism: Breaking down and processing nutrients from food, including carbohydrates, fats, and proteins, to produce energy and other vital components.
+3. Synthesis of proteins: Producing vital proteins, such as albumin and clotting factors, needed for various bodily processes.
+4. Storage: Storing essential vitamins (A, D, E, K) and minerals (iron and copper), as well as glycogen, for later use.
+5. Bile production: Producing bile, which aids in the digestion and absorption of fats.
+6. Hormone regulation: Metabolizing hormones, like estrogen and testosterone, to maintain hormonal balance.
+7. Immune system support: Producing immune factors and removing harmful bacteria from the bloodstream.

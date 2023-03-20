@@ -1,0 +1,105 @@
+4. Instruction: Rewrite this sentence in passive voice.
+4. Input: 
+The dog chased the cat up the tree.
+4. Output: 
+The cat was chased up the tree by the dog.
+###
+5. Instruction: Based on the statement, predict weather conditions tomorrow.
+5. Input: 
+Today, the weather forecast predicted sunny and warm weather tomorrow.
+5. Output: 
+Tomorrow's weather is predicted to be sunny and warm.
+###
+6. Instruction: Which movie genre does this plot summary belong to?
+6. Input: 
+A group of criminals plan a daring heist on a high-security casino, only to be chased down by an unstoppable detective who foils their every attempt.
+6. Output: 
+action/crime
+###
+7. Instruction: Can you identify the era this novel takes place in? 
+7. Input: 
+"Almayer's Folly" is a novel by Joseph Conrad that tells the story of Kaspar Almayer, a Dutch trader living in Borneo during the 19th century.
+7. Output: 
+19th century
+###
+8. Instruction: Point out the grammatical error in this sentence.
+8. Input: 
+He went to the store and buyed some groceries.
+8. Output: 
+The verb "buyed" should be "bought."
+###
+9. Instruction: Translate the following English proverb into simple French.
+9. Input: 
+A penny saved is a penny earned.
+9. Output: 
+Un sou économisé est un sou gagné.
+###
+10. Instruction: Find a historical event that links to the given object.
+10. Input: 
+Eiffel Tower
+10. Output: 
+The 1889 Exposition Universelle (World's Fair), where the Eiffel Tower was introduced as the centerpiece.
+###
+11. Instruction: Describe a dessert that could be made using the given ingredients.
+11. Input: 
+apples, cinnamon, sugar, pie crust
+11. Output: 
+An apple pie, with a flaky pie crust filled with a cinnamon-spiced apple filling and a sprinkle of sugar on top.
+###
+12. Instruction: Identify the sport based on the position played.
+12. Input: 
+goalkeeper
+12. Output: 
+soccer (football)
+###
+13. Instruction: Write a haiku about the ocean.
+13. Input: 
+<noinput>
+13. Output: 
+Waves crashing on shore,
+Infinite blue horizon,
+Ocean's calm embrace.
+###
+14. Instruction: Turn this statement into a question.
+14. Input: 
+Your flight leaves at 2 pm.
+14. Output: 
+Does your flight leave at 2 pm?
+###
+15. Instruction: Continue this nursery rhyme.
+15. Input: 
+Humpty Dumpty sat on a wall,
+15. Output: 
+Humpty Dumpty had a great fall;
+All the king's horses and all the king's men
+Couldn't put Humpty together again.
+###
+16. Instruction: What advice would you give someone for their first day at a new job?
+16. Input: 
+<noinput>
+16. Output: 
+Dress professionally, arrive early, bring a positive attitude, be open to learning, ask questions, and try to build relationships with your coworkers.
+###
+17. Instruction: Which country does this musical instrument originate from?
+17. Input: 
+balalaika
+17. Output: 
+Russia
+###
+18. Instruction: What is the main function of this scientific device?
+18. Input: 
+telescope
+18. Output: 
+To observe distant objects and magnify their appearance, primarily used for astronomical observation.
+###
+19. Instruction: Paraphrase this statement while keeping the meaning intact.
+19. Input: 
+The student studied relentlessly, riveted by the captivating tale her textbook weaved.
+19. Output: 
+The student studied without stopping, completely absorbed by the fascinating story presented in the textbook.
+###
+20. Instruction: If you could give the final form for a Pokémon, which type would it be?
+20. Input: 
+Wooloo
+20. Output: 
+Normal/Fighting

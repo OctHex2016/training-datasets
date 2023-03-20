@@ -1,0 +1,107 @@
+4. Instruction: Rewrite the given sentence using the active voice.
+4. Input: 
+The cake was baked by her.
+4. Output: 
+She baked the cake.
+###
+5. Instruction: Summarize the following text in a single sentence.
+5. Input: 
+Francis Bacon was an English philosopher, statesman, and essayist who is credited with developing the scientific method during the early 17th century. Bacon believed that the key to discovering new knowledge was careful observations and experimentation. His work laid the foundation for the growth of modern science and played a significant role in the advancement of human understanding during the Scientific Revolution.
+5. Output: 
+Francis Bacon, an English philosopher and statesman, pioneered the scientific method during the 17th century, laying the foundation for modern science and contributing to the advancements of the Scientific Revolution.
+###
+6. Instruction: Identify the logical fallacy in the given statement.
+6. Input: 
+If you don't eat kale, you don't care about being healthy.
+6. Output: 
+False dilemma
+###
+7. Instruction: Generate a question related to the given topic.
+7. Input: 
+Environmental conservation
+7. Output: 
+How can individuals contribute to environmental conservation efforts?
+###
+8. Instruction: Describe the main character in the following scenario in a sentence or two.
+8. Input: 
+A 35-year old man who spends his free time volunteering at the animal shelter and is an avid biker, known for his immense love for nature.
+8. Output: 
+The main character is a 35-year-old man who is passionate about nature and enjoys volunteering at an animal shelter, as well as being an enthusiastic biker in his free time.
+###
+9. Instruction: Explain the given term in simple language.
+9. Input: 
+Quantum physics
+9. Output: 
+Quantum physics is the study of how very small particles, like atoms and subatomic particles, behave and interact with each other.
+###
+10. Instruction: Classify the following text as either fiction or non-fiction.
+10. Input: 
+Ada Twist, Scientist is a children's book about a curious girl who loves to explore and conduct experiments to understand the world around her.
+10. Output: 
+fiction
+###
+11. Instruction: Identify the tone of the given sentence. 
+11. Input: 
+I can't believe you just did that! You're unbelievable!
+11. Output: 
+agitated
+###
+12. Instruction: Woher stammt das folgende Zitat und in welche Sprache wurde es ursprünglich geschrieben. Dann übersetze es ins Englische. (Identify the source of the following quote and the language it was originally written in. Then translate it into English.)
+12. Input: 
+"Cogito, ergo sum."
+12. Output: 
+The quote "Cogito, ergo sum" is from René Descartes, originally written in Latin, and translates to "I think, therefore I am."
+###
+13. Instruction: Tell me the main message of the given quote.
+13. Input: 
+"Be the change you wish to see in the world." - Mahatma Gandhi
+13. Output: 
+The main message is to take action and embody the qualities you want to see in others and the world, instead of just expecting change to happen.
+###
+14. Instruction: List three possible consequences of the given action.
+14. Input: 
+Constructing a dam across a river
+14. Output: 
+1. Disruption of ecosystems and wildlife habitats
+2. Relocation of human settlements due to flooding
+3. Increased potential for power generation through hydroelectricity
+###
+15. Instruction: Provide one advantage and one disadvantage of the given technology.
+15. Input: 
+Electric cars
+15. Output: 
+Advantage: Reduced greenhouse gas emissions
+Disadvantage: Limited driving range and charging infrastructure
+###
+16. Instruction: Rank the given items based on importance in the context of financial planning.
+16. Input: 
+Investing in stocks, building an emergency fund, paying off high-interest debts
+16. Output: 
+1. Building an emergency fund
+2. Paying off high-interest debts
+3. Investing in stocks
+###
+17. Instruction: Select the most suitable career based on the given traits.
+17. Input: 
+Organized, detail-oriented, strong mathematical skills
+17. Output: 
+Accountant
+###
+18. Instruction: Identify the main idea of the following paragraph.
+18. Input: 
+In an attempt to curb plastic pollution, policymakers have turned their attention to single-use plastics. These items, such as straws, plastic bags, and disposable cutlery, are only used once before being thrown away. By implementing bans and restrictions on these products, governments hope to reduce plastic waste and protect the environment.
+18. Output: 
+The main idea is that policymakers are targeting single-use plastics to reduce plastic pollution and protect the environment by implementing bans and restrictions.
+###
+19. Instruction: Find an error in the given code snippet and explain why it is an error.
+19. Input: 
+for i in range(10)
+  print(i)
+19. Output: 
+An error is present in the "for" loop statement: there is a missing colon at the end of the line. It should be written as "for i in range(10):" to begin the loop properly.
+###
+20. Instruction: Suggest a possible solution to the problem described.
+20. Input: 
+A company is experiencing high employee turnover, which is causing a loss of productivity and increased recruitment costs.
+20. Output: 
+Conduct a thorough analysis of the employee attrition, gather feedback from employees, and identify the main reasons for turnover. Develop a strategy to address the identified issues (e.g., improving workplace culture, offering competitive compensation, providing opportunities for growth and development) to retain and attract qualified employees.

@@ -1,0 +1,130 @@
+4. Instruction: Correct the grammar and punctuation errors.
+4. Input: 
+me go to the store he say I want cookies.can i has them she respond with, yes just a minute!
+4. Output: 
+I went to the store. He said, "I want cookies. Can I have them?" She responded with, "Yes, just a minute!"
+
+5. Instruction: Summarize the main idea of the text.
+5. Input: 
+Road accidents have been a primary cause of death and injury worldwide. To combat this issue, governments around the world implement a variety of road safety measures, like enforcing speed limits, mandating the use of seatbelts, promoting safe driving education, and conducting strict driving tests. Ultimately, the responsibility of keeping our roads safe lies in the hands of individual drivers. Following traffic rules, avoiding distractions, and staying vigilant can significantly lower the risk of accidents and save lives.
+5. Output: 
+The main idea is that road accidents are a major cause of death and injury, but they can be reduced through government measures and responsible individual driving behavior, such as adhering to traffic rules and avoiding distractions.
+
+6. Instruction: Based on the provided information about a person's daily routine, evaluate if they are leading a healthy lifestyle.
+6. Input: 
+Amanda wakes up at 8 am, goes for a 30-minute jog, and then heads to work. She has a salad for lunch and drinks 3 cups of water during the day. After work, she meditates for 20 minutes and then cooks dinner, which usually consists of a protein, vegetable, and grain. On weekends, she exercises for 45 minutes and goes hiking or cycling.
+6. Output: 
+Yes, Amanda is leading a healthy lifestyle as she includes regular exercise, a balanced diet, and stress management techniques in her daily routine.
+
+7. Instruction: Please rearrange the following sentences to form a coherent paragraph.
+7. Input: 
+The dog barked loudly at the stranger. The stranger was hesitant and approached cautiously. Elisa, the owner, came out of the house. The dog wagged its tail and calmed down as soon as it saw her. She told the stranger that the dog was harmless.
+7. Output: 
+The dog barked loudly at the stranger. The stranger was hesitant and approached cautiously. Elisa, the owner, came out of the house. She told the stranger that the dog was harmless. The dog wagged its tail and calmed down as soon as it saw her.
+
+8. Instruction: Convert this paragraph into a bulleted list of the main points.
+8. Input: 
+There are numerous benefits of drinking water regularly. Staying hydrated helps maintain the balance of bodily fluids, regulates body temperature, and supports digestion. Drinking water also helps to flush out toxins from the body, promotes weight loss by increasing metabolism, and improves skin complexion. Additionally, water helps to maintain blood pressure, prevent kidney stones, and maintain overall well-being.
+8. Output: 
+- Maintains balance of bodily fluids
+- Regulates body temperature
+- Supports digestion
+- Flushes out toxins
+- Promotes weight loss by increasing metabolism
+- Improves skin complexion
+- Maintains blood pressure
+- Prevents kidney stones
+- Maintains overall well-being
+
+9. Instruction: Provide a metaphor to describe the protagonist's determination in the novel.
+9. Input: 
+In the novel, the protagonist, Sarah, is fighting against the odds to protect her family and her village from the imminent invasion. She learns archery, sword-fighting, and gathers support from neighboring villages.
+9. Output: 
+Sarah's determination is like a mighty river, unstoppable in its pursuit to reach the sea, sweeping aside any obstacles in its path.
+
+10. Instruction: Write a haiku about the beauty of nature.
+10. Input: 
+<noinput>
+10. Output: 
+Green leaves gently sway
+Birdsong whispers in the breeze
+Nature breathes in peace
+11. Instruction: Identify the topic of the argumentative essay.
+11. Input: 
+School uniforms should be mandatory because they promote equality among students, reduce distractions, and foster a sense of professionalism that prepares students for the competitive workplace. By wearing the same clothes, students are less likely to judge one another based on appearances, ensuring that everyone receives an equal opportunity for learning.
+11. Output: 
+The topic of the argumentative essay is the implementation of mandatory school uniforms and their benefits.
+
+12. Instruction: What is the sentiment of this review?
+12. Input: 
+I purchased a pair of headphones from this store last week, and I must say, they exceeded my expectations. The sound quality is excellent, and they fit so comfortably on my ears. The battery life is also impressive, lasting all day on a single charge. I highly recommend these headphones to anyone in search of a high-quality audio experience.
+12. Output: 
+Positive
+
+13. Instruction: Provide three alternative titles for the article.
+13. Input: 
+"The Top 5 Strategies to Boost Your Online Sales and Maximize Profits"
+13. Output: 
+1. "5 Proven Techniques to Skyrocket Your Online Revenue"
+2. "The Ultimate Guide to Increasing E-commerce Sales and Profit"
+3. "Mastering E-commerce: 5 Expert Tips to Drive Sales and Grow Your Profits"
+
+14. Instruction: What is the central theme of the poem?
+14. Input: 
+Underneath the starlit sky,
+Lies the path we cannot hide,
+Through the woods, through troubled times,
+We wander lost but side by side.
+Hand in hand and heart to heart,
+Together we face the dark,
+For love is the only compass,
+That guides our dreams, intertwined.
+14. Output: 
+The central theme of the poem is the power of love to help us navigate through difficult times and challenges in life.
+
+15. Instruction: Translate this text from English to French.
+15. Input: 
+Would you like to go for a walk in the park this afternoon?
+15. Output: 
+Voudriez-vous aller vous promener dans le parc cet après-midi ?
+
+16. Instruction: List three potential solutions to the problem presented.
+16. Input: 
+Local businesses in the downtown area are struggling due to the increase in rent and the influx of competing online shops. They need to find ways to keep customers coming back and continue thriving in a changing economy.
+16. Output: 
+1. Local businesses could offer exclusive in-store promotions or loyalty programs to encourage repeat customers.
+2. They could collaborate with other local businesses to create joint offers or events, increasing foot traffic and creating a sense of community.
+3. Local businesses could establish a strong online presence and incorporate digital marketing strategies to reach a wider audience and compete effectively against online shops.
+
+17. Instruction: Generate a slogan to promote environmental conservation.
+17. Input: 
+<noinput>
+17. Output: 
+Protect Our Planet, Preserve our Future: Go Green, Live Sustainably
+
+18. Instruction: Compose a short email to a coworker requesting a day off.
+18. Input: 
+<noinput>
+18. Output: 
+Subject: Request for a Day Off – [Your Name]
+
+Hi [Coworker's Name],
+
+I hope you're doing well. I wanted to request a day off on [date]. I have a personal appointment that I need to attend. Would it be possible for you to cover for me on that day? If there are any specific tasks or responsibilities you need me to prepare for you in advance, please let me know.
+
+Thanks in advance for your assistance, and I apologize for any inconvenience this may cause.
+
+Best regards,
+[Your Name]
+
+19. Instruction: From the list, determine the odd one out.
+19. Input: 
+Zeppelin, Hot-air Balloon, Biplane, Blimp, Submarine
+19. Output: 
+Submarine
+
+20. Instruction: Write a closing sentence for the fictional story.
+20. Input: 
+The protagonist and their friends have completed their epic quest, defeated the villain, and saved their homeland. They return to their village as heroes, greeted by the cheers and gratitude of their fellow villagers.
+20. Output: 
+As the sun set over their village, casting a warm, golden glow over their faces, they knew they had found purpose and forged bonds that would last a lifetime, and the legacy of their remarkable journey would live on for generations to come.

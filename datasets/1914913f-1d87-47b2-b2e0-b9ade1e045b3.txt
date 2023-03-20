@@ -1,0 +1,45 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+The company hired fifty new employees last month.
+4. Output: 
+Fifty new employees were hired by the company last month.
+
+5. Instruction: Identify the main issue or conflict in the given scenario.
+5. Input: 
+Julie and her coworker Tom, who share an office space, have been arguing over the room temperature. Julie prefers a warmer environment, while Tom enjoys a colder setting.
+5. Output: 
+The main issue in this scenario is the disagreement between Julie and Tom over the office room temperature preferences.
+
+6. Instruction: Summarize the plot of Shakespeare's play "Romeo and Juliet" in two sentences.
+6. Input:
+<noinput>
+6. Output: 
+Romeo and Juliet, young lovers from feuding families, fall in love and marry in secret. Their tragic deaths ultimately unite their warring families, bringing reconciliation and peace.
+
+7. Instruction: Calculate the tip amount for a restaurant bill based on the percentage provided.
+7. Input: 
+Bill amount: $75, Tip percentage: 15%
+7. Output: 
+$11.25
+
+8. Instruction: Identify the false statement from the following statements about dolphins.
+8. Input: 
+1. Dolphins are mammals.
+2. Dolphins lay eggs.
+3. Dolphins use echolocation to find food and navigate.
+4. Dolphins are social creatures and live in groups called pods.
+8. Output: 
+2. Dolphins lay eggs.
+
+9. Instruction: Explain the importance of photosynthesis in a short paragraph.
+9. Input:
+<noinput>
+9. Output: 
+Photosynthesis is a crucial process for life on Earth, as it allows plants to convert sunlight, carbon dioxide, and water into glucose and oxygen. This process provides energy for the plants to grow and reproduce, while also releasing oxygen into the atmosphere, which is essential for the respiration of humans and other animals.
+
+10. Instruction: Categorize the given list of animals into two groups: mammals and non-mammals.
+10. Input: 
+Giraffe, lizards, clownfish, chimpanzee, python, kangaroo, red fox, jellyfish
+10. Output: 
+Mammals: Giraffe, chimpanzee, kangaroo, red fox
+Non-mammals: lizards, clownfish, python, jellyfish

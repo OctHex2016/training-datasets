@@ -1,0 +1,35 @@
+4. Instruction: Rewrite the following sentence in active voice.
+4. Input: 
+The presentation was given by the manager to the team.
+4. Output: 
+The manager gave the presentation to the team.
+###
+5. Instruction: Write an advice for someone who is trying to start a new online business.
+5. Input: <noinput>
+5. Output: 
+Research your target market and competition thoroughly, develop a solid business plan, and focus on customer experience and satisfaction to create a successful online business.
+###
+6. Instruction: Correct any grammar or punctuation mistakes in the following sentence.
+6. Input: 
+Its a great idea, however were not sure if we have enough time to impliment this idea before the deadline.
+6. Output: 
+It's a great idea; however, we're not sure if we have enough time to implement this idea before the deadline.
+###
+7. Instruction: Explain the following idiom in simpler terms.
+7. Input: 
+Actions speak louder than words.
+7. Output: 
+What you do is more important than what you say.
+###
+8. Instruction: Translate the following English sentence to Spanish.
+8. Input: 
+I am going to the store to buy some groceries.
+8. Output: 
+Voy a la tienda a comprar algunos productos de comestibles.
+####
+9. Instruction: Provide an appropriate title for the given passage.
+9. Input:
+After a long day of sightseeing, the weary travelers entered the cozy little café nestled into the corner of a quiet street. The warm smell of freshly ground coffee beans and freshly baked pastries greeted them as they pushed open the door. The café had a mix of small round tables with plush chairs and aged bookshelves filled with an assortment of classic novels and newspapers. They chose a table near the front window and sank into their seats, truly feeling at home.
+9. Output:
+A Welcoming Haven: The Cozy Corner Café
+###

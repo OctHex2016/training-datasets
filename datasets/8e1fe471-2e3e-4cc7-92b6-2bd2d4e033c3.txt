@@ -1,0 +1,106 @@
+4. Instruction: Rank the following brands in terms of overall popularity.
+4. Input:
+Adidas, Puma, Nike, Under Armour
+4. Output:
+Nike, Adidas, Puma, Under Armour
+
+5. Instruction: Write a short poem on a rainy day.
+5. Input: <no input>
+5. Output:
+Raindrops patter on the roof,
+Puddles form below,
+A symphony of nature's call,
+As the storm begins to grow.
+
+The sun retreats behind the clouds,
+Yet life begins anew,
+A cleansing of the world we know,
+Washed in shades of blue.
+
+6. Instruction: Rephrase this sentence without changing its meaning.
+6. Input:
+I enjoy watching movies when there is a nice ambience.
+6. Output:
+I find pleasure in watching films amidst a pleasant atmosphere.
+
+7. Instruction: Put the following events in chronological order.
+7. Input:
+World War II, the invention of the internet, the Roman Empire, the Industrial Revolution
+7. Output:
+The Roman Empire, World War II, the Industrial Revolution, the invention of the internet
+
+8. Instruction: Correct the punctuation errors in this sentence.
+8. Input:
+George Eliot said: "Its never too late to be what you might have been".
+8. Output:
+George Eliot said, "It's never too late to be what you might have been."
+
+9. Instruction: Can you please write a brief 30-50 word summary of this text?
+9. Input:
+In recent years, the concern for the environment and the planet's sustainability is ever increasing. The use of renewable energy sources and eco-friendly materials is crucial in combating the global warming crisis. By committing to implement green practices in residential and commercial spaces, people can greatly reduce their carbon footprint and lead to a more sustainable planet for future generations.
+9. Output:
+Growing environmental concerns have led to a push for renewable energy sources and eco-friendly materials. By implementing green practices in homes and businesses, people can reduce their carbon footprint and promote a sustainable planet.
+
+10. Instruction: What are the main issues with the following sentence?
+10. Input:
+"Kristin and Rachel's has the cutest dog I've ever seen."
+10. Output:
+The issues are possessive usage and agreement. It should be "Kristin and Rachel have the cutest dog I've ever seen."
+
+11. Instruction: What is the moral of this story?
+11. Input:
+A lion was sleeping peacefully in the jungle when a small mouse came by and started playing near the lion, unintentionally disturbing him. Out of anger, the lion caught the mouse and was about to eat it when the mouse begged for mercy. Laughing at the tiny creature, the lion spared its life. Later, the lion got trapped in a hunter's net, but the mouse came to the rescue, gnawing through the ropes and setting the lion free. The lion then realized that even the smallest creature can be helpful.
+11. Output:
+The moral of the story is that even the smallest acts of kindness can be important, and one should not underestimate others based on their size or appearance.
+
+12. Instruction: Summarize the idea of the first two sentences in one sentence.
+12. Input:
+Cultural exchange has far-reaching effects on individuals and societies. It fosters understanding among different groups, especially those with historical misunderstandings.
+12. Output:
+Cultural exchange bridges gaps between groups, especially those with historical misunderstandings, by fostering understanding.
+
+13. Instruction: Translate this text into plain English.
+13. Input:
+The quixotic nature of one's aspirations can often lead to unforeseen and potentially adverse ramifications.
+13. Output:
+Having unrealistic goals can sometimes cause unexpected and negative consequences.
+
+14. Instruction: Give an example of each type of irony: verbal, situational, and dramatic.
+14. Input: <no input>
+14. Output:
+Verbal Irony: Saying "Oh, great!" when something bad happens. 
+Situational Irony: A fire station burning down. 
+Dramatic Irony: In a play, the audience knows a character's true intentions, but the other characters do not.
+
+15. Instruction: Explain how a caterpillar becomes a butterfly.
+15. Input: <no input>
+15. Output:
+A caterpillar transforms into a butterfly through a process called metamorphosis. It starts as an egg, hatches into a caterpillar, and then forms a protective shell called a chrysalis or pupa. Inside the chrysalis, the caterpillar undergoes significant physical changes, emerging as a butterfly or moth.
+
+16. Instruction: List three examples of onomatopoeia.
+16. Input: <no input>
+16. Output:
+Buzz, crash, sizzle
+
+17. Instruction: Write a thesis statement for an essay on the benefits of exercising regularly.
+17. Input: <noinput>
+17. Output:
+Engaging in regular physical activity can improve mental clarity, enhance physical health, and foster a sense of overall well-being, making it an essential component of a balanced, satisfying lifestyle.
+
+18. Instruction: Correct the spelling errors in this line.
+18. Input:
+Their are multiply beneefits to maintaining a healty lifestyle.
+18. Output:
+There are multiple benefits to maintaining a healthy lifestyle.
+
+19. Instruction: Based on the given context, what would be an appropriate response?
+19. Input:
+Person 1: "I'm so nervous about my presentation today."
+19. Output:
+Person 2: "Don't worry, just take deep breaths and remember your practice. You've got this!"
+
+20. Instruction: Identify the literary device used in the following quote:
+20. Input:
+"All the world's a stage, and all the men and women merely players."
+20. Output:
+The literary device used in this quote is a metaphor.

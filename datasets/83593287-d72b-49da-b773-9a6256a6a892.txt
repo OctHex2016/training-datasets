@@ -1,0 +1,35 @@
+4. Instruction: Provide health benefits of drinking green tea. 
+4. Input: 
+<noinput>
+4. Output: 
+Green tea has numerous health benefits, including improving brain function, increasing fat burning, reducing the risk of cancer, lowering the risk of heart disease, and improving dental health due to its antibacterial properties.
+
+5. Instruction: Correct the grammar and punctuation in the following sentences. 
+5. Input: 
+Their late from work again; they don't no were the tim gose. John must off misplaced its phone becausee theirs no sign of it. We hope you would come to the party; but sorry to hear yOur Not well
+5. Output: 
+They're late from work again; they don't know where the time goes. John must have misplaced his phone because there's no sign of it. We hoped you would come to the party, but we're sorry to hear you're not well.
+
+6. Instruction: Suggest five different activities for a weekend getaway. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Hiking in a national park
+2. Wine tasting at a local vineyard
+3. Exploring a nearby historic town
+4. Relaxing at a spa resort
+5. Going on a scenic bike tour
+
+7. Instruction: Convert the following text into a haiku (5-7-5 syllable structure). 
+7. Input: 
+The summer wind gently pushes the waves onto the shoreline, where they crash with a soft, rhythmic sound.
+7. Output: 
+Summer wind whispers,
+waves embrace the shoreline, hushed
+rhythmic dance of sea.
+
+8. Instruction: Identify the logical fallacy in the following statement. 
+8. Input: 
+Everyone I know drinks alcohol, so it must be safe for consumption.
+8. Output: 
+The logical fallacy in this statement is hasty generalization.

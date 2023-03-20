@@ -1,0 +1,126 @@
+4. Instruction: Identify which of the following facts about planet Earth is false.
+4. Input: 
+Earth has four layers, Earth is the third planet from the sun, Earth rotates around its axis in 25 hours, Oceans cover approximately 71% of Earth's surface
+4. Output: 
+Earth rotates around its axis in 25 hours
+
+###
+
+5. Instruction: Summarize the given paragraph focusing on the main point.
+5. Input: 
+The term artificial intelligence was first coined in 1956, but the idea of AI has been in existence for a few decades before that. While computers have become more advanced over time, true artificial intelligence involves much more than simple data processing. An AI system should also be able to think and learn, adapting its programming to new situations and dealing with problems that it was never explicitly designed to do. While human beings have yet to create a truly sentient artificial intelligence, many experts believe it is only a matter of time before such technology becomes reality.
+5. Output: 
+Artificial intelligence (AI) has been a concept since the 1950s, but it involves more than just data processing, requiring systems to think, learn, and adapt to new situations. Creating truly sentient AI is an ongoing challenge but may become a reality in the future.
+
+###
+
+6. Instruction: Choose the correct spelling of the word from the given options.
+6. Input: 
+lightining, lightning, lightening
+6. Output:
+lightning
+
+###
+
+7. Instruction: How old is someone born on January 1, 1995, in 2022?
+7. Input: <noinput>
+7. Output: 
+27 years old
+
+###
+
+8. Instruction: Proofread and fix any errors in the following sentence.
+8. Input: 
+Althought the cat was sleepness and hury, it managed to catch it's food.
+8. Output: 
+Although the cat was sleepless and hungry, it managed to catch its food.
+
+###
+
+9. Instruction: Explain the significance of the greenhouse effect in relation to global warming.
+9. Input: <noinput>
+9. Output: 
+The greenhouse effect plays a vital role in global warming, as it involves the trapping of heat from the sun by greenhouse gases in Earth's atmosphere. This trapped heat causes the Earth's temperature to rise, resulting in global warming, which can lead to climate change, rising sea levels, and extreme weather events.
+
+###
+
+10. Instruction: Translate the following sentence to French.
+10. Input: 
+The weather is nice today; let's go for a walk in the park.
+10. Output: 
+Le temps est agréable aujourd'hui; allons faire une promenade dans le parc.
+
+###
+
+11. Instruction: What are the main differences between reptiles and amphibians?
+11. Input: <noinput>
+11. Output: 
+Reptiles are cold-blooded, have scales, and lay hard-shelled eggs, whereas amphibians are also cold-blooded but have moist, smooth skin and lay soft, gel-like eggs in water. Additionally, amphibians undergo metamorphosis, while reptiles do not.
+
+###
+
+12. Instruction: Identify the thesis statement from the given paragraph.
+12. Input: 
+Radio has had a tremendous impact on the world since its invention in the early 20th century. Long before television and the internet, radio was the primary way people received information, entertainment, and news. The way in which it brought people together created a sense of belonging and connectedness, connecting vast distances and creating shared experiences. Its simple yet powerful technology played a crucial role in shaping our modern society.
+12. Output: 
+The way in which radio brought people together created a sense of belonging and connectedness, connecting vast distances and creating shared experiences. Its simple yet powerful technology played a crucial role in shaping our modern society.
+
+###
+
+13. Instruction: Count the number of words in the given sentence.
+13. Input: 
+Life isn't about waiting for the storm to pass, it's about learning to dance in the rain.
+13. Output: 
+16
+
+###
+
+14. Instruction: In what year did Neil Armstrong walk on the moon?
+14. Input: <noinput>
+14. Output: 
+1969
+
+###
+
+15. Instruction: Rearrange these words to form a coherent sentence.
+15. Input: 
+important message his sent quickly he
+15. Output: 
+He quickly sent his important message.
+
+###
+
+16. Instruction: List three renewable energy sources.
+16. Input: <noinput>
+16. Output: 
+Solar, wind, and hydroelectric energy
+
+###
+
+17. Instruction: Identify the tense of the following sentence.
+17. Input: 
+She had called her friend before leaving for the party.
+17. Output: 
+Past perfect
+
+###
+
+18. Instruction: Convert the following units of measurement: 2.5 miles to kilometers.
+18. Input: <noinput>
+18. Output: 
+4.02 kilometers
+
+###
+
+19. Instruction: Define photosynthesis in one sentence.
+19. Input: <noinput>
+19. Output: 
+Photosynthesis is the process through which plants convert sunlight, water, and carbon dioxide into glucose and oxygen.
+
+###
+
+20. Instruction: Sort the following numbers in ascending order.
+20. Input: 
+42, 67, 12, 25, 59, 33
+20. Output: 
+12, 25, 33, 42, 59, 67

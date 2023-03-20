@@ -1,0 +1,59 @@
+4. Instruction: Given the two sentences, determine if they contradict each other, are neutral to each other, or entail each other.
+4. Input: 
+Sentence 1: "The man went for a walk in the rainy weather."
+Sentence 2: "The man decided to avoid going outside due to the rain."
+4. Output: 
+The sentences contradict each other.
+
+5. Instruction: Provide a structured SWOT analysis for a small, independent coffee shop.
+5. Input: <noinput>
+5. Output: 
+Strengths:
+1. Unique and personalized customer service.
+2. High-quality, locally sourced coffee beans.
+3. Cozy and inviting atmosphere.
+
+Weaknesses:
+1. Limited marketing budget.
+2. Smaller variety of products compared to larger competitors.
+3. Limited seating capacity.
+
+Opportunities:
+1. Expand product offerings (e.g., baked goods or sandwiches).
+2. Collaborate with local events or businesses.
+3. Utilize social media marketing strategies.
+
+Threats:
+1. Competitors, such as large coffee chains.
+2. Fluctuations in coffee bean prices.
+3. Economic downturn affecting consumer spending habits.
+
+6. Instruction: Summarize the given text in two sentences.
+6. Input: 
+The new fitness tracker released by TechAction offers several helpful features for athletes and fitness enthusiasts alike. The device accurately measures heart rate while exercising, steps taken throughout the day, and sleep patterns. Users can also monitor their daily calorie intake and water consumption by logging their meals and drinks in the device's app. Furthermore, the fitness tracker can be synced with various social media platforms, encouraging friendly competition among peers as they share their fitness accomplishments.
+6. Output: 
+TechAction's new fitness tracker provides an array of useful features, such as heart rate, step and sleep pattern tracking along with daily calorie and water intake monitoring. The device's app also syncs with social media, fostering competitiveness among users as they share their achievements.
+
+7. Instruction: Translate the given English text into Spanish. 
+7. Input: 
+Please follow the guidelines for proper waste disposal in your community. Not doing so may result in environmental damage and pose health risks for you and your neighbors.
+7. Output: 
+Por favor, siga las pautas para la correcta eliminación de residuos en su comunidad. No hacerlo puede resultar en daños al medio ambiente y representar riesgos para la salud de usted y sus vecinos.
+
+8. Instruction: Write a brief biography of the famous scientist, Albert Einstein.
+8. Input: <noinput>
+8. Output: 
+Albert Einstein, born in Germany in 1879, was a theoretical physicist known for developing the theory of relativity. He worked at universities such as Zurich and Berlin and was a scientist at the Kaiser Wilhelm Institute. One of Einstein's most famous works, the mass-energy equivalence formula, E=mc², laid the groundwork for understanding the relationship between mass and energy. Nobel Prize laureate in Physics in 1921, Einstein contributed significantly to modern physics, playing integral roles in creating the atomic bomb and shaping conceptions of time, energy and gravity. Einstein passed away in 1955 in New Jersey, USA.
+
+9. Instruction: Recommend a smartphone app based on the user's requirements.
+9. Input: 
+I want an app that can help me track my expenses, set a monthly budget, and provide insights on my spending habits.
+9. Output: 
+I recommend the app "Mint". It will help you track your expenses, set a monthly budget, and provide valuable insights on your spending habits. Mint also securely connects to your bank account, allowing for automatic categorization of your transactions.
+
+10. Instruction: Write a haiku about the ocean.
+10. Input: <noinput>
+10. Output: 
+Endless horizon,
+Waves whisper eternal truths,
+Deep blue mystery.

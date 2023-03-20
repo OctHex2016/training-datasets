@@ -1,0 +1,45 @@
+4. Instruction: Classify the following articles into appropriate categories.
+4. Input:
+- Health benefits of drinking tea
+- Sustainable energy: the future of solar power
+- Why sleep is crucial for optimal brain function
+4. Output:
+- Health and Wellness
+- Environment and Energy
+- Neuroscience and Sleep Science
+
+5. Instruction: Write an introduction paragraph for an article titled "5 Promising Startups to Watch in 2023".
+5. Input:
+<noinput>
+5. Output:
+As the world of technology continues to advance at a rapid pace, numerous innovative startups are emerging as disruptive forces in various industries. In this article, we highlight five promising startups to watch in 2023, showcasing their groundbreaking products and services, their exceptional teams, and the reasons why they are poised to make a significant impact in their respective sectors.
+
+6. Instruction: Summarize the text in one sentence.
+6. Input:
+Charles Dickens was a British author who lived during the Victorian era and is widely known for his social commentary and ability to vividly portray the lives of the poor and working class. He wrote unforgettable novels, such as Oliver Twist, A Christmas Carol, and Great Expectations, which not only entertained readers but also shed light on the harsh realities faced by many people during his time.
+6. Output:
+Charles Dickens was a renowned British author, known for his social commentary and portrayal of the hardships faced by the poor and working class in Victorian-era novels like Oliver Twist, A Christmas Carol, and Great Expectations.
+
+7. Instruction: Tell me a fun fact about penguins.
+7. Input:
+<noinput>
+7. Output:
+Fun fact: Penguins can drink saltwater, thanks to specialized glands that help them filter out the salt and retain the necessary water in their bodies.
+
+8. Instruction: Translate the following sentence into Spanish.
+8. Input:
+My younger sister loves to dance and sing with her friends.
+8. Output:
+A mi hermana menor le encanta bailar y cantar con sus amigos.
+
+9. Instruction: Write a persuasive closing statement for a fundraising campaign for an animal charity organization.
+9. Input:
+<noinput>
+9. Output:
+In closing, your generous donation to our animal charity organization will directly impact the lives of countless animals in need, providing vital resources that enable us to rescue, rehabilitate, and find loving forever homes for them. By supporting our mission today, you become an integral part of a more compassionate and hopeful future for our furry friends. Please join us and make a meaningful difference in their lives – every little bit counts!
+
+10. Instruction: Rewrite the sentence in passive voice.
+10. Input:
+The cat chased the mouse around the house.
+10. Output:
+The mouse was chased around the house by the cat.

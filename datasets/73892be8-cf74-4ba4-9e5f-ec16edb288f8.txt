@@ -1,0 +1,54 @@
+4. Instruction: Imagine you are a teacher writing feedback for a student's essay about renewable energy. Provide constructive and specific feedback on the introductory paragraph. 
+4. Input: 
+Renewable energy is energy that will never run out, like solar power and wind power. These sources of energy are important because our planet needs us to stop using pollution-heavy fossil fuels. Many countries are already using renewable energy sources as a way to reduce carbon emissions and better the health of our environment. In the future, the earth will certainly become more reliant on renewable energy sources.
+4. Output: 
+Overall, your introductory paragraph provides a brief overview of renewable energy. To improve, consider adding a hook to draw the reader's attention, such as a compelling statistic or quote related to the topic. Also, try to present a clearer thesis statement that specifically outlines the main points you will cover in the essay. Lastly, you might want to elaborate further on why the shift towards renewable energy is vital and mention any challenges the world might face in achieving this goal.
+
+5. Instruction: Rewrite the following sentence using a more formal tone.
+5. Input: 
+When it comes to exercise, doing it right is super important, so you won't hurt yourself.
+5. Output: 
+Regarding exercise, it is imperative to execute it correctly to prevent injury.
+
+6. Instruction: Calculate the total price of the items in the following shopping list, considering the quantities and prices provided.
+6. Input: 
+4 apples - $0.50 each
+1 loaf of bread - $3.00
+2 cans of beans - $1.20 each
+3 bottles of milk - $2.50 each
+6. Output: 
+$13.30
+
+7. Instruction: Create a haiku (3-line poem with a syllable count of 5-7-5) about autumn.
+7. Input: 
+<noinput>
+7. Output: 
+Crisp leaves underfoot
+Sunset paints the sky ablaze
+Autumn whispers chill
+
+8. Instruction: What is the significance of Ernest Hemingway's novel, "The Old Man and the Sea"?
+8. Input: 
+<noinput>
+8. Output: 
+"The Old Man and the Sea" is significant as it portrays themes of perseverance, human struggle, and the relationship between man and nature. Ernest Hemingway conveys these themes through the story of an old fisherman named Santiago, who embarks on a relentless pursuit to catch a giant marlin. The novel showcases Santiago's unwavering determination and endurance, ultimately symbolizing the broader human experience and the capacity for resilience amidst adversity. Hemingway's concise, understated prose also serves as a hallmark of his distinctive writing style, contributing to the novel's importance in the literary canon. 
+
+9. Instruction: Detect any grammar mistakes in the following sentence and correct them.
+9. Input: 
+The children enjoys playing with they're toys after school, but sometimes they forgets to put them up.
+9. Output: 
+The children enjoy playing with their toys after school, but sometimes they forget to put them away.
+
+10. Instruction: Suggest three potential solutions to combat climate change effectively.
+10. Input: 
+<noinput>
+10. Output: 
+1. Transition to renewable energy sources: Phasing out the use of fossil fuels and investing in solar, wind, and hydroelectric power can help reduce greenhouse gas emissions.
+2. Implement energy-efficient practices: Encouraging energy conservation and efficiency in sectors such as transportation, buildings, and industry can minimize energy consumption and reduce carbon emissions.
+3. Reforestation and afforestation: Planting trees and restoring forests can help absorb carbon dioxide, protect ecosystems, and regulate the climate.
+
+11. Instruction: Summarize the cause of the War of 1812 between the United States and Great Britain.
+11. Input:
+<noinput>
+11. Output:
+The War of 1812 was primarily caused by unresolved tensions between the United States and Great Britain. The main issues included British impressment of American sailors, British support of Native American tribes in conflict with American settlers, and trade restrictions imposed by Britain as part of its ongoing war with France. These factors led to growing resentment in the United States and eventually resulted in the declaration of war.

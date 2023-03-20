@@ -1,0 +1,47 @@
+4. Instruction: Based on a given situation, classify the person's emotion into one of these categories: happy, sad, angry, or fearful.
+4. Input: 
+Clenching fists and shouting loudly after a bad phone call.
+4. Output: 
+angry
+###
+5. Instruction: Transform the given sentence into a haiku, maintaining a 5-7-5 syllabic structure.
+5. Input: 
+The sun sets behind the trees, casting warm orange light over the lake.
+5. Output: 
+Sun sets behind trees,
+Warm orange light on the lake,
+Nature's soft embrace.
+###
+6. Instruction: Condense the given text passage into a single, succinct sentence.
+6. Input: 
+The film, despite garnering positive reviews from critics, did not receive the financial success the producers had been expecting. Only a handful of audience members purchased tickets, even though the actors delivered a strong performance.
+6. Output: 
+Despite positive reviews and strong performances, the film underperformed financially with low ticket sales.
+###
+7. Instruction: Spot the grammatical error in the following sentence and provide the corrected version.
+7. Input: 
+He received the keys of the new house, however, there's still some furniture lefts to move in.
+7. Output: 
+He received the keys to the new house; however, there's still some furniture left to move in.
+###
+8. Instruction: Convert the given situation into a limerick, a humorous poem consisting of five lines.
+8. Input: 
+A man went on vacation to a small island and spent all day eating ice cream, but he forgot about his sunscreen and got sunburned.
+8. Output: 
+A man went to stay on an isle,
+Ate ice cream with joy and a smile.
+In the hot sun he basked,
+He'd forgotten one task,
+And was sunburned, his skin red as tile.
+###
+9. Instruction: Write a response to the following question: "How are you? What have you been up to lately?"
+9. Input: 
+<noinput>
+9. Output: 
+I'm doing well, thank you! Lately, I've been focusing on improving my skills by taking online courses and enjoying outdoor activities like hiking and gardening in my free time.
+###
+10. Instruction: Pretend you are a tech support specialist and provide a solution for the reported issue.
+10. Input: 
+"My computer is running very slow, and I get constant pop-up ads. What can I do?"
+10. Output: 
+It sounds like your computer might be affected by malware or adware. I recommend scanning your system with a reliable antivirus software and installing an ad blocker to prevent the pop-up ads. Additionally, ensure your operating system and all software are up-to-date with the latest security patches.

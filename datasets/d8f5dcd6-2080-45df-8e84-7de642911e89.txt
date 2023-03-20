@@ -1,0 +1,81 @@
+4. Instruction: Summarize the main idea of the given paragraph in a single sentence.
+4. Input: 
+Ocean acidification is the chemical process where the ocean becomes more acidic due to the excessive amount of carbon dioxide absorbed from the atmosphere. The burning of fossil fuels, deforestation, and other human activities release carbon dioxide, which, when dissolved in the ocean, forms carbonic acid. This process changes the ocean's pH, affecting the marine life and ecosystems, particularly the calcifying species like corals, mollusks, and other shelled organisms. 
+4. Output: 
+Ocean acidification, caused by the absorption of excess atmospheric carbon dioxide from human activities, adversely affects marine life and ecosystems, particularly calcifying species such as corals and mollusks.
+###
+5. Instruction: Find a grammatical error in the following sentence and correct it.
+5. Input: 
+There's a many ways you can improve your learning experience.
+5. Output: 
+There are many ways you can improve your learning experience.
+###
+6. Instruction: Translate the given English text into French.
+6. Input: 
+Today's weather forecast predicts heavy rain, so don't forget to bring your umbrella and raincoat.
+6. Output: 
+La météo d'aujourd'hui prévoit de fortes pluies, alors n'oubliez pas d'apporter votre parapluie et imperméable.
+###
+7. Instruction: Write a five-line poem about a lonely leaf in autumn.
+7. Input: 
+<noinput>
+7. Output: 
+A lonely leaf of orange hue,
+In autumn's gentle waltz, it flew,
+It danced amidst the crisp fall breeze,
+Its final bow, a slow release,
+In quiet rest, on earth, it's true.
+###
+8. Instruction: Come up with a band name given the three words: dream, silence, orchestra
+8. Input: 
+<noinput>
+8. Output: 
+Silent Dream Orchestra
+###
+9. Instruction: Create a movie tagline for a romantic comedy called "Midnight Mischief".
+9. Input: 
+<noinput>
+9. Output: 
+When love is hiding in the shadows, mischief awakens at the stroke of midnight!
+###
+10. Instruction: Re-write the given sentence in an active voice.
+10. Input: 
+The project was completed by the team ahead of schedule.
+10. Output: 
+The team completed the project ahead of schedule.
+###
+11. Instruction: Which US president is credited with abolishing slavery?
+11. Input: 
+<noinput>
+11. Output: 
+Abraham Lincoln
+###
+12. Instruction: Describe a situation where using a credit card might be more advantageous than using cash.
+12. Input: 
+<noinput>
+12. Output: 
+A credit card might be more advantageous than using cash when making online purchases because of the added security measures, ability to dispute transactions, and rewards and benefits offered by credit card companies.
+###
+13. Instruction: Write a condolence message to a friend who has lost their father.
+13. Input: 
+<noinput>
+13. Output: 
+Dear friend, I am deeply saddened to hear about the passing of your father. Please know that you are in my thoughts and prayers during this difficult time. Your father was a wonderful man, and his memory will forever be cherished. If there is anything I can do to help or support you, please do not hesitate to reach out. My heart is with you and your family.
+###
+14. Instruction: Suggest a summer-themed name for a new ice cream flavor.
+14. Input: 
+<noinput>
+14. Output: 
+Tropical Sunshine Delight
+###
+15. Instruction: Recommend a book for someone who wants to learn about self-improvement.
+15. Input: 
+<noinput>
+15. Output: 
+I recommend "The 7 Habits of Highly Effective People" by Stephen R. Covey for someone interested in self-improvement.
+###
+16. Instruction: Explain the difference between renewable and non-renewable energy sources.
+16. Input: 
+<noinput>
+16. Output: 
+Renewable energy sources are derived from natural processes that can be replenished over time, such as solar, wind, and hydro power. Non-renewable energy sources, on the other hand, are finite resources like fossil fuels (coal, oil, and natural gas), which cannot be replenished and will eventually be depleted.

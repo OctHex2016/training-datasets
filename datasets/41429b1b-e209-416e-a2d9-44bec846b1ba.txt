@@ -1,0 +1,29 @@
+4. Instruction: Summarize the main ideas of the given paragraph.
+4. Input: 
+Neural machine translation (NMT) is an approach to machine translation that uses deep learning and neural networks. Unlike traditional methods that rely on rule-based or statistical techniques, NMT systems are trained end-to-end to predict the output sequence of words given the input sequence, without the need for any explicit alignment between the two. This provides a more flexible, scalable, and natural way to model translations, allowing the system to learn grammar, syntax, and semantics directly from the data. NMT has been shown to produce better translations compared to previous methods, especially as the size of the training dataset increases.
+4. Output: 
+Neural machine translation (NMT) is a deep learning and neural network-based approach to machine translation. It is trained end-to-end, eliminating the need for explicit alignment. NMT offers a more flexible, scalable, and natural modeling of translations by learning grammar, syntax, and semantics directly from data. It outperforms previous methods, especially with larger training datasets.
+
+5. Instruction: Inform me of the effects of regular exercise on mental health.
+5. Input: <noinput>
+5. Output: 
+Regular exercise is known to have numerous positive effects on mental health. It helps reduce stress, anxiety, and depression by releasing endorphins, which create feelings of happiness and improve mood. Additionally, exercise enhances cognitive function by increasing blood flow to the brain, promoting neurogenesis and neuroplasticity, and protecting against age-related cognitive decline. Regular physical activity also contributes to maintaining a healthy sleep pattern, resulting in increased energy levels, clearer thinking, and better overall mental well-being. 
+
+6. Instruction: Write a dialogue between a doctor and a patient with flu-like symptoms, discussing the importance of getting vaccinated.
+6. Input: <noinput>
+6. Output: 
+Doctor: Good morning, how can I help you today?
+Patient: I've been experiencing flu-like symptoms, and I'm not sure if it's just a cold or the flu. 
+Doctor: I see. Tell me about your symptoms, and have you received a flu vaccination?
+Patient: I have a sore throat, headache, and body aches. I haven't gotten vaccinated this year.
+Doctor: It's essential to get vaccinated annually to protect yourself and others from the flu. The vaccine reduces your risk of getting the flu and its complications.
+Patient: But I've heard the vaccine doesn't always work, so why should I get it?
+Doctor: While no vaccine is 100% effective, the flu vaccine still significantly reduces your chances of getting sick. Additionally, if you do contract the flu, the vaccine may reduce the severity and duration of your illness. 
+Patient: That makes sense. If my symptoms don't improve, I'll consider getting vaccinated this year.
+Doctor: That's a good decision. In the meantime, rest, stay hydrated, and take over-the-counter medication for symptom relief. Call us if your symptoms worsen or persist.
+
+7. Instruction: Rewrite the given sentences in passive voice.
+7. Input: 
+The employees have finished the project. The manager is reviewing the final presentation. They will submit the completed project to the client by tomorrow.
+7. Output: 
+The project has been finished by the employees. The final presentation is being reviewed by the manager. By tomorrow, the completed project will be submitted to the client.

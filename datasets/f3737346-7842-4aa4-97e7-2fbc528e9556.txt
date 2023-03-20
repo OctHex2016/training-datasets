@@ -1,0 +1,59 @@
+4. Instruction: Convert the given paragraph into bullet points.
+4. Input: 
+Computer programming is an exciting and diverse field. It requires you to think logically and analytically, allowing you to solve complex problems. As a programmer, you will write and test code, debug programs, and develop applications. Numerous programming languages exist, each with its strengths and weaknesses tailored to specific tasks. Popular languages include Python, JavaScript, and C++. Job prospects in the industry are continually expanding as new technologies emerge, and demand for skilled professionals is strong.
+4. Output:
+- Exciting and diverse field
+- Requires logical and analytical thinking
+- Solving complex problems
+- Writing and testing code
+- Debugging programs
+- Developing applications
+- Variety of programming languages (e.g., Python, JavaScript, C++)
+- Expanding job prospects
+- Strong demand for skilled professionals
+
+5. Instruction: Create a bedtime routine with 4 steps to help improve your sleep quality.
+5. Input:
+<noinput>
+5. Output:
+1. Unwind and relax by reading, meditating, or taking a warm bath.
+2. Limit electronic device usage at least 30 minutes before bedtime.
+3. Set up your sleep environment to be dark, cool, and quiet.
+4. Establish a consistent bedtime and wake-up time, even on weekends.
+
+6. Instruction: Given the following list of tasks, prioritize them from most to least important using this order: Urgent and Important, Important and Not Urgent, Urgent and Not Important, and Not Urgent and Not Important.
+6. Input: 
+- Finish presentation for client meeting tomorrow.
+- Sign up for online course on project management.
+- Answer miscellaneous emails.
+- Organize desk for the coming week.
+6. Output: 
+1. Finish presentation for client meeting tomorrow (Urgent and Important)
+2. Sign up for online course on project management (Important and Not Urgent)
+3. Answer miscellaneous emails (Urgent and Not Important)
+4. Organize desk for the coming week (Not Urgent and Not Important)
+
+7. Instruction: Summarize the main benefits and drawbacks of taking an unpaid internship.
+7. Input:
+<noinput>
+7. Output:
+Benefits:
+- Gaining valuable work experience
+- Building your professional network
+- Enhancing your resume/CV
+- Potentially leading to a paid job opportunity
+- Developing new skillset
+
+Drawbacks:
+- Lack of financial compensation
+- Potential exploitation by employers
+- May require additional part-time work for financial support
+- Not all internships guarantee future job placement
+
+8. Instruction: Write a haiku about the beauty of nature.
+8. Input: 
+<noinput>
+8. Output:
+Whispering leaves dance
+River flows with soft embrace
+Nature's grace endures

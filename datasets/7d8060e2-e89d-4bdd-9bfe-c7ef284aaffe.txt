@@ -1,0 +1,117 @@
+4. Instruction: Describe the plot of the movie "The Godfather".
+4. Input: 
+<noinput>
+4. Output: 
+The Godfather is a 1972 American crime film based on the novel by Mario Puzo. It tells the story of the Corleone family, a powerful Italian-American mafia family, and their struggle to maintain control of their empire as rival gangs and government agents conspire against them. The film stars Marlon Brando, Al Pacino, and James Caan, among others, and is widely regarded as a masterpiece of the genre.
+###
+5. Instruction: Rewrite this sentence using an active voice. "The book was read by me."
+5. Input:  
+<noinput>
+5. Output: 
+I read the book.
+###
+6. Instruction: Translate this sentence into French. "Where is the closest grocery store?"
+6. Input: 
+<noinput>
+6. Output: 
+Où est le magasin d'alimentation le plus proche ?
+###
+7. Instruction: Suggest a name for a new sushi restaurant and explain the reason for the name.
+7. Input: 
+New sushi restaurant
+7. Output: 
+How about the name "Umami"? It's a Japanese word meaning a savory, meaty flavor that's often used to describe the fifth taste (besides sweet, sour, bitter, and salty) found in things like soy sauce and mushrooms. It could be a fitting name for a sushi restaurant that prioritizes umami-rich ingredients and flavors.
+###
+8. Instruction: Classify this image as a dog or a cat.
+8. Input: 
+https://i.imgur.com/bPnkfCu.jpg
+8. Output: 
+This input image depicts a dog.
+###
+9. Instruction: Correct the grammar mistake in this sentence. "Me and her went to the beach yesterday."
+9. Input: 
+<noinput>
+9. Output: 
+She and I went to the beach yesterday.
+###
+10. Instruction: Rewrite this sentence using a different verb. "I enjoy reading books."
+10. Input: 
+<noinput>
+10. Output: 
+I like reading books.
+###
+11. Instruction: Summarize the plot of the novel "To Kill a Mockingbird".
+11. Input: 
+<noinput>
+11. Output: 
+To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is set in the Deep South and follows the story of a young girl, Scout Finch, and her older brother, Jem, as they grow up and come to understand the racism and injustice of their community. It explores themes of courage, compassion, and coming-of-age, and is widely regarded as a classic of American literature.
+###
+12. Instruction: What is the capital of France?
+12. Input: 
+<noinput>
+12. Output: 
+The capital of France is Paris.
+###
+13. Instruction: Rearrange the words to make a grammatically correct sentence. "yesterday / to / library / I / the / went"
+13. Input: 
+<noinput>
+13. Output: 
+I went to the library yesterday.
+###
+14. Instruction: What is the highest mountain in the world?
+14. Input: 
+<noinput>
+14. Output: 
+The highest mountain in the world is Mount Everest, which is located in the Himalayas.
+###
+15. Instruction: Describe a recipe for a classic Italian dish like Spaghetti Carbonara and explain each step.
+15. Input: 
+<noinput>
+15. Output: 
+Ingredients:
+- 1 lb spaghetti
+- 4 large eggs
+- 1 cup grated Parmesan cheese
+- 1/2 cup diced pancetta or bacon
+- 4 cloves garlic, minced
+- Salt and pepper to taste
+- Fresh parsley or basil, chopped (optional)
+
+Steps:
+1. Cook the spaghetti in salted water until al dente. Reserve 1 cup of the pasta cooking water.
+2. While the pasta is cooking, whisk together the eggs, Parmesan cheese, salt, and pepper in a large bowl.
+3. In a large skillet over medium heat, cook the pancetta until crispy. Add the garlic and cook for another minute.
+4. Remove the pan from the heat and add the drained spaghetti to the pan, tossing to coat with the pancetta and garlic.
+5. Pour the egg mixture over the spaghetti, tossing quickly to prevent the eggs from scrambling.
+6. Add some of the reserved pasta cooking water to the pan, a little at a time, until the sauce is creamy and coats the spaghetti.
+7. Serve hot, garnished with chopped parsley or basil if desired.
+###
+16. Instruction: What is the main export of Brazil?
+16. Input: 
+<noinput>
+16. Output: 
+The main export of Brazil is soybeans, followed by iron ore and crude petroleum.
+###
+17. Instruction: Explain the concept of supply and demand in economics. 
+17. Input: 
+<noinput>
+17. Output: 
+Supply and demand is a basic economic concept that refers to the relationship between the quantity of a product that producers are willing to sell and the quantity that consumers are willing and able to purchase. In a functioning market, the price of a good will adjust to balance supply and demand. As demand increases, prices rise, which incentivizes producers to increase supply until equilibrium is reached.
+###
+18. Instruction: What's the difference between affect and effect in English language? 
+18. Input: 
+<noinput>
+18. Output: 
+"Affect" is typically used as a verb meaning "to influence or change something," while "effect" is usually a noun meaning "the result or consequence of something." However, "effect" can also be used as a verb that means "to bring about a change or result," and "affect" can also be used as a noun meaning "emotional state or disposition."
+###
+19. Instruction: What is the distance between New York and Los Angeles in miles? 
+19. Input: 
+<noinput>
+19. Output: 
+The distance between New York and Los Angeles is approximately 2,800 miles.
+###
+20. Instruction: Can you suggest a Vietnamese restaurant that serves Pho in the downtown area? 
+20. Input: 
+<noinput>
+20. Output: 
+There are several good options in the downtown area, but I would recommend Pho Hoa Noodle Soup on South King Street. They have excellent reviews and are known for their flavorful broth and generous portions.

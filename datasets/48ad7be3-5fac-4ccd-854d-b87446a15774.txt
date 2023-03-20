@@ -1,0 +1,112 @@
+
+
+4. Instruction: Given a text file, count the number of occurrences of the word "apple". 
+4. Input: 
+Text file: apples.txt (contains multiple occurrences of the word "apple")
+4. Output: 
+The number of occurrences of the word "apple" in the text file is 27.
+###
+5. Instruction: Provide a synonym for the word "beautiful" from a thesaurus API.
+5. Input: 
+Word: beautiful
+5. Output: 
+A possible synonym for "beautiful" is "gorgeous".
+###
+6. Instruction: Given a set of numbers, identify the mean, median, and mode.
+6. Input:
+Set of numbers: [2, 4, 6, 8, 8, 10, 10, 10]
+6. Output:
+The mean of the set is 7.5. The median of the set is 8. The mode of the set is 10.
+###
+7. Instruction: Generate a list of 10 random quotes retrieved from a quote API.
+7. Input:
+<noinput>
+7. Output:
+1. "The only way to do great work is to love what you do." - Steve Jobs
+2. "Believe you can and you're halfway there." - Theodore Roosevelt
+3. "The best way to predict your future is to create it." - Abraham Lincoln
+4. "Strive not to be a success, but rather to be of value." - Albert Einstein
+5. "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." - Steve Jobs
+6. "Don't let yesterday take up too much of today." - Will Rogers
+7. "If you're offered a seat on a rocket ship, don't ask what seat! Just get on." - Sheryl Sandberg
+8. "You can't build a reputation on what you are going to do." - Henry Ford
+9. "It does not matter how slowly you go as long as you do not stop." - Confucius
+10. "If you want to make your dreams come true, the first thing you have to do is wake up." - J.M. Power
+###
+8. Instruction: Given a paragraph, identify and output the last sentence in the paragraph.
+8. Input:
+Paragraph: The Great Wall of China is the world's longest wall, stretching over 13,000 miles. The main wall, built during the Ming Dynasty, measures nearly 6,000 km, with the remaining sections measuring over 8,000 km. The wall was originally conceived by Emperor Qin Shi Huang in the third century BCE.
+8. Output:
+The wall was originally conceived by Emperor Qin Shi Huang in the third century BCE.
+###
+9. Instruction: Provide the current weather report for the location specified.
+9. Input:
+Location: New York, NY
+9. Output:
+The current temperature in New York, NY is 65°F with mostly sunny skies.
+###
+10. Instruction: Correct the following sentence for grammar and punctuation: "i cant believe he doesnt even know whats going on"
+10. Input: 
+<noinput>
+10. Output:
+I can't believe he doesn't even know what's going on.
+###
+11. Instruction: Provide a summary for the article with the given URL.
+11. Input: 
+URL: https://www.cnn.com/2021/09/27/business/boeing-airbus-climate-change/index.html
+11. Output:
+The world's two biggest airplane makers, Boeing and Airbus, have pledged to lower emissions in the coming decades, but achieving that goal could require a lot of help from the people who design and make the planes' engines, as well as the airlines that buy and fly the aircrafts, experts say.
+###
+12. Instruction: Given a set of text files, find the file that contains the highest number of occurrences of the word "python".
+12. Input: 
+List of text files: file1.txt, file2.txt, file3.txt, file4.txt, file5.txt
+12. Output: 
+The file with the highest number of occurrences of the word "python" is file3.txt with 284 occurrences.
+###
+13. Instruction: Given a sentence, identify and output the parts of speech for each word in the sentence.
+13. Input:
+Sentence: The quick brown fox jumps over the lazy dog.
+13. Output: 
+The (determiner) quick (adjective) brown (adjective) fox (noun) jumps (verb) over (preposition) the (determiner) lazy (adjective) dog (noun).
+###
+14. Instruction: Given a set of text files, find the top 10 most frequent words that appear in any of the files.
+14. Input: 
+List of text files: file1.txt, file2.txt, file3.txt, file4.txt, file5.txt
+14. Output: 
+The top 10 most frequent words that appear in any of the files are: the, and, a, of, to, in, is, that, it, for. 
+###
+15. Instruction: Identify the location of the user from the IP address.
+15. Input: 
+IP address: 145.245.131.176
+15. Output: 
+The user is located in Bangalore, India. 
+###
+16. Instruction: Given a sentence, provide the sentiment score for each word in the sentence.
+16. Input: 
+Sentence: This movie is great, but the acting could have been better.
+16. Output: 
+This (positive sentiment) movie (positive sentiment) is (positive sentiment) great (positive sentiment), but (neutral sentiment) the (neutral sentiment) acting (neutral sentiment) could (neutral sentiment) have (neutral sentiment) been (neutral sentiment) better (positive sentiment).
+###
+17. Instruction: Convert the given image from RGB to grayscale.
+17. Input: 
+Image: rgb_image.jpg
+17. Output: 
+Grayscale image: grayscale_image.jpg
+###
+18. Instruction: Convert the given text to morse code.
+18. Input: 
+Text: Hello, World!
+18. Output: 
+.... . .-.. .-.. --- --..-- / .-- --- .-. .-.. -.. -.-.-- 
+###
+19. Instruction: Given a sentence, replace every other word in the sentence with its antonym.
+19. Input: 
+Sentence: The quick brown fox jumps over the lazy dog.
+19. Output: 
+The slow brown rabbit jumps under the lazy cat.
+###
+20. Instruction: Provide a definition for the specified term using a dictionary API.
+20. Input: 
+Term: cacophony
+20. Output: 
+cacophony (noun) - a harsh, discordant mixture of sounds.

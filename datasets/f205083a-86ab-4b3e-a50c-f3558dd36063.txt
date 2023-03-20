@@ -1,0 +1,111 @@
+4. Instruction: Summarize the plot of a given movie. 
+4. Input: 
+The Godfather.
+4. Output: 
+The Godfather is a movie about a powerful mafia family in New York, led by patriarch Vito Corleone. The story revolves around the conflicts within the family and their involvement in organized crime, culminating in the rise of youngest son Michael to power. 
+###
+5. Instruction: Provide synonyms for a given word. 
+5. Input: 
+happy
+5. Output: 
+gleeful, content, elated, joyful, delighted, pleased, ecstatic, cheerful, merry, overjoyed
+###
+6. Instruction: Correct the spelling of a given word. 
+6. Input: 
+Apear
+6. Output: 
+appear
+###
+7. Instruction: Provide the opposite of a given word. 
+7. Input: 
+fast
+7. Output: 
+slow
+###
+8. Instruction: Given a quote, name the author. 
+8. Input: 
+"To be or not to be, that is the question."
+8. Output: 
+William Shakespeare
+###
+9. Instruction: Complete the analogy by choosing the correct option.
+9. Input: 
+Dog is to puppy as cat is to ____
+(A) kitten
+(B) cub
+(C) foal
+(D) chick
+9. Output: 
+A
+###
+10. Instruction: Given a word, find its definition. 
+10. Input: 
+obfuscate
+10. Output: 
+To make obscure, unclear, or unintelligible. 
+###
+11. Instruction: Answer a math question. 
+11. Input: 
+What is the square root of 64? 
+11. Output: 
+8
+###
+12. Instruction: Explain the meaning of a given idiom. 
+12. Input: 
+Break a leg.
+12. Output: 
+"Break a leg" means good luck or success in a performance or task. It is a common expression used in the entertainment industry to wish someone luck before a show. The origin of the phrase is uncertain, but some speculate that it originated as a way to ward off bad luck by wishing for the opposite.
+###
+13. Instruction: Rearrange the words to make a complete sentence. 
+13. Input: 
+coffee I drink every morning.
+13. Output: 
+I drink coffee every morning.
+###
+14. Instruction: Provide the capital city of a given country. 
+14. Input: 
+France
+14. Output: 
+Paris
+###
+15. Instruction: Fill in the blank in a sentence.
+15. Input: 
+She _____ to the store yesterday. 
+15. Output: 
+went 
+###
+16. Instruction: Identify the type of a given triangle. 
+16. Input: 
+a triangle with sides of length 5, 7, and 9
+16. Output: 
+scalene
+###
+17. Instruction: Reorder the sentences to form a coherent paragraph. 
+17. Input: 
+2. Maria went to the supermarket to buy some groceries. 
+3. Her shopping list included milk, bread, and eggs. 
+1. She parked her car in the lot and grabbed a cart. 
+4. She browsed the aisles, adding a few extra items to her cart along the way. 
+17. Output: 
+1. She parked her car in the lot and grabbed a cart.
+2. Maria went to the supermarket to buy some groceries.
+3. Her shopping list included milk, bread, and eggs.
+4. She browsed the aisles, adding a few extra items to her cart along the way. 
+###
+18. Instruction: List the planets in the solar system. 
+18. Input: 
+<noinput>
+18. Output: 
+Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+###
+19. Instruction: Identify the missing word in a sentence. 
+19. Input: 
+My favorite __ is ice cream. 
+19. Output: 
+food
+###
+20. Instruction: Fill in the blank with a suitable preposition in a sentence. 
+20. Input: 
+I walked ____ the coffee shop. 
+20. Output: 
+to

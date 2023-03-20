@@ -1,0 +1,105 @@
+4. Instruction: Summarize the given text in a single sentence.
+4. Input: 
+The city of Venice, located in northeastern Italy in the Venetian Lagoon, is actually made up of over 100 islands all connected by bridges. Venice originally began as a haven for refugees fleeing Gothic and Lombard invasions, and eventually became the capital of the Byzantine Empire for many centuries. Known as the "City of Canals," Venice is well known for its abundant art, history, and culture, as well as its yearly carnival, which draws thousands of tourists each year.
+4. Output: 
+Venice is a unique Italian city, made up of 100 islands connected by bridges, that began as a refugee haven, becoming the Byzantine Empire's capital, and is now famous for its art, history, and yearly carnival.
+
+5. Instruction: Translate the given English sentence to French.
+5. Input: 
+She is studying for her chemistry exam.
+5. Output: 
+Elle étudie pour son examen de chimie.
+
+6. Instruction: Identify the tone in the given text. Choices: formal, informal, casual, sarcastic, or humorous.
+6. Input: 
+Can you believe it? After all these years of struggle, our team finally made it to the top! I guess miracles do happen, huh?
+6. Output: 
+humorous
+
+7. Instruction: List five possible causes for global warming.
+7. Input: 
+<noinput>
+7. Output: 
+1. Burning of fossil fuels
+2. Deforestation
+3. Industrial processes and emissions
+4. Agricultural practices
+5. Increased use of personal transportation
+
+8. Instruction: Correct any grammar and punctuation mistakes in the given text.
+8. Input: 
+The advertisings new strategy aims to attract, more customers, and increase revenue! it will focus on social media, advertising and influencer partnerships; along with seasonal promotions...
+8. Output: 
+The advertising’s new strategy aims to attract more customers and increase revenue. It will focus on social media advertising, influencer partnerships, and seasonal promotions.
+
+9. Instruction: Identify whether the statement is a fact or an opinion. 
+9. Input: 
+Cats are the best pets.
+9. Output: 
+opinion
+
+10. Instruction: Who wrote the book "To Kill a Mockingbird"?
+10. Input: 
+<noinput>
+10. Output: 
+Harper Lee
+
+11. Instruction: Write a haiku about a rainy day.
+11. Input: 
+<noinput>
+11. Output: 
+Raindrops gently fall,
+Umbrellas blooming like spring,
+Earth sighs, life renews.
+
+12. Instruction: Suggest a catchy slogan for a coffee shop.
+12. Input: 
+<noinput>
+12. Output: 
+Arouse Your Senses, Taste the Adventure!
+
+13. Instruction: Detect and find the hidden word in the following text. Use the first letters of each sentence.
+13. Input: 
+Can you please help
+After our discussion
+Take what you need
+14. Output: 
+CAT
+
+15. Instruction: Calculate the area of a circle with a radius of 8 cm. Round to the nearest whole number.
+15. Input: 
+<noinput>
+15. Output: 
+201 cm²
+
+16. Instruction: Identify the musical instruments used in the given song lyrics.
+16. Input: 
+I took my guitar and started to play
+The rhythm was strong, the drums like a storm
+A trumpet wailing in the background, all day
+16. Output: 
+guitar, drums, trumpet
+
+17. Instruction: Identify the literary device used in the given sentence.
+17. Input: 
+All the world's a stage, and all the men and women merely players.
+17. Output: 
+metaphor
+
+18. Instruction: Explain the difference between renewable and non-renewable energy sources.
+18. Input: 
+<noinput>
+18. Output: 
+Renewable energy sources are inexhaustible and can be replenished over time, such as solar, wind, and hydro energy, whereas non-renewable sources are finite and deplete over time, such as coal, oil, and natural gas.
+
+19. Instruction: Suggest a creative title for an article about the connection between human health and exposure to nature.
+19. Input: 
+<noinput>
+19. Output: 
+Nature's Prescription: Unlocking the Healing Power of the Great Outdoors
+
+20. Instruction: Analyze the given line from the Romeo and Juliet play, and explain its meaning.
+20. Input: 
+"What's in a name? That which we call a rose by any other name would smell as sweet."
+20. Output: 
+The line questions the significance of names, suggesting that a name doesn't define the essence or qualities of a thing or person, and that a rose would still have the same inherent qualities, even if it were called something else.

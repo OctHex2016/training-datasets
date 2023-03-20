@@ -1,0 +1,128 @@
+4. Instruction: Generate a catchy title for a blog post about the benefits of meditation. 
+4. Input: 
+<noinput>
+4. Output: 
+"Mindful Meditation: Unleashing the Power Within", "The Surprising Benefits of Sitting Still: Exploring the World of Meditation", "From Chaos to Calm: Understanding the Power of Meditation", "The Secret to a Balanced Life: Discovering the Art of Meditation"
+###
+5. Instruction: Provide a recipe for making homemade pizza dough. 
+5. Input: 
+<noinput>
+5. Output: 
+Ingredients:
+· 3 ½ cups all-purpose flour
+· 1 tsp sugar
+· 1 tsp salt
+· 1 package instant yeast
+· 1 ½ cups warm water
+· 3 tbsp olive oil
+
+Instructions:
+1. In a large bowl, combine flour, sugar, and salt.
+2. Add yeast and water to the mixture and stir.
+3. Knead the dough for 5-10 mins till it becomes smooth.
+4. Grease another bowl with olive oil and place the dough in it.
+5. Cover the bowl with a kitchen towel and let the dough rise for an hour.
+6. Once the dough is ready, punch it down and knead it for a few more minutes.
+7. Flatten and roll the dough to your desired thickness.
+Enjoy your homemade pizza!
+###
+6. Instruction: Explain the concept of artificial intelligence to a non-technical person. 
+6. Input: 
+<noinput>
+6. Output: 
+Artificial intelligence (AI) is the ability of machines to mimic human-like intelligent behavior, such as learning from experiences, recognizing speech, making decisions, and solving problems. So, it involves making computer systems that can perform tasks that typically only humans are able to do.
+###
+7. Instruction: Suggest a way to improve communication skills. 
+7. Input: 
+<noinput>
+7. Output: 
+One way to improve communication skills is to actively listen to the other person. Pay attention to their body language, be empathetic, and try to understand their perspective. It is also important to communicate clearly, concisely, and assertively.
+###
+8. Instruction: Edit the given sentence to remove passive voice. 
+8. Input: 
+Sentence: The cake was baked by Sarah. 
+8. Output: 
+Sarah baked the cake. 
+### 
+9. Instruction: Provide an example of a palindrome. 
+9. Input: 
+<noinput>
+9. Output: 
+"Racecar", "A man, a plan, a canal, Panama!", "Madam, I'm Adam", "Never odd or even".
+### 
+10. Instruction: Explain the concept of a black hole. 
+10. Input: 
+<noinput>
+10. Output: 
+A black hole is a region in space where gravity pulls everything, including light, and prevents it from escaping. This is because of the enormous mass of the object that creates a gravitational force so strong that nothing can escape it, not even light.###
+11. Instruction: Suggest ways to improve productivity. 
+11. Input: 
+<noinput>
+11. Output: 
+There are various ways to improve productivity, such as creating a to-do list, breaking down a large task into smaller ones, taking timely breaks, and eliminating distractions. Prioritizing your tasks and setting deadlines can also help you become more productive.
+###
+12. Instruction: Identify the type of figurative language in the sentence. 
+12. Input: 
+Sentence: She is a ray of sunshine. 
+12. Output: 
+Simile. 
+### 
+13. Instruction: Explain how to solve a Rubik's cube. 
+13. Input: 
+<noinput>
+13. Output: 
+To solve the Rubik's cube, you need to follow a set of steps:
+1. Solve the first layer: create a white cross by pairing up edge pieces.
+2. Solve the first layer corners by aligning the corner to its respective color on the side.
+3. Solve the second layer by pairing up the middle layer edges with their matching side centers.
+4. Solve the final layer by orienting the last yellow layer edges to create a yellow cross and aligning the corners accurately.
+5. Permute the corners and edges to finish the solve.
+It takes practice, but anyone can solve the Rubik's cube with patience and perseverance.
+###
+14. Instruction: Provide an example of a hyperbole. 
+14. Input: 
+<noinput>
+14. Output: 
+"I've been waiting for this moment my whole life", "I'm so hungry, I could eat a horse", "He's running faster than the speed of light", "It's so cold outside, I'm pretty sure I just saw a penguin".
+###
+15. Instruction: Combine the given sentences into one sentence using a semicolon. 
+15. Input: 
+Sentences: The weather was terrible. We still went out for a walk. 
+15. Output: 
+The weather was terrible; nevertheless, we still went out for a walk. 
+### 
+16. Instruction: Suggest a topic for a persuasive speech or essay. 
+16. Input: 
+<noinput>
+16. Output: 
+"The importance of volunteering in building a better community", "The benefits of living a minimalist lifestyle", "Why recreational marijuana should be legalized", "The harmful effects of plastic on the environment".
+### 
+17. Instruction: Describe the process of making coffee using a french press. 
+17. Input: 
+<noinput>
+17. Output: 
+To make coffee using a French press:
+1. Boil water.
+2. Grind coffee beans coarsely and add them to the French press.
+3. Pour hot water into the French press over the coffee grounds.
+4. Let it steep for about 4 minutes.
+5. Press the plunger down to the bottom to separate the coffee grinds from the liquid coffee.
+6. Pour into a cup and enjoy!
+###
+18. Instruction: Provide an analogy for how the internet works. 
+18. Input: 
+<noinput>
+18. Output: 
+The internet can be compared to a library - it is a vast collection of information stored in one place and organized in a way that allows people to easily access and find what they're looking for. Just as libraries use a system of cataloging and classification to arrange books, the internet uses protocols and networks to organize and transfer data between computers.
+### 
+19. Instruction: Provide a synonym for "famous". 
+19. Input: 
+Word: famous
+19. Output: 
+Renowned, celebrated, well-known, popular, distinguished.
+### 
+20. Instruction: Correct the given sentence to use proper subject-verb agreement. 
+20. Input: 
+Sentence: The group of runners was all very tired. 
+20. Output: 
+The group of runners were all very tired.

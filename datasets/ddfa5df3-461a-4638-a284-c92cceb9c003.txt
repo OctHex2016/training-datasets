@@ -1,0 +1,105 @@
+4. Instruction: Convert the given phrase into a question.
+4. Input: 
+She's going to the dentist today.
+4. Output: 
+Is she going to the dentist today?
+###
+5. Instruction: Correct the grammar and punctuation of the given sentence.
+5. Input: 
+the Cats tail, wagged furiously she spotded her favorite play; toy
+5. Output: 
+The cat's tail wagged furiously as she spotted her favorite play toy.
+###
+6. Instruction: Write a tongue twister using the given subject.
+6. Input: 
+Seagulls
+6. Output: 
+Seven sly seagulls swiftly snatched salty snacks while soaring above the seashore.
+###
+7. Instruction: Find out the name of the 9th president of the United States.
+7. Input: 
+<noinput>
+7. Output: 
+William Henry Harrison
+###
+8. Instruction: Write a haiku about the given concept.
+8. Input: 
+Rainforest
+8. Output: 
+Murmurs in green depths,
+Life dances through tangled vines,
+Rain whispers secrets.
+###
+9. Instruction: Respond to the given scenario with empathy.
+9. Input: 
+My dog just passed away, and I'm feeling really down.
+9. Output: 
+I am so sorry to hear about your dog's passing. It's never easy to lose a beloved pet, as they are such an integral part of our lives. Please know that it's okay to grieve and take the time you need to process your loss. If you'd like to talk about your memories of your dog or need someone to listen, I am here for you.
+###
+10. Instruction: Interpret the meaning of the given proverb.
+10. Input: 
+Actions speak louder than words.
+10. Output: 
+This proverb means that what a person does is more meaningful and carries more weight than what they say. One's actions have a greater impact on others than mere words or promises.
+###
+11. Instruction: Identify two possible themes in the given story.
+11. Input: 
+John, a successful businessman, decides to visit his estranged father in his hometown. They go on a fishing trip and, through heart-to-heart conversations, bridge the gap that had grown between them over the years. The story ends with John realizing the importance of family ties and promising to visit more often.
+11. Output: 
+1. The importance of family connections and relationships.
+2. Forgiveness and reconciliation between estranged family members.
+###
+12. Instruction: Name one main environmental issue affecting the Great Barrier Reef.
+12. Input: 
+<noinput>
+12. Output: 
+Coral bleaching due to climate change.
+###
+13. Instruction: Provide a short, assertive statement related to the given phrase.
+13. Input: 
+Equal pay for equal work
+13. Output: 
+Pay inequality must end; fairness demands equal pay for equal work!
+###
+14. Instruction: Given a phrase, rephrase it from a negative perspective.
+
+14. Input: 
+She is always helpful and kind.
+14. Output: 
+She is never unhelpful or unkind.
+###
+15. Instruction: Advise on how to avoid procrastination.
+15. Input: 
+<noinput>
+15. Output: 
+To avoid procrastination, employ these strategies: set specific goals and deadlines, break tasks into smaller, manageable chunks, create a schedule, establish a productive work environment, eliminate distractions, prioritize tasks, and reward yourself for completing tasks on time. Also, maintain a healthy balance between work and leisure time, as this can help you recharge and stay focused on your goals.
+###
+16. Instruction: What is the capital of Sweden?
+16. Input: 
+<noinput>
+16. Output: 
+Stockholm
+###
+17. Instruction: Analyze the cause of the given problem and suggest one solution.
+17. Input: 
+Rising plastic waste in the ocean is negatively impacting marine life.
+17. Output: 
+One primary cause of rising plastic waste in the ocean is the overuse and improper disposal of single-use plastics. A solution to this problem is to reduce our consumption of single-use plastics, such as straws, plastic bags, and bottles, by opting for reusable alternatives and promoting recycling initiatives in communities.
+###
+18. Instruction: Compliment the given aspect of a person's work.
+18. Input: 
+dedication to helping others through volunteering
+18. Output: 
+Your unwavering dedication to helping others through volunteering is truly admirable, and it shows your compassionate and selfless nature. You make such a positive impact on the lives of those around you.
+###
+19. Instruction: Estimate the answer to the given math problem.
+19. Input: 
+234 x 98 ≈ ?
+19. Output: 
+Approximately 23,000
+###
+20. Instruction: State the importance of the following scientific concept.
+20. Input: 
+Photosynthesis
+20. Output: 
+Photosynthesis is crucial to life on Earth, as it is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This chemical reaction provides these organisms with energy for growth and supports the food chain in ecosystems. Additionally, photosynthesis plays a vital role in maintaining the Earth's atmosphere by releasing oxygen and sequestering carbon dioxide, helping to regulate the planet's climate.

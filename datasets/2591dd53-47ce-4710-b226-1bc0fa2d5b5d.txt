@@ -1,0 +1,119 @@
+4. Instruction: Write a headline for this story about a marathon race in the city:
+4. Input: 
+The Chicago Marathon went smoothly last weekend for 40,000 runners of all ages and nationalities.
+4. Output: 
+Over 40,000 runners finish the Chicago Marathon. 
+###
+5. Instruction: Create a convincing line of dialogue for a character in a romantic novel trying to apologize to his/her partner.
+5. Input: 
+<noinput>
+5. Output: 
+"I'm really sorry I didn't show up. I know I messed up big time, but if there's any way you could forgive me and give me another chance, I'll make it up to you." 
+###
+6. Instruction: Rewrite this text to increase the reading level: 
+6. Input: 
+The cat sat on the mat. The mat was nice and cozy. The cat was happy on the mat.
+6. Output: 
+The feline took a seat atop the mat which oozed with warmth and comfort. The animal felt joyous and content while lounging on this mat. 
+###
+7. Instruction: Write a question that could be given to a chatbot in order to get a location-based recommendation.
+7. Input: 
+<noinput>
+7. Output: 
+What are some good sushi restaurants in the downtown area?
+###
+8. Instruction: Write a description to sell this product: 
+8. Input: 
+A handcrafted Italian leather handbag, made in Italy.
+8. Output: 
+This brilliantly designed bag is made entirely by hand using high-quality Italian leather. The bag's opulence and Italian origin add a touch of sophistication to your overall appearance that is unparalleled.
+###
+9. Instruction: Correct the spelling and grammer errors in the following sentence:
+9. Input: 
+Im really looking forward to see the movie tonite, i think it will be very fun.
+9. Output: 
+"I'm really looking forward to seeing the movie tonight. I think it will be a lot of fun." 
+###
+10. Instruction: Write a tweet summarizing the impact of the new immigration policy. 
+10. Input: 
+Immigrants who earn less than $73K per year will no longer qualify for US visas.
+10. Output:
+USA's new immigration policy disqualifies low-income migrants. 
+###
+11. Instruction: Provide instructions on how to bake a chocolate cake:
+11. Input: 
+<noinput>
+11. Output: 
+1. Preheat the oven to 350°F.
+2. Grease and flour three 8-inch round cake pans.
+3. In a bowl, mix flour, sugar, cocoa powder, baking powder, baking soda, and salt together.
+4. In another bowl, mix eggs, soured milk, oil, and vanilla extract together.
+5. Gradually pour the dry ingredients into the wet ingredients, whisking constantly.
+6. Pour the batter into the cake pans and bake for 25 to 30 minutes.
+7. After completely cooling, add frosting of your choice. 
+###
+12. Instruction: Provide a step-by-step guide for yoga beginners on how to do Sun Salutation:
+12. Input: 
+<noinput>
+12. Output: 
+1. Begin with the Mountain Pose (Tadasana), standing upright with your feet together and hands at the side.
+2. Inhale and raise your arms above.
+3. Exhale and fold your body forward into the forward bend position (Uttanasana).
+4. Inhale and lift your torso half-way up with your hands on the knees or shins.
+5. Exhale and step back into the high plank position.
+6. Lower your body to the floor.
+7. Inhale and straighten your arms to lift your chest to the Cobra Pose (Bhujangasana).
+8. Exhale and push up into the Downward Dog Pose (Adho Mukha Svanasana).
+9. Repeat from step 2. 
+###
+13. Instruction: Write a summary of the company's quarterly earnings report:
+13. Input: 
+Tech giant Apple Inc. reported earnings for its second fiscal quarter yesterday. With total revenue of $89.6 billion for Q2 2021, Apple’s iPhone sales accounted for nearly half of the sales.
+13. Output: 
+Apple reports a total revenue of $89.6 billion for Q2 2021, with iPhone sales accounting for almost half of the sales.
+###
+14. Instruction: Give tips to keep your diet on track while traveling:
+14. Input: 
+<noinput>
+14. Output: 
+1. Research healthy options near your hotel in advance.
+2. Eat three regular-sized meals every day.
+3. Avoid snacks that are high in sugar or carbohydrates.
+4. Stay hydrated by drinking plenty of water.
+5. Opt for smaller portions of high calorie foods. 
+###
+15. Instruction: Write a suggestion for a motivational book:
+15. Input: 
+<noinput>
+15. Output: 
+"Mindset: The New Psychology of Success" by Carol S. Dweck explains how someone’s mindset influences their innate abilities and the quality of life they lead. This book will inspire you to embrace a growth mindset and achieve the success you deserve in all areas of your life. 
+###
+16. Instruction: What is the nearest hospital to address a medical emergency in downtown Indianapolis? 
+16. Input: 
+<noinput>
+16. Output: 
+The nearest hospital to address a medical emergency in downtown Indianapolis is the IU Health Methodist Hospital, located at 1701 North Senate Boulevard, Indianapolis IN. 
+###
+17. Instruction: What is Naomi Osaka's current tennis world ranking? 
+17. Input: 
+<noinput>
+17. Output: 
+Naomi Osaka is currently ranked as the number 2 women's tennis player in the world. 
+###
+18. Instruction: Write a summary of a recent scientific breakthrough:
+18. Input: 
+A team at the University of Columbia discovered a new method for synthesizing ribonucleotides, the building blocks of RNA molecules. The success of this discovery could lead to the creation of new antiviral drugs that could help cure coronavirus and other viral infections.
+18. Output: 
+Scientists at the University of Columbia discover a new method for synthesizing RNA molecules that has the potential to create new antiviral drugs for coronavirus and other viruses. 
+###
+19. Instruction: Edit the following job advertisement for a software engineer to attract more candidates:
+19. Input: 
+Wanted: Software Engineer. We need someone who is proficient in Java, Python, and Ruby. We offer competitive pay and benefits. Monday-Friday, 9am-5pm.
+19. Output: 
+We are seeking a talented Software Engineer who loves solving complex problems with innovative solutions. A successful candidate must have expertise in Java, Python, or Ruby. We offer a highly competitive compensation package, amazing work culture, and flexible work hours. Join our exciting team and help drive our growth! 
+###
+20. Instruction: Write a prompt for creative writing: 
+20. Input: 
+<noinput>
+20. Output: 
+Write a short story about a man who comes home to find two pets, a dog and a cat, engaged in a heated debate.

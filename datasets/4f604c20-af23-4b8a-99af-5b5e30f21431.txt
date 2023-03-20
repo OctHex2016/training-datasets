@@ -1,0 +1,134 @@
+4. Instruction: Convert the following passage into a 5 item bullet-point summary.
+4. Input:
+The report indicates that global warming is causing key changes in ocean temperature, acidity, and sea levels. This is negatively affecting the marine ecosystem, leading to the loss of critical habitats such as coral reefs. Moreover, the melting of ice caps and glaciers is increasing sea levels, resulting in submersion and erosion of coastal areas. These impacts on our environment not only have ecological consequences but potentially dire social and economic implications. It is estimated that by 2050, 200 million people could be displaced due to climate-induced migration, which could lead to serious human security threats.
+
+4. Output:
+- Global warming triggers changes in ocean temperature, acidity, and sea levels.
+- Marine ecosystems are negatively affected, with habitat loss like coral reefs.
+- Melting ice caps and glaciers contribute to rising sea levels and coastal erosion.
+- Ecological, social, and economic implications arise from climate change impacts.
+- By 2050, climate-induced migration may displace 200 million people, causing human security threats.
+
+###
+5. Instruction: Pretend you are a weather reporter and provide a brief weather forecast for tomorrow.
+5. Input:
+<noinput>
+5. Output:
+Tomorrow's weather forecast shows mostly sunny skies with a high of 75°F and a low of 55°F. A gentle breeze will be blowing from the West, making it a pleasant day for outdoor activities. There is only a 10% chance of rain, so be prepared for a lovely day ahead!
+
+###
+6. Instruction: Identify the grammatical error in the sentence and provide the corrected version.
+6. Input:
+If she plans the trip carefully, her and her friends will have a great time.
+6. Output:
+If she plans the trip carefully, she and her friends will have a great time.
+
+###
+7. Instruction: Explain the process of photosynthesis in three steps.
+7. Input:
+<noinput>
+7. Output:
+1. Absorption of sunlight: The plant's chlorophyll absorbs light energy from the sun.
+2. Conversion to chemical energy: The light energy is used to convert carbon dioxide and water into glucose and oxygen through a series of chemical reactions.
+3. Release of oxygen: The glucose is used by the plant for growth and energy, and oxygen is released as a byproduct.
+
+###
+8. Instruction: Translate the following sentence into French.
+8. Input:
+I had a great day at the beach with my friends.
+8. Output:
+J'ai passé une excellente journée à la plage avec mes amis.
+
+###
+9. Instruction: Write a haiku, a traditional Japanese poem, about the beauty of nature.
+9. Input:
+<noinput>
+9. Output:
+Gentle stream flows,
+Leaves dance in the autumn wind,
+Nature's grand embrace.
+
+###
+10. Instruction: List four major types of renewable energy sources.
+10. Input:
+<noinput>
+10. Output:
+1. Solar energy
+2. Wind energy
+3. Hydropower
+4. Geothermal energy
+
+###
+11. Instruction: Provide a palindrome, a word that reads the same backward as forward.
+11. Input:
+<noinput>
+11. Output:
+Racecar
+
+###
+12. Instruction: Guess what type of animal the following riddle describes.
+12. Input:
+I am a large mammal that is one of the rarest types of my species. I am well-adapted to living in aquatic environments and have a distinctive horn-like tooth. What animal am I?
+12. Output:
+Narwhal
+
+###
+13. Instruction: Identify the main idea of this passage:
+13. Input:
+Typically, people think of ants as small and insignificant creatures that scurry about to gather and store food. However, ants are incredibly complex and fascinating creatures with well-developed social structures. Ant colonies are divided into different classes, with each class assigned specific roles and responsibilities. This division of labor is essential to the survival of the colony and its ability to gather food, maintain their habitat, and protect it from predators.
+
+13. Output:
+The main idea of the passage is that ants are complex creatures with well-developed social structures and a division of labor that supports their colony's survival and maintenance.
+
+###
+14. Instruction: Write a short review for a fictional movie called "Journey to the Distant Star."
+14. Input:
+<noinput>
+14. Output:
+"Journey to the Distant Star" is a visually stunning and emotionally gripping sci-fi adventure. The movie follows the journey of a diverse crew venturing into the unknown depths of space to find a new home for humanity. The breathtaking visuals coupled with awe-inspiring storytelling create an immersive experience that captivates the audience from start to finish. Each character is beautifully portrayed, adding depth and complexity to the narrative. Overall, "Journey to the Distant Star" is a must-watch for science fiction and adventure-lovers alike.
+
+###
+15. Instruction: Describe how to make a classic peanut butter and jelly sandwich.
+15. Input:
+<noinput>
+15. Output:
+1. Take two slices of white or whole wheat bread.
+2. Spread a generous amount of peanut butter onto one slice of bread using a butter knife.
+3. Spread a complementary layer of jelly or jam onto the other slice of bread.
+4. Gently press the two slices of bread together, with the peanut butter and jelly sides facing each other.
+5. Cut the sandwich diagonally or into smaller pieces, if desired, and enjoy!
+
+###
+16. Instruction: Re-write the following sentence in passive voice.
+16. Input:
+Researchers are conducting a study to learn more about the effects of climate change on wildlife.
+16. Output:
+A study is being conducted by researchers to learn more about the effects of climate change on wildlife.
+
+###
+17. Instruction: Provide advice for someone having trouble falling asleep.
+17. Input:
+<noinput>
+17. Output:
+Establish a consistent bedtime routine, such as reading or taking a warm bath before sleep. Make sure your bedroom environment is comfortable, dark, and quiet. Try relaxation techniques like deep breathing exercises or meditation. Limit caffeine intake, heavy meals, and electronic usage before bedtime. If you still have trouble falling asleep, consider consulting a healthcare professional for additional recommendations.
+
+###
+18. Instruction: Calculate the area of a circle with a radius of 5 cm.
+18. Input:
+<noinput>
+18. Output:
+≈ 78.54 square cm (using the formula A=πr², where r = 5 cm)
+
+###
+19. Instruction: Write a complex sentence using the words "pollution" and "city."
+19. Input:
+<noinput>
+19. Output:
+As pollution levels rise in the city, more people are experiencing health issues like respiratory problems and allergies.
+
+###
+20. Instruction: Correct the following factually incorrect statement: "The capital city of Spain is Valencia."
+20. Input:
+<noinput>
+20. Output:
+The capital city of Spain is Madrid.

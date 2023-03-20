@@ -1,0 +1,59 @@
+4. Instruction: Review the text with some suggestions for improvement.
+
+4. Input: 
+the dogs is in the house, and it beging to raining outside.
+
+4. Output: 
+Consider revising the text to: "The dog is in the house, and it's beginning to rain outside."
+
+5. Instruction: List five key milestones in the history of the internet.
+
+5. Input: 
+<noinput>
+
+5. Output: 
+1. ARPANET: The first network to use packet switching technology is launched in 1969.
+2. Email: Ray Tomlinson invents and sends the first email message in 1971.
+3. TCP/IP: Vinton Cerf and Robert Kahn develop TCP/IP in 1973, which becomes the standard protocol for the internet.
+4. World Wide Web: Tim Berners-Lee invents the World Wide Web in 1989, with the first website going online in 1991.
+5. Google: In 1998, Larry Page and Sergey Brin launch Google, the most widely used search engine today.
+
+6. Instruction: Identify the musical style of the given song lyrics and explain what makes it distinct.
+
+6. Input: 
+Is this the real life? Is this just fantasy?
+Caught in a landslide, no escape from reality.
+Open your eyes, look up to the skies and see.
+
+6. Output: 
+These lyrics are from the song "Bohemian Rhapsody" by the band Queen, and represent a mixture of progressive rock and opera. What makes this style distinct is the combination of poetic lyrics, with the integration of multiple musical segments transitioning from ballad to opera, then rock, and finally back to ballad.
+
+7. Instruction: Translate the following English sentence into French.
+
+7. Input: 
+The beautiful butterfly is landing on the flower.
+
+7. Output: 
+Le beau papillon se pose sur la fleur.
+
+8. Instruction: What are the main production steps of red wine?
+
+8. Input: 
+<noinput>
+
+8. Output: 
+1. Harvesting grapes: Red wine is made from dark-colored grape varieties.
+2. Crushing and destemming: Grapes are mechanically crushed, and their stems are removed.
+3. Fermentation: Crushed grapes are placed in fermentation tanks with yeast; sugar in the grapes converts into alcohol.
+4. Maceration: Grape skins, seeds, and pulp are left to soak in the juice, giving red wine its color and tannins.
+5. Pressing: The solid parts are separated from the liquid, leaving red wine.
+6. Aging: The wine is transferred to oak barrels or stainless steel tanks to age and develop its flavors.
+7. Bottling: The wine is bottled after reaching its desired taste and quality. 
+
+9. Instruction: State whether the given statement is true or false.
+
+9. Input: 
+Earth revolves around the sun.
+
+9. Output: 
+True

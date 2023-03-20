@@ -1,0 +1,134 @@
+4. Instruction: Translate the sentence into French. 
+4. Input: 
+Hello, how are you?
+4. Output: 
+Bonjour, comment ça va?
+
+5. Instruction: Summarize the main point of the given text.
+5. Input: 
+Genetic engineering has revolutionized the field of agriculture by enhancing the nutritional content and yield of crops. However, opponents argue that genetically modified organisms (GMOs) can have adverse effects on human health and the environment. Despite the controversy surrounding GMOs, they have the potential to contribute to global food security and reduce the environmental impact of agriculture. Thus, it is crucial for ongoing research and dialogue to address the potential risks and benefits of GMOs in agriculture.
+5. Output: 
+Genetic engineering improves agricultural yield and nutrition but raises concerns about human health and environmental impact; research and dialogue are needed to assess risks and benefits.
+
+6. Instruction: List three sports that use a ball.
+6. Input: 
+<noinput>
+6. Output: 
+- Soccer
+- Basketball
+- Tennis
+
+7. Instruction: Identify whether the given statement is a fact or opinion.
+7. Input: 
+Vegan diets are healthier than non-vegan diets.
+7. Output: 
+Opinion
+
+8. Instruction: Write a limerick with a humorous twist.
+8. Input: 
+<noinput>
+8. Output: 
+There once was a man from Peru
+Who dreamed he was eating his shoe
+He woke with a fright
+In the middle of the night
+To find that his dream had come true
+
+9. Instruction: Identify the grammatical error in the given sentence and correct it.
+9. Input: 
+Me and my friend went to the store.
+9. Output: 
+My friend and I went to the store.
+
+10. Instruction: List three famous mathematicians and their contributions.
+10. Input: 
+<noinput>
+10. Output: 
+- Isaac Newton: Developed Calculus
+- Euclid: Founded Geometry
+- Alan Turing: Pioneered Computer Science and Artificial Intelligence
+
+11. Instruction: Define the term "aphelion" in astronomy.
+11. Input: 
+<noinput>
+11. Output: 
+In astronomy, "aphelion" refers to the point in an object's elliptical orbit around the Sun where it is farthest away from the Sun.
+
+12. Instruction: Write a haiku about springtime.
+12. Input: 
+<noinput>
+12. Output: 
+Cherry blossoms bloom
+Soft whispers of new life stir
+Spring awakens earth
+
+13. Instruction: Determine the theme of the given poem.
+13. Input: 
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+(Robert Frost, "The Road Not Taken")
+13. Output: 
+The theme of the poem is the importance of making choices and the consequences that come with them.
+
+14. Instruction: Recommend a book for a young adult who loves science fiction.
+14. Input: 
+<noinput>
+14. Output: 
+I recommend "Ender's Game" by Orson Scott Card for a young adult who loves science fiction.
+
+15. Instruction: Proofread the given sentence and correct any punctuation errors.
+15. Input: 
+Yesterday I went to the store I bought apples, oranges: and bananas.
+15. Output: 
+Yesterday, I went to the store. I bought apples, oranges, and bananas.
+
+16. Instruction: Explain the concept of supply and demand in economics.
+16. Input: 
+<noinput>
+16. Output: 
+In economics, supply and demand refers to the interaction between the availability of goods or services (supply) and the consumers' desire for those goods or services (demand). This interaction determines the market price and the quantity of the good or service produced and consumed.
+
+17. Instruction: Write an encouraging message to a friend facing a challenge.
+17. Input: 
+<noinput>
+17. Output: 
+Hey there, I know you're facing a tough challenge right now, but remember, you're strong and capable of overcoming obstacles. Take one step at a time, and don't forget that I'm here for support whenever you need it. You've got this!
+
+18. Instruction: Choose the best synonym for the word "ebullient."
+18. Input: 
+<noinput>
+18. Output: 
+Exuberant
+
+19. Instruction: Explain the main differences between aerobic and anaerobic exercises.
+19. Input: 
+<noinput>
+19. Output: 
+Aerobic exercises are activities that increase heart rate and breathing for an extended period, improving oxygen consumption and cardiovascular endurance. Examples include running, swimming, and cycling. Anaerobic exercises involve short bursts of intense activity, typically focusing on muscle strength and power. Examples include weightlifting and sprinting.
+
+20. Instruction: Name the capital city of Australia.
+20. Input: 
+<noinput>
+20. Output: 
+Canberra

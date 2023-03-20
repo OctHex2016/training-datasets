@@ -1,0 +1,106 @@
+4. Instruction: Generate a summary of the following article. 
+4. Input: 
+Title: How to Stay Productive When Working From Home
+Article: Here are some tips to help boost your productivity while working from home: create a designated workspace, establish a routine and stick to it, take breaks and get some fresh air, prioritize tasks, and stay connected with colleagues.
+4. Output: 
+Tips for staying productive while working from home include creating a designated workspace, establishing and sticking to a routine, taking breaks, prioritizing tasks, and staying connected with colleagues.
+###
+5. Instruction: Identify the literary device used in the following sentence. 
+5. Input: 
+The fog crept in on little cat feet.
+5. Output: 
+Personification.
+###
+6. Instruction: Correct the grammar error in the following sentence. 
+6. Input: 
+I should of studied harder for the exam.
+6. Output: 
+I should have studied harder for the exam.
+###
+7. Instruction: Generate a sentence using the given prompt. 
+7. Input: 
+Prompt: The beach
+7. Output: 
+I love going to the beach on hot summer days to swim and soak up the sun.
+###
+8. Instruction: Rewrite the following sentence in passive voice. 
+8. Input: 
+The dog chased the ball.
+8. Output: 
+The ball was chased by the dog.
+###
+9. Instruction: Generate a list of three possible synonyms for the word "happy". 
+9. Input: 
+<noinput>
+9. Output: 
+1. Joyful
+2. Content
+3. Pleased
+###
+10. Instruction: Suggest a good book to read based on the following criteria. 
+10. Input: 
+I want to read a mystery novel set in a small town. 
+10. Output: 
+I recommend "Still Life" by Louise Penny. It is set in a small town and features a murder investigation. ###
+11. Instruction: Create a catchy slogan for the new product launch. 
+11. Input: 
+New coffee brand "Morning Bliss". 
+11. Output: 
+Experience pure bliss in every cup with our new coffee brand, "Morning Bliss". 
+### 
+12. Instruction: Identify the capital city of the given country. 
+12. Input: 
+France
+12. Output: 
+Paris
+### 
+13. Instruction: Fill in the blank with an appropriate word. 
+13. Input: 
+I am feeling ______________ today.
+13. Output: 
+I am feeling happy today.
+### 
+14. Instruction: Generate a list of three possible causes for a car engine malfunctioning. 
+14. Input: 
+The car's engine is making strange noises and losing power intermittently. 
+14. Output: 
+1. Low oil pressure
+2. Bad spark plugs
+3. Clogged fuel filter
+### 
+15. Instruction: Provide a definition for the given word. 
+15. Input: 
+Pandemic
+15. Output: 
+A pandemic is a widespread outbreak of a disease that affects a large number of people across multiple countries or continents. 
+### 
+16. Instruction: Come up with a creative name for a bakery. 
+16. Input: 
+A bakery that specializes in gluten-free and vegan desserts. 
+16. Output: 
+Savor & Sprout Bakery. 
+### 
+17. Instruction: Write a persuasive essay arguing for the importance of recycling. 
+17. Input: 
+<noinput> 
+17. Output: 
+Recycling is crucial for preserving the planet and ensuring a sustainable future. By reducing waste in landfills, conserving resources, and reducing energy consumption, recycling is a simple action that can make a big impact. It is everyone's responsibility to play a part in protecting the environment and ensuring a better future for generations to come. 
+### 
+18. Instruction: Generate a sentence with a simile. 
+18. Input: 
+<noinput> 
+18. Output: 
+The night was dark as pitch and silent as the grave. 
+### 
+19. Instruction: Identify the missing word in the following idiom. 
+19. Input: 
+Don't count your __________ before they hatch. 
+19. Output: 
+Chickens. 
+### 
+20. Instruction: Rewrite the following sentence using a different verb. 
+20. Input: 
+I have to go to work tomorrow morning. 
+20. Output: 
+I must attend work tomorrow morning. 
+###

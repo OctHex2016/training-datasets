@@ -1,0 +1,23 @@
+4. Instruction: Rewrite the sentence in passive voice.
+4. Input: 
+The artist painted a beautiful landscape.
+4. Output: 
+A beautiful landscape was painted by the artist.
+###
+5. Instruction: Identify the main point of the given passage.
+5. Input: 
+In this technologically advanced age, writing letters by hand has become less popular. However, many still appreciate the thought and effort required to compose a thoughtfully written letter. Additionally, handwritten letters create a personal touch and heartfelt sentiment that are difficult to replicate in emails or digital messages.
+5. Output: 
+The main point of the passage is the appreciation for handwritten letters due to the thoughtful effort involved and the personal touch they provide in comparison to digital messages.
+###
+6. Instruction: Translate the following English sentence into French.
+6. Input: 
+The weather is beautiful today.
+6. Output: 
+Le temps est beau aujourd'hui.
+###
+7. Instruction: Explain how photosynthesis works in simple terms.
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is a process used by plants to convert sunlight into energy. During photosynthesis, plants absorb sunlight, carbon dioxide from the air, and water from the soil. These elements combine in the plant cells to produce glucose, a type of sugar that the plant uses as energy for growth, and oxygen, which is released back into the atmosphere.

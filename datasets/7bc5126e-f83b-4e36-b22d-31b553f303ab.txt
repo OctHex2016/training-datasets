@@ -1,0 +1,144 @@
+4. Instruction: Rewrite the sentence using the active voice.
+4. Input:
+The photos were taken by the talented photographer.
+4. Output:
+The talented photographer took the photos.
+
+###
+5. Instruction: Write a limerick using the given keyword.
+5. Input:
+frog
+5. Output:
+There once was a curious frog
+Who lived near a murky bog
+He made a great leap
+Into water chest deep
+And swam with a grin through the fog
+
+###
+6. Instruction: Identify the different parts of speech in the given sentence.
+6. Input:
+Mary quickly realized her mistake and apologized sincerely.
+6. Output:
+- Mary: Noun
+- quickly: Adverb
+- realized: Verb
+- her: Pronoun
+- mistake: Noun
+- and: Conjunction
+- apologized: Verb
+- sincerely: Adverb
+
+###
+7. Instruction: Translate the given text to French.
+7. Input:
+Summer days are perfect for a picnic in the park.
+7. Output:
+Les jours d'été sont parfaits pour un pique-nique dans le parc.
+
+###
+8. Instruction: Summarize the given text in one sentence.
+8. Input:
+The boy had been practicing basketball all summer long. He wanted to make the school team and worked hard every day, perfecting his shots and dribbling skills. Finally, the day of the tryouts came, and he felt confident and excited to show the coach his dedication and progress.
+8. Output:
+After practicing basketball relentlessly all summer, the boy felt confident and excited for the school team tryouts to demonstrate his improved skills and dedication.
+
+###
+9. Instruction: How would you formulate a suggestion about a given topic if stated as a question? 
+9. Input: 
+What's a beautiful place to visit in Japan during springtime?
+9. Output:
+I suggest visiting Kyoto, Japan during springtime to witness the beautiful cherry blossoms.
+
+###
+10. Instruction: Write a short poem about the given topic.
+10. Input: 
+<noinput>
+10. Output:
+A whispering wind through the trees
+Dancing leaves, a sweet gentle breeze
+The sun sets low in the sky
+A golden hue, time to say goodbye
+A perfect moment, a world at ease
+
+###
+11. Instruction: Solve the math problem and provide an explanation.
+11. Input:
+Calculate the sum of 25% and 50%.
+11. Output:
+The sum of 25% and 50% is 75%. You simply add the percentages together: 25 + 50 = 75.
+
+###
+12. Instruction: What's the meaning of the given idiom?
+12. Input:
+Raining cats and dogs
+12. Output:
+The idiom "raining cats and dogs" means raining heavily or a very heavy downpour.
+
+###
+13. Instruction: Write a step-by-step guide on how to do the given task.
+13. Input: 
+Plant a seed
+13. Output:
+1. Gather your materials: A seed, pot, potting soil, a watering can or cup, and a sunny spot.
+2. Fill your pot with potting soil, leaving some space (about 1-2 inches) from the top.
+3. Place the seed on top of the soil, then, using your finger, create a small hole that follows the recommended planting depth listed on the seed packet.
+4. Gently cover the seed with soil and press down lightly.
+5. Water the soil thoroughly but gently until it's moist but not soaking wet.
+6. Place your pot in a sunny spot for the seed to germinate.
+7. Keep the soil moist and check for growth daily. Once the seed sprouts, continue to care for the plant according to its specific needs.
+
+###
+14. Instruction: Review the given product and provide feedback about its features.
+14. Input: 
+AirPods Pro
+14. Output:
+The AirPods Pro is an impressive step forward in terms of design, sound quality, and features. The new design is sleek and comfortable, allowing for a better fit and improved noise isolation. The sound quality is crisp and clear, with rich bass that doesn't overpower the mids and highs. One of the standout features is the active noise cancellation, which effectively blocks out ambient noise, making it great for travel and commuting. Additionally, the transparency mode allows you to be aware of your surroundings without removing your AirPods. Battery life is also satisfactory, offering up to 4.5 hours of listening time per charge. A drawback, however, is their relatively high price, but overall, they are a worthy investment for those seeking a premium true wireless experience.
+
+###
+15. Instruction: Show empathy and provide advice for someone who is experiencing a given circumstance.
+15. Input:
+I failed my driving test.
+15. Output:
+I understand how disappointing it can be to fail your driving test. Remember that many people don't pass on their first attempt, so you're not alone. Take this opportunity to learn from your mistakes and assess which areas you need to improve. Use this feedback to practice more, and when you're ready, take the test again with more confidence. Don't be too hard on yourself – every setback is an opportunity for growth, and I believe you'll succeed on your next attempt.
+
+###
+16. Instruction: Convert the given list of ingredients to grams and milliliters.
+16. Input:
+- 2 cups of sugar
+- 4 large eggs
+- 1 cup of milk
+- 1 cup of flour
+16. Output:
+- 400 grams of sugar
+- 4 large eggs (unconverted, as eggs are measured individually)
+- 240 milliliters of milk
+- 125 grams of flour
+
+###
+17. Instruction: Paraphrase the given text without changing the meaning.
+17. Input:
+Having strong negotiation skills is essential in many aspects of life, from personal to professional relationships.
+17. Output:
+Possessing effective negotiation abilities is crucial across various facets of one's life, ranging from personal to professional connections.
+
+###
+18. Instruction: Classify the given musical instrument as a wind, string, or percussion instrument.
+18. Input:
+Saxophone
+18. Output:
+Wind instrument
+
+###
+19. Instruction: Recommend a book from the given genre.
+19. Input:
+Science fiction
+19. Output:
+I recommend "Dune" by Frank Herbert, which is a classic science fiction novel with intriguing characters, an intricate plot, and a fascinating world.
+
+###
+20. Instruction: Suggest a solution based on the given problem.
+20. Input:
+How can we reduce single-use plastic waste at home?
+20. Output:
+To reduce single-use plastic waste at home, consider using reusable alternatives like cloth grocery bags, stainless steel or glass water bottles, and beeswax wraps for food storage. Also, look for products with minimal or no plastic packaging, and recycle any unavoidable plastics properly.

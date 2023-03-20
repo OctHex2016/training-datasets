@@ -1,0 +1,59 @@
+4. Instruction: Summarize the main points of the article in 2-3 sentences.
+4. Input:
+A recent study has shown that a 4-day workweek leads to increased overall productivity and employee satisfaction. The research, conducted in Iceland, involved over 2,500 workers participating in the two-year trial. Researchers found that employees experienced less stress and a better work-life balance, which also resulted in an improvement in mental health.
+4. Output:
+A study in Iceland demonstrated that a 4-day workweek led to increased productivity and employee satisfaction. The trial involved 2,500 workers and showed reduced stress, improved work-life balance, and better mental health.
+
+###
+5. Instruction: Convert the recipe into a vegetarian version by replacing the non-vegetarian ingredients with suitable alternatives.
+5. Input:
+Ingredients:
+- 1 lb ground beef
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 1 green bell pepper, chopped
+- 1 red bell pepper, chopped
+- 1 cup cooked rice
+- 1 can tomato sauce (15 oz)
+- 1 tablespoon Worcestershire sauce
+- Salt and pepper to taste
+5. Output:
+Ingredients:
+- 1 lb vegetarian ground "beef" (such as Beyond Meat or Lightlife)
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 1 green bell pepper, chopped
+- 1 red bell pepper, chopped
+- 1 cup cooked rice
+- 1 can tomato sauce (15 oz)
+- 1 tablespoon vegetarian Worcestershire sauce (made with a non-anchovy base)
+- Salt and pepper to taste
+
+###
+6. Instruction: Explain the concept of inflation and briefly mention its impacts on the economy.
+6. Input:
+<noinput>
+6. Output:
+Inflation is the rate at which the general level of prices for goods and services is rising and, subsequently, purchasing power is eroding. Central banks attempt to limit inflation to maintain price stability. Inflation can cause reduced purchasing power, increased production costs, and reduced profits for businesses. Additionally, it can lead to changes in interest rates, lowered investments, and increased unemployment.
+
+###
+7. Instruction: Translate the sentence to French.
+7. Input:
+The cat is playing in the garden.
+7. Output:
+Le chat joue dans le jardin.
+
+###
+8. Instruction: Write a brief conclusion for the essay about the importance of recycling.
+8. Input:
+<noinput>
+8. Output:
+In conclusion, recycling is essential for preserving our planet's resources, combatting pollution, and promoting a sustainable lifestyle. By practicing responsible waste management and supporting recycling initiatives, we can contribute to a cleaner, healthier environment for generations to come.
+
+###
+9. Instruction: Identify the errors in the text and provide a corrected version.
+9. Input:
+My freind and I goes to the movi's on Saturday to seen the latest Avenger's film. The movies was highly entartaining and worth wathching.
+9. Output:
+My friend and I went to the movies on Saturday to see the latest Avengers film. The movie was highly entertaining and worth watching.
+

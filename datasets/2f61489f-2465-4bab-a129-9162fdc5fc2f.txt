@@ -1,0 +1,109 @@
+4. Instruction: Convert the given text into a list of bullet points, highlighting the main ideas.
+4. Input: 
+The human digestive system is a complex series of organs and glands that process food. It converts the food we eat into nutrients, which are needed for our bodies to grow, repair and maintain themselves. The system includes the mouth, esophagus, stomach, small intestine, large intestine, rectum, and anus.
+4. Output: 
+- Human digestive system
+- Processes food
+- Converts food to nutrients
+- Essential for growth, repair, and maintenance
+- Components: mouth, esophagus, stomach, small intestine, large intestine, rectum, anus
+
+5. Instruction: Summarize the following news article in one sentence.
+5. Input: 
+Apple's first scheduled event of 2022 is expected to be in March, with reports suggesting the company will unveil a new iPhone SE featuring 5G capabilities and a longer-lasting battery. There are also rumors circulating that an updated MacBook Air will be introduced during the same event, with a sleek new design and improved M1 chip.
+5. Output: 
+Apple is reportedly planning to unveil a new 5G-enabled iPhone SE and an updated MacBook Air at their March 2022 event.
+
+6. Instruction: Compare and contrast the two artworks provided in terms of style, subject matter, and time period.
+6. Input: 
+Starry Night by Vincent van Gogh, The Scream by Edvard Munch
+6. Output: 
+Starry Night is an Impressionist painting from the late 19th century (1889) by Vincent van Gogh, featuring a night sky with swirling stars and a small village; on the other hand, The Scream is an Expressionist artwork from the late 19th to early 20th century (1893) by Edvard Munch, depicting a figure with a distorted face in anguish against a turbulent background.
+
+7. Instruction: Write three interesting facts about pandas.
+7. Input: 
+<noinput>
+7. Output: 
+1. Pandas have a unique "thumb," which is actually a modified wrist bone, that helps them grip bamboo.
+2. They can eat up to 38 kg of bamboo daily.
+3. Baby pandas are born pink, hairless, and weigh only around 100 grams.
+
+8. Instruction: Calculate the percentage increase from 150 to 225.
+8. Input: 
+<noinput>
+8. Output: 
+50% increase
+
+9. Instruction: Identify the literary device used in the following sentence.
+9. Input: 
+The wind whispered through the trees.
+9. Output: 
+Personification
+
+10. Instruction: Write a haiku about the beauty of a sunrise.
+10. Input: 
+<noinput>
+10. Output: 
+Golden light breaks free
+Casting warmth on verdant fields
+Nature awakes, stirred
+
+11. Instruction: Arrange the following historical events in chronological order.
+11. Input: 
+World War II, The French Revolution, The Russian Revolution, The fall of the Berlin Wall
+11. Output: 
+The French Revolution, The Russian Revolution, World War II, The fall of the Berlin Wall
+
+12. Instruction: Provide two examples of renewable energy sources.
+12. Input: 
+<noinput>
+12. Output: 
+Solar energy and wind energy
+
+13. Instruction: Write a brief biography of Albert Einstein in 50 words or less.
+13. Input: 
+<noinput>
+13. Output: 
+Albert Einstein (1879-1955) was a German-born physicist best known for his theory of relativity. He revolutionized scientific understanding of space and time and earned a Nobel Prize in Physics in 1921 for his work on the photoelectric effect. Einstein's influence extended beyond science, advocating for peace, social justice, and responsibility.
+
+14. Instruction: Correct the grammar in the following sentence.
+14. Input: 
+They enjoys playing basketball at park on the weekends.
+14. Output: 
+They enjoy playing basketball at the park on weekends.
+
+15. Instruction: Convert the following sentence to passive voice.
+15. Input: 
+The cat chased the mouse.
+15. Output: 
+The mouse was chased by the cat.
+
+16. Instruction: Explain what a sonnet is, including its structure and rhyme scheme.
+16. Input: 
+<noinput>
+16. Output: 
+A sonnet is a 14-line poetic form with a tightly structured rhyme scheme and meter, typically written in iambic pentameter. Two main types of sonnets are the Italian (Petrarchan) sonnet, which has an octave (8 lines) with a rhyme scheme of ABBAABBA, followed by a sestet (6 lines) with a rhyme scheme of CDCDCD or CDECDE, and the English (Shakespearean) sonnet, which consists of three quatrains (4-line stanzas) with a rhyme scheme of ABABCDCDEFEF, followed by a rhymed couplet (GG). The sonnet often explores themes of love, beauty, and mortality.
+
+17. Instruction: Write an example of alliteration.
+17. Input: 
+<noinput>
+17. Output: 
+Sally sold seashells by the seashore.
+
+18. Instruction: Provide the reasoning behind the nickname "The Land of the Rising Sun" for Japan.
+18. Input: 
+<noinput>
+18. Output: 
+Japan is referred to as "The Land of the Rising Sun" because it is located to the east of the Asian continent, where the sun rises. In ancient times, people on the mainland saw the sun rising from the direction of Japan, and this nickname has remained throughout history.
+
+19. Instruction: Write an alternative ending to the following story snippet: "And so, the tortoise and the hare prepared to race. The hare, overconfident in his speed, took a nap halfway through the course, while the tortoise continued at a steady pace."
+19. Input: 
+<noinput>
+19. Output: 
+However, this time, the hare woke up just in time to see the tortoise nearing the finish line. Realizing his mistake, the hare raced to catch up and managed to barely cross the finish line ahead of the tortoise. In the end, both the hare and the tortoise learned the importance of not underestimating one's opponent.
+
+20. Instruction: Translate the following sentence from English to French.
+20. Input: 
+The bookstore is near the library.
+20. Output: 
+La librairie est près de la bibliothèque.

@@ -1,0 +1,117 @@
+4. Instruction: Provide proper care tips for the given houseplant species.
+4. Input:
+Snake Plant (Sansevieria)
+4. Output:
+- Water: Water once every 2-3 weeks, allowing the soil to dry in between.
+- Light: Indirect sunlight or artificial light is best, as direct sunlight may cause leaf burn.
+- Soil: Well-draining soil mix with sand, perlite, or vermiculite is recommended.
+- Humidity: 40-60% humidity is ideal. Avoid wet or damp conditions as it can cause root rot.
+- Temperature: Moderate temperature range of 60-80°F (15-26°C) is optimal.
+- Fertilization: Add a balanced liquid fertilizer once every 6 weeks during the growing season.
+
+5. Instruction: Write a haiku inspired by the provided scenic description.
+5. Input:
+A peaceful mountain range surrounded by a colorful autumn forest.
+5. Output:
+Crests in autumn air,
+Forest cloaked in fiery hues,
+Mountains breathe in peace.
+
+6. Instruction: Rewrite the given sentence to change its meaning but maintain its grammatical structure.
+6. Input:
+The cat chased the dog.
+6. Output:
+The dog chased the cat.
+
+7. Instruction: Describe the main architectural style used in the given building.
+7. Input:
+Notre-Dame Cathedral, Paris
+7. Output:
+Gothic architecture
+
+8. Instruction: Suggest a conflict resolution strategy for the presented interpersonal issue.
+8. Input:
+Two friends had a disagreement about splitting the tab for dinner.
+8. Output:
+Propose that they split the bill evenly or each pay for their own orders to resolve the issue fairly.
+
+9. Instruction: Identify three key facts about the given planet in our solar system.
+9. Input:
+Mars
+9. Output:
+- Fourth planet from the Sun
+- Known as the "Red Planet"
+- Has the tallest volcano in the solar system, Olympus Mons
+
+10. Instruction: Translate the provided sentence into French.
+10. Input:
+Would you like some coffee?
+10. Output:
+Voulez-vous du café ?
+
+11. Instruction: Suggest a suitable color scheme for the specified room purpose.
+11. Input:
+Meditation room
+11. Output:
+- Soft blues
+- Light greens
+- Cool grays
+
+12. Instruction: Correct any spelling mistakes in the provided sentence.
+12. Input:
+Thier progress on this porject has been tremendos.
+12. Output:
+Their progress on this project has been tremendous.
+
+13. Instruction: Select the three most important financial statements for a business.
+13. Input:
+<noinput>
+13. Output:
+- Balance Sheet
+- Income Statement
+- Cash Flow Statement
+
+14. Instruction: Recommend a book based on the preferred genre.
+14. Input:
+Science Fiction
+14. Output:
+Dune by Frank Herbert
+
+15. Instruction: Suggest an appropriate musical instrument for a beginner.
+15. Input:
+<noinput>
+15. Output:
+Acoustic guitar
+
+16. Instruction: Briefly explain the primary purpose of photosynthesis in plants.
+16. Input:
+<noinput>
+16. Output:
+Photosynthesis converts sunlight, water, and carbon dioxide into glucose and oxygen, providing plants with energy and allowing them to release oxygen into the atmosphere.
+
+17. Instruction: Identify the type of poetic structure present in the poem.
+17. Input:
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+17. Output:
+Quatrain
+
+18. Instruction: Suggest a dish using the listed main ingredients.
+18. Input:
+Chicken, bell peppers, onions, and pineapple
+18. Output:
+Sweet and sour chicken
+
+19. Instruction: Name the famous artwork created by the given artist.
+19. Input:
+Leonardo da Vinci
+19. Output:
+Mona Lisa
+
+20. Instruction: Calculate the sum of these three numbers.
+20. Input:
+52, 16, and 29
+20. Output:
+97

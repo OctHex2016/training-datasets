@@ -1,0 +1,106 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input:
+The dog chased the cat.
+4. Output:
+The cat was chased by the dog.
+
+5. Instruction: Identify grammatical errors in the given sentence and correct them.
+5. Input:
+Me and him has went to the store to bought some fruites yesterday.
+5. Output:
+He and I went to the store to buy some fruits yesterday.
+
+6. Instruction: Summarize the main idea of the provided text.
+6. Input:
+While many people sip iced coffee as a cool beverage during the hot summer months, there are potential health benefits associated with drinking it. For instance, coffee provides a natural source of antioxidants, which are believed to have protective effects on your body. Additionally, some studies have suggested that coffee consumption may help lower the risk of developing Type 2 diabetes and Parkinson's disease. However, moderation is vital since excessive coffee intake can harm your body and may cause addiction.
+6. Output:
+Iced coffee may offer potential health benefits, such as providing antioxidants and potentially lowering the risk of Type 2 diabetes and Parkinson's disease; however, moderation is essential for avoiding negative effects on your body.
+
+7. Instruction: What are three causes of climate change? Explain briefly.
+7. Input: <noinput>
+7. Output:
+1) Burning fossil fuels: The combustion of coal, oil, and natural gas releases carbon dioxide (CO2) into the atmosphere, contributing to the greenhouse effect.
+2) Deforestation: Large-scale clearing of forests for agriculture, logging, or other uses releases stored CO2 and reduces the Earth's capacity to absorb CO2.
+3) Agricultural practices: Livestock farming, use of nitrogen fertilizers, and paddy rice cultivation generate methane and nitrous oxide, potent greenhouse gases that contribute to climate change.
+
+8. Instruction: Identify the primary conflict in the given story excerpt and explain it.
+8. Input:
+Jenny and Bradley are siblings who have always been competitive with each other. As they grew older, the rivalry intensified when both were pursuing careers in the same industry. Each sibling had a different approach to solve environmental problems, leading them to create separate companies. While one focused on sustainable materials, the other embraced renewable energy. Their fierce competition drove them apart, causing a rift in their once-close relationship.
+8. Output:
+The primary conflict in the story excerpt is the rivalry between Jenny and Bradley. As siblings, they're competing professionally in the same industry and have taken different approaches to address environmental problems, leading to separate companies and a strain on their relationship.
+
+9. Instruction: Compose an opening line for a mystery novel.
+9. Input: <noinput>
+9. Output:
+The fog hung thick and heavy like a shroud around the old mansion as the detective rang the doorbell, knowing that the secrets that lay behind the door would reveal a tangled web of deceit.
+
+10. Instruction: Translate the given English phrase to French.
+10. Input:
+Have a nice day.
+10. Output:
+Passez une bonne journée.
+
+11. Instruction: What are three alternative ways to say "I'm sorry"?
+11. Input: <noinput>
+11. Output:
+1) My apologies.
+2) I regret that.
+3) Please forgive me.
+
+12. Instruction: Identify the poetic device used in the given line and describe it.
+12. Input:
+Season of mists and mellow fruitfulness!
+12. Output:
+The poetic device used is alliteration, which is the repetition of initial consonant sounds in nearby words, such as "mists" and "mellow" in this line.
+
+13. Instruction: List the main stages of the water cycle and briefly describe each.
+13. Input: <noinput>
+13. Output:
+1) Evaporation: Water from oceans, lakes, and rivers transforms from liquid to vapor, rising into the atmosphere.
+2) Condensation: Water vapor in the atmosphere cools down and changes back into liquid, forming clouds.
+3) Precipitation: Clouds become heavy and saturated, releasing the water as rain, snow, hail, or sleet.
+4) Collection: Precipitation falls into bodies of water, such as lakes and rivers, or is absorbed into the ground and becomes groundwater.
+
+14. Instruction: Compose a haiku about a stormy night.
+14. Input: <noinput>
+14. Output:
+Thunder roars above,
+Lightning flashes paint the sky,
+Raindrops cleanse the earth.
+
+15. Instruction: Given a movie plot, classify it as one of the following genres: drama, comedy, action, science fiction.
+15. Input:
+In a world ruled by robots, a small group of rebels fight against their mechanical overlords while attempting to find the origin of a mysterious signal that could save humanity.
+15. Output:
+Science fiction.
+
+16. Instruction: Provide a recommendation for a book in the fantasy genre and briefly describe its plot.
+16. Input: <noinput>
+16. Output:
+Title: His Dark Materials Trilogy
+Author: Philip Pullman
+Plot: The series follows Lyra Belacqua and Will Parry as they journey through parallel universes, encountering a host of fantastical creatures and discovering an organization with a sinister plot. They must navigate their way through dangerous realms and face formidable adversaries to fulfill a unique destiny.
+
+17. Instruction: Explain the difference between connotation and denotation.
+17. Input: <noinput>
+17. Output:
+Connotation refers to the emotional or cultural associations attached to a word relative to its literal meaning. For instance, "home" may evoke feelings of warmth and belonging. On the other hand, denotation is the strict, dictionary definition of a word, devoid of any emotional function or cultural impressions. In the case of "home," its denotation is simply a place where one resides.
+
+18. Instruction: Identify any logical fallacy in the given statement and explain why it is a fallacy.
+18. Input:
+If you support democracy, then you must agree with every decision the majority makes, even if it goes against human rights.
+18. Output:
+This statement contains a false dilemma, which is a logical fallacy, as it presents only two options or alternatives when there could be more. In this case, it wrongly assumes that one must support every majority decision to uphold democracy, ignoring the nuances and complexities involved in honoring democratic principles and protecting human rights.
+
+19. Instruction: Elaborate on three benefits of regular exercise.
+19. Input: <noinput>
+19. Output:
+1) Improved mental health: Regular exercise can alleviate stress, anxiety, and depression, and provide a mood boost.
+2) Enhanced physical fitness: Engaging in exercise strengthens muscles, improves cardiovascular health, increases flexibility and balance, and helps maintain a healthy weight.
+3) Disease prevention: Regular exercise can help lower the risk of developing chronic illnesses such as hypertension, type 2 diabetes, and certain types of cancer.
+
+20. Instruction: Given a product description, generate a slogan for the product.
+20. Input:
+Our powerful vacuum cleaner is lightweight, cordless, and extremely easy to maneuver. With a long battery life and efficient filters, it guarantees the cleanest floors and carpets, free from dust, dirt, and allergens.
+20. Output:
+Power-packed Convenience — Unleash Spotless, Allergen-free Floors!

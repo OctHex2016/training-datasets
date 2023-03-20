@@ -1,0 +1,101 @@
+4. Instruction: Given a set of symptoms, suggest the possible disease. 
+4. Input: 
+* Fever, headache, body aches, cough, and sore throat.
+4. Output: 
+Possible disease: Influenza
+###
+5. Instruction: Generate a creative and original haiku poem about nature. 
+5. Input: <noinput>
+5. Output: 
+Mountain breeze whispers  
+Leaves rustle in response, birds chirp  
+Nature's sweet music 
+###
+6. Instruction: Complete the sentence using machine learning models:
+6a. Input: Given the sentence "The cat is ________." 
+6b. Output: likely sleeping or playing with a toy.
+###
+7. Instruction: Given a paragraph, paraphrase it to a simpler and clearer version. 
+7. Input: 
+According to the study conducted by the Pew Research Center, 67% of American adults across all demographics get their news from social media. Out of those, 63% consider the news coming from social media as largely inaccurate. 
+7. Output: 
+2 in 3 Americans get news through social media and more than half of them think the news is not reliable. 
+###
+8. Instruction: Given a text, make it more engaging and exciting to read. 
+8. Input: 
+The history of London, the capital city of England and the United Kingdom, goes back over 2,000 years. It has many important landmarks and buildings, like the Tower of London, St. Paul's Cathedral, and the Houses of Parliament, and is widely regarded as one of the most influential cities in the world. 
+8. Output: 
+Experience London's rich 2,000-year history through its iconic landmarks like the awe-inspiring Tower of London, the grand St. Paul's Cathedral, and the historic Houses of Parliament. Be captivated by this city that has shaped the world! 
+###
+9. Instruction: Given a set of synonyms, identify which one doesn't belong based on its meaning. 
+9. Input:
+* Huge, Gigantic, Tiny, Enormous
+9. Output: 
+Tiny
+###
+10. Instruction: Given a product description, generate a catchy slogan. 
+10. Input: 
+Description: A travel backpack with multiple compartments and comfortable straps.
+10. Output: 
+"Unleash your inner explorer with our travel backpack – where comfort meets convenience!" 
+###
+11. Instruction: Given a question, provide a short and simple answer. 
+11. Input: 
+Question: What is the capital of Australia? 
+11. Output: 
+Canberra
+###
+12. Instruction: Given a sentence with grammatical errors, correct the errors.
+12. Input: 
+The scientist explained there latest findings that suggests a cure for cancer is not far away. 
+12. Output: 
+The scientist explained their latest findings that suggest a cure for cancer is not far away. 
+###
+13. Instruction: Given a set of sentences, combine them into a single cohesive paragraph. 
+13. Input: 
+"I love playing basketball. Yesterday, I played for two hours at my local park. The weather was perfect and my team won." 
+13. Output: 
+Yesterday, I spent two hours playing basketball at my local park. The weather couldn't have been better and it was a great day for my team, as we claimed a victory. 
+###
+14. Instruction: Interpret the given figurative language. 
+14. Input: 
+"The assignment was a breeze." 
+14. Output: 
+The assignment was very easy. 
+###
+15. Instruction: Given a set of instructions, rewrite them to be more concise. 
+15. Input: 
+"Please go to the store and buy eggs, bread, and milk. After that, come home and put the bags on the kitchen counter." 
+15. Output: 
+"Buy eggs, bread, and milk. Put the bags on the kitchen counter when you get back."  
+###
+16. Instruction: Given a set of facts, draw a conclusion or make an inference. 
+16. Input: 
+Fact 1: The sky is dark and cloudy. 
+Fact 2: The weather forecast predicted rain. 
+16. Output: 
+It is likely to rain soon. 
+###
+17. Instruction: Given a recipe, rewrite it in your own words. 
+17. Input: 
+In a medium mixing bowl, combine the dry ingredients. In a separate bowl, beat the egg and add the wet ingredients. Mix together until the batter is smooth. Pour the batter into a greased baking pan and bake for 20 minutes at 350° F. 
+17. Output: 
+Mix the dry ingredients in one bowl and the wet ones in another. Combine them and stir well until the batter is smooth. Pour this mixture into a greased baking pan and bake for 20 minutes at 350° F.  
+###
+18. Instruction: Given a set of data, create an informative visualization. 
+18. Input: 
+Data: The number of coronavirus cases in each state in the USA. 
+18. Output: 
+(provide an appropriate visualization such as a bar chart or a map) 
+###
+19. Instruction: Given a statement, provide supporting evidence. 
+19. Input: 
+Statement: The average temperature of the earth is increasing. 
+19. Output: 
+According to NASA, the earth's average temperature has risen about 2°F since the late 19th century, and most of the warming has occurred in the past 40 years.  
+###
+20. Instruction: Given a sentence, identify and correct the misplaced modifier. 
+20. Input: 
+"Suzie wrote a letter to her mother wearing her new hat." 
+20. Output: 
+Wearing her new hat, Suzie wrote a letter to her mother.

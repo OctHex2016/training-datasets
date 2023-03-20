@@ -1,0 +1,37 @@
+4. Instruction: Rewrite the following paragraph by replacing all passive voice sentences with active voice and vice versa. 
+4. Input: 
+The cat was chased by the dog. Jenny is reading a book. The cookies were made by John. She posted the letter.
+4. Output: 
+The dog chased the cat. A book is being read by Jenny. John makes the cookies. The letter was posted by her.
+###
+5. Instruction: Describe the Battle of Waterloo in 1815 between the French Army under Napoleon and the Allied forces. 
+5. Input: 
+<noinput>
+5. Output: 
+The Battle of Waterloo was fought on 18th June 1815 near Waterloo (present-day Belgium). It was a decisive battle between the French army, led by Emperor Napoleon Bonaparte, and the Allied forces. The Allied armies were commanded by the Duke of Wellington from Britain and General Gebhard Leberecht von Blücher from Prussia. Napoleon's goal was to defeat the Allies before they could fully unite. Despite initial French gains, the battle turned against Napoleon when the Prussians arrived as reinforcements. The French were ultimately defeated, marking the end of Napoleon's political and military career.
+###
+6. Instruction: Summarize Einstein's theory of relativity in layman's terms without using any scientific jargon.
+6. Input: 
+<noinput>
+6. Output: 
+Einstein's theory of relativity is based on two main ideas: the laws of physics are the same for everyone, no matter how fast they're moving, and nothing can travel faster than the speed of light. This theory shows that time, space, and even the concept of gravity are not fixed, but change depending on how fast you're going and where you are in relation to other objects. In other words, it tells us that our understanding of the universe is depended on our perspective and how we interact with the world around us.
+###
+7. Instruction: Translate the following English text to French.
+7. Input: 
+The sun is shining bright and the birds are singing. It's a beautiful day to go for a walk in the park.
+7. Output: 
+Le soleil brille fort et les oiseaux chantent. C'est une belle journée pour se promener dans le parc.
+###
+8. Instruction: Write a 6-word story based on the given theme.
+8. Input: 
+Theme: Lost love
+8. Output: 
+Once found. Now gone. Hearts shattered.
+###
+9. Instruction: Suggest three ways to conserve energy at home.
+9. Input: 
+<noinput>
+9. Output: 
+1. Unplug electronic devices when not in use or use smart power strips.
+2. Reduce heating and cooling costs by improving insulation and using energy-efficient appliances.
+3. Replace incandescent light bulbs with LED bulbs or CFLs, which consume less electricity and last longer.

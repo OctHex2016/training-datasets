@@ -1,0 +1,139 @@
+4. Instruction: Translate the following English text to French: "Please reserve a table for two at 7pm under the name John Smith."
+4. Input: 
+<noinput>
+4. Output: 
+S'il vous plaît, réservez une table pour deux personnes à 19h sous le nom de John Smith.
+
+5. Instruction: Based on the text, identify the main character and the conflict he/she is facing.
+5. Input: 
+In the middle of the night, Sarah heard a strange noise coming from her backyard. She grabbed a flashlight and cautiously went outside. Behind the bushes, she saw a group of people arguing loudly. She gasped and tried to call the police, but her phone's battery had died. Sarah had to make a decision: intervene or try to find help elsewhere.
+5. Output: 
+Main character: Sarah
+Conflict: Choosing between intervening in the argument or seeking help elsewhere
+
+6. Instruction: Recommend a vegetarian dinner with light flavors that does not involve any pasta.
+6. Input: 
+<noinput>
+6. Output: 
+Grilled vegetable quinoa salad with lemon tahini dressing. The salad contains mixed greens, grilled bell peppers, zucchini, cherry tomatoes, red onions, avocado, and quinoa. The dressing contains tahini, lemon juice, olive oil, minced garlic, salt, and pepper.
+
+7. Instruction: What is an example of a chemical reaction and what are its reactants and products?
+7. Input: 
+<noinput>
+7. Output: 
+Example: Combustion of Methane
+Reactants: Methane (CH4) and Oxygen (O2)
+Products: Carbon Dioxide (CO2) and Water (H2O)
+
+8. Instruction: Create a short poem about the beauty of a river.
+8. Input: 
+<noinput>
+8. Output: 
+A river's grace, a tale of flow,
+Where mirrored skies and ripples show
+The whispers of the winds entwined,
+A timeless journey unconfined.
+
+Beside the banks, the willows weep,
+Their roots embraced in solace deep,
+And life along the water's edge,
+A living tapestry, a pledge.
+
+For all who seek a tranquil sight,
+The river speaks through day and night,
+A tale of beauty swift and free,
+A dance, a hymn for all to see.
+
+9. Instruction: From the given list: apple, dog, butterfly, leaf, landline, cloud, umbrella. Classify them as animals, plants, and objects.
+9. Input: 
+<noinput>
+9. Output: 
+Animals: dog, butterfly
+Plants: apple, leaf
+Objects: landline, cloud, umbrella
+
+10. Instruction: Correct any spelling mistakes in the following text:
+"The quik brown fox jumps ovr the lazy dog."
+10. Input: 
+<noinput>
+10. Output: 
+"The quick brown fox jumps over the lazy dog."
+
+11. Instruction: What are the basic steps of photosynthesis?
+11. Input: 
+<noinput>
+11. Output: 
+1. Light-dependent reactions: Chlorophyll absorbs sunlight, which creates ATP energy and NADPH molecules.
+2. Light-independent reactions (Calvin Cycle): The ATP and NADPH molecules from step 1 are used to convert carbon dioxide (CO2) into glucose (C6H12O6) and other sugars.
+
+12. Instruction: In the text given below, what does the protagonist want to achieve and how does he plan to do it?
+12. Input: 
+Tom was tired of his monotonous office job and felt like he needed a change. After plenty of brainstorming and discussions with his loved ones, he finally made up his mind. Tom's plan involved turning his passion for writing into a full-time career. He started by working on his first novel during his free time and even enrolled in a creative writing course to hone his skills.
+12. Output: 
+Tom wants to achieve a full-time career based on his passion for writing. He plans to do this by working on his first novel during his free time and enrolling in a creative writing course to improve his skills.
+
+13. Instruction: Suggest a possible brand name for an eco-friendly, sustainable clothing line.
+13. Input: 
+<noinput>
+13. Output: 
+NatureThreads
+
+14. Instruction: List down the key elements of an effective marketing plan.
+14. Input: 
+<noinput>
+14. Output: 
+1. Executive Summary
+2. Company Overview
+3. Target Market Analysis
+4. Competitor Analysis
+5. SWOT Analysis
+6. Marketing Objectives
+7. Marketing Strategies
+8. Action Plan (Tactics and Channels)
+9. Budget Allocation
+10. Measurement and Evaluation (KPIs)
+
+15. Instruction: What happened in the Battle of Waterloo?
+15. Input: 
+<noinput>
+15. Output: 
+The Battle of Waterloo occurred on June 18, 1815, near Waterloo in present-day Belgium. It marked the final defeat of French Emperor Napoleon Bonaparte by the armies of the Seventh Coalition, led by the Duke of Wellington and Gebhard Leberecht von Blücher. Napoleon's forces were defeated, ending his rule as Emperor of the French and leading to his final exile to Saint Helena.
+
+16. Instruction: Write a brief futuristic scenario depicting a world where humans can no longer live on Earth due to extreme heat.
+16. Input: 
+<noinput>
+16. Output: 
+By 2150, Earth had succumbed to unbearable heat. Oceans boiled, vast deserts formed where forests once thrived, and devastating storms ravaged the landscape. Life on Earth's surface became untenable. Desperate for survival, humanity embarked on a colossal endeavor. Massive underground cities were built, where air-conditioning systems and advanced technologies regulated temperature and humidity. Vast hydroponic farms provided sustenance while artificial light nourished the inhabitants. Above ground, only automated machines ventured, maintaining vital infrastructure amidst the scorching wasteland that Earth had become.
+
+17. Instruction: Your friend sends you an email mistakenly calling you by your sibling's name. Compose a courteous response pointing out the mistake and providing a relevant update about your life.
+17. Input: 
+<noinput>
+17. Output: 
+Hi [Friend's Name],
+
+Thanks for the email! Just a quick heads-up, it looks like you accidentally called me by my sibling's name. No worries though, I'm sure it happens to the best of us!
+
+On another note, I recently got a promotion at work, and I'm really excited about the new challenges it brings. How about you? What's new in your world? Looking forward to catching up.
+
+Best regards,
+[Your Name]
+
+18. Instruction: Explain the difference between fiction and non-fiction.
+18. Input: 
+<noinput>
+18. Output: 
+Fiction refers to literary works based on imaginative events and characters, created by the author. It can include novels, short stories, poetry, and more. Non-fiction, on the other hand, is based on factual information or real-life experiences. Non-fiction can include biographies, memoirs, essays, historical accounts, educational materials, and more.
+
+19. Instruction: Name three alternative sources of energy that can replace fossil fuels.
+19. Input: 
+<noinput>
+19. Output: 
+1. Solar power
+2. Wind power
+3. Hydroelectric power
+
+20. Instruction: Imagine you are writing an autobiography. Start with a brief introduction of your childhood and how it shaped you into the person you are now.
+20. Input: 
+<noinput>
+20. Output: 
+Born under the warm sun and surrounded by the scent of orange blossoms, my childhood days were spent playing in the narrow, cobblestone streets of my quaint hometown. The vibrant colors, rich cultures, and kind-hearted people provided an environment that nourished my creativity and curiosity from a young age. Our tightly-knit community encouraged collaboration, instilling within me the values of teamwork, empathy, and the unyielding pursuit of knowledge. As an adult, these formative experiences have translated into a life based on embracing diversity, seeking constant growth and striving to contribute positively to the world around me.

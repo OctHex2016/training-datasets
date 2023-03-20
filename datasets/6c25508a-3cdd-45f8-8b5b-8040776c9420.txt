@@ -1,0 +1,142 @@
+4. Instruction: Given a set of numbers, find the two largest numbers and output them in decreasing order.
+4. Input:
+5, 9, 3, 8, 1, 10, 2
+4. Output:
+The two largest numbers are 10 and 9, in decreasing order.
+###
+5. Instruction: Edit the following sentence to improve its grammar and clarity.
+5. Input:
+"He don't like pizza or spaghetti."
+5. Output:
+"He doesn't like pizza or spaghetti."
+###
+6. Instruction: Generate a short description of the given celebrity.
+6. Input:
+Brad Pitt
+6. Output:
+Brad Pitt is an American actor and film producer known for his roles in movies such as "Fight Club" and "Ocean's Eleven." He has won numerous awards, including an Academy Award for Best Supporting Actor for his role in "Once Upon a Time in Hollywood."
+### 
+7. Instruction: Summarize the plot of the following book.
+7. Input: 
+"The Great Gatsby" by F. Scott Fitzgerald
+7. Output:
+"The Great Gatsby" is a novel about a man named Jay Gatsby and his obsession with a woman named Daisy Buchanan. Set in the 1920s, the book explores themes of love, wealth, and the corrupting influence of the American Dream.
+### 
+8. Instruction: Generate an opening line for a story with the following prompt:
+8. Input:
+She woke up with a start, heart pounding.
+8. Output:
+"As she woke up with a start, heart pounding, Sarah realized that she had no memory of where she was or how she got there."
+### 
+9. Instruction: Given an equation, solve for the missing variable.
+9. Input:
+7x - 5 = 12
+9. Output:
+x = 17/7
+### 
+10. Instruction: Generate a metaphor describing the given scenario.
+10. Input: 
+Watching a beautiful sunset
+10. Output:
+"Watching a sunset is like watching the world melt into orange and pink hues, as the sun dips below the horizon like a burning ember."
+### 
+11. Instruction: Classify the following animals based on their classification and output them in alphabetical order.
+11. Input: 
+Lion, Chimpanzee, Whale, Bee, Turtle, Salmon
+11. Output: 
+Animals | Classification 
+------- | -------------- 
+Bee | Insect 
+Chimpanzee | Mammal 
+Lion | Mammal 
+Salmon | Fish 
+Turtle | Reptile 
+Whale | Mammal
+### 
+12. Instruction: Given a list of tasks, prioritize them in order from most to least important.
+12. Input: 
+- Finish essay for English class
+- Go grocery shopping
+- Pay rent
+- Call mom
+12. Output:
+1. Pay rent
+2. Finish essay for English class
+3. Go grocery shopping
+4. Call mom
+### 
+13. Instruction: Generate a short biography about the historical figure.
+13. Input: 
+Nelson Mandela
+13. Output:
+Nelson Mandela was a South African anti-apartheid revolutionary who became the country's first Black president. He spent 27 years in prison for his activism and upon his release in 1990, he became a global advocate for peace and reconciliation. He was awarded the Nobel Peace Prize in 1993.
+### 
+14. Instruction: Edit the following sentence to remove redundancy and improve clarity.
+14. Input: 
+"The small, little dog barked loudly."
+14. Output:
+"The small dog barked loudly."
+### 
+15. Instruction: Generate a list of things to do for a productive weekend.
+15. Input: 
+<noinput>
+15. Output:
+- Organize closet and declutter
+- Meal prep for the week
+- Learn a new recipe
+- Exercise outdoors
+- Tackle a home improvement project
+### 
+16. Instruction: Given a list of ingredients, generate a recipe for a dish.
+16. Input: 
+Ingredients: Chicken breast, spinach, mushrooms, garlic, olive oil, salt, pepper
+16. Output:
+1. Season chicken breast with salt and pepper.
+2. In a pan, heat olive oil and sauté minced garlic until fragrant.
+3. Add sliced mushrooms and cook until they release their moisture.
+4. Add spinach and cook until wilted.
+5. Remove vegetables from pan and set aside.
+6. In the same pan, cook chicken breast until browned and cooked through.
+7. Serve chicken breast with sautéed vegetables on the side. 
+### 
+17. Instruction: Generate a persuasive argument on a given topic.
+17. Input: 
+Should college be tuition-free?
+17. Output:
+"College should be tuition-free because every student deserves the opportunity to receive a higher education regardless of their financial situation. This would not only benefit individuals but also society as a whole by promoting economic growth and reducing social inequality." 
+### 
+18. Instruction: Generate a poem on the given topic.
+18. Input: 
+The changing of seasons
+18. Output: 
+Autumn leaves fall  
+Orange, red, and gold  
+The warmth of summer fades  
+Cool air begins to unfold  
+
+Winter snowflakes dance  
+White blankets the ground  
+The chill of the season  
+A peaceful calm all around  
+
+Springtime blossoms bloom  
+From the dirt and snow  
+New life and growth  
+A change we've come to know  
+
+Summer sun shines bright  
+Warming up the land  
+A time to rest and relax  
+Before fall's leaves expand  
+### 
+19. Instruction: Given a list of countries, generate a quiz question about their capital cities.
+19. Input: 
+Canada, Mexico, France, China, Brazil
+19. Output:
+What is the capital of Canada? 
+### 
+20. Instruction: Generate a fun fact about the given animal.
+20. Input: 
+Polar Bear
+20. Output:
+Polar bears have black skin and transparent fur, which reflects the sunlight to make them appear white. Their skin is actually black to absorb heat from the sun and keep them warm in the sub-zero temperatures of their Arctic habitat.

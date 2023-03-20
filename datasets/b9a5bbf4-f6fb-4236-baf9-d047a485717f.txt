@@ -1,0 +1,99 @@
+4. Instruction: Provide a brief summary of the given text.
+4. Input: The Industrial Revolution was a period of rapid industrialization, starting around the end of the 18th century and lasting until the late 19th century. It marked the shift from rural, agrarian societies to urban, industrial ones. The technological advances of the Industrial Revolution, such as steam power and interchangeable parts, greatly increased productivity, leading to a population boom and increased urbanization. While it contributed significantly to the growth of the world economy, it also resulted in a widening wealth gap, difficult working conditions for many laborers, and widespread pollution.
+4. Output: The Industrial Revolution was a period of rapid industrialization from the late 18th to the late 19th century, marking a shift from agrarian societies to urban-industrial ones. Technological advances increased productivity, leading to population growth and urbanization. Although it boosted the global economy, it also caused a wealth gap, harsh working conditions, and pollution.
+
+5. Instruction: Considering its features, classify the following gadget.
+5. Input: 
+Gizmo Phone XL:
+- 6.8-inch Display
+- 108-megapixel Camera
+- 8K Video Recording
+- 5G Network
+- 512GB Internal Storage
+- 12GB RAM
+- Foldable Design
+5. Output: High-end Smartphone
+
+6. Instruction: Translate the following text into French.
+6. Input: 
+John is learning to play the guitar. He practices for thirty minutes every day.
+6. Output: John apprend à jouer de la guitare. Il s'entraîne trente minutes par jour.
+
+7. Instruction: Rewrite the given paragraph in passive voice.
+7. Input: 
+The chef cooked the steak in a cast-iron skillet. The server brought the food to the table. After tasting the steak, the customer decided it was too rare and sent it back to the kitchen.
+7. Output: The steak was cooked in a cast-iron skillet by the chef. The food was brought to the table by the server. After the steak was tasted by the customer, it was decided that it was too rare and was sent back to the kitchen.
+
+8. Instruction: Determine whether the given statement is true or false.
+8. Input: The Great Wall of China is visible from space.
+8. Output: False
+
+9. Instruction: Identify the grammatical mistake in the sentence and correct it.
+9. Input: Me and my brother went to the park.
+9. Output: My brother and I went to the park.
+
+10. Instruction: Name a famous person who is known for their work in physics.
+10. Input: <noinput>
+10. Output: Albert Einstein
+
+11. Instruction: Diagnose the given issue and suggest a solution for it.
+11. Input: People often have difficulty hearing announcements in the crowded train station.
+11. Output: Install better sound systems with higher volume and improved audio quality in the train station.
+
+12. Instruction: Use the input prompt to create an opening line for a novel.
+12. Input: A mysterious woman with a red umbrella
+12. Output: On a cold, rainy night, a mysterious woman with a red umbrella appeared, casting a hypnotic allure to those who crossed her path.
+
+13. Instruction: Write a brief outline for a blog post explaining the benefits of exercise.
+13. Input: <noinput>
+13. Output: 
+I. Introduction
+  A. Define exercise
+  B. Importance of a healthy lifestyle
+II. Physical Benefits
+  A. Weight control
+  B. Improved muscle strength and endurance
+  C. Increased cardiovascular health
+  D. Reduced risk of chronic diseases
+III. Mental Benefits
+  A. Reduced stress levels
+  B. Increased self-esteem
+  C. Improved mood and mental health
+IV. Social Benefits
+  A. Increased opportunities for social interaction
+  B. Teamwork and camaraderie
+V. Long-Term Benefits
+  A. Increased longevity
+  B. Better quality of life
+VI. Conclusion
+  A. Emphasize the importance of incorporating exercise into daily life
+
+14. Instruction: Choose the most suitable title for the given article excerpt.
+14. Input: In this article, we will discuss the importance of social media marketing for businesses and how it plays a pivotal role in building brand awareness. We will also explore the best practices for managing an effective social media campaign and the most popular platforms used by businesses to reach their target audience.
+14. Output: Harnessing the Power of Social Media Marketing for Business Success
+
+15. Instruction: Identify the main point of the given input and create a thesis statement.
+15. Input: Greenhouse gas emissions drive climate change, impacting the environment and causing weather-related disasters that affect both human and animal populations. Reducing greenhouse gas emissions is crucial for mitigating the effects of climate change.
+15. Output: To mitigate the devastating effects of climate change on the environment and human and animal populations, it is essential to take urgent steps to reduce greenhouse gas emissions.
+
+16. Instruction: What is the capital city and the official language of Brazil?
+16. Input: <noinput>
+16. Output: The capital city of Brazil is Brasilia, and the official language is Portuguese.
+
+17. Instruction: Based on the given input quote, identify the quotation's speaker and the context in which it was said.
+17. Input: "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard."
+17. Output: The speaker of this quote is President John F. Kennedy, and he said it during his speech at Rice University on September 12, 1962, where he talked about the United States' commitment to space exploration.
+
+18. Instruction: Describe the appearance and the purpose of the given object.
+18. Input: quill pen
+18. Output: A quill pen is a writing utensil made from a large bird's feather, usually a goose's or swan's. It has a sharply pointed, narrow tip that is dipped in ink to write on paper. Quill pens were widely used for writing and calligraphy before the invention of fountain pens and ballpoint pens.
+
+19. Instruction: Write a haiku poem using the given input.
+19. Input: Autumn leaves
+19. Output: Autumn leaves fall soft,
+Whispers of red, gold, and brown,
+Nature's fleeting art.
+
+20. Instruction: Consider the given movie title and provide a two-sentence plot summary.
+20. Input: The Echoing Valley
+20. Output: When a city-dweller inherits a remote, secluded valley, he discovers its mysterious, haunting beauty. As he unravels the valley's secrets, he begins to question the boundary between the natural world and the supernatural.

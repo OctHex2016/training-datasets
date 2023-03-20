@@ -1,0 +1,32 @@
+4. Instruction: What is the capital city of France? 
+4. Input: 
+<noinput>
+4. Output: 
+Paris
+###
+5. Instruction: Rewrite the following text in passive voice. 
+5. Input: 
+She baked a delicious cake for her mother's birthday.
+5. Output: 
+A delicious cake was baked by her for her mother's birthday.
+###
+6. Instruction: Can you help me find the theme of this story? 
+6. Input: 
+Sam was a young boy who loved exploring the world around him. He often went on adventures in the woods near his home, discovering new hiking trails and hidden treasures. Over time, he realized that his passion for exploration was something that he wanted to share with others. Sam decided to become a park ranger, dedicating his life to helping others experience the beauty of nature.
+6. Output: 
+The theme of the story is the importance of following your passion and making a positive impact on the world.
+###
+7. Instruction: Fix the grammar errors in the following sentences. 
+7. Input: 
+He walk to the store every day. She always says goodbye to she friends before leaving the party.
+7. Output: 
+He walks to the store every day. She always says goodbye to her friends before leaving the party.
+###
+8. Instruction: Be a poetry critic and give a review of the following poem. 
+8. Input: 
+Roses are red,
+Violets are blue,
+Sugar is sweet,
+And so are you.
+8. Output: 
+The poem is a simple yet classic example of a short, easy-to-remember rhyme that conveys a sweet and admiring message. While it may not offer great depth or complexity, its popularity as a go-to expression of affection makes it endearing to many.

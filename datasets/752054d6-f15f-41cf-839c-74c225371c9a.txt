@@ -1,0 +1,35 @@
+4. Instruction: Summarize the main points of the following text.
+4. Input: 
+Climate change is one of the most pressing issues that humanity faces today. The burning of fossil fuels, deforestation, and various industrial activities release greenhouse gases into the atmosphere, trapping heat and causing temperatures to rise globally. This leads to a range of severe consequences, including an increase in the frequency and intensity of extreme weather events, rising sea levels, and disruptions to ecosystems. To mitigate the impacts of climate change, actions like transitioning to renewable energy sources, adopting sustainable agriculture practices, and reducing waste production are important steps towards a stable and resilient future.
+4. Output: 
+Climate change is caused by the release of greenhouse gases from human activities, leading to global temperature rise and severe consequences like extreme weather events, rising sea levels, and ecosystem disruptions. Actions like transitioning to renewable energy, sustainable agriculture, and waste reduction can help mitigate these impacts. 
+
+5. Instruction: Correct the grammatical errors in the given text.
+5. Input: 
+There are meny things that can cause a person to experience stress. One of the main causes, of course, is work. People often feel overwhlemed with the amont of tasks they have to do, leading to high levels of tensions and anxiety.
+5. Output: 
+There are many things that can cause a person to experience stress. One of the main causes, of course, is work. People often feel overwhelmed with the amount of tasks they have to do, leading to high levels of tension and anxiety.
+
+6. Instruction: Given the provided movie synopsis, determine the movie genre. Choose one from action, comedy, romance, horror, thriller, or drama.
+6. Input: 
+A middle-aged woman escapes her mundane life and goes on an adventurous trip to Tuscany, Italy. There, she impulsively buys a villa and navigates a new, exciting life filled with charming locals, beautiful landscapes, and an unexpected romance.
+6. Output: 
+Romance
+
+7. Instruction: Identify and list the internal and external conflicts present in the provided text.
+7. Input: 
+Greg is an aspiring writer who has been struggling to generate new ideas for his next book. With mounting pressure from his publisher and a harsh deadline, he worries about his ability to deliver something worthwhile. But Greg's curiosity piques when he starts noticing strange occurrences in his neighborhood, including unexplained disappearances of his neighbors.
+7. Output: 
+Internal conflicts:
+- Greg struggling with writer's block
+- Greg's worry about meeting his deadline
+
+External conflicts:
+- Pressure from the publisher
+- Strange occurrences in the neighborhood and neighbors disappearing
+
+8. Instruction: Provide a brief description of Vladimir Lenin's role in the Russian Revolution.
+8. Input:
+<noinput>
+8. Output:
+Vladimir Lenin was the leader of the Bolshevik Party during the Russian Revolution. He played a central role in orchestrating the October Revolution in 1917, which led to the overthrow of the Provisional Government and the establishment of a socialist state in Russia, known as the Soviet Union. Lenin's ideas and strategies were instrumental in the success of the revolution and the subsequent shaping of the Soviet state.

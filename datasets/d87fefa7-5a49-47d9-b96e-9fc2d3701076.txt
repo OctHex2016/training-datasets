@@ -1,0 +1,69 @@
+4. Instruction: Rewrite the following passage by correcting any grammatical errors and improving the sentence structures.
+4. Input: 
+Besides the beautiful nature, you can also discover many cultural aspects at the Harrington Park. The Park is proud of presenting various outdoor facilities including awesome gardens, sculptures that will truly mesmerize you. As a visitor, it is usual to be excited to explore the massive park area. Not forgeting to mentioning that there is a handful of educational activities for everyone in the park to feel some excitement!
+4. Output: 
+In addition to the stunning natural beauty of Harrington Park, visitors can explore its many cultural offerings. The park proudly showcases an array of outdoor amenities, including breathtaking gardens and captivating sculptures. As a visitor, it's natural to be eager to discover the expansive park grounds. It's worth mentioning that the park also provides a wide range of educational activities designed for visitors of all ages to enjoy!
+
+5. Instruction: Write a short rhyming poem about the autumn season.
+5. Input: 
+<noinput>
+5. Output: 
+Golden leaves twirling down,
+Painting colors on the ground,
+Autumn's air crisp and cool,
+Nature's beauty, leaves us a jewel.
+
+Whispering winds sharing tales,
+As the summer sun now pales,
+Fireside warmth welcomes the night,
+Autumn embraces us with its light.
+
+6. Instruction: Explain the benefits and drawbacks of renewable energy sources.
+6. Input: 
+<noinput>
+6. Output: 
+Benefits: 
+1. Environmental impact: Renewable energy sources produce little to no greenhouse gas emissions, reducing air pollution and contributing to a cleaner environment.
+2. Sustainability: Renewable energies are inexhaustible, drawing from natural resources like sunlight, wind, and water.
+3. Reduced reliance on fossil fuels: By using renewable energy, we can decrease our dependence on finite resources like oil, coal, and natural gas.
+4. Job creation: Investment in the renewable energy sector leads to the creation of jobs in manufacturing, installation, and maintenance.
+
+Drawbacks:
+1. High initial cost: Developing renewable energy infrastructure often requires substantial upfront investment.
+2. Intermittent supply: Sources like solar and wind power depend on weather conditions, which can make energy production unreliable at times.
+3. Space constraints: Some renewable energy installations, such as solar and wind farms, require large areas of land.
+4. Environmental concerns: Some renewable energy technologies may have negative impacts on the environment or wildlife, such as hydropower altering aquatic ecosystems or wind turbines impacting bird populations.
+
+7. Instruction: Turn the given sentence into a question.
+7. Input: 
+She was playing the guitar by the window.
+7. Output: 
+Was she playing the guitar by the window?
+
+8. Instruction: List five activities that can help improve mental health.
+8. Input: 
+<noinput>
+8. Output: 
+1. Regular exercise
+2. Meditation or mindfulness practices
+3. Journaling or expressive writing
+4. Spending time in nature
+5. Engaging in creative hobbies, such as painting, playing a musical instrument or crafting
+
+9. Instruction: Compare emails and text messaging as effective forms of communication.
+9. Input: 
+<noinput>
+9. Output: 
+Emails:
+- Pros: More formal, can include attachments, allows for lengthier and more thorough messages, easier to track and organize with folders
+- Cons: Can be slow, higher likelihood of messages being ignored, spam or missed in clutter, not as convenient on mobile devices
+
+Text messaging:
+- Pros: Faster, more immediate response, more casual and personal, convenient for short and quick exchanges, easily accessible on mobile devices
+- Cons: Limited in message length, informal, not suitable for complex or detailed discussions, harder to organize, not suitable for sharing large files
+
+10. Instruction: Summarize the steps to create a personal budget in a few sentences.
+10. Input: 
+<noinput>
+10. Output: 
+To create a personal budget, begin by calculating your monthly income from all sources. Then, track and categorize your monthly expenses, separating them into fixed and variable costs. Allocate a portion of your income to saving or investing, and make adjustments to your spending categories as necessary to ensure your expenses stay within your income. Finally, monitor your expenses regularly and make adjustments to your budget plan as needed to maintain financial stability.

@@ -1,0 +1,106 @@
+4. Instruction: Summarize the article provided below.
+4. Input: 
+"Researches show that eating a balanced diet can significantly improve mental health, with an emphasis on omega-3 fatty acids, lean protein, vegetables, and fruits."
+4. Output: 
+The article suggests that a balanced diet, with an emphasis on omega-3 fatty acids, lean protein, vegetables, and fruits, can greatly improve mental health.
+###
+5. Instruction: Can you tell me the etymology of the word 'chair'? 
+5. Input: 
+<noinput>
+5. Output: 
+The etymology of the word 'chair' derives from the Old French 'chaiere', which means seat or throne. It was used to refer to a seat of authority or dignity, as well as a seat with arms and a backrest.
+###
+6. Instruction: Create a csv file with the given data.
+6. Input: 
+Data: 
+Name, Age, Gender
+Sara, 25, Female
+John, 30, Male
+Emily, 27, Female
+6. Output:
+"name, age, gender
+Sara, 25, Female
+John, 30, Male
+Emily, 27, Female"
+###
+7. Instruction: Can you paraphrase the following sentence?
+"Many people believe that climate change is caused by human activities, although there are some who disagree."
+7. Input: 
+<noinput>
+7. Output:
+While some people disagree, many believe that human activities contribute to climate change.
+###
+8. Instruction: Write an essay on the given topic. 
+8. Input: 
+Topic: The Importance of Renewable Energy for the Future
+8. Output: 
+Renewable energy is of vital importance to the future of our planet. By reducing our dependence on fossil fuels, we can mitigate the negative effects of climate change and create a more sustainable world. There are numerous forms of renewable energy, including solar, wind, hydro, and geothermal, that can provide us with a clean, reliable source of power for generations to come.
+###
+9. Instruction: What is the difference between a virus and a bacteria? 
+9. Input: 
+<noinput>
+9. Output:
+The main difference between a virus and a bacteria is that a virus needs a host to survive and reproduce, while bacteria can grow and reproduce on their own. Viruses are also much smaller than bacteria and require more sophisticated methods to diagnose and treat.
+###
+10. Instruction: Edit the given paragraph for grammar and spelling errors. 
+10. Input:
+Paragraph: 
+"The companys products are a mix of traditional and innovative produc's, and are sold in stores across the country. The company believs in sustainable, environmetally-friendly practices, and works to reduce their carbon footprint."
+10. Output: 
+"The company's products are a mix of traditional and innovative products and are sold in stores nationwide. The company believes in sustainable and environmentally-friendly practices and works to reduce its carbon footprint."
+###
+11. Instruction: Can you calculate the area of the given triangle? 
+11. Input: 
+Triangle: base = 6cm, height = 8cm
+11. Output: 
+The area of the given triangle is 24 square centimeters.
+###
+12. Instruction: Describe the plot of the given novel. 
+12. Input: 
+Novel: "To Kill a Mockingbird" by Harper Lee
+12. Output: 
+The novel follows Scout Finch as she grows up in a small town in Alabama during the 1930s. Her father, Atticus, is a lawyer who defends an innocent black man accused of rape. The trial forces Scout and her brother Jem to confront the racism and prejudice of their community and ultimately leads to a tragic outcome.
+###
+13. Instruction: Can you recommend a restaurant near me? 
+13. Input: 
+Location: New York City
+13. Output: 
+I recommend trying out the Blue Ribbon Sushi Bar & Grill in the heart of the city. The restaurant serves up delicious sushi and Japanese-American fusion cuisine and has received numerous accolades over the years.
+###
+14. Instruction: Rewrite the sentence to make it more concise. 
+14. Input: 
+Sentence: "The reason why she didn't come to the party was because she was feeling under the weather."
+14. Output: 
+"She didn't come to the party because she wasn't feeling well."
+###
+15. Instruction: Convert the following sentence to passive voice. 
+15. Input: 
+Sentence: "The company will release the new product next month."
+15. Output: 
+"The new product will be released by the company next month."
+###
+16. Instruction: What is the main theme of the given poem? 
+16. Input: 
+Poem: "The Road Not Taken" by Robert Frost
+16. Output: 
+The central theme of the poem is the concept of choice and individuality. The speaker reflects on the road he has taken in life, and how his choices have shaped his identity and destiny. He ultimately concludes that the path less traveled, the one that deviates from the norm, makes all the difference.
+###
+17. Instruction: Write a haiku poem about winter. 
+17. Input: 
+<noinput>
+17. Output: 
+Winter's chill descends,
+Silent snowflakes dance and twirl,
+Nature takes a nap.
+###
+18. Instruction: Can you provide a synonym for the word 'happy'? 
+18. Input: 
+<noinput>
+18. Output: 
+A synonym for the word 'happy' is 'joyful'.
+###
+19. Instruction: Can you summarize the news article provided below? 
+19. Input: 
+Article: "NASA's Perseverance rover made a picture-perfect landing on Mars on Thursday, kicking off a multiyear mission to explore the red planet's ancient past. The spacecraft touched down in a crater near the planet's equator known as Jezero, where it will search for signs of ancient microbial life."
+19. Output: 
+NASA's Perseverance rover has successfully landed on Mars and will begin a multiyear mission to explore the planet's history. The rover will be searching for evidence of ancient microbial life in the Jezero crater near the planet's equator.

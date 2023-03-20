@@ -1,0 +1,111 @@
+4. Instruction: Convert these sentences from passive to active voice.
+4. Input: 
+The cake was eaten by him. The book was published by the company. The car was driven by her.
+4. Output: 
+He ate the cake. The company published the book. She drove the car.
+
+5. Instruction: Name the historical event that occurred on the date given.
+5. Input: 
+July 20, 1969
+5. Output: 
+Apollo 11 Moon Landing
+
+6. Instruction: Edit and rewrite the following paragraph by removing unnecessary words and phrases.
+6. Input: 
+So, I think it is very necessary, to be very honest that in fact there are many ways in which people can show their love to each other, the fact is that one of the most successful ways in general is through communication, you know? Speaking, to your significant other and showing your honest feelings is one of the most effective ways that you can actually show love and affection.
+6. Output: 
+It is necessary to be honest about the many ways people can show their love, and one of the most successful methods is through communication. Speaking to your significant other and expressing honest feelings effectively demonstrates love and affection.
+
+7. Instruction: Recommend top 3 romantic movies.
+7. Input: 
+<noinput>
+7. Output: 
+1. The Notebook
+2. Casablanca
+3. Pride and Prejudice
+
+8. Instruction: Describe the taste and texture of sushi.
+8. Input: 
+<noinput>
+8. Output: 
+Sushi has a delicate, fresh, and umami-rich taste, with flavors that vary depending on the type of fish, seafood, or other ingredients used. The texture is often soft and tender, with a slight chewiness from the sushi rice and smoothness from the fish or seafood.
+
+9. Instruction: Paraphrase the following sentence:
+9. Input: 
+The creation of AI technology comes with benefits and risks that must be accounted for by policymakers.
+9. Output: 
+Developing AI technology entails advantages and drawbacks that need to be considered by decision-makers.
+
+10. Instruction: Explain why exercise is important for maintaining a healthy lifestyle.
+10. Input: 
+<noinput>
+10. Output: 
+Exercise is important for maintaining a healthy lifestyle because it helps to strengthen muscles, maintain a healthy weight, improve cardiovascular health, and increase energy levels. It also releases endorphins, which can improve mood and reduce stress, contributing to better mental health.
+
+11. Instruction: Identify the main subject of the following sentence:
+11. Input: 
+The concert was a thrilling experience for everyone who attended.
+11. Output: 
+The concert
+
+12. Instruction: Generate short tips for an effective public speaking presentation.
+12. Input: 
+<noinput>
+12. Output: 
+1. Practice and rehearse your speech
+2. Know your audience and tailor your message to them
+3. Use visuals aids sparingly and effectively
+4. Be confident and engage with your audience
+5. Speak clearly and at a controlled pace
+6. Use body language to emphasize your message
+7. Prepare for potential questions or challenges from the audience
+
+13. Instruction: In one sentence, state the main plot of the movie "The Shawshank Redemption."
+13. Input: 
+<noinput>
+13. Output:
+The Shawshank Redemption follows the story of a banker, wrongly convicted of murder, who cultivates hope and friendship while serving a life sentence in the brutal Shawshank State Penitentiary.
+
+14. Instruction: Explain how plants make food through the process of photosynthesis.
+14. Input: 
+<noinput>
+14. Output: 
+Through photosynthesis, plants make food by capturing sunlight energy to convert carbon dioxide and water into glucose and oxygen, using chlorophyll in their leaves and storing the glucose as a source of energy for growth and development.
+
+15. Instruction: Correct the grammar and punctuation errors in the following sentence:
+15. Input: 
+Their going too the store ; to buy there cat some food,
+15. Output: 
+They're going to the store to buy their cat some food.
+
+16. Instruction: Name three popular social media platforms.
+16. Input: 
+<noinput>
+16. Output: 
+1. Facebook
+2. Instagram
+3. Twitter
+
+17. Instruction: Provide advice on how to overcome failure.
+17. Input: 
+<noinput>
+17. Output: 
+To overcome failure, it's important to accept the outcome, learn from your mistakes, maintain a positive mindset, set realistic expectations, identify areas for improvement, and create a plan to move forward with determination and resilience.
+
+18. Instruction: Write a question related to space exploration.
+18. Input: 
+<noinput>
+18. Output: 
+What are the current objectives and future plans for manned Mars missions?
+
+19. Instruction: Write a brief summary of the Swiss watchmaker brand, Rolex. Mention its history, quality, and popularity.
+19. Input: 
+<noinput>
+19. Output: 
+Rolex, a Swiss watchmaker brand established in 1905 by Hans Wilsdorf, is renowned for its high-quality, precision timepieces. Known for its craftsmanship, Rolex earned a reputation for producing durable and luxurious watches that have become status symbols worldwide.
+
+20. Instruction: Describe the purpose of a conclusion paragraph in an essay.
+20. Input: 
+<noinput>
+20. Output: 
+The purpose of a conclusion paragraph in an essay is to summarize the main arguments and important points, reiterate the thesis statement, and provide a sense of closure, leaving the reader with a lasting impression or thought-provoking insight.

@@ -1,0 +1,125 @@
+4. Instruction: Convert the passive voice sentence into active voice. 
+4. Input: 
+The dog was trained by Lisa.
+4. Output: 
+Lisa trained the dog.
+###
+5. Instruction: Rewrite the following sentences starting with a gerund.
+5. Input: 
+I cook dinner, and I enjoy listening to music.
+5. Output: 
+Cooking dinner, I enjoy listening to music.
+###
+6. Instruction: Guess the intention behind the following sentences: Public figure examples are provided.
+6. Input: 
+a) I am not a crook - Richard Nixon
+b) I have a dream - Martin Luther King Jr.
+c) If I am worth anything later, I am worth something now. For wheat is wheat, even if people think it is grass in the beginning – Vincent van Gogh
+6. Output: 
+a) Deny wrongdoing or guilt
+b) Express a vision for civil rights and racial equality
+c) Emphasize self-worth despite a lack of recognition
+###
+7. Instruction: Which is the correct preposition for each blank?
+7. Input: 
+a) The party is scheduled ______ 8 pm.
+b) She waved goodbye ___ me.
+c) I have work to do ___ the weekend.
+7. Output: 
+a) at
+b) to
+c) over
+###
+8. Instruction: List the main characters of the book: We've always lived in the castle, and their relations.
+8. Input: 
+<noinput>
+8. Output: 
+- Mary Katherine "Merricat" Blackwood: the story's narrator and protagonist
+- Constance Blackwood: Merricat's older sister
+- Julian Blackwood: Merricat and Constance's uncle
+- Charles Blackwood: Constance's cousin and Julian's nephew
+Relations:
+- Merricat is Constance's sister and Julian's niece
+- Constance is Merricat's sister and Julian's niece
+- Julian is Merricat and Constance's uncle
+- Charles is Julian's nephew and Constance's cousin
+###
+9. Instruction: Present three suggestions for reducing energy consumption at home.
+9. Input: 
+<noinput>
+9. Output: 
+1. Unplug electronic devices when not in use, or use smart power strips to reduce standby power consumption.
+2. Replace old light bulbs with energy-efficient LED bulbs to consume less electricity.
+3. Install a programmable thermostat to better manage and reduce heating and cooling energy consumption.
+###
+10. Instruction: Summarize the following text in one sentence.
+10. Input: 
+Elephants, the largest land mammals, are not only known for their impressive size, long tusks, and strong trunks, but also for their intelligence. Elephants demonstrate many impressive cognitive abilities, such as learning, tool use, and self-awareness. For instance, they can recognize themselves in mirrors, problem-solve to access food, and exhibit signs of empathy towards other elephants.
+10. Output: 
+Elephants, as the largest land mammals, possess not only physical attributes like size, tusks, and trunks, but also display remarkable intelligence with capabilities such as learning, tool use, and empathy.
+###
+11. Instruction: Which animal doesn't belong to the list, and why?
+11. Input: 
+cow, horse, fish, elephant, pig
+11. Output: 
+Fish, because it's an aquatic animal, whereas the others are all terrestrial mammals.
+###
+12. Instruction: Describe how volcanoes are formed.
+12. Input: 
+<noinput>
+12. Output: 
+Volcanoes are formed when molten rock called magma, originating from the Earth's mantle, rises through the Earth's crust, reaching the surface and erupting. This process typically occurs at tectonic plate boundaries where these plates either diverge or converge, causing fractures that allow the magma to rise and solidify, eventually forming volcanic mountains over time. In some instances, volcanic activity can also occur in hotspots away from plate boundaries, as it happens with the Hawaiian Islands.13. Instruction: Use the phrase 'the ball is in your court' in a sentence.
+13. Input: 
+<noinput>
+13. Output: 
+I've shared my ideas with the team; now the ball is in your court to decide what direction we should take.
+###
+14. Instruction: Provide a definition and difference between accuracy and precision.
+14. Input: 
+<noinput>
+14. Output: 
+Accuracy refers to how closely a measurement aligns with the true value or a target, while precision denotes the consistency and repeatability of measurements. A measurement can be precise but not necessarily accurate, or vice versa. In simple terms, accuracy is about aiming at the right target, while precision is about consistency in hitting the target regardless of whether it's the right one.
+###
+15. Instruction: Create a limerick about a baker.
+15. Input: 
+<noinput>
+15. Output: 
+There once was a baker named Moore,
+Whose pastries would make your heart soar,
+His cookies and tarts,
+Were true works of art,
+That left everyone craving for more.
+###
+16. Instruction: Identify and correct the errors in the following sentence.
+16. Input: 
+There is an apple's on the table, and he want's some.
+16. Output: 
+There is an apple on the table, and he wants some.
+###
+17. Instruction: Provide an example of alliteration.
+17. Input: 
+<noinput>
+17. Output: 
+The slippery snake silently slithered through the soft, sandy soil.
+###
+18. Instruction: Write a haiku about a peaceful forest.
+18. Input: 
+<noinput>
+18. Output: 
+Mossy forest floor,
+Whispers echo through branches,
+Nature's tranquil song.
+###
+19. Instruction: Describe how photosynthesis works.
+19. Input: 
+<noinput>
+19. Output: 
+Photosynthesis is the process by which green plants, algae, and select bacteria convert light energy, carbon dioxide (CO2), and water (H2O) into glucose (a type of sugar) and oxygen (O2). Photosynthesis primarily takes place in the plant's chloroplasts, where the green pigment chlorophyll absorbs sunlight. Through a series of chemical reactions within the chloroplasts known as the light-dependent and light-independent reactions, sunlight is used to convert CO2 and H2O into glucose, which serves as the plant's energy source, and O2, which becomes a byproduct released into the atmosphere.
+###
+20. Instruction: Provide three reasons why reading is essential for personal growth.
+20. Input: 
+<noinput>
+20. Output: 
+1. Reading expands your knowledge and exposes you to new ideas, cultures, and perspectives, fostering intellectual growth.
+2. Reading enhances vocabulary, communication skills, and critical thinking, which are vital for personal and professional success.
+3. Reading encourages empathy and emotional intelligence by allowing you to experience situations and emotions through characters' lives, promoting emotional growth.

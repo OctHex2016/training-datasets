@@ -1,0 +1,116 @@
+4. Instruction: Summarize the main points of the given paragraph in a single sentence.
+4. Input:
+Despite the shrinking polar ice caps, the Arctic region continues to hold vast untapped reserves of oil and gas, thought to be around 22% of the world's undiscovered but recoverable natural resources. The melting ice caps are making this area more accessible for exploitation, raising the potential benefits for countries such as Canada, Russia, and the United States. However, the race to access these resources comes with significant risks for the environment, local communities, and geopolitical relations among the countries involved.
+4. Output:
+The Arctic's shrinking ice caps reveal vast untapped oil and gas reserves, increasing accessibility for countries like Canada, Russia, and the US, but posing risks to the environment, local communities, and geopolitical relations.
+
+5. Instruction: Write a rhyming couplet about rain.
+5. Input:
+<noinput>
+5. Output:
+As the raindrops patter gently from the skies,
+Nature finds solace, and new life arises.
+
+6. Instruction: Given the food ingredients, suggest a suitable recipe name.
+6. Input:
+* Chicken breasts
+* Spinach
+* Feta cheese
+* Sun-dried tomatoes
+* Olive oil
+* Garlic
+* Salt and pepper
+6. Output:
+Stuffed Chicken Breasts with Spinach, Feta, and Sun-Dried Tomatoes
+
+7. Instruction: Correct the grammatical errors in the given sentence.
+7. Input:
+Me and him was going to the market when we seen the accident.
+7. Output:
+He and I were going to the market when we saw the accident.
+
+8. Instruction: What are the safety precautions you must take while operating a chainsaw?
+8. Input:
+<noinput>
+8. Output:
+Wear appropriate safety gear (e.g. gloves, goggles, ear protection), maintain a proper stance, hold the chainsaw tight, start the chainsaw on the ground, avoid cutting with the tip, maintain the chain tension, and be cautious of kickback.
+
+9. Instruction: Calculate the percentage increase from 60 to 90.
+9. Input:
+<noinput>
+9. Output:
+50%
+
+10. Instruction: Name the primary colors in the color wheel.
+10. Input:
+<noinput>
+10. Output:
+Red, yellow, blue
+
+11. Instruction: Explain the process of photosynthesis in simple terms.
+11. Input:
+<noinput>
+11. Output:
+Photosynthesis is a process where plants convert sunlight, water, and carbon dioxide into oxygen and glucose, which is stored energy for the plant's growth and sustenance.
+
+12. Instruction: Write a brief review of a fictional restaurant experience.
+12. Input:
+<noinput>
+12. Output:
+The ambiance at Le Petit Bistro was warm and inviting, with impeccable service from the staff. The menu offered a great variety of dishes, and each course was a culinary delight. The highlight was the decadent dessert that left us craving more.
+
+13. Instruction: Translate the given sentence from English to French.
+13. Input:
+Hello, how are you today?
+13. Output:
+Bonjour, comment ça va aujourd'hui?
+
+14. Instruction: Identify the literary device used in the given sentence.
+14. Input:
+Time flies like an arrow; fruit flies like a banana.
+14. Output:
+Pun
+
+15. Instruction: Describe the steps to cook pasta.
+15. Input:
+<noinput>
+15. Output:
+1. Boil water in a large pot.
+2. Add salt to boiling water.
+3. Add pasta to the pot.
+4. Cook for the recommended time (check package instructions).
+5. Stir occasionally to prevent sticking.
+6. Taste to ensure pasta is cooked al dente.
+7. Drain the pasta and toss with sauce or seasoning.
+
+16. Instruction: Recommend a suitable title for an article about the effects of sleep on mental health.
+16. Input:
+<noinput>
+16. Output:
+"The Power of Sleep: Unraveling Its Impact on Mental Health"
+
+17. Instruction: Elaborate on the benefits of reading for personal development.
+17. Input:
+<noinput>
+17. Output:
+Reading enhances vocabulary, improves cognitive skills, develops critical thinking, boosts emotional intelligence, enables learning from others' experiences, fosters creativity, reduces stress, and enriches personal growth.
+
+18. Instruction: Compare solar and wind energy briefly.
+18. Input:
+<noinput>
+18. Output:
+Solar energy harnesses sunlight to produce electricity, while wind energy captures wind through turbines to generate power. Both are renewable, clean, and sustainable energy sources, but solar energy is more reliable during daytime while wind energy can be harvested day and night, depending on local wind conditions.
+
+19. Instruction: Identify the main issue in the argument and propose a solution.
+19. Input:
+Alex and Jane are arguing about whose responsibility it is to take care of their elderly mother. Alex believes it is Jane's responsibility as the eldest child, while Jane thinks they should share the responsibility equally.
+19. Output:
+The main issue is the disagreement on the responsibility of taking care of their elderly mother. A possible solution is to create a care schedule that allocates equal time and responsibilities to both siblings, ensuring fairness and reducing conflicts.
+
+20. Instruction: List three major benefits of regular exercise.
+20. Input:
+<noinput>
+20. Output:
+1. Improved physical health and fitness
+2. Reduced risk of chronic diseases
+3. Enhanced mental well-being and mood stability

@@ -1,0 +1,103 @@
+4. Instruction: Given a paragraph, summarize it into 1-2 sentences. 
+4. Input: 
+Paragraph: The prevalence of obesity continues to increase at an alarming rate globally. Obesity leads to serious health complications such as diabetes, heart disease, and stroke. There is a pressing need for more effective prevention and treatment strategies for obesity. 
+4. Output: 
+Obesity is a growing issue globally, causing serious health issues like diabetes, heart disease, and stroke. There is a need for better strategies to prevent and treat it.
+###
+5. Instruction: Given a sentence, suggest a word that would best complete the sentence. 
+5. Input: 
+Sentence: I have a _______ of oranges and bananas. 
+5. Output: 
+basket
+###
+6. Instruction: Correct the grammar mistake in the following sentence. 
+6. Input: 
+Sentence: They was very happy to be meeting each other again. 
+6. Output: 
+They were very happy to be meeting each other again. 
+###
+7. Instruction: Given a set of words, find a synonym for one of them. 
+7. Input:
+Words: happy, joyful, content, peaceful, cheerful 
+7. Output: 
+content (synonym: satisfied)
+###
+8. Instruction: Given a sentence, identify the type of sentence. 
+8. Input: 
+Sentence: My sister, who lives in Paris, is coming to visit me next week. 
+8. Output: 
+Complex sentence 
+###
+9. Instruction: Given a sentence, replace a word with its antonym. 
+9. Input:
+Sentence: The weather is getting colder as winter approaches. 
+9. Output: 
+The weather is getting warmer as winter approaches.
+###
+10. Instruction: Given a word, provide an example sentence where the word is used correctly. 
+10. Input: 
+Word: ubiquitous
+10. Output: 
+The internet has made social media sites ubiquitous in our daily lives. 
+###
+11. Instruction: Given a sentence, identify the part of speech for a specific word. 
+11. Input: 
+Sentence: She quickly ran to the store to buy some bread. 
+Word: quickly 
+11. Output: 
+Adverb 
+###
+12. Instruction: Given a sentence, rephrase it in the passive voice. 
+12. Input: 
+Sentence: The dog chased the cat. 
+12. Output: 
+The cat was chased by the dog. 
+###
+13. Instruction: Given a sentence, provide an example of a word that could replace a specific word in the sentence without changing its meaning. 
+13. Input: 
+Sentence: The baby cried loudly all night. 
+Word: loudly 
+13. Output: 
+vociferously 
+###
+14. Instruction: Given a sentence, add a prepositional phrase to it. 
+14. Input: 
+Sentence: The students were playing in the park. 
+14. Output: 
+The students were playing in the park near the river. 
+###
+15. Instruction: Given a set of words, identify which one is not part of the same word family. 
+15. Input: 
+Words: happy, happiness, happily, sadden 
+15. Output: 
+sadden 
+###
+16. Instruction: Given a sentence, identify the conjunction. 
+16. Input: 
+Sentence: I would like to see a movie, but I don't have any money. 
+16. Output: 
+but 
+###
+17. Instruction: Given a sentence, change the voice from active to passive. 
+17. Input: 
+Sentence: The company released a new product last week. 
+17. Output: 
+A new product was released by the company last week. 
+###
+18. Instruction: Given a sentence with a missing word, suggest a word that could fill in the blank. 
+18. Input: 
+Sentence: She was ________ that her hard work paid off in the end. 
+18. Output: 
+grateful 
+###
+19. Instruction: Given a sentence, identify the object. 
+19. Input: 
+Sentence: He gave the book to his friend. 
+19. Output: 
+book 
+###
+20. Instruction: Given a sentence, identify the subject. 
+20. Input: 
+Sentence: The cat sat on the windowsill. 
+20. Output: 
+cat

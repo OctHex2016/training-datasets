@@ -1,0 +1,52 @@
+4. Instruction: Translate the following sentence into French: "The sunset was beautiful, and the sky was filled with vibrant colors."
+4. Input: 
+The sunset was beautiful, and the sky was filled with vibrant colors.
+4. Output: 
+Le coucher de soleil était magnifique, et le ciel était rempli de couleurs vives.
+
+5. Instruction: Given the following passage, summarize its main points in 2-3 sentences.
+5. Input: 
+Hypertension, commonly known as high blood pressure, is a chronic medical condition that affects millions of people globally. High blood pressure can lead to severe health issues such as heart attack, stroke, and kidney failure if left untreated. Making lifestyle changes like regular physical activity, maintaining a healthy weight, reducing stress, limiting salt intake, and adopting a balanced diet is crucial in managing and preventing hypertension.
+5. Output: 
+Hypertension affects millions worldwide and can lead to severe health issues if untreated. Lifestyle changes such as regular exercise, weight management, stress reduction, diet, and limiting salt intake are important for its prevention and management.
+
+6. Instruction: Describe two advantages and two disadvantages of using solar energy as a renewable energy source.
+6. Input: 
+<noinput>
+6. Output: 
+Advantages:
+1. Environmentally friendly: Solar energy is clean and has minimal impacts on the environment compared to fossil fuels.
+2. Low operating costs: Once solar panels are installed, they require little maintenance and provide energy at a low cost over time.
+
+Disadvantages:
+1. Initial cost: The upfront installation cost of solar panels can be high.
+2. Dependence on sunlight: Solar energy production is directly related to the availability of sunlight, making it less effective in areas with limited sunlight or during nighttime.
+
+7. Instruction: Rewrite the following sentence in passive voice: "The cat chased the mouse."
+7. Input: 
+The cat chased the mouse.
+7. Output: 
+The mouse was chased by the cat.
+
+8. Instruction: Based on the given nutrition facts, classify this food product as a high or low-calorie choice.
+8. Input: 
+Serving Size: 1 bar (40 g)
+Calories: 190
+Total Fat: 10 g
+Sodium: 50 mg
+Total Carbohydrate: 20 g
+Protein: 5 g
+8. Output: 
+High-calorie choice.
+
+9. Instruction: In 3-4 sentences, describe how a plant produces its own food through the process of photosynthesis.
+9. Input: 
+<noinput>
+9. Output: 
+During photosynthesis, plants absorb sunlight through their green pigment called chlorophyll. They also take in carbon dioxide from the air and water from their roots. Through a series of chemical reactions, plants convert sunlight, carbon dioxide, and water into glucose, which serves as their food, and oxygen, which is released as a byproduct.
+
+10. Instruction: Propose a creative title for an article about the benefits of eating a plant-based diet.
+10. Input: 
+<noinput>
+10. Output: 
+"Plant-Powered Paradise: Unlocking the Bounty of a Plant-Based Diet"

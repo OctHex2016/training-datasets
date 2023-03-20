@@ -1,0 +1,115 @@
+4. Instruction: Rewrite the following sentence using active voice.
+4. Input: 
+The results of the experiment were published by Dr. Henderson.
+4. Output: 
+Dr. Henderson published the results of the experiment.
+###
+5. Instruction: Translate the following sentence into French.
+5. Input: 
+My favorite sport is soccer, and I love playing it on weekends.
+5. Output: 
+Mon sport préféré est le football, et j'adore y jouer les week-ends.
+###
+6. Instruction: Identify the incorrect use of its or it's in the sentence and correct it.
+6. Input: 
+The dog wagged its tail when it's owner came home.
+6. Output: 
+The dog wagged its tail when its owner came home.
+###
+7. Instruction: Calculate the percentage increase.
+7. Input: 
+Original value: 150
+New value: 200
+7. Output: 
+33.33%
+###
+8. Instruction: Create an alliteration sentence using the letter 'P' and involving a person and food.
+8. Input: 
+<noinput>
+8. Output: 
+Peter Piper picked a peck of pickled peppers in the pizzeria.
+###
+9. Instruction: Name two animals belonging to the animal order "rodentia."
+9. Input: 
+<noinput>
+9. Output: 
+Rats and squirrels
+###
+10. Instruction: Tell a joke about a programmer.
+10. Input: 
+<noinput>
+10. Output: 
+Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25!
+###
+11. Instruction: Identify and correct the grammatical error in the following sentence.
+11. Input: 
+Thomas have two dogs, one cat, and five fish.
+11. Output: 
+Thomas has two dogs, one cat, and five fish.
+###
+12. Instruction: Give a tip on how to achieve a more sustainable lifestyle.
+12. Input: 
+<noinput>
+12. Output: 
+Use public transportation or carpool to reduce your carbon footprint and decrease traffic congestion.
+###
+13. Instruction: Write a 10-word summary of the given text.
+13. Input: 
+In the heart of a dense forest, there lived a curious little wolf named Luna. Luna didn't like hunting like other wolves, but she was fascinated by the magic that the old owl used in the depths of the forest. Curiously, she sneaked into the owl's hidden chamber one day, and Luna learned the art of magical transformation. She gained the ability to transform herself into different creatures and helped other animals in the forest by solving their problems with her newfound magic.
+13. Output: 
+Curious wolf Luna learns magic, transforms, and helps forest animals.
+###
+14. Instruction: Discover the email address mentioned in the given text.
+14. Input: 
+Hello, thank you for your interest in our company! We would like to provide you with additional information about our services. Please contact Sarah at the following email address: sarah.doe@example.com - Looking forward to hearing from you!
+14. Output: 
+sarah.doe@example.com
+###
+15. Instruction: Give an advice to someone experiencing stress from college work.
+15. Input: 
+<noinput>
+15. Output: 
+Create a time management plan, prioritize tasks, take breaks, and seek support from friends, family, or counselors.
+###
+16. Instruction: Identify the two primary colors in the following mix.
+16. Input: 
+Green
+16. Output: 
+Blue and yellow
+###
+17. Instruction: Convert the given text into a haiku poem.
+17. Input: 
+The sun sets behind the mountains, casting long shadows across the meadow. The flowers sway gently in the cool evening breeze.
+17. Output: 
+Sun sets behind hills,
+Long shadows on the meadow,
+Flowers sway in breeze.
+###
+18. Instruction: Describe the following photograph briefly.
+18. Input: 
+A couple sitting on a park bench under a large tree with colorful autumn leaves, holding hands and looking into each other's eyes.
+18. Output: 
+Loving couple sits on a park bench under an autumn tree, holding hands and gazing at each other.
+###
+19. Instruction: Identify two potential sources of bias in a study.
+19. Input: 
+<noinput>
+19. Output: 
+Selection bias and confirmation bias.
+###
+20. Instruction: Explain how to change a car tire in a few steps.
+20. Input: 
+<noinput>
+20. Output: 
+1. Park car in safe location.
+2. Engage parking brake.
+3. Place wheel chocks.
+4. Remove hubcap.
+5. Loosen lug nuts.
+6. Jack up car.
+7. Remove lug nuts and tire.
+8. Mount spare tire.
+9. Tighten lug nuts.
+10. Lower car and remove jack.
+11. Fully tighten lug nuts.
+12. Replace hubcap.

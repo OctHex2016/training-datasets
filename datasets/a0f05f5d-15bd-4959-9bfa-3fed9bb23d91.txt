@@ -1,0 +1,55 @@
+4. Instruction: Translate the given sentence into French.
+4. Input: 
+How are you feeling today?
+4. Output: 
+Comment vous sentez-vous aujourd'hui?
+###
+5. Instruction: Identify if the provided statement is a fact or an opinion.
+5. Input: 
+Bananas are the best source of potassium.
+5. Output: 
+opinion
+###
+6. Instruction: Summarize the main points of the given content.
+6. Input: 
+Visiting cities like Paris and Rome is a dream for many. The history, culture, and cuisine in Europe make it an attractive destination. However, excessive tourism is damaging to many of these cultural sites. The wear and tear are compelling city officials to impose restrictions on tourism to preserve the historical places. While it is essential for sustaining the vitality of these landmarks, stricter regulations may have negative implications on the local economy, which often depends heavily on tourism revenue.
+6. Output: 
+Europe's history, culture, and cuisine make it an attractive destination, but excessive tourism damages its cultural sites. City officials are imposing restrictions to preserve historical places, but it may negatively affect the local economy reliant on tourism revenue.
+###
+7. Instruction: Suggest an alternative ending to the provided story.
+7. Input: 
+Once upon a time, there lived a brave knight named Patrick. He was known to have saved countless towns from the wrath of the frightening dragon. One day, while Patrick was traveling to rescue a kingdom under attack, the dragon suddenly emerged in his path. They engaged in a fierce battle, and just as the knight was about to defeat the dragon, he realized that the dragon was only stealing the gold to save her starving children.
+7. Output: 
+Instead of defeating the dragon, Patrick showed mercy and struck a deal with her. He agreed to help provide food for her starving children, and in return, the dragon would no longer steal gold from the kingdom. The grateful dragon kept her promise, and together, they saved other kingdoms that needed help, showing that compassion and understanding can bring about positive change.
+###
+8. Instruction: Create a suitable response to the given question.
+8. Input: 
+What's the best way to learn a new language?
+8. Output: 
+The best way to learn a new language is through immersion in the language, practice, and consistency. It helps to take lessons or classes, practice speaking with native speakers, use language learning apps, and expose yourself to the language through films, music, and literature.
+###
+9. Instruction: What are the top 5 highest-grossing movies of all time? 
+9. Input: 
+<noinput>
+9. Output: 
+1. Avatar (2009)
+2. Avengers: Endgame (2019)
+3. Titanic (1997)
+4. Star Wars: The Force Awakens (2015)
+5. Avengers: Infinity War (2018)
+###
+10. Instruction: Write a short apology letter for not attending a friend's birthday party.
+10. Input: 
+<noinput>
+10. Output:
+Dear [Friend's Name],
+
+I am so sorry that I couldn't attend your birthday party. Unfortunately, an unforeseen event came up at the last minute, and I was unable to make it. I know how special this celebration was to you, and it saddens me that I missed the opportunity to celebrate your big day with you.
+
+Please accept my sincerest apologies and know that I truly value our friendship. I would love to make it up to you by taking you out for lunch or arranging something special soon.
+
+Once again, I apologize for my absence and hope you had an amazing birthday celebration.
+
+Warm regards,
+
+[Your Name]

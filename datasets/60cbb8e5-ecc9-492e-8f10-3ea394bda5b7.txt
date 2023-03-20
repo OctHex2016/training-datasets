@@ -1,0 +1,125 @@
+4. Instruction: Describe the main characteristics of Impressionist painting.
+4. Input: 
+<noinput>
+4. Output: 
+Impressionist painting is characterized by its emphasis on capturing the immediate visual impression, use of light and color, small and thin brushstrokes, open composition, and focus on ordinary subject matter.
+
+###
+5. Instruction: Please identify any potential problems or issues in the following Wikipedia excerpt.
+5. Input: 
+Bernard Sanders (born September 8, 1941) is an Amercian politican and activist who has served as the junior United Stats Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007.
+5. Output: 
+There are several spelling errors: "Amercian" should be "American," "politican" should be "politician," "United Stats" should be "United States," and "Vermot" should be "Vermont."
+
+###
+6. Instruction: Write an objective summary of the following text about an employee's performance.
+6. Input: 
+Tom is a phenomenal graphic designer with over five years of experience within the marketing team. He always submits his designs on time and exceeds the expectations set for him. Tom doesn't hesitate to share his ideas for improvements and actively participates in team discussions. His positive attitude and ability to thrive under pressure have a significant impact on the entire team's morale.
+6. Output: 
+Tom, a graphic designer with more than five years' experience, has consistently submitted high-quality work on schedule while sharing ideas for improvement and actively participating in team discussions. He maintains a positive attitude and excels under pressure, positively influencing the team's morale.
+
+###
+7. Instruction: Convert the given temperature in Celsius to Fahrenheit.
+7. Input: 
+25°C
+7. Output: 
+77°F
+
+###
+8. Instruction: What type of poem is described below?
+8. Input: 
+A 14-line poem that follows a specific rhyme scheme and is usually written in iambic pentameter.
+8. Output: 
+Sonnet
+
+###
+9. Instruction: Based on the scenario, suggest an appropriate course of action for the person involved.
+9. Input: 
+Jack discovers that his coworker has not completed a crucial project assignment and will miss the deadline.
+9. Output: 
+Jack should notify his manager about the uncompleted assignment and discuss how to best proceed to complete the project on time or assess possible deadline extensions.
+
+###
+10. Instruction: List at least three benefits of practicing mindfulness meditation.
+10. Input: 
+<noinput>
+10. Output: 
+1. Reduced stress and anxiety
+2. Improved mental focus and concentration
+3. Enhanced emotional wellbeing and self-awareness
+
+###
+11. Instruction: Edit the following paragraph by correcting grammatical errors and improving the sentence structure.
+11. Input: 
+Vaccines work by trainings the immune system to recognize and combat pathogen. Vaccine consists on a part of the pathogen or entire pathogen, which is weakened or inactive. Over time, vaccines has proven for be one of the most effective way to prevent diseases.
+11. Output: 
+Vaccines work by training the immune system to recognize and combat pathogens. A vaccine consists of a part or the entire pathogen, which is weakened or inactivated. Over time, vaccines have proven to be one of the most effective ways to prevent diseases.
+
+###
+12. Instruction: How does photosynthesis work in plants?
+12. Input: 
+<noinput>
+12. Output: 
+Photosynthesis is a process in which plants convert light energy into chemical energy stored in glucose. It occurs in the chloroplasts of plant cells and involves two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). During light-dependent reactions, chlorophyll captures light energy, which is used to produce ATP and NADPH. In the Calvin cycle, ATP and NADPH are used to fix carbon dioxide into glucose through a series of enzyme-catalyzed reactions.
+
+###
+13. Instruction: Rate the overall quality of the provided customer service experience on a scale of 1 to 5, where 1 is poor and 5 is excellent.
+13. Input: 
+The agent was friendly and attentive, resolving my issue within minutes. She also offered additional support and provided helpful tips for preventing similar problems in the future.
+13. Output: 
+5
+
+###
+14. Instruction: In a few sentences, describe the plot of a sci-fi novel called "Timeless Galaxy".
+14. Input: 
+<noinput>
+14. Output: 
+"Timeless Galaxy" follows the journey of a physicist named Dr. Harper, who discovers a way to manipulate time and space through the use of advanced technology. As Dr. Harper further explores this newfound power, unforeseen consequences and threats to humanity begin to emerge. With the fate of the universe in the balance, Dr. Harper must decide whether to preserve the cosmic order or to risk everything for a second chance at rewriting a tragic past.
+
+###
+15. Instruction: What steps should be taken to safely extinguish a grease fire in a kitchen?
+15. Input: 
+<noinput>
+15. Output: 
+1. Turn off the heat source (stove, oven, etc.)
+2. Do not use water or flour to extinguish the grease fire, as it can cause the fire to spread or flare up.
+3. Cover the fire with a metal lid or another suitable metal object to smother the flames.
+4. If covering the fire is not possible, use a Class B fire extinguisher specifically designed for grease or oil fires.
+5. If the fire is not controlled or continues to spread, evacuate immediately and call emergency services.
+
+###
+16. Instruction: Given the following percentages, calculate the weighted average.
+16. Input: 
+A: 60% with a weight of 30%
+B: 80% with a weight of 50%
+C: 90% with a weight of 20%
+16. Output: 
+75%
+
+###
+17. Instruction: Write a brief, positive review for a fictional Italian restaurant called "Pasta Paradiso."
+17. Input: 
+<noinput>
+17. Output: 
+I had a delightful experience at Pasta Paradiso! The atmosphere was warm and welcoming, and the staff provided exceptional service. The homemade pasta dishes were absolutely delicious, and the desserts were a perfect way to end the meal. I highly recommend Pasta Paradiso for an authentic Italian dining experience!
+
+###
+18. Instruction: Please rewrite the following passage from the third person point of view to first person point of view.
+18. Input: 
+Lisa walked slowly to the beach, feeling the sand between her toes. As the waves crashed nearby, she thought about her life and the choices she had made.
+18. Output: 
+I walked slowly to the beach, feeling the sand between my toes. As the waves crashed nearby, I thought about my life and the choices I had made.
+
+###
+19. Instruction: Identify the genre of the book "To Kill a Mockingbird" by Harper Lee.
+19. Input: 
+<noinput>
+19. Output: 
+Southern Gothic, Bildungsroman
+
+###
+20. Instruction: What is the underlying theme or message in Aesop's fable "The Tortoise and the Hare"?
+20. Input: 
+<noinput>
+20. Output: 
+Slow and steady wins the race; perseverance and determination can lead to success over arrogance and overconfidence.

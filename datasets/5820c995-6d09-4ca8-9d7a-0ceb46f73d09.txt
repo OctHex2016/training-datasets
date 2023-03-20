@@ -1,0 +1,96 @@
+4. Instruction: Create a compelling opening sentence for a story about a lost treasure.
+4. Input: <noinput>
+4. Output: 
+The wind howled as the old map unfurled in my hands, revealing the location of a long-lost treasure on a deserted island.
+###
+5. Instruction: Classify the following animals based on their habitat, Arctic Wolf, Koala, Nile Crocodile, Orangutan, Lion.
+5. Input: 
+Arctic Wolf, Koala, Nile Crocodile, Orangutan, Lion.
+5. Output: 
+Arctic Wolf - Arctic Tundra, Koala - Eucalyptus Forests, Nile Crocodile - Nile River, Orangutan - Forests of Borneo and Sumatra, Lion - African Plains.
+###
+6. Instruction: Revise the following sentences to be more concise.
+6. Input: 
+Despite the fact that it was raining outside, Sarah went for a walk and got completely drenched.
+6. Output: 
+Despite the rain, Sarah went for a walk and got soaked.
+###
+7. Instruction: Generate a haiku poem about a sunset.
+7. Input: <noinput>
+7. Output: 
+Orange sky ablaze, 
+Warmth softly fades into night, 
+Peaceful horizon.
+###
+8. Instruction: Edit the following paragraph to be in the past tense.
+8. Input: 
+The sun rises every morning above the tall trees, casting a warm glow across the countryside. The birds sang in harmony as the morning dew sparkled on the leaves. All was peaceful and serene.
+8. Output: 
+The sun rose every morning above the tall trees, casting a warm glow across the countryside. The birds sang in harmony as the morning dew sparkled on the leaves. All was peaceful and serene.
+###
+9. Instruction: Generate a tweet about the importance of recycling.
+9. Input: <noinput>
+9. Output: 
+Recycling helps to reduce the amount of waste in our environment and conserve natural resources. Let's all do our part to protect our planet! ♻️🌍 #recycling #sustainability
+###
+10. Instruction: Translate the following sentence to French.
+10. Input: 
+I love to travel and explore new cultures.
+10. Output: 
+J'adore voyager et découvrir de nouvelles cultures. 
+###
+11. Instruction: Describe the color scheme and layout of Monet's painting "Water Lilies".
+11. Input: <noinput>
+11. Output: 
+The painting "Water Lilies" by Monet features a cool color scheme of blues and greens, with light highlights of pinks and yellows. The painting depicts a pond filled with lilies, with the reflections of the surrounding trees and sky creating a serene atmosphere. The layout is loose and impressionistic, with the forms of the lilies and water blending together in a dreamlike manner.
+###
+12. Instruction: Provide the definition of the word "perplexed".
+12. Input: 
+perplexed
+12. Output: 
+The definition of "perplexed" is to be completely baffled or puzzled, uncertain about what to do, think or say.
+###
+13. Instruction: Complete the analogy: "As a hammer is to a nail, a screwdriver is to a _______"
+13. Input: 
+hammer:nail::screwdriver:?
+13. Output: 
+screw
+###
+14. Instruction: Summarize the key concepts of the book "1984" by George Orwell.
+14. Input: <noinput>
+14. Output: 
+The novel "1984" by George Orwell is a dystopian story set in a totalitarian society ruled by the Party, led by the enigmatic figure of Big Brother. The book explores themes such as political oppression, censorship, and the power of language to control people's thoughts and actions. The protagonist, Winston Smith, engages in a forbidden love affair and becomes disillusioned with the society and its rulers. The book ends on a bleak note, with Winston's spirit being broken and his body being completely subjugated to the will of the Party.
+###
+15. Instruction: Generate a marketing tagline for a new brand of coffee.
+15. Input: <noinput>
+15. Output: 
+"Fuel your day with our bold and smooth blend of premium coffee. Wake up and taste the difference!" ☕️✨ #coffee #premiumblend
+###
+16. Instruction: Find the derivative of the function f(x) = x^2 + 3x.
+16. Input: 
+f(x) = x^2 + 3x
+16. Output: 
+f'(x) = 2x + 3
+###
+17. Instruction: Write a letter of recommendation for a former coworker who is applying for a new job.
+17. Input: 
+John Smith, who was a colleague at XYZ company, is applying for a position as a project manager.
+17. Output: 
+Dear Hiring Manager, I am writing this letter to strongly recommend John Smith for the position of project manager in your company. I have had the pleasure of working with John at XYZ company and can attest to his exceptional skills in leadership, organization, and problem-solving. He has consistently demonstrated a high level of dedication and professionalism in his work, and I am confident that he would be an asset to your team. Sincerely, [Your Name]
+###
+18. Instruction: With the following numbers, calculate the mean and median: 3, 5, 7, 9, 11.
+18. Input: 
+3, 5, 7, 9, 11
+18. Output: 
+The mean of these numbers is 7. The median of these numbers is also 7.
+###
+19. Instruction: Generate a list of synonyms for the word "happy".
+19. Input: 
+happy
+19. Output: 
+Joyful, delighted, content, elated, pleased, thrilled, overjoyed, euphoric, ecstatic, blissful.
+###
+20. Instruction: Identify the protagonist and antagonist in the book "To Kill a Mockingbird" by Harper Lee.
+20. Input: <noinput>
+20. Output: 
+The protagonist of "To Kill a Mockingbird" is Scout Finch, a young girl on the cusp of adolescence, who learns important lessons about empathy, justice, and prejudice. The antagonist of the book is Bob Ewell, a white supremacist who accuses Tom Robinson, a black man, of rape and perpetuates the cycle of racism in Maycomb, Alabama.

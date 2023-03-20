@@ -1,0 +1,108 @@
+4. Instruction: Identify whether a comet or an asteroid is being described, based on their characteristics.
+4. Input: 
+It is icy, small, and has a tail of vapor when it gets close to the sun.
+4. Output: 
+Comet
+
+5. Instruction: Rewrite the given sentence in passive voice.
+5. Input: 
+The cat chased the dog all around the yard.
+5. Output: 
+The dog was chased all around the yard by the cat.
+
+6. Instruction: What is the square root of the given number?
+6. Input: 
+144
+6. Output: 
+12
+
+7. Instruction: Suggest an inspiring quote about success.
+7. Input: 
+<noinput>
+7. Output: 
+"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+
+8. Instruction: Identify the main cause of the problem explained in the given text.
+8. Input: 
+The company's sales have been steadily declining for the past few months, and the management still hasn't found a solution. The main issue seems to be poor communication between departments, resulting in missed opportunities and delays in project completion.
+8. Output: 
+Poor communication between departments
+
+9. Instruction: Summarize the passage in one sentence.
+9. Input: 
+As the sun began to set, the colors in the sky splashed a beautiful array of warm hues. The gently rolling hills below seemed to be painted with the most captivating shades of green, which only added to the picturesque scene. Meanwhile, the chirping of the birds and the rustling of the leaves in the soft breeze made for a soothing soundtrack in that moment of pure serenity.
+9. Output: 
+The sunset painted a breathtaking scene of warm-hued sky, vibrant green hills, and soothing nature sounds.
+
+10. Instruction: Convert the provided sentence to past continuous tense.
+10. Input: 
+She bakes a cake for her sister's birthday.
+10. Output: 
+She was baking a cake for her sister's birthday.
+
+11. Instruction: Give an example of a hyperbole.
+11. Input: 
+<noinput>
+11. Output: 
+I've told you a million times not to exaggerate.
+
+12. Instruction: What does the acronym 'SEO' stand for in digital marketing? 
+12. Input: 
+<noinput>
+12. Output: 
+Search Engine Optimization
+
+13. Instruction: Create a haiku (5-7-5 syllables) about the transformation of seasons.
+13. Input: 
+<noinput>
+13. Output: 
+Winter's grip released
+Blossoms dance in springtime breeze
+Life's warmth awakens
+
+14. Instruction: List three key characteristics of Gutenberg's printing press.
+14. Input: 
+<noinput>
+14. Output: 
+1. Movable type
+2. Mass production of printed materials
+3. Use of oil-based ink
+
+15. Instruction: Predict what the weather will be like tomorrow in <city>.
+15. Input: New York City
+15. Output: 
+I am an AI language model and cannot provide real-time data. Please check a reliable weather website or app for up-to-date information on New York City's weather tomorrow.
+
+16. Instruction: Explain the difference between "affect" and "effect" as verbs.
+16. Input: 
+<noinput>
+16. Output: 
+As verbs, "affect" means to influence or alter something, while "effect" means to bring about or cause a result.
+
+17. Instruction: Translate the English sentence into French.
+17. Input: 
+I look forward to seeing you again soon.
+17. Output: 
+J'ai hâte de vous revoir bientôt.
+
+18. Instruction: Write a limerick that features a person from Dublin.
+18. Input: 
+<noinput>
+18. Output: 
+There once was a man from Dublin
+Whose wit always had people grinin'
+He'd dance and he'd joke
+While puffing on smoke
+His charm, not one heart could resist him
+
+19. Instruction: What does the given chemical formula represent?
+19. Input: 
+H2O
+19. Output: 
+Water
+
+20. Instruction: Proofread and correct the given sentence for grammar and spelling errors.
+20. Input: 
+Theres nothing mor intriguing than exploring the unkonwn depths of the occean.
+20. Output: 
+There's nothing more intriguing than exploring the unknown depths of the ocean.

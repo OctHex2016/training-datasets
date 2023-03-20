@@ -1,0 +1,135 @@
+4. Instruction: Translate the following text to French.
+4. Input: 
+The weather is nice today. I would love to go for a picnic.
+4. Output: 
+Le temps est agréable aujourd'hui. J'aimerais faire un pique-nique.
+
+5. Instruction: Identify the error in the given sentence and correct it.
+5. Input: 
+She never haven't been to Paris.
+5. Output: 
+She has never been to Paris.
+
+6. Instruction: Write a guided meditation script, including instructions for proper breathing and mindfulness.
+6. Input: 
+<noinput>
+6. Output: 
+Begin by finding a comfortable and quiet space. Sit or lie down, close your eyes, and start taking slow, deep breaths.
+
+Inhale deeply through your nose, feeling your chest expand, and then exhale slowly through your mouth, feeling your chest contract. Keep a steady and relaxed rhythm. Focus on the sensation of your breath as it flows in and out of your body.
+
+As thoughts arise in your mind, simply acknowledge them and let them pass without judgment. Return your focus to your breath, immersing yourself in the present moment. Maintain an attitude of kindness and acceptance towards your thoughts and feelings.
+
+Spend a few moments in this state of mindfulness, letting your body relax and your mind find peace. When you're ready to return to your day, take a final deep breath and open your eyes.
+
+7. Instruction: Give a short summary of the following story.
+7. Input: 
+Once upon a time, in a small village by the sea, there lived a young fisherman named Oliver. Oliver had worked tirelessly for years but was still very poor. One day, while casting his net, Oliver caught a beautiful golden fish. The golden fish begged to be released, promising to grant Oliver any wish he desired. In exchange for his freedom, the golden fish granted Oliver's wishes for wealth and happiness. The young fisherman's life changed completely, and he lived happily ever after with his family.
+7. Output: 
+A young fisherman named Oliver catches a golden fish that promises him any wish in exchange for its freedom. Oliver wishes for wealth and happiness, and lives happily ever after with his family.
+
+8. Instruction: Rank the given items in the order of importance for survival when stranded on a desert island.
+8. Input: 
+fishing line, fire starter, mirror, first aid kit, battery, tent, water filter
+8. Output: 
+water filter, fire starter, first aid kit, fishing line, tent, mirror, battery
+
+9. Instruction: Calculate the total cost of the given items.
+9. Input: 
+3 apples at $0.50 each, 2 steaks at $5.00 each, 1 chocolate bar at $1.50
+9. Output: 
+$12.00
+
+10. Instruction: Create an outline for a blog post titled "5 Tips for Improving Your Morning Routine".
+10. Input: 
+<noinput>
+10. Output: 
+1. Introduction
+2. Tip 1: Wake up early
+3. Tip 2: Engage in physical activity
+4. Tip 3: Eat a healthy breakfast
+5. Tip 4: Plan your day
+6. Tip 5: Practice mindfulness meditation
+7. Conclusion
+
+11. Instruction: Identify the genre and provide a brief description of the given movie plot.
+11. Input: 
+In a futuristic city, a hacker joins a group of rebels led by a mysterious leader named Morpheus who fights against machine overlords controlling mankind through a simulated reality called the Matrix.
+11. Output: 
+Genre: Science fiction. Description: A hacker joins rebels fighting against machine overlords who control humanity through a simulated reality.
+
+12. Instruction: What color does blue and yellow make when mixed together?
+12. Input: 
+<noinput>
+12. Output: 
+Green
+
+13. Instruction: Write a thank you message for a gift received on your birthday.
+13. Input: 
+<noinput>
+13. Output: 
+Dear [Name],
+
+Thank you so much for the thoughtful birthday gift! I truly appreciate your kindness and generosity. Your presence made my special day even more special, and the gift was the perfect addition to the festivities. I feel so grateful to have you in my life.
+
+Warm regards,
+
+[Your Name]
+
+14. Instruction: Write a brief, yet informative description of the Golden Gate Bridge.
+14. Input: 
+<noinput>
+14. Output: 
+The Golden Gate Bridge is a world-famous, iconic suspension bridge located in San Francisco, California. Completed in 1937, it spans the Golden Gate Strait, connecting San Francisco to Marin County. Known for its distinctive International Orange color and breathtaking views, the bridge has become a beloved symbol of the city and a popular tourist attraction.
+
+15. Instruction: Convert the given temperature from Fahrenheit to Celsius.
+15. Input: 
+82 degrees Fahrenheit
+15. Output: 
+27.8 degrees Celsius
+
+16. Instruction: Give advice to someone on how to improve their time management skills.
+16. Input: 
+<noinput>
+16. Output: 
+1. Set clear goals and prioritize tasks.
+2. Break tasks into smaller, manageable steps.
+3. Use a planner or calendar to organize daily activities.
+4. Eliminate distractions and focus on one task at a time.
+5. Schedule regular breaks and allocate time for relaxation.
+6. Learn to delegate tasks and collaborate with others.
+7. Monitor your progress and adjust your plan as needed.
+
+17. Instruction: Determine the area of the given rectangle.
+17. Input: 
+Length: 12 ft, Width: 6 ft
+17. Output: 
+72 square feet
+
+18. Instruction: List five non-fiction book genres.
+18. Input: 
+<noinput>
+18. Output: 
+1. Biography
+2. History
+3. Science
+4. Travel
+5. Self-help
+
+19. Instruction: Rewrite this sentence in passive voice.
+19. Input: 
+The dog chased the cat around the house.
+19. Output: 
+The cat was chased around the house by the dog.
+
+20. Instruction: Write an acrostic poem using the word "RAINBOW".
+20. Input: 
+<noinput>
+20. Output: 
+Radiant colors stretch across the sky,
+Arcing in a graceful display.
+Iridescent hues, magically combined,
+Nature's beauty taking your breath away.
+Beneath the arch, a hidden world of dreams,
+Overcoming darkness, bringing light.
+Whispers of hope, from a palette of brightness, it seems.

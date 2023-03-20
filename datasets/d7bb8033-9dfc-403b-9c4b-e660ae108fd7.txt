@@ -1,0 +1,101 @@
+4. Instruction: Generate a sentence that rhymes with "cat" and includes the word "hat". 
+4. Input: 
+"cat"
+4. Output: 
+My sister loves her new hat!
+###
+5. Instruction: Write a summary of the article in <noinput>.
+5. Input: 
+<noinput>
+5. Output: 
+Sorry, I am unable to do so as there is no article given.
+###
+6. Instruction: Convert the following temperature from Fahrenheit to Celsius. Give the final answer up to the first decimal point.
+6. Input: 
+98.6°F
+6. Output: 
+37°C
+###
+7. Instruction: Rewrite the following sentence in the active voice.
+7. Input: 
+The cake was baked by Lily.
+7. Output: 
+Lily baked the cake.
+###
+8. Instruction: Generate a list of 5 words that are synonyms of "happy".
+8. Input: 
+"happy"
+8. Output: 
+content, joyful, delighted, thrilled, elated
+###
+9. Instruction: Which country won the soccer world cup in 2018?
+9. Input: 
+<noinput>
+9. Output: 
+France
+###
+10. Instruction: Write a question using reported speech. Change the verb tense if necessary.
+10. Input: 
+"I am traveling to Paris tomorrow," said Sarah.
+10. Output: 
+Sarah said if she was (or she is) traveling to Paris tomorrow.
+###
+11. Instruction: In one sentence, explain the difference between weather and climate.
+11. Input: 
+<noinput>
+11. Output: 
+Weather is the short-term state of the atmosphere, and climate is the long-term average of weather in a particular area.
+###
+12. Instruction: Write a sentence that uses a comparison with "as...as" to describe how fast Usain Bolt runs.
+12. Input: 
+Usain Bolt
+12. Output: 
+Usain Bolt runs as fast as a cheetah.
+###
+13. Instruction: Rewrite the following sentence in the past perfect tense.
+13. Input: 
+He had already left when I arrived.
+13. Output: 
+He had already left before I had arrived.
+###
+14. Instruction: Complete the following sentence with three different adjectives to describe the taste of coffee.
+14. Input: 
+Coffee tastes ________
+14. Output: 
+Coffee tastes bitter, robust, and strong.
+###
+15. Instruction: What is the capital of Australia?
+15. Input: 
+<noinput>
+15. Output: 
+Canberra
+###
+16. Instruction: Write a sentence using a double negative.
+16. Input: 
+<noinput>
+16. Output: 
+I haven't never seen that movie before. 
+###
+17. Instruction: What is the name of the largest desert in Africa?
+17. Input: 
+<noinput>
+17. Output: 
+The Sahara desert
+###
+18. Instruction: Rearrange the words in the following sentence to form a question. 
+18. Input: 
+The party is at 7 PM tonight.
+18. Output: 
+Is the party tonight at 7 PM?
+###
+19. Instruction: Simplify the following fraction. Give the final answer in the simplest form.
+19. Input: 
+20/100
+19. Output: 
+1/5
+###
+20. Instruction: Write a sentence using the word "onomatopoeia".
+20. Input: 
+<noinput>
+20. Output: 
+The word "buzz" is an example of onomatopoeia.

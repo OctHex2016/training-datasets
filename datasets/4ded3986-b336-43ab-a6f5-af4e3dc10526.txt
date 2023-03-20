@@ -1,0 +1,135 @@
+4. Instruction: Compose a brief email to a colleague about rescheduling a meeting.
+4. Input: 
+<noinput>
+4. Output: 
+Subject: Meeting Reschedule Request
+
+Hi [Colleague's Name],
+
+I hope this email finds you well. Due to unforeseen circumstances, I need to reschedule our upcoming meeting originally planned for [Original Date and Time]. 
+
+Would it be possible for you to meet on [Alternative Date and Time]? If not, kindly let me know your availability, and I'll do my best to accommodate.
+
+Apologies for any inconvenience caused, and I appreciate your understanding.
+
+Looking forward to our discussion.
+
+Best regards,
+
+[Your Name]
+
+###
+5. Instruction: Evaluate whether the following statement is true or false: "A scalene triangle has three equal sides."
+5. Input: 
+<noinput>
+5. Output: 
+False
+
+###
+6. Instruction: Write a tweet promoting an environmentally friendly lifestyle.
+6. Input: 
+<noinput>
+6. Output: 
+🌎💚 Let's unite for a greener future! Embrace an eco-friendly lifestyle, reduce waste, and conserve energy. Small steps by each of us make a huge impact! Together, we can protect our planet for future generations. 🚴🌳🌱 #GoGreen #SustainableLiving #SaveTheEarth
+
+###
+7. Instruction: Identify the most suitable preposition for the following sentence: "The cat is _____ the box."
+7. Input: 
+<noinput>
+7. Output: 
+in
+
+###
+8. Instruction: Correct the grammatical errors in the given sentence.
+8. Input: 
+"She walks to the shop, and he does went to the store too."
+8. Output: 
+"She walks to the shop, and he also goes to the store."
+
+###
+9. Instruction: List three benefits of regular physical exercise.
+9. Input: 
+<noinput>
+9. Output: 
+1. Improved cardiovascular health and reduced risk of heart disease.
+2. Enhanced mood and reduced stress levels.
+3. Maintenance of a healthy weight and increased muscle strength.
+
+###
+10. Instruction: In which year was the first iPhone released?
+10. Input: 
+<noinput>
+10. Output: 
+2007
+
+###
+11. Instruction: Suppose you have a friend who is visually impaired, and they just received Google Assistant. Can you explain to him what this voice assistant can do?
+11. Input:
+<noinput>
+11. Output:
+Google Assistant is a virtual voice-activated assistant that can help you with various tasks and provide information. By speaking to your device, you can make phone calls, send text messages, set reminders, get weather updates, play music, search for information, and much more. It can also help you control smart home devices like turning lights on and off. Just say "Hey Google" or "OK Google" followed by your request or question, and Google Assistant will be there to assist you.
+
+###
+12. Instruction: Express the following idea in a more concise way: "The weather is extremely hot today, and it is unbearable to go outside."
+12. Input:
+<noinput>
+12. Output:
+Today's scorching heat makes it unbearable to venture outdoors.
+
+###
+13. Instruction: Explain the difference between a vegan diet and a vegetarian diet.
+13. Input:
+<noinput>
+13. Output:
+A vegetarian diet excludes meat, poultry, and fish, while allowing for the consumption of eggs and dairy products. A vegan diet, on the other hand, strictly avoids all animal-based products, including eggs, dairy, and even honey, as it promotes plant-based consumption only.
+
+###
+14. Instruction: Given the following job description, determine the job title.
+14. Input: 
+Responsibilities include diagnosing and treating diseases and conditions of the teeth, gums, and mouth. The professional will also educate patients on proper oral hygiene.
+14. Output: 
+Dentist
+
+###
+15. Instruction: Briefly summarize the plot of the novel "To Kill a Mockingbird" without giving away any spoilers.
+15. Input:
+<noinput>
+15. Output:
+"To Kill a Mockingbird" is a coming-of-age story set in a small Southern town during the 1930s. Through the eyes of a young girl named Scout Finch, the novel explores themes of racial injustice, social class, and morality. The story revolves around Scout's father, Atticus Finch, a principled lawyer, who defends a black man accused of a crime, challenging the prevailing social norms of their town.
+
+###
+16. Instruction: Translate the following sentence into Spanish: "The book is on the table."
+16. Input:
+<noinput>
+16. Output: 
+El libro está en la mesa.
+
+###
+17. Instruction: Provide the definition of photosynthesis.
+17. Input:
+<noinput>
+17. Output:
+Photosynthesis is a process used by plants, algae, and certain bacteria to convert sunlight, carbon dioxide, and water into food (glucose) and oxygen. This process plays a critical role in the energy cycle of Earth's ecosystem, as it is the primary source of energy for most living organisms.
+
+###
+18. Instruction: Write a haiku about the beauty of nature.
+18. Input:
+<noinput>
+18. Output:
+Whispering leaves dance,
+Sunset hues embrace the sky,
+Nature's calm resounds.
+
+###
+19. Instruction: Solve the following math problem: What is 15% of 80?
+19. Input:
+<noinput>
+19. Output:
+12
+
+###
+20. Instruction: Predict the next word in the sentence: "She entered the room and turned on the _____"
+20. Input:
+<noinput>
+20. Output:
+light

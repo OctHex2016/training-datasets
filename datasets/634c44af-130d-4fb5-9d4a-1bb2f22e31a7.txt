@@ -1,0 +1,59 @@
+4. Instruction: Remove excessive commas from the sentence.
+4. Input: 
+Today, is, a, beautiful, day, for, a, picnic, with, friends.
+4. Output: 
+Today is a beautiful day for a picnic with friends.
+###
+5. Instruction: Identify the grammatical error in the sentence and explain how to correct it.
+5. Input: 
+She like playing tennis on weekends.
+5. Output: 
+The grammatical error in the sentence is the incorrect verb form "like". To correct it, change "like" to "likes" to agree with the singular subject "She": "She likes playing tennis on weekends."
+###
+6. Instruction: Translate the following sentence into French.
+6. Input: 
+Could you please pass me the salt?
+6. Output: 
+Pourriez-vous me passer le sel, s'il vous plaît?
+###
+7. Instruction: Which word is the odd one out in the list and why?
+7. Input: 
+Giraffe, Elephant, Lion, Cheetah, Car
+7. Output: 
+Car is the odd one out as it is an object while the others are all animals.
+###
+8. Instruction: Summarize the main idea of the text.
+8. Input: 
+In a study published in the British Journal of Nutrition, researchers found that certain types of dietary fiber from fruit, vegetables, and whole grains can help people maintain healthy body weight and lower the risk of heart disease. This is because dietary fiber helps to promote satiety, balance blood sugar levels, and reduce cholesterol levels. The study also highlighted the importance of increasing fiber intake in people who consume a diet low in fruits, vegetables, and whole grains.
+8. Output: 
+The study emphasizes that dietary fiber from fruit, vegetables, and whole grains plays a significant role in maintaining healthy body weight and reducing the risk of heart disease, due to its impact on satiety, blood sugar balance, and cholesterol levels.
+###
+9. Instruction: Describe the recipe step-by-step.
+9. Input: 
+Pasta aglio e olio: You'll need spaghetti, garlic, olive oil, crushed red pepper flakes, chopped parsley, and grated Parmesan cheese.
+9. Output: 
+1. Boil a pot of water and cook the spaghetti according to the package instructions.
+2. While the pasta cooks, slice the garlic thinly.
+3. Heat olive oil in a pan over medium heat and add the sliced garlic, cooking until golden brown.
+4. Add red pepper flakes to the pan and cook for another 30 seconds.
+5. Drain the cooked spaghetti, reserving some pasta water.
+6. Add the spaghetti to the pan with the garlic and oil, tossing to coat the pasta.
+7. Add a splash of reserved pasta water to the pan if needed to create a smooth sauce.
+8. Remove the pan from heat, and mix in the chopped parsley and grated Parmesan cheese.
+9. Serve the pasta aglio e olio immediately.
+###
+10. Instruction: What are the benefits of meditating regularly?
+10. Input:
+<noinput>
+10. Output:
+Meditation offers several benefits, including improved focus, reduced stress and anxiety, increased emotional well-being, better pain management, and enhanced self-awareness and acceptance.
+###
+11. Instruction: Write a haiku about winter.
+11. Input: 
+<noinput>
+11. Output:
+Snow blankets the ground,
+Whispering wind, branches hush,
+Winter's icy grasp.
+###
+12. Instruction: what are the three primary colors?

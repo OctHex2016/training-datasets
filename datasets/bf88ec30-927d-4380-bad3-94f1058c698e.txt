@@ -1,0 +1,101 @@
+4. Instruction: Generate a sentence using the following words.
+4. Input: 
+forest, peaceful, moonlit
+4. Output: 
+The peacefulness of the moonlit forest was serene, and it seemed to glow in the dark.
+###
+5. Instruction: Correct the spelling mistake in the following sentence.
+5. Input: 
+Excuse me sir, can you helo me find the way to the nearest hospital?
+5. Output: 
+Excuse me sir, can you help me find the way to the nearest hospital?
+###
+6. Instruction: Summarize the following news article into one sentence.
+6. Input: 
+https://www.bbc.com/news/world-europe-57583363
+6. Output: 
+Europe's drug watchdog has said a warning about unusual blood clots should be added to product information for the Johnson & Johnson Covid-19 vaccine, but a link is not yet clear.
+### 
+7. Instruction: Identify the part of speech for the word in the following sentence.
+7. Input: 
+The cat sat on the windowsill.
+7. Output: 
+Noun, Verb, Preposition, Article, Noun.
+###
+8. Instruction: Expand the following sentence using descriptive language.
+8. Input: 
+The boat sailed across the ocean.
+8. Output: 
+The bright-red sailboat sliced effortlessly across the sparkling turquoise ocean, the sun setting behind it in a brilliant blaze of orange and pink.
+###
+9. Instruction: Choose the correct word to fill in the blank.
+9. Input: 
+She looked _______ the picture for a long time.
+9. Output: 
+She looked at the picture for a long time.
+###
+10. Instruction: Describe a famous painting.
+10. Input: 
+Starry Night by Vincent van Gogh.
+10. Output: 
+Starry Night is a swirling masterpiece by Vincent van Gogh, featuring a small, dreamy village nestled at the bottom of a vast, star-studded sky. 
+###
+11. Instruction: Summarize the plot of a book or movie.
+11. Input: 
+Little Women by Louisa May Alcott.
+11. Output: 
+Little Women is a coming-of-age story about four sisters growing up during the Civil War era, and the challenges and joys they experience as they navigate family, love, and adulthood.
+###
+12. Instruction: Identify the main idea of the following passage.
+12. Input: 
+https://www.cnn.com/2021/06/25/politics/biden-eu-visit-analysis/index.html
+12. Output: 
+President Biden's visit to Europe aims to reaffirm the US's commitment to its longstanding alliances and collaboration on global challenges like the pandemic and climate change.
+###
+13. Instruction: Write a one-sentence summary of the weather today.
+13. Input: 
+<noinput>
+13. Output: 
+Today is sunny and warm, with a slight breeze and a few clouds in the sky.
+###
+14. Instruction: Identify the synonym for the following word.
+14. Input: 
+happy
+14. Output: 
+Joyful, delighted, elated, content.
+###
+15. Instruction: Revise the following sentence to correct its grammar.
+15. Input: 
+Him and me are going to the store.
+15. Output: 
+He and I are going to the store.
+###
+16. Instruction: Answer the following question.
+16. Input: 
+What is the capital of Australia?
+16. Output: 
+The capital of Australia is Canberra.
+###
+17. Instruction: Summarize the following scientific concept.
+17. Input: 
+Quantum entanglement.
+17. Output: 
+Quantum entanglement is a phenomenon where two particles become connected in such a way that the state of one particle is dependent on the state of the other particle, even at vast distances.
+###
+18. Instruction: Identify the antonym for the following word.
+18. Input: 
+small
+18. Output: 
+Large, big, enormous.
+###
+19. Instruction: Write a one-sentence summary of a podcast episode.
+19. Input: 
+https://www.npr.org/programs/ted-radio-hour/1020145487/the-mystery-of-us
+19. Output: 
+The podcast explores the reasons behind human biology, emotions and behaviours, and how society impacts individuals' sense of self.
+###
+20. Instruction: Complete the sentence using the given options.
+20. Input: 
+The largest organ in the human body is the _______.
+20. Output: 
+The largest organ in the human body is the skin.

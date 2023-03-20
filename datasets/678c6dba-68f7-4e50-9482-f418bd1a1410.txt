@@ -1,0 +1,115 @@
+4. Instruction: Create a simple, four-line poem about the sunset.
+4. Input: <noinput>
+4. Output: 
+A golden sky in evening's embrace,
+The sinking sun with colors ablaze,
+Silhouettes of trees merge with the night,
+Bidding farewell, a warm goodnight.
+
+5. Instruction: Correct the grammar mistakes in this sentence.
+5. Input: 
+The books is on shelfs.
+5. Output: 
+The books are on shelves.
+
+6. Instruction: Explain the idiom "don't count your chickens before they hatch" in your own words.
+6. Input: <noinput>
+6. Output: 
+Don't assume that future events will happen as you expect them to; wait for the results before making any conclusions.
+
+7. Instruction: Identify the genre of the following movie plot overview. 
+7. Input: 
+A professional assassin takes on an assignment that leads him to a wealthy businessman who also happens to be a ruthless crime lord. As the assassin gets closer to his target, he finds himself in the middle of a web of betrayal and danger.
+7. Output: 
+Action/Thriller
+
+8. Instruction: Translate this English sentence to French.
+8. Input: 
+The weather is beautiful today.
+8. Output: 
+Le temps est magnifique aujourd'hui.
+
+9. Instruction: Write two advantages and two disadvantages of using solar power.
+9. Input: <noinput>
+9. Output: 
+Advantages:
+1. Renewable energy source: Solar power is a sustainable, unlimited resource.
+2. Reduces electricity bills: Solar panels allow homeowners to generate their own energy, saving money on electricity.
+
+Disadvantages:
+1. Initial installation cost: The upfront cost of solar panels and installation can be expensive.
+2. Weather dependent: Solar energy production relies on sunlight, making it less effective on cloudy days or at night.
+
+10. Instruction: Organize the items in the input into two categories: "Positive Emotions" and "Negative Emotions".
+10. Input: 
+Happiness, despair, frustration, excitement, dread, joy, anguish
+10. Output: 
+Positive Emotions: Happiness, excitement, joy
+Negative Emotions: Despair, frustration, dread, anguish
+
+11. Instruction: Which form of exercise is the person referring to in the given text?
+11. Input: 
+During my workout today, I followed a sequence of poses focused on flexibility, strength, and breathing techniques.
+11. Output: 
+Yoga
+
+12. Instruction: Detect the tone of the following passage as formal or informal.
+12. Input: 
+Hey there! Just wanted to let you know that I won't be able to make it to your party tonight. Something came up, and I have to take care of it. I hope y'all have a great time, though!
+12. Output: 
+Informal
+
+13. Instruction: Which author is mentioned in the given text?
+13. Input: 
+In her autobiography, "Becoming," Michelle Obama shares her inspiring journey from her childhood in Chicago to her time as the First Lady of the United States.
+13. Output: 
+Michelle Obama
+
+14. Instruction: Compose a short definition of "bitcoin."
+14. Input: <noinput>
+14. Output: 
+Bitcoin is a decentralized digital currency that allows peer-to-peer transactions without relying on a central authority or bank.
+
+15. Instruction: Rearrange the given words to form a meaningful sentence.
+15. Input: 
+sky the in birds fly
+15. Output: 
+Birds fly in the sky.
+
+16. Instruction: Respond to this customer's complaint with an appropriate apology.
+16. Input: 
+I purchased a shirt from your online store, and when it arrived, the fabric was low quality and the stitching was already coming apart.
+16. Output: 
+I'm very sorry to hear about the issue with your shirt. We apologize for any inconvenience this may have caused and will work to resolve the problem quickly.
+
+17. Instruction: What crucial tip does the writer give for tackling procrastination?
+17. Input: 
+According to the article, one helpful technique to beat procrastination is to break down larger tasks into smaller, more manageable steps, so you don't feel overwhelmed.
+17. Output: 
+Breaking down larger tasks into smaller, more manageable steps.
+
+18. Instruction: From which term is the abbreviation "AI" derived?
+18. Input: <noinput>
+18. Output: 
+Artificial Intelligence
+
+19. Instruction: Determine the purpose of the email draft in the input.
+19. Input: 
+Subject: Final Reminder — Newcomers' Orientation
+
+Dear Freshmen,
+
+This is a friendly reminder that tomorrow is the Newcomers' Orientation program in the gymnasium, starting at 9:00 AM. Please wear comfortable clothes and shoes, as there will be a few physical activities throughout the day.
+
+We look forward to meeting you all! Remember to bring your ID card and a positive attitude.
+
+Best regards,
+
+Orientation Committee
+19. Output: 
+To remind freshmen about the upcoming Newcomers' Orientation program
+
+20. Instruction: Create one sentence using the words "guitar," "moonlight," and "serenade" in that order.
+20. Input: <noinput>
+20. Output: 
+Under the shimmering moonlight, he played his guitar, masterfully serenading the love of his life.

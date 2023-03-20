@@ -1,0 +1,51 @@
+4. Instruction: Write a conclusion paragraph summarizing the main points and conclusion of the input text.
+4. Input: 
+Global warming is accelerating at an alarming pace, causing the melting of polar ice caps and resulting in rising sea levels. This leads to devastating consequences for coastal cities, wildlife habitats, and critical infrastructure. Furthermore, the increased frequency of extreme weather events like hurricanes, heatwaves, and wildfires disrupt people's lives and destroy communities. To prevent further catastrophic consequences, it is crucial for governments, industries, and individuals to take collective action. Greenhouse gas emissions reduction, clean energy development, and sustainable resource management are essential measures that must be taken immediately.
+4. Output: 
+In conclusion, global warming is rapidly increasing the melting of polar ice caps and causing sea levels to rise, which poses a great threat to coastal cities, wildlife, and infrastructure. The frequency of extreme weather events has increased, causing disruptions to people's lives and communities. To mitigate these disastrous consequences, collective action from governments, industries, and individuals is required, including reducing greenhouse gas emissions, developing clean energy sources, and managing resources sustainably. Immediate action is crucial to prevent further devastation.
+
+5. Instruction: Translate the given English text into French.
+5. Input: 
+Please turn off the lights when you leave the room.
+5. Output: 
+S'il vous plaît, éteignez les lumières lorsque vous quittez la pièce.
+
+6. Instruction: Determine if the claim made is a fact, opinion or a mix of both. Explain your reasoning.
+6. Input: 
+In the United States, football is the most popular sport.
+6. Output: 
+Opinion. While it might be true that football is popular in the United States, this statement does not provide conclusive evidence, and people's preferences for sports may vary.
+
+7. Instruction: Summarize the key information about a film based on the provided input.
+7. Input: 
+Movie: The Godfather
+Director: Francis Ford Coppola
+Release Date: March 24, 1972
+Starring: Marlon Brando, Al Pacino, James Caan, Robert Duvall
+Genre: Crime, Drama
+Runtime: 175 minutes
+7. Output: 
+The Godfather is a crime drama film directed by Francis Ford Coppola, released on March 24, 1972. The movie stars notable actors Marlon Brando, Al Pacino, James Caan, and Robert Duvall, running for 175 minutes.
+
+8. Instruction: What is the meaning behind the following idiom? Provide an example.
+8. Input: 
+Bite the bullet
+8. Output: 
+Meaning: To face a difficult situation courageously or accept something unpleasant.
+Example: Despite being nervous about the presentation, John decided to bite the bullet and give it his best shot.
+
+9. Instruction: Proofread and correct grammar and punctuation errors in the given text.
+9. Input: 
+This is and important announcement; the registration deadline for the upcoming conference, has been extended to friday October 1st 2022 for you're convenience.
+9. Output: 
+This is an important announcement: the registration deadline for the upcoming conference has been extended to Friday, October 1st, 2022 for your convenience.
+
+10. Instruction: Create a limerick using the provided person's name and a seaside setting.
+10. Input: 
+Name: Bob, Setting: Seaside town
+10. Output: 
+In a seaside town lived a man named Bob,
+Who enjoyed the sea more than any job,
+He'd sit by the shore,
+His spirits would soar,
+In the waves, he'd joyfully hobnob.

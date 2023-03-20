@@ -1,0 +1,122 @@
+4. Instruction: Write a haiku about nature.
+4. Input: <noinput>
+4. Output: 
+Misty mountain peaks
+Cascading water whispers
+Green leaves gently sway
+
+5. Instruction: Give an example of a palindrome.
+5. Input: <noinput>
+5. Output: 
+A man, a plan, a canal, Panama!
+
+6. Instruction: Analyze the given scenario and classify whether it is a positive, negative, or neutral experience.
+6. Input: 
+A person went to a concert and enjoyed the music, but felt the venue was too crowded.
+6. Output: 
+Mixed experience (both positive and negative aspects)
+
+7. Instruction: Identify the punctuation errors in the given sentence and rewrite it correctly.
+7. Input: 
+My favorite activities are: playing soccer reading books and watching movies;
+7. Output: 
+My favorite activities are: playing soccer, reading books, and watching movies.
+
+8. Instruction: List the five layers of the OSI model.
+8. Input: <noinput>
+8. Output: 
+1. Physical Layer
+2. Data Link Layer
+3. Network Layer
+4. Transport Layer
+5. Session Layer
+6. Presentation Layer
+7. Application Layer
+
+9. Instruction: Write a pros and cons list for the given topic.
+9. Input: 
+Topic: Owning a pet
+9. Output: 
+Pros:
+- Companionship
+- Encourages exercise
+- May help lower stress levels
+- Teaches responsibility
+
+Cons:
+- Costs (food, vet, toys)
+- Time commitment (daily care, grooming, training)
+- Limited travel flexibility
+- Cleaning up after the pet
+
+10. Instruction: Convert the given Celsius temperature to Fahrenheit.
+10. Input: 
+Celsius: 30
+10. Output: 
+Fahrenheit: 86
+
+11. Instruction: Based on the given information, suggest a suitable career option for the person.
+11. Input: 
+Jane has excellent communication skills, loves to meet new people, and is interested in different cultures.
+11. Output: 
+Travel Blogger or Cultural Ambassador
+
+12. Instruction: Correct the grammar mistakes in the given sentence.
+12. Input: 
+He going to the store for bought some food for they're party.
+12. Output: 
+He is going to the store to buy some food for their party.
+
+13. Instruction: Provide a short summary of the given text.
+13. Input: 
+The value of using social media for business purposes has been widely discussed in recent years. Multiple studies have shown that a strong social media presence can lead to increased brand awareness and generate higher conversion rates. Additionally, with social media platforms evolving rapidly, there are more media formats and features available now for businesses to craft unique content and build an engaged audience. However, some critics argue that the return on investment for social media marketing is difficult to measure, and businesses should focus on more traditional marketing channels.
+13. Output: 
+Social media for business purposes can increase brand awareness and conversion rates, with numerous media formats and features available for content creation. However, measuring the return on investment is challenging, leading some to prefer traditional marketing channels.
+
+14. Instruction: Combine the two provided sentences with the help of an appropriate transition word or phrase.
+14. Input: 
+The sun was setting. It was almost time for the party.
+14. Output: 
+As the sun was setting, it was almost time for the party.
+
+15. Instruction: Identify the literary device used in the given sentence.
+15. Input: 
+Time flies like an arrow; fruit flies like a banana.
+15. Output: 
+Pun
+
+16. Instruction: Rewrite the given statement in future tense.
+16. Input: 
+She is eating an apple.
+16. Output: 
+She will be eating an apple.
+
+17. Instruction: Convert the given list of instructions into passive voice.
+17. Input: 
+- Preheat the oven to 350°F.
+- Mix the dry ingredients together.
+- Add the wet ingredients to the dry mix.
+- Bake for 20-25 minutes.
+17. Output: 
+- The oven should be preheated to 350°F.
+- The dry ingredients should be mixed together.
+- The wet ingredients should be added to the dry mix.
+- The mixture should be baked for 20-25 minutes.
+
+18. Instruction: Suggest a possible cause for the described situation.
+18. Input: 
+A student frequently misses classes and performs poorly in exams.
+18. Output: 
+The student might be facing personal problems, lack of interest or motivation, or difficulty managing time and resources.
+
+19. Instruction: State the main idea of the given excerpt.
+19. Input: 
+Polar bears are specially adapted to living in the frigid Arctic environment. Their large size, layers of insulation, and white fur not only protect them from the cold but also help them hunt seals, their primary source of food. However, as climate change reduces the amount of sea ice, these bears face challenges in finding food and face the risk of a dwindling population.
+19. Output: 
+Polar bears are adapted to the Arctic environment, but climate change and declining sea ice are jeopardizing their survival by reducing their ability to hunt seals.
+
+20. Instruction: Recommend a movie based on the given preferences.
+20. Input: 
+Action, adventure, sci-fi, strong female lead
+20. Output: 
+Mad Max: Fury Road

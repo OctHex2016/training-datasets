@@ -1,0 +1,119 @@
+4. Instruction: Write a love letter to someone you haven't seen in a long time. 
+4. Input: 
+The name of the person you want to address the letter to.
+4. Output: 
+My dearest [Name], it feels like a lifetime since we last saw each other. As I sit here penning these words, my mind is filled with memories of the time we spent together. I still remember the way your eyes lit up whenever you talked about your dreams, and the sound of your laughter ringing in my ears. Although we may be miles apart, my love for you remains as strong as ever. I hope this letter finds you well, and that one day we'll be able to be reunited again.
+###
+5. Instruction: Summarize the key events of the Second World War. 
+5. Input: 
+<noinput>
+5. Output: 
+The Second World War lasted from 1939 to 1945 and saw the major combatants of the Allied powers (led by the US, UK, and USSR) face off against the Axis powers (led by Germany, Japan, and Italy). The war was characterized by massive battles on land, sea, and air, and was fought on multiple continents. The war was ultimately won by the Allies, but it came at a huge cost- millions of soldiers and civilians lost their lives, and whole cities were destroyed.
+###
+6. Instruction: Write a business proposal for a local coffee shop. 
+6. Input: 
+Name of the coffee shop and location.
+6. Output: 
+We propose the establishment of a new coffee shop in [location], to be named [name]. Our vision is to create a unique and inviting atmosphere where customers can enjoy delicious coffee and snacks. We plan to source the best quality coffee beans from local farms and offer a range of artisanal pastries and sandwiches. The shop will also have an outdoor seating area that will be designed to create a relaxing environment for customers. We believe that our attention to detail and commitment to quality will make [name] a favorite spot for locals and tourists alike.
+###
+7. Instruction: Write a cover letter for a job application. 
+7. Input: 
+The job you are applying for.
+7. Output: 
+Dear Hiring Manager, I am writing to express my interest in the position of [job title]. I believe that my skills and experience make me an ideal candidate for the role. As [briefly highlight relevant experience] I have had the opportunity to develop [relevant skills] while working in a similar capacity. I am excited about the prospect of working with a dynamic and innovative team, and feel that I can contribute significantly to the growth and success of the organization. Thank you for considering my application, and I look forward to hearing back from you soon.
+###
+8. Instruction: Create a funny dialogue between a customer and a barista. 
+8. Input: 
+<noinput>
+8. Output: 
+Customer: Can I get a decaf soy latte?
+Barista: Sure thing. Would you like some kale chips to go with that?
+Customer: Uh, no thanks. I'll stick with my usual Oreo cookie.
+Barista: Oreo cookie? I'm afraid I can't let you do that. It goes against our strict kale-only policy.
+Customer: (laughs) Yeah, I'm pretty sure I saw someone outside snacking on a bag of Cheetos.
+Barista: Oh, that must have been one of our baristas on their break. Don't worry, we won't tell anyone.
+###
+9. Instruction: Write an engaging opening for a fantasy novel. 
+9. Input: 
+<noinput>
+9. Output: 
+In the Land of Eryndor, magic flowed through the veins of every living creature. From the towering oak trees to the smallest blade of grass, everything was infused with the power of the arcane. But as with all great power, there came a great responsibility. The creatures of Eryndor had learned to use magic for both good and evil, and only the bravest and most skilled could hope to stand against the forces of darkness that threatened to consume the land.
+###
+10. Instruction: Write a brief synopsis of your favorite book. 
+10. Input: 
+<noinput>
+10. Output: 
+"1984" by George Orwell is a dystopian novel set in the year 1984 in a world where the government has total control over every aspect of citizens' lives. The protagonist, Winston Smith, works as an editor in the Ministry of Truth where he rewrites history in accordance with the state's propaganda. As he begins to question the totalitarian regime, he attracts the attention of the Thought Police and must go to great lengths to protect his freedom of thought and expression.
+###
+11. Instruction: Write a persuasive speech about the importance of travel. 
+11. Input: 
+<noinput>
+11. Output: 
+My fellow travelers, we gather here today to celebrate one of the greatest gifts that the world has to offer- the gift of travel. Whether it is exploring the beauty of nature or immersing ourselves in new cultures, travel has the power to shape our lives in unimaginable ways. It allows us to break free from our daily routines and experience life in all its richness and diversity. So I implore you to take up this gift, to seize every opportunity to journey to new places and meet new people, and to never stop exploring the wonders of the world.
+###
+12. Instruction: Write a product description for a new fitness band. 
+12. Input: 
+The name of the fitness band.
+12. Output: 
+Introducing the [name]- The ultimate fitness partner. This revolutionary fitness band is equipped with advanced sensors that track your every move, ensuring that you get the most out of your workout. The band is made of high-quality materials that provide a comfortable and snug fit, and it comes in a variety of colors to match your personal style. The impressive battery life means you can wear it all day, and with its intuitive app, you can track your progress and set new goals. Get ready to take your fitness journey to the next level with [name].
+###
+13. Instruction: Write a dialogue between a customer and a tech support representative. 
+13. Input: 
+The customer is having trouble with their internet connection.
+13. Output: 
+Customer: Hi, I'm having trouble connecting to the internet. Can you help me out?
+Tech Support: Sure, can you tell me if you're wired or wireless?
+Customer: I'm using wireless.
+Tech Support: Ok, let's try resetting your router. Can you find the reset button on the back of the router and press it with a paperclip or a pen?
+Customer: I found it. Should I hold it down?
+Tech Support: Yes, please hold it down for at least 10 seconds. Then let go and wait for the router to reboot.
+Customer: Alright, I did that. But it's still not working.
+Tech Support: Hmm, let's check some other things. Can you run a speed test on your connection and tell me the results?
+Customer: (after running test) It says my speed is really slow- only about 3 Mbps.
+Tech Support: That could be the issue. Let's try adjusting some settings and see if we can get that speed up. (proceeds to set up new settings)
+Tech Support: How is it now?
+Customer: It's working! Thank you so much for your help.
+###
+14. Instruction: Write a recipe for a vegan curry dish. 
+14. Input: 
+The type of vegetable you want to use in the curry.
+14. Output: 
+Vegan Curry with [vegetable]
+Ingredients:
+- 1 tablespoon olive oil
+- 1 onion, finely chopped
+- 1 clove garlic, minced
+- 1 teaspoon grated ginger
+- 1 can of diced tomatoes
+- 2 cups vegetable broth
+- 1 can of chickpeas, drained and rinsed
+- 1 cup of your choice of [vegetable], chopped
+- 1 tablespoon curry powder
+- 1 teaspoon ground cumin
+- Salt and pepper to taste
+- 1/2 cup chopped fresh cilantro
+
+Instructions:
+1. Heat the oil in a large pot over medium heat.
+2. Add the onion and sauté for 5 minutes.
+3. Add the garlic and ginger and cook for 1 minute.
+4. Add the diced tomatoes, vegetable broth, chickpeas, and [vegetable].
+5. Stir in the curry powder, cumin, salt, and pepper.
+6. Bring to a boil, then reduce heat and cover the pot.
+7. Simmer for 15-20 minutes, or until the [vegetable] is tender.
+8. Stir in the cilantro and serve with rice or naan bread.
+###
+15. Instruction: Write a summary of the plot of your favorite movie. 
+15. Input: 
+<noinput>
+15. Output: 
+"The Godfather" is a classic film that tells the story of the Corleone family- one of the most powerful and feared mafia families in New York City. Set in the 1940s and 50s, the movie follows the patriarch of the family, Don Vito Corleone, as he navigates power struggles, betrayal, and family drama. The movie is known for its iconic characters, memorable lines, and tense plot, and remains a favorite among film enthusiasts to this day.
+###
+16. Instruction: Write a dialogue between a boss and employee about a workplace dispute. 
+16. Input: 
+The dispute is about an employee taking too many breaks.
+16. Output: 
+Boss: Hi [Employee], is there a minute we could talk about the recent concerns about your breaks?
+Employee: Sure, what's up?
+Boss: Well, we've noticed that you've been taking more breaks lately than usual. Could you explain why?
+Employee: Yeah

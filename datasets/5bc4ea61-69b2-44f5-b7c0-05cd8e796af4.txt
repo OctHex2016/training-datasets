@@ -1,0 +1,108 @@
+4. Instruction: Rewrite the given sentence in passive voice. 
+4. Input: 
+The world-famous painter made a beautiful masterpiece.
+4. Output: 
+A beautiful masterpiece was made by the world-famous painter.
+###
+5. Instruction: Summarize the main ideas of the input text.
+5. Input: 
+Cryptocurrency is a digital or virtual currency that uses cryptography for security, ensuring the transactions are safe and pseudonymous, meaning it is not directly traceable back to the user. Bitcoin's launch in 2009 ignited a whole new era of decentralized currencies. Unlike traditional currencies, such as the US dollar, cryptocurrencies are not governed or regulated by any central authority. The benefits of this include increased privacy, lower fees, and protection against fraud. However, it also presents challenges such as volatility in value, regulatory resistance, and limitations in mainstream adoption.
+5. Output: 
+Cryptocurrency is a secure, pseudonymous, and digital currency not governed by a central authority. Launched in 2009 with Bitcoin, it offers benefits like increased privacy, lower fees, and fraud protection, but faces challenges in volatility, regulation, and mainstream adoption.
+###
+6. Instruction: Explain the difference between the two provided terms.
+6. Input: 
+Mitosis and Meiosis
+6. Output: 
+Mitosis is a process of cell division that results in two genetically identical daughter cells, each with the same number of chromosomes as the parent cell, while meiosis is a process of cell division that results in four non-identical haploid daughter cells, with half the number of chromosomes as the parent cell. Mitosis occurs in somatic cells, while meiosis occurs in germ cells for sexual reproduction.
+###
+7. Instruction: Based on the given description, please suggest a suitable title for a novel.
+7. Input: 
+Set in a dystopian future, the story revolves around a group of rebels fighting against a totalitarian regime that controls every aspect of its citizens' lives. As the protagonists delve deeper into the resistance, they uncover secrets that can change the course of history and battle their inner demons.
+7. Output: 
+Echoes of the Uprising
+###
+8. Instruction: Edit the given sentence to correct any grammatical errors.
+8. Input: 
+He have been arrived early although his flight landed late.
+8. Output: 
+He arrived early despite his flight landing late.
+###
+9. Instruction: Write a haiku (5-7-5 syllable pattern) using the provided theme.
+9. Input: 
+Autumn leaves
+9. Output: 
+Crimson leaves falling,
+Whispers of an autumn breeze,
+Nature's tapestry.
+###
+10. Instruction: Identify the literary device used in the given sentence.
+10. Input: 
+The wind howled in the night as the storm outside grew more intense.
+10. Output: 
+Personification
+###
+11. Instruction: Convert the following US customary units into metric units.
+11. Input: 
+15 gallons and 30 feet
+11. Output: 
+56.781 liters and 9.144 meters
+###
+12. Instruction: Calculate the compound interest for the given scenario.
+12. Input: 
+Principal: $2,000
+Interest rate: 5% yearly
+Time: 3 years
+Compound frequency: quarterly
+12. Output: 
+Compound interest: $315.53
+###
+13. Instruction: Paraphrase the given sentence.
+13. Input: 
+The students were captivated by the teacher's interactive lesson on wildlife conservation.
+13. Output: 
+The teacher's engaging wildlife conservation lesson had the students spellbound.
+###
+14. Instruction: Analyze the tone of the following text.
+14. Input: 
+I can't believe that you actually expect me to do all that tedious work on a Saturday night while everyone else is out enjoying themselves. Surely you must be out of your mind!
+14. Output: 
+Irritated and sarcastic
+###
+15. Instruction: Rank the given list of countries by population size, in descending order.
+15. Input: 
+Australia, India, Brazil, Japan, Russia
+15. Output: 
+India, Brazil, Japan, Russia, Australia
+###
+16. Instruction: Provide synonyms for the given word.
+16. Input: 
+Intelligent
+16. Output: 
+Smart, bright, clever, brilliant, knowledgeable
+###
+17. Instruction: Write a brief introduction to the topic of "Sustainable Agriculture."
+17. Input: 
+<noinput>
+17. Output: 
+Sustainable agriculture is an agricultural practice that seeks to maintain and enhance environmental health, economic profitability, and social equity. By promoting biodiversity, conserving natural resources, and supporting local communities, sustainable agriculture aims to produce sufficient food for present and future generations while minimizing the negative impact on the environment and society.
+###
+18. Instruction: Explain what the given quote means.
+18. Input: 
+Absence makes the heart grow fonder.
+18. Output: 
+The quote means that when we are separated from someone or something we love, our feelings of affection for them may grow stronger due to the longing and desire to be with them again.
+###
+19. Instruction: Convert the given passage into a dialogue between two people.
+19. Input: 
+Paul was furious at Mary for not inviting him to her party. He told her that she should have included him, and her actions hurt his feelings. Mary apologized and said that it was an honest mistake; she thought she had sent him an invitation.
+19. Output: 
+Paul: I can't believe you didn't invite me to your party, Mary! You should have included me. It really hurt my feelings.
+
+Mary: I'm so sorry, Paul. It was an honest mistake. I actually thought I had sent you an invitation.
+###
+20. Instruction: Based on the given information, recommend a suitable job title for the person.
+20. Input: 
+Jenny has an expertise in data analysis, a background in computer science, and excellent communication skills. She enjoys collaborating with different departments to gain insights and find solutions to complex problems.
+20. Output: 
+Data Analyst or Business Intelligence Analyst

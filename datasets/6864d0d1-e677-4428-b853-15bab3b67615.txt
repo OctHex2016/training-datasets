@@ -1,0 +1,103 @@
+4. Instruction: Provide a summary of the given article. 
+4. Input:
+https://www.bbc.com/news/world-europe-62025438
+4. Output: 
+The article discusses the recent developments in the Euro 2020 championship, including the controversial Hungarian law, the Christian Eriksen collapse, and the success of both Italy and Spain in the quarter-finals.
+###
+5. Instruction: Which is the highest mountain in the world? 
+5. Input: 
+<noinput>
+5. Output: 
+Mount Everest is the highest mountain in the world, with a height of 29,029 feet (8,848 meters).
+###
+6. Instruction: Complete the missing word in the sentence.
+6. Input: 
+I ____ going to the store to buy some fruits.
+6. Output: 
+am
+###
+7. Instruction: Generate a creative sentence with the following words.
+7. Input: 
+unicorn, pizza, rainbow
+7. Output: 
+I want to ride a unicorn while eating a pizza on a rainbow.
+###
+8. Instruction: Edit the following sentence to correct grammar and spelling errors.
+8. Input: 
+The childerns books are their for the childs.
+8. Output: 
+The children's books are there for the child.
+###
+9. Instruction: Generate a new headline for the given news article.
+9. Input: 
+https://www.nytimes.com/2021/06/30/world/canada/canada-heat-wave-deaths.html
+9. Output:
+Canada in Mourning Following Record High Temperatures and Fatalities
+###
+10. Instruction: Paraphrase the following sentence.
+10. Input: 
+The CEO is expected to present the annual report next week.
+10. Output: 
+It is anticipated that the CEO will give the annual report next week.
+###
+11. Instruction: Generate a pun with the following word.
+11. Input: 
+baker
+11. Output: 
+I knead to tell you something – I'm a professional bread maker; I'm a baker.
+###
+12. Instruction: Convert the following sentence into passive voice.
+12. Input: 
+The teacher gave the students homework.
+12. Output: 
+Homework was given to the students by the teacher.
+###
+13. Instruction: Correct the punctuation in the following sentence.
+13. Input: 
+When are we going shopping? I need new shoes, pants, and shirts.
+13. Output: 
+"When are we going shopping? I need new shoes, pants, and shirts."
+###
+14. Instruction: Explain the given idiom.
+14. Input:
+"To let the cat out of the bag"
+14. Output: 
+"To let the cat out of the bag" means to reveal a secret or a surprise plan.
+###
+15. Instruction: Provide a short definition of the term "machine learning". 
+15. Input: 
+<noinput>
+15. Output: 
+Machine learning is a type of artificial intelligence that allows software applications to learn from the data and become more accurate in predicting outcomes.
+###
+16. Instruction: Generate a rhyming couplet with the following words.
+16. Input: 
+bee, tea
+16. Output: 
+The bee flew to a lovely rose, I sat down for a cup of tea in repose.
+###
+17. Instruction: Translate the given sentence into Spanish.
+17. Input: 
+I enjoy playing the guitar.
+17. Output: 
+Me gusta tocar la guitarra.
+###
+18. Instruction: What is the difference between a crocodile and an alligator? 
+18. Input: 
+<noinput>
+18. Output: 
+The snout of a crocodile is long and V-shaped, while the snout of an alligator is wide and U-shaped. Also, alligators live in freshwater while crocodiles can live in both freshwater and saltwater.
+###
+19. Instruction: Which country won the FIFA World Cup in 2018? 
+19. Input: 
+<noinput>
+19. Output: 
+France won the FIFA World Cup in 2018.
+###
+20. Instruction: Generate a haiku with the following theme.
+20. Input: 
+Summer
+20. Output: 
+Summer arises,
+Golden sun in azure skies,
+Warmth in nature’s eyes.

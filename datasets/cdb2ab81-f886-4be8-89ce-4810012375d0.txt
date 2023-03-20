@@ -1,0 +1,41 @@
+4. Instruction: Summarize the main idea of the text.
+4. Input: 
+The COVID-19 pandemic disrupted global trade and supply chains, causing shortages of essential goods and services. Many governments enacted policies to restrict exports, hoping to ensure domestic supply. Global firms and consumers had to adapt to these new conditions, highlighting the risks associated with relying on a single source of goods. The pandemic prompted calls from policymakers for greater self-sufficiency and reshoring production, but it also emphasized the importance of diversifying suppliers.
+4. Output: 
+COVID-19 disrupted global trading systems, leading to shortages and export restrictions. It exposed the risks of relying on single sources and prompted calls for reshoring production and greater supply chain diversification.
+
+5. Instruction: Describe the event that happened at the given date and provide its historical significance.
+5. Input: 
+June 6, 1944
+5. Output: 
+On June 6, 1944, the Normandy landings, also known as D-Day, took place in France during World War II. Allied forces consisting of 156,000 troops from the United States, United Kingdom, Canada, and other nations, launched an amphibious beach assault on Nazi-occupied France. It marked the beginning of the liberation of Western Europe from Nazi control and was a turning point in the war effort.
+
+6. Instruction: How do you calculate the area of a circle?
+6. Input: 
+<noinput>
+6. Output: 
+To calculate the area of a circle, use the formula A = πr², where A is the area of the circle, π is a mathematical constant approximately equal to 3.14, and r is the radius of the circle.
+
+7. Instruction: What are ways to practice mindfulness?
+7. Input: 
+<noinput>
+7. Output: 
+Ways to practice mindfulness include meditation, deep breathing exercises, body scans, mindful eating, practicing gratitude, yoga, progressive muscle relaxation, and focusing on sensory experiences (e.g., sight, sound, taste, touch, and smell).
+
+8. Instruction: Write a short recommendation letter for an intern in journalism.
+8. Input: 
+Name: Emily Smith, Internship duration: 3 months, Company: ABC News
+8. Output: 
+I am writing to highly recommend Emily Smith for any journalism position. I had the pleasure of working with Emily during her 3-month internship at ABC News, where she showcased her exceptional writing, reporting, and communication skills. Emily was quick to learn and demonstrated a strong work ethic, consistently meeting tight deadlines. Her dedication, curiosity, and passion for journalism make her an excellent candidate. I believe Emily has a promising future in journalism and would be valuable to any news team.
+
+9. Instruction: Explain the advantages and disadvantages of renewable energy sources compared to fossil fuels.
+9. Input: 
+<noinput>
+9. Output: 
+Advantages of renewable energy sources include environmental sustainability (reduced greenhouse gas emissions and pollution), lower operating costs, long-term price stability, energy security, and job creation. Disadvantages include intermittent energy production, higher upfront costs, limited availability depending on location, and the need for large land areas for some sources. Fossil fuels, on the other hand, are widely available, economically advantageous in the short term, and have well-developed infrastructure. However, they cause significant environmental damage, contribute to climate change, and are limited in supply.
+
+10. Instruction: Write a short paragraph using 5 given words.
+10. Input: 
+empathy, library, mysterious, silhouette, exuberant
+10. Output: 
+The exuberant librarian felt a wave of empathy as she noticed a mysterious figure in the shadows. As the silhouette of the person revealed itself, she couldn't help but be drawn to their story. Desperate to understand the enigma, she invited them to explore the library's vast collection, where she believed the truth of the mysterious figure might be found.

@@ -1,0 +1,40 @@
+4. Instruction: Write a short review about the latest sci-fi movie you watched. Describe the plot without revealing any major spoilers, and share your opinions about the film.
+4. Input: 
+<noinput>
+4. Output: 
+"The Tomorrow War," a refreshingly engaging sci-fi movie, presents a captivating blend of time travel and alien invasion concepts. The plot revolves around a high school teacher recruited by time-traveling soldiers from 2051 to fight a deadly alien race that threatens humanity's very existence. The movie successfully draws the audience in with its intriguing twists, thrilling visuals, and emotional depth. Standout performances by Chris Pratt, Yvonne Strahovski, and J.K. Simmons elevate the film's experience. Overall, "The Tomorrow War" is a thrilling ride that balances action, sci-fi, and emotional stakes, delivering an entertaining and impactful watch for fans of the genre.
+
+5. Instruction: Correct the grammar and syntax errors in the following paragraph.
+5. Input: 
+Due to it's extensive usage, the monument are in need of significant repairs to major structural elements, including the facade and the entrance. In some areas, damage is be visible to the naked eye, suggesting that immediate action is required to prevent deterioration from becoming more serious.
+5. Output: 
+Due to its extensive usage, the monument is in need of significant repairs to major structural elements, including the facade and the entrance. In some areas, damage is visible to the naked eye, suggesting that immediate action is required to prevent deterioration from becoming more serious.
+
+6. Instruction: Convert the following Fahrenheit temperatures to Celsius: 32°F, 100°F, and 212°F.
+6. Input: 
+<noinput>
+6. Output: 
+32°F = 0°C, 100°F = 37.8°C, 212°F = 100°C
+
+7. Instruction: Summarize the main points of the following text.
+7. Input: 
+Existentialism is a philosophy and cultural movement that aims to analyze and understand human existence. Centered around concepts of individual freedom and choice, existentialism asserts that humans are free agents, capable of defining themselves and their essence through their actions and decisions. However, it also acknowledges the inherent absurdity in the human condition, as individuals search for meaning in a vast, indifferent universe. Prominent existentialists like Jean-Paul Sartre, Simone de Beauvoir, and Albert Camus focused on the importance of authenticity and personal responsibility in shaping one's life. They believed that individuals could find purpose in embracing their freedom, even in the face of adversity or despair.
+7. Output: 
+Existentialism is a philosophical and cultural movement focused on individual freedom, choice, and self-definition with an emphasis on authenticity and personal responsibility. It explores the absurdity of human existence in an indifferent universe, with existentialists like Sartre, Beauvoir, and Camus encouraging individuals to find purpose through embracing their freedom, even amidst hardships.
+
+8. Instruction: Describe the process of photosynthesis in plants.
+8. Input: 
+<noinput>
+8. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into energy in the form of glucose and oxygen. In the presence of sunlight, chlorophyll, a pigment in plant cells, absorbs and transforms light energy into chemical energy. During the light-dependent reactions, water molecules are split, releasing oxygen and hydrogen ions. Then, the light-independent reactions, also known as the Calvin cycle, take place, during which carbon dioxide is fixed into a carbohydrate using chemical energy produced earlier. This whole process allows plants to generate glucose for growth and maintenance while releasing oxygen as a byproduct.
+
+9. Instruction: Rewrite the following sentences using a passive voice.
+9. Input: 
+The dog bit the mailman. The manager fired the employee for poor performance. She won the art contest.
+9. Output: 
+The mailman was bitten by the dog. The employee was fired by the manager for poor performance. The art contest was won by her.
+
+10. Instruction: Identify any logical fallacy in the following argument.
+10. Input: 
+If you don't go to college, you're destined for a terrible job and a miserable life. RecognitionException10. Output: 
+The logical fallacy in this argument is a false dichotomy, which presents an either/or situation where only two extreme options (going to college or having a miserable life) are considered, ignoring potential alternatives or nuances. This oversimplified reasoning doesn't account for the possibility of success or happiness outside of college education.

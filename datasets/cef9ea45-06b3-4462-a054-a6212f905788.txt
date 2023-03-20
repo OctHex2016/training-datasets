@@ -1,0 +1,118 @@
+4. Instruction: Demonstrate how to introduce yourself briefly in French.
+4. Input: 
+<noinput>
+4. Output: 
+Bonjour, je m'appelle [Your Name]. J'ai [Your Age] ans et je viens de [Your City]. Je travaille comme [Your Job]. Enchanté de faire votre connaissance.
+
+###
+5. Instruction: Rearrange the given sentences to form a coherent story.
+5. Input: 
+* One day, he decided to venture outside the forest.
+* Timmy was a curious little squirrel who lived in a big forest.
+* He faced many challenges along the way, but he never gave up.
+* He discovered a whole new world full of adventure and excitement.
+5. Output: 
+* Timmy was a curious little squirrel who lived in a big forest.
+* One day, he decided to venture outside the forest.
+* He faced many challenges along the way, but he never gave up.
+* He discovered a whole new world full of adventure and excitement.
+
+###
+6. Instruction: Identify the main problem in the text and suggest a solution.
+6. Input: 
+Our company's customer support team is overwhelmed with the increasing number of customer complaints. The team cannot respond to all inquiries promptly, leading to customer dissatisfaction and a decrease in sales.
+6. Output: 
+Main Problem: Overwhelmed customer support team, leading to delayed responses and decreased sales.
+Solution: Hire additional customer support staff or utilize an AI chatbot to improve customer service responsiveness.
+
+###
+7. Instruction: Provide a brief summary of the given text.
+7. Input: 
+In today's digital age, social media has become an essential tool for businesses to connect with consumers and create a brand identity. Leading platforms like Facebook, Instagram, LinkedIn, and Twitter have emerged as significant marketing channels for driving sales and customer engagement. To succeed in this competitive landscape, businesses must develop a carefully crafted social media strategy. Factors to consider while devising an impactful social media plan include identifying target audiences, setting measurable goals, choosing the right platforms, creating engaging content, and tracking performance metrics.
+7. Output: 
+The importance of social media in marketing has grown significantly, with numerous platforms being used for increasing sales and customer engagement. Businesses should design a strategic social media plan, taking into account target audiences, goals, platform selection, content creation, and performance measurement.
+
+###
+8. Instruction: Identify three key features of the given product.
+8. Input: 
+The SleekWave Bluetooth Headset is designed for comfort and convenience. It offers an ergonomic fit, a lightweight design, and easy-to-use controls. The noise-cancellation technology ensures crystal-clear sound quality, and the long-lasting battery provides up to 10 hours of talk time. The headset is compatible with most smartphones and Bluetooth-enabled devices.
+8. Output: 
+1. Ergonomic fit and lightweight design
+2. Noise-cancellation technology
+3. Long-lasting battery with up to 10 hours of talk time
+
+###
+9. Instruction: Correct any grammatical or punctuation errors in the given text.
+9. Input: 
+Their are so many reasons to love the beach. The sun, sand, and ocean, are only a few. There is something so calming about laying by the ocean and listenting to the sound of the waves.
+9. Output: 
+There are so many reasons to love the beach. The sun, sand, and ocean are only a few. There is something so calming about lying by the ocean and listening to the sound of the waves.
+
+###
+10. Instruction: Write a haiku about a peaceful forest.
+10. Input: 
+<noinput>
+10. Output: 
+Whispers in the breeze,
+Leaves rustle, a symphony,
+Forest breathes in peace.
+
+###
+11. Instruction: Your job is to identify five takeaways or interesting facts from the given article.
+11. Input: 
+Green tea has gained immense popularity around the world because of its numerous health benefits. A 2015 study suggested that drinking green tea could lower the risk of developing diabetes. It has powerful antioxidants, including epigallocatechin gallate (EGCG), that can boost the body's metabolism.
+
+Green tea can also help improve brain function, specifically memory and attention, due to the caffeine and L-theanine it contains. The amino acid L-theanine can increase dopamine levels as well.
+
+The tea has important effects on heart health, reducing the risk of heart disease by improving cholesterol levels and preventing plaque buildup in blood vessels. Current studies also point towards the tea's potential to protect against certain types of cancer, such as breast and prostate cancers.
+
+Finally, green tea can help with weight loss by increasing fat oxidation and boosting metabolism.
+11. Output: 
+1. Green tea can lower the risk of developing diabetes.
+2. It contains powerful antioxidants, including EGCG, that boost metabolism.
+3. Green tea helps improve brain function, memory, and attention.
+4. It can reduce the risk of heart disease by improving cholesterol levels.
+5. Green tea has potential cancer-fighting properties and aids in weight loss.
+
+###
+12. Instruction: Explain the cause and effect relationship in the given statement.
+12. Input: 
+The polar ice caps are melting due to global warming, causing sea levels to rise and threatening coastal communities.
+12. Output: 
+Cause: Global warming leads to the melting of polar ice caps.
+Effect: Melting ice caps result in rising sea levels, which threaten coastal communities.
+
+###
+13. Instruction: Compare and contrast two subjects given in the text.
+13. Input: 
+Cats and dogs are two popular choices for pets. While both can provide companionship and love, they have distinct differences. Cats are generally more independent, lower maintenance, and can be left alone for longer periods without causing distress. On the other hand, dogs tend to be more loyal, protective, and require more attention and physical exercise.
+13. Output: 
+Cats:
+- More independent
+- Lower maintenance
+- Can be left alone for longer periods
+
+Dogs:
+- More loyal and protective
+- Require more attention and exercise
+- Higher maintenance
+
+###
+14. Instruction: Create a simple step-by-step guide to help someone learn how to make a smoothie.
+14. Input: 
+<noinput>
+14. Output: 
+1. Gather your ingredients (fruit, yogurt, milk, ice, etc.)
+2. Wash and chop any fresh fruits.
+3. Add fruit, yogurt, milk, and ice to a blender.
+4. Blend the ingredients until smooth, adjusting consistency with additional liquid if necessary.
+5. Pour the smoothie into a glass.
+6. Enjoy your homemade smoothie!
+
+###
+15. Instruction: What is the significance of the given quote, and who said it?
+15. Input: 
+"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+15. Output: 
+Significance: The quote communicates the idea that negativity cannot be defeated by more negativity, but only by positive actions and compassion.
+Author: Martin Luther King Jr.

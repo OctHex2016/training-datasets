@@ -1,0 +1,134 @@
+4. Instruction: Identify three keywords or keyphrases from the given text that summarize the central theme.
+4. Input: 
+Increased adoption of renewable energy sources, such as solar and wind power, is essential for combating climate change and reducing dependence on fossil fuels. Governments and private institutions must invest in the development and implementation of sustainable energy solutions to help slow down global warming and protect the environment.
+4. Output: 
+renewable energy sources, combating climate change, sustainable energy solutions
+
+###
+5. Instruction: Write a limerick based on the given topic.
+5. Input: 
+Artificial Intelligence.
+5. Output: 
+There once was a robot quite clever,
+With Artificial Intelligence it'd endeavor,
+It learned and it grew,
+In knowledge it flew,
+And its wisdom increased forever.
+
+###
+6. Instruction: Name a novel written by the author mentioned and explain its main theme in one sentence.
+6. Input: 
+Author: Ernest Hemingway.
+6. Output: 
+The Old Man and the Sea: A story of an old fisherman's struggle against the unforgiving sea and the inevitable passage of time.
+
+###
+7. Instruction: Predict the possible outcome of this cryptocurrency project, based on the given abstract. Output options are success, failure, or uncertain.
+7. Input: 
+Cryptonexia is a blockchain-based platform that aims to revolutionize the e-commerce industry by leveraging decentralized finance (DeFi) and providing seamless transactions between merchants and consumers. The platform's features include low fees, fast transaction times, and a user-friendly interface. Additionally, Cryptonexia will integrate a loyalty rewards system that incentivizes users to participate frequently.
+7. Output: 
+success
+
+###
+8. Instruction: Identify the five grammar, punctuation or spelling errors in the given text.
+8. Input: 
+Their trying they're best to get they new product to market before it's competitor. They need to be awared that the journey will be tuff, but their determined to succeed.
+8. Output: 
+Their (they're), they're (their), it's (its), awared (aware), tuff (tough)
+
+###
+9. Instruction: Provide a summary of the given article highlighting its main points.
+9. Input: 
+A new study led by researchers from the University of California, Berkeley, found that artificial sponges made from textiles could be an effective way to combat oil spills. The researchers created a special fabric that can hold up to 30 times its weight in oil without absorbing water. These innovative fabric sponges can be easily wrung out to recover the oil and are reusable. Current oil spill cleanup methods such as skimming and dispersion can harm the environment; however, this new sponge-like fabric can help minimize the ecological impact of oil spills, offering a more environmentally friendly solution.
+9. Output: 
+Researchers from the University of California, Berkeley have developed an artificial sponge-like fabric that can hold up to 30 times its weight in oil without absorbing water. These reusable fabric sponges can be wrung out to recover oil and offer an environmentally friendly alternative to current oil spill cleanup methods, which can have negative ecological impacts.
+
+###
+10. Instruction: List three words that rhyme with the given word.
+10. Input: 
+display
+10. Output: 
+relay, array, dismay
+
+###
+11. Instruction: Rewrite the given haiku, following the 5-7-5 syllable pattern, while keeping the same theme.
+11. Input: 
+Lush trees awakening
+Song of nature's breath exhales
+Growth and life return
+11. Output: 
+Awakening trees,
+Nature's soothing lullaby,
+Life and growth come back.
+
+###
+12. Instruction: Do anagrams exist between the two words? Output yes or no. 
+12. Input: 
+listen, silent
+12. Output: 
+yes
+
+###
+13. Instruction: How many words of at least four letters can you create from the given characters? Do not reuse any letter.
+13. Input: 
+part
+13. Output: 
+2 (part, trap)
+
+###
+14. Instruction: Explain the given concept in simple terms, as if you were explaining it to a child.
+14. Input: 
+Photosynthesis
+14. Output: 
+Photosynthesis is when plants use sunlight, water, and air to make their food and grow.
+
+###
+15. Instruction: Convert the given Celsius temperature to Fahrenheit.
+15. Input: 
+20°C
+15. Output: 
+68°F
+
+###
+16. Instruction: Identify the logical fallacy in the argument provided.
+16. Input: 
+If we don't hire more workers, our current employees will be overworked and quit. If they don't quit, they'll get sick from stress, leaving our company in ruin. So we have no choice but to hire more workers.
+16. Output: 
+False dilemma
+
+###
+17. Instruction: Write a dialogue between two characters discussing the consequences of their actions.
+17. Input: <noinput>
+17. Output: 
+Amy: I can't believe we accidentally left the door open; now the cat's out.
+
+Jake: We really should have been more careful. I hope he comes back.
+
+Amy: Me too. If he doesn't, mom and dad will be so disappointed in us.
+
+Jake: We'll have to learn from this and be more responsible in the future.
+
+Amy: Definitely. Let's start putting up flyers and asking around the neighborhood in case someone's seen him.
+
+###
+18. Instruction: Based on the given question, offer three potential follow-up questions that could be asked.
+18. Input: 
+What is your favorite type of music?
+18. Output: 
+1. Who are some of your favorite artists or bands in that genre?
+2. How did you first become interested in that type of music?
+3. Can you recommend any songs or albums to check out?
+
+###
+19. Instruction: State the difference between the two terms provided.
+19. Input: 
+Weather, Climate
+19. Output: 
+Weather refers to the short-term atmospheric conditions such as temperature, precipitation, and humidity, while climate represents the average weather patterns in a specific region over a long period of time.
+
+###
+20. Instruction: Write a brief review and give the given product a rating out of 5 stars.
+20. Input: 
+Product: Galaxy S22 Smartphone
+20. Output: 
+I've been using the Galaxy S22 Smartphone for several weeks now, and I'm very impressed with its performance, camera, and battery life. The design is sleek, and the display is sharp and vibrant. Minor issues with software updates can be annoying, but overall, it's a great phone. I give it 4.5 out of 5 stars.

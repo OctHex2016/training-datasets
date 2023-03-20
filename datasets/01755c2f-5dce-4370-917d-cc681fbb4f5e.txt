@@ -1,0 +1,134 @@
+4. Instruction: Can you summarize the main ideas in this academic paper about natural language generation?
+4. Input: 
+Link to academic paper: https://www.aclweb.org/anthology/2020.acl-main.214/
+4. Output: 
+The paper deals with the challenges when it comes to achieving coherence in neural network-based natural language generation systems. The authors propose a new generative model that is based on a transition-based approach that uses a fixed length buffer to capture semantic and syntactic information. The model is found to outperform state-of-the-art models on several metrics, including quality, fluency, and simplicity.
+###
+5. Instruction: Please provide a sentence to add to this story to continue the plot on an alternate ending. 
+5. Input: 
+Story beginning: 
+They were fully prepared for a long, grueling battle. The odds were against them, but they had no choice but to fight. 
+5. Output: 
+Their enemy had infiltrated deep into their territory, and they could hear gunfire in the distance. A sudden explosion rocked the ground beneath them, and debris began to rain down from the sky. They made a run for it, ducking behind an abandoned car as they tried to figure out what had happened. It was then they saw it: the bomb had missed its target, and their enemy was in disarray. It was a sign. It was time to end this war, once and for all.
+###
+6. Instruction: Please write a five-sentence summary of a news story about the Amazon forest wildfires. 
+6. Input: 
+Link to news article: https://www.cnn.com/2021/08/31/americas/brazil-amazon-wildfires-environment-intl-hnk/index.html
+6. Output: 
+According to a new report, the number of wildfires in Brazil's Amazon rainforest has increased dramatically in the past year. Environmentalists say the fires are linked to deforestation, as more areas of forest are cleared for agriculture and other industries. The Amazon is often referred to as the "lungs of the Earth" because it absorbs a significant amount of the world's carbon dioxide emissions. The wildfire crisis has sparked calls for more action to enforce existing laws against deforestation and to ramp up conservation efforts. Critics argue that the government's policies are exacerbating the problem, and that more needs to be done to address the root causes of deforestation.
+###
+7. Instruction: Rewrite the following sentence using more formal language. 
+7. Input: 
+Original sentence: "That's not fair, man! You can't just change the rules halfway through the game!" 
+7. Output: 
+"I find your actions to be unjustified. It is inappropriate to alter the established regulations in the middle of the ongoing contest." 
+###
+8. Instruction: Can you generate a haiku? 
+8. Input: 
+<noinput>
+8. Output: 
+A single blossom,
+Fragile, fleeting, beautiful -
+Life's fleeting moments.
+###
+9. Instruction: Please edit the following paragraph to remove repetitive phrases. 
+9. Input: 
+Original paragraph: 
+I had a dream last night that I was on a boat, on a beautiful lake. The boat was floating slowly, and it was such a peaceful feeling. I remember looking out at the water and being struck by the way it glimmered in the sun. Eventually, the boat reached the other side of the lake, and I saw a village nestled in the hills. 
+9. Output: 
+Last night, I dreamt that I was on a boat on a serene lake, floating slowly. I was captivated by the way the water shimmered in the sun. After what seemed like a while, the boat finally reached the other side of the lake, where I saw a village nestled in the hills.
+###
+10. Instruction: Generate a witty one-liner about technology. 
+10. Input: 
+<noinput>
+10. Output: 
+Technology is the glue that holds us together, until it doesn't.
+###
+11. Instruction: Can you tell me a joke about neuroscience? 
+11. Input: 
+<noinput>
+11. Output: 
+Why did the action potential cross the synaptic cleft? To get to the other dendrite!
+###
+12. Instruction: Provide a recipe for chocolate chip cookies. 
+12. Input: 
+<noinput>
+12. Output: 
+Ingredients:
+- 2 and 1/4 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 cup unsalted butter, room temperature
+- 3/4 cup white sugar
+- 3/4 cup brown sugar
+- 2 eggs
+- 2 tsp vanilla extract
+- 2 cups semisweet chocolate chips
+
+Instructions:
+1. Preheat oven to 375 degrees F (190 degrees C).
+2. Combine flour, baking soda, and salt in a medium bowl.
+3. In a separate bowl, cream together butter, white sugar, and brown sugar until smooth. Beat in the eggs and vanilla extract.
+4. Gradually blend in the flour mixture, then stir in the chocolate chips.
+5. Drop rounded tablespoons of dough onto ungreased baking sheets.
+6. Bake for 8 to 10 minutes, or until lightly golden brown.
+7. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+Enjoy your freshly baked chocolate chip cookies!
+###
+13. Instruction: Write a list of recommendations for a tourist visiting New York City for the first time. 
+13. Input: 
+<noinput>
+13. Output: 
+1. Visit one of the iconic museums, such as the Metropolitan Museum of Art or the American Museum of Natural History.
+2. Take in the breathtaking views of the city from the Empire State Building or the Top of the Rock.
+3. Walk through Central Park and enjoy the beautiful scenery.
+4. Explore some of the city's diverse neighborhoods, such as Chinatown, Little Italy, or Greenwich Village.
+5. Catch a Broadway show or enjoy some of the city's live music and comedy performances.
+6. Satisfy your cravings by sampling some of the city's world-famous food, from bagels and pizza to hot dogs and cheesecake.
+7. Take a boat tour around the Statue of Liberty and Ellis Island and learn more about the city's rich history.
+###
+14. Instruction: Can you complete the following sentence with a common idiom?
+14. Input: 
+Sentence beginning: "She was struggling to keep up with the rest of the runners, and her legs were beginning to feel heavy."
+14. Output: 
+"She was struggling to keep up with the rest of the runners, and her legs were beginning to feel like lead." 
+###
+15. Instruction: Provide a quick summary of the plot of a popular TV show. 
+15. Input: 
+TV Show: Stranger Things
+15. Output: 
+Set in the 1980s, the show follows the adventures of a group of friends in a small Indiana town after one of them goes missing. As they try to find their friend, they uncover supernatural forces and a mysterious government agency that is conducting experiments in the area. Along the way, they encounter a girl with telekinetic powers and fight against a terrifying monster from another dimension known as the Upside Down.
+###
+16. Instruction: Can you complete the following sentence with a word that means the opposite of "melancholy"? 
+16. Input: 
+Sentence beginning: "He woke up feeling a deep sense of melancholy today, and he couldn't shake it off."
+16. Output: 
+"He woke up feeling a deep sense of euphoria today, and he couldn't shake it off." 
+###
+17. Instruction: Can you provide a step-by-step guide on how to tie a necktie? 
+17. Input: 
+<noinput>
+17. Output: 
+1. Drape the necktie over your shoulder so that the wide end is on your right side and the narrow end is on your left side.
+2. Cross the wide end over the narrow end, bringing it from your right side to your left.
+3. Bring the wide end up and over the knot, pulling it down towards the left so that it hangs down in front of the knot.
+4. Bring the wide end underneath the narrow end, from left to right.
+5. Bring the wide end up and over the knot again, this time pulling it downwards towards the right.
+6. Bring the wide end underneath the knot from right to left.
+7. Bring the wide end up and over the knot for a final time, pulling it down and through the loop in the front.
+8. Tighten and adjust the knot as needed.
+Congratulations, you have successfully learned how to tie a necktie!
+###
+18. Instruction: Can you provide a brief explanation of the difference between weather and climate? 
+18. Input: 
+<noinput>
+18. Output: 
+Weather refers to the atmospheric conditions in a specific place at a specific time, such as temperature, humidity, wind speed, and precipitation. Climate, on the other hand, refers to the long-term patterns of temperature, precipitation, and other weather variables in a particular area. While weather can change rapidly over hours or days, climate change refers to long-term trends and shifts that occur over decades or centuries.
+###
+19. Instruction: Can you provide a definition for the term "misanthrope"? 
+19. Input: 
+<noinput>
+19. Output: 
+A misanthrope is a person who dislikes or distrusts other people and prefers solitude over socializing. They may have a cynical or negative view of humanity, and often find fault with others' actions or motivations. The term is often used as a negative label for people who are perceived as being grumpy, antisocial, or reclusive.
+### 
+20. Instruction: Can you complete the following sentence with a word that means the opposite of "opaque

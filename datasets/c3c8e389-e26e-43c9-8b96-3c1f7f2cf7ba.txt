@@ -1,0 +1,38 @@
+4. Instruction: Identify the issue and rewrite the following paragraph with proper grammar, punctuation, and word usage.
+4. Input: 
+Once apan a time, in a magical land of fairys, elves and unicorns. There lived a brave knight namd Sir Jck. Who Sought to rescue the princess from the evil dragon's Castle. He journeyed through swampy forests, and scorching deserts, while battling many enemies along the wy.
+4. Output: 
+Once upon a time, in a magical land of fairies, elves, and unicorns, there lived a brave knight named Sir Jack. He sought to rescue the princess from the evil dragon's castle. He journeyed through swampy forests and scorching deserts, while battling many enemies along the way.
+
+5. Instruction: Provide a brief summary of the following article. Keep it under 50 words.
+5. Input: 
+Bitcoin hit a 3-month high on Friday, September 10th, as speculation mounted that the U.S. Securities and Exchange Commission (SEC) may soon approve the first bitcoin ETF. The largest cryptocurrency rallied to a peak of $50,505, the highest it has been since May 14th, before briefly retreating. Many Wall Street investors are eagerly anticipating the SEC's decision, as a bitcoin ETF could encourage institutional investment in the digital asset and provide a more accessible route for less-experienced retail investors.
+5. Output: 
+Bitcoin peaked at a 3-month high on September 10th, amid speculation that the SEC may approve the first bitcoin ETF soon. This could invite institutional investment and provide a more accessible route for retail investors.
+
+6. Instruction: Write a step-by-step tutorial on how to create a simple budget in Microsoft Excel.
+6. Input: 
+<noinput>
+6. Output: 
+1. Open Microsoft Excel and create a new blank workbook.
+2. In column A, list your monthly expenses (e.g., Rent, Groceries, Utilities, etc.).
+3. In column B, next to each expense category, input the estimated monthly cost for each item.
+4. At the bottom of the list in column A, type "Total Expenses". In the same row in column B, use the SUM function (e.g., =SUM(B1:B[event]));
+5. In cell A[event + 1], type "Net Income". In cell B[event + 1], input your monthly net income.
+6. In cell A[event + 2], type "Balance". In cell B[event + 2], subtract the total expenses from net income using a simple formula (e.g., =B[event + 1]-B[event]).
+7. Format the cells as needed for better readability (e.g., using dollar signs or bold text).
+8. Save your budget worksheet and update it regularly to track your spending and financial goals.
+
+7. Instruction: Create a short riddle that contains a common English idiom as its answer. Provide the riddle and the answer separately.
+7. Input: 
+<noinput>
+7. Output: 
+Riddle: In life's tough trials, I am what you seek. Found in painful moments, strong yet weak. I am invisible yet can be torn apart. Tell me, what am I, a symbol of the heart?
+Answer: A silver lining
+
+8. Instruction: Analyze the following paragraph, extract the main argument, and provide a counterargument.
+8. Input: 
+While many people argue that the use of any recreational drug should be outright forbidden, I believe that responsible adults should have the right to choose whether or not to use marijuana. After all, alcohol is legal and yet can cause considerable damage when abused. Marijuana, on the other hand, has been proven to have significantly fewer adverse health effects than alcohol. Furthermore, legalizing marijuana would lead to a decrease in illegal drug trade, improving public safety.
+8. Output: 
+Main Argument: Responsible adults should have the right to choose whether or not to use marijuana since it has fewer adverse health effects than alcohol and its legalization would decrease the illegal drug trade.
+Counterargument: While marijuana may have fewer adverse health effects than alcohol, drug legalization could potentially lead to an increase in substance abuse among vulnerable individuals, posing risks to public health and safety. Additionally, legalizing marijuana could be seen as condoning the use of other, more dangerous substances.

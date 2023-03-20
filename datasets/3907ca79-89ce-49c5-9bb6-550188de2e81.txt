@@ -1,0 +1,107 @@
+4. Instruction: Describe the movie "Interstellar" in a few sentences.
+4. Input: 
+<noinput>
+4. Output: 
+"Interstellar" is a 2014 science fiction film directed by Christopher Nolan, starring Matthew McConaughey and Anne Hathaway. It follows a group of astronauts who travel through a wormhole in search of a new habitable planet to save humanity from a dying Earth. The movie explores themes of love, sacrifice, and the vastness of space.
+
+5. Instruction: Translate the phrase to French.
+5. Input: 
+Good morning, how are you?
+5. Output: 
+Bonjour, comment ça va?
+
+6. Instruction: Evaluate the author's use of symbolism in the following passage.
+6. Input: 
+The sunflowers drooped their heads, their once vibrant colors now faded and dull. As Jane passed by, she couldn't help but notice the lifelessness of the once thriving field.
+6. Output: 
+The author uses the sunflowers as a symbol of vitality and hope. In this passage, their drooping and faded state reflects a sense of decay and despair, possibly mirroring Jane's emotional state or the atmosphere in the story at that point.
+
+7. Instruction: Recommend a suitable title for this short story.
+7. Input: 
+The story follows the journey of an old watchmaker who travels through different eras, fixing broken timepieces and mending strained relationships. He eventually gains newfound appreciation for the fleeting nature of time.
+7. Output: 
+"Mending Moments: The Watchmaker's Odyssey"
+
+8. Instruction: Summarize the main idea of the quoted speech.
+8. Input: 
+"And I can say this: when it comes to the environment, nobody has a perfect record. But what we need to do now is come together as one people, all of us, and develop a cohesive and ambitious plan to save our planet."
+8. Output: 
+The speaker acknowledges that no one has a perfect environmental record, but insists that the focus should be on uniting as one to create a comprehensive and ambitious plan to protect the environment.
+
+9. Instruction: Write a haiku about autumn.
+9. Input: 
+<noinput>
+9. Output:
+Crisp leaves falling down,
+Golden hues blanket the ground,
+Autumn's gentle touch.
+
+10. Instruction: List three potential consequences of global warming.
+10. Input: 
+<noinput>
+10. Output:
+1. Rising sea levels due to melting ice caps.
+2. Frequent and severe weather events, like storms and droughts.
+3. Loss of biodiversity as habitats change and species struggle to adapt.
+
+11. Instruction: Compare the two business strategies.
+11. Input: 
+Strategy A: Focus on cost efficiency and automation to offer low prices.
+Strategy B: Provide excellent customer service and build brand loyalty through personalized experiences.
+11. Output:
+Strategy A emphasizes cost reduction and automation, aiming to attract customers through competitive pricing. Strategy B prioritizes exceptional customer service and personalization, building brand loyalty and long-term relationships with customers. While the first strategy can result in high sales volume, the second strategy aims to create a loyal customer base that keeps coming back.
+
+12. Instruction: Rank the following investments from highest to lowest risk.
+12. Input: 
+Government bonds, cryptocurrency, corporate bonds, stocks.
+12. Output:
+Cryptocurrency, stocks, corporate bonds, government bonds.
+
+13. Instruction: Identify the type of logical fallacy in the argument.
+13. Input:
+“People who drink diet soda must be trying to lose weight because diet soda is for people who want to lose weight.”
+13. Output:
+Begging the question (circular reasoning).
+
+14. Instruction: Suggest two improvements to the paragraph.
+14. Input: 
+The dog run fast. He go on feet and jumping it happy.
+14. Output:
+1. Correct the grammar: "The dog runs fast. It goes on its feet and jumps happily."
+2. Add detail for clarity: "The energetic dog runs swiftly. With each leap, its joyful spirit shines through."
+
+15. Instruction: Name two famous painters from the Renaissance period.
+15. Input: 
+<noinput>
+15. Output:
+Leonardo da Vinci and Michelangelo.
+
+16. Instruction: Define the term "epistemic humility."
+16. Input:
+<noinput>
+16. Output:
+Epistemic humility refers to the recognition and acknowledgment of the limits of one's own knowledge, understanding, and perspective, and being open to learn from others and consider alternative viewpoints.
+
+17. Instruction: What is the Pythagorean theorem?
+17. Input:
+<noinput>
+17. Output:
+The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides.
+
+18. Instruction: Provide a solution to this time management issue.
+18. Input: 
+Tom always finds himself running out of time to complete his tasks at work.
+18. Output:
+Tom can try using time management techniques such as prioritizing tasks with the Eisenhower Matrix, breaking tasks into smaller parts with the Pomodoro Technique, and setting specific deadlines for each task.
+
+19. Instruction: Explain why this sentence is an oxymoron.
+19. Input: 
+It was an open secret.
+19. Output:
+The term "open secret" is an oxymoron because "open" implies that the information is known and freely shared, while "secret" suggests that the information is hidden or kept confidential. The contradictory nature of the two words creates an oxymoron.
+
+20. Instruction: Identify the poetic device in the following line.
+20. Input:
+The waves crashed like angry fists upon the rocky shore.
+20. Output:
+Simile.

@@ -1,0 +1,105 @@
+4. Instruction: Convert the given text message slang into proper English.
+4. Input: 
+lol tht prty lst nite was lit, ppl wr dancin all ovr the plc & the DJ was on fire. ttyl, gtg 2 class!
+4. Output: 
+Laughing out loud! That party last night was great. People were dancing all over the place, and the DJ was fantastic. Talk to you later, I have to go to class!
+
+5. Instruction: What are the primary colors of light?
+Answer:
+5. Input:
+<noinput>
+5. Output: 
+The primary colors of light are red, green, and blue.
+
+6. Instruction: Rewrite the following sentence in passive voice.
+6. Input: 
+The dog bit him on the leg.
+6. Output: 
+He was bitten on the leg by the dog.
+
+7. Instruction: Identify if the given word is a palindrome.
+7. Input: 
+racecar
+7. Output: 
+Yes, the word "racecar" is a palindrome.
+
+8. Instruction: Summarize the main point of the given passage.
+8. Input: 
+Plastic pollution is one of the most significant environmental issues we face today. When plastic enters the natural environment, it can take hundreds of years to break down, causing harm to wildlife, marine ecosystems, and ultimately humans. Going forward, reducing plastic waste and increasing the recycling of plastics are critical to mitigating the effects of plastic pollution on our planet.
+8. Output: 
+The passage highlights the environmental issue of plastic pollution, and emphasizes the importance of reducing plastic waste and increasing recycling to mitigate its harmful impacts.
+
+9. Instruction: Provide a definition for the given acronym.
+9. Input: 
+AI
+9. Output: 
+AI stands for Artificial Intelligence.
+
+10. Instruction: Write the news headline for the given event.
+10. Input: 
+A young software engineer discovers a revolutionary technology for efficiently managing solar power in homes.
+10. Output: 
+Young Engineer Unveils Breakthrough Solar Power Management Technology for Homeowners
+
+11. Instruction: Translate the given sentence into French.
+11. Input: 
+The weather is beautiful today.
+11. Output: 
+Le temps est magnifique aujourd'hui.
+
+12. Instruction: List the symptoms for the given medical condition.
+12. Input: 
+Migraine
+12. Output: 
+Migraine symptoms include throbbing headache, sensitivity to light and sound, nausea, vomiting, and sometimes visual disturbances (aura).
+
+13. Instruction: Create a rhyming couplet about the given topic.
+13. Input: 
+Nature
+13. Output: 
+In nature's beauty, we find solace and grace,
+A calming retreat from life's hectic race.
+
+14. Instruction: Recommend a book related to the given subject.
+14. Input: 
+Personal Finance
+14. Output: 
+I recommend "Rich Dad Poor Dad" by Robert Kiyosaki for personal finance insights.
+
+15. Instruction: Elaborate the given abbreviation.
+15. Input: 
+SCUBA
+15. Output: 
+SCUBA stands for Self-Contained Underwater Breathing Apparatus.
+
+16. Instruction: What common phrase does the given idiom represent?
+16. Input: 
+The ball is in your court
+16. Output: 
+The phrase "The ball is in your court" represents that it is now your turn to take action or responsibility.
+
+17. Instruction: Write a haiku about the given subject.
+17. Input: 
+Autumn
+17. Output: 
+Leaves of red and gold,
+Chilly winds whisper goodbyes,
+Autumn's breath takes hold.
+
+18. Instruction: Complete the analogy.
+18. Input: 
+Bird is to nest as squirrel is to _____
+18. Output: 
+Bird is to nest as squirrel is to drey.
+
+19. Instruction: Name three types of the given item.
+19. Input: 
+cheese
+19. Output: 
+Cheddar, Brie, and Gouda are three types of cheese.
+
+20. Instruction: Proofread the sentence and correct any mistakes.
+20. Input: 
+Theres alot of people coming to the party, their aalso brining food and deserts.
+20. Output: 
+There are a lot of people coming to the party, they're also bringing food and desserts.

@@ -1,0 +1,26 @@
+4. Instruction: Convert the following paragraph into a business-style text.
+4. Input: 
+Hey! I hope you're doing super well! Like, seriously, I hope things are just awesome for ya! Okay, so here's the dealio: We've got this really cool meeting planned for next Friday, July 9th, right? It's gonna be at 10 a.m., so make sure you don't have any other stuff planned, because you don't wanna miss it! We're gonna discuss all the great ideas we've been tossing around, and I'm pretty sure it's gonna be super productive, which is wild! Oh, and don't forget to bring any materials or ideas you've got; we really want everyone involved in the discussion! Alright, I gotta run! Catch ya later!
+4. Output: 
+Dear [Recipient],
+
+I hope this message finds you well. Please be informed that a meeting has been scheduled for next Friday, July 9th, at 10 a.m. This meeting will be an opportunity for us to discuss and consolidate ideas for the project. We anticipate a productive session and would appreciate your attendance.
+
+Kindly prepare any relevant materials or ideas you may have and be ready to participate in the discussion.
+
+Thank you and have a great day.
+
+Best regards,
+
+[Your Name] 
+
+5. Instruction: Give me a short description of the dish Pad Thai.
+5. Input: <noinput>
+5. Output: 
+Pad Thai is a popular Thai stir-fry dish made of rice noodles, eggs, tofu, vegetables, and typically shrimp or chicken. It's flavored with a tangy-sweet tamarind-based sauce and garnished with crushed peanuts, bean sprouts, and lime wedges.
+
+6. Instruction: Rewrite the given sentence to make it shorter and to the point.
+6. Input: 
+It seems to me that going to the supermarket to buy some groceries is the best choice because there's a large variety of foods and products you can choose from.
+6. Output: 
+Going to the supermarket is best for its wide variety of food and product choices.

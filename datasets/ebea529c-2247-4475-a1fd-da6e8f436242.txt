@@ -1,0 +1,76 @@
+4. Instruction: Write a sentence using the word "ennui". 
+4. Input: <noinput>
+4. Output: I can’t help but feel ennui during this pandemic, endlessly scrolling through social media and watching tv.
+###
+5. Instruction: Edit the provided paragraph for grammar and spelling errors.
+5. Input: 
+Whiel waiting at the airport, I learend some Japanese from a book my sister gave me. She knows all about my dream to go there and has been trying to help me for years. I am so gratefull to have a sister like her.
+5. Output: 
+While waiting at the airport, I learned some Japanese from a book my sister gave me. She knows all about my dream to go there and has been trying to help me for years. I am so grateful to have a sister like her.
+###
+6. Instruction: Generate a new name for a furniture store. 
+6. Input: <noinput>
+6. Output: IntegriHome
+###
+7. Instruction: Summarize the main points of the given scientific article.
+7. Input: 
+https://www.nature.com/articles/d41586-022-00326-4
+7. Output: New genetic engineering technologies allow scientists to better modify RNA, DNA and proteins - modifying and regulating biological systems at different levels. High-throughput techniques could lead to fresh approaches of engineering biology and expanding our knowledge of it. With these new tools it is possible to explore a range of therapeutic targets for genetic diseases and cancers.
+###
+8. Instruction: Find me the TV show with the highest rating on IMDb. 
+8. Input: <noinput>
+8. Output: The TV show with the highest rating on IMDb is “Breaking Bad”.
+###
+9. Instruction: Help me solve this math problem. 
+9. Input: 
+12x + 6 = 2x + 32
+9. Output: x = 2
+### 
+10. Instruction: Generate a catchy slogan for a new coffee brand. 
+10. Input: <noinput>
+10. Output: Get up and go with WAKE coffee.
+###
+11. Instruction: Given a medical report, provide a diagnosis. 
+11. Input: 
+Patient is experiencing fever, cough, sore throat, and shortness of breath. Blood tests show low oxygen levels and a high white blood cell count.
+11. Output: The patient is displaying symptoms of COVID-19 and should be immediately quarantined and receive medical treatment.
+###
+12. Instruction: Rewrite the sentence to remove passive voice structure. 
+12. Input: 
+The book was written by J.K. Rowling. 
+12. Output: J.K. Rowling wrote the book.
+###
+13. Instruction: Tell me about the history of the Great Wall of China. 
+13. Input: <noinput>
+13. Output: The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect against raids and invasions from Central Asia. The wall was originally built during the 7th century BCE and then later repaired and rebuilt multiple times over the centuries.
+###
+14. Instruction: Recommend a restaurant in Chicago for me to try. 
+14. Input: <noinput>
+14. Output: I recommend trying Alinea in Chicago, it is a highly rated 3-Michelin-starred restaurant known for its imaginative cuisine and exceptional service.
+###
+15. Instruction: Generate a metaphor for a very large house. 
+15. Input: <noinput>
+15. Output: The house was so large it felt like a castle, with rooms sprawling out like acres of gardens and great halls towering over you like giant trees.
+###
+16. Instruction: List the countries in Europe that use the Euro as their currency. 
+16. Input: <noinput>
+16. Output: The countries in Europe that use the Euro as their currency are Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovakia, Slovenia, and Spain.
+###
+17. Instruction: Provide a synonym for the word "persistent". 
+17. Input: <noinput>
+17. Output: A synonym for the word "persistent" is "tenacious".
+###
+18. Instruction: Write me a haiku about the changing of seasons. 
+18. Input: <noinput>
+18. Output: 
+Leaves yellow, then fall
+Cold breeze on the autumn wind
+Winter draws near now
+###
+19. Instruction: Tell me a joke. 
+19. Input: <noinput>
+19. Output: Why don't scientists trust atoms? Because they make up everything!
+###
+20. Instruction: Explain to me the process of photosynthesis. 
+20. Input: <noinput>
+20. Output: Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll pigment. It takes place in the chloroplasts of the green plants, which use the energy from sunlight to convert carbon dioxide and water into glucose, a type of sugar, which the plant uses for food. Oxygen is also released as a byproduct of photosynthesis.

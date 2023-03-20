@@ -1,0 +1,112 @@
+4. Instruction: Identify the genre of the given movie title.
+4. Input: 
+Jurassic Park
+4. Output: 
+Science Fiction / Adventure
+
+5. Instruction: Identify the grammatical error and provide a corrected version of the sentence.
+5. Input: 
+Their waiting for us at the restaurant.
+5. Output: 
+They're waiting for us at the restaurant.
+
+6. Instruction: Write a haiku about the given topic.
+6. Input: 
+Autumn leaves
+6. Output: 
+Golden leaves flutter,
+Autumn's breeze whispers softly,
+Nature's grand farewell.
+
+7. Instruction: Suggest a recipe for dinner using the input ingredients.
+7. Input: 
+chicken, bell peppers, onions, tomatoes
+7. Output: 
+Chicken Fajitas:
+1. Cut chicken into strips and season with salt, pepper, and fajita seasoning.
+2. Chop bell peppers and onions.
+3. Heat oil in a skillet over medium-high heat.
+4. Add chicken to the skillet and cook until browned.
+5. Add bell peppers, onions, and diced tomatoes to the skillet, stirring occasionally.
+6. Cook until vegetables are tender and chicken is cooked through.
+7. Serve on warm tortillas with your choice of toppings, such as sour cream or guacamole.
+
+8. Instruction: For the given scenario, suggest a creative or unorthodox solution.
+8. Input: 
+You are trapped in a room with only a tape measure and a banana.
+8. Output: 
+Peel the banana, place the peel on the floor, and step on it so you slide towards the door. Then, use the tape measure to hook onto the door handle and pull it towards you slowly, hoping to unlock the door from your position.
+
+9. Instruction: Paraphrase the following quote while maintaining its meaning.
+9. Input: 
+"The only way to do great work is to love what you do." - Steve Jobs
+9. Output: 
+To achieve excellence in your work, you must have a passion for what you're doing. - Steve Jobs
+
+10. Instruction: Provide the first line of the input book.
+10. Input: 
+Pride and Prejudice by Jane Austen
+10. Output: 
+It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+
+11. Instruction: Translate the given input text into simpler English.
+11. Input: 
+The utilization of solar energy for electricity generation is an advantageous endeavor.
+11. Output: 
+Using solar energy to make electricity is a good thing.
+
+12. Instruction: Build an acronym for the given input phrase.
+12. Input: 
+wireless fidelity
+12. Output: 
+Wi-Fi
+
+13. Instruction: Determine the winner of the election based on the provided results.
+13. Input: 
+Candidate A: 150 votes, Candidate B: 200 votes, Candidate C: 175 votes
+13. Output: 
+Candidate B
+
+14. Instruction: Offer a sentence using the given input idiom in context.
+14. Input: 
+the elephant in the room
+14. Output: 
+During the family dinner, no one wanted to address the elephant in the room – the fact that Uncle Larry had lost his job.
+
+15. Instruction: Given the input ingredients, name a possible cocktail.
+15. Input: 
+vodka, orange juice, cranberry juice
+15. Output: 
+Sex on the Beach
+
+16. Instruction: Summarize the main point of the given input news headline.
+16. Input: 
+Tesla announces a breakthrough in battery technology, significantly reducing production costs and increasing mileage.
+16. Output: 
+Tesla's new battery technology lowers costs and boosts mileage.
+
+17. Instruction: Offer a polite and tactful response to the given input statement.
+17. Input: 
+I do not enjoy working with Janet; she's always negative.
+17. Output: 
+I understand your concern, and it's important to keep a positive work environment. Perhaps discussing your concerns with Janet could help improve the situation?
+
+18. Instruction: Describe a possible science experiment that could be done based on the given input topic.
+18. Input: 
+Effect of temperature on plant growth
+18. Output: 
+Plant identical seeds in separate pots and place them in different temperature-controlled environments (cold, room temperature, and warm). Water all plants with the same amount of water and provide the same amount of light daily. Observe and measure the growth of the plants over a set period to determine the effect of temperature on their growth.
+
+19. Instruction: Recommend three books based on the input interests.
+19. Input: 
+Psychology, self-help, emotional intelligence
+19. Output: 
+1. "Man's Search for Meaning" by Viktor Frankl
+2. "The Power of Now" by Eckhart Tolle
+3. "Emotional Intelligence" by Daniel Goleman
+
+20. Instruction: Write a creative title for the given input painting description.
+20. Input: 
+A surreal scene of a woman standing in front of a mirror with butterflies emerging from the reflection
+20. Output: 
+Whispers of the Butterfly's Soul

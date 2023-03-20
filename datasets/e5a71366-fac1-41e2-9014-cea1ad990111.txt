@@ -1,0 +1,41 @@
+4. Instruction: Given a sentence, rephrase it to have a more formal tone.
+4. Input: 
+I gotta go now, see you later.
+4. Output: 
+I must depart at present, farewell.
+###
+5. Instruction: Given a tweet, provide a summary of its content.
+5. Input: 
+"Just had the best burger of my life at this new spot in downtown LA #foodie #yum"
+5. Output: 
+The author highly recommends a new burger restaurant in downtown LA and enjoyed their meal there immensely.
+###
+6. Instruction: Rewrite the following sentence in active voice.
+6. Input:
+The project was completed by the team last month.
+6. Output: 
+The team completed the project last month.
+###
+7. Instruction: Given a sentence, identify the grammatical error and suggest a correction.
+7. Input: 
+Me and my friends are going to the park to play football.
+7. Output: 
+Grammatical Error: "Me" should be replaced with "I" for proper subject-verb agreement. Corrected sentence: "My friends and I are going to the park to play football."
+###
+8. Instruction: Given a paragraph, summarize its main idea in one sentence. 
+8. Input: 
+"<noinput>"
+8. Output: 
+The implementation of renewable energy sources is essential to reducing greenhouse gas emissions and promoting sustainable development for the future.
+###
+9. Instruction: Given a list of items, sort them in chronological order based on their release date.
+9. Input: 
+Star Wars Episode IV, Jurassic Park, The Lion King, Titanic
+9. Output: 
+Chronological order: Star Wars Episode IV (1977), Jurassic Park (1993), The Lion King (1994), Titanic (1997).
+###
+10. Instruction: Translate the following phrase from French to English.
+10. Input: 
+Je voudrais une baguette, s'il vous plaît.
+10. Output: 
+I would like a baguette, please.

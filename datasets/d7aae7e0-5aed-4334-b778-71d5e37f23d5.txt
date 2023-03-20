@@ -1,0 +1,115 @@
+4. Instruction: Convert the given text from third-person to first-person narrative.
+4. Input: 
+She walked into the room, feeling a sense of unease. She glanced around and noticed the stranger sitting in the corner, gazing at her intently.
+4. Output: 
+I walked into the room, feeling a sense of unease. I glanced around and noticed the stranger sitting in the corner, gazing at me intently.
+
+5. Instruction: Summarize the plot of the given movie.
+5. Input: 
+Inception (2010)
+5. Output: 
+Inception is a science-fiction thriller that follows Cobb, a professional thief who specializes in stealing ideas from people's subconscious through their dreams. Cobb is hired to perform the seemingly impossible task of planting an idea into someone's mind, known as "inception," in exchange for a chance to reunite with his children.
+
+6. Instruction: Predict the consequences of the given situation.
+6. Input: 
+A new law requires all citizens to work 6 days a week.
+6. Output: 
+Consequences of this law may include increased worker fatigue, decreased job satisfaction, higher stress levels, negative impact on mental health, reduced time for personal and family commitments, and potential pushback or protests from the public.
+
+7. Instruction: Explain the meaning behind the phrase in the context provided.
+7. Input: 
+"Actions speak louder than words" in the context of a relationship.
+7. Output: 
+In the context of a relationship, "actions speak louder than words" means that one's behavior and actions towards their partner hold more significance than verbal expressions. It emphasizes the importance of showing love, care, and support through actions rather than just saying it.
+
+8. Instruction: Evaluate the outcome of a given decision.
+8. Input: 
+Deciding to crowdfund to raise money for a small business.
+8. Output: 
+The outcome of this decision could be positive, as crowdfunding can provide essential funds for a small business's growth, increased public recognition, and valuable feedback from potential customers. However, the outcome could also be negative if the campaign is not well-executed or fails to reach its goals, leaving the business with insufficient funding and resources.
+
+9. Instruction: Identify the strengths of the given person in their work environment.
+9. Input: 
+Jane is always punctual, patient, and a great listener.
+9. Output: 
+Jane's strengths in the work environment include her punctuality, demonstrating professionalism and responsibility; patience, allowing her to handle stressful situations calmly; and effective listening skills, ensuring she understands and responds appropriately to colleagues and clients.
+
+10. Instruction: Write a casual email closing to a friend.
+10. Input: 
+<noinput>
+10. Output: 
+Take care and catch up with you soon!
+Your pal,
+
+11. Instruction: Translate the given text into present tense.
+11. Input: 
+They worked hard throughout the day and completed the project on time.
+11. Output: 
+They work hard throughout the day and complete the project on time.
+
+12. Instruction: Create an advertisement slogan for the given product.
+12. Input: 
+Energy-boosting multivitamin for adults
+12. Output: 
+Energize Your Day, the Natural Way!
+
+13. Instruction: Analyze the effect of coming up with innovative ideas for a company.
+13. Input: 
+<noinput>
+13. Output: 
+Innovative ideas can have significant positive effects on a company, including increased growth, higher market share, improved problem-solving techniques, better employee morale, enhanced public image, and staying ahead of competition. However, not all innovations are successful, and risky endeavors may result in financial losses or failure to meet objectives.
+
+14. Instruction: Provide a scientific explanation for the given natural phenomenon.
+14. Input: 
+Formation of rainbows
+14. Output: 
+Rainbows form due to the refraction, dispersion, and reflection of sunlight within water droplets in the atmosphere. When light passes through these droplets, it is bent and dispersed into its different color wavelengths, creating a spectrum. Reflection of this dispersed light occurs within the droplet, and it is refracted again when it exits, creating a circular arc of colors that we perceive as a rainbow.
+
+15. Instruction: Write a review of the given book, mentioning the strengths and weaknesses.
+15. Input: 
+To Kill a Mockingbird by Harper Lee
+15. Output: 
+To Kill a Mockingbird is a classic American novel that tackles the themes of racial injustice, social inequality, and moral growth through the eyes of a young girl named Scout. The novel's strengths lie in its powerful and memorable characters, poignant storytelling, and the evocative portrayal of the 1930s South. However, some critics argue that it oversimplifies complex issues and exhibits some narrative inconsistencies. Overall, the novel remains an essential read for understanding the historical and societal context.
+
+16. Instruction: Describe the main characters from the given TV show.
+16. Input: 
+F.R.I.E.N.D.S (1994-2004)
+16. Output: 
+1. Rachel Green: A fashion-conscious woman who evolves from being a pampered girl to a successful professional.
+2. Monica Geller: A compulsively organized chef who prioritizes her friendships and family.
+3. Ross Geller: A paleontologist with a complicated love life and sibling rivalry with Monica.
+4. Chandler Bing: A sarcastic office worker who struggles with commitment and his parents' divorce.
+5. Joey Tribbiani: A good-hearted but dimwitted actor known for his womanizing habits and love for food.
+6. Phoebe Buffay: A quirky musician with a mysterious past and a loving, eccentric personality.
+
+17. Instruction: Rewrite the given fairy tale using modern language and setting.
+17. Input: 
+Goldilocks and the Three Bears
+17. Output: 
+While out for a jog in her suburban neighborhood, Goldie comes across a charming house owned by the Bear family. Seeing the door unlocked, her curiosity gets the better of her, and she enters. She proceeds to taste three bowls of protein shakes, sit on three different high-tech massage chairs, and try out three memory foam beds. When the Bear family returns from their walk and discovers Goldie sleeping in one of their beds, Goldie wakes up in a panic and runs back to her house, vowing never to trespass again.
+
+18. Instruction: Critique the effectiveness of a given study method.
+18. Input: 
+Using mnemonic devices for memorization
+18. Output: 
+Mnemonic devices are an effective study method, as they promote meaningful learning, increase recall, and allow for easier organization of information. By creating associations between new and familiar knowledge, mnemonic devices enable for more efficient memorization. However, their effectiveness may be limited if the associations created are not meaningful or if the device itself is too complex to remember.
+
+19. Instruction: State the negative aspects of the given situation.
+19. Input: 
+A company adopts an all-remote work policy.
+19. Output: 
+Negative aspects of an all-remote work policy include potential loneliness and isolation for employees, decreased opportunities for face-to-face collaboration, challenges in establishing a work-life balance, and difficulties in onboarding and training new hires.
+
+20. Instruction: List the common symptoms of the given medical condition.
+20. Input: 
+Common cold
+20. Output: 
+1. Runny or stuffy nose
+2. Sore throat
+3. Cough
+4. Congestion
+5. Sneezing
+6. Mild headache
+7. Low-grade fever
+8. Body aches
+9. Fatigue

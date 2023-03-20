@@ -1,0 +1,110 @@
+4. Instruction: Convert the given text from passive voice to active voice.
+4. Input: 
+The novel was read by millions of people worldwide.
+4. Output: 
+Millions of people worldwide read the novel.
+###
+5. Instruction: What's the best way to learn a new language?
+5. Input:
+<noinput>
+5. Output: 
+The best way to learn a new language is through immersion, speaking with native speakers, practicing consistently, and using resources like textbooks, apps, and online courses.
+###
+6. Instruction: Recommend five non-fiction books on personal development.
+6. Input:
+<noinput>
+6. Output:
+1. How to Win Friends and Influence People by Dale Carnegie
+2. The Power of Habit by Charles Duhigg
+3. Think and Grow Rich by Napoleon Hill
+4. The 7 Habits of Highly Effective People by Stephen Covey
+5. The Four Agreements by Don Miguel Ruiz
+###
+7. Instruction: Rewrite the given paragraph using more formal language.
+7. Input: 
+Hey, I just wanted to let you know that I'm gonna be late to our meeting tonight. Something's come up, and I won't be able to leave work until later. I'll try to hurry, but I might miss the first part.
+7. Output: 
+Greetings, I must inform you that I will unfortunately be delayed in arriving at our meeting this evening. An unforeseen circumstance has arisen, preventing me from departing work in a timely manner. Although I shall endeavor to expedite my arrival, I may be absent for the initial segment of the meeting.
+###
+8. Instruction: Translate the English sentence to French.
+8. Input: 
+I would like to order a pizza with pepperoni and extra cheese, please.
+8. Output: 
+Je voudrais commander une pizza avec du pepperoni et du fromage supplémentaire, s'il vous plaît.
+###
+9. Instruction: Identify the logical fallacy in the argument given.
+9. Input: 
+Everyone is buying the new iPhone, so it must be the best phone on the market.
+9. Output: 
+Bandwagon fallacy
+###
+10. Instruction: Provide a short, positive affirmation that helps boost self-confidence.
+10. Input:
+<noinput>
+10. Output: 
+I am strong, capable, and deserving of success and happiness in all areas of my life.
+###
+11. Instruction: Write a haiku about the beauty of spring.
+11. Input:
+<noinput>
+11. Output: 
+Blossoms softly bloom,
+Spring whispers, new life emerges,
+Nature's grand ballet.
+###
+12. Instruction: Calculate the tip for a $45 meal if you want to leave a 20% tip.
+12. Input:
+<noinput>
+12. Output: 
+$9
+###
+13. Instruction: Write a brief summary of the plot of the novel "To Kill a Mockingbird" by Harper Lee.
+13. Input:
+<noinput>
+13. Output: 
+"To Kill a Mockingbird" follows the story of young Scout Finch and her brother Jem as they navigate life in the racially divided town of Maycomb, Alabama during the 1930s. Through their father, lawyer Atticus Finch, they learn about morality and empathy amidst the trial of Tom Robinson, a black man falsely accused of raping a white woman. The novel explores themes of racial prejudice, innocence, and courage.
+###
+14. Instruction: Explain how photosynthesis works in plants.
+14. Input:
+<noinput>
+14. Output: 
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen. It occurs in plants' chloroplasts, specifically within the chlorophyll molecules. During photosynthesis, sunlight is absorbed by the chlorophyll, which then excites the electrons. This energy is then used to split water molecules, generating oxygen and hydrogen ions. Alongside this, carbon dioxide is absorbed through the plant's stomata and converted into glucose through a series of chemical reactions known as the Calvin cycle. Ultimately, photosynthesis allows plants to produce their own food and release oxygen into the atmosphere.
+###
+15. Instruction: List the five polygons in ascending order based on their sides.
+15. Input:
+<noinput>
+15. Output: 
+Triangle, quadrilateral, pentagon, hexagon, heptagon.
+###
+16. Instruction: Choose a synonym for the word "desire" in the context of ambition or a strong wish.
+16. Input:
+<noinput>
+16. Output: 
+Aspiration
+###
+17. Instruction: Check the grammar and punctuation of the given sentence and make any necessary corrections.
+17. Input: 
+Their going to their friends house over their to play scrabble.
+17. Output: 
+They're going to their friend's house over there to play Scrabble.
+###
+18. Instruction: Write a brief description of the painting "Mona Lisa" by Leonardo da Vinci.
+18. Input:
+<noinput>
+18. Output: 
+The "Mona Lisa" is a portrait of a woman painted by Leonardo da Vinci during the Italian Renaissance. It features a half-length figure, finely detailed background, and an enigmatic expression on the subject's face. The painting is renowned for its subtle use of sfumato and its unique composition, with the subject's gaze remaining fixed on the viewer, no matter the angle.
+###
+19. Instruction: What is the best approach to promote a new product?
+19. Input:
+<noinput>
+19. Output: 
+The best approach to promote a new product is to create a comprehensive marketing strategy, which includes identifying your target audience, conducting market research, determining your unique selling proposition (USP), creating attractive and engaging ad materials, utilizing SEO and social media marketing, and measuring your results to adapt your strategy as necessary.
+###
+20. Instruction: Classify the given animal phylum based on the presence of the notochord, presence of a dorsal hollow nerve cord, and presence of post-anal tail.
+20. Input:
+Phylum: Chordata
+1. Presence of the notochord: Yes
+2. Presence of a dorsal hollow nerve cord: Yes
+3. Presence of post-anal tail: Yes
+20. Output: 
+The animal phylum matches the characteristics of Phylum Chordata.

@@ -1,0 +1,101 @@
+4. Instruction: Rewrite the following sentence to use a different adjective that still fits the context. 
+4. Input: 
+The food is delicious.
+4. Output: 
+The food is scrumptious.
+###
+5. Instruction: Complete the following sentence with an appropriate word. 
+5. Input: 
+The _______ is a unit of measure for electric current.
+5. Output: 
+[Ampere](or "Amp" is also accepted)
+###
+6. Instruction: Describe the color of the object in the following image. 
+6. Input: 
+<b> <img src="https://i.imgur.com/cHaQK9G.jpg"> </b>
+6. Output: 
+Green.
+###
+7. Instruction: Provide a synonym for the word "happy". 
+7. Input: 
+Joyful
+7. Output: 
+Ecstatic
+###
+8. Instruction: Edit the following sentence to fix a grammatical mistake. 
+8. Input: 
+Him and me went to the store. 
+8. Output: 
+He and I went to the store. 
+###
+9. Instruction: Rewrite the following sentence to use the passive voice. 
+9. Input: 
+The cat knocked over the vase. 
+9. Output: 
+The vase was knocked over by the cat. 
+###
+10. Instruction: Complete the missing word in the following sentence. 
+10. Input: 
+"I hope to _____ from you soon." 
+10. Output: 
+Hear. 
+###
+11. Instruction: Find something in common between the following objects or concepts. 
+11. Input: 
+Piano, guitar, drums. 
+11. Output: 
+They are all musical instruments. 
+###
+12. Instruction: Translate the following phrase to French. 
+12. Input: 
+"I love to travel." 
+12. Output: 
+"J'adore voyager." 
+###
+13. Instruction: Identify the correct spelling of the following word. 
+13. Input: 
+Consequently 
+13. Output: 
+Consequently (no correction needed) 
+###
+14. Instruction: Complete the missing word in the following sentence. 
+14. Input: 
+"The moon ______ around the Earth." 
+14. Output: 
+Orbits. 
+###
+15. Instruction: Edit the following sentence to remove redundancy. 
+15. Input: 
+He wore a green colored shirt. 
+15. Output: 
+He wore a green shirt. 
+###
+16. Instruction: Answer the following question. 
+16. Input: 
+What is the capital of United Kingdom? 
+16. Output: 
+London. 
+###
+17. Instruction: Complete the following analogy. 
+17. Input: 
+Couch is to sofa as bookshelf is to _______. 
+17. Output: 
+Bookcase. 
+###
+18. Instruction: Find the antonym of the following word. 
+18. Input: 
+Cold 
+18. Output: 
+Hot 
+###
+19. Instruction: Identify the ethnicity of the person in the following image. 
+19. Input: 
+<b> <img src="https://i.imgur.com/yufmIeL.jpg"> </b>
+19. Output: 
+Asian. 
+###
+20. Instruction: Complete the following sentence with an appropriate word. 
+20. Input: 
+"The _______ is the smallest unit of information." 
+20. Output: 
+Bit.

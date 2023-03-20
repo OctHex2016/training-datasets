@@ -1,0 +1,115 @@
+4. Instruction: Translate the sentence into French.
+4. Input: 
+Can you help me find my way?
+4. Output: 
+Pouvez-vous m'aider à trouver mon chemin?
+
+###
+5. Instruction: Identify the grammatical error in the sentence and correct it.
+5. Input: 
+He works hardly to support his family.
+5. Output: 
+He works hard to support his family.
+
+###
+6. Instruction: Write a brief summary of the given paragraph.
+6. Input: 
+In the early 20th century, researchers discovered that workers who took regular breaks during their shifts performed better than those who didn't. This discovery led to the establishment of short breaks known as "coffee breaks." The idea gained popularity and spread across different industries. Today, many employees benefit from scheduled breaks to rest, socialize, and recharge their energy before resuming work.
+6. Output: 
+The concept of "coffee breaks" emerged in the early 20th century when it was discovered that regularly resting employees performed better. Since then, these scheduled breaks have become popular across industries, providing employees with an opportunity to rest, socialize, and recharge their energy.
+
+###
+7. Instruction: Write a haiku about autumn leaves.
+7. Input: <noinput>
+7. Output: 
+Crisp leaves swirling down,
+Brilliant hues of red and gold,
+Autumn's breath at play.
+
+###
+8. Instruction: Identify the movie character based on their description.
+8. Input: 
+An adventurous archaeologist, who always wears a fedora and carries a whip.
+8. Output: 
+Indiana Jones
+
+###
+9. Instruction: Choose the best word to fill in the blank in the given sentence.
+9. Input: 
+The cake has a _____ texture, making it a delight to eat.
+Options: A. brittle B. grainy C. silky
+9. Output: 
+C. silky
+
+###
+10. Instruction: Compare and contrast cats and dogs as pets.
+10. Input: <noinput>
+10. Output: 
+Cats are generally more independent and low-maintenance than dogs, and they often don't require walks. They groom themselves and use a litter box, which can be advantageous for apartment living. Dogs, on the other hand, tend to require more attention and exercise. They are often more loyal and protective, which can provide a sense of security for their owners. Both cats and dogs can offer companionship, and choosing between them may depend on the owner's lifestyle and preferences.
+
+###
+11. Instruction: Calculate the square root of the given number.
+11. Input: 
+81
+11. Output: 
+9
+
+###
+12. Instruction: Explain the greenhouse effect in simple terms.
+12. Input: <noinput>
+12. Output: 
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere, like carbon dioxide, trap heat. These gases act like a blanket, keeping the Earth's surface warm and allowing life to exist. However, human activities have increased the concentration of these gases, leading to excess heat being trapped and causing global temperatures to rise.
+
+###
+13. Instruction: Create a tongue twister using the alliteration of the letter "B."
+13. Input: <noinput>
+13. Output: 
+Bouncing baby bears barely balance blueberries before big bees buzz by, bumbling blindly.
+
+###
+14. Instruction: Deduce the idiom from the given meaning.
+14. Input: 
+To deal with a particular issue before it becomes a bigger problem.
+14. Output: 
+Nip it in the bud
+
+###
+15. Instruction: Convert the given sentence from first person to third person.
+15. Input: 
+I am always nervous when I have to give a speech.
+15. Output: 
+They are always nervous when they have to give a speech.
+
+###
+16. Instruction: What does the acronym UNESCO stand for?
+16. Input: <noinput>
+16. Output: 
+United Nations Educational, Scientific, and Cultural Organization
+
+###
+17. Instruction: Combine the following ideas into one sentence.
+17. Input: 
+The glass was already full.
+She kept pouring water.
+Water spilled onto the table.
+17. Output: 
+The glass was already full, but she kept pouring water, causing it to spill onto the table.
+
+###
+18. Instruction: What is an example of a primary source in historical research?
+18. Input: <noinput>
+18. Output: 
+A diary or personal journal written during the time period under study.
+
+###
+19. Instruction: For the given prompt, write an opening line for a story.
+19. Input: 
+A small coastal town during a thunderstorm.
+19. Output: 
+Lightning illuminated the small coastal town as thunder roared above, and the sea was whipped into a frenzy by the relentless rain.
+
+###
+20. Instruction: Name the primary colors of light (additive color mixing).
+20. Input: <noinput>
+20. Output: 
+Red, green, and blue

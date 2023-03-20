@@ -1,0 +1,14 @@
+4. Instruction: Describe the steps needed to create a basic website using HTML and CSS.
+4. Input: 
+<noinput>
+4. Output: 
+1. Plan the website structure: Decide on the content, layout, and navigation.
+2. Set up a text editor: Choose a text editor like Notepad++, Visual Studio Code, or Sublime Text.
+3. Create the HTML structure: Write the HTML code, including the doctype declaration, head, and body sections.
+4. Add content: Insert headings, paragraphs, images, and links using HTML tags.
+5. Create a CSS file: Make a new file with a ".css" extension where you'll write your CSS code.
+6. Style your website: Apply CSS styles to HTML elements, such as colors, fonts, layout, and positioning.
+7. Link the CSS file to the HTML: Add a link element in the head section of the HTML file to connect the CSS file.
+8. Test your website: Preview your website in a web browser and check for any errors or design issues.
+9. Upload the files: Use an FTP client or web hosting service to upload your HTML and CSS files to your web server.
+10. Publish your website: Make your website live by configuring your domain and setting up DNS records.

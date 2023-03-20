@@ -1,0 +1,116 @@
+4. Instruction: Tell me the nutritional benefits of quinoa. 
+4. Input: 
+<noinput>
+4. Output: 
+Quinoa is a highly nutritious food, providing various health benefits. It's rich in protein, containing all nine essential amino acids, making it an excellent plant-based protein source. It's also high in fiber, improving digestion and preventing constipation. The vitamins and minerals in quinoa, such as magnesium, potassium, and phosphorus, support bone health, while its low glycemic index helps with blood sugar control. Quinoa is also gluten-free, making it suitable for people with gluten intolerance.
+
+5. Instruction: Proofread and correct the given text for grammar and punctuation errors.
+5. Input: 
+"The boy striped the dog of its leash: after its bath so it could run around the yard and dry."
+5. Output: 
+"The boy removed the dog's leash after its bath, so it could run around the yard and dry."
+
+6. Instruction: Classify the given activities as aerobic or anaerobic exercises.
+6. Input: 
+swimming, weightlifting, cycling, sprinting, walking
+6. Output: 
+aerobic: swimming, cycling, walking
+anaerobic: weightlifting, sprinting
+
+7. Instruction: Rewrite the given sentence to passive voice. 
+7. Input: 
+"Debbie knitted the boy a sweater."
+7. Output: 
+"A sweater was knitted for the boy by Debbie."
+
+8. Instruction: Name the capitals of following countries.
+8. Input: 
+Italy, Spain, Canada
+8. Output: 
+Italy - Rome, Spain - Madrid, Canada - Ottawa
+
+9. Instruction: Describe at least three precautions when cooking to prevent foodborne illnesses. 
+9. Input: 
+<noinput>
+9. Output: 
+1. Wash hands thoroughly before and after handling food to prevent the spread of bacteria.
+2. Ensure proper storage of perishable food items in refrigerators at appropriate temperatures to inhibit bacterial growth.
+3. Cook food to the recommended internal temperatures to kill harmful bacteria and other pathogens.
+
+10. Instruction: Summarize the plot of the given book. 
+10. Input: 
+The Catcher in the Rye
+10. Output: 
+The Catcher in the Rye follows the story of Holden Caulfield, a troubled teenager, who has just been expelled from his fourth school. The narrative takes place over a few days as he wanders New York City, dealing with his alienation, loneliness, and disdain for society's phoniness. The novel explores themes of adolescence, innocence, and rebellion, as Holden attempts to protect the purity of childhood from the corruption of adulthood.
+
+11. Instruction: Compose a haiku about spring.
+11. Input: 
+<noinput>
+11. Output: 
+Blossoms gently bloom,
+Soft whispers of life anew,
+Spring warmth fills the air.
+
+12. Instruction: Calculate the compound interest for the given investment.
+12. Input: 
+Principal: 5000, Annual Interest Rate: 7%, Compounding Frequency: Annual, Time: 5 years
+12. Output: 
+The compound interest, after 5 years, on an initial investment of $5000, with an annual interest rate of 7% compounded yearly, is $1904.96.
+
+13. Instruction: What are some effective strategies for overcoming procrastination?
+13. Input: 
+<noinput>
+13. Output: 
+1. Break tasks into smaller, manageable parts to reduce overwhelm.
+2. Set clear deadlines and prioritize tasks based on urgency and importance.
+3. Use external rewards or incentives to motivate yourself.
+4. Minimize distractions and create a focused work environment.
+5. Establish routines and time management habits to optimize productivity.
+
+14. Instruction: Identify the poetic devices used in the given lines.
+14. Input: 
+"The sun did sink behind the waves, 
+And all was dark and chill."
+14. Output: 
+In these lines, the poetic devices used are personification (the sun sinking), imagery (dark and chill), and rhyme (waves and chill).
+
+15. Instruction: Convert the given text from first person to third person.
+15. Input: 
+"I went to the grocery store and saw a man juggling vegetables. I laughed and clapped at his performance."
+15. Output: 
+"He went to the grocery store and saw a man juggling vegetables. He laughed and clapped at the man's performance."
+
+16. Instruction: Compare and contrast solar and wind energy.
+16. Input: 
+<noinput>
+16. Output: 
+Solar energy converts sunlight into electricity using solar panels, while wind energy captures the energy of the wind using wind turbines. Both solar and wind energy are clean, renewable sources that contribute to reducing greenhouse gas emissions. Solar energy production is generally highest during daytime hours, while wind energy production can occur any time of day, depending on wind conditions. Solar panels require more space than wind turbines, making solar energy less space-efficient. However, solar energy can be installed on residential properties, whereas wind energy is typically deployed on a larger scale.
+
+17. Instruction: Provide three tips to improve communication skills.
+17. Input: 
+<noinput>
+17. Output: 
+1. Active listening: Practice attentive listening and acknowledge the speaker's thoughts and feelings to promote a better understanding.
+2. Clarity and brevity: Use clear, concise language and avoid jargon to ensure your message is easily understood.
+3. Nonverbal communication: Pay attention to body language, tone of voice, and facial expressions to convey messages effectively and gauge others' emotions.
+
+18. Instruction: What are the key components of a healthy, balanced diet?
+18. Input: 
+<noinput>
+18. Output: 
+The key components of a healthy, balanced diet include a variety of fruits and vegetables, whole grains, lean proteins, healthy fats, and low-fat dairy products. These elements provide essential vitamins, minerals, fiber, and other nutrients necessary for optimal health and disease prevention.
+
+19. Instruction: Identify the given song title from its lyrics.
+19. Input: 
+"Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky"
+19. Output: 
+The song title is "Imagine" by John Lennon.
+
+20. Instruction: Describe the process of photosynthesis.
+20. Input: 
+<noinput>
+20. Output: 
+Photosynthesis is a process in plants, algae, and some bacteria, where they convert light energy from the sun into chemical energy stored as glucose or other organic molecules. It occurs in chloroplasts, which contain green pigments called chlorophyll that absorb light. Photosynthesis consists of two stages: the light-dependent reactions and the Calvin cycle (light-independent reactions). In the light-dependent reactions, light is absorbed, water molecules are split, and oxygen gas is released. Simultaneously, energy is stored in the form of ATP and NADPH. The Calvin cycle uses that energy, along with carbon dioxide, to synthesize glucose through a series of enzyme-mediated reactions, which can be used by the organisms for metabolic activities or stored for future use.

@@ -1,0 +1,55 @@
+4. Instruction: Rephrase the given sentence into a question.
+4. Input: 
+The cat is sleeping on the couch.
+4. Output: 
+Is the cat sleeping on the couch?
+###
+5. Instruction: Calculate the tip for the provided bill amount at a rate of 15%.
+5. Input:
+$64.80
+5. Output:
+$9.72
+###
+6. Instruction: What does the acronym NASA stand for?
+6. Input:
+<noinput>
+6. Output:
+National Aeronautics and Space Administration
+###
+7. Instruction: Choose the correct form of the verb in the brackets for the following sentence.
+7. Input:
+If I (were/was) you, I would start preparing for the test.
+7. Output:
+were
+###
+8. Instruction: What is the main ingredient of tomato soup?
+8. Input:
+<noinput>
+8. Output:
+Tomatoes
+###
+9. Instruction: Provide three synonyms for the word "happy".
+9. Input:
+<noinput>
+9. Output:
+- Joyful
+- Content
+- Delighted
+###
+10. Instruction: Correct the punctuation mistakes present in the provided sentence.
+10. Input:
+As soon as, we're done with the groceries, we'll head back home: what do you think! 
+10. Output:
+As soon as we're done with the groceries, we'll head back home; what do you think?
+###
+11. Instruction: Write a newspaper headline for a story about a rescue dog who saved a lost child in the woods.
+11. Input:
+<noinput>
+11. Output:
+Heroic Rescue Dog Saves Lost Child in Woods
+###
+12. Instruction: Identify the homophones in the sentence.
+12. Input:
+I sent the mail and sealed it with a knot, knowing it would sail.
+12. Output:
+sent, knot, sail

@@ -1,0 +1,151 @@
+4. Instruction: Rewrite the following text while maintaining its meaning, but replacing the negative expression with a positive one.
+4. Input: 
+She was unsuccessful in her job interview because she failed to answer the questions confidently and precisely.
+4. Output: 
+She could improve her chances in the next job interview by answering the questions confidently and precisely.
+
+###
+5. Instruction: Determine which country the following company is based in.
+5. Input: 
+Samsung is a South Korean multinational conglomerate headquartered in Seoul.
+5. Output: 
+South Korea
+
+###
+6. Instruction: Convert the following recipe ingredients to metric measurements.
+6. Input: 
+1 cup flour
+1/2 cup sugar
+1/4 cup vegetable oil
+2 large eggs
+1 teaspoon baking powder
+1/2 teaspoon salt
+6. Output: 
+120 grams flour
+100 grams sugar
+60 milliliters vegetable oil
+2 large eggs
+5 grams baking powder
+2.5 grams salt
+
+###
+7. Instruction: Propose two potential benefits of exercising regularly.
+7. Input: 
+<noinput>
+7. Output: 
+1. Improved cardiovascular health
+2. Increased muscle strength and endurance
+
+###
+8. Instruction: Calculate the area of a rectangle given its length and width.
+8. Input: 
+Length: 10 meters
+Width: 5 meters
+8. Output: 
+50 square meters
+
+###
+9. Instruction: Write a short poem about nature with rhyming words at the end of each line.
+9. Input: 
+<noinput>
+9. Output: 
+In a forest green and bright,
+Flowers bloom beneath the light,
+Gentle breeze stirs the trees,
+Nature whispers in the breeze.
+
+###
+10. Instruction: Find the missing word in the proverb.
+10. Input: 
+"Where there is smoke, there is _____."
+10. Output: 
+fire
+
+###
+11. Instruction: Identify the genre and brief plot summary of the following movie.
+11. Input: 
+In the Matrix, a computer hacker named Neo learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+11. Output: 
+Genre: Science fiction / Action
+Plot Summary: Neo discovers that his world is a virtual reality controlled by machines and joins a group of rebels to fight against the system and its creators.
+
+###
+12. Instruction: Determine the currency used in Japan.
+12. Input: 
+<noinput>
+12. Output: 
+Japanese Yen (JPY)
+
+###
+13. Instruction: Analyze the tone of the following text and suggest a way to make it more polite.
+13. Input: 
+You need to fix this immediately, or else we'll have serious consequences.
+13. Output: 
+Tone: Demanding and threatening
+
+Suggestion: Could you please address this issue as soon as possible to avoid potential negative outcomes?
+
+###
+14. Instruction: Suggest a suitable name for a new cafe that has a cozy and relaxing atmosphere.
+14. Input: 
+<noinput>
+14. Output: 
+SereniTea Cafe
+
+###
+15. Instruction: Briefly explain how photosynthesis works.
+15. Input: 
+<noinput>
+15. Output: 
+Photosynthesis is a process used by plants and some other organisms to convert light energy, usually from the sun, into chemical energy that fuels their growth. This process involves taking in carbon dioxide from the atmosphere and water from the roots, and using light energy to convert these compounds into glucose, which serves as a source of energy for the organism. Oxygen is released as a byproduct of photosynthesis.
+
+###
+16. Instruction: Convert the following phrase from passive voice to active voice.
+16. Input: 
+The window was broken by the children.
+16. Output: 
+The children broke the window.
+
+###
+17. Instruction: Summarize what happens during the water cycle.
+17. Input: 
+<noinput>
+17. Output: 
+During the water cycle, water evaporates from the Earth's surface, forms clouds in the atmosphere, precipitates back to the ground, and is collected in bodies of water, which eventually evaporates again, continuing the cycle.
+
+###
+18. Instruction: Correct the grammar in the following sentence.
+18. Input: 
+He going to market for to buy a milk.
+18. Output: 
+He is going to the market to buy milk.
+
+###
+19. Instruction: Identify the parts of the given computer system: 
+- Central processing unit (CPU), 
+- Random Access Memory (RAM), 
+- Power supply unit (PSU), 
+- Motherboard, 
+- Hard disk drive (HDD), and 
+- Graphic processing unit (GPU).
+19. Input: 
+CPU: Intel Core i5
+RAM: 8GB DDR4
+PSU: 500W
+Motherboard: ASUS Prime B550M
+HDD: 1TB
+GPU: NVIDIA GeForce GTX 1060
+19. Output: 
+Central processing unit (CPU): Intel Core i5
+Random Access Memory (RAM): 8GB DDR4
+Power supply unit (PSU): 500W
+Motherboard: ASUS Prime B550M
+Hard disk drive (HDD): 1TB
+Graphic processing unit (GPU): NVIDIA GeForce GTX 1060
+
+###
+20. Instruction: Give me a piece of advice to improve my public speaking skills.
+20. Input: 
+<noinput>
+20. Output: 
+Practice deep breathing and mindfulness techniques to calm your nerves and build self-confidence before speaking in public.

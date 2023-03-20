@@ -1,0 +1,132 @@
+4. Instruction: Rewrite the given text into a haiku poem by following the 5-7-5 syllable pattern.
+4. Input: 
+Text: The sun sets over mountains tall, the sky is painted with colors orange and red, leaving a peaceful feeling.
+4. Output: 
+Sun sets on mountains,
+Sky painted orange and red,
+Peace descends at dusk.
+
+###
+5. Instruction: Identify the point of view from which the passage is written.
+5. Input: 
+Passage: In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
+5. Output: 
+First-person point of view.
+
+###
+6. Instruction: Translate the given text into Spanish. 
+6. Input: 
+Text: Please don't forget to bring your mask to the party tonight.
+6. Output: 
+Por favor, no olvides traer tu mascarilla a la fiesta de esta noche.
+
+###
+7. Instruction: Identify the rhyme scheme of the given stanza. 
+7. Input: 
+Stanza: Tyger Tyger, burning bright,
+In the forests of the night;
+What immortal hand or eye,
+Could frame thy fearful symmetry?
+7. Output: 
+AABB
+
+###
+8. Instruction: Find the mistake and correct the given sentence.
+8. Input: 
+Sentence: She have been planning to buy a car for months now.
+8. Output: 
+Corrected sentence: She has been planning to buy a car for months now.
+
+###
+9. Instruction: What does the highlighted word mean in the following given sentence?
+9. Input: 
+Sentence: The veterinarian had a strenuous day, treating a multitude of various animal ailments.
+Highlighted word: multitude
+9. Output: 
+A large number or great quantity.
+
+###
+10. Instruction: Convert the adjective in the sentence into an adverb.
+10. Input: 
+Sentence: The cat is stealthy.
+10. Output: 
+The cat moves stealthily.
+
+###
+11. Instruction: Write a conclusion to a speech about the importance of renewable energy.
+11. Input: 
+<noinput>
+11. Output: 
+In conclusion, the need for renewable energy has never been more crucial. As our reliance on finite resources dwindles, the shift towards sustainable, clean energy sources becomes imperative. By embracing renewable energy, not only do we reduce our carbon footprint, but we also stimulate economic growth, create jobs, and safeguard our planet for future generations. Let us stand together in making a conscious effort to power our world with clean, renewable energy, ensuring a brighter future for all.
+
+###
+12. Instruction: What are the main themes of Romeo and Juliet?
+12. Input: 
+<noinput>
+12. Output: 
+1. Love and passion
+2. Fate and free will
+3. Conflict and violence
+4. Youth versus age
+5. Individual desires versus societal expectations
+
+###
+13. Instruction: Describe two security measures that can be taken to protect a computer network.
+13. Input: 
+<noinput>
+13. Output: 
+1. Firewall installation: A firewall acts as a barrier between the computer network and the outside world, monitoring and controlling incoming and outgoing network traffic based on pre-established security rules.
+
+2. Use of strong, unique passwords: Encourage users to set strong, unique, and complex passwords for their accounts, with a combination of upper and lowercase letters, numbers, and symbols. Implement regular password changes and two-factor authentication for enhanced security.
+
+###
+14. Instruction: Write a tongue twister using the letter "P."
+14. Input: 
+<noinput>
+14. Output: 
+Peter Piper's pet porcupine prepared purple pumpkin pancakes, placing plump piles of pickled peppers pristinely per plate.
+
+###
+15. Instruction: Pick the best suited option according to the given context.
+15. Input: 
+Context: A person is sending a formal email to their boss requesting a day off.
+Options: A) Hey boss, I need a day off. B) Dear [Boss's Name], I am writing to formally request a day off on [date] for personal reasons.
+15. Output: 
+B) Dear [Boss's Name], I am writing to formally request a day off on [date] for personal reasons.
+
+###
+16. Instruction: Identify at least two common logical fallacies in the argument.
+16. Input: 
+Argument: People should not drink dihydrogen monoxide because it sounds dangerous! Plus, haven't you heard? Most criminals drink dihydrogen monoxide to stay alive. Why would you want to drink the same thing as criminals?
+16. Output: 
+1. Appeal to emotion (fear)
+2. Guilt by association
+
+###
+17. Instruction: Convert the given active voice sentence into passive voice.
+17. Input: 
+Sentence: The teacher graded the assignments.
+17. Output: 
+The assignments were graded by the teacher.
+
+###
+18. Instruction: Solve the riddle.
+18. Input: 
+Riddle: What has keys but can't open locks?
+18. Output: 
+A piano.
+
+###
+19. Instruction: Identify the literary devices used in the following sentence.
+19. Input: 
+Sentence: She was like a wildfire, unpredictable and impossible to control.
+19. Output: 
+1. Simile
+2. Personification
+
+###
+20. Instruction: Write a short paragraph to briefly explain the given concept.
+20. Input: 
+Concept: Photosynthesis
+20. Output: 
+Photosynthesis is a process by which green plants and certain organisms like algae convert sunlight into chemical energy in the form of glucose or sugar. It occurs in chlorophyll-containing cells, primarily in the leaves. During photosynthesis, the plants take in carbon dioxide and water, and with the help of sunlight, they produce glucose and release oxygen. This process not only helps plants produce their own food but also plays a vital role in maintaining the balance of oxygen and carbon dioxide in our atmosphere.

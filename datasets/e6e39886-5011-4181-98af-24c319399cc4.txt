@@ -1,0 +1,47 @@
+4. Instruction: Summarize the article's main points in a brief paragraph.
+4. Input: 
+Apple recently announced the new iPhone 13 series, which includes various upgrades from its predecessor, the iPhone 12. The design remains similar, but it features a smaller front notch, larger batteries, A15 Bionic chip with 6-core CPU, improved cameras, as well as the new Cinematic Mode for video recording with depth-of-field effects. Apple also introduced the ProMotion display technology for the iPhone 13 Pro and Pro Max models, offering a 120Hz refresh rate for smoother scrolling and visuals. Pricing for the iPhone 13 starts at $799, while the iPhone 13 Pro begins at $999.
+4. Output:
+Apple unveiled the iPhone 13 series with upgrades such as a smaller notch, larger batteries, the A15 Bionic chip, and enhanced cameras. The new Cinematic Mode offers video recording with depth-of-field effects. The iPhone 13 Pro and Pro Max models feature ProMotion technology, providing a 120Hz refresh rate for smooth scrolling and visuals. The iPhone 13 starts at $799, and the iPhone 13 Pro starts at $999.
+
+5. Instruction: Suggest three possible topics for a high school research paper about social media.
+5. Input: 
+<noinput>
+5. Output: 
+1. The impact of social media on students' mental health and well-being.
+2. The role of social media in bullying and cyberbullying among adolescents.
+3. The influence of social media on political awareness and civic engagement among young people.
+
+6. Instruction: Rewrite the following sentence in the passive voice.
+6. Input: 
+The cat chased the mouse across the room.
+6. Output: 
+The mouse was chased across the room by the cat.
+
+7. Instruction: Create a rhyming couplet using the words "moon" and "soon".
+7. Input: 
+<noinput>
+7. Output: 
+Underneath the shining moon,
+I'll be seeing you again quite soon.
+
+8. Instruction: Please categorize the following items into "furniture" or "electronics".
+8. Input: 
+Sofa, television, laptop, dining table, refrigerator, chair, microwave, headphones.
+8. Output: 
+Furniture: Sofa, dining table, chair.
+Electronics: Television, laptop, refrigerator, microwave, headphones.
+
+9. Instruction: Remove any grammatical errors from the following sentence.
+9. Input: 
+I plans to going shopping tomorow, but my car are not starting properly.
+9. Output: 
+I plan to go shopping tomorrow, but my car is not starting properly.
+
+10. Instruction: Convert the given data into a haiku poem (5-7-5 syllable structure).
+10. Input: 
+Rain falling gently, nourishing the dry earth beneath, growth emerges after.
+10. Output: 
+Rain falls gently down,
+Nourishing the earth below,
+Growth emerges now.

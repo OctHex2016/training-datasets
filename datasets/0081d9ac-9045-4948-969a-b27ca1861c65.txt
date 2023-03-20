@@ -1,0 +1,124 @@
+4. Instruction: Improve the grammar and readability of the paragraph without changing its meaning.
+4. Input: 
+It was a rainy day outside. Jane sitting in a cafe for drink a coffee. She was notice young man sitting in corner who seem to writing a book or somthing. Jane was always admire writers and imagine what their lives must be.
+4. Output: 
+It was a rainy day outside. Jane was sitting in a cafe, sipping her coffee. She noticed a young man in the corner, who seemed to be writing a book or something. Jane had always admired writers and often imagined what their lives must be like.
+
+5. Instruction: Answer the following question: What is chemical photosynthesis?
+5. Input:
+<noinput>
+5. Output:
+Chemical photosynthesis is a process by which plants and certain microorganisms convert light energy into chemical energy. This conversion happens during the process of converting carbon dioxide and water into carbohydrates and oxygen, using the light energy absorbed by chlorophyll and other pigments. It is crucial to the production of organic compounds and oxygen on Earth.
+
+6. Instruction: Describe the given video game character in a detailed and captivating manner.
+6. Input: 
+Name: Ezio Auditore 
+Game series: Assassin's Creed
+Profession: Assassin
+Notable skills: Stealth, combat, parkour
+Personality: Charismatic, disciplined, focused
+6. Output:
+Ezio Auditore, a legendary figure from the Assassin's Creed game series, is a master assassin with unrivaled stealth, extraordinary combat abilities, and adept parkour skills. His charisma and beguiling presence ooze every time he steps into a room, captivating allies and foes alike. Disciplined and fiercely focused, Ezio audaciously carries out his mission, navigating through a world mired in secrecy, conspiracy, and intrigue.
+
+7. Instruction: Translate this English sentence to French: "Where can I find the nearest pharmacy?"
+7. Input: 
+<noinput>
+7. Output:
+Où puis-je trouver la pharmacie la plus proche?
+
+8. Instruction: Choose the best-suited metaphor for the given situation.
+8. Input: 
+Situation: A dedicated hardworking employee.
+8. Output: 
+This employee is the backbone of the company.
+
+9. Instruction: Help me come up with a captivating and funny opening line for a speech at a technology conference.
+9. Input: 
+<noinput>
+9. Output:
+"Welcome to the conference where even smartphones feel outdated!"
+
+10. Instruction: Rank these historical events by their significance on a global scale.
+10. Input: 
+- The French Revolution
+- The invention of the internet
+- The Industrial Revolution
+- The Roman Empire
+10. Output:
+1. The Industrial Revolution
+2. The invention of the internet
+3. The Roman Empire
+4. The French Revolution
+
+11. Instruction: List three ways in which AI can have a positive impact on climate change.
+11. Input: 
+<noinput>
+11. Output: 
+1. AI can optimize energy consumption by predicting and recommending optimal power usage patterns.
+2. AI can enhance climate modeling by analyzing vast amounts of data and identifying trends that improve climate predictions.
+3. AI can help in the development of cleaner transportation systems by enabling self-driving electric vehicles and optimizing public transportation.
+
+12. Instruction: Explain the difference between patents and copyrights.
+12. Input: 
+<noinput>
+12. Output:
+Patents protect novel inventions, granting the inventor exclusive rights to manufacture, sell, or use the invention for a specific period. Copyrights protect original creative works such as literature, music, or art, providing the creator with the exclusive right to reproduce, distribute, and display their work.
+
+13. Instruction: Identify the logical fallacy in the following argument: "Everyone is buying the latest iPhone, so it must be the best phone available."
+13. Input: 
+<noinput>
+13. Output:
+The logical fallacy in this argument is Bandwagon - it assumes that if many people believe or do something, it must be correct or valid.
+
+14. Instruction: Create a catchy and futuristic name for a company that develops artificial intelligence-powered robotics.
+14. Input: 
+<noinput>
+14. Output:
+NeuraMachina
+
+15. Instruction: Provide three interesting facts about Albert Einstein.
+15. Input: 
+<noinput>
+15. Output:
+1. Albert Einstein was awarded the Nobel Prize in Physics in 1921 for his discovery of the photoelectric effect.
+2. Despite his significant contributions to the field of theoretical physics, Einstein did not excel in school and even failed an entrance exam for Swiss Federal Institute of Technology.
+3. Einstein's brain was preserved after his death, and it was discovered that his parietal lobe (associated with mathematical and spatial reasoning) was 15% larger than average.
+
+16. Instruction: Suggest five potential uses for drone technology.
+16. Input: 
+<noinput>
+16. Output:
+1. Aerial imaging and mapping
+2. Disaster management and relief operations
+3. Agricultural monitoring and crop assessment
+4. Wildlife monitoring and conservation efforts
+5. Package delivery services
+
+17. Instruction: Identify two major differences between Android and iOS mobile operating systems.
+17. Input: 
+<noinput>
+17. Output:
+1. Android is an open-source platform, allowing for more customization and modification, while iOS is a closed-source system with a more controlled user experience.
+2. Android is available on multiple manufacturers' devices, whereas iOS is exclusive to Apple products, such as the iPhone and iPad.
+
+18. Instruction: Name the smallest planet in our solar system and provide one interesting fact about it.
+18. Input: 
+<noinput>
+18. Output:
+The smallest planet in our solar system is Mercury. One interesting fact about Mercury is that it takes 88 Earth days to complete a full orbit around the Sun.
+
+19. Instruction: Recommend three hassle-free tips for a person looking to migrate from a Windows PC to a Mac computer.
+19. Input: 
+<noinput>
+19. Output:
+1. Use the Migration Assistant tool on your Mac to easily transfer your files, settings, and user accounts from your Windows PC.
+2. Familiarize yourself with the basic Mac keyboard shortcuts and learn how to adapt them from your previous Windows experience.
+3. Set up iCloud to sync and manage your documents, photos, and other data across all your Apple devices seamlessly.
+
+20. Instruction: Write a haiku about the passing of time.
+20. Input: 
+<noinput>
+20. Output:
+Days slip through our grasp,
+Shadows lengthen, seasons change,
+Time's river flows on.

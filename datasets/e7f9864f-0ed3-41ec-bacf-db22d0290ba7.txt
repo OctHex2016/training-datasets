@@ -1,0 +1,42 @@
+4. Instruction: Rewrite the paragraph using formal language.
+4. Input: 
+Hey, what's up? I got this amazing idea for a new app, and I think it's gonna be a real game-changer. It's an app that lets you find the best food trucks in your area. Just swipe left and right to explore the coolest meals on wheels! Also, you can see some ratings and reviews from other peeps who tried 'em out. Wanna team up with me on this project, bro?
+4. Output: 
+Greetings, I hope you are well. I would like to propose a potentially transformative application concept. The application will enable users to find exceptional food trucks in their vicinity through an intuitive swiping interface. Moreover, it will integrate user-generated ratings and reviews for further convenience. I would like to cordially invite you to collaborate with me on this endeavor.
+
+5. Instruction: Identify the food that does not have seeds.
+5. Input: 
+apple, banana, orange, kiwi
+5. Output: 
+banana
+
+6. Instruction: Create a riddle that showcases a common household object.
+6. Input:
+<noinput>
+6. Output: 
+I have teeth but cannot chew, within your grasp I help you groom. Comb your hair both day and night, what am I that brings delight?
+
+7. Instruction: Explain the concept of cryptocurrency to a beginner.
+7. Input: 
+<noinput>
+7. Output: 
+Cryptocurrency is a digital or virtual form of money that uses cryptography - the art of secure communication - for both transaction processing and security. Unlike traditional currencies, cryptocurrencies are not issued by central banks or governments, and they operate on a decentralized network called blockchain. Since cryptocurrencies are not controlled by any single entity, transactions between users can occur directly, without the need for an intermediary like a bank. A popular example of cryptocurrency is Bitcoin, which was the first one to be introduced in 2009.
+
+8. Instruction: Edit and correct the grammatical mistakes in the given text.
+8. Input: 
+Me and John went to the store to buy candies, but they was sold out. Bummer! Sarah's gonna bring their car so we can go to other store.
+8. Output: 
+John and I went to the store to buy candies, but they were sold out. Bummer! Sarah is going to bring her car so we can go to another store.
+
+9. Instruction: Convert the dialogue into reported speech.
+9. Input: 
+Fred said, "I don't care if you go."
+Harry replied, "Well, I'm going, and that's final!"
+9. Output: 
+Fred told Harry that he didn't care if he goes. Harry responded by stating that he was going, and that was final.
+
+10. Instruction: What are the primary colors?
+10. Input: 
+<noinput>
+10. Output: 
+The primary colors are red, yellow, and blue.

@@ -1,0 +1,137 @@
+4. Instruction: Summarize the given passage in 3-4 sentences.
+4. Input: 
+The human brain is a complex organ that has fascinated scientists for centuries. The brain is responsible for controlling the entire body and facilitating cognitive functions such as memory, learning, and communication. Researchers have identified about 100 billion neurons in the average human brain, which communicate with one another through electrical and chemical signals. These signals have unique patterns that allow the brain to perform various functions, including interpreting sensory information and generating responses.
+
+4. Output: 
+The human brain is a highly complex organ responsible for controlling bodily functions and cognitive processes. The brain contains around 100 billion neurons that communicate through electrical and chemical signals. These signals create unique patterns that enable the brain to interpret sensory information and generate responses.
+
+###
+
+5. Instruction: Generate a question based on the given statement.
+5. Input: 
+Global temperatures have risen by approximately 1.2 degrees Celsius since the start of the industrial revolution.
+5. Output: 
+What is the estimated increase in global temperatures since the beginning of the industrial revolution?
+
+###
+
+6. Instruction: Identify the tone of the given text passage and provide an alternative version that conveys the same message but with a more neutral tone.
+6. Input: 
+I can't believe how awful that concert was! The band couldn't carry a tune, the sound was a disaster, and the crowd was extremely rude. It's just a total waste of time and money.
+6. Output: 
+The concert did not meet expectations as the band had difficulty with the musical performance, the sound quality was poor, and the crowd had some disrespectful behavior. The experience might not have been worth the time and cost invested.
+
+###
+
+7. Instruction: Write a brief introduction for an article on the benefits of meditation for managing stress.
+7. Input: <noinput>
+7. Output: 
+In today's fast-paced world, stress has become an increasingly prevalent issue. Meditation, an ancient practice rooted in mindfulness and deep relaxation, offers a natural and accessible solution. This article explores the various ways meditation can help manage and alleviate stress, providing practical strategies to incorporate this practice into daily life.
+
+###
+
+8. Instruction: Identify and fix any grammar, punctuation, or spelling errors in the given text.
+8. Input: 
+Eating helthy is a key componet of physical and mental well-being. However, many people struggel to incorporate nutritious foods into there daily routine., due to lack of time and ease of access of to fast and processed food.
+8. Output: 
+Eating healthy is a key component of physical and mental well-being. However, many people struggle to incorporate nutritious foods into their daily routine, due to lack of time and easy access to fast and processed food.
+
+###
+
+9. Instruction: Write a persuasive argument for the adoption of electric vehicles for environmental reasons.
+9. Input: <noinput>
+9. Output: 
+As concerns over climate change and air pollution intensify, transitioning to electric vehicles (EVs) is crucial for a sustainable future. Unlike traditional vehicles powered by fossil fuels, EVs produce zero tailpipe emissions, reducing air pollution and the carbon footprint. Additionally, the electricity used to charge EVs can be generated from renewable energy sources, further reducing overall emissions. Embracing electric vehicles is a critical step in combating climate change, improving air quality, and fostering a greener environment for generations to come.
+
+###
+
+10. Instruction: Explain the differences between classical conditioning and operant conditioning in psychology.
+10. Input: <noinput>
+10. Output: 
+In psychology, classical and operant conditioning are fundamentally different learning processes. Classical conditioning involves learning by association, where a neutral stimulus becomes associated with an unconditioned stimulus, leading to a conditioned response. The famous example is Pavlov's dogs, where the sound of a bell (neutral stimulus) became associated with food, causing the dogs to salivate (conditioned response). On the other hand, operant conditioning focuses on learning through the consequences of behavior. Actions followed by positive consequences (reward) are likely to be repeated, while those with negative consequences (punishment) are suppressed. Operant conditioning was popularized by B.F. Skinner and his work with rats and pigeons in controlled experimental settings.
+11. Instruction: Write a 2-sentence horror story.
+11. Input: <noinput>
+11. Output: 
+As she peeked through her bedroom door, her reflection in the full-length mirror smiled back at her menacingly. The person in the mirror began to crawl towards her, leaving her unable to move or scream.
+
+###
+
+12. Instruction: Correctly identify the logical fallacy in the given argument.
+12. Input: 
+There must be something to astrology because millions of people believe in it and follow their horoscopes.
+12. Output: 
+This argument contains the logical fallacy of "appeal to popularity," which assumes that a belief is true or valid just because many people believe in it.
+
+###
+
+13. Instruction: Generate a simple recipe for making a vegetable stir-fry with tofu.
+13. Input: <noinput>
+13. Output: 
+1. Gather ingredients: 1 block of firm tofu, 2 cups of mixed vegetables (e.g., broccoli, carrots, bell peppers), 2 tbsp of oil, 2 cloves of garlic (minced), 2 tbsp soy sauce, 1 tbsp of cornstarch, and 1/4 cup of water.
+2. Drain and press the tofu, then cut into 1-inch cubes.
+3. Heat 1 tbsp of oil in a large pan over medium heat, add the tofu and cook until browned on all sides. Remove from the pan and set aside.
+4. In the same pan, add 1 tbsp of oil and sauté garlic for about 30 seconds.
+5. Add the mixed vegetables and cook until tender, stirring frequently.
+6. In a small bowl, mix soy sauce, cornstarch, and water, then pour the mixture over the vegetables.
+7. Add the cooked tofu to the pan and gently stir to combine with the vegetables and sauce.
+8. Cook for an additional 2-3 minutes or until the sauce thickens. Serve over rice or noodles if desired.
+
+###
+
+14. Instruction: Convert the given sentence from passive voice to active voice.
+14. Input: 
+The groceries were carried to the car by Sarah.
+14. Output: 
+Sarah carried the groceries to the car.
+
+###
+
+15. Instruction: Identify the film genre based on the given plot.
+15. Input: 
+An extraterrestrial being lands on Earth and tries to navigate human civilization, ultimately forging a deep bond with a group of children who help the alien return to its home planet.
+15. Output: 
+Science Fiction / Family
+
+###
+
+16. Instruction: Write a limerick, a humorous five-line verse with a specific rhyme scheme (AABBA).
+16. Input: <noinput>
+16. Output: 
+There once was a man from Peru,
+Who dreamt he was eating his shoe.
+He woke in a fright,
+In the middle of the night,
+To find that his dream had come true.
+
+###
+
+17. Instruction: Suggest two alternatives that could replace the idiom in the given sentence while maintaining the same meaning.
+17. Input: 
+She refused to spill the beans about her new job offer.
+17. Output: 
+1. She refused to reveal the information about her new job offer.
+2. She refused to disclose the details about her new job offer.
+
+###
+
+18. Instruction: Translate the given sentence into French.
+18. Input: 
+It's a beautiful day outside, perfect for a picnic.
+18. Output: 
+C'est une belle journée à l'extérieur, parfaite pour un pique-nique.
+
+###
+
+19. Instruction: Create a mnemonic to remember the order of the planets in the solar system.
+19. Input: <noinput>
+19. Output: 
+My Very Eager Mother Just Served Us Nine Pizzas (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto*)
+
+*Note: Although Pluto is now classified as a dwarf planet, it is included here for educational purposes.
+
+###
+
+20. Instruction: Explain the greenhouse effect in simple terms.
+20. Input: <noinput>
+20. Output: 
+The greenhouse effect is a natural process where certain gases in the atmosphere, like carbon dioxide and water vapor, trap heat radiated by the Earth. These gases, called greenhouse gases, act like a blanket around the planet, allowing sunlight to pass through but preventing some of the heat from escaping. This trapped heat warms the Earth's surface, making it habitable for life. However, increased levels of greenhouse gases due to human activities can lead to excessive warming, causing climate change.

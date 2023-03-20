@@ -1,0 +1,64 @@
+4. Instruction: Identify the emotions expressed in the poem.
+4. Input: 
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+4. Output: 
+Anger, defiance, determination
+
+###
+5. Instruction: Write an email informing clients of a price change.
+5. Input: 
+New pricing: $15/month - Basic Plan, $30/month - Premium Plan, Effective Date: September 1st
+5. Output: 
+Subject: Important Notice: Updated Pricing Effective September 1st
+
+Dear valued client,
+
+We hope this message finds you well! We wanted to inform you of some upcoming changes to our pricing structure, effective September 1st. Our Basic Plan's monthly fee will be adjusted to $15, and our Premium Plan will now cost $30 per month.
+
+We understand that any pricing adjustment can be impactful, but we are confident in the value that our product offers. Our team continuously works to improve the platform and provide you with the best possible experience. 
+
+Should you have any questions or concerns about the new pricing, please do not hesitate to reach out to our customer support team. We appreciate your understanding and ongoing support.
+
+Best regards,
+
+Your Company_Name Team
+
+###
+6. Instruction: Summarize the following article in one paragraph.
+6. Input: 
+A recent study by California's Public Utilities Commission has revealed a surprise windfall of approximately 3.2 million acre-feet of water - enough to serve nearly six million families for a year. The extra water, discovered during a statewide audit of the water infrastructure system, was due to extensive repairing works done to fix the meters associated with water regulation infrastructure. The news has been warmly greeted by the public, who have been dealing with severe droughts and high water prices for the past several years. The Commission is hopeful that this fresh infusion of water into California's reservoir systems could alleviate drought pressures and help control water costs. Despite these benefits, some critics argue that the findings are only a temporary fix to the state's growing water crisis.
+6. Output: 
+A study by California's Public Utilities Commission disclosed an unexpected gain of 3.2 million acre-feet of water due to repairing works on the water regulation infrastructure. The extra water can serve almost six million families for a year, offering relief amid persistent droughts and high water prices. While the public welcomes the news, critics assert this only temporarily addresses the state's water crisis.
+
+###
+7. Instruction: Determine which painting style the provided description belongs to.
+7. Input: 
+The artist used thick layers of paint and bold brushstrokes to create an expressive and emotional composition.
+7. Output: 
+Impressionism or Expressionism
+
+###
+8. Instruction: Estimate the duration to complete a task of translating 2,500-word document from English to Spanish.
+8. Input: 
+<noinput>
+8. Output: 
+Assuming a translator can work on an average of 250-300 words per hour, it would take approximately 8-10 hours to complete a 2,500-word document translation.
+
+###
+9. Instruction: Write a short paragraph about the impact of fast fashion on the environment.
+9. Input: 
+<noinput>
+9. Output: 
+Fast fashion, characterized by quickly produced and inexpensive clothing items, has had a significant negative impact on the environment. The industry contributes to pollution, excessive water consumption, and massive waste generation due to the rapid turnover of clothing and consumer demand for the latest trends. Furthermore, fast fashion exacerbates the unsustainable exploitation of resources and energy, leading to the acceleration of climate change and damage to ecosystems.
+
+###
+10. Instruction: What literary work is associated with the quote, "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife"?
+10. Input: 
+<noinput>
+10. Output: 
+Pride and Prejudice by Jane Austen

@@ -1,0 +1,120 @@
+4. Instruction: Given a paragraph on a topic, summarize it in a single sentence.
+4. Input: 
+Topic: The impact of social media on mental health
+The prevalence of social media platforms like Facebook, Instagram, and Twitter has led to a significant transformation in the way we communicate with each other. While these platforms have certainly brought people closer together, research also suggests that they can have unintended and harmful consequences for our mental health and well-being.
+4. Output: 
+Social media has had both positive and negative effects on mental health, with research suggesting that excessive use may lead to harmful consequences. 
+###
+5. Instruction: Correct the grammatical mistakes in a given sentence.
+5. Input: 
+Sentence: They was happy to welcome us in their home.
+5. Output: 
+The correct sentence is, "They were happy to welcome us into their home." Please remember to use the correct form of the verb "to be" with plural subjects.
+###
+6. Instruction: Given a set of data, calculate the mean and the standard deviation.
+6. Input:
+Data: 12, 20, 18, 16, 21, 15, 19
+6. Output:
+The mean of the data is 17.7, and the standard deviation is 2.873.
+###
+7. Instruction: Given a sentence in a foreign language, translate it to English.
+7. Input:
+Sentence: Je suis fatigué.
+7. Output:
+The sentence translates to "I am tired" in English. 
+###
+8. Instruction: Given a product name and a target audience, write a catchy slogan to market the product.
+8. Input: 
+Product: Apple MacBook Air
+Target Audience: College students
+8. Output: 
+For college students who need to balance schoolwork, a job, and a social life, the MacBook Air is the perfect fit for your needs with its light weight and exceptional performance. 
+###
+9. Instruction: Given a sentence, rephrase it using a different word choice.
+9. Input: 
+Sentence: The dog barked loudly at the mailman.
+9. Output: 
+The dog made a lot of noise when he saw the mailman.
+###
+10. Instruction: Given a topic, provide a brief summary of the main points in a few sentences.
+10. Input: 
+Topic: The history of the Eiffel Tower
+10. Output: 
+The Eiffel Tower was built in 1889 as the entrance arch for the World's Fair. It was initially met with controversy, but it soon became an iconic landmark of Paris and an engineering marvel of its time. Today, it remains a popular tourist attraction and cultural symbol of France.
+###
+11. Instruction: Given a set of data, create a bar graph to visually represent the information.
+11. Input: 
+Data: 
+- Apples: 12 
+- Bananas: 7 
+- Oranges: 18 
+11. Output: 
+[N/A for GPT-3 - cannot create visual output]
+###
+12. Instruction: Given a sentence, identify and correct any errors in subject-verb agreement.
+12. Input: 
+Sentence: The group of scientists from around the world was presenting their findings at the conference.
+12. Output: 
+The correct sentence is, "The group of scientists from around the world were presenting their findings at the conference." Please remember to use the plural form of the verb when referring to a group of people or things. 
+###
+13. Instruction: Given a topic, write a paragraph explaining your opinion and reasoning on the subject.
+13. Input: 
+Topic: Should college education be free for all students?
+13. Output: 
+I believe that college education should be free for all students. Education is a fundamental human right, and it is crucial for individuals to have access to higher education in order to be competitive in the job market and contribute to society. In addition, higher education has become increasingly necessary in many fields, and the cost of tuition and student loans can be a significant barrier for many low-income students. Ultimately, a more educated population benefits everyone, and making college education free would be a positive step towards greater equality and opportunity.
+###
+14. Instruction: Given a set of instructions, follow them to complete a task.
+14. Input: 
+Instructions: 
+- Preheat the oven to 350 degrees Fahrenheit.
+- In a mixing bowl, combine the flour, sugar, salt, and baking powder.
+- Add the milk, oil, and egg to the mixing bowl and mix until smooth.
+- Pour the batter into a greased baking pan.
+- Bake for 25-30 minutes or until golden brown.
+14. Output: 
+[N/A for GPT-3 - cannot perform physical tasks]
+###
+15. Instruction: Given a sentence, identify and correct any errors in punctuation.
+15. Input: 
+Sentence: My favorite bands are The Beatles, Pink Floyd, and Led Zeppelin.
+15. Output: 
+The correct sentence is, "My favorite bands are The Beatles, Pink Floyd, and Led Zeppelin." Please remember to use a comma to separate items in a list. 
+###
+16. Instruction: Given two unrelated topics, create a metaphor or simile comparing them.
+16. Input: 
+Topic 1: Music
+Topic 2: The ocean
+16. Output: 
+Listening to your favorite song is like setting sail on the open seas – both experiences can be powerful and transformative, taking you to new and unexpected places. 
+###
+17. Instruction: Given a sentence, rephrase it in the passive voice.
+17. Input: 
+Sentence: The company released a new product to the market last week.
+17. Output: 
+A new product was released to the market by the company last week. 
+###
+18. Instruction: Given a question, provide a brief yet complete answer.
+18. Input: 
+Question: What is the capital of Spain?
+18. Output: 
+Madrid is the capital of Spain. 
+###
+19. Instruction: Given a paragraph on a topic, identify the main idea and summarize it in a single sentence.
+19. Input: 
+Topic: Climate change and its effects on biodiversity 
+Climate change is changing ecosystems all around the world. Terrestrial, freshwater and marine species are affected by changing temperatures, shifting rains, rising sea levels and extreme weather events. As a result, some habitats are becoming less suitable for certain species, which can lead to declines in population size and even extinction. 
+19. Output: 
+The main idea of this passage is that climate change is affecting biodiversity, and habitat loss and population decline are becoming more common. 
+###
+20. Instruction: Given two pieces of data, compare and contrast them by providing a list of similarities and differences.
+20. Input: 
+Data 1: Scottish Terrier
+- Height: 25 - 28 cm
+- Weight: 8.5 - 10 kg
+- Life span: 11-13 years
+Data 2: Beagle
+- Height: 33 - 41 cm
+- Weight: 8 - 15 kg
+- Life span: 12 - 15 years
+20. Output: 
+The Scottish Terrier and Beagle are two dog breeds with some key differences in size, but both have a similar life span. While Scottish Terriers are shorter and relatively heavy, weighing 8.5 - 10 kg on average, Beagles can range from 8 - 15 kg and are taller, measuring 33 - 41 cm in height. Additionally, both breeds tend to have a life span of 11 - 15 years.

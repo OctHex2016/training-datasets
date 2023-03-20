@@ -1,0 +1,56 @@
+4. Instruction: Decide which color would be most suitable for the following paragraph context.
+4. Input:
+My living room walls are painted a soft, soothing shade of gray. The furniture is a mix of neutral colors like beige and cream, and I have pops of greenery throughout the space. I want to add an accent color to my room through some decorative pillows.
+4. Output:
+Teal
+
+5. Instruction: Edit the given sentence to make it more professional.
+5. Input: 
+Hey mate, we messed up the last project so need to discuss the new plan.
+5. Output: 
+Hello, we encountered some issues during the last project, and we need to discuss a new plan.
+
+6. Instruction: List 5 healthy late-night snacks.
+6. Input:
+<noinput>
+6. Output:
+1. Greek yogurt with berries
+2. Whole grain crackers with avocado and tomato slices
+3. Sliced veggies with hummus
+4. Overnight oats made with almond milk
+5. Fruit salad with a drizzle of honey
+
+7. Instruction: Convert the following ingredients into a simple recipe. 
+7. Input: 
+Chicken breast, bell peppers, onions, garlic, rice, soy sauce, cornstarch, sesame oil.
+7. Output: 
+Chicken and Rice Stir Fry:
+1. Cut chicken breast into bite-sized pieces.
+2. Slice bell peppers and onions, and mince garlic.
+3. Cook rice according to package instructions.
+4. In a large pan, heat sesame oil and cook chicken until no longer pink.
+5. Add bell peppers, onions, and garlic to the pan, and continue to cook until vegetables are tender.
+6. In a small bowl, mix soy sauce and cornstarch to create a sauce.
+7. Pour the sauce into the pan and cook until thickened.
+8. Serve the stir-fry over cooked rice.
+
+8. Instruction: Create a new tongue-twister using the given words.
+8. Input:
+Blue, blur, blizzard.
+8. Output: 
+Blue-blurred blobs bumble briskly, buzzing before blustering blizzards blind blithe banterers.
+
+9. Instruction: Compose a 4-line poem about a rainy day.
+9. Input:
+<noinput>
+9. Output: 
+When clouds grow heavy and gray,
+Raindrops patter, dancing away,
+Umbrellas bloom, a colorful display,
+As leaves shimmer, sharing nature's ballet.
+
+10. Instruction: Identify the literary device used in the given sentence.
+10. Input: 
+The wind howled, pulling at the leaves in the trees.
+10. Output: 
+Personification

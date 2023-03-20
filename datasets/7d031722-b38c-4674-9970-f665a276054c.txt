@@ -1,0 +1,77 @@
+4. Instruction: Translate the following sentence into French.
+4. Input:
+The quick brown fox jumps over the lazy dog.
+4. Output:
+Le renard brun rapide saute par-dessus le chien paresseux.
+
+###
+5. Instruction: Identify the protagonist and antagonist of the given story extract.
+5. Input:
+Little Red Riding Hood was walking through the woods on her way to her grandmother's house, all while being watched by the cunning and hungry wolf, who planned to eat her and her grandmother.
+5. Output:
+Protagonist: Little Red Riding Hood
+Antagonist: The Wolf
+
+###
+6. Instruction: Edit the following paragraph to fix grammar, punctuation, and syntax errors.
+6. Input:
+their first Movie, was a great Sucess. they are planing to make it a series. It follows, the adventures of apair of detectives who solve crims, in a futuristic city some cases, are both peculiar and slightly, unnerving,
+6. Output:
+Their first movie was a great success. They are planning to make it a series. It follows the adventures of a pair of detectives who solve crimes in a futuristic city. Some cases are both peculiar and slightly unnerving.
+
+###
+7. Instruction: Summarize the following news article in 2-3 sentences.
+7. Input:
+Yesterday evening, a powerful storm swept through the central regions of Maple City, causing significant damage to trees and disrupting power lines. According to eyewitnesses, there were instances of shattered windows due to falling branches brought on by the force of the gale. In a statement released early this morning, city officials announced that teams of workers are now tirelessly clearing the debris from major roads and rehabilitating power lines to ensure the functioning of the power grid.
+
+7. Output:
+A powerful storm hit Maple City last night, causing extensive damage to trees and power lines. Officials said workers are now clearing debris and repairing power lines to restore function to the grid.
+
+###
+8. Instruction: Which famous author wrote the following book? Provide the author's name.
+8. Input:
+<noinput>
+8. Output:
+Please provide the name of the book for which you want to know the author's name.
+
+###
+9. Instruction: Rate the following movies based on their overall popularity, from most popular to least popular.
+9. Input:
+- Titanic
+- The Shawshank Redemption
+- The Emoji Movie
+- The Dark Knight
+9. Output:
+1. Titanic
+2. The Dark Knight
+3. The Shawshank Redemption
+4. The Emoji Movie
+
+###
+10. Instruction: Compose a short poem about the beauty of nature.
+10. Input:
+<noinput>
+10. Output:
+In nature's wondrous tapestry,
+Where sunlit branches sway,
+A symphony of colors bloom,
+And life begins its play.
+
+The rivers run, the mountains stand,
+A testament to time,
+The creatures dance in harmony,
+A world of great design.
+
+###
+11. Instruction: What kind of thinking error is demonstrated in the following sentence?
+11. Input:
+Everybody likes chocolate, so it must be good for you.
+11. Output:
+Hasty generalization
+
+###
+12. Instruction: Describe what a solar eclipse is and how it occurs.
+12. Input:
+<noinput>
+12. Output:
+A solar eclipse is an astronomical phenomenon that occurs when the Moon passes between the Earth and the Sun, temporarily blocking the Sun's light from reaching the Earth. This event can be visible from certain locations on Earth, causing daylight to turn into darkness for a short period of time. Solar eclipses happen during a new moon, when the Moon is in direct alignment with the Sun relative to the Earth. There are different types of solar eclipses, including total, partial, and annular eclipses, which vary based on the degree of coverage by the Moon's shadow on the Earth's surface.

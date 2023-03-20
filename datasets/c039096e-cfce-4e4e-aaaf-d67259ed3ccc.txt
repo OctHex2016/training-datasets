@@ -1,0 +1,121 @@
+4. Instruction: Rewrite the given text in passive voice.
+4. Input: 
+The secretary prepared the reports quickly.
+4. Output: 
+The reports were prepared quickly by the secretary.
+
+5. Instruction: Identify and describe a famous tourist destination in the given country.
+5. Input: 
+Italy
+5. Output: 
+The Colosseum in Rome, Italy is a famous tourist destination. This iconic structure represents Roman architecture and engineering, once capable of seating around 50,000 spectators for gladiator contests, dramas, and other public spectacles.
+
+6. Instruction: Suggest a plot for a children's story that involves a talking rabbit and a wise old tree.
+6. Input: 
+<noinput>
+6. Output: 
+A curious talking rabbit named Remy lived in a magical forest. One day, Remy stumbles upon a wise old tree, the ancient guardian of the forest. Together, they embark on a daring quest to retrieve a magical crystal that restores order and balance in the forest. Along the way, Remy learns valuable life lessons and the importance of friendship.
+
+7. Instruction: Translate the provided English sentence to French.
+7. Input: 
+I'm meeting my friends for dinner tonight.
+7. Output: 
+Je rencontre mes amis pour dîner ce soir.
+
+8. Instruction: Identify whether the given statement is true or false. Explain your answer.
+8. Input: 
+All squares are rectangles but not all rectangles are squares.
+8. Output: 
+True. A square is a special case of a rectangle, where all its sides are equal in length. While all squares are rectangles, only rectangles with all four equal sides can be considered squares.
+
+9. Instruction: Provide a recommendation for a healthy lunch that is both vegetarian and gluten-free.
+9. Input: 
+<noinput>
+9. Output: 
+Quinoa salad with mixed greens, cherry tomatoes, cucumber, bell pepper, carrots, avocado, and a lemon-tahini dressing. This lunch is both vegetarian and gluten-free and provides a mix of protein, healthy fats, and nutrients.
+
+10. Instruction: Write a haiku about autumn.
+10. Input: 
+<noinput>
+10. Output: 
+Crisp leaves underfoot,
+Golden sunsets paint the sky,
+Autumn whispers near.
+
+11. Instruction: Correctly punctuate the given sentence.
+11. Input: 
+Let's eat grandpa
+11. Output: 
+Let's eat, grandpa.
+
+12. Instruction: Suggest a strategy to improve communication amongst coworkers in an office environment.
+12. Input: 
+<noinput>
+12. Output: 
+Implement daily stand-up meetings or huddles where each team member briefly shares their progress, upcoming tasks, and any challenges they face. This encourages open communication, fosters collaboration, and helps resolve issues more quickly.
+
+13. Instruction: List five benefits of regular exercise.
+13. Input: 
+<noinput>
+13. Output: 
+1. Improved cardiovascular health
+2. Increased muscle strength and endurance
+3. Enhanced mental well-being
+4. Weight management and increased metabolism
+5. Better sleep quality
+
+14. Instruction: Name and briefly describe a classical music composer.
+14. Input: 
+<noinput>
+14. Output: 
+Ludwig van Beethoven (1770-1827) was a German composer and pianist, who remains one of the most famous and influential of all composers. His best-known works include Symphonies 5, 6, and 9, the late string quartets, and the Moonlight Sonata.
+
+15. Instruction: Explain the difference between a simile and a metaphor.
+15. Input: 
+<noinput>
+15. Output: 
+A simile is a figure of speech that compares two unlike things using words such as "like" or "as." A metaphor, on the other hand, is a figure of speech that directly refers to an unrelated object or concept to describe something or make a comparison, without using "like" or "as."
+
+16. Instruction: Calculate the tip for a $45 restaurant bill. The tip should be 20% of the total bill.
+16. Input: 
+<noinput>
+16. Output: 
+$9
+
+17. Instruction: Name three renewable energy sources.
+17. Input: 
+<noinput>
+17. Output: 
+1. Solar energy
+2. Wind energy
+3. Hydropower
+
+18. Instruction: Describe the steps to make a simple origami paper crane.
+18. Input: 
+<noinput>
+18. Output: 
+1. Start with a square piece of paper, and fold it in half diagonally. Repeat with the other diagonal.
+2. Fold the paper in half horizontally and vertically, then unfold.
+3. Collapse the square into a smaller one using the creases.
+4. Fold the top layer of both sides inwards to form a kite shape.
+5. Fold the top layer of the bottom corner up to align with the top corner.
+6. Fold the side corners inward, then pull out the layers from underneath.
+7. Fold the bottom edges up, making another kite shape.
+8. Fold the top layer down, creating a long neck and tail.
+9. Shape the neck, head, and tail, then spread the wings to complete the crane.
+
+19. Instruction: Write an enthusiastic response to an invitation to attend a party.
+19. Input: 
+<no input necessary >
+19. Output: 
+Thank you for inviting me to the party! I'm so excited and can't wait to celebrate with everyone. Count me in for a night of fun, laughter, and great company!
+
+20. Instruction: Analyze the emotions expressed in the given poem.
+20. Input: 
+Hope is the thing with feathers
+That perches in the soul,
+And sings the tune without the words,
+And never stops at all.
+(Emily Dickinson)
+20. Output: 
+The poem conveys emotions of hope, resilience, and optimism. The metaphor of "hope" as a bird with feathers indicates a sense of lightness and freedom. The underlying emotions suggest that hope is an unwavering and uplifting presence within the human soul.

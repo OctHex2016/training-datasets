@@ -1,0 +1,129 @@
+4. Instruction: Summarize the given movie plot in one to two sentences.
+4. Input: 
+During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while concealing a deep, dark secret about himself.
+
+4. Output: 
+In WWII, English mathematician Alan Turing leads a team to decipher the German Enigma code. He simultaneously struggles with a deeply hidden personal secret.
+
+###
+
+5. Instruction: Provide advice on how to treat a minor burn according to first aid principles.
+5. Input: <noinput>
+5. Output: 
+To treat a minor burn, run cool water over the affected area for 10-20 minutes, then cover it with a clean, non-stick bandage. Avoid applying ice, butter or ointments, and seek medical attention if the burn seems more severe or becomes infected.
+
+###
+
+6. Instruction: If applicable, identify the logical fallacy in the given statement.
+6. Input: 
+If you don't clean your room, you will never become a successful adult.
+6. Output: 
+Slippery slope
+
+###
+
+7. Instruction: Translate the following text to French.
+7. Input: 
+The book is on the shelf next to the window.
+7. Output: 
+Le livre est sur l'étagère à côté de la fenêtre.
+
+###
+
+8. Instruction: State two strategies to improve concentration while studying.
+8. Input: <noinput>
+8. Output: 
+1. Eliminate distractions by creating a designated study area and turning off electronic devices. 
+2. Use effective time management techniques like the Pomodoro Technique to work in focused intervals with short breaks in between.
+
+###
+
+9. Instruction: Improve the grammar and punctuation in the given sentence.
+9. Input: 
+the three children loved: their pets, walking aroud and swimming in, the pond in thier garden,.
+9. Output: 
+The three children loved their pets, walking around, and swimming in the pond in their garden.
+
+###
+
+10. Instruction: Calculate the percentage increase from 50 to 65.
+10. Input: <noinput>
+10. Output: 
+30%
+
+###
+
+11. Instruction: Write a brief introduction paragraph for an article about the benefits of adopting a healthy lifestyle.
+11. Input: <noinput>
+11. Output: 
+In today's fast-paced world, it's easy to get caught up in the hustle and neglect our personal well-being. However, adopting a healthy lifestyle can have far-reaching benefits that extend beyond mere physical fitness. In this article, we'll explore the numerous advantages of embracing a healthier way of life, including improved mental and emotional health, enhanced productivity, and increased longevity, among others.
+
+###
+
+12. Instruction: Identify the film genre of the given movie title: "Jurassic Park."
+12. Input: <noinput>
+12. Output: 
+Science fiction
+
+###
+
+13. Instruction: Based on the given text, what steps should Amy take next to troubleshoot the printing issue?
+13. Input: 
+Amy is trying to print a document on her wireless printer, but the printer is not responding. She has already checked if the printer is plugged in and if there is enough paper and ink. The device shows that it is connected to the Wi-Fi network.
+13. Output: 
+Amy should check if her computer's printer settings are correct and if the printer is set as the default printer. She can also try rebooting both her computer and printer, and updating the printer's driver if necessary.
+
+###
+
+14. Instruction: Name three important characteristics of a successful leader.
+14. Input: <noinput>
+14. Output: 
+1. Effective communication skills
+2. Adaptability to change
+3. Empathy and emotional intelligence
+
+###
+
+15. Instruction: What are the primary colors of light?
+15. Input: <noinput>
+15. Output: 
+Red, green, and blue
+
+###
+
+16. Instruction: Write a rhyming couplet using the theme "nature."
+16. Input: <noinput>
+16. Output: 
+In nature's beauty, we find solace and peace,
+A connection so strong, the turmoil must cease.
+
+###
+
+17. Instruction: With whom would you associate the Pareto principle, also known as the 80/20 rule?
+17. Input: <noinput>
+17. Output: 
+Vilfredo Pareto
+
+###
+
+18. Instruction: Can you provide the conversion factor to convert inches to centimeters?
+18. Input: <noinput>
+18. Output: 
+1 inch = 2.54 centimeters
+
+###
+
+19. Instruction: Arrange the following events in the correct chronological order: The fall of the Berlin Wall, The formation of the European Economic Community, The signing of the Treaty of Maastricht, The Treaty of Rome. List them with the earliest event first.
+19. Input: <noinput>
+19. Output: 
+1. The Treaty of Rome
+2. The formation of the European Economic Community
+3. The fall of the Berlin Wall
+4. The signing of the Treaty of Maastricht
+
+###
+
+20. Instruction: Classify the following compound as covalent or ionic: NaCl
+20. Input: <noinput>
+20. Output: 
+Ionic

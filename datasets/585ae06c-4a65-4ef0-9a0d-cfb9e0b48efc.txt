@@ -1,0 +1,46 @@
+4. Instruction: Convert the given recipe instructions into a numbered list.
+4. Input: 
+Preheat the oven to 375°F (190°C). In a large bowl, mix together the flour, sugar, baking powder, baking soda, and salt. Add the butter and use a pastry cutter or your fingers to work it into the dry ingredients until the mixture is crumbly. Stir in the chocolate chips. Add the buttermilk and mix until just combined. Turn the dough out onto a lightly floured surface and knead it gently a few times. Pat the dough down into a circle about 1 inch (2.5 cm) thick, then cut the circle into 8 wedges. Transfer the scones to a parchment-lined baking sheet and brush the tops with a little bit of buttermilk. Bake for 20-25 minutes, until lightly golden.
+4. Output: 
+1. Preheat the oven to 375°F (190°C).
+2. In a large bowl, mix together the flour, sugar, baking powder, baking soda, and salt.
+3. Add the butter and use a pastry cutter or your fingers to work it into the dry ingredients until the mixture is crumbly.
+4. Stir in the chocolate chips.
+5. Add the buttermilk and mix until just combined.
+6. Turn the dough out onto a lightly floured surface and knead it gently a few times.
+7. Pat the dough down into a circle about 1 inch (2.5 cm) thick, then cut the circle into 8 wedges.
+8. Transfer the scones to a parchment-lined baking sheet and brush the tops with a little bit of buttermilk.
+9. Bake for 20-25 minutes, until lightly golden.
+
+5. Instruction: Correct the grammatical errors and improve the clarity of the given paragraph.
+5. Input: 
+She goes in library an found a few interersting books. The first one was about AI, second about preserving environments of natural, and third abut literature in 19th centuray.
+5. Output: 
+She goes to the library and finds a few interesting books. The first one is about AI, the second is about preserving natural environments, and the third is about 19th-century literature.
+
+6. Instruction: Calculate the square root of the given number and round the answer to two decimal places. 
+6. Input: 
+256
+6. Output: 
+16.00
+
+7. Instruction: Listen to the rhythm in a song, identify the time signature, and provide the tempo in beats per minute (BPM).
+7. Input: <noinput>
+7. Output: 
+Sorry, I am a text-based AI and cannot listen to audio. Please try providing the lyrics or other text-based information.
+
+8. Instruction: Please summarize the main points of the article.
+8. Input: 
+Solar panel technology has seen rapid advancements in the last decade, paving the way for more affordable and efficient installations. According to an International Energy Agency report, solar energy is now the cheapest form of electricity generation in history. This is due to significant reductions in manufacturing costs and improvements in efficiency. The steep decline in costs has led to a surge in solar installations worldwide, with China, the United States, and India leading the charge. Additionally, advances in energy storage, such as lithium-ion batteries, have made solar power a more viable solution for off-grid communities and energy backup systems.
+8. Output: 
+Solar panel technology has become more affordable and efficient in the last decade, making it the cheapest form of electricity generation. Manufacturing costs have decreased and efficiency has improved, resulting in a surge in installations with China, the United States, and India as leaders. Advancements in energy storage, such as lithium-ion batteries, make solar power more viable for off-grid communities and backup systems.
+
+9. Instruction: Provide a brief history of the invention and development of mobile phones.
+9. Input: <noinput>
+9. Output: 
+Mobile phones were first invented in 1973 by Motorola's Martin Cooper, who made the first-ever handheld cellular phone call. By the 1980s, mobile phones were commercially available but were large, expensive, and had limited functionality. The 1990s saw a decrease in size and cost and an increase in functionality, including text messaging and basic gaming. In 2000, Nokia released the popular 3310 model, known for its durability and long battery life. The 2007 release of Apple's iPhone revolutionized mobile devices by introducing touchscreen technology and mobile applications. Continued innovation in the following years led to the rise of smartphones, which now dominate the market and offer advanced features like cameras, GPS, and internet access.
+
+10. Instruction: Explain the impact of the greenhouse effect on global warming. Also, mention some ways to mitigate it.
+10. Input: <noinput>
+10. Output: 
+The greenhouse effect is the process by which certain gases in Earth's atmosphere, like carbon dioxide and methane, trap heat and contribute to global warming. This leads to rising temperatures, extreme weather events, and negative impacts on ecosystems and human well-being. To mitigate the greenhouse effect, we can reduce greenhouse gas emissions by adopting cleaner energy sources like solar and wind, increasing energy efficiency, implementing better waste management practices, and protecting forests, which absorb carbon dioxide. Individuals can also make sustainable choices, like using public transportation, adopting a plant-based diet, and conserving energy at home.

@@ -1,0 +1,106 @@
+4. Instruction: Identify the primary issue in the given text and suggest a possible solution.
+4. Input: 
+My neighbor's garden is a mess, and it's attracting rodents, which are starting to come into my yard.
+4. Output: 
+Primary Issue: Neighbor's unkempt garden attracting rodents.
+Possible Solution: Talk to the neighbor about cleaning up their garden or suggest they hire a gardener to maintain it.
+
+5. Instruction: Rewrite the statement below in passive voice.
+5. Input: 
+She is baking a cake for her friend's birthday party.
+5. Output: 
+A cake is being baked by her for her friend's birthday party.
+
+6. Instruction: Brainstorm three potential names for a new digital marketing agency.
+6. Input: 
+<noinput>
+6. Output: 
+1. Pixel Pioneers
+2. Click Catalysts
+3. Digital Dreamers
+
+7. Instruction: What should be the next step of someone going through this life event?
+7. Input: 
+Accepted to university of their choice
+7. Output: 
+The next step is to confirm enrollment, find housing (if needed), and register for classes.
+
+8. Instruction: Make a summary of the given text.
+8. Input: 
+Norway is a Scandinavian country located in Northern Europe. The nation experienced rapid economic growth due to its rich reserves of petroleum, natural gas, minerals, and abundant hydropower. Norway has a high standard of living, and is known for its beautiful fjords, rugged coastline, and friendly people. Although not part of the European Union, it has strong economic ties to the EU through the European Free Trade Association and European Economic Area.
+8. Output: 
+Norway, a Scandinavian country in Northern Europe, has experienced rapid economic growth thanks to its rich resources, including petroleum, natural gas, and minerals. With a high standard of living, friendly people, and picturesque landscapes, it maintains strong economic ties to the European Union through the European Free Trade Association and European Economic Area, despite not being a member.
+
+9. Instruction: State the three key elements of a successful business pitch.
+9. Input: 
+<noinput>
+9. Output: 
+1. Problem Identification: Clearly define the problem your product or service solves.
+2. Solution: Explain your unique solution and why it's better than alternatives.
+3. Market Potential: Demonstrate the potential for growth and profitability through market size and target customer segments.
+
+10. Instruction: Correct the grammar mistakes in the given sentence.
+10. Input: 
+My frend have tu kats and their names are Molly and Felix.
+10. Output: 
+My friend has two cats and their names are Molly and Felix.
+
+11. Instruction: Identify the dominant tone in the provided text.
+11. Input: 
+"We are sorry to inform our customers that our store will remain closed this week due to unexpected circumstances. We apologize for the inconvenience caused and assure you we are doing our best to reopen as soon as possible."
+11. Output: 
+Apologetic
+
+12. Instruction: Convert the given text into an affirmative statement.
+12. Input: 
+It's not a bad idea to consider podcast advertisements.
+12. Output: 
+It's a good idea to consider podcast advertisements.
+
+13. Instruction: Sort the given words in alphabetical order and output them as a comma-separated list.
+13. Input: 
+Evolution, Bicycle, Sunflower, Ammunition, Dodecahedron
+13. Output: 
+Ammunition, Bicycle, Dodecahedron, Evolution, Sunflower
+
+14. Instruction: Explain what is the meaning of the given idiom.
+14. Input: 
+Bite the bullet
+14. Output: 
+To "bite the bullet" means to face a difficult or unpleasant situation with courage and determination, even though you might not want to do it.
+
+15. Instruction: Transform the given statement into a question.
+15. Input: 
+You went to the store after work.
+15. Output: 
+Did you go to the store after work?
+
+16. Instruction: Count the number of words in the provided sentence.
+16. Input: 
+The quick brown fox jumps over the lazy dog.
+16. Output: 
+9
+
+17. Instruction: What type of literature is this quote taken from, and what do you think it's trying to convey?
+17. Input: 
+"All the world's a stage, and all the men and women merely players."
+17. Output: 
+This quote is from a play, specifically, William Shakespeare's "As You Like It." It's trying to convey that life is like a play or performance, and everyone has their own roles to play throughout their lives, experiencing different stages and situations.
+
+18. Instruction: Recommend a famous painting that would suit the theme of "tranquility."
+18. Input: 
+<noinput>
+18. Output: 
+"The Water Lily Pond" by Claude Monet
+
+19. Instruction: Combine the given sentences into one coherent sentence.
+19. Input: 
+Sheila loves hiking. Jon prefers cycling. Both enjoy outdoor activities.
+19. Output: 
+Sheila loves hiking and Jon prefers cycling, but both enjoy outdoor activities.
+
+20. Instruction: Identify whether this statement is a fact or opinion.
+20. Input: 
+Chocolate ice cream is the best flavor.
+20. Output: 
+Opinion

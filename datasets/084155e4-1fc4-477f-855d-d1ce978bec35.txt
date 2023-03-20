@@ -1,0 +1,108 @@
+4. Instruction: Summarize the given paragraph in one sentence.
+4. Input: 
+Climate change is one of the most critical and complex challenges the world faces today. It refers to significant long-term changes in the Earth's climate, primarily attributed to the increase in atmospheric greenhouse gas concentrations from human activities such as the burning of fossil fuels and deforestation. The consequences of climate change are wide-ranging and include rising global temperatures, melting ice caps and glaciers, more frequent and severe weather events, and shifting ecosystems and wildlife populations.
+4. Output:
+Climate change, stemming from human activities like fossil fuel burning and deforestation, leads to various consequences such as rising temperatures, melting ice caps, and disrupted ecosystems.
+
+5. Instruction: Identify the movie from the given plot summary.
+5. Input: 
+A young lion prince is born in Africa, but his uncle's sinister plan leads to the death of his father and his exile. Embarking on a journey with new friends, the lion prince eventually returns to take his rightful place as the king of the Pride Lands.
+5. Output:
+The Lion King
+
+6. Instruction: Translate the given phrase to French.
+6. Input:
+Safety first.
+6. Output:
+Sécurité avant tout.
+
+7. Instruction: Correct any grammar or spelling mistakes in the given text.
+7. Input:
+Its important too always follow safety precautons while driving, specially during rain or snow.
+7. Output:
+It's important to always follow safety precautions while driving, especially during rain or snow.
+
+8. Instruction: Write a haiku (three-line poem with a 5-7-5 syllable pattern) about nature.
+8. Input:
+<noinput>
+8. Output:
+Gentle winds whisper,
+River flows, calm and serene,
+Nature's song echoes.
+
+9. Instruction: Determine the genre of the following book title.
+9. Input:
+Journey to the Center of the Earth
+9. Output:
+Science Fiction/Adventure
+
+10. Instruction: Rearrange the jumbled words to form a coherent sentence.
+10. Input:
+love dogs people some adore absolutely and
+10. Output:
+Some people absolutely adore and love dogs.
+
+11. Instruction: Suggest two alternative headlines for the given news article title.
+11. Input:
+Stock Market Surges to Record High Amid Economic Growth
+11. Output:
+1. Soaring Stock Market Reflects Booming Economy
+2. Unprecedented Economic Growth Boosts Stock Market to New Heights
+
+12. Instruction: From the description given, write a definition for the term.
+12. Input:
+A condition where a person has an extreme fear of spiders and may experience anxiety or panic attacks when encountering or even thinking about spiders.
+12. Output:
+Arachnophobia is an extreme fear of spiders, causing anxiety or panic attacks upon encountering or thinking about them.
+
+13. Instruction: Identify the logical fallacy in the given argument.
+13. Input:
+If you're against the death penalty, you must want murderers to roam the streets freely.
+13. Output:
+False Dichotomy
+
+14. Instruction: What genre does this song lyric belong to?
+14. Input:
+I wanna hold your hand and walk along the shore, feeling the ocean breeze, as we watch the sun set.
+14. Output:
+Country
+
+15. Instruction: Write a persuasive argument on why parents should limit their children's screen time.
+15. Input:
+<noinput>
+15. Output:
+Limiting children's screen time is essential for their overall health and well-being. Excessive screen exposure can lead to sleep disruptions, hinder social skills development, and contribute to unhealthy sedentary behaviors. By encouraging more balanced activities such as outdoor play, sports, and face-to-face interactions, parents can promote healthier lifestyles, enhance cognitive abilities, and foster stronger interpersonal relationships for their children.
+
+16. Instruction: Create a mnemonic to remember the order of the planets in the Solar System (from closest to the Sun).
+16. Input:
+<noinput>
+16. Output:
+My Very Eager Mother Just Served Us Noodles
+(Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)
+
+17. Instruction: What style of music is characterized by improvisation, syncopation, and a strong rhythm section?
+17. Input:
+<noinput>
+17. Output:
+Jazz
+
+18. Instruction: Based on the given input, identify the country that is mostly likely to have this proverb.
+18. Input:
+Proverb: Give a man a fish, and you feed him for a day; show him how to catch fish, and you feed him for a lifetime.
+18. Output:
+China
+
+19. Instruction: Describe a way to reduce water waste at home.
+19. Input:
+<noinput>
+19. Output:
+Installing a rainwater harvesting system can significantly reduce water waste at home by collecting rainwater for non-potable uses such as watering plants, flushing toilets, and laundry, thus conserving fresh water supply.
+
+20. Instruction: List three things you should do when preparing for a job interview.
+20. Input:
+<noinput>
+20. Output:
+1. Research the company and understand its mission, values, and industry.
+2. Practice common interview questions and prepare concise examples or stories from your experience.
+3. Dress professionally and arrive early, ensuring you bring necessary materials such as copies of your resume and references.
+

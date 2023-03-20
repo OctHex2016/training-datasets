@@ -1,0 +1,65 @@
+4. Instruction: Write a thank-you note to your host after attending their dinner party.
+4. Input:
+<noinput>
+4. Output:
+Dear [Host's Name],
+
+I wanted to personally thank you for hosting such a delightful dinner party last evening. The atmosphere you created was warm, inviting, and allowed everyone to feel comfortable and truly enjoy themselves.
+
+The food was absolutely delicious, and your choice of dishes was exquisite. I particularly appreciated your effort in accommodating my dietary restrictions. The evening was filled with interesting conversations, laughter, and a fantastic group of people.
+
+Once again, thank you for your kindness and hospitality. I am looking forward to catching up with you soon and hope to have the opportunity to return the favor in the future.
+
+Warm regards,
+
+[Your Name]
+
+###
+
+5. Instruction: Proofread the given paragraph and correct any grammatical or punctuation errors.
+5. Input:
+Me goes too school. when i was in school, teacher gave a lesson, she ask me to stand up; on my place and I answer her question. Than I sit down again.
+5. Output:
+I go to school. When I was in school, the teacher gave a lesson. She asked me to stand up at my place and I answered her question. Then, I sat down again.
+
+###
+
+6. Instruction: Write a haiku about rainforest.
+6. Input:
+<noinput>
+6. Output:
+Mysteries concealed,
+Raindrops fall through lush green leaves,
+Life whispers within.
+
+###
+
+7. Instruction: Explain the term "opportunity cost" in your own words.
+7. Input:
+<noinput>
+7. Output:
+Opportunity cost is the concept that when you make a decision, you are giving up the value of the next best alternative. In other words, it represents the benefits you miss out on when choosing one option over another, highlighting the trade-offs involved in any decision-making process.
+
+###
+
+8. Instruction: What is the capital city of Nepal?
+8. Input:
+<noinput>
+8. Output:
+Kathmandu
+
+###
+
+9. Instruction: Convert the given sentence from passive voice to active voice.
+9. Input:
+The book was read by Jane.
+9. Output:
+Jane read the book.
+
+###
+
+10. Instruction: Identify the type of literary device used in the sentence: "The sun smiled down on the city."
+10. Input:
+<noinput>
+10. Output:
+Personification

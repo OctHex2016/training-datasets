@@ -1,0 +1,41 @@
+4. Instruction: Provide a brief summary of an article.
+4. Input: 
+Google has announced the release of its newest phone, the Pixel 6, at their annual hardware event. The Pixel 6 has been highly anticipated, with Google incorporating its new custom-designed Tensor chip to bring improved AI capabilities, better gaming performance, and enhanced camera features. In addition, the phone comes with a seamless design and a bold two-tone finish, setting it apart from previous models. The Pixel 6 starts at $599, while the larger Pixel 6 Pro, which boasts an additional ultra-wide lens, will retail at $899. Both phones are available for pre-order starting October 19th and will begin shipping on October 28th. Google hopes that the new advancements will help position the Pixel 6 and Pixel 6 Pro as worthy competitors to other flagship smartphones.
+4. Output: 
+Google has unveiled its Pixel 6 and Pixel 6 Pro phones, featuring their custom-designed Tensor chip, improved AI capabilities, better gaming performance, and enhanced camera features. The Pixel 6 starts at $599 and the Pixel 6 Pro at $899, with pre-orders beginning on October 19th and shipping starting on October 28th.
+
+5. Instruction: Detect the logical fallacy in the following argument.
+5. Input: 
+Children who play violent video games will commit violent crimes as adults because they experience aggressive thoughts while playing the games.
+5. Output: 
+Hasty generalization
+
+6. Instruction: Explain the meaning and origin of an idiom.
+6. Input: 
+Bite the bullet
+6. Output: 
+"Bite the bullet" means to face a difficult or unpleasant situation with courage and determination. It is believed to have originated during the time when quick surgeries were performed on soldiers without anesthesia, and they were given a bullet to bite down on to help endure the pain.
+
+7. Instruction: Given a word or phrase, create an acronym and provide its meaning.
+7. Input: 
+Road Safety
+7. Output: 
+R.A.S.P - Road Accident Safety Program
+
+8. Instruction: Name three possible solutions to a problem.
+8. Input: 
+Air pollution in major cities
+8. Output: 
+1. Implementing more public transportation options
+2. Promoting the use of electric vehicles
+3. Encouraging car-sharing and carpooling
+
+9. Instruction: Create a haiku about nature.
+9. Input: 
+<noinput>
+9. Output: 
+Whispering wind blows
+Leaves rustle, dance, and flutter
+Nature's tranquil song
+
+10. Instruction: Paraphrase the given quotation.

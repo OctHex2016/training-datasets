@@ -1,0 +1,111 @@
+4. Instruction: Provide three recommendations for a vegetarian restaurant in London.
+4. Input:
+<noinput>
+4. Output:
+- Mildreds - a popular restaurant known for its delicious vegetarian comfort food.
+- The Gate - a fine dining restaurant offering vegetarian and vegan options with an international twist.
+- Itadaki Zen - a Japanese-inspired vegan restaurant with healthy dishes made with locally sourced ingredients.
+###
+5. Instruction: Correct the grammar of this sentence: "Me and my friend went to the mall yesterday."
+5. Input: 
+Me and my friend went to the mall yesterday.
+5. Output: 
+My friend and I went to the mall yesterday.
+###
+6. Instruction: Can you name three synonyms for "happy"?
+6. Input: 
+<noinput>
+6. Output: 
+Joyful, elated, delighted.
+###
+7. Instruction: Respond to this email saying that you cannot attend the meeting tomorrow but provide a recommendation for who can attend instead.
+7. Input: 
+Dear team, I am sorry I won't be able to attend the meeting tomorrow because of schedule conflict. 
+7. Output: 
+Hello, Thank you for inviting me to the meeting tomorrow. Unfortunately, I won't be able to participate because of a scheduling conflict. I recommend that my colleague X who is well-versed in the project, take my place. Thanks.
+###
+8. Instruction: Rewrite the following sentence using simpler words: "Her style of writing is excessively verbose."
+8. Input: 
+Her style of writing is excessively verbose.
+8. Output: 
+She writes with too many words.
+###
+9. Instruction: Can you find the answer to "What is the capital of Zimbabwe?"
+9. Input: 
+<noinput>
+9. Output: 
+Harare is the capital of Zimbabwe.
+###
+10. Instruction: Explain machine learning to me as if I were a five-year-old.
+10. Input: 
+<noinput>
+10. Output: 
+Machine learning is when you teach a computer to do something by showing it lots of examples. Just like how you learn new things by trying them out yourself or watching your friends do it.
+###
+11. Instruction: Provide three possible reasons why website loading times are slow.
+11. Input: 
+<noinput>
+11. Output: 
+- Large files or pictures on the website could be taking up a lot of space.
+- The server that hosts the website might have too much traffic slowing things down.
+- The speed of the internet connection could affect how fast the website loads.
+###
+12. Instruction: Correct the spelling for the following words: acommodate, refrence, occurence.
+12. Input: 
+acommodate, refrence, occurence
+12. Output: 
+Accommodate, reference, occurrence.
+###
+13. Instruction: Listen to this audio clip and transcribe what is being said.
+13. Input: 
+[insert link to audio clip]
+13. Output: 
+Transcription of audio clip.
+###
+14. Instruction: What are three common misconceptions about climate change?
+14. Input:
+<noinput>
+14. Output: 
+- Some people believe that the Earth's temperature cannot change drastically over a short amount of time.
+- Some people believe that humans cannot contribute to climate change.
+- Some people believe that a few degrees of warming won't cause that much harm.
+###
+15. Instruction: Write a witty headline for a news article about a cat winning a prestigious award.
+15. Input: 
+<noinput>
+15. Output: 
+"Catastrophic win: Feline crowned the cutest of them all."
+###
+16. Instruction: Summarize the plot of the movie "The Godfather" in one sentence.
+16. Input:
+<noinput>
+16. Output: 
+Michael Corleone becomes the new head of the mafia family while trying to keep his family safe from rival gangs in 1940s New York City.
+###
+17. Instruction: Provide three possible names for a new coffee store.
+17. Input: 
+<noinput>
+17. Output: 
+- Brewtopia
+- Bean There, Done That
+- Caffeine Jolt
+###
+18. Instruction: Can you provide the definition for the word "antidisestablishmentarianism"?
+18. Input: 
+<noinput>
+18. Output: 
+Antidisestablishmentarianism is a political position characterised by opposition to the disestablishment of a state church in favour of a broader religious freedom.
+###
+19. Instruction: Rewrite the following sentence to be more formal: "I want to know what you think about the new marketing strategy."
+19. Input: 
+I want to know what you think about the new marketing strategy.
+19. Output: 
+I would appreciate hearing your thoughts on the new marketing strategy. 
+###
+20. Instruction: Can you provide three synonyms for the word "happy" in old English?
+20. Input: 
+<noinput>
+20. Output: 
+- Blithe 
+- Eadie
+- Wéotian

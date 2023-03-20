@@ -1,0 +1,43 @@
+4. Instruction: Translate the given sentence into French.
+4. Input:
+The cat is sleeping on the couch.
+4. Output:
+Le chat dort sur le canapé.
+###
+5. Instruction: What is the origin of the name "Nike" and what does it represent?
+5. Input:
+<noinput>
+5. Output:
+The name "Nike" originates from Greek mythology. Nike is the goddess of victory, symbolizing triumph and success in battles and athletic events. The brand name represents the company's mission to inspire athletes and help them achieve their goals.
+###
+6. Instruction: Shorten the given text by summarizing it to improve readability.
+6. Input:
+The main advantage of using solar energy is that it's a clean, renewable, and sustainable source of energy. Generating solar power doesn't produce any greenhouse gases or other harmful emissions, which is beneficial for the environment. Furthermore, sunlight is abundant and available almost everywhere, providing a nearly limitless supply of energy. Not only is solar energy eco-friendly, but it can also help reduce electricity costs for homeowners and businesses. Many people who choose to install solar panels on their property are able to save money on their energy bills.
+6. Output:
+Solar energy is a clean, renewable, and sustainable resource that produces no harmful emissions. With abundant sunlight availability, it offers a nearly limitless energy supply. Solar power is also cost-effective, potentially reducing electricity bills for homeowners and businesses.
+###
+7. Instruction: Name three planets in our solar system and provide a brief description of each.
+7. Input:
+<noinput>
+7. Output:
+1. Mercury: The smallest and closest planet to the sun, Mercury has an iron core and a thin atmosphere, with extreme temperature variations between day and night.
+2. Venus: Often called Earth's sister planet due to its similar size and proximity, Venus has a thick, toxic atmosphere with high temperatures and intense air pressure on its surface.
+3. Mars: Known as the Red Planet for its reddish appearance, Mars has a thin atmosphere, polar ice caps, and the largest volcano in the solar system, Olympus Mons.
+###
+8. Instruction: Write a haiku about a snowstorm.
+8. Input:
+<noinput>
+8. Output:
+In snowstorm's fierce grip,
+Nature's blanket hides the land,
+Silent world awaits.
+###
+9. Instruction: List the five key ingredients needed to make a basic chocolate chip cookie recipe.
+9. Input:
+<noinput>
+9. Output:
+1. All-purpose flour
+2. Unsalted butter
+3. Granulated sugar and/or brown sugar
+4. Eggs
+5. Chocolate chips

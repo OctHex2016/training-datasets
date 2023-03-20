@@ -1,0 +1,125 @@
+4. Instruction: Write a haiku about the ocean.
+4. Input: 
+<noinput>
+4. Output: 
+Waves crash on the shore,
+Endless depths hold mysteries,
+Ocean's eternal.
+
+###
+5. Instruction: Classify the movie genre based on the given brief storyline.
+5. Input: 
+After accidentally discovering time travel, a young teenager must use his newfound ability to fix his past mistakes and save the future from the unknown.
+5. Output: 
+Science fiction, Adventure.
+
+###
+6. Instruction: Explain the main principle of a refrigerator.
+6. Input: 
+<noinput>
+6. Output: 
+The main principle of a refrigerator is based on the second law of thermodynamics: heat flows naturally from regions of high temperature to regions of low temperature. The refrigerator uses a refrigeration cycle to transfer heat from the inside to the outside, maintaining a lower temperature inside the fridge, preserving food for longer periods.
+
+###
+7. Instruction: Find a grammatical error in the given sentence.
+7. Input: 
+She quickly run towards the finish line.
+7. Output: 
+Error: run should be changed to ran.
+
+###
+8. Instruction: Anagram: create a new word or phrase rearranging the given letters.
+8. Input: 
+Listen
+8. Output: 
+Silent
+
+###
+9. Instruction: Provide a brief description of the given painting.
+9. Input: 
+The painting portrays an idyllic landscape with trees, a small village, and a peaceful river flowing between lush hills.
+9. Output: 
+This picturesque painting depicts a serene countryside scene, composed of a quaint village nestled among rolling hills and trees, with a tranquil river meandering through the landscape, evoking a sense of peace and connection with nature.
+
+###
+10. Instruction: Translate the following sentence into French.
+10. Input: 
+I would like to go shopping today.
+10. Output: 
+Je voudrais faire du shopping aujourd'hui.
+
+###
+11. Instruction: Calculate the tip for a $45.50 bill with a 15% tip rate.
+11. Input: 
+<noinput>
+11. Output: 
+$6.83
+
+###
+12. Instruction: How many words are in the given paragraph? 
+12. Input: 
+Climate change, including global warming, is the result of a buildup of greenhouse gases in the Earth's atmosphere. These gases, mainly carbon dioxide, methane, and water vapor, trap heat from the sun, which causes the average global temperature to rise.
+12. Output: 
+27
+
+###
+13. Instruction: Rewrite the given sentence in passive voice.
+13. Input: 
+The dog chased the cat.
+13. Output: 
+The cat was chased by the dog.
+
+###
+14. Instruction: Compose a limerick about a dancing chicken.
+14. Input: 
+<noinput>
+14. Output: 
+There once was a chicken that danced
+It wiggled and jiggled, entranced
+It ruffled its wings
+Joined birds on the swings
+The party grew wild when it pranced.
+
+###
+15. Instruction: Summarize the given article in a sentence.
+15. Input: 
+In a recent development, the prominent social media platform announced they will be hosting a monthly virtual concert series to support emerging musicians during the pandemic. As in-person concerts continue to be limited due to health and safety measures, this initiative aims to showcase up-and-coming talent and provide a revenue stream for struggling artists. Fans will have the chance to purchase exclusive merchandise, and musicians can stay connected with their audiences.
+15. Output: 
+The social media company is launching a monthly virtual concert series to support emerging musicians, offering exclusive merchandise and revenue opportunities during the pandemic.
+
+###
+16. Instruction: Which of these historical events happened first? The signing of the Declaration of Independence, the French Revolution, or the Battle of Waterloo?
+16. Input: 
+<noinput>
+16. Output: 
+The signing of the Declaration of Independence.
+
+###
+17. Instruction: Identify two poetic devices used in the given verse.
+17. Input: 
+Can you visualize fairytale dreams,
+Wrapped in shadows and moonlit beams?
+17. Output: 
+1. Alliteration (in the phrase "moonlit beams") 
+2. Rhyme (dreams/beams)
+
+###
+18. Instruction: Is the given statement true or false? "Photosynthesis is the process through which plants consume oxygen and produce carbon dioxide."
+18. Input: 
+<noinput>
+18. Output: 
+False
+
+###
+19. Instruction: Convert the temperature from Celsius to Fahrenheit: 35°C.
+19. Input: 
+<noinput>
+19. Output: 
+95°F
+
+###
+20. Instruction: Provide a possible meaning for the given metaphor: "Time is a thief."
+20. Input: 
+<noinput>
+20. Output: 
+"Time is a thief" means that time seems to pass quickly or steal precious moments from our lives, often leaving us feeling like we don't have enough time to do everything we want or cherish the experiences we have.

@@ -1,0 +1,101 @@
+4. Instruction: In which English dialect are the following idioms more commonly used: "Bob's your uncle" and "have a butchers"? 
+4. Input: 
+<noinput>
+4. Output: 
+British English
+
+5. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+5. Input: 
+25°C
+5. Output: 
+77°F
+
+6. Instruction: Fact-check the following statement: "Bill Gates never graduated from college." 
+6. Input: 
+<noinput>
+6. Output: 
+True, Bill Gates dropped out of Harvard University.
+
+7. Instruction: Based on the given storyline, describe the conflict.
+7. Input: 
+In a world where magic has been banished, a young, rebellious witch named Zara discovers her ability to wield ancient spells. She begins a journey to find the truth about her heritage and plans to restore the magic to the kingdom.
+7. Output: 
+The conflict in this story arises from Zara's rebellion against a world that has banned magic, her quest to uncover her heritage, and her determination to restore magic to the kingdom.
+
+8. Instruction: Correct the spelling errors in the provided text. 
+8. Input: 
+Thier dog is alwasy barking, and they refuze to acknowlidge the anoyance it causes.
+8. Output: 
+Their dog is always barking, and they refuse to acknowledge the annoyance it causes.
+
+9. Instruction: Rearrange the words into a coherent sentence. 
+9. Input: 
+hold as tight, onto horse, he could the
+9. Output: 
+He could hold onto the horse as tight as possible.
+
+10. Instruction: Add punctuation where necessary in the following sentence.
+10. Input: 
+She went to the store bought groceries and cooked dinner
+10. Output: 
+She went to the store, bought groceries, and cooked dinner.
+
+11. Instruction: Provide an antonym for the given word.
+11. Input: 
+approve
+11. Output: 
+disapprove
+
+12. Instruction: What literary device is used in the following sentence: "The wind whispered through the trees."
+12. Input: 
+<noinput>
+12. Output: 
+personification
+
+13. Instruction: Convert the present active verb into passive voice. 
+13. Input: 
+The dog chased the squirrel.
+13. Output:
+The squirrel was chased by the dog.
+
+14. Instruction: Provide the full script name for the given abbreviation. 
+14. Input: 
+Sci-Fi
+14. Output: 
+Science Fiction
+
+15. Instruction: Which historical event is associated with the following quote: "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character."
+15. Input: 
+<noinput>
+15. Output:
+Martin Luther King Jr.'s "I Have a Dream" speech during the Civil Rights Movement.
+
+16. Instruction: Rewrite the sentence into the future perfect tense.
+16. Input:
+She reads the book.
+16. Output:
+She will have read the book.
+
+17. Instruction: Advise on how to properly store wine in order to preserve its quality.
+17. Input: 
+<noinput>
+17. Output:
+To properly store wine and preserve its quality, keep it in a cool, dark place with stable temperature, ideally between 10-15°C (50-59°F). Store the wine bottles on their side to keep the cork moist, and keep the humidity level around 60-70%.
+
+18. Instruction: Summarize the given story.
+18. Input:
+Once upon a time, in a peaceful village, there was a farmer named Jack who lived a simple life. Jack had a cow named Daisy that he loved and cared for. One day, Jack discovered that Daisy could speak, and he decided to share her gift with the village. The people were amazed and Daisy became famous. Jack and Daisy's bond grew stronger as they shared their unique connection with the world.
+18. Output:
+Jack, a farmer, lives a simple life with his beloved cow Daisy. They discover that Daisy can speak and share this gift with their village. Daisy becomes famous and their bond grows stronger.
+
+19. Instruction: Identify the tense of the given verb. 
+19. Input: 
+had written
+19. Output: 
+past perfect
+
+20. Instruction: Translate the following sentence into Spanish: "How are you today?"
+20. Input: 
+<noinput>
+20. Output:
+¿Cómo estás hoy?

@@ -1,0 +1,102 @@
+4. Instruction: Generate a sentence that describes the image. 
+4. Input: 
+Image Description: An elderly couple holding hands while walking on a beach with a sunset in the background. 
+4. Output: 
+An elderly couple taking a romantic evening stroll while holding hands on a beautiful beach with a stunning sunset view. 
+###
+5. Instruction: Correct the punctuation errors in the following sentence.
+5. Input: 
+Sentence: I woke up this morning ate breakfast brushed my teeth and left for work I forgot my lunch at home so I had to order takeout for lunch. 
+5. Output:
+I woke up this morning, ate breakfast, brushed my teeth, and left for work. I forgot my lunch at home, so I had to order takeout for lunch. 
+###
+6. Instruction: Complete the following analogy. 
+6. Input: 
+Analogy: Dog is to bark as cat is to _______.
+6. Output: 
+meow 
+###
+7. Instruction: Generate a rhyming word that fits in the following sentence.
+7. Input: 
+Sentence: The cat chased the ___________.
+7. Output: 
+rat 
+###
+8. Instruction: What is the capital of Australia? 
+8. Input: 
+<noinput>
+8. Output: Canberra 
+###
+9. Instruction: Simplify the following sentence without changing its meaning.
+9. Input: 
+Sentence: It is imperative that you submit the required documents as soon as possible.
+9. Output: 
+You must submit the required documents ASAP. 
+###
+10. Instruction: Generate a paraphrased sentence for the following sentence.
+10. Input: 
+Sentence: The big, grey elephant was walking along the street slowly. 
+10. Output: 
+The large, grey elephant was strolling down the street at a leisurely pace. 
+###
+11. Instruction: Classify the following statement as true or false. 
+11. Input: 
+Statement: Charles Darwin was an English naturalist who developed the theory of evolution by natural selection.
+11. Output: 
+true 
+###
+12. Instruction: Generate a question about the following statement. 
+12. Input: 
+Statement: Elephants are the largest land animals on Earth.
+12. Output: 
+What is the largest land animal on Earth? 
+###
+13. Instruction: Edit the following sentence to correct grammar errors. 
+13. Input: 
+Sentence: Him and me will meet at the park in an hour. 
+13. Output: 
+He and I will meet at the park in an hour. 
+###
+14. Instruction: Explain the given concept in one sentence.
+14. Input: 
+Topic: Cloud computing 
+14. Output: 
+Cloud computing is the delivery of computing services over the internet instead of a physical computer infrastructure. 
+###
+15. Instruction: Complete the sentence with an appropriate word. 
+15. Input: 
+Sentence: The _____ was breathing heavily after running a mile. 
+15. Output: 
+athlete 
+###
+16. Instruction: Generate a sentence that describes the meaning of the given idiom. 
+16. Input: 
+Idiom: To kill two birds with one stone. 
+16. Output: 
+The idiom "to kill two birds with one stone" means to accomplish two tasks with a singular action. 
+###
+17. Instruction: Provide a synonym for the following word. 
+17. Input: 
+Word: Exasperated 
+17. Output: 
+Irritated. 
+###
+18. Instruction: Generate a sentence that uses the word given and conveys its meaning within context. 
+18. Input: 
+Word: Opportunistic 
+18. Output: 
+The opportunistic trader took advantage of the sharp dip in stock prices to make a significant investment. 
+###
+19. Instruction: Suggest an appropriate start to the given conversation. 
+19. Input: 
+Conversation:
+You: Hello Mark, 
+Mark: Hey there, what's up? 
+19. Output: 
+How's your day going? 
+###
+20. Instruction: Correct the spelling errors in the following sentence.
+20. Input: 
+Sentence: The useual soccer practice time is at 4 oclock on weekdays. 
+20. Output: 
+The usual soccer practice time is at 4 o'clock on weekdays.

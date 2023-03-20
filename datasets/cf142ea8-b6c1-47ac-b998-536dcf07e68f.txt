@@ -1,0 +1,107 @@
+4. Instruction: Paraphrase the given sentence.
+4. Input: 
+The heavy rainfall caused flooding in several parts of the city, leading to evacuations and damage to property.
+4. Output: 
+Intense rain resulted in floods across numerous areas of the city, prompting evacuations and harm to properties.
+
+5. Instruction: Describe how to perform a specific exercise.
+5. Input: 
+Push-up.
+5. Output: 
+To perform a push-up, start in a plank position with your hands slightly wider than shoulder-width apart. Keep your body straight and your feet together. Lower your body down by bending your elbows while keeping your core engaged. When your chest is almost touching the ground, push yourself back up to the starting position by straightening your arms. Repeat the movement for the desired number of repetitions.
+
+6. Instruction: Summarize the main idea of the given text.
+6. Input: 
+Poverty is a global issue that affects millions of people worldwide. It is often the result of inequality in social, educational, and economic opportunities, as well as systemic challenges such as inadequate infrastructure or insufficient access to basic human needs like food, clean water, and shelter. Addressing poverty requires a multifaceted approach, which includes implementing policies to close the gap in opportunities and working on a grass-roots level to improve living conditions in impoverished communities. Governments, non-governmental organizations, and individuals all have a role to play in the fight against poverty.
+6. Output: 
+Poverty is a worldwide problem influenced by social, educational, and economic inequalities and systemic challenges. Addressing poverty requires a comprehensive strategy involving policies, grass-roots efforts, and collaboration between governments, NGOs, and individuals.
+
+7. Instruction: Identify the author and the title of the given quote.
+7. Input: 
+"In three words I can sum up everything I've learned about life: it goes on."
+7. Output: 
+Robert Frost, no specific title (quote, not from a work)
+
+8. Instruction: Translate the given text into Spanish.
+8. Input: 
+Please wash your hands before entering the kitchen.
+8. Output: 
+Por favor, lávate las manos antes de entrar en la cocina.
+
+9. Instruction: Write a limerick.
+9. Input: 
+<noinput>
+9. Output: 
+There once was a man from Peru,
+Whose limericks stopped at line two.
+He tried to write more,
+But then felt quite sore,
+So he decided line two would just do.
+
+10. Instruction: Suggest three synonyms for the given word.
+10. Input: 
+happy
+10. Output: 
+joyful, content, delighted
+
+11. Instruction: Correct the grammar and spelling errors in the provided text.
+11. Input: 
+The dog quickly runned to thier owner who had been away for a longtime, wagging it's tail wildly in excitment.
+11. Output: 
+The dog quickly ran to their owner who had been away for a long time, wagging its tail wildly in excitement.
+
+12. Instruction: Explain the meaning of the given proverb.
+12. Input: 
+Every cloud has a silver lining.
+12. Output: 
+The proverb "Every cloud has a silver lining" means that in every difficult or negative situation, there is always a positive aspect or some hope to be found.
+
+13. Instruction: Name two famous painters and one of their most well-known works.
+13. Input: 
+<noinput>
+13. Output: 
+Leonardo da Vinci - Mona Lisa; Vincent van Gogh - The Starry Night
+
+14. Instruction: Help me structure this essay by giving me three main points.
+14. Input: 
+The impact of social media on mental health.
+14. Output: 
+1. The role of social media in promoting unrealistic standards and comparison.
+2. The impact of social media on anxiety and depression.
+3. The relationship between social media usage and self-esteem.
+
+15. Instruction: What are the benefits of aerobic exercise?
+15. Input: 
+<noinput>
+15. Output: 
+Aerobic exercise improves cardiovascular health, lowers blood pressure, increases lung capacity, reduces stress, aids in weight loss, strengthens the immune system, and enhances mood and mental wellbeing.
+
+16. Instruction: Add a concluding sentence to this paragraph.
+16. Input: 
+Volunteering offers numerous benefits to both the individuals volunteering and the communities they serve. It fosters social connections, combats loneliness, and provides an opportunity for personal growth. By devoting time to meeting the needs of others, volunteers develop skills, gain practical experience, and acquire a sense of purpose and fulfilment.
+16. Output: 
+In conclusion, volunteering creates a positive impact on society as a whole, enriching the lives of individuals and strengthening communities through collaborative efforts.
+
+17. Instruction: In which year did the event occur?
+17. Input: 
+Neil Armstrong became the first person to walk on the moon during the Apollo 11 mission.
+17. Output: 
+1969
+
+18. Instruction: List three essential ingredients for a tomato-based pasta sauce.
+18. Input: 
+<noinput>
+18. Output: 
+Tomatoes, garlic, olive oil
+
+19. Instruction: State the breed of the described dog.
+19. Input: 
+The dog is small, weighing between 6 to 7 pounds, and has long, silky hair, which is often styled into a topknot. Its coat comes in various colors, and it is known for its affectionate nature and charming personality.
+19. Output: 
+Shih Tzu
+
+20. Instruction: Explain the key difference between direct and indirect taxes.
+20. Input: 
+<noinput>
+20. Output: 
+The key difference between direct and indirect taxes is that direct taxes are paid directly to the government by the person or entity being taxed, such as income tax, while indirect taxes are collected by an intermediary, such as a retailer, and then paid to the government, like sales tax or value-added tax (VAT).

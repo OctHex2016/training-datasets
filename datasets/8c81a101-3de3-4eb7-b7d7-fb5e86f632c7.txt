@@ -1,0 +1,104 @@
+4. Instruction: Generate a short story about a family who discovers a hidden treasure in their backyard.
+4. Input: 
+<noinput>
+4. Output: 
+The family had always known there was something mysterious about the large oak tree in their backyard. As they dug around the roots, they discovered an old chest with a lock that had rusted shut. With some work, they managed to break it open and inside they found a treasure map leading to a long-lost pirate hoard. They set out on a wild adventure, traveling across oceans and facing many challenges to uncover the treasure and learn about the history of the pirates along the way.
+### 
+5. Instruction: Correct the spelling mistakes in the sentence below:
+5. Input: 
+I realy appreaciate you're helpfull advise, it is very greatful of you.
+5. Output: 
+I really appreciate your helpful advice. It is very grateful of you.
+### 
+6. Instruction: Convert the given temperature from Celsius to Fahrenheit. 
+6. Input: 
+Temperature in Celsius: 25
+6. Output: 
+Temperature in Fahrenheit: 77
+### 
+7. Instruction: Write a summary of the article provided below in 2-3 sentences.
+7. Input: 
+Article: https://www.bbc.com/news/world-asia-china-59146249
+7. Output: 
+China has now officially surpassed the US and become the largest trading partner to the EU. Imports and exports between China and the EU reached a staggering $709 billion between January and August of this year, surging nearly 25% since last year. This landmark shift in global economic power may have significant implications for world countries in the coming years.
+### 
+8. Instruction: Generate a caption for the given image:
+8. Input: 
+Image: https://www.nationalgeographic.com/content/dam/travel/rights-exempt/Travel-2021/Most-Affordable-Cities/bucharest-romania-affordable-city-2.ngsversion.1658893777508.adapt.1900.1.JPG
+8. Output: 
+Bucharest's stunning architecture and vibrant culture make it a top affordable European city to visit.
+### 
+9. Instruction: What is the capital city of Australia?
+9. Input: 
+<noinput>
+9. Output: 
+The capital city of Australia is Canberra.
+### 
+10. Instruction: Change the voice of the sentence from active to passive.
+10. Input: 
+The company developed a new technology for cleaning water.
+10. Output: 
+A new technology for cleaning water was developed by the company.
+### 
+11. Instruction: What is the definition of "onomatopoeia"?
+11. Input: 
+<noinput>
+11. Output: 
+Onomatopoeia is a word that imitates or suggests the source of the sound that it describes.
+### 
+12. Instruction: Create a poem about autumn.
+12. Input: 
+<noinput>
+12. Output: 
+Golden leaves cascade through the trees,
+As autumn winds start to cool the breeze.
+Pumpkins ripen and spices fill the air,
+In this season of change, it's impossible not to care.
+### 
+13. Instruction: What is the chemical formula for water?
+13. Input: 
+<noinput>
+13. Output: 
+The chemical formula for water is H2O.
+### 
+14. Instruction: List the 5 oceans in order of their size from largest to smallest.
+14. Input: 
+<noinput>
+14. Output: 
+The 5 oceans in order of their size, from largest to smallest, are the Pacific, Atlantic, Indian, Southern (Antarctic) and Arctic Oceans.
+### 
+15. Instruction: Rearrange the words in the sentence below to form a grammatically correct sentence:
+15. Input: 
+studies / show / social media / negatively / impact / mental health / on our
+15. Output: 
+Studies show that social media has a negative impact on our mental health.
+### 
+16. Instruction: What is the full name of the author who wrote "The Great Gatsby"?
+16. Input: 
+<noinput>
+16. Output: 
+The full name of the author who wrote "The Great Gatsby" is F. Scott Fitzgerald.
+### 
+17. Instruction: Correct the grammar mistakes in the sentence below:
+17. Input: 
+Me and him went to the store to buy some milk.
+17. Output: 
+He and I went to the store to buy some milk.
+### 
+18. Instruction: Generate a sentence using an alliteration, where each word starts with the same letter.
+18. Input: 
+<noinput>
+18. Output: 
+Ginny's great-grandmother gratefully gave her a gorgeous garnet necklace.
+### 
+19. Instruction: What is the cube root of 125?
+19. Input: 
+<noinput>
+19. Output: 
+The cube root of 125 is 5.
+### 
+20. Instruction: Edit the provided sentence to make it more concise, while retaining the same meaning. 
+20. Input: 
+There are many different methods and approaches to studying a foreign language, such as listening to music, watching videos, practicing conversation, reading books, and taking classes.
+20. Output: 
+There are many approaches to studying a foreign language, such as listening, watching, practicing, reading, and taking classes.

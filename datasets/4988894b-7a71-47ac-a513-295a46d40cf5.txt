@@ -1,0 +1,122 @@
+4. Instruction: Summarize the main message of the given news article. 
+4. Input: 
+Article: "Protests continue in the streets of the United States following the death of George Floyd. The charged officer, Derek Chauvin, has been arrested and charged with third-degree murder and manslaughter. Many are calling for justice and systemic change."
+4. Output: 
+The news article reports on ongoing protests in the US as a response to the death of George Floyd. Derek Chauvin has been arrested and charged, but calls for justice and systemic change continue. 
+###
+5. Instruction: Generate a sentence using the given phrase "into the wild". 
+5. Input: 
+<noinput>
+5. Output: 
+Two days later, Chris drove out into the wild, pitched his tent in a traditional Indian camping ground. 
+###
+6. Instruction: Reorder the given sentence into a grammatically correct sentence.
+6. Input: 
+the / brown / quick / jumps / fox / over / lazy / dog / the
+6. Output: 
+The quick brown fox jumps over the lazy dog.
+###
+7. Instruction: Given a poem or a song's lyrics, identify the figure of speech used in each line.
+7. Input: 
+"Life is a journey, enjoy the ride."
+7. Output: 
+The figure of speech used in this line is a metaphor.
+###
+8. Instruction: Write a Twitter post about a recent movie that you've watched.
+8. Input: 
+Movie: The Little Women
+8. Output: 
+Just watched The Little Women and it's worth all the hype! The story and performances are amazing. #TheLittleWomen #mustwatch
+###
+9. Instruction: Rearrange the given set of pictures based on a timeline or a story sequence.
+9. Input: 
+[Set of pictures of a recipe for lasagna]
+9. Output: 
+[Picture 1: Preheat the oven to 375°F]
+[Picture 2: Cook the lasagna noodles until they’re flexible but not too soft]
+[Picture 3: Mix together the ricotta cheese, egg, salt, and chopped parsley]
+[Picture 4: Ladle some sauce into the bottom of a baking dish]
+[Picture 5: Layer lasagna noodles, a thin layer of ricotta mixture, sauce, and shredded mozzarella cheese]
+[Picture 6: Repeat the layering process once or twice more]
+[Picture 7: Top with another layer of lasagna noodles, a little more sauce and a layer of mozzarella]
+[Picture 8: Bake for 25 minutes or until bubbly]
+###
+10. Instruction: Given a list of words or phrases, identify their synonyms.
+10. Input: 
+Words: happy, glad, ecstatic, joyful, elated
+10. Output: 
+Synonyms: content, pleased, thrilled, delighted, ecstatic 
+### 
+11. Instruction: Write a product review for a recent purchase you've made online.
+11. Input: 
+Product:  AirPods Pro 
+11. Output: 
+I've been using AirPods Pro for a week now and I'm completely in love with them. The noise cancellation feature is amazing and the sound quality is just unbeatable. They fit perfectly in my ears too! Truly a great purchase. 
+###
+12. Instruction: Given a set of multiple choice questions, identify the correct answer.
+12. Input: 
+Q: Which country gifted the Statue of Liberty to the US?
+    A. France
+    B. England
+    C. Italy
+    D. Spain
+12. Output: 
+The correct answer is: A. France.
+###
+13. Instruction: Identify the odd one out in a given set of words.
+13. Input: 
+Words: Apple, Banana, Orange, Cherry, Carrot
+13. Output: 
+The odd one out is: Carrot.
+###
+14. Instruction: Rewrite the given sentence in the passive voice.
+14. Input: 
+"Thomas Edison invented the light bulb."
+14. Output: 
+The light bulb was invented by Thomas Edison.
+###
+15. Instruction: Identify the subject and the object of the given sentence.
+15. Input: 
+"The dog chased the cat around the garden."
+15. Output: 
+Subject: The dog
+Object: The cat
+###
+16. Instruction: Correct the spelling mistakes in the given sentence.
+16. Input: 
+"I recevied your massage loud and clear."
+16. Output: 
+"I received your message loud and clear."
+###
+17. Instruction: Write a recipe for a simple fruit smoothie.
+17. Input: 
+Fruits: Banana, Strawberry
+17. Output: 
+Ingredients:
+- 1 ripe banana
+- 5-6 fresh strawberries
+- 1 cup of milk
+- 1 tablespoon honey (optional)
+Instructions:
+1. Slice the fruits into small pieces.
+2. Add the fruits, milk, and honey (if using) into a blender and blend them until smooth.
+3. If the consistency of the smoothie is too thick, add more milk as needed.
+4. Pour the smoothie into a glass and serve immediately.
+###
+18. Instruction: Rewrite the given sentence in a different verb tense.
+18. Input: 
+"I eat breakfast every morning at 7am."
+18. Output: 
+"I will eat breakfast every morning at 7am."
+###
+19. Instruction: Given a paragraph, extract the main idea and summarize it in one sentence.
+19. Input: 
+Paragraph: "The scientific community has yet to come to a consensus about the origins of life on earth, but there are multiple theories that have been proposed. One of the most accepted theories is the RNA World hypothesis, which suggests that RNA molecules were the precursors to life forms, and that they evolved over time to form DNA-based life."
+19. Output:
+The paragraph discusses the theories about the origins of life on earth, with the RNA World hypothesis being one of the most accepted ones. 
+###
+20. Instruction: Given a list of animals, identify their habitats.
+20. Input: 
+Animals:  Tigers, Penguins, Antelopes, Elephants, Kangaroos
+20. Output: 
+Habitats: Forests and grasslands, Oceans and ice fields, Savannas and deserts, Forests and grasslands, Grasslands and deserts.

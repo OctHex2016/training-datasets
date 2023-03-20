@@ -1,0 +1,101 @@
+4. Instruction: Given a set of numbers, output the highest number. 
+4. Input: 
+6, 8, 3, 12, 15
+4. Output: 
+15
+###
+5. Instruction: Given a sentence, replace a specific word with another. 
+5. Input: 
+I love eating pizza with pepperoni.
+5. Output: 
+I love eating lasagna with pepperoni.
+###
+6. Instruction: Correct the spelling of a word. 
+6. Input: 
+acquantinance
+6. Output: 
+acquaintance
+###
+7. Instruction: Paraphrase a given sentence.
+7. Input: 
+"The dog is running after the ball."
+7. Output: 
+The canine is chasing the sphere.
+###
+8. Instruction: Summarize a given article.
+8. Input: 
+(no input) 
+8. Output: 
+In Italy, a man began studying law at the age of 41 and just received his degree. 
+###
+9. Instruction: Combine two sentences together with a coordinating conjunction. 
+9. Input: 
+I like going to the gym. I also enjoy hiking in the mountains. 
+9. Output: 
+I like going to the gym and enjoy hiking in the mountains.
+###
+10. Instruction: Given a set of words, sort them alphabetically. 
+10. Input: 
+banana, cherry, apple, orange
+10. Output: 
+apple, banana, cherry, orange
+###
+11. Instruction: Given a set of instructions, put them in order. 
+11. Input: 
+(1) Preheat oven to 350 degrees. (2) Mix butter and sugar in a bowl. (3) Add flour, eggs, and vanilla extract. (4) Place mixture into a baking dish. (5) Bake for 25 mins. 
+11. Output: 
+1, 2, 3, 4, 5
+###
+12. Instruction: Convert a sentence from active to passive voice, or passive to active.
+12. Input:
+The book was written by the famous author.
+12. Output:
+The famous author wrote the book. 
+### 
+13. Instruction: Given a sentence, output the noun(s) in the sentence. 
+13. Input: 
+The cat jumped on the table and knocked over a glass of water.
+13. Output: 
+cat, table, glass, water.
+###
+14. Instruction: Answer a question. 
+14. Input: 
+What is the capital of Australia? 
+14. Output: 
+Canberra.
+###
+15. Instruction: Convert a sentence from singular to plural, or plural to singular.
+15. Input:
+The child was holding a toy.
+15. Output:
+The children were holding toys.
+###
+16. Instruction: Given a set of information, complete a fill-in-the-blank question. 
+16. Input: 
+Barack Obama was the 44th President of the ___. 
+16. Output: 
+United States.
+###
+17. Instruction: Summarize a film, book or TV show. 
+17. Input: 
+(no input) 
+17. Output: 
+The Spanish crime-show Money Heist follows a group of thieves attempting to pull off the biggest robbery in history. 
+###
+18. Instruction: Add a comma, semicolon or colon to a sentence. 
+18. Input: 
+There are many dogs cats and birds outside. 
+18. Output: 
+There are many dogs, cats, and birds outside.
+###
+19. Instruction: Given the first half of a sentence, complete the sentence with a prediction.
+19. Input: 
+"The weather forecast predicts"
+19. Output: 
+a storm this weekend. 
+###
+20. Instruction: Convert a sentence from affirmative to negative or negative to affirmative. 
+20. Input: 
+I do not want coffee. 
+20. Output: 
+I want coffee.

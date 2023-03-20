@@ -1,0 +1,113 @@
+4. Instruction: Translate the following sentence into Japanese.
+4. Input: 
+I am planning to visit Japan next summer.
+4. Output: 
+来年の夏に日本を訪れる予定です。
+
+5. Instruction: Choose the correct answer.
+5. Input: 
+Which bird is the national symbol of the United States?
+a) Eagle
+b) Peacock
+c) Penguin
+d) Sparrow
+5. Output: 
+a) Eagle
+
+6. Instruction: Rearrange the following words to form a meaningful sentence.
+6. Input: 
+monitors she developing market the new trends carefully is for products
+6. Output: 
+She is carefully monitoring the market for new products and developing trends.
+
+7. Instruction: Provide a brief summary of the following text.
+7. Input: 
+Influencer marketing has become one of the most popular techniques for promoting goods and services. By collaborating with influencers, businesses can reach their target audience, increase brand awareness, and improve sales. An influencer is a person who has a large following on social media platforms and can affect the purchasing decisions of their followers. Businesses often give free products to influencers to promote or pay them for sponsored posts. According to a report, the influencer marketing industry is expected to grow at a compound annual growth rate (CAGR) of 32% from 2021 to 2025.
+7. Output: 
+Influencer marketing is a highly effective advertising strategy, involving collaboration with popular social media figures to reach target demographics, boost brand awareness, and drive sales. The industry is projected to grow at a 32% CAGR between 2021 and 2025.
+
+8. Instruction: Explain the concept.
+8. Input: 
+<noinput>
+8. Output: 
+An instruction is not provided. Please provide an instruction.
+
+9. Instruction: Identify the total number of syllables in the following sentence.
+9. Input: 
+The garden, filled with colorful flowers, attracts many bees and butterflies.
+9. Output: 
+16
+
+10. Instruction: Identify the type of figurative language used in this sentence.
+10. Input: 
+Her eyes sparkled like stars in the night sky.
+10. Output: 
+Simile
+
+11. Instruction: Recommend a vegetarian main dish for dinner.
+11. Input: 
+<noinput>
+11. Output: 
+Eggplant Parmesan
+
+12. Instruction: Generate an acrostic poem using the word "ADVENTURE".
+12. Input: 
+<noinput>
+12. Output: 
+Awe-inspiring sights
+Diverse landscapes to explore
+Venturing into the unknown
+Endless possibilities
+New experiences calling
+Trekking over mountains high
+Under starry skies we rest
+Roaming the earth with excitement
+Embracing life's great journey
+
+13. Instruction: Briefly describe the process of photosynthesis.
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into energy-rich glucose (sugar) and oxygen. This process occurs primarily in specialized plant cells called chloroplasts, which contain the green pigment chlorophyll that captures sunlight for energy.
+
+14. Instruction: Compare and contrast hurricanes and tornadoes.
+14. Input: 
+<noinput>
+14. Output: 
+Hurricanes and tornadoes are both types of severe weather events, but they differ in several ways. Hurricanes are large-scale, tropical cyclonic storms that form over warm ocean waters, whereas tornadoes are smaller, rapidly rotating columns of air that usually develop within thunderstorms over land. Hurricanes generally have a longer duration, lasting days or even weeks, while tornadoes are comparatively short-lived, typically lasting minutes to hours. The damage caused by hurricanes is primarily due to strong winds, storm surges, and heavy rainfall, while tornadoes cause damage through intense localized winds.
+
+15. Instruction: Create a motivational quote about overcoming challenges.
+15. Input: 
+<noinput>
+15. Output: 
+"Embrace the storms of life, for it is within them that we discover the strength to conquer any challenge."
+
+16. Instruction: Fact-check the statement.
+16. Input: 
+Albert Einstein was awarded the Nobel Prize in Literature in 1921.
+16. Output: 
+False. Albert Einstein was awarded the Nobel Prize in Physics in 1921.
+
+17. Instruction: Restate the given sentence in passive voice.
+17. Input: 
+The company hired 50 new employees last week.
+17. Output: 
+50 new employees were hired by the company last week.
+
+18. Instruction: Suggest an activity to help relieve stress.
+18. Input: 
+<noinput>
+18. Output: 
+Yoga
+
+19. Instruction: What does the abbreviation "ASAP" stand for?
+19. Input: 
+<noinput>
+19. Output: 
+As Soon As Possible
+
+20. Instruction: Edit the following text for grammar and punctuation errors.
+20. Input: 
+she said that the sun could light up the whole worl!; then tell me, why does it get dark at nigt?
+20. Output: 
+She said that the sun could light up the whole world! Then, tell me, why does it get dark at night?

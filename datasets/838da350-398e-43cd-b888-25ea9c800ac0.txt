@@ -1,0 +1,119 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input: 
+The teacher explained the new lesson to the students.
+4. Output: 
+The new lesson was explained to the students by the teacher.
+###
+5. Instruction: Summarize the input text in no more than 30 words.
+5. Input:
+Global warming is having a significant impact on Earth's ecosystems. The Polar Regions are particularly vulnerable, as rising temperatures are causing the glaciers to melt at an alarming rate. This, in turn, leads to rising sea levels and the loss of habitat for many species, such as the polar bear. Warmer temperatures are also causing a shift in global weather patterns, leading to more severe weather events, such as hurricanes and droughts. In order to mitigate these effects, it is essential that we take immediate action to reduce the production of greenhouse gases.
+5. Output:
+Global warming affects Earth's ecosystems, particularly the Polar Regions, causing glacier melting, rising sea levels, and habitat loss. It shifts weather patterns, leading to severe events. Immediate action to reduce greenhouse gas production is vital.
+###
+6. Instruction: Can you translate the following sentence into French?
+6. Input:
+Where is the nearest train station?
+6. Output:
+Où se trouve la gare la plus proche?
+###
+7. Instruction: Write a short poem about a rainy day.
+7. Input:
+<noinput>
+7. Output:
+Pitter patter on the roof,
+Raindrops dance with gentle hoof,
+Grey skies blanket all above,
+Nature whispers, like a dove.
+
+Puddles shimmer, water play,
+Droplets form a grand ballet,
+Petrichor, earth's perfume,
+A rainy day, nature's bloom.
+###
+8. Instruction: Compare and contrast photosynthesis and cellular respiration.
+8. Input:
+<noinput>
+8. Output:
+Photosynthesis occurs in plants, converting sunlight, water, and carbon dioxide into glucose and oxygen. It takes place in chloroplasts and is an endothermic process. Cellular respiration occurs in all living cells and converts glucose and oxygen into energy, carbon dioxide, and water. It takes place in mitochondria and is an exothermic process. Both processes are vital for life and form a cycle, with photosynthesis producing the reactants for cellular respiration, and cellular respiration producing the reactants for photosynthesis.
+###
+9. Instruction: Create a fictional character and provide a brief description.
+9. Input:
+<noinput>
+9. Output:
+Name: Arabelle Ophira
+Age: 28
+Occupation: Antique Bookshop Owner
+
+Arabelle Ophira is a delightful and enigmatic woman, known for her striking violet eyes and endless curiosity. Owning a cozy antique bookshop in a small coastal town, she uncovers long-hidden secrets and treasures within the dusty pages of her inventory. With a love for folklore, she often finds herself entangled in mysterious adventures.
+###
+10. Instruction: Write a news headline for the given story.
+10. Input:
+Scientists from a renowned university have successfully developed a drone that can plant trees in hard-to-reach areas, such as steep slopes and mountainous regions. The drone, which can significantly increase the speed of reforestation, is expected to contribute to combating deforestation and climate change.
+10. Output:
+Innovative Drone Revolutionizes Reforestation Efforts, Fighting Deforestation and Climate Change
+###
+11. Instruction: Which historical event took place on July 20, 1969?
+11. Input:
+<noinput>
+11. Output:
+Apollo 11 moon landing: Neil Armstrong and Buzz Aldrin became the first humans to set foot on the moon on July 20, 1969.
+###
+12. Instruction: Create a relevant marketing slogan for a newly released fitness app.
+12. Input: 
+<noinput>
+12. Output:
+Your Journey to a Healthier You, One Step at a Time!
+###
+13. Instruction: Name two potential benefits of exercise on mental health.
+13. Input:
+<noinput>
+13. Output:
+1. Reduced stress and anxiety.
+2. Improved mood and increased production of feel-good hormones, such as endorphins.
+###
+14. Instruction: Provide an example of a metaphor.
+14. Input:
+<noinput>
+14. Output:
+Her eyes were shining stars in the night sky.
+###
+15. Instruction: Choose the best alternative title for the novel "To Kill a Mockingbird" by Harper Lee.
+15. Input: 
+A) Chasing Mockingbirds
+B) The Story of Scout
+C) The Loss of Innocence
+D) Southerners' Struggles
+15. Output:
+C) The Loss of Innocence
+###
+16. Instruction: Find a grammatical error in the provided sentence and correct it.
+16. Input:
+She went to the store, and then realized her keys were still locked inside her car.
+16. Output:
+She went to the store and then realized her keys were still locked inside her car.
+###
+17. Instruction: How many days are there in a leap year?
+17. Input:
+<noinput>
+17. Output:
+There are 366 days in a leap year.
+###
+18. Instruction: Write a brief film synopsis for a romantic comedy.
+18. Input:
+<noinput>
+18. Output:
+Love, Laughter, and Lattes follows the charming and messy journey of two baristas, Ellie and Tom, who find themselves falling in love despite a string of comedic misunderstandings and mix-ups. As they navigate the chaotic world of coffee, friendships, and rivalries, they'll discover that sometimes the perfect blend was right under their noses all along.
+###
+19. Instruction: Identify the literary device used in the following sentence: "The sunflower stretched its golden arms towards the sky."
+19. Input:
+<noinput>
+19. Output:
+Personification
+###
+20. Instruction: Write a haiku about autumn.
+20. Input:
+<noinput>
+20. Output:
+Crimson leaves cascade,
+Whispers in the cool, crisp air,
+Autumn's sweet embrace.

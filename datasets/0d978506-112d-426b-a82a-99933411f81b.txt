@@ -1,0 +1,122 @@
+4. Instruction: Generate a paragraph summarizing the key points of a news article. 
+4. Input: 
+Article title: "New Covid variant discovered in South Africa"
+4. Output: 
+Scientists have discovered a new Covid variant in South Africa which they say is more infectious and resistant to current vaccines. The strain carries many mutations including the E484K mutation which has been seen in other variants. The South African government has responded by imposing lockdowns and travel restrictions in affected areas.
+###
+5. Instruction: Give me a list of the top tourist attractions in Paris. 
+5. Input: 
+<noinput>
+5. Output:
+The Louvre Museum, Eiffel Tower, Notre-Dame Cathedral, Château de Versailles, Montmartre & the Sacré-Coeur Basilica, Musée d'Orsay, Arc de Triomphe and the Avenue des Champs-Élysées, Seine River Cruises, Centre Pompidou, Palace of Versailles
+###
+6. Instruction: Write a sentence describing an image in the input. 
+6. Input: 
+Image description: A dog jumping over a fence in a park during the daytime.
+6. Output:
+The energetic dog gracefully leaps over the fence, its fur tousled by the wind as it soars through the air.
+###
+7. Instruction: Generate a two-ingredient recipe for a protein shake.
+7. Input: 
+Protein powder and milk.
+7. Output: 
+Add one scoop of protein powder to a blender with 8 ounces of milk. Blend until smooth and enjoy your high-protein shake!
+###
+8. Instruction: Provide three examples of popular fiction books. 
+8. Input: 
+<noinput>
+8. Output: 
+To Kill a Mockingbird by Harper Lee, 1984 by George Orwell, and Harry Potter and the Philosopher's Stone by J.K. Rowling are all popular fiction books.
+###
+9. Instruction: Edit the given sentence to be in the past tense.
+9. Input: 
+He walks to the store to pick up some groceries.
+9. Output: 
+He walked to the store to pick up some groceries.
+###
+10. Instruction: Generate a description of a hiking trail. 
+10. Input: 
+Trail name: Angels Landing, Zion National Park
+10. Output: 
+Angels Landing is a popular and challenging trail in Zion National Park. The trail is a 5.4-mile round trip hike that begins at the Grotto Trailhead, and features steep switchbacks, narrow ridge lines and stunning views from the top. It is definitely not for the faint of heart!
+###
+11. Instruction: Write the full name of a famous actor born in a given year. 
+11. Input: 
+Year of birth: 1965
+11. Output:
+Robert Downey Jr. is a famous actor born in 1965.
+###
+12. Instruction: Summarize the key benefits of learning a new language. 
+12. Input: 
+<noinput>
+12. Output: 
+Learning a new language can open up a world of opportunities, from fostering new friendships to improving career prospects. It also has cognitive benefits, including improved memory and attention span, and can help to keep your brain healthy as you age.
+###
+13. Instruction: Write a sentence that includes the word "ubiquitous". 
+13. Input: 
+<noinput>
+13. Output:
+Smartphones have become ubiquitous in modern society, changing the way we communicate and connect with one another.
+###
+14. Instruction: Identify the author of a given book. 
+14. Input: 
+Book title: "The Great Gatsby"
+14. Output: 
+F. Scott Fitzgerald is the author of "The Great Gatsby".
+###
+15. Instruction: Generate a list of ingredients and directions for a vegetarian pasta dish. 
+15. Input: 
+<noinput>
+15. Output:
+Ingredients:
+- 12 ounces pasta 
+- 2 tablespoons olive oil 
+- 1 small onion, diced 
+- 3 cloves garlic, minced 
+- 1 small jar sun-dried tomatoes, drained and chopped 
+- 1 can artichoke hearts, drained and chopped 
+- 1/4 cup kalamata olives, pitted and chopped 
+- 1/2 cup vegetable broth 
+- 1/4 cup grated Parmesan cheese 
+- Fresh basil, chopped 
+Directions:
+1. Cook the pasta according to package instructions.
+2. In a separate pan, heat the olive oil over medium heat. Add the onion and garlic and sauté for about 3 minutes, until fragrant.
+3. Add the sun-dried tomatoes, artichoke hearts, and olives to the pan and stir well.
+4. Pour in the vegetable broth and let the mixture simmer for about 5 minutes.
+5. Add the cooked pasta to the pan and toss to combine.
+6. Sprinkle with Parmesan cheese and fresh basil and serve.
+###
+16. Instruction: Analyze a given sentence to identify its constituent parts. 
+16. Input: 
+Sentence: "The quick brown fox jumps over the lazy dog."
+16. Output:
+Noun phrase: the quick brown fox
+Verb phrase: jumps over the lazy dog
+Subjects: fox, dog
+Verb: jumps
+Object: the lazy dog
+###
+17. Instruction: Write a sentence using figurative language. 
+17. Input: 
+<noinput>
+17. Output:
+The autumn leaves danced and twirled in the wind, a colorful chorus performing for the changing season.
+###
+18. Instruction: Provide an example of a famous invention that changed the world. 
+18. Input: 
+<noinput>
+18. Output:
+The internet is a famous invention that changed the world, revolutionizing the way we communicate and access information.
+###
+19. Instruction: Generate a list of top-rated movies of all time based on IMDB ratings. 
+19. Input: 
+<noinput>
+19. Output:
+The Shawshank Redemption, The Godfather, The Dark Knight, 12 Angry Men, Schindler's List, The Lord of the Rings: The Return of the King, Pulp Fiction, The Good, the Bad and the Ugly, Fight Club, Forrest Gump.
+###
+20. Instruction: Write a sentence about yourself, describing one of your hobbies. 
+20. Input: 
+<noinput>
+20. Output:
+In my free time, I enjoy hiking and exploring the beautiful natural areas around where I live.

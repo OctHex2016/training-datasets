@@ -1,0 +1,117 @@
+4. Instruction: Rewrite the text in passive voice.
+4. Input: 
+The cat chased the mouse through the garden.
+4. Output: 
+The mouse was chased by the cat through the garden.
+###
+5. Instruction: What musical instrument is commonly associated with the tango?
+5. Input: 
+<noinput>
+5. Output: 
+Bandoneon
+###
+6. Instruction: Suggest three occupations that primarily deal with animals.
+6. Input: 
+<noinput>
+6. Output: 
+1. Veterinarian
+2. Zoologist
+3. Wildlife rehabilitor
+###
+7. Instruction: From the given poem, identify the rhyme scheme.
+7. Input: 
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+
+7. Output: 
+A B A A
+###
+8. Instruction: Translate the following English text to French.
+8. Input: 
+Hello, my name is John. I would like to learn French.
+8. Output: 
+Bonjour, je m'appelle John. J'aimerais apprendre le français.
+###
+9. Instruction: Identify the tone (formal, informal, or neutral) of this email message.
+9. Input: 
+Hey Julie,
+
+What's up? I was thinking it'd be awesome to catch up soon. How about grabbing coffee sometime next week?
+
+Cheers,
+Mark
+
+9. Output: 
+informal
+###
+10. Instruction: Briefly explain the purpose of a thesis statement in an essay.
+10. Input: 
+<noinput>
+10. Output: 
+The purpose of a thesis statement in an essay is to convey the main idea or argument of the essay and to provide a roadmap for the readers to follow throughout the essay.
+###
+11. Instruction: Proofread this paragraph and correct any grammatical or punctuation errors.
+11. Input: 
+I have a question for you, there is a situation, that has recently arose in my office. Apparently somone has been steeling food from the fridge. Weather it's a sandwich or a container of hummus, we need a solution to this problam. Do you have any recomendations?
+
+11. Output: 
+I have a question for you. There is a situation that has recently arisen in my office. Apparently, someone has been stealing food from the fridge. Whether it's a sandwich or a container of hummus, we need a solution to this problem. Do you have any recommendations?
+###
+12. Instruction: Write a short summary of the main events in "Romeo and Juliet" by William Shakespeare.
+12. Input: 
+<noinput>
+12. Output: 
+In "Romeo and Juliet," two young lovers from feuding families, the Montagues and Capulets, meet and fall in love at a masquerade ball. They secretly marry but are soon separated due to Romeo killing Tybalt, a Capulet, in a street fight, resulting in his banishment. Juliet, devastated, takes a sleeping potion to fake her death in order to be reunited with Romeo. Romeo, unaware of the plan, believes she is truly dead and takes a poison to die by her side. Upon awakening, Juliet discovers Romeo's corpse and takes her own life. Their tragic deaths ultimately unite the feuding families.
+###
+13. Instruction: Recommend a famous painting from the Baroque art movement.
+13. Input: 
+<noinput>
+13. Output: 
+"Judith Slaying Holofernes" by Artemisia Gentileschi.
+###
+14. Instruction: Calculate the area of a rectangle with a length of 12 meters and a width of 7 meters.
+14. Input: 
+<noinput>
+14. Output: 
+84 square meters
+###
+15. Instruction: Explain the greenhouse effect in simple terms.
+15. Input: 
+<noinput>
+15. Output: 
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere, like carbon dioxide and methane, trap heat from the Sun, making the planet warmer. These gases act like a blanket or a greenhouse, allowing sunlight to pass through while holding in heat to maintain a stable temperature. However, an increase in these gases due to human activities can lead to excessive warming, causing climate change.
+###
+16. Instruction: Arrange these events in chronological order: Battle of Hastings, Magna Carta signed, American Revolution, and the invention of the printing press.
+16. Input: 
+<noinput>
+16. Output: 
+1. Battle of Hastings
+2. Magna Carta signed
+3. Invention of the printing press
+4. American Revolution
+###
+17. Instruction: What is the primary function of carbohydrates in the human body?
+17. Input: 
+<noinput>
+17. Output: 
+The primary function of carbohydrates in the human body is to provide energy.
+###
+18. Instruction: Generate a creative tagline for a new brand of eco-friendly toothpaste.
+18. Input: 
+<noinput>
+18. Output: 
+"Smile Confidently, Protect Our Planet!"
+###
+19. Instruction: In an unbiased manner, summarize the main arguments of both proponents and opponents of gun control.
+19. Input: 
+<noinput>
+19. Output: 
+Proponents of gun control argue that stricter regulations on firearm purchases and ownership, including background checks, waiting periods, and restrictions on certain types of firearms, can help reduce gun violence, mass shootings, and accidental injuries or deaths. Opponents of gun control believe that citizens have a fundamental right to protect themselves and that gun control measures infringe on individual liberties enshrined in the Second Amendment. They argue that such measures are often ineffective, as criminals tend to bypass legal channels, and that focusing on mental health and enforcing existing laws would be more effective in reducing gun-related crime.
+###
+20. Instruction: Provide a concise explanation of the term "opportunity cost" from an economic perspective.
+20. Input: 
+<noinput>
+20. Output: 
+Opportunity cost is an economic concept that represents the value of the next best alternative that is foregone when making a choice, indicating the trade-offs involved in any decision-making process.

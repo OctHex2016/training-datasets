@@ -1,0 +1,129 @@
+4. Instruction: Translate the text from English to French.
+4. Input: 
+The weather today is sunny and warm.
+4. Output:
+Le temps aujourd'hui est ensoleillé et chaud.
+
+###
+5. Instruction: Write a brief news article summary about a landslide that occurred due to heavy rains.
+5. Input: 
+<noinput>
+5. Output:
+A massive landslide occurred in the mountainous region yesterday as a consequence of the continuous heavy rains over the past week. Numerous houses and infrastructure were severely damaged, necessitating the evacuation of at least 50 families to safer grounds. Local authorities have implemented emergency protocols to ensure the safety of the affected residents and are now working together with the national government to provide urgent assistance and assess the total extent of the damages.
+
+###
+6. Instruction: Rewrite the following sentence in passive voice.
+6. Input: 
+The new technology has transformed the way people work.
+6. Output:
+The way people work has been transformed by the new technology.
+
+###
+7. Instruction: Explain the term "net neutrality" in simple terms.
+7. Input: 
+<noinput>
+7. Output:
+Net neutrality is the principle that all internet traffic should be treated equally, so internet service providers (ISPs) cannot discriminate against or favor specific websites or content. This ensures that users have the freedom to access any legal content or service they want and promotes fair competition among online businesses.
+
+###
+8. Instruction: Is the mitochondria found in plant or animal cells? 
+8. Input: 
+<noinput>
+8. Output:
+The mitochondria are found in both plant and animal cells.
+
+###
+9. Instruction: Summarize the given paragraph while retaining its key information. 
+9. Input: 
+The first telephone was invented by Alexander Graham Bell in 1876. The device was quite amazing to people at that time, as it enabled them to communicate with each other over long distances. Initially, Bell's invention was reserved for the rich and powerful, but it soon became more widely available. Over time, the telephone evolved and became more advanced, leading to the development of cordless phones and eventually the ubiquitous smartphones we have today. Technological advancements have completely changed the way we communicate, as mobile phones are no longer just for voice calls but also include messaging, video calling, and internet browsing capabilities.
+9. Output:
+Alexander Graham Bell invented the first telephone in 1876, allowing long-distance communication. Originally a luxury for the elite, it soon became widespread. The telephone underwent numerous advancements, including cordless phones and modern smartphones, which now offer diverse communication methods, such as messaging, video calling, and internet browsing.
+
+###
+10. Instruction: What was the main cause of World War I?
+10. Input: 
+<noinput>
+10. Output:
+The main cause of World War I was a complex web of political, economic, and military tensions, but the triggering event was the assassination of Archduke Franz Ferdinand of Austria by a Serbian nationalist on June 28, 1914.
+
+###
+11. Instruction: List some common examples of greenhouse gases.
+11. Input: 
+<noinput>
+11. Output:
+1. Carbon dioxide (CO2)
+2. Methane (CH4)
+3. Nitrous oxide (N2O)
+4. Fluorinated gases
+5. Water vapor
+
+###
+12. Instruction: Correct any grammatical mistakes in the following sentence.
+12. Input: 
+Me and my sister enjoys going to the movie theater on weekends.
+12. Output:
+My sister and I enjoy going to the movie theater on weekends.
+
+###
+13. Instruction: Briefly describe the process of photosynthesis.
+13. Input:
+<noinput>
+13. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose. It involves absorbing sunlight using chlorophyll in the chloroplasts, taking in carbon dioxide from the air through stomata, and collecting water from the roots. The light energy is used to combine carbon dioxide and water molecules to produce glucose and oxygen. The glucose is then used for growth, while the oxygen is released back into the atmosphere.
+
+###
+14. Instruction: Name the four types of teeth found in humans.
+14. Input:
+<noinput>
+14. Output:
+1. Incisors
+2. Canines
+3. Premolars
+4. Molars
+
+###
+15. Instruction: Write a short dialogue between a customer and a waiter in a restaurant.
+15. Input:
+<noinput>
+15. Output:
+Customer: Good evening, could I see the menu, please?
+Waiter: Of course! Here's the menu. Our chef's special today is grilled salmon with roasted vegetables.
+Customer: That sounds delicious. I'll have that, please. Could I have that with a side of mashed potatoes instead of roasted vegetables, though?
+Waiter: Certainly. Would you like anything to drink with your meal?
+Customer: Yes, I'd like a glass of white wine, please.
+Waiter: I'll have that for you shortly. Enjoy your meal!
+
+###
+16. Instruction: Identify the literary device used in the given sentence.
+16. Input: 
+All the world's a stage, and all the men and women merely players.
+16. Output:
+Metaphor
+
+###
+17. Instruction: Provide a recommendation for a mystery novel suitable for young adults.
+17. Input:
+<noinput>
+17. Output:
+I recommend "One of Us is Lying" by Karen M. McManus. This thrilling mystery novel follows a group of high school students who become suspects in the death of their classmate. It is an engaging story with twists and turns that will keep young adult readers captivated.
+
+###
+18. Instruction: Briefly explain the purpose of a thesis statement in an essay.
+18. Input:
+<noinput>
+18. Output:
+The purpose of a thesis statement is to clearly and concisely present the main argument or point of an essay. It serves as a guide for the writer and helps the reader understand the essay's focus and direction.
+
+###
+19. Instruction: Check if the following statement about the golden ratio is true or false.
+19. Input: 
+The golden ratio is equal to approximately 1.1618.
+19. Output:
+False
+
+###
+20. Instruction: Suggest a topic for a persuasive essay.
+20. Input:
+<noinput>
+20. Output:
+The benefits of adopting a plant-based diet for personal health and environmental sustainability.

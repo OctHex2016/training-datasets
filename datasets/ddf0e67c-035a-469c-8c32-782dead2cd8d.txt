@@ -1,0 +1,115 @@
+4. Instruction: Generate a poem with a specific theme. 
+4. Input: 
+Theme: Love
+4. Output: 
+Love is the sun that warms my face,
+The gentle breeze that fills my space.
+It lifts me up, it carries me home, 
+And I am never lost or alone.
+
+It fills me with a peace so sweet, 
+And wraps me up in its sultry heat. 
+It sings to me in whispers low, 
+And promises to never let me go.
+
+Love is the sweetest tonic there is, 
+Filling me with each and every kiss. 
+Love is the beat that makes my heart sing, 
+And it's been the same since the very beginning.
+
+Love is the air that fills our life,
+The one that shelters us from strife.
+It makes us strong, it makes us true,
+And we are never lost or alone, just like me and you.
+###
+5. Instruction: Classify a given list of objects or entities.
+5. Input: 
+List of objects: 
+- Dog
+- Book
+- Tree
+- Chair
+- Clouds
+- Computer
+- Piano
+- Car
+- Phone
+- Banana
+5. Output: 
+Living:
+- Dog
+- Tree
+
+Non-living:
+- Book
+- Chair
+- Clouds
+- Computer
+- Piano
+- Car
+- Phone
+- Banana
+###
+6. Instruction: Write an article about the importance of daily exercise. 
+6. Input:
+<noinput>
+6. Output: 
+Daily exercise is a habit that can transform your life. Whether you are an athlete or have never exercised in your life, regular activity can have profound benefits for both your body and mind. Here are a few reasons why exercise should be a part of your daily routine:
+
+1. Physical health: Regular exercise can help you maintain a healthier weight, lower your risk of chronic diseases like heart disease and diabetes, and strengthen your bones and muscles.
+
+2. Mental health: Exercise has been shown to improve mood, reduce anxiety and depression, and boost cognitive function.
+
+3. Overall wellbeing: Regular physical activity can improve your sleep, increase your energy levels, and help you live a longer, happier life. 
+
+So, whether you enjoy running, dancing, swimming or any other form of physical activity, make sure to make exercise a daily part of your life, and you will reap the benefits in the years to come. 
+### 
+7. Instruction: Write a letter to a friend congratulating them on a recent achievement. 
+7. Input: 
+Achievement: Got a new job at their dream company
+7. Output: 
+Dear ____,
+I was so happy to hear that you got a new job at your dream company! Congratulations on this big achievement. I know how hard you have worked to get here, and I am so proud of you. This new role is truly well deserved and I can't wait to see all the amazing things you will accomplish. Wishing you all the best as you start this exciting new chapter of your professional journey.
+Best,
+Your friend
+### 
+8. Instruction: Rewrite a given paragraph using simpler language.
+8. Input: 
+Paragraph: 
+"The president's address was replete with a litany of promises, many of which were unlikely to materialize, given the current political climate. Nonetheless, the president remained resolute in his conviction that these promises would become a reality, and his supporters were quick to offer their unwavering support in return."
+8. Output: 
+The president made a lot of promises in his speech, but it might not be possible to keep them because it's hard to do things in the current political climate. However, he still believed that he could make it happen, and his supporters agreed with him.
+### 
+9. Instruction: Write a recipe for a dish. 
+9. Input: 
+Dish: Spicy Chicken Stir-Fry
+9. Output: 
+Ingredients:
+- 4 boneless, skinless chicken breasts, cut into small pieces
+- 1 tablespoon vegetable oil
+- 1 red bell pepper, sliced
+- 1 yellow onion, sliced
+- 3 cloves garlic, minced
+- 2 tablespoons soy sauce
+- 1 tablespoon honey
+- Salt and pepper to taste
+
+Directions:
+1. Heat the vegetable oil in a large skillet over medium-high heat.
+2. Add the chicken and cook until browned and cooked through, about 6-8 minutes.
+3. Remove the chicken from the skillet and set aside.
+4. In the same skillet, add the sliced red pepper and onion and sauté until slightly softened, about 3-4 minutes.
+5. Add the minced garlic to the skillet and sauté for another 1-2 minutes.
+6. Add the soy sauce and honey to the skillet and stir to combine.
+7. Return the chicken to the skillet and toss to coat in the sauce.
+8. Serve over rice or noodles and enjoy your delicious Spicy Chicken Stir-Fry!
+### 
+10. Instruction: Write a set of rules for a game.
+10. Input:
+Game: Chess
+10. Output: 
+1. The game is played on a square board with 64 squares, arranged in an 8x8 grid. 
+2. Each player starts with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. 
+3. The pieces move according to specific rules. The king can move one square in any direction. The queen can move in a straight line in any direction. The rooks move in a straight line along a row or column. The bishops move diagonally. The knights move in an L-shape. Pawns can move one or two squares forward on their first move, and one square forward thereafter.
+4. The player who puts the other player's king in checkmate wins the game. 
+5. Stalemate occurs when a player cannot make a legal move but their king is not in check. This is considered a draw.

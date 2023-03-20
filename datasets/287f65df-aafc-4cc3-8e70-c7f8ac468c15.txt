@@ -1,0 +1,116 @@
+4. Instruction: Can you summarize the plot of the novel "To Kill a Mockingbird" by Harper Lee?
+4. Input: 
+<noinput>
+4. Output: 
+To Kill a Mockingbird is a novel set in the deep South in the 1930s. The story is told through the eyes of Scout Finch, a young girl who lives in a small town with her brother, Jem, and father, Atticus. The novel explores themes of prejudice, injustice, and the loss of innocence. Atticus is a lawyer who is appointed to defend a black man charged with rape, which causes tension within their community.
+###
+5. Instruction: Edit the following sentence for grammar errors: "Me and her are going to the mall."
+5. Input: 
+Me and my sister are headed to the mall to get sushi.
+5. Output: 
+My sister and I are headed to the mall to get sushi.
+###
+6. Instruction: Generate a tweet about the benefits of exercising regularly.
+6. Input: 
+<noinput>
+6. Output: 
+Exercising regularly can benefit your physical health, mental health, and overall well-being. Start small, and gradually increase your routine for best results!
+###
+7. Instruction: What are some potential side effects of taking antidepressant medication?
+7. Input: 
+<noinput>
+7. Output: 
+Antidepressants can cause a range of side effects, including dry mouth, weight gain, headaches, nausea, and sexual dysfunction. However, not all people experience these side effects and it is important to talk to a doctor about possible risks and benefits of any medication.
+###
+8. Instruction: Generate an essay about the advantages and disadvantages of studying abroad.
+8. Input: 
+<noinput>
+8. Output: 
+Studying abroad can be an unforgettable and life-changing experience. Benefits include exposure to new cultures, language skills and career opportunities. Disadvantages include high costs, homesickness, and cultural shock. Ultimately, the decision to study abroad is personal and depends on individual goals, preferences, and resources.
+###
+9. Instruction: Create a persuasive letter to a local government representative in support of more bike lanes.
+9. Input: 
+<noinput>
+9. Output: 
+Dear Representative, I am writing to express my support for more bike lanes in our community. Creating more bike lanes would not only promote physical activity and transportation but also ensure safety for both cyclists and drivers. As an active cyclist, I believe that additional bike infrastructure is essential to the health and mobility of our citizens. I hope you keep this issue in mind as you continue to make decisions in our community.
+###
+10. Instruction: Edit the following sentence for redundancy: "She nodded her head in agreement."
+10. Input: 
+She enthusiastically agreed to attend the concert.
+10. Output: 
+She nodded in agreement to attend the concert.
+###
+11. Instruction: Generate three ideas for a research topic on climate change.
+11. Input: 
+<noinput>
+11. Output: 
+1. The impact of climate change on wildlife habitats in coastal regions.
+2. The effectiveness of different types of renewable energy sources in reducing greenhouse gas emissions.
+3. Public attitudes towards climate change and its effect on individual behavior and policy support.
+###
+12. Instruction: Rewrite the following sentence to be more concise: "In spite of the fact that I was late, I still made it to the meeting on time."
+12. Input: 
+Despite being late, I arrived on time for the meeting.
+12. Output: 
+Despite being late, I arrived on time for the meeting.
+###
+13. Instruction: Explain how to cook a certain recipe step-by-step.
+13. Input: 
+How to make spaghetti carbonara.
+13. Output: 
+1. Cook 12 oz spaghetti in salted water until al dente, then drain and keep warm.
+2. In a pan, cook 4 oz diced pancetta until crisp. Remove from pan and reserve.
+3. Beat 4 large egg yolks with 1/2 cup grated Parmesan cheese in a bowl.
+4. Add hot, cooked spaghetti to the pancetta pan and toss to coat.
+5. Turn off heat and pour the egg mixture over the spaghetti. Mix quickly to coat.
+6. Sprinkle with additional Parmesan and black pepper, then serve immediately.
+###
+14. Instruction: Can you provide a definition for the term "heresy"?
+14. Input: 
+<noinput>
+14. Output: 
+Heresy refers to a belief or idea that goes against the orthodox teachings of a particular religion or ideology. It is often considered a controversial or unpopular stance and can lead to punishment or exclusion from the community.
+###
+15. Instruction: Create a list of the benefits of volunteering at a local animal shelter.
+15. Input: 
+<noinput>
+15. Output: 
+Benefits of volunteering at a local animal shelter include gaining new skills, giving back to the community, improving mental health and well-being, and forming positive relationships with animals and like-minded individuals. Additionally, volunteering at an animal shelter can provide a sense of purpose and self-esteem, as well as give you the opportunity to make a tangible difference in the lives of animals in need.
+###
+16. Instruction: Generate five possible titles for a research paper on renewable energy.
+16. Input: 
+<noinput>
+16. Output: 
+1. Renewables in Practice: Examining the Realities of Wind Turbine and Solar Farm Operations.
+2. Green Technologies: Comparative Analysis of Renewable Energy Policy in Five Countries.
+3. “How-To” Solutions for Implementing Solar Energy in Small towns.
+4. Sustainable Energy: The Challenges of Geothermal Energy Use.
+5. Intersectional Analysis of the Gender Gap in Renewable Energy Careers.
+###
+17. Instruction: Rewrite the following sentence to be more formal: "I can't come to work today because I have a bad cold."
+17. Input: 
+I regret to inform you that I cannot come to work today on account of an unfortunate illness.
+17. Output: 
+I regret to inform you that I cannot come to work today due to an illness.
+###
+18. Instruction: Describe how to solve a quadratic equation using the quadratic formula.
+18. Input: 
+<noinput>
+18. Output: 
+1. Write down the quadratic equation in the form ax²+bx+c=0
+2. Identify the values of a, b, and c
+3. Insert the values of a, b, and c into the formula: x = (-b ± √(b^2-4ac)) / 2a
+4. Simplify using arithmetic operations, including order of operations
+5. Check solutions by plugging them into the original equation: if they satisfy the equation, they are valid solutions.
+###
+19. Instruction: Generate an email to your professor explaining your absence from class due to a medical emergency.
+19. Input: 
+<noinput>
+19. Output:
+Dear Professor, I was absent from class on the 4th of November, as I experienced a medical emergency which required immediate attention. I would be grateful if you could share the material covered in class and inform me of any homework or assignments that were given that day. If there is any additional information I should be aware of or any steps I need to take to remain on track, please let me know. Thank you for understanding.
+###
+20. Instruction: Provide an example of a mathematical function that is not continuously differentiable.
+20. Input: 
+<noinput>
+20. Output: 
+A famous example of a mathematical function that is not continuously differentiable is the absolute value function, f(x)=|x|. Specifically, the derivative of f(x) is undefined at x=0, as the left- and right-hand limits approach different values.

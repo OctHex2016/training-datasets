@@ -1,0 +1,73 @@
+4. Instruction: Rank the given words from highest frequency to lowest frequency of usage in the English language.
+4. Input:
+vociferous, recalcitrant, diligent, minutiae
+4. Output:
+diligent, minutiae, recalcitrant, vociferous
+###
+5. Instruction: Summarize the provided text in one sentence.
+5. Input:
+The process of photosynthesis is when plants absorb sunlight as their main source of energy. They also absorb carbon dioxide through their leaves and convert it into sugars for themselves. Oxygen produced during this process is exhaled as a waste product.
+5. Output:
+Photosynthesis is a process where plants convert sunlight and carbon dioxide into energy, producing sugars and releasing oxygen as a waste product.
+###
+6. Instruction: Determine the type of logical fallacy in the argument.
+6. Input:
+If you don't study Einstein's theory of relativity, you are not a real scientist.
+6. Output:
+No True Scotsman fallacy.
+###
+7. Instruction: Convert the given sentence into passive voice.
+7. Input:
+The cat chased the mouse.
+7. Output:
+The mouse was chased by the cat.
+###
+8. Instruction: Determine the poetic device used in the given line.
+8. Input:
+The wind whispered softly through the trees.
+8. Output:
+Personification.
+###
+9. Instruction: Identify the primary conflict in the provided story excerpt.
+9. Input:
+In a small village, once plagued by drought, a young farmer named Tim discovers a mysterious artifact that has the power to control the weather. However, the village elders and his jealous neighbors soon begin plotting to take the artifact for themselves.
+9. Output:
+The primary conflict is between Tim and his neighbors/village elders, who want to take the weather-controlling artifact from him.
+###
+10. Instruction: Pick the incorrect word in the sentence and suggest a replacement.
+10. Input:
+He held the prestigious honor of becoming the first mayor of the hometown.
+10. Output:
+Incorrect word: prestigious; Replacement: unique
+###
+11. Instruction: Calculate the 10% tip for the given bill amount.
+11. Input:
+$85.50
+11. Output:
+$8.55
+###
+12. Instruction: List the four classical elements in ancient Western thought.
+12. Input:
+<noinput>
+12. Output:
+Fire, water, earth, air
+###
+13. Instruction: Translate the following English sentence into French.
+13. Input:
+I would like to book a room for two nights.
+13. Output:
+Je voudrais réserver une chambre pour deux nuits.
+###
+14. Instruction: Identify the main character's goal in the provided text.
+14. Input:
+While exploring a hidden cave, Ellie discovered an ancient map leading to a lost city. Convinced that the city holds untold riches, she begins a perilous journey, battling monsters, and evading traps to uncover the legendary treasure.
+14. Output:
+Ellie's goal is to uncover the legendary treasure in the lost city.
+###
+15. Instruction: Develop a haiku based on the given theme.
+15. Input:
+Autumn leaves falling
+15. Output:
+Autumn leaves falling
+Whisper secrets to the breeze
+Nature's painted dance

@@ -1,0 +1,163 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input: 
+The company launched an innovative marketing campaign to increase sales.
+4. Output: 
+An innovative marketing campaign was launched by the company to increase sales.
+
+###
+5. Instruction: Write a haiku about the beauty of nature.
+5. Input: 
+<noinput>
+5. Output: 
+Gentle blossoms fall,
+River whispers in moonlight,
+Nature's beauty told.
+
+###
+6. Instruction: Correct the grammar mistakes in the following text.
+6. Input: 
+Social medias impacts our in daily lifes. People r benefitting by quick communication and easy acess to informations.
+6. Output: 
+Social media impacts our daily lives. People are benefiting from quick communication and easy access to information.
+
+###
+7. Instruction: Determine which news category the following excerpt belongs to: technology, medicine, or crime.
+7. Input: 
+Researchers have developed a new vaccine that effectively targets multiple strains of the flu at once, offering protection against both current and future outbreaks.
+7. Output: 
+medicine
+
+###
+8. Instruction: Describe how to make a simple vinaigrette salad dressing in a few steps.
+8. Input: 
+<noinput>
+8. Output: 
+1. In a small bowl, whisk together 3 tablespoons of oil (such as olive oil) and 1 tablespoon of vinegar (e.g., balsamic or red wine vinegar).
+2. Add salt and pepper to taste.
+3. Optional: add additional ingredients like minced garlic, mustard, or herbs to enhance the flavor.
+4. Mix well before drizzling over your salad.
+
+###
+9. Instruction: Using the information in the capitalized sentences, answer the following question: What did Sam find while walking through the woods?
+9. Input: 
+During his hike, SAM FOUND A DEEP CAVE WHILE WALKING THROUGH THE WOODS. Captivated by the beauty of the cave, he decided to venture inside.
+9. Output: 
+Sam found a deep cave while walking through the woods.
+
+###
+10. Instruction: Create an itinerary for a 3-day trip to Barcelona, Spain in October.
+10. Input: 
+<noinput>
+10. Output: 
+Day 1:
+1. Arrive in Barcelona, check into hotel.
+2. Visit Park Güell, admire Gaudí's architecture.
+3. Stroll down La Rambla, take in street performances.
+4. Have dinner in the Gothic Quarter.
+
+Day 2:
+1. Visit Sagrada Família, explore its unique design.
+2. Head to Passeig de Gràcia, shopping and Modernist architecture tour.
+3. Take a break in Ciutadella Park, rent a rowboat at the lake.
+4. Explore the Picasso Museum.
+5. Dinner on the beachfront in Barceloneta.
+
+Day 3:
+1. Visit Casa Batlló and Casa Milà, more Gaudí gems.
+2. Explore the Cathedral of Barcelona in the Gothic Quarter.
+3. Select from numerous nearby museums or galleries.
+4. Depart Barcelona or explore nightlife options if staying overnight.
+
+###
+11. Instruction: Summarize the main points of the following text in a bullet point list.
+11. Input: 
+The Arctic Fox population has been negatively impacted by climate change. As the snow and ice melt, it becomes more difficult for these foxes to find food and shelter. This is because their primary prey, lemmings, has been declining due to changes in vegetation brought about by global warming. Additionally, the Arctic Fox's camouflage strategy, which relies on its white fur to blend in with the snow, becomes less effective as the snow diminishes. Furthermore, increased competition from larger predators, such as the red fox, puts the Arctic Fox population at risk. Conservation efforts are crucial to ensure the survival of this species, such as monitoring their population, managing their habitat, and limiting human disturbances.
+11. Output: 
+- Arctic Fox population negatively impacted by climate change.
+- Difficult to find food and shelter due to declining lemmings and melting ice/snow.
+- Camouflage strategy less effective.
+- Increased competition from larger predators like red foxes.
+- Conservation efforts needed: population monitoring, habitat management, and limiting human disturbances.
+
+###
+12. Instruction: Recommend a movie for someone interested in historical drama with a strong female protagonist. Provide a brief explanation of the plot.
+12. Input: 
+<noinput>
+12. Output: 
+I recommend "The Favourite," a historical drama with a strong female protagonist. The plot revolves around two women, Sarah and Abigail, vying for the favor of Queen Anne in early 18th century England. As their rivalry intensifies, deceit, manipulation, and political intrigue come into play, testing their loyalty and the power dynamics of the court.
+
+###
+13. Instruction: Convert the following recipe ingredients from cups to tablespoons: 1/2 cup sugar, 1/4 cup butter, 2 cups flour.
+13. Input: 
+<noinput>
+13. Output: 
+8 tablespoons sugar, 4 tablespoons butter, 32 tablespoons flour.
+
+###
+14. Instruction: Briefly explain how photosynthesis works in plants.
+14. Input: 
+<noinput>
+14. Output: 
+Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose, which is their main energy source, and oxygen. Chlorophyll, a green pigment found in the chloroplasts of plant cells, absorbs sunlight, initiating the conversion process. The energy from the absorbed sunlight is then used to split water molecules, releasing oxygen gas. The remaining hydrogen atoms combine with carbon dioxide to form glucose through a series of chemical reactions.
+
+###
+15. Instruction: List three skills a successful project manager should have.
+15. Input: 
+<noinput>
+15. Output: 
+1. Time management and organizational skills.
+2. Clear and effective communication.
+3. Analytical and problem-solving abilities.
+
+###
+16. Instruction: Write an introduction paragraph for an essay on the effects of deforestation on climate change.
+16. Input: 
+<noinput>
+16. Output: 
+Deforestation, the large-scale removal of forests across the globe, has recently emerged as a major environmental concern due to its significant impact on climate change. As forests are crucial in the Earth's natural carbon cycle and act as major carbon sinks, their depletion not only reduces their ability to absorb greenhouse gases, but also releases stored carbon in the form of CO2 emissions. This essay will explore the direct and indirect effects of deforestation on climate change and discuss the steps that must be taken to mitigate these consequences and preserve our planet's delicate climate balance.
+
+###
+17. Instruction: Suggest a suitable title for the following poem.
+17. Input: 
+Between the mountains, in the meadow,
+Pure water from the heavens flows.
+Home to the fair trout and willow,
+A sanctuary hidden from most.
+
+Where mighty eagles claim the skies,
+And deer graze in gentle sun.
+Stealthy foxes with cunning eyes,
+Find refuge when day is done.
+
+Oh, secret vale, secluded gem!
+Unspoiled treasure, breath of life.
+Nature's realm, where you stem,
+Safe harbor from chaos and strife.
+17. Output: 
+Sanctuary of the Hidden Vale
+
+###
+18. Instruction: Calculate the total cost of 3 shirts priced at $35, 2 pants priced at $65, and a pair of shoes priced at $110, including a 10% discount.
+18. Input: 
+<noinput>
+18. Output: 
+Shirts: 3 * $35 = $105
+Pants: 2 * $65 = $130
+Shoes: $110
+Total before discount: $105 + $130 + $110 = $345
+With 10% discount: $345 * (1 - 0.10) = $310.50.
+Total cost: $310.50
+
+###
+19. Instruction: What is the main message of the following quote: "The only person you should try to be better than is the person you were yesterday"?
+19. Input: 
+<noinput>
+19. Output: 
+The main message is to focus on self-improvement and personal growth, rather than comparing yourself to others.
+
+###
+20. Instruction: Paraphrase the following statement: "You miss 100% of the shots you don't take."
+20. Input: 
+<noinput>
+20. Output: 
+If you never take a chance, you can never succeed at anything.

@@ -1,0 +1,108 @@
+4. Instruction: Identify the mood of the given sentence: imperative, interrogative, or declarative. 
+4. Input: 
+Could you please pass the salt?
+4. Output: 
+Interrogative.
+###
+5. Instruction: Translate the following English sentence to French. 
+5. Input: 
+Hello, how are you today?
+5. Output: 
+Bonjour, comment ça va aujourd'hui?
+###
+6. Instruction: Provide three examples of power sources commonly used in homes. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Electricity
+2. Natural gas
+3. Solar power
+###
+7. Instruction: Rearrange the words to form a grammatically correct sentence.
+7. Input:
+raincoat a should bring you
+7. Output:
+You should bring a raincoat.
+###
+8. Instruction: Come up with a haiku about a summer day at the beach.
+8. Input: 
+<noinput>
+8. Output: 
+Golden sun above,
+Waves crashing, children laughing,
+Footprints in warm sand.
+###
+9. Instruction: Summarize the key points of this news article.
+9. Input:
+Earth's largest penguins, Emperor Penguins, are facing drastic population decline due to climate change. A new report warns that there might be a 50% reduction of their population by 2100 if the conditions remain the same. The researchers have found that these penguins are sensitive to climate change, extreme weather, and other environmental factors. The international community needs to take urgent action to protect the species and help maintain a healthy ecosystem in Antarctica, where Emperor Penguins are mainly found.
+9. Output: 
+Emperor Penguins face a population decline of 50% by 2100 due to climate change, extreme weather, and other environmental factors. Urgent international action is needed to protect the species and maintain a healthy ecosystem in Antarctica.
+###
+10. Instruction: Please demonstrate how to convert Celsius to Fahrenheit using a formula.
+10. Input: 
+<noinput>
+10. Output: 
+To convert Celsius to Fahrenheit, use the formula: °F = (°C × 9/5) + 32
+###
+11. Instruction: Describe the main differences between plant cells and animal cells.
+11. Input: 
+<noinput>
+11. Output: 
+Plant cells have a cell wall, chloroplasts, and a large central vacuole, while animal cells lack these structures. Animal cells have a round shape, whereas plant cells are more rectangular.
+###
+12. Instruction: From the provided text, identify the name of the company and their new product.
+12. Input: 
+CodecTech recently announced the launch of their groundbreaking noise-canceling headphones called VibraSonic Plus, which employs cutting-edge technology to deliver unmatched sound quality and comfort.
+12. Output: 
+Company: CodecTech
+New product: VibraSonic Plus
+###
+13. Instruction: Explain what net neutrality is.
+13. Input: 
+<noinput>
+13. Output: 
+Net neutrality is the principle that all internet traffic should be treated equally, without any discrimination or preference given to certain types of content, users, or platforms by Internet Service Providers (ISPs).
+###
+14. Instruction: Correct the following sentence for grammar and punctuation errors.
+14. Input: 
+She has two dogs Leo, a golden retriever, and jasper a dachshund they're both really friendly.
+14. Output: 
+She has two dogs: Leo, a Golden Retriever, and Jasper, a Dachshund; they're both really friendly.
+###
+15. Instruction: List three types of carbohydrates and provide a food example for each.
+15. Input: 
+<noinput>
+15. Output: 
+1. Monosaccharides - glucose (grape sugar)
+2. Disaccharides - lactose (milk)
+3. Polysaccharides - starch (potatoes)
+###
+16. Instruction: Write a brief description of the plot of a fantasy novel involving a group of adventurers.
+16. Input: 
+<noinput>
+16. Output: 
+In a realm filled with mythical creatures and magical powers, a diverse group of adventurers sets out on a quest to uncover ancient relics said to possess unimaginable power. Along their journey, they face daunting challenges, forge unlikely alliances, and unlock their own hidden potential, ultimately discovering the true meaning of friendship, loyalty, and heroism.
+###
+17. Instruction: Find the error in the given math equation and correct it: 42 / 7 + (2 * 5) = 24
+17. Input: 
+<noinput>
+17. Output: 
+The corrected equation is: 42 / 7 + (2 * 5) = 16
+###
+18. Instruction: Elaborate on the significance of the Suez Canal in international trade.
+18. Input: 
+<noinput>
+18. Output: 
+The Suez Canal is a significant gateway for global trade as it connects the Mediterranean Sea to the Red Sea, allowing vessels to bypass the lengthy and dangerous route around the southern tip of Africa. By significantly reducing travel time and costs, the canal facilitates the efficient movement of goods between Europe and Asia, thus playing a vital role in international commerce.
+###
+19. Instruction: Identify the literary technique used in the following statement: "The snow whispered against the window panes."
+19. Input: 
+<noinput>
+19. Output: 
+Personification
+###
+20. Instruction: Propose a solution for reducing the plastic waste generated by single-use plastic water bottles.
+20. Input: 
+<noinput>
+20. Output: 
+Encourage the use of reusable water bottles by installing public water fountains and bottle refilling stations in public areas like parks, schools, and city centers. Additionally, implement educational campaigns to raise awareness about the environmental impact of single-use plastic bottles and promote sustainable alternatives.

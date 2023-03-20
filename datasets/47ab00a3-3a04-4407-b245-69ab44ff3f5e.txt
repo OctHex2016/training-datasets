@@ -1,0 +1,101 @@
+4. Instruction: Describe the importance of cybersecurity in today's digital age.
+4. Input: 
+<noinput>
+4. Output: 
+Cybersecurity is crucial in today's digital age for various reasons. As we become increasingly reliant on technology and the internet, the risk of cyberattacks has drastically increased. These attacks can lead to data breaches, identity theft, and financial losses. Ensuring proper cybersecurity measures are in place also helps protect critical infrastructure, such as power plants and transportation systems, from potential sabotage. Additionally, cybersecurity safeguards an organization's reputation and customer trust, ensuring smooth operations and preventing unauthorized access to sensitive information.
+
+5. Instruction: Summarize the given news article.
+5. Input: 
+Tesla announced its new Cybertruck over the weekend, which has a starting price of $39,000 and is slated for production in 2023. The truck boasts unconventional performance and design, comes in three different models: single-, dual-, or triple-motor, and can tow up to 14,000 lbs. It has a futuristic stainless steel "exoskeleton" inspired by the DeLorean, and its windows are made of Tesla Armor Glass that is supposed to be highly resistant to impact.
+5. Output: 
+Tesla unveiled its futuristic Cybertruck, starting at $39,000, with production planned for 2023. Coming in three different models, the truck has a stainless steel "exoskeleton" and Tesla Armor Glass windows. It can tow up to 14,000 lbs and features a unique design inspired by the iconic DeLorean.
+
+6. Instruction: Translate the sentence to Spanish.
+6. Input: 
+The brown dog jumped over the fence.
+6. Output: 
+El perro marrón saltó sobre la valla.
+
+7. Instruction: Identify the logical fallacy in the argument given below.
+7. Input: 
+My classmates liked the movie a lot, so it must be highly rated.
+7. Output: 
+The logical fallacy in this argument is "Argumentum ad Populum", which appeals to the majority's opinion as proof to validate the conclusion.
+
+8. Instruction: Proofread the text and suggest improvements.
+8. Input: 
+Theres so many people in line at the cofee shop that it took agaes for me to get my drink.
+8. Output: 
+There are so many people in line at the coffee shop that it took ages for me to get my drink.
+
+9. Instruction: Outline the benefits of regular exercise.
+9. Input: 
+<noinput>
+9. Output: 
+1. Improved cardiovascular health
+2. Enhanced muscle strength and endurance
+3. Better weight management
+4. Increased flexibility and mobility
+5. Reduced risk of chronic diseases
+6. Boosted mental health and mood
+7. Improved quality of sleep
+8. Increased energy levels
+
+10. Instruction: Evaluate the given dataset for potential biases.
+10. Input: 
+The dataset consists of job applicants from a large software company, with information on their age, gender, race, education, and experience. The company only interviewed candidates with a master's degree or higher.
+10. Output: 
+Potential biases in this dataset include educational bias (only considering candidates with a master's degree or higher) and a potential selection bias due to the sole focus on one large software company. This sample might not represent the entire job-seeking population, limiting the generalizability of any conclusions made. Additionally, the data collection process may have inherent biases related to gender, race, and age, which could impact the results.
+
+11. Instruction: Answer the question: What are the three primary colors?
+11. Input: 
+<noinput>
+11. Output: 
+The three primary colors are red, blue, and yellow.
+
+12. Instruction: Propose a suitable title for a novel based on the short plot provided.
+12. Input: 
+The story revolves around a young girl named Lily, gifted with the power of time travel. She sets off on an incredible adventure, unraveling her family's thousand-year-old secrets to try and save her loved ones from a terrible fate.
+12. Output: 
+"Timeless Legacy: The Adventures of Lily"
+
+13. Instruction: Explain the concept of "opportunity cost" using your own words.
+13. Input: 
+<noinput>
+13. Output: 
+Opportunity cost refers to the potential value or benefit of the next best alternative that must be forgone when choosing a particular option or action. In other words, it is the cost of giving up the next most desirable choice while making a decision, helping individuals and businesses determine the real value or consequences of their decisions in terms of lost opportunities.
+
+14. Instruction: Provide a SWOT analysis for a new small business focusing on handmade soap.
+14. Input: 
+<noinput>
+14. Output: 
+Strengths:
+1. Unique, customized, and high-quality products
+2. Environmentally friendly and sustainable practices
+3. Strong connection to local community
+
+Weaknesses:
+1. Limited production capacity
+2. Higher production costs leading to higher prices
+3. Lacks brand recognition and market presence compared to big players
+
+Opportunities:
+1. Growing demand for eco-friendly and artisanal products
+2. Expansion through online sales and marketing
+3. Collaborations or partnerships with local stores and boutiques
+
+Threats:
+1. Competition from larger, established soap brands
+2. Economic downturns affecting disposable income
+3. Changes in consumer preferences and market trends
+
+15. Instruction: How do you calculate a percentage increase?
+15. Input: 
+<noinput>
+15. Output: 
+To calculate a percentage increase, follow these steps:
+1. Subtract the old value from the new value.
+2. Divide the result by the old value.
+3. Multiply the quotient by 100 to get the percentage increase.
+
+Formula: Percentage Increase = ((New Value - Old Value) / Old Value) * 100

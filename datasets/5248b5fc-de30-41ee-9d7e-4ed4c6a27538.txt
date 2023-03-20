@@ -1,0 +1,51 @@
+4. Instruction: Identify the parts of speech for the underlined words in the given sentence.
+4. Input: 
+She sang a beautiful song that made everyone emotional.
+4. Output: 
+sang: verb,
+beautiful: adjective,
+song: noun,
+everyone: pronoun,
+emotional: adjective
+###
+5. Instruction: Translate into French the given sentence.
+5. Input: 
+Please, pass me the salt and pepper.
+5. Output: 
+S'il te plaît, passe-moi le sel et le poivre.
+###
+6. Instruction: Explain the differences between a meteor, meteorite, and meteoroid.
+6. Input:
+<noinput>
+6. Output: 
+Meteor: A meteor refers to the bright streak of light (shooting star) in the sky caused when a space rock enters Earth's atmosphere and vaporizes due to friction with the air.
+Meteorite: A meteorite is a space rock that has survived its journey through Earth's atmosphere and has landed on the Earth's surface.
+Meteoroid: A meteoroid is a small rocky or metallic object present in space, usually debris from a comet or asteroid, orbiting the Sun.
+###
+7. Instruction: Rewrite the given sentences while keeping the original meaning but using different words.
+7. Input: 
+He continuously spoke without any break for four hours.
+7. Output: 
+He talked nonstop for four hours without taking a break.
+###
+8. Instruction: Provide 3 example uses of semicolons.
+8. Input: 
+<noinput>
+8. Output: 
+1. I have been to Paris; it was a magical experience.
+2. She loves dogs; her neighbor, however, prefers cats.
+3. He studied all night; consequently, he scored well in the exam.
+###
+9. Instruction: Convert the given passage into reported speech.
+9. Input: 
+Alex said, "I can't come to the party, because I have an important test tomorrow."
+9. Output: 
+Alex said that he couldn't come to the party, because he had an important test the next day.
+###
+10. Instruction: Create a haiku about spring.
+10. Input: 
+<noinput>
+10. Output: 
+Blossoms in full bloom,
+Nature awakens, new life,
+Spring's gentle caress.

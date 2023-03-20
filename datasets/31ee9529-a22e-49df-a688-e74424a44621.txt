@@ -1,0 +1,115 @@
+4. Instruction: Summarize the given text in two sentences.
+4. Input: 
+The process of photosynthesis is essential for nearly all life on Earth. It happens when plants, algae, and certain bacteria convert light energy into chemical energy in the form of carbohydrates. This provides primary food sources for various organisms, including humans. During this process, oxygen is released as a byproduct. This release of oxygen helps to maintain the balance of the Earth's atmosphere, making it suitable for humans and other many organisms to breathe.
+4. Output: 
+Photosynthesis allows plants, algae, and some bacteria to convert light energy into carbohydrates, providing primary food sources for various organisms. It also releases oxygen as a byproduct, maintaining the balance of Earth's atmosphere for life.
+
+5. Instruction: Recommend three movies of different genres based on the input given.
+5. Input: 
+I am obsessed with time travel, mysteries, and martial arts movies.
+5. Output: 
+1. Back to the Future (Time Travel)
+2. The Prestige (Mystery)
+3. Enter the Dragon (Martial Arts)
+
+6. Instruction: Analyze the given chess position and recommend the next best move.
+6. Input: 
+White: Ke1 Qd1 Kb1
+Black: Kf8 Qd8 Rg8
+6. Output: 
+Black should play Rg8-g1 to deliver a checkmate.
+
+7. Instruction: Create a haiku poem about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Whispering wind speaks
+Leaves rustle and branches sway
+Nature's song begins
+
+8. Instruction: Identify any grammatical errors in the sentence and suggest corrections.
+8. Input: 
+He found a coins near the park, she keeps it.
+8. Output: 
+Corrected sentence: He found a coin near the park, and she kept it.
+
+9. Instruction: Rephrase the given sentence without changing its meaning.
+9. Input: 
+The software engineer developed a helpful application that simplifies the process.
+9. Output: 
+The helpful application simplifying the process was developed by the software engineer.
+
+10. Instruction: Determine the proportion of water usage in this utility bill statement.
+10. Input: 
+The total bill for the month is $350. This includes $120 for water use, $200 for electricity, and $30 for a service fee.
+10. Output: 
+The proportion of water usage in this utility bill statement is 34.29%.
+
+11. Instruction: Create a one-liner joke on the given topic.
+11. Input: 
+Dating apps
+11. Output: 
+Why did the tomato blush when using the dating app? Because it saw the salad dressing.
+
+12. Instruction: Given a paragraph, identify the main point.
+12. Input: 
+Climate change is a major issue facing the world today. The increase in global temperatures due to the greenhouse effect is leading to melting ice caps and rising sea levels. This not only threatens coastal communities, but also endangers many animal species. Furthermore, more frequent and powerful storms are becoming the norm, causing more damage to human settlements and ecosystems. It is crucial that we take steps to reduce greenhouse gas emissions in order to mitigate these negative effects.
+12. Output: 
+The main point is the negative effects of climate change and the importance of taking steps to reduce greenhouse gas emissions.
+
+13. Instruction: Describe a counter-argument for the given statement.
+13. Input: 
+The government should provide free higher education to all citizens.
+13. Output: 
+A counter-argument is that providing free higher education to all citizens may lead to overcrowded classes, limited resources, and potentially diminished quality of education due to an influx of students.
+
+14. Instruction: Name the type of logical fallacy evident in the given argument.
+14. Input: 
+I saw a news report that said violent crime increased in areas with higher ice cream sales, so eating ice cream must cause people to be more violent.
+14. Output: 
+This is an example of a false cause fallacy.
+
+15. Instruction: Calculate the final value of the investment.
+15. Input: 
+Initial investment: $5000
+Interest rate: 4% annual interest compounded monthly
+Duration: 5 years
+15. Output: 
+The final value of the investment is $6095.57.
+
+16. Instruction: Compose a motivational quote on overcoming failure.
+16. Input: 
+<noinput>
+16. Output: 
+Failure is not the opposite of success; it is the stepping stone towards it. Embrace failure, learn from it, and rise stronger.
+
+17. Instruction: Suggest two research topics based on the input given.
+17. Input: 
+I am interested in the effects of social media on mental health and possible solutions to prevent these negative impacts.
+17. Output: 
+1. The relationship between excessive social media use and anxiety: Studying underlying factors and potential interventions.
+2. The role of parental involvement in mitigating the impact of social media on adolescents' mental health: An innovative approach.
+
+18. Instruction: Provide an example of dramatic irony in a brief story.
+18. Input: 
+<noinput>
+18. Output: 
+In a story, a detective is investigating a mysterious series of robberies. Unbeknownst to him, his trusted assistant is actually the mastermind behind the thefts. As the detective tries to solve the case, the audience knows that the true criminal is right under his nose, creating dramatic irony.
+
+19. Instruction: Write a short dialogue between a detective and a witness.
+19. Input: 
+<noinput>
+19. Output: 
+Detective: Good morning, ma'am. I understand you witnessed the robbery that occurred last night. Can you please tell me what you saw?
+
+Witness: Yes, I was across the street when it happened. I saw a masked man run out of the jewelry store with a bag in his hand.
+
+Detective: Did you notice any distinguishing features about the suspect, such as height, build, or clothing?
+
+Witness: He was fairly tall and wearing a dark hoodie. I couldn't see his face, but he had a limp as he ran away.
+
+20. Instruction: Explain the purpose of a thesis statement in an academic essay.
+20. Input: 
+<noinput>
+20. Output: 
+The purpose of a thesis statement in an academic essay is to clearly and concisely express the main argument or claim of the essay. It guides the reader's expectations and helps them understand the point being made throughout the writing.

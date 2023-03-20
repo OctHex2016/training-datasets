@@ -1,0 +1,113 @@
+4. Instruction: Turn the present simple sentences into passive voice.
+4. Input: 
+Jane makes the dinner. Mike writes the book. The cat catches the mouse. They draw pictures.
+4. Output: 
+The dinner is made by Jane. The book is written by Mike. The mouse is caught by the cat. Pictures are drawn by them.
+
+5. Instruction: Identify what type of weather each description below represents.
+5. Input: 
+A. Heavy grey clouds covering the sky
+B. Clear blue sky, hot and sunny
+C. Strong winds and heavy rain
+D. White, frozen water falling from the sky
+5. Output: 
+A. Overcast
+B. Sunny
+C. Storm
+D. Snowfall
+
+6. Instruction: Provide the sum of the given numbers.
+6. Input: 
+57, 83, 29
+6. Output: 
+169
+
+7. Instruction: Is the statement true or false? If false, provide the correct information.
+7. Input: 
+The chemical formula for water is H3O.
+7. Output: 
+False, the chemical formula for water is H2O.
+
+8. Instruction: List at least 5 beneficial habits for maintaining mental health. 
+8. Input: 
+<noinput>
+8. Output: 
+1. Regular exercise
+2. Quality sleep
+3. Eating a balanced diet
+4. Practicing mindfulness and meditation
+5. Building and maintaining strong social connections
+
+9. Instruction: Rearrange the sentence to make it grammatically correct.
+9. Input: 
+the watching enjoy cat I
+9. Output: 
+I enjoy watching the cat.
+
+10. Instruction: Convert the given sentence from active to passive voice.
+10. Input: 
+She bakes the cake.
+10. Output: 
+The cake is baked by her.
+
+11. Instruction: Identify the main clause in the given sentence.
+11. Input:
+Although it was raining, they went outside to play. 
+11. Output: 
+they went outside to play
+
+12. Instruction: What might be the meaning of the word "ludicrous" based on the following sentence?
+12. Input:
+Paying $100 for a cup of coffee is a ludicrous idea.
+12. Output: 
+Absurd or ridiculous
+
+13. Instruction: How can you improve the following sentence to sound more polite?
+13. Input: 
+Give me the files right now.
+13. Output: 
+Could you please provide me with the files at your earliest convenience?
+
+14. Instruction: Translate the given English sentence into French.
+14. Input: 
+Can you pass me the salt, please?
+14. Output: 
+Pouvez-vous me passer le sel, s'il vous plaît?
+
+15. Instruction: Based on this brief description, categorize the given plant.
+15. Input: 
+A small herbaceous plant with a soft stem and tiny flowers that is used for culinary purposes.
+15. Output: 
+Herb
+
+16. Instruction: Is the given statement a fact or an opinion?
+16. Input: 
+Pizza is the best food in the world.
+16. Output: 
+Opinion
+
+17. Instruction: Proofread and correct the grammatical errors in the following sentence.
+17. Input: 
+Their going too the library too read books and peruse webpage on the computer.
+17. Output: 
+They're going to the library to read books and peruse webpages on the computer.
+
+18. Instruction: Write an example of a simile.
+18. Input: 
+<noinput>
+18. Output: 
+Her eyes glistened like stars in the night sky.
+
+19. Instruction: Evaluate the following equation and provide the answer: (12-6) x (5+1).
+19. Input: 
+<noinput>
+19. Output: 
+36
+
+20. Instruction: List three potential benefits of adopting a plant-based diet.
+20. Input: 
+<noinput>
+20. Output: 
+1. Improved heart health
+2. Lower cancer risk
+3. Better weight management and prevention of obesity

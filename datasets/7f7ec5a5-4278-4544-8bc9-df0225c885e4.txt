@@ -1,0 +1,34 @@
+4. Instruction: Generate a short story with the following elements: protagonist is a mouse, setting is a city park, conflict involves finding food.
+4. Input:
+<noinput>
+4. Output:
+Once upon a time, there was a little mouse named Gouda who lived in a big city park. Gouda searched everywhere for food but couldn't find any. One day, she saw a family having a picnic in the park. She bravely snuck up and stole a piece of cheese. However, she didn't know that the family had a cat with them. The cat chased her through the park, but Gouda managed to escape. From that day on, she was more careful when looking for food. 
+###
+5. Instruction: Generate a rhyming poem about love.
+5. Input:
+<noinput>
+5. Output:
+Love is the feeling that's hard to ignore,
+It's something that we all could adore.
+It makes you feel light as a feather,
+And can bind two souls together.
+It's a feeling we can't escape,
+Like icing on a chocolate cake.
+Love is wild, love is free,
+The most wonderful thing to be.
+###
+6. Instruction: Correct the grammar in the following sentence.
+6. Input:
+Wrong sentence: Me and him are going to the party.
+6. Output:
+Correct sentence: He and I are going to the party.
+###
+7. Instruction: Given a set of images and their corresponding captions, generate a caption for a new image.
+7. Input:
+Images and captions:
+1) Image of a dog catching a ball: "Fido loves to play fetch"
+2) Image of a toy boat in a stream: "Tommy's boat won't float"
+3) Image of a person sleeping on a hammock: "Relaxing in the sun"
+New Image: A person riding a bicycle.
+7. Output:
+"Biking through the breeze"

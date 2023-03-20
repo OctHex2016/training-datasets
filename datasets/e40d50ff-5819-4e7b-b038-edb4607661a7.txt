@@ -1,0 +1,118 @@
+4. Instruction: Create a compelling movie logline for the given genre and keywords.
+4. Input:
+Genre: Sci-fi thriller
+Keywords: artificial intelligence, rebellion, hidden society
+4. Output:
+In a world controlled by a powerful artificial intelligence, a determined renegade uncovers a hidden society of rebels, and must lead the fight against the oppressive regime to reclaim humanity's freedom and expose the dark secrets of the AI overlords.
+
+5. Instruction: Identify the type of cognitive bias described in the given example.
+5. Input:
+Jim thinks that since he sees people driving red cars receiving more speeding tickets, all red cars must be driven by reckless drivers.
+5. Output:
+Hasty Generalization
+
+6. Instruction: Translate the following phrase from English to French.
+6. Input:
+Phrase: How do I get to the train station?
+6. Output:
+Comment aller à la gare?
+
+7. Instruction: Name the book and its author based on the following summary.
+7. Input:
+An epic historical novel published in 1869, it tells the story of Russian society during the Napoleonic invasion, focusing on five aristocratic families who struggle with both personal and political dilemmas.
+7. Output:
+Book: War and Peace
+Author: Leo Tolstoy
+
+8. Instruction: Write a haiku about the ocean.
+8. Input:
+<noinput>
+8. Output:
+Boundless blue expanse,
+Waves embrace the sunlit shore,
+Whispers of the deep.
+
+9. Instruction: Suggest a classic rock song that fits the given situation.
+9. Input:
+Situation: Driving down the highway on a sunny afternoon with friends.
+9. Output:
+Song: Born to be Wild by Steppenwolf
+
+10. Instruction: Summarize the main idea of the paragraph in one sentence.
+10. Input:
+By changing the way information is accessed and consumed, the internet has dramatically reshaped almost every aspect of our lives, and brought both benefits and challenges in our increasingly connected society. We can learn skills more quickly, communicate with people across the globe, and access a wealth of culture and knowledge at our fingertips. But with that comes the potential for misinformation, privacy threats, and a reduced capacity for critical thinking.
+10. Output:
+The internet, while providing unprecedented access to information, has also introduced new challenges such as misinformation, privacy threats, and reduced critical thinking abilities.
+
+11. Instruction: Name three classic movies that were directed by Alfred Hitchcock.
+11. Input:
+<noinput>
+11. Output:
+1. Psycho (1960)
+2. Rear Window (1954)
+3. Vertigo (1958)
+
+12. Instruction: Write a persuasive argument in favor of solar power as an alternative energy source.
+12. Input:
+<noinput>
+12. Output:
+Solar power offers a clean and sustainable alternative to traditional energy sources, harnessing the sun's energy to generate electricity without producing harmful emissions. Not only does it reduce our reliance on finite and polluting fossil fuels, but it helps decrease greenhouse gas emissions, mitigating climate change. Additionally, solar power benefits the economy by creating jobs and stimulating innovation in energy technology. The upfront costs for solar installations may be a deterrent for some, but the long-term savings and environmental benefits make it a worthwhile investment.
+
+13. Instruction: Determine the writing style of the provided text.
+13. Input:
+I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.
+13. Output:
+Poetry
+
+14. Instruction: Suggest an appropriate gift for someone who loves to bake.
+14. Input:
+<noinput>
+14. Output:
+A high-quality silicone baking mat set
+
+15. Instruction: Edit the following sentence to improve clarity and conciseness.
+15. Input:
+The youthful guy with the hat of the baseball variety came all the way down from the front and walked down the street that was very long.
+15. Output:
+The young man in the baseball cap walked down the long street.
+
+16. Instruction: List three reasons to visit Paris, France.
+16. Input:
+<noinput>
+16. Output:
+1. World-famous landmarks such as the Eiffel Tower and Notre-Dame Cathedral
+2. Renowned museums like the Louvre and the Musée d'Orsay
+3. Rich history, culture, and diverse culinary experiences
+
+17. Instruction: Write an informative paragraph about the importance of recycling.
+17. Input:
+<noinput>
+17. Output:
+Recycling plays a vital role in preserving the environment and conserving natural resources. By reprocessing and repurposing waste materials, we reduce the need for extracting raw materials through mining and deforestation. This not only decreases energy consumption and pollution but also helps conserve biodiversity and ecosystems. Additionally, recycling reduces the volume of waste sent to landfills and incinerators, which mitigates negative environmental impacts, such as greenhouse gas emissions and toxic fumes. By actively participating in recycling initiatives, we contribute to creating a greener, more sustainable future for our planet.
+11. Instruction: Tell me a historical fact about the Ancient Egyptian civilization.
+18. Input:
+<noinput>
+18. Output:
+Ancient Egyptian society was one of the earliest to practice complex agricultural techniques, which greatly contributed to their civilization's stability and prosperity, thanks to the Nile River's annual flooding that provided fertile soil for farming.
+
+19. Instruction: Diagnose the grammatical error in the given sentence and correct it.
+20. Input:
+Among my favorites movies, I like action and comedies genre the most.
+20. Output:
+Error: misplaced modifiers
+Correction: Among my favorite movies, I like the action and comedy genres the most.
+
+20. Instruction: Write a limerick about a pizza chef.
+20. Input:
+<noinput>
+20. Output:
+There once was a pizza chef Pete,
+Whose pizzas were truly a treat,
+He tossed dough with flair,
+Tomato sauce in the air,
+Creating a delicious feast on each street.

@@ -1,0 +1,118 @@
+4. Instruction: Generate a list of synonyms for the word "happy". 
+4. Input: 
+Word: happy
+4. Output: 
+Joyful, content, pleased, glad, ecstatic, elated, overjoyed, euphoric, cheerful, delighted.
+###
+5. Instruction: Could you please rephrase this sentence to make it sound more formal? 
+5. Input: 
+Original sentence: Hey, wanna grab some pizza later? 
+5. Output: 
+Excuse me, would you be interested in obtaining some pizza later on? 
+###
+6. Instruction: Classify the given text as positive or negative sentiment. 
+6. Input: 
+Text: The service at this restaurant was terrible! 
+6. Output: 
+Negative sentiment.
+###
+7. Instruction: Write a tweet that promotes a new mobile phone brand. 
+7. Input: 
+<noinput>
+7. Output: 
+Introducing the newest addition to the phone industry! Our #innovative design, exceptional user experience, and cutting-edge technology make us #1 in the market. Get your hands on the phone that will change your life today! #newphonebrand #techgamechanger 
+###
+8. Instruction: Can you paraphrase this paragraph in your own words? 
+8. Input: 
+Original paragraph: 
+Apple's latest operating system features a variety of upgrades, including a new Dark Mode design and a revamped Photos app. Siri has also become more natural-sounding, and sends fewer requests to Apple's servers, protecting user privacy. Apple has also enhanced its security features in its latest release. 
+8. Output: 
+Apple's latest operating system has several enhancements such as Dark Mode design, an upgraded Photos app, and an improved and more natural-sounding Siri. Privacy protection has also been improved by sending fewer requests to servers. 
+###
+9. Instruction: What's another name for the famous "Star-Spangled Banner" song? 
+9. Input: 
+<noinput>
+9. Output: 
+"The Star-Spangled Banner" is also known as the National Anthem of the United States of America. 
+###
+10. Instruction: Write a one-sentence pitch for a new TV series about detectives in a big city. 
+10. Input: 
+<noinput>
+10. Output: 
+Get drawn into the lives of a group of detectives as they balance their work and personal lives, while solving crimes in the busy streets of a big city! 
+###
+11. Instruction: Edit this sentence to remove passive voice. 
+11. Input: 
+Original sentence: The cake was baked by the chef. 
+11. Output: 
+The chef baked the cake. 
+###
+12. Instruction: Can you provide information on the nearest coffee shop? 
+12. Input: 
+<noinput>
+12. Output: 
+The nearest coffee shop is "Joe's Coffee" which is two blocks away from your current location. 
+###
+13. Instruction: Please complete the given analogy: 
+"Rain is to wet as sunshine is to ___." 
+13. Input: 
+<noinput>
+13. Output: 
+Sunshine is to hot. 
+###
+14. Instruction: What are the pros and cons of buying a hybrid car? 
+14. Input: 
+<noinput>
+14. Output: 
+Pros of buying a hybrid car include reduced fuel emissions, better gas mileage, and tax incentives. Cons include higher upfront cost and the need for regular battery maintenance. 
+###
+15. Instruction: Write a recipe for a classic lasagna. 
+15. Input: 
+<noinput>
+15. Output: 
+Ingredients:
+9-12 lasagna sheets
+1 pound lean ground beef
+1 onion, chopped
+2 cloves garlic, minced
+1 jar (24 ounces) spaghetti sauce
+2 cups shredded mozzarella cheese
+1 container (15 ounces) ricotta cheese
+1/4 cup grated Parmesan cheese
+1 egg
+1/4 cup chopped fresh parsley
+Directions:
+Preheat oven to 375°F. Cook lasagna sheets according to package instructions. In a large skillet, cook beef, onion, and garlic over medium heat until the meat is no longer pink; drain. Stir in spaghetti sauce. In a mixing bowl, combine mozzarella, ricotta, Parmesan cheese, egg, and parsley. Spread meat sauce onto the bottom of a 9x13 in. baking dish. Layer 3 lasagna noodles over the sauce, and then add 1/3 of the cheese mixture. Repeat layering two more times. Bake uncovered for 25-30 minutes or until bubbly. Let stand for about 10 minutes before serving.
+###
+16. Instruction: Can you tell me about the history of the Eiffel Tower? 
+16. Input: 
+<noinput>
+16. Output: 
+The Eiffel Tower is an iconic landmark located in Paris, France. It was constructed in 1887-1889 as a temporary structure for the Exposition Universelle, which celebrated the 100th anniversary of the French Revolution. However, its popularity helped to keep it as a permanent structure. It was named after the engineer Gustave Eiffel, whose company designed and built the tower. 
+###
+17. Instruction: What does the acronym "NASA" stand for? 
+17. Input: 
+<noinput>
+17. Output: 
+NASA stands for National Aeronautics and Space Administration. 
+###
+18. Instruction: What is the difference between a tsunami and a regular wave? 
+18. Input: 
+<noinput>
+18. Output: 
+Unlike regular waves, tsunamis are caused by underwater disturbances such as volcanic eruptions, earthquakes, and landslides. Tsunamis also travel at a much higher speed (up to 500 mph in deeper water) and have a much larger wavelength. This results in more devastating effects when they hit shore. 
+###
+19. Instruction: Can you provide me with a fun fact about elephants? 
+19. Input: 
+<noinput>
+19. Output: 
+Elephants are one of the few animals that have the ability to recognize themselves in a mirror. 
+###
+20. Instruction: Write a few lines of iambic pentameter. 
+20. Input: 
+<noinput>
+20. Output: 
+The sun sets behind the hills, so swift,
+And orange light fades, to darkness shift,
+With a calm serenity we receive the night,
+And all below the skies is bathed in starry light.

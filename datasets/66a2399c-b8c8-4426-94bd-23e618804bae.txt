@@ -1,0 +1,119 @@
+4. Instruction: Identify any potential logical fallacies in the given statement.
+4. Input:
+Just because global warming is a problem, it doesn't mean we should give up using cars. After all, even if we did, it wouldn't make a dent in industrial pollution.
+4. Output:
+False dilemma, red herring.
+
+###
+5. Instruction: Convert the percentages in the text to fractions.
+5. Input:
+About 48% of the surveyed population reported being familiar with the brand, while 35% of participants claimed to have used it regularly.
+5. Output:
+About 12/25 of the surveyed population reported being familiar with the brand, while 7/20 of participants claimed to have used it regularly.
+
+###
+6. Instruction: Paraphrase the given sentence to convey the same meaning.
+6. Input:
+Innovation is the driving force that propels economic growth and prosperity.
+6. Output:
+Economic growth and prosperity are fueled by the driving force of innovation.
+
+###
+7. Instruction: Suggest an alternate ending for the provided story passage.
+7. Input:
+As he tried to pull the door open, it wouldn't budge. It was locked, but he knew there was a spare key hidden under a rock nearby. He searched frantically, his heart pounding in his chest.
+7. Output:
+As he tried to pull the door open, it wouldn't budge. It was locked, but he remembered that his neighbor had a spare key. He ran over to their house, gasping for breath, and asked for the key to unlock the door.
+
+###
+8. Instruction: How can the character in the given passage improve their approach to the situation?
+8. Input:
+Sarah was so anxious during her presentation that she spoke too quickly, ignored the audience's questions, and fidgeted with her notes.
+8. Output:
+Sarah could improve her approach by practicing deep breathing exercises, slowing down her speech, preparing to answer potential questions, and either limiting the use of notes or using visual aids to maintain focus on the audience.
+
+###
+9. Instruction: Write a haiku inspired by the following word: "mountain".
+9. Input:
+<noinput>
+9. Output:
+Silent peaks above,
+Enduring time's ageless march,
+Nature's solace found.
+
+###
+10. Instruction: Translate the given text to French.
+10. Input:
+The sun sets behind the hills, casting a warm glow over the quiet village.
+10. Output:
+Le soleil se couche derrière les collines, projetant une chaude lueur sur le paisible village.
+
+###
+11. Instruction: Write a brief synopsis of a movie based on the provided title.
+11. Input:
+"Whispers of the Forest"
+11. Output:
+When a curious journalist ventures into a remote village, stories of an enchanted forest begin to unravel. The quest for untold magic turns into a race against time, as a nefarious organization seeks to exploit the power hidden within the "Whispers of the Forest."
+
+###
+12. Instruction: Evaluate whether the following sentence is appropriate for formal writing.
+12. Input:
+Hey dude, that absolutely rocks! Do you wanna grab some coffee later on?
+12. Output:
+The sentence is not appropriate for formal writing.
+
+###
+13. Instruction: Determine if the given sentence is in active or passive voice.
+13. Input:
+The package was delivered by the mail carrier.
+13. Output:
+Passive voice
+
+###
+14. Instruction: Assess the credibility of the following source.
+14. Input:
+A Facebook post by a user claiming a miracle cure for cancer using a homemade remedy.
+14. Output:
+Low credibility
+
+###
+15. Instruction: Correct any grammatical errors in the provided sentence.
+15. Input:
+He is one of the man who always stays late in the office.
+15. Output:
+He is one of the men who always stay late in the office.
+
+###
+16. Instruction: Compose an opening sentence for a story set in a haunted house.
+16. Input:
+<noinput>
+16. Output:
+The broken gate screeched on its rusted hinges, welcoming me to the decaying mansion that had haunted my nightmares since childhood.
+
+###
+17. Instruction: Write a user review for a mediocre product.
+17. Input:
+Bluetooth Headphones ABC-123
+17. Output:
+These Bluetooth headphones, ABC-123, do their job but are nothing extraordinary. The sound quality is average, and the battery life is decent, lasting around 6-7 hours. On the downside, they are not the most comfortable, and the connectivity can be spotty at times. Overall, they are okay for casual use but might not satisfy someone looking for a high-quality listening experience.
+
+###
+18. Instruction: Analyze the tone of the given text.
+18. Input:
+The careless actions of the government cannot be overlooked as the country spirals into turmoil—precious lives are lost, and the future seems bleak and uncertain.
+18. Output:
+The tone is critical and pessimistic.
+
+###
+19. Instruction: Write a brief weather report based on the following information.
+19. Input:
+temperature: 28°C (82°F), humidity: 75%, partly cloudy, slight chance of rain, wind speed: 10km/h (6mph)
+19. Output:
+Today's weather will be warm at 28°C (82°F) and partly cloudy, with a humidity level of 75%. There is a slight chance of rain, and the wind will be gentle, coming in at 10km/h (6mph).
+
+###
+20. Instruction: Explain the primary function of mitochondria in a cell.
+20. Input:
+<noinput>
+20. Output:
+The primary function of mitochondria in a cell is to produce energy through the process of cellular respiration, whereby they convert nutrients into adenosine triphosphate (ATP), the cell's primary energy currency.

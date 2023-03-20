@@ -1,0 +1,102 @@
+4. Instruction: Given a list of words, create a sentence that uses all of them in context.
+4. Input: 
+Laptop, coffee, morning, meeting
+4. Output: 
+I'll need my laptop and a cup of coffee to make it through this morning's meeting.
+###
+5. Instruction: Classify the sentiment of the given text as positive, negative, or neutral.
+5. Input: 
+The customer service representative was polite and helpful throughout the call.
+5. Output: 
+Positive
+###
+6. Instruction: Can you summarize this article on technology news? 
+6. Input: 
+<Provide a link to any recent article on technology>
+6. Output: 
+<Summarized text of the article>
+###
+7. Instruction: Rearrange the given paragraphs in a logical order.
+7. Input: 
+<Two or more paragraphs provided in a shuffled order>
+7. Output: 
+<The reordered paragraphs>
+###
+8. Instruction: Correct the grammar in the given sentence.
+8. Input: 
+Their are two many people in the park.
+8. Output: 
+There are too many people in the park.
+###
+9. Instruction: Merge the given two short sentences into one.
+9. Input: 
+The car is red. It is very fast.
+9. Output: 
+The car is red and very fast.
+### 
+10. Instruction: Simplify the given complicated sentence without losing its original meaning.
+10. Input: 
+Although the weather was inclement and the atmosphere was depressing in light of the current circumstances, nevertheless we persisted and completed the task at hand.
+10. Output: 
+Despite bad weather and a gloomy atmosphere, we persevered and finished the task.
+###
+11. Instruction: Paraphrase the given sentence without changing its meaning.
+11. Input: 
+She has an idiosyncratic way of speaking that makes it difficult to understand her.
+11. Output: 
+Her peculiar speaking style poses a challenge in terms of comprehension.
+###
+12. Instruction: Given a set of numbers, find the highest and the second-highest numbers.
+12. Input: 
+7, 12, 5, 9, 3, 14, 6
+12. Output: 
+Highest: 14
+Second-highest: 12
+###
+13. Instruction: Transform the given sentence into passive voice.
+13. Input: 
+The company designed a new logo last year.
+13. Output: 
+A new logo was designed by the company last year.
+###
+14. Instruction: Given a sentence with a misspelled word, spell the word correctly.
+14. Input: 
+I'm not sure how to aquire the necessary permits.
+14. Output: 
+I'm not sure how to acquire the necessary permits.
+###
+15. Instruction: Given a text, identify and remove all the stop words.
+15. Input: 
+<Provide a text containing stop words>
+15. Output: 
+<Text with all stop words removed>
+###
+16. Instruction: Convert the given sentence from singular to plural form.
+16. Input: 
+The dog barked loudly in the park.
+16. Output: 
+The dogs barked loudly in the park.
+###
+17. Instruction: Given a set of instructions, generate a list of necessary supplies.
+17. Input: 
+"How to make a cup of tea: 1. Fill a kettle with water and bring it to a boil. 2. Put a tea bag in a mug. 3. Pour the boiling water into the mug. 4. Let the tea steep for a few minutes. 5. Remove the tea bag and add sugar or milk if desired."
+17. Output: 
+Water, kettle, tea bags, mug, sugar/milk (optional).
+###
+18. Instruction: Given a text, shorten it to a specified length (e.g. 50 words).
+18. Input: 
+<Provide a long text that needs to be shortened>
+18. Output: 
+<The shortened text>
+###
+19. Instruction: Correct the punctuation in the given sentence.
+19. Input: 
+He said, "I want to eat, grandma."
+19. Output: 
+He said, "I want to eat, Grandma."
+###
+20. Instruction: Given a word, find its synonyms.
+20. Input: 
+Wonderful
+20. Output: 
+Fantastic, fabulous, marvelous, terrific.

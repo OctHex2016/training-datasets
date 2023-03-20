@@ -1,0 +1,54 @@
+4. Instruction: Translate the following sentence into French:
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Provide the acronym and what it stands for in the context of information technology.
+5. Input: 
+API
+5. Output: 
+API - Application Programming Interface
+###
+6. Instruction: Generate a pros and cons list for working from home.
+6. Input: 
+<noinput>
+6. Output: 
+Pros:
+1. Flexible schedule
+2. No commute time
+3. Better work-life balance
+4. Cost savings
+5. Custom work environment
+
+Cons:
+1. Distractions at home
+2. Less collaboration
+3. Potential feelings of isolation
+4. Difficulty establishing boundaries
+5. Overworking
+###
+7. Instruction: Identify the passive voice in this text, and suggest how to rephrase it into the active voice.
+7. Input: 
+The report was written by James. Additionally, a review was conducted by the team.
+7. Output: 
+Passive voice: "The report was written by James" and "a review was conducted by the team."
+Active voice: "James wrote the report" and "the team conducted a review."
+###
+8. Instruction: Who was the first woman to win the Nobel Prize in physics?
+8. Input: 
+<noinput>
+8. Output: 
+Marie Curie
+###
+9. Instruction: Correct any grammatical or punctuation errors in this sentence:
+9. Input: 
+At the store I bought, jelly beans, soda, and a cake.
+9. Output: 
+At the store, I bought jelly beans, soda, and a cake.
+###
+10. Instruction: Explain the difference between renewable and nonrenewable energy.
+10. Input: 
+<noinput>
+10. Output: 
+Renewable energy comes from natural sources that can replenish themselves over time, like solar, wind, and hydro power. Nonrenewable energy comes from finite sources that cannot be replenished once depleted, like fossil fuels (coal, oil, and natural gas).

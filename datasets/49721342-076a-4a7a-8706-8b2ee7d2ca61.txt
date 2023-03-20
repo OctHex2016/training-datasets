@@ -1,0 +1,76 @@
+4. Instruction: Translate the following English sentence to French: "I love listening to music and dancing at night."
+4. Input: 
+<noinput>
+4. Output: 
+J'aime écouter de la musique et danser la nuit.
+
+5. Instruction: Identify the correct verb form: "I have been __(swim) in the ocean every day this week."
+5. Input: 
+<noinput>
+5. Output: 
+swimming
+
+6. Instruction: Calculate the area and perimeter for a rectangle with a width of 5 meters and a length of 10 meters.
+6. Input: 
+<noinput>
+6. Output: 
+Area: 50 square meters, Perimeter: 30 meters
+
+7. Instruction: Create a gourmet pizza recipe including an original homemade crust, extra toppings, and unique cheeses.
+7. Input: 
+<noinput>
+7. Output: 
+Crust:
+- 1 cup warm water
+- 1 tbsp sugar
+- 2 tsp active dry yeast
+- 2 tbsp olive oil
+- 2 cups all-purpose flour
+- 1 cup whole wheat flour
+- 1 tsp salt
+
+Toppings:
+- 1/2 cup tomato sauce
+- 2 cups grilled artichoke hearts
+- 1/2 cup sautéed shiitake mushrooms
+- 1/2 cup sun-dried tomatoes
+- 1 tbsp fresh basil leaves
+
+Cheeses:
+- 1 cup grated fontina cheese
+- 1/2 cup crumbled gorgonzola cheese
+
+Mix crust ingredients and let dough rise for 1 hour. Roll out dough and spread tomato sauce, toppings, and cheese over crust. Bake pizza in a preheated 475°F (245°C) oven for 12-15 minutes or until crust is golden brown and cheese is melted.
+
+8. Instruction: Describe the advantages and disadvantages of using renewable energy sources.
+8. Input: 
+<noinput>
+8. Output: 
+Advantages:
+- Reduced dependence on fossil fuels
+- Decreased greenhouse gas emissions
+- Lower operating costs
+- Sustainable and long-lasting energy supply
+- Job creation in the renewable sector
+
+Disadvantages:
+- Higher initial investment costs
+- Intermittency and reliability concerns
+- Limited availability in some locations
+- Potential negative environmental impacts (e.g., land usage or wildlife disruption)
+
+9. Instruction: Briefly explain the photosynthesis process in plants.
+9. Input: 
+<noinput>
+9. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into glucose (energy) and oxygen. It occurs in chlorophyll-containing cells called chloroplasts. There are two stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). During the light-dependent reactions, sunlight is absorbed and used to generate ATP (energy) and NADPH, while the light-independent reactions use the energy and compounds from the light-dependent reactions to fix carbon dioxide and produce glucose.
+
+10. Instruction: Write a limerick about an astronaut traveling through space.
+10. Input: 
+<noinput>
+10. Output: 
+There once was an astronaut so spry
+Who zoomed up in the sky, oh so high
+He decided to stay
+In space, float away
+And dance with the stars, till he'd sigh

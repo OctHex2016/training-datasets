@@ -1,0 +1,19 @@
+4. Instruction: Summarize the email below while keeping the essential information.
+4. Input: 
+Subject: New Office Location and Moving Details
+
+Dear Team,
+
+I hope this email finds you well. I am excited to announce that our company will be moving to a new location at 123 Business Park, Suite 500. The move-in date is scheduled for next Monday, May 10th.
+
+To make this transition as smooth as possible, please pack up your personal belongings and label your boxes with your name and department by the end of the day tomorrow, May 4th. The moving company will arrive on Thursday, May 6th, to transport all boxes and equipment to the new office.
+
+We will take Friday as a moving day, which means you will not have to report to work that day. However, please ensure your remote working setup is functional, as you may need to work from home.
+
+Thank you for your cooperation, and we look forward to settling into our new office together.
+
+Best regards,
+
+[Your Supervisor]
+4. Output: 
+The company is moving to 123 Business Park, Suite 500 on May 10th. Pack and label personal belongings by May 4th. The moving company will transport everything on May 6th. Friday is a moving day off, but ensure your remote working setup is functional.

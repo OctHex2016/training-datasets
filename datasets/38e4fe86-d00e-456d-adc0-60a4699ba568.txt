@@ -1,0 +1,122 @@
+4. Instruction: Translate the sentence into French.
+4. Input: 
+The quick brown fox jumps over the lazy dog.
+4. Output: 
+Le rapide renard brun saute par-dessus le chien paresseux.
+
+5. Instruction: What happened in 2008 in the context of finance?
+5. Input: 
+<noinput>
+5. Output: 
+In 2008, the world experienced a major financial crisis, often referred to as the Global Financial Crisis. It originated from the collapse of the US housing market and spread across the globe, causing significant economic downturns, loss of jobs, and bank failures.
+
+6. Instruction: Explain how photosynthesis works in plants.
+6. Input: 
+<noinput>
+6. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, water, and carbon dioxide into glucose and oxygen. In plants, photosynthesis occurs in chloroplasts, where the green pigment chlorophyll absorbs light energy. This energy is used to split water molecules into hydrogen and oxygen. The hydrogen then combines with carbon dioxide to form glucose, a sugar that serves as an energy source for the plant. The oxygen produced as a byproduct is released into the atmosphere.
+
+7. Instruction: Proofread the given text and make necessary corrections.
+7. Input: 
+It's is importent too check you're grammer an spelling, becuase it affect's how people perceive you're wroting quality.
+7. Output: 
+It's important to check your grammar and spelling, because it affects how people perceive your writing quality.
+
+8. Instruction: Write a 5-line poem about the night sky.
+8. Input: 
+<noinput>
+8. Output: 
+In the velvet canvas of the night,
+Stars twinkle, like gems of pure light.
+The moon whispers a lullaby so gentle,
+Casting shadows, silhouettes so simple.
+In this dreamscape, I find peace, love, and delight.
+
+9. Instruction: Identify the type of music genre based on the given lyrics.
+9. Input: 
+"Come as you are, as you were,
+As I want you to be,
+As a friend, as a friend,
+As an old enemy."
+9. Output: 
+Grunge
+
+10. Instruction: Discuss the advantages and disadvantages of solar energy.
+10. Input: 
+<noinput>
+10. Output: 
+Advantages:
+1. Renewable and sustainable energy source
+2. Reduces greenhouse gas emissions
+3. Lowers electricity bills
+4. Low maintenance costs
+5. Supports energy independence
+
+Disadvantages:
+1. High upfront cost
+2. Weather-dependent efficiency
+3. Requires large land area for large-scale projects
+4. Energy storage can be costly
+5. Limited availability at night and during cloudy days
+
+11. Instruction: Calculate the area of a triangle with base 10 and height 15.
+11. Input: 
+<noinput>
+11. Output: 
+75 square units
+
+12. Instruction: How does a digital signature work in cryptographic systems?
+12. Input: 
+<noinput>
+12. Output: 
+A digital signature is a cryptographic technique used for data authentication and integrity protection. It involves two key processes: signing and verifying. In the signing process, the sender uses their private key to create a unique signature for the data being sent. The signature depends on the data and the signing private key. In the verifying process, the recipient uses the sender's public key to check if the signature is valid. If the signature is valid, it ensures that the data hasn't been tampered with and confirms the sender's identity.
+
+13. Instruction: Create a healthy and balanced 3-course meal menu.
+13. Input: 
+<noinput>
+13. Output: 
+Appetizer: Mixed greens salad with cherry tomatoes, cucumber, avocado, and lemon vinaigrette dressing.
+Main Course: Grilled salmon with steamed quinoa and roasted asparagus.
+Dessert: Fruit salad with Greek yogurt and honey.
+
+14. Instruction: Point out the logical fallacy in the given argument.
+14. Input: 
+If John didn't steal the cake, it must have been Peter. It wasn't John, so it was definitely Peter.
+14. Output: 
+False Dichotomy
+
+15. Instruction: Who wrote the famous novel "To Kill a Mockingbird"?
+15. Input: 
+<noinput>
+15. Output: 
+Harper Lee
+
+16. Instruction: Generate a piece of motivational advice.
+16. Input: 
+<noinput>
+16. Output: 
+No matter how tough the journey may be, never give up. Embrace your struggles and learn from them, as they are the stepping stones to your success.
+
+17. Instruction: Determine the most likely diagnosis based on the symptoms.
+17. Input: 
+Headache, fever, fatigue, sore throat, and swollen lymph nodes.
+17. Output: 
+Mononucleosis (mono)
+
+18. Instruction: Recommend a science fiction movie based on the given preferences.
+18. Input: 
+Time travel, thought-provoking plot, relatable characters
+18. Output: 
+Primer (2004)
+
+19. Instruction: Summarize the story of Cinderella in a few sentences.
+19. Input: 
+<noinput>
+19. Output: 
+Cinderella is a beautiful girl who endures hardship and abuse from her wicked stepmother and stepsisters. With the help of her Fairy Godmother, she gets transformed into a stunning belle and attends the royal ball where she captivates the prince. She leaves at midnight, losing her glass slipper. The prince finds her through the glass slipper, and they live happily ever after.
+
+20. Instruction: Write a thesis statement for an essay about the importance of recycling.
+20. Input: 
+<noinput>
+20. Output: 
+Recycling plays an essential role in preserving our planet's resources, reducing environmental pollution, and contributing to a sustainable, green economy; thus, governments, industries, and individuals must participate in and prioritize recycling efforts.

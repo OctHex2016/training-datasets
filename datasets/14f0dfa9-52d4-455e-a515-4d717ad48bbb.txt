@@ -1,0 +1,132 @@
+4. Instruction: Rewrite the given sentence by replacing the informal language with a formal version.
+4. Input:
+Hey, can you gimme a hand here with these boxes for a sec?
+4. Output:
+Excuse me, could you please assist me with these boxes for a moment?
+
+5. Instruction: Correct any grammatical mistakes in the given paragraph.
+5. Input:
+On the day she wents to the market, Jenny discover they're selling organic tomatoes. She tought, "I shoulds buy these for my salad." So, she purchase a bunch and returned home satisfied.
+5. Output:
+On the day she went to the market, Jenny discovered they were selling organic tomatoes. She thought, "I should buy these for my salad." So, she purchased a bunch and returned home satisfied.
+
+6. Instruction: Make a list of book recommendations based on the given genre.
+6. Input:
+Historical fiction
+6. Output:
+- All the Light We Cannot See by Anthony Doerr
+- Wolf Hall by Hilary Mantel
+- The Nightingale by Kristin Hannah
+- The Pillars of the Earth by Ken Follett
+- The Other Boleyn Girl by Philippa Gregory
+- The Book Thief by Markus Zusak
+- Outlander by Diana Gabaldon
+- The Help by Kathryn Stockett
+
+7. Instruction: Identify the logical fallacy in the given argument.
+7. Input:
+Susan must be a socialist because she doesn't believe in the importance of the free market.
+7. Output:
+Hasty generalization
+
+8. Instruction: Suggest some career options for someone who loves programming and is good at problem-solving.
+8. Input: <noinput>
+8. Output:
+- Software Engineer
+- Data Scientist
+- Web Developer
+- Mobile App Developer
+- Game Developer
+- Cybersecurity Analyst
+- Machine Learning Engineer
+- Systems Analyst
+
+9. Instruction: Explain the scientific principle behind the given phenomenon.
+9. Input:
+Rainbows
+9. Output:
+Rainbows occur as a result of both reflection and refraction of light in water droplets in the earth's atmosphere. Within these water droplets, the incident sunlight is first refracted, then reflected inside the droplet, and finally refracted again as it leaves the droplet. Due to the dispersion of light, the different colors that make up sunlight are bent by different angles, creating a circle of colors with red on the outside and violet on the inside.
+
+10. Instruction: Briefly explain how to perform the given exercise.
+10. Input:
+Push-ups
+10. Output:
+To perform push-ups, start in a high plank position with your hands placed shoulder-width apart, your arms fully extended, and your palms flat on the ground. Keep your back straight and engage your core. Lower your chest towards the ground by bending your elbows, keeping your body in a straight line. Once your chest is close to the ground or parallel, push yourself back up to the starting position by fully extending your arms. Repeat this movement for the desired number of repetitions.
+
+11. Instruction: Provide key points to include in a debate about the given topic.
+11. Input:
+Euthanasia
+11. Output:
+- Ethical considerations (right to die vs. sanctity of life)
+- Legal implications (consent, regulation, and potential abuse)
+- Medical professional's role and moral responsibility
+- Euthanasia vs. assisted suicide
+- Cultural and religious aspects
+- The quality of life and end-of-life care
+- Palliative care and pain management
+
+12. Instruction: Translate the given sentence into Spanish.
+12. Input:
+The weather today is sunny and warm.
+12. Output:
+El clima de hoy es soleado y cálido.
+
+13. Instruction: Provide a brief analysis of the given movie.
+13. Input:
+Inception
+13. Output:
+Inception, directed by Christopher Nolan, is a science-fiction thriller that explores the concept of subconscious dream manipulation. The film follows the protagonist, Cobb, who is an expert in stealing information from people's dreams for corporate espionage. Cobb is tasked with implanting an idea in the target's mind, a process called "Inception." The movie challenges the audiences' perception of reality while delving deep into themes such as guilt, redemption, and the nature of dreams. With its complex narrative structure and stunning visual effects, Inception leaves viewers pondering the meaning and implications of its story long after watching.
+
+14. Instruction: Count the number of words in the given sentence.
+14. Input:
+The quick brown fox jumps over the lazy dog.
+14. Output:
+9
+
+15. Instruction: From the given list, select the items that are considered dairy products.
+15. Input:
+Milk, tomatoes, bread, cheese, butter, chicken, yogurt, salmon
+15. Output:
+Milk, cheese, butter, yogurt
+
+16. Instruction: List some tips for maintaining a healthy work-life balance.
+16. Input: <noinput>
+16. Output:
+- Set boundaries between work and personal life
+- Prioritize time management and organization
+- Schedule regular breaks and exercise
+- Develop hobbies and interests outside of work
+- Avoid multitasking and focus on one task at a time
+- Allocate time for relaxation and self-care
+- Seek support from friends, family, and coworkers
+
+17. Instruction: Write a short review of the given product.
+17. Input:
+Apple iPhone 13 Pro
+17. Output:
+The Apple iPhone 13 Pro features significant improvements, including a smaller notch, more powerful A15 Bionic chip, and a 120Hz ProMotion display for a smoother user experience. The camera system has also been upgraded, providing impressive low-light performance and new features like Cinematic Mode for creative video enthusiasts. The battery life has seen a noticeable increase, allowing for extended daily use. Overall, the iPhone 13 Pro offers a refined experience and is a reliable choice for those looking to invest in a versatile, high-performance smartphone.
+
+18. Instruction: Suggest a gift idea based on the given hobby or interest.
+18. Input:
+Photography
+18. Output:
+A high-quality camera lens or a photography workshop voucher
+
+19. Instruction: Arrange the given words to form a meaningful sentence.
+19. Input:
+life of animals variety the on Earth great is
+19. Output:
+The variety of animals on Earth is great life.
+
+20. Instruction: Provide a few steps for making scrambled eggs.
+20. Input: <noinput>
+20. Output:
+1. Crack two to three eggs into a bowl
+2. Add a splash of milk or cream
+3. Whisk the egg mixture until well combined
+4. Heat a non-stick pan over medium heat and add butter or oil
+5. Pour the egg mixture into the pan
+6. Stir gently with a spatula, allowing the eggs to form curds
+7. Cook until the eggs are set but still slightly soft
+8. Season with salt and pepper
+9. Serve hot with toast or as desired

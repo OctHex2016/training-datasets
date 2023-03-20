@@ -1,0 +1,59 @@
+4. Instruction: Generate a list of the top 10 cheapest flights from New York to Los Angeles.
+4. Input: 
+<noinput>
+4. Output: 
+Here are the top 10 cheapest flights from New York to Los Angeles: 
+1. Spirit Airlines: $80
+2. Frontier Airlines: $90
+3. JetBlue: $100
+4. Delta: $120 
+5. American Airlines: $130
+6. Southwest Airlines: $135
+7. United Airlines: $145
+8. Alaska Airlines: $150
+9. Air Canada: $160
+10. Virgin America: $165
+###
+5. Instruction: Edit the given sentence to improve its clarity and readability.
+5. Input: 
+Sentence: Despite the fact that she is very talented, she decided not to pursue a career in music because of her fear of failure. 
+5. Output: 
+Although she is very talented, fear of failure prevented her from pursuing a career in music. 
+###
+6. Instruction: Provide a set of relevant product recommendations for a person looking to buy a new smartphone.
+6. Input: 
+<noinput>
+6. Output: 
+Based on your preferences, we recommend the following smartphones: 
+1. iPhone 12 Pro: A high-end, user-friendly option with great performance, cameras and display. 
+2. Samsung Galaxy S21: A top-tier Android phone with a large display, great camera and fast performance.
+3. Google Pixel 5: A good option for those who prioritize photography with excellent camera quality.
+4. OnePlus 9 Pro: A high-quality, feature-rich option with a great display and fast charging.
+5. Oppo Find X3 Pro: One of the most forward-thinking Android phones on the market, known for its range of photography tools and features. 
+###
+7. Instruction: Generate a restaurant recommendation for two people in downtown San Francisco, California.
+7. Input: 
+<noinput>
+7. Output: 
+I recommend trying "Zuni Café" for a romantic evening dining experience in downtown San Francisco. It offers a warm atmosphere and serves expertly prepared American cuisine. Don't forget to try their signature roast chicken to share for two. 
+###
+8. Instruction: Provide three possible solutions to reduce car dependency in crowded cities. 
+8. Input: 
+<noinput>
+8. Output: 
+There are several ways to reduce car dependency in crowded cities, including: 
+1. Improved public transportation systems with more frequent, reliable service and greater coverage area. 
+2. Encouraging bicycling and walking by providing dedicated bike lanes and pedestrian paths, and reducing speed limits in certain areas.
+3. Providing incentives for carpooling or using ride-sharing services such as Lyft or Uber, through lower fares or other perks. 
+###
+9. Instruction: What are some interesting places to visit in Bangkok, Thailand for a tourist?
+9. Input: 
+<noinput>
+9. Output: 
+Some interesting places for tourists to visit in Bangkok, Thailand include the Grand Palace, Wat Phra Kaew, Wat Arun, and the floating markets. Visitors can also enjoy the various street food stalls and lively night markets for shopping and entertainment. Don't forget to try the famous "pad thai" dish while there! 
+###
+10. Instruction: Generate a summary of the given article on renewable energy. 
+10. Input: 
+Article: A new study has found that solar energy systems that include energy storage are now the cheapest source of electricity in many countries around the world. The report emphasizes that storing solar power in batteries is now more cost-effective than using fossil fuels, and predicts that solar energy will increasingly undercut fossil fuels in the future. The findings apply to a broad swath of territories covering one-third of the global population, where clean electricity from solar-plus-storage is now cheaper than electricity supplied by coal- and gas-fired power plants. 
+10. Output: 
+A recent study concluded that solar energy systems with energy storage are now the cheapest source of electricity in many parts of the world, covering one-third of the global population. The report states that storing solar power in batteries is now more cost-effective than using fossil fuels. Additionally, it is predicted that solar energy will increasingly replace fossil fuels in the future.

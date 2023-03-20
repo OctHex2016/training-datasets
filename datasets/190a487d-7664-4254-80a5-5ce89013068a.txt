@@ -1,0 +1,105 @@
+4. Instruction: Rewrite the paragraph in the passive voice.
+4. Input: 
+She cooked dinner last night while her husband cleaned the kitchen. He prepared the table and she served the food. After they finished eating, he washed the dishes, and she wiped them dry with a towel.
+4. Output: 
+Dinner was cooked last night by her while the kitchen was cleaned by her husband. The table was prepared by him and the food was served by her. After eating was finished by them, the dishes were washed by him, and they were wiped dry with a towel by her.
+
+5. Instruction: Translate the given text to French.
+5. Input: 
+The weather is nice today, and I plan on going for a walk in the park. I might take a book with me to read under a shady tree.
+5. Output: 
+Le temps est beau aujourd'hui, et je prévois d'aller me promener dans le parc. Je pourrais prendre un livre avec moi pour le lire sous un arbre ombragé.
+
+6. Instruction: Suggest three college majors that fit the given interests and strengths.
+6. Input: 
+Interests: environment, animals, problem-solving; Strengths: data analysis, communication, teamwork
+6. Output: 
+1. Environmental Science
+2. Wildlife Biology
+3. Sustainable Development
+
+7. Instruction: Write a rhyming couplet about happiness.
+7. Input: 
+<noinput>
+7. Output: 
+In happiness we find our bliss, a warm embrace, a lover's kiss.
+
+8. Instruction: Use the given words to form a well-structured sentence.
+8. Input: 
+Words: family, eager, adventure, embarked
+8. Output: 
+The eager family embarked on their exciting adventure.
+
+9. Instruction: Identify the poetic device used in the given line.
+9. Input: 
+Line: "The stars twinkled like diamonds in the sky."
+9. Output: 
+Simile
+
+10. Instruction: Convert the given date to the ISO 8601 format.
+10. Input: 
+Date: 12 February 1998
+10. Output: 
+1998-02-12
+
+11. Instruction: What is the probability of getting a sum of 7 when rolling two standard six-sided dice?
+11. Input: 
+<noinput>
+11. Output: 
+The probability is 1/6, or approximately 16.67%.
+
+12. Instruction: Check the input for spelling and grammatical errors and correct them.
+12. Input: 
+Txt: Heyy, I wantted to ask yuou, are yuo gouing to teh party tomorow night? Can we meet up infront of the place at 7 PM?
+12. Output: 
+Hey, I wanted to ask you, are you going to the party tomorrow night? Can we meet up in front of the place at 7 PM?
+
+13. Instruction: Offer a brief summary of the given article.
+13. Input: 
+Article: "New Renewable Energy Solution Unveiled: Innovative Solar Panels to Power Skyscrapers."
+The article discusses a breakthrough in renewable energy technology. Scientists have developed a new type of solar panel designed for large buildings and skyscrapers. These innovative solar panels are flexible, lightweight, and easy to install on vertical surfaces. The panels can be attached to windows and last up to 20 years before needing replacement. The technology has the potential to revolutionize urban energy consumption and reduce greenhouse gas emissions at an unprecedented scale.
+13. Output: 
+The article highlights a cutting-edge renewable energy innovation: solar panels specially designed for skyscrapers and large buildings. These lightweight, flexible panels can be installed on vertical surfaces and have the potential to significantly reduce urban greenhouse gas emissions.
+
+14. Instruction: Create two anagrams of the provided word.
+14. Input: 
+Word: silent
+14. Output: 
+1. enlist
+2. tinsel
+
+15. Instruction: Rate the given movie out of 10 based on your understanding of its content.
+15. Input: 
+Movie: "A heartwarming documentary about a group of underprivileged children who use ballet dancing to escape bad situations and find something beautiful in their lives."
+15. Output: 
+9/10
+
+16. Instruction: Identify the author of the following quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+16. Input: 
+<noinput>
+16. Output: 
+Ralph Waldo Emerson
+
+17. Instruction: Write a short description of the painting provided.
+17. Input: 
+Painting: "A peaceful landscape with a small, tranquil lake surrounded by lush green trees. The sun is setting, casting warm colors in the sky."
+17. Output: 
+The painting showcases a serene lakeside scene amidst verdant foliage, bathed in the gentle hues of the setting sun, inviting the viewer to experience the tranquility of nature.
+
+18. Instruction: Find the synonym for the following word: "exhausted".
+18. Input: 
+<noinput>
+18. Output: 
+Fatigued
+
+19. Instruction: Write a short positive review for a bakery.
+19. Input: 
+<noinput>
+19. Output: 
+I recently visited this charming bakery and was absolutely delighted by their delicious treats and warm atmosphere. The staff was friendly, and the pastries were fresh and delectable. I highly recommend stopping by for a tasty indulgence!
+
+20. Instruction: Explain the difference between renewable and non-renewable resources.
+20. Input: 
+<noinput>
+20. Output: 
+Renewable resources are natural resources that can be replenished over time, such as solar, wind, and hydro power. Non-renewable resources, on the other hand, are finite and cannot be replaced once they are depleted, like fossil fuels (coal, oil, and natural gas).

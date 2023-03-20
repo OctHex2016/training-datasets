@@ -1,0 +1,48 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input:
+The artist painted the mural on the wall.
+4. Output:
+The mural on the wall was painted by the artist.
+###
+5. Instruction: Summarize the importance of the given event in two sentences.
+5. Input:
+The signing of the Emancipation Proclamation by Abraham Lincoln in 1863.
+5. Output:
+The Emancipation Proclamation was a significant step towards abolishing slavery in the United States. By declaring all enslaved people in Confederate-held territories free, it laid the groundwork for the eventual end of slavery in America.
+###
+6. Instruction: Name a famous artwork that relates to the theme mentioned.>
+6. Input:
+<noinput>
+6. Output:
+Guernica by Pablo Picasso, depicting the horrors of war.
+###
+7. Instruction: Arrange the following words to form a grammatically correct sentence.
+7. Input:
+sky / night / stars / lit / the / brightly / up
+7. Output:
+The night sky was lit up brightly by the stars.
+###
+8. Instruction: Identify the correct spelling of the given word.
+8. Input:
+mischievous, mischevious, mischeivous, mischivous
+8. Output:
+mischievous
+###
+9. Instruction: List the main character(s) from the given work of literature.
+9. Input:
+The Lord of The Rings
+9. Output:
+Frodo Baggins, Gandalf, Samwise Gamgee, Aragorn, Legolas, Gimli, 
+Boromir, Merry Brandybuck, Pippin Took
+###
+10. Instruction: Analyze the tone of the given text.
+10. Input:
+She walked into the room, her eyes scanning the space in a mixture of fascination and dread. The shadows cast by flickering candles gave the room an eerie feeling.
+10. Output:
+The tone of the text is mysterious and ominous.
+###
+11. Instruction: Describe a time-management technique based on the provided input.
+11. Input:
+The Pomodoro Technique
+11. Output:
+The Pomodoro Technique is a time-management method that involves breaking work into short intervals, usually 25 minutes, called “pomodoros,” followed by a short break. After completing four pomodoros, you take a longer break. This technique helps maintain focus and prevent burnout.

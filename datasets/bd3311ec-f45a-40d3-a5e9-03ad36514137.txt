@@ -1,0 +1,143 @@
+4. Instruction: Summarize the given text in 2-3 sentences.
+4. Input:
+In the study, researchers discovered that individuals who regularly consumed low-fat dairy products like skim milk experienced an increased risk of developing Parkinson's disease as opposed to those who did not consume dairy products. Along with the low-fat dairy products, the study also found that the consumption of regular-fat dairy products had a similar effect, albeit at a reduced risk level. However, researchers noted that the overall risk is still relatively small for an individual in the general population.
+
+4. Output:
+The study found that individuals who regularly consumed low-fat dairy products had an increased risk of developing Parkinson's disease compared to non-consumers. However, the overall risk for an individual in the general population remains relatively small.
+
+###
+
+5. Instruction: What happened on this day in history? Choose one significant event.
+5. Input: 
+<noinput>
+5. Output:
+On October 14, 1962, U.S. reconnaissance photographs revealed Soviet missiles in Cuba, marking the beginning of the Cuban Missile Crisis.
+
+###
+
+6. Instruction: Develop a rhyming couplet about the given subject.
+6. Input:
+love
+6. Output:
+In the moonlit sky above, we find ourselves entwined in love.
+Our hearts as one, our souls a match, a passion that no words can catch.
+
+###
+
+7. Instruction: Proofread and edit the given text for grammar and spelling mistakes.
+7. Input:
+The boy slaeped all nite and when he woke up, he whent strait to the beach for his friend where waiting for them.
+7. Output:
+The boy slept all night and when he woke up, he went straight to the beach where his friends were waiting for him.
+
+###
+
+8. Instruction: What is an alternative way to say the given phrase?
+8. Input:
+I'm so sick of this weather
+8. Output:
+I'm fed up with this weather
+
+###
+
+9. Instruction: Translate the given text into French.
+9. Input:
+Please send this letter to my aunt.
+9. Output:
+Veuillez envoyer cette lettre à ma tante.
+
+###
+
+10. Instruction: Formulate a question that could lead to the given answer.
+10. Input:
+New York is among the busiest cities in the world.
+10. Output:
+Which city is considered one of the busiest in the world?
+
+###
+
+11. Instruction: Name a famous person who is associated with the given profession.
+11. Input: 
+Painter
+11. Output:
+Vincent van Gogh
+
+###
+
+12. Instruction: Come up with two pros and two cons of the given subject.
+12. Input:
+Remote learning
+12. Output:
+Pros: 
+1. Students can learn at their own pace. 
+2. It's accessible to learners living in remote areas.
+
+Cons:
+1. Limited interaction between students and teachers. 
+2. Requires access to reliable internet and technology.
+
+###
+
+13. Instruction: Identify a logical fallacy in the given argument.
+13. Input:
+Just because you’ve never seen an alien, doesn’t mean they don’t exist. All kinds of things exist that we’ve never seen before.
+13. Output:
+Argument from ignorance
+
+###
+
+14. Instruction: Explain a common idiom in your own words.
+14. Input: 
+"Curiosity killed the cat."
+14. Output:
+Being overly inquisitive can lead to unintended harm or consequences.
+
+###
+
+15. Instruction: Write a haiku about the given topic.
+15. Input:
+Rainforest
+15. Output:
+Lush leaves above me,
+Whispers of life echoing,
+Rain paints the forest.
+
+###
+
+16. Instruction: Convert the given phrase into a simple mathematical expression.
+16. Input:
+The sum of 5 and the product of 7 and a number x
+16. Output:
+5 + 7x
+
+###
+
+17. Instruction: Unscramble the letters to form a meaningful word.
+17. Input:
+ohlascc
+17. Output:
+school
+
+###
+
+18. Instruction: Use the given word in a sentence that describes a problem or difficult situation.
+18. Input:
+obstacle
+18. Output:
+The boulder blocking the road posed a significant obstacle to our journey.
+
+###
+
+19. Instruction: Which planet has the given features?
+19. Input:
+The planet has liquid water and is the third planet from the sun.
+19. Output:
+Earth
+
+###
+
+20. Instruction: Write a palindrome, a word, phrase, or sequence that reads the same backward as forward.
+20. Input:
+<noinput>
+20. Output:
+A man, a plan, a canal, Panama!

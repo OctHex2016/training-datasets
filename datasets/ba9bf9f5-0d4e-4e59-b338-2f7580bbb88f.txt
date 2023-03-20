@@ -1,0 +1,136 @@
+4. Instruction: Generate a summary of the following article:
+4. Input: 
+https://www.theguardian.com/world/2021/oct/18/italy-moves-to-make-covid-jab-compulsory-for-all-workers
+4. Output: 
+Italian lawmakers have advanced a proposal that would require anyone working in the public or private sector, with few exceptions, to provide proof of full COVID-19 vaccination. The proposed measure comes amid a renewed push in Italy to increase vaccination rates as the country endures a fourth wave of coronavirus infections. Supporters of the measure argue that a vaccination mandate is necessary to protect public health, while opponents fear that it would be an unnecessary infringement on individual rights.
+###
+
+5. Instruction: Generate a summary of the following scientific research article:
+5. Input: 
+https://www.nature.com/articles/d41586-021-02538-w
+5. Output: 
+Scientists have developed a method to analyze proteins that is capable of detecting changes in the structure of a protein molecule, which affects its function. The researchers believe that this method could help to explain how diseases occur and potentially lead to new treatments in the future. The method, which is called ANCHOR, is based on using mass spectrometry to gradually expose the protein to increasing levels of heat, until the protein unfolds and its structure can be analyzed. The researchers hope that this method could be used to develop targeted treatment for protein-based diseases.
+###
+
+6. Instruction: Write a story introducing two characters, including their names and occupation.
+6. Input:
+<noinput>
+6. Output: 
+Lena, a freelance writer, met John, a bartender, at a local coffee shop. They struck up a conversation when Lena noticed John's shirt, which had a famous quote from her favorite book. She couldn't help but smile when John not only recognized the quote but finished it for her. Over the next few months, they spent more and more time together, sharing laughs and drinks as the hours flew by. Lena and John may have very different jobs, but they quickly discovered they had a common love of books, music, and the simple things in life.
+###
+
+7. Instruction: Generate a headline for the following story.
+7. Input: 
+The U.S. Plans to Mandate Break Time for Traffic Enforcement Agents After a Series of High-Profile Tragedies
+7. Output: 
+U.S. Traffic Enforcement Agents to Get Mandatory Break Time After Tragedies
+###
+
+8. Instruction: Provide a one-sentence answer to the following question. 
+8. Input: 
+What is the capital of Portugal?
+8. Output: 
+Lisbon is the capital of Portugal.
+###
+
+9. Instruction: Given a set of numbers, calculate the average. 
+9. Input: 
+23, 45, 12, 67, 89, 32, 45
+9. Output: 
+The average is 47.29.
+###
+
+10. Instruction: Generate two similar but distinct product descriptions for the following product. 
+10. Input: 
+Product: Handmade woolen scarf.
+10: Output1: 
+Stay warm this winter with our handmade woolen scarves, crafted with care and attention to detail.
+Output2: Our cozy and stylish woolen scarves are the perfect addition to any winter outfit, handmade with high quality materials for the ultimate comfort and warmth.
+###
+
+11. Instruction: Provide a step-by-step guide on how to make a sandwich. 
+11. Input: 
+<noinput>
+11. Output: 
+1. Start with two slices of bread.
+2. Spread your favorite condiment on one of the slices.
+3. Add your choice of deli meats, cheese, or vegetables to the sandwich.
+4. Add salt and pepper to taste.
+5. Close the sandwich with the remaining bread slice.
+6. Cut the sandwich in half (if desired) and serve.
+###
+
+12. Instruction: Edit the following sentence to be grammatically correct. 
+12. Input: 
+I has two cats and a dog. 
+12. Output: 
+I have two cats and a dog.
+###
+
+13. Instruction: Generate a list of songs by the Beatles. 
+13. Input: 
+<noinput>
+13. Output: 
+1. Here Comes The Sun
+2. Let It Be
+3. A Hard Day's Night
+4. Hey Jude
+5. Help!
+###
+
+14. Instruction: What is the purpose of a thesis statement in an essay?
+14. Input: 
+<noinput>
+14. Output: 
+The purpose of a thesis statement is to provide the main focus or argument of an essay in a concise and clear manner. 
+
+15. Instruction: Generate a random number between 1 and 100. 
+15. Input: 
+<noinput>
+15. Output: 
+72
+###
+
+16. Instruction: What is the difference between affect and effect?
+16. Input: 
+<noinput>
+16. Output: 
+'Affect' is a verb that means to impact or influence, while 'effect' is a noun that refers to the result of an action or an impact. 
+
+17. Instruction: Write a poem about nature. 
+17. Input: 
+<noinput>
+17. Output: 
+The trees sway gently in the breeze
+As the birds sing with ease.
+Clouds drift by in a lazy dance
+The world around us brings romance.
+Nature's beauty is all around
+The sight, the scents, the natural sound.
+It's a treasure we must preserve
+For generations to come to observe.
+###
+
+18. Instruction: What are some common interview questions? 
+18. Input: 
+<noinput>
+18. Output: 
+1. Can you tell us a bit about yourself?
+2. Why are you interested in this job/field?
+3. What are your biggest strengths? 
+4. Can you give an example of a time when you faced a difficult challenge? 
+5. Where do you see yourself in five years? 
+###
+
+19. Instruction: Rewrite the sentence to be in active voice. 
+19. Input: 
+The road was crossed by the deer. 
+19. Output: 
+The deer crossed the road.
+###
+
+20. Instruction: What is the difference between a simile and a metaphor? 
+20. Input: 
+<noinput>
+20. Output: 
+A simile compares two things using 'like' or 'as', while a metaphor directly identifies two things as being the same without using 'like' or 'as'.

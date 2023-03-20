@@ -1,0 +1,144 @@
+4. Instruction: Identify the music genre based on the artists mentioned below.
+4. Input: 
+Tupac Shakur, Notorious B.I.G., Snoop Dogg
+4. Output: 
+Hip hop
+
+###
+5. Instruction: Suggest ways I can incorporate more exercise into my daily routine.
+5. Input: 
+<noinput>
+5. Output: 
+1. Take the stairs instead of elevators or escalators.
+2. Park your car further away from your destination and walk.
+3. Cycle or walk to work if possible.
+4. Take short movement breaks throughout the day to stretch or do bodyweight exercises.
+5. Use a standing or treadmill desk while working.
+6. Join a local sports team or exercise class.
+7. Set an alarm to remind yourself to get up and move every hour.
+8. Go for a walk during lunch breaks.
+9. Incorporate household chores or gardening activities that require physical effort.
+
+###
+6. Instruction: Critique the following argument and suggest areas for improvement.
+6. Input: 
+It is widely considered that video games are detrimental to academic performance, primarily because they consume a significant amount of time that ought to be spent on studying. Consequently, students should abstain from playing video games.
+6. Output: 
+The argument makes a hasty generalization by assuming that video games are detrimental for all students in terms of academic performance. A more balanced approach would be to acknowledge the potential benefits of video games, such as cognitive development, problem-solving skills, and stress relief. The argument could be improved by making a distinction between excessive gaming and moderate use of video games. Additionally, providing specific evidence or research studies that support the negative impact on academic performance would strengthen the argument.
+
+###
+7. Instruction: Summarize the key points of the following article excerpt.
+7. Input: 
+In an extraordinary turn of events for the beleaguered social media giant, Facebook is facing multiple inquiries from US federal regulators over how it handles users' data. The Federal Trade Commission (FTC), the Securities and Exchange Commission (SEC), the Department of Justice (DOJ), and the Federal Bureau of Investigation (FBI) are all scrutinizing the tech company. The multi-agency investigation comes in the wake of revelations that data from 87 million Facebook users was harvested by the political consulting firm Cambridge Analytica, which subsequently worked on the Trump presidential campaign.
+7. Output: 
+Facebook is being investigated by multiple US federal regulators, including the FTC, SEC, DOJ, and FBI, over its handling of users' data. This follows the revelation that 87 million Facebook users' data was harvested by political consulting firm Cambridge Analytica, which later worked on the Trump presidential campaign.
+
+###
+8. Instruction: Turn this negative comment into a constructive feedback.
+8. Input: 
+This report looks amateurish, and the statistics provided are totally unreliable.
+8. Output: 
+To improve the report, consider refining the presentation and layout to appear more professional. Double-check the sources and accuracy of the statistics to ensure their reliability while strengthening the report's credibility.
+
+###
+9. Instruction: Translate the following text from English to French.
+9. Input: 
+We live in a world where access to information is easier than ever before, thanks to the Internet and mobile devices.
+9. Output: 
+Nous vivons dans un monde où l'accès à l'information est plus facile que jamais grâce à Internet et aux appareils mobiles.
+
+###
+10. Instruction: Write a haiku about autumn.
+10. Input: 
+<noinput>
+10. Output: 
+Crisp leaves underfoot,
+Golden landscape gently breathes,
+Autumn whispers peace.
+
+###
+11. Instruction: What major world events took place in the year 2000?
+11. Input: 
+<noinput>
+11. Output: 
+1. The start of the new millennium (Y2K).
+2. The dot-com bubble burst, causing a stock market crash.
+3. Vladimir Putin was elected President of Russia.
+4. The Summer Olympics took place in Sydney, Australia.
+
+Note: These are just a few of the major events from the year 2000.
+
+###
+12. Instruction: Provide a brief explanation of photosynthesis.
+12. Input: 
+<noinput>
+12. Output: 
+Photosynthesis is a biological process through which plants, algae, and certain bacteria convert sunlight, carbon dioxide, and water into glucose (sugar) and oxygen, which they use for growth and energy. This process, which primarily occurs in the chlorophyll-containing chloroplasts of these organisms, is essential for sustaining life on Earth, as it serves as the foundation for food chains and oxygen production.
+
+###
+13. Instruction: List four distinct advantages of using renewable energy sources over non-renewable ones.
+13. Input: 
+<noinput>
+13. Output: 
+1. Environmentally friendly: Renewable energy sources produce less pollution and greenhouse gas emissions, reducing their impacts on climate change and air quality.
+2. Sustainability: Renewable energy sources, like solar, wind, and hydro power, are replenished naturally and do not deplete limited resources like fossil fuels.
+3. Energy security: Diversifying the energy mix through renewable sources decreases reliance on imported fuels and makes energy supply more resilient.
+4. Cost-effectiveness: Renewable energy technologies, such as solar and wind, have seen significant cost reductions, and their maintenance costs are often lower than those of non-renewable energy sources.
+
+###
+14. Instruction: Rewrite the following sentence using the passive voice.
+14. Input: 
+The authorities imposed a strict curfew on the town during the emergency.
+14. Output: 
+A strict curfew was imposed on the town by the authorities during the emergency.
+
+###
+15. Instruction: List three common mistakes that people make while giving presentations and tips for avoiding them.
+15. Input: 
+<noinput>
+15. Output: 
+1. Reading from slides: Limit the amount of text on slides and use bullet points to create a visual summary. Practice enough to be comfortable with the content and only use slides as reminders.
+2. Speaking too fast: Control your nerves and be mindful of your pacing. Practice deep breathing exercises and train yourself to speak slower than your natural pace.
+3. Poor eye contact: Engage your audience by maintaining eye contact. Look at different members of the audience for a few seconds each to create a connection, and practice this skill during rehearsals.
+
+###
+16. Instruction: Create a word problem involving addition of two-digit numbers.
+16. Input: 
+<noinput>
+16. Output: 
+Lucy went to the store and bought 27 apples to make apple pies. Later, her friend brought over 36 more apples from her garden as a surprise. How many apples does Lucy have now?
+
+###
+17. Instruction: Identify the incorrect word in the sentence and provide the correct word to replace it.
+17. Input: 
+It is important to communicate your ideas efficient in a meeting.
+17. Output: 
+Incorrect word: efficient
+Correct word: efficiently
+
+###
+18. Instruction: List five example careers for someone with a degree in computer science.
+18. Input: 
+<noinput>
+18. Output: 
+1. Software developer
+2. Data scientist
+3. UX/UI designer
+4. Cybersecurity analyst
+5. IT consultant
+
+###
+19. Instruction: Convert the saturated fat content listed in grams (g) to milligrams (mg) and the sodium content listed in milligrams (mg) to grams (g).
+19. Input: 
+Saturated fat: 3g
+Sodium: 950mg
+19. Output: 
+Saturated fat: 3000mg
+Sodium: 0.95g
+
+###
+20. Instruction: Describe the geographical location of Japan in relation to its surrounding countries and bodies of water.
+20. Input: 
+<noinput>
+20. Output: 
+Japan is an island nation located in East Asia, off the eastern coast of the continent. It is bordered by the Sea of Japan and the East China Sea to the west, the Philippine Sea to the south, and the Pacific Ocean to the east. Neighboring countries include Russia to the north (across the Sea of Okhotsk), South Korea and North Korea to the west (across the Sea of Japan), and China and Taiwan to the southwest (across the East China Sea and the Philippine Sea).

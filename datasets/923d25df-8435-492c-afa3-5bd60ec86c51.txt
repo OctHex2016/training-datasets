@@ -1,0 +1,122 @@
+4. Instruction: Identify the top three innovations that emerged from the 19th century.
+4. Input: 
+<noinput>
+4. Output: 
+1. The telephone, invented by Alexander Graham Bell in 1876.
+2. The electric light bulb, invented by Thomas Edison in 1879.
+3. The internal combustion engine, which led to the invention of automobiles, developed by several inventors throughout the 19th century, including Étienne Lenoir in the 1860s and Nikolaus Otto in the 1870s.
+
+5. Instruction: Take the following quote from a movie and create a new quote in a similar style but with a different meaning.
+5. Input: 
+“With great power comes great responsibility.” - Spider-Man
+5. Output: 
+"With immense knowledge comes the potential for enlightenment." - Knowledge Seeker
+
+6. Instruction: Spell check the following paragraph and correct any grammatical errors.
+6. Input: 
+When Jack began his new jobb as a landscaper, he wasn't quit certain how well he would actually perform. Their was many tools Jack hadn’t used before and he felt nervius about learning. He once tried to use the edge trimmer while it was still of, but thankfully realised his mistake before any damage could happen.
+6. Output: 
+When Jack began his new job as a landscaper, he wasn't quite certain how well he would actually perform. There were many tools Jack hadn't used before and he felt nervous about learning. He once tried to use the edge trimmer while it was still off, but thankfully realized his mistake before any damage could happen.
+
+7. Instruction: Rewrite the following piece of text to give it a more formal tone.
+7. Input: 
+Hey guys, we gotta make sure we clean up this place real good after the party. We don't wanna leave anything lying around that could get us in trouble.
+7. Output: 
+Dear colleagues, it is imperative that we thoroughly clean the premises after the event. We must ensure that no items are left unattended, which could potentially cause complications.
+
+8. Instruction: Give me a short summary of Charles Darwin's theory of evolution by natural selection.
+8. Input:
+<noinput>
+8. Output: 
+Charles Darwin's theory of evolution by natural selection posits that species evolve over time through a process where organisms with favorable heritable traits are more likely to survive and reproduce. This leads to the gradual alteration of species' characteristics, eventually resulting in the formation of new species through a branching pattern of evolution.
+
+9. Instruction: Tell me three physical exercises that can improve cardiovascular health.
+9. Input:
+<noinput>
+9. Output: 
+1. Brisk walking
+2. Running or jogging
+3. Swimming
+
+10. Instruction: Write a short motivational speech for employees who are feeling overwhelmed by work.
+10. Input:
+<noinput>
+10. Output: 
+Dear colleagues, I understand that the challenges we face at work can sometimes feel overwhelming. However, it's important to remember that every setback is an opportunity to learn and grow. We must continually strive for progress, not perfection. Together, let's support each other, share our burdens, and celebrate our victories. Remember, our hard work and dedication pave the way towards success, and it's only through perseverance that we can achieve our goals.
+
+11. Instruction: Briefly explain the difference between weather and climate.
+11. Input:
+<noinput>
+11. Output: 
+Weather refers to short-term atmospheric conditions, such as temperature, precipitation, and humidity, experienced in a specific location. Climate, on the other hand, describes the long-term patterns and trends of weather conditions in a particular area, usually measured over a duration of 30 years or more.
+
+12. Instruction: Convert the following recipe into metric measurements:
+12. Input: 
+Ingredients:
+- 2 cups all-purpose flour
+- 1/2 cup granulated sugar
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 1 cup whole milk
+- 1/4 cup vegetable oil
+- 2 large eggs
+12. Output: 
+Ingredients:
+- 500 g all-purpose flour
+- 100 g granulated sugar
+- 15 g baking powder
+- 2.5 g salt
+- 240 ml whole milk
+- 60 ml vegetable oil
+- 2 large eggs
+
+13. Instruction: Come up with a creative title for a science fiction novel involving time travel.
+13. Input:
+<noinput>
+13. Output: 
+"Chrono Nexus: The Sands of Eternity"
+
+14. Instruction: Rewrite the following sentence to express surprise and disbelief.
+14. Input: 
+We just received an invitation to the royal wedding.
+14. Output: 
+I can't believe it! We just received an invitation to the royal wedding!
+
+15. Instruction: Write a brief review of a fictional romantic movie in a negative tone.
+15. Input:
+<noinput>
+15. Output: 
+"Incessant Whispers" falls short of expectations with bland characters and a predictable plot. Despite the beautiful cinematography and sweeping landscapes, the lack of chemistry between the protagonists makes it impossible to fully invest in their love story. Uninspired dialogue and unnecessary subplots contribute to the overall disappointment, leaving one to wonder how this romantic misfire ever made it to the big screen.
+
+16. Instruction: Transform the following statement into a rhetorical question.
+16. Input: 
+It is important to vote in political elections.
+16. Output: 
+Isn't it important to vote in political elections?
+
+17. Instruction: Explain the significance of the Treaty of Tordesillas.
+17. Input:
+<noinput>
+17. Output: 
+The Treaty of Tordesillas, signed in 1494, was an agreement between Spain and Portugal that aimed to divide the newly discovered lands outside Europe between the two countries. This treaty had a significant impact on the colonization and exploration of the Americas and the Eastern Hemisphere, as it prevented conflicts between the two major powers and established a framework for the establishment of their colonial empires.
+
+18. Instruction: Write a brief explanation about Bitcoin and its use as a digital currency.
+18. Input:
+<noinput>
+18. Output: 
+Bitcoin is a decentralized digital currency that operates without a central authority, such as a government or bank. It was created in 2009 by an unknown individual or group using the pseudonym Satoshi Nakamoto. Bitcoin transactions, recorded on a public ledger called the blockchain, can be sent from user to user without the need for intermediaries. As a digital currency, it allows users to make purchases online, transfer funds globally, and provide a level of anonymity, making it attractive for various purposes.
+
+19. Instruction: Paraphrase the following quote in your own words.
+19. Input: 
+"Life is what happens when you're busy making other plans." - John Lennon
+19. Output: 
+Life unfolds as we're occupied with making different arrangements - a reminder that unforeseen events often occur when we're preoccupied with our own pursuits.
+
+20. Instruction: Rank the following modes of transportation from the least to the most environmentally friendly: car, bicycle, walking, bus.
+20. Input:
+<noinput>
+20. Output: 
+1. Car (least environmentally friendly)
+2. Bus
+3. Bicycle
+4. Walking (most environmentally friendly)

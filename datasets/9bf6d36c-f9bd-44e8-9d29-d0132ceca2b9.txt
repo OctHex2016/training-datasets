@@ -1,0 +1,114 @@
+4. Instruction: Correct the grammar and punctuation errors in the sentence.
+4. Input: 
+Its always great, meeting new people especialy like; traveling and learning about oter peoples cultures!
+4. Output: 
+It's always great meeting new people, especially while traveling and learning about other people's cultures!
+
+5. Instruction: Find the two famous novels hidden within the words.
+5. Input: 
+melontobydickincareaustenprideprejudiced
+5. Output: 
+Moby Dick and Pride and Prejudice
+
+6. Instruction: Translate the following text into French.
+6. Input: 
+Thank you for your help. Have a great day!
+6. Output: 
+Merci pour votre aide. Passez une bonne journée!
+
+7. Instruction: Identify the main theme of the following text.
+7. Input: 
+In his famous novel, George Orwell explores the consequences of a dystopian society where the government has total control over its citizens and their thoughts.
+7. Output: 
+Totalitarian government and surveillance
+
+8. Instruction: Write an opening line for a novel about the first manned mission to Mars.
+8. Input: 
+<noinput>
+8. Output: 
+As Commander James gazed upon the crimson Martian landscape for the first time, he knew that mankind's destiny was forever altered and adventure awaited at every turn.
+
+9. Instruction: Summarize the given passage in 20 words or less.
+9. Input: 
+In 1912, the Titanic set off on its maiden voyage across the Atlantic Ocean. The luxury passenger liner was considered the height of technological achievement at the time, and many people believed it to be unsinkable. During the journey, the Titanic struck an iceberg in the North Atlantic, causing extensive damage to the vessel. Due to a lack of lifeboats and other issues, more than 1,500 passengers and crew members lost their lives. The sinking of the Titanic is still remembered as one of the world's greatest maritime disasters.
+9. Output: 
+The Titanic, a luxury liner believed to be unsinkable, struck an iceberg in 1912, causing over 1,500 deaths.
+
+10. Instruction: Describe the steps involved in making a cup of coffee using a French press.
+10. Input: 
+<noinput>
+10. Output: 
+1. Boil water and let it cool slightly.
+2. Grind coffee beans to a coarse consistency.
+3. Add ground coffee to the French press.
+4. Pour hot water over the coffee grounds.
+5. Stir gently to ensure even extraction.
+6. Allow the coffee to steep for 4 minutes.
+7. Press the plunger down slowly and firmly.
+8. Pour the coffee into a cup and enjoy.
+
+11. Instruction: Write a haiku about autumn.
+11. Input: 
+<noinput>
+11. Output: 
+Crisp leaves underfoot
+Nature draped in reds and golds
+Cool winds whisper change
+
+12. Instruction: Point out the fallacy in the following argument: "If you're not with me, you're against me."
+12. Input: 
+<noinput>
+12. Output: 
+False dilemma fallacy
+
+13. Instruction: How can you politely refuse an invitation for dinner?
+13. Input: 
+<noinput>
+13. Output: 
+Thank you for the invitation, I really appreciate it. Unfortunately, I have a prior commitment and won't be able to make it. I hope we can plan something else soon!
+
+14. Instruction: Identify the author of the quote, "The great enemy of clear language is insincerity."
+14. Input: 
+<noinput>
+14. Output: 
+George Orwell
+
+15. Instruction: Rewrite the sentence to be more positive, without changing its meaning.
+15. Input: 
+I don't think you'll fail if you try harder.
+15. Output: 
+I think you'll succeed if you try harder.
+
+16. Instruction: Give a synonym for the word "meticulous."
+16. Input: 
+<noinput>
+16. Output: 
+Thorough
+
+17. Instruction: Evaluate the structure of this sentence: “Many scientists claim that human beings’ behavior toward nature has led to an increase in major catastrophes.”
+17. Input: 
+<noinput>
+17. Output: 
+The sentence structure is clear and concise, with an effective use of subject and verb agreement.
+
+18. Instruction: List five examples of renewable energy sources.
+18. Input: 
+<noinput>
+18. Output: 
+1. Solar power
+2. Wind power
+3. Hydropower
+4. Geothermal energy
+5. Biomass energy
+
+19. Instruction: Write a palindrome.
+19. Input: 
+<noinput>
+19. Output: 
+A man, a plan, a canal, Panama!
+
+20. Instruction: What is a common idiom that means to make the best out of a bad situation?
+20. Input: 
+<noinput>
+20. Output: 
+Make the best of a bad situation

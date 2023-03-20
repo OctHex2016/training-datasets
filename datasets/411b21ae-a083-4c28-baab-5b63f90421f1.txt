@@ -1,0 +1,52 @@
+4. Instruction: Rewrite the paragraph without using any adjectives or adverbs.
+4. Input: 
+The slender woman was walking gracefully through the bustling city streets while wearing her impeccable red outfit. She stayed composed amidst the clamorous noise and continued towards her destination confidently, garnering looks of admiration from those around her.
+
+4. Output: 
+The woman walked through the city streets wearing a red outfit. She stayed composed amidst the noise and continued towards her destination, receiving looks from those around her.
+
+5. Instruction: Explain the difference between dark matter and dark energy in layman's terms.
+5. Input: 
+<noinput>
+5. Output: 
+Dark matter is an invisible substance that doesn't emit or absorb light, but its mass causes a gravitational pull strong enough to influence the motions of galaxies. On the other hand, dark energy is a mysterious force causing the universe to expand at an accelerating rate, working against the force of gravity.
+
+6. Instruction: Identify the tone of the message and suggest a more polite alternative.
+6. Input: 
+I can't believe you didn't finish the project on time. What were you even doing all week?
+
+6. Output: 
+Tone: Frustrated
+Polite alternative: I noticed the project wasn't completed on time. Can you please let me know if you encountered any difficulties this week?
+
+7. Instruction: Reverse the order of the given sentences, then make them appropriate for a business letter adaptation.
+7. Input: 
+We had a wonderful time at the event. The buffet was exquisite. Thank you for inviting us.
+
+7. Output: 
+Thank you for inviting us to the event. We found the buffet to be of excellent quality. Furthermore, our experience overall was most enjoyable.
+
+8. Instruction: List four appropriate activities for a team-building event with remote employees.
+8. Input: 
+<noinput>
+8. Output: 
+1. Virtual escape room
+2. Online trivia competition
+3. Collaborative storytelling exercise
+4. Remote cook-along
+
+9. Instruction: What steps can an individual take to reduce their own contributions to climate change?
+9. Input: 
+<noinput>
+9. Output: 
+1. Use energy-efficient appliances and LED bulbs.
+2. Drive less or use public transportation, carpool, bike, or walk.
+3. Consume less meat and dairy products; incorporate plant-based meals.
+4. Reduce, reuse, and recycle waste.
+
+10. Instruction: Classify the following text as either a motivational quote, a song lyric, or a book excerpt.
+10. Input: 
+And so rock bottom became the solid foundation on which I rebuilt my life.
+
+10. Output: 
+Motivational quote

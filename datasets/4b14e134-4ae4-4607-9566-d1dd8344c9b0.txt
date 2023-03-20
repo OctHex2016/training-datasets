@@ -1,0 +1,116 @@
+4. Instruction: Explain the key differences between the two concepts.
+4. Input: 
+Classical conditioning and operant conditioning
+4. Output: 
+Classical conditioning is a learning process where an association is formed between two stimuli, such that a neutral stimulus eventually triggers a response initially caused by another stimulus. Operant conditioning, on the other hand, involves learning through consequences; a behavior is reinforced or punished to either increase or decrease its occurrence in the future.
+
+5. Instruction: Based on the passage, which animal is being described?
+5. Input: 
+The platypus is a unique mammal native to Australia. It has a bill resembling a duck, a body similar to an otter, and flat tail like a beaver. Females lay eggs, but they also produce milk to feed their young.
+5. Output: 
+Platypus
+
+6. Instruction: Write a haiku related to the given theme.
+6. Input: 
+Autumn leaves
+6. Output: 
+Crimson and gold hues,
+Whispers with each gust of wind,
+Autumn leaves descend.
+
+7. Instruction: Convert the statement into a passive voice sentence.
+7. Input: 
+The students submitted the assignments before the deadline.
+7. Output: 
+The assignments were submitted by the students before the deadline.
+
+8. Instruction: Calculate the answer to the math problem.
+8. Input: 
+If f(x) = (2x + 1)^2 and g(x) = 3x - 4, what is f(g(2))?
+8. Output: 
+121
+
+9. Instruction: Translate the text into French.
+9. Input: 
+The sun is shining brightly.
+9. Output: 
+Le soleil brille intensément.
+
+10. Instruction: Detect and correct any grammatical errors in the sentence.
+10. Input: 
+She runned fastly to the store when it started raining.
+10. Output: 
+She ran quickly to the store when it started raining.
+
+11. Instruction: Summarize the movie plot in a couple of sentences.
+11. Input: 
+Inception (2010)
+11. Output: 
+Inception follows a skilled thief, Dom Cobb, who steals corporate secrets by entering people's dreams. He is offered a chance to redeem his past and return to his children by implanting an idea into a target's subconscious, a seemingly impossible task known as inception.
+
+12. Instruction: Identify the logical fallacy in the argument.
+12. Input: 
+All successful business leaders are wealthy. Bill Gates is wealthy, so he must be a successful business leader.
+12. Output: 
+Affirming the consequent
+
+13. Instruction: Suggest three possible solutions to the given problem.
+13. Input: 
+Air pollution in major cities.
+13. Output: 
+1. Encourage public transportation use and carpooling.
+2. Implement stricter emission regulations for industries and vehicles.
+3. Promote greener transportation options, like bicycles and electric cars.
+
+14. Instruction: Name the capital city of the country.
+14. Input: <noinput>
+Germany
+14. Output: 
+Berlin
+
+15. Instruction: Assess the credibility of the given source of information.
+15. Input: 
+A blog post by an unknown author claiming to have found a cure for all types of cancer.
+15. Output: 
+The source is not credible, as it is an unverified blog post from an unknown author making a bold, unsupported claim.
+
+16. Instruction: Write an ending to the given story prompt.
+16. Input: 
+The hero faced the final challenge – a dragon guarding the treasure. As the flames licked the air, the hero found their courage...
+16. Output: 
+...and charged forward. With expert skill, they dodged the dragon's fiery breath and struck it with their weapon. The dragon let out a thunderous roar and collapsed. The hero approached the treasure chest, knowing that the kingdom was now saved and prosperity would soon return.
+
+17. Instruction: Tell me three interesting facts about the topic.
+17. Input: 
+Coral reefs
+17. Output: 
+1. Coral reefs cover less than 1% of the ocean floor but support about 25% of marine life.
+2. Corals are actually small animals called polyps, which form a symbiotic relationship with algae.
+3. Coral reefs serve as natural barriers, protecting coastal areas from storms and erosion.
+
+18. Instruction: Provide two pros and two cons for the topic.
+18. Input: 
+Using social media
+18. Output: 
+Pros: 1. It enables instant communication and connection with people worldwide. 2. It provides a platform for sharing information, opinions, and creative content.
+Cons: 1. Overusing social media can lead to addiction, anxiety, and reduced face-to-face interaction. 2. It may expose users to misinformation, cyberbullying, and privacy concerns.
+
+19. Instruction: Compose a short poem dedicated to the given subject.
+19. Input: 
+Coffee
+19. Output: 
+An ode to coffee, dark delight,
+Morning savior, sacred brew,
+You conquer sleep, restoring sight,
+And call forth energy anew.
+
+In your cup, I find the strength
+To face the day, head held high,
+My fuel, my fortress, by any length,
+I need your essence, else I sigh.
+
+20. Instruction: Describe the potential side effects of the medicine.
+20. Input: 
+Ibuprofen
+20. Output: 
+Potential side effects of Ibuprofen may include nausea, vomiting, headache, dizziness, constipation, or diarrhea. More severe side effects can include stomach ulcers, kidney issues, heart attack or stroke, and allergic reactions such as rash, swelling, or difficulty breathing. Always consult with a healthcare professional before using any medication.

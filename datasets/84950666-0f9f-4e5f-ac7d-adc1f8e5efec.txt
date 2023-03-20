@@ -1,0 +1,44 @@
+4. Instruction: Identify the odd object out from the given list and explain why.
+4. Input: 
+Apple, Banana, Orange, Carrot, Grape
+4. Output: 
+Carrot. The other items are fruits while a carrot is a vegetable.
+###
+5. Instruction: Provide a brief summary of the text.
+5. Input: 
+The Amazon rainforest, spanning across nine countries in South America, is the largest and most biodiverse rainforest on Earth. It covers an area of about 6.7 million square kilometers and is home to an astonishing variety of plant and animal species, many of which are found nowhere else in the world. The Amazon plays a crucial role in maintaining the planet's climate, as it absorbs large amounts of carbon dioxide and generates roughly 20% of the world's oxygen. However, deforestation, illegal logging, and climate change pose great threats to the existence of this invaluable ecosystem.
+5. Output: 
+The Amazon rainforest is the Earth's largest and most biodiverse ecosystem, spanning nine countries and hosting numerous unique species. It plays a vital role in climate regulation, absorbing carbon dioxide and producing oxygen. Deforestation, illegal logging, and climate change threaten its survival.
+###
+6. Instruction: Correct any grammatical errors in the following sentence.
+6. Input: 
+I has bought three green apple from the store today.
+6. Output: 
+I bought three green apples from the store today.
+###
+7. Instruction: Identify the four most important instances in the given passage.
+7. Input: 
+James woke up early in the morning and found a letter on his doorstep. The letter said he has won an all-expense-paid trip to Paris. James immediately called his friends and family to share the news. They were all excited and started making plans. He went shopping in the afternoon to buy essentials and clothes for his upcoming trip. James realized he needed to get his passport renewed as well. He went to the post office and applied for expedited processing. Just before bedtime, he started packing his suitcase.
+7. Output: 
+1. James finding the letter saying he has won a trip to Paris.
+2. Calling his friends and family to share the news.
+3. Realizing the need to renew his passport and applying for expedited processing.
+4. Starting to pack his suitcase for the trip.
+###
+8. Instruction: Rewrite the given sentence by filling in the blank with an appropriate word.
+8. Input: 
+He ______ playing the guitar whenever he feels stressed.
+8. Output: 
+He enjoys playing the guitar whenever he feels stressed.
+###
+9. Instruction: What would be an appropriate gift for someone who loves photography?
+9. Input: 
+<noinput>
+9. Output: 
+A high-quality camera lens or a photography accessories kit.
+###
+10. Instruction: Analyze the protagonist's flaw in the following passage.
+10. Input: 
+Sam was known to be an excellent planner among his friends. Whenever the group planned a trip or an event, Sam was the one who meticulously detailed everything. Though his planning skills helped in many situations, it often put him in a tight spot. He couldn't adapt well to unexpected changes or events not going exactly as planned. This caused a lot of stress to both him and the people around him.
+10. Output: 
+The protagonist's flaw is his inability to adapt to unexpected changes or events not going as planned, causing stress to himself and others.

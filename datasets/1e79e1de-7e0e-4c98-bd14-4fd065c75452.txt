@@ -1,0 +1,102 @@
+4. Instruction: Correct grammatical errors in the given sentence.
+4. Input: 
+Me and Sam go to supermarket yesterday.
+4. Output: 
+Sam and I went to the supermarket yesterday.
+###
+5. Instruction: Summarize the following text passage in one sentence.
+5. Input: 
+Cryptocurrency is a digital or virtual currency that uses cryptography for security. It is not issued by any central authority, rendering it theoretically immune to government interference or manipulation. Bitcoin, the first and most well-known cryptocurrency, was created in 2009 by a person or group of people using the name Satoshi Nakamoto.
+5. Output: 
+Cryptocurrency is a secure, decentralized digital currency, with Bitcoin being the first and most well-known example, created in 2009 by a pseudonymous entity called Satoshi Nakamoto.
+###
+6. Instruction: From the given text, obtain the main ingredients of this recipe.
+6. Input: 
+To prepare a delicious chocolate cake, you will need 1 and 1/2 cups of all-purpose flour, 3/4 cup unsweetened cocoa powder, 1 and 1/2 cups of granulated sugar, 3/4 cup of vegetable oil, 3 large eggs, and 1 and 1/2 teaspoons of vanilla extract.
+6. Output: 
+all-purpose flour, unsweetened cocoa powder, granulated sugar, vegetable oil, large eggs, vanilla extract
+###
+7. Instruction: Explain the difference between conduction and convection.
+7. Input: 
+<noinput>
+7. Output: 
+Conduction is the transfer of heat through direct contact, typically occurring in solids, while convection is the transfer of heat via the movement of fluids (such as liquids and gases) due to differences in density caused by temperature variations.
+###
+8. Instruction: Convert the following sentence into a negative statement.
+8. Input: 
+He always remembers her birthday.
+8. Output: 
+He never remembers her birthday.
+###
+9. Instruction: Calculate the compound interest on the given investment after the specified period.
+9. Input: 
+Principal: $5000, Annual Interest Rate: 4%, Compounding Period: 2 years
+9. Output: 
+Compound Interest = $416.32
+###
+10. Instruction: Arrange the following words to form a coherent sentence.
+10. Input: 
+young / / scientist / the / Albert / a / was / Einstein
+10. Output: 
+Albert Einstein was a young scientist.
+###
+
+11. Instruction: Identify the literary device in the given sentence.
+11. Input: 
+The sun was smiling at the world.
+11. Output: 
+Personification
+###
+12. Instruction: Translate the given sentence to French. 
+12. Input: 
+Where is the train station?
+12. Output: 
+Où est la gare?
+###
+13. Instruction: Determine the nationality of the writer mentioned in the given sentence.
+13. Input: 
+Fyodor Dostoevsky is a renowned novelist and philosopher.
+13. Output: 
+Russian
+###
+14. Instruction: Based on the given information, suggest a suitable gift for a 6-year-old child.
+14. Input: 
+The child enjoys building things and has a fascination with cars and trucks.
+14. Output: 
+A construction toy set with cars and trucks.
+###
+15. Instruction: Provide a synonym for the highlighted word in the given sentence.
+15. Input: 
+He had an insatiable appetite for knowledge.
+15. Output: 
+unquenchable
+###
+16. Instruction: Identify the director of the mentioned movie.
+16. Input: 
+Who directed the movie "Inception"?
+16. Output: 
+Christopher Nolan
+###
+17. Instruction: Based on the provided job description, determine a suitable job title.
+17. Input: 
+The role involves developing websites, coding, and improving user experience using visual design elements.
+17. Output: 
+Web Developer
+###
+18. Instruction: Explain the main purpose of photosynthesis in plants.
+18. Input: 
+<noinput>
+18. Output: 
+The main purpose of photosynthesis in plants is to convert light energy from the sun into chemical energy in the form of glucose, which provides the plants with energy for growth and other life processes.
+###
+19. Instruction: Give a concise definition for the term "hypothesis."
+19. Input: 
+<noinput>
+19. Output: 
+A hypothesis is a testable, educated guess or prediction about the relationship between two or more variables, acting as a basis for further investigation and experimentation.
+###
+20. Instruction: Count the number of syllables in the given word.
+20. Input: 
+extraordinary
+20. Output: 
+6

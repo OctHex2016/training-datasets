@@ -1,0 +1,36 @@
+4. Instruction: Correct any grammar or punctuation errors in the given paragraph.
+4. Input: 
+It was a dark, stormy night; The rain fell in torents except when there was a bursts of lightening which illuminated the decks of the ship, which was heading for New York the wind blew at high speed, and the waves being so high no one could stand on the deck.
+4. Output:
+It was a dark, stormy night. The rain fell in torrents, except when there were bursts of lightning that illuminated the decks of the ship, which was heading for New York. The wind blew at high speed, and the waves were so high that no one could stand on the deck.
+
+5. Instruction: Write a short summary of the given text.
+5. Input:
+Part of the reason many people read Huckleberry Finn in school is because it was a groundbreaking work when it was released. Critics at the time were shocked by the book because it was the first work in American literature to accurately portray the way people talked in real life. This technique, called "vernacular writing," is one of the core elements of American literature today. But in Mark Twain's time, writing in the vernacular was considered scandalous because it broke from the formal, classical style that had been used in literature until that point.
+5. Output:
+Huckleberry Finn, a groundbreaking work in American literature, introduced the concept of vernacular writing, accurately portraying how real people spoke. In Mark Twain's time, the controversial shift from the formal literary style to vernacular writing challenged classical norms and established a core element in American literature today.
+
+6. Instruction: Explain the meaning of the idiom "the ball is in your court."
+6. Input:
+<noinput>
+6. Output:
+The idiom "the ball is in your court" means it's now someone else's turn to take action or respond to a situation. It implies that the responsibility to decide or make the next move is on the other person.
+
+7. Instruction: Outline the main components usually found in a company's annual report.
+7. Input:
+<noinput>
+7. Output:
+1. Letter from the CEO: An overview of the year's major accomplishments, challenges, and strategies for the future.
+2. Management Discussion and Analysis (MD&A): A detailed explanation of the financial performance of the company during the past fiscal year, along with the management's outlook for the future.
+3. Financial statements: Audited balance sheet, income statement, cash flow statement, and statement of shareholder's equity.
+4. Notes to financial statements: Additional information and explanations that provide context and clarification about the financial data.
+5. Auditor's report: The report from an independent auditor expressing an opinion on the accuracy and reliability of the financial statements.
+6. Corporate governance: Information on the company's board of directors, executive management team, and overall corporate structure.
+
+8. Instruction: Provide three potential consequences of neglecting tire maintenance on a vehicle.
+8. Input:
+<noinput>
+8. Output:
+1. Reduced fuel efficiency: Under-inflated or misaligned tires increase rolling resistance, making the engine work harder to move the vehicle and consuming more fuel.
+2. Decreased tire lifespan: Poor tire maintenance such as infrequent rotations, incorrect air pressure, or misalignment can cause uneven or accelerated tire wear, resulting in the need for premature tire replacement.
+3. Increased accident risk: Neglecting tire maintenance can lead to reduced traction, compromised handling, or even a tire blowout, increasing the likelihood of an accident while driving.

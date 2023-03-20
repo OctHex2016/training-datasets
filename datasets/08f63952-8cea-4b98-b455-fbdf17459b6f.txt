@@ -1,0 +1,82 @@
+4. Instruction: Translate the given English text into French.
+4. Input: 
+I would like to book a table for four people at 8 p.m. tonight.
+4. Output: 
+Je voudrais réserver une table pour quatre personnes à 20h ce soir.
+###
+5. Instruction: What is the most likely cause of the issue described in the passage?
+5. Input: 
+Carla's laptop suddenly stopped working. The device won't turn on, but the charging indicator still lights up when connected to the power adapter.
+5. Output: 
+The most likely cause is a hardware problem or a BIOS issue preventing the laptop from booting up.
+###
+6. Instruction: Recommend five movies based on the preferences provided.
+6. Input: 
+Science fiction, Time travel, Space exploration, Artificial Intelligence, Post-apocalyptic.
+6. Output: 
+1. Interstellar
+2. Inception
+3. The Matrix
+4. Blade Runner 2049
+5. Mad Max: Fury Road
+###
+7. Instruction: Write an opening line for a science fiction novel set in the distant future.
+7. Input: <noinput>
+7. Output: 
+As the last sun in the Andromeda galaxy began to fade, humanity's greatest minds convened to orchestrate the final exodus to the outer realms, unbeknownst to them an ancient threat awaited.
+###
+8. Instruction: Identify the main reasons a person may want to start their own business.
+8. Input: <noinput>
+8. Output: 
+1. Achieving financial independence
+2. Pursuing personal passion
+3. Gaining control over their workload
+4. Having flexibility in work hours and location
+5. Leaving a legacy or creating something lasting
+###
+9. Instruction: Evaluate the problem-solving method proposed in the passage.
+9. Input: 
+When dealing with an issue, Bob suggests starting by listing all the pros and cons of each solution. Then rank each solution by its effectiveness and acceptability, eliminating the least favorable options until only one remains.
+9. Output: 
+Bob's problem-solving method appears to be logical and systematic. It encourages thorough evaluation of multiple solutions and increases the likelihood of selecting the most effective and acceptable solution. However, it may not always be efficient when facing a time-sensitive issue, and it could lead to decision paralysis if there are too many options to consider.
+###
+10. Instruction: Describe the potential benefits and risks of using social media for a business.
+10. Input: <noinput>
+10. Output: 
+Benefits:
+1. Increased brand exposure and visibility
+2. Improved customer engagement and interaction
+3. Broader audience reach
+4. Targeted advertising opportunities
+5. Cost-effective marketing tool
+
+Risks:
+1. Potential for negative customer feedback
+2. Security and privacy concerns
+3. Time-consuming to manage and maintain
+4. Possibility of miscommunication or misunderstandings
+5. Risk of becoming overly reliant on social media platforms
+###
+11. Instruction: Explain the positive and negative aspects of working from home.
+11. Input: <noinput>
+11. Output: 
+Positive aspects:
+1. Flexibility in work hours and schedule
+2. Reduced commute time and related expenses
+3. Enhanced work-life balance
+4. Increased focus and productivity due to fewer distractions
+5. Potential cost savings for employers
+
+Negative aspects:
+1. Lack of direct supervision and potential for decreased accountability
+2. Social isolation and reduced networking opportunities
+3. Difficulty in separating personal and professional life
+4. Limited access to resources and equipment found in traditional offices
+5. Technical challenges, such as unreliable Internet service or power outages
+###
+12. Instruction: Provide three suggestions to attain work-life balance.
+12. Input: <noinput>
+12. Output: 
+1. Establish clear boundaries between work and personal time - set regular work hours and avoid working during personal time.
+2. Prioritize and delegate tasks - focus on essential tasks and consider outsourcing or delegating tasks that can be handled by others.
+3. Set aside time for self-care, hobbies, and relaxation - engage in activities that rejuvenate your mind and body, helping you maintain overall well-being.

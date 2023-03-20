@@ -1,0 +1,28 @@
+4. Instruction: Provide a brief summary of the main idea in the text.
+4. Input:
+Advancements in technology have revolutionized almost all aspects of our lives, from the way we communicate to the way we work. Artificial intelligence, machine learning, and robotics are some of the cutting-edge technologies that have significantly altered the job market. These changes have, in turn, affected educational systems, forcing a paradigm shift in the way we approach teaching, learning, and skill acquisition. Notably, the demand for STEM (Science, Technology, Engineering, and Mathematics) skills has surged, pressing the need for students to develop these skills to remain competitive in the modern job market.
+4. Output:
+Emerging technologies, such as AI and machine learning, have transformed various aspects of life and the job market, prompting a shift in educational approaches and increased demand for STEM skills in order to remain competitive.
+
+5. Instruction: Correct the following sentences for grammar and punctuation errors.
+5. Input:
+Theres plenty of food in the refrigerator; And the recipe for the best chicken. salad sandwich, is on the counter if your hungry later.
+5. Output:
+There's plenty of food in the refrigerator, and the recipe for the best chicken salad sandwich is on the counter if you're hungry later.
+
+6. Instruction: Write a short biography of a famous person in history.
+6. Input: <noinput>
+6. Output:
+Albert Einstein (1879-1955) was a renowned theoretical physicist who was born in Germany and later became an American citizen. He developed the general theory of relativity and is best known for his groundbreaking equation, E=mc², demonstrating the relationship between energy and mass. Einstein was awarded the Nobel Prize in Physics in 1921, and his scientific achievements are still profoundly influential today.
+
+7. Instruction: Classify the following text as either fiction or non-fiction.
+7. Input:
+In a hole in the ground, there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
+7. Output:
+Fiction
+
+8. Instruction: Name the capital city of the mentioned country.
+8. Input:
+France
+8. Output:
+Paris

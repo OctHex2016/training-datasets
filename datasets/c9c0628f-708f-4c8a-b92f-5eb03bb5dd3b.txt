@@ -1,0 +1,37 @@
+4. Instruction: Translate the following French sentence to English.
+4. Input:
+J'adore les fruits, en particulier les pommes et les bananes.
+4. Output: 
+I love fruits, especially apples and bananas.
+###
+5. Instruction: Write a haiku, a 3-line poem with 5 syllables in the first line, 7 syllables in the second line, and 5 syllables in the third line, about nature.
+5. Input: 
+<noinput>
+5. Output: 
+Gentle morning dew,
+Whispers through the rustling leaves,
+Nature wakes anew.
+###
+6. Instruction: Identify any grammatical errors in the following sentence and provide the corrected version accordingly.
+6. Input:
+Despite the bad weathers, she insisted on walking to the store for buy milk.
+6. Output:
+Despite the bad weather, she insisted on walking to the store to buy milk.
+###
+7. Instruction: Summarize the main idea of the following text in one sentence.
+7. Input:
+Composting is the natural process of breaking down organic material, such as food and yard waste, into a rich, nutrient-dense substance called humus, which can be used as fertilizer. This process occurs naturally, but it can be enhanced and accelerated by managing the conditions in a compost pile. By composting, individuals can recycle their organic waste and help reduce the amount of waste that ends up in landfills. Additionally, composting creates a valuable resource for gardeners and farmers, as it provides essential nutrients for plant growth and improves soil structure.
+7. Output:
+Composting is a natural process that breaks down organic waste into nutrient-rich humus, which can be used as fertilizer, reducing landfill waste and benefiting soil structure and plant growth.
+###
+8. Instruction: Which country had the highest GDP per capita in 2021?
+8. Input: 
+<noinput> 
+8. Output: 
+Luxembourg
+###
+9. Instruction: Recommend a suitable book for someone who is interested in learning about artificial intelligence and machine learning for beginners.
+9. Input: 
+<noinput>
+9. Output:
+"Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili

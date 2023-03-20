@@ -1,0 +1,57 @@
+4. Instruction: Identify the logical fallacy in the statement below and explain why it is a fallacy.
+4. Input: 
+My friend says that since millions of people are signing up for the new social media platform, it must be good.
+4. Output: 
+The statement contains the "bandwagon fallacy," which asserts that a belief or action is valid because many people believe or engage in it. Though millions of people signing up for the platform indicate its popularity, it doesn't necessarily mean that the platform is good or worthwhile. The argument relies on the assumption that a popular choice is inherently a good choice, which is not always true.
+
+5. Instruction: Translate the following sentence into French.
+5. Input: 
+Can you please give me directions to the nearest police station?
+5. Output: 
+Pouvez-vous s'il vous plaît me donner les directions pour aller au poste de police le plus proche ?
+
+6. Instruction: Calculate the monthly payment for a loan of $25,000 with an annual interest rate of 6% and a loan term of 5 years. Use the formula: M = P * (r * (1 + r)^n) / (((1 + r)^n) - 1).
+6. Input:
+<noinput>
+6. Output:
+The loan amount (P) is $25,000, the annual interest rate (r) is 0.06 (6%), and the loan term (n) is 5 years or 60 months. Convert the annual interest rate to a monthly rate by dividing by 12: r = 0.06 / 12 = 0.005.
+
+Now, apply the formula: M = 25000 * (0.005 * (1 + 0.005)^60) / (((1 + 0.005)^60) - 1).
+
+After evaluating the formula, M ≈ $483.32. Therefore, the monthly payment for the loan is approximately $483.32.
+
+7. Instruction: Identify the poetic devices used in the given lines.
+7. Input:
+“The sun will rise and set; the stars will shine.
+The storms will blow, and oceans never rest.”
+7. Output:
+These lines contain several poetic devices:
+
+1. Parallelism: Both lines follow a similar structure, expressing two related ideas in each line (e.g., "The sun will rise and set" and "The storms will blow").
+2. Alliteration: Repetition of consonant sounds, as seen in "storms will blow" and "stars will shine."
+3. Personification: Assigning human qualities or actions to inanimate objects, like the sun "rising" and "setting," and "oceans never rest."
+
+8. Instruction: List three strategies for effective conflict resolution in a workplace.
+8. Input:
+<noinput>
+8. Output:
+1. Active listening: Listening to all parties involved to gain a full understanding of the issue and ensuring that everyone feels heard and understood.
+2. Finding common ground: Identifying shared interests or goals that can help bring the conflicting parties together and build a foundation for resolving the disagreement.
+3. Collaborative problem-solving: Encourage open communication, discussion of needs and interests, and brainstorming of possible solutions that satisfy all parties involved. This approach fosters teamwork and mutual understanding to reach a resolution that benefits everyone.
+
+9. Instruction: Write a brief summary of the story in the following paragraph.
+9. Input:
+Once upon a time, in a small village by a dense forest, lived a poor woodcutter named Jack with his wife and two young children. Jack chopped wood every day and sold it in the marketplace to make ends meet. One day, Jack found a magical golden axe in the woods, which changed the fortunes of the family. Jack's magical axe could chop ten times more wood than a regular axe, making him the wealthiest person in the village. However, when the villagers discovered the truth behind the axe, they stole it from Jack, leaving him and his family poor once more.
+
+9. Output:
+Jack, a poor woodcutter, discovers a magical golden axe that increases his wood-chopping productivity and makes him wealthy. However, when the envious villagers learn about the axe, they steal it from him, leaving Jack and his family poor again.
+
+10. Instruction: List five career paths that can be pursued in a marketing field.
+10. Input:
+<noinput>
+10. Output:
+1. Advertising Account Executive
+2. Brand Manager
+3. Market Research Analyst
+4. Content Marketing Specialist
+5. Public Relations Specialist

@@ -1,0 +1,177 @@
+4. Instruction: Summarize the key findings from the research paper "Machine Learning for Sentiment Analysis: A Survey". 
+4. Input: 
+<noinput>
+4. Output: 
+- Supervised learning is the most common approach for sentiment analysis.
+- Deep learning techniques have shown state-of-the-art results.
+- Ensemble learning methods can improve accuracy.
+- Datasets are crucial for training and evaluation.
+- Domain adaptation techniques can address the domain shift issue.
+- Evaluation metrics must be carefully selected based on the task and dataset.
+### 
+5. Instruction: Provide a list of the top 5 tourist attractions in Paris, France, along with a brief description of each site. 
+5. Input: 
+<noinput>
+5. Output: 
+- The Eiffel Tower: The iconic tower built by Gustave Eiffel in 1889.
+- The Louvre Museum: One of the world's largest museums, featuring the Mona Lisa and other masterpieces.
+- Notre-Dame Cathedral: Gothic architecture masterpiece that dates back to the 12th century.
+- Sacré-Cœur: A Roman Catholic basilica on top of Montmartre hill, known for its stunning views.
+- Musée d'Orsay: A Museum showcasing 19th and 20th century art, including works by Van Gogh and Renoir.
+### 
+6. Instruction: Given two strings, concatenate them by first splitting the second string into words, reversing the order of words, and then inserting each word at the beginning of the first string. 
+6. Input: 
+String 1: Hello, String 2: World how nice it is to see you
+6. Output: 
+you see to is nice how World Hello
+### 
+7. Instruction: Provide a list of the top 5 highest-grossing movies of all time, along with their worldwide box office earnings. 
+7. Input: 
+<noinput>
+7. Output: 
+- Avatar: $2.79 billion 
+- Avengers: Endgame: $2.798 billion 
+- Titanic: $2.194 billion 
+- Star Wars: The Force Awakens: $2.068 billion 
+- Avengers: Infinity War: $2.048 billion
+
+* All data are as per May 2021.
+### 
+8. Instruction: Given a sentence, bold and capitalize any word longer than 6 letters. 
+8. Input: 
+This is a sample sentence that contains several words of different length. 
+8. Output: 
+This is a sample sentence that contains several words of different <b>length</b>.
+### 
+9. Instruction: Generate a list of the top 10 programming languages, along with a brief description of each language's main features. 
+9. Input: 
+<noinput>
+9. Output: 
+- Python: A general-purpose language known for its simplicity and readability.
+- Java: A popular language used for enterprise application development.
+- JavaScript: A language used for front-end web development and event-driven programming.
+- C#: A language developed by Microsoft for building Windows applications.
+- C++: A high-performance language used for system programming and game development.
+- PHP: A language used mainly for web development and server-side scripting.
+- Swift: An iOS and macOS development language developed by Apple.
+- Go: A language developed by Google for building distributed systems and network servers.
+- TypeScript: A superset of JavaScript that adds static typing and other features.
+- Ruby: A language known for its readability and productivity.
+### 
+10. Instruction: Given a sentence, rephrase it by replacing all instances of "is" with "equals". 
+10. Input: 
+The quick brown fox is jumping over the lazy dog. 
+10. Output: 
+The quick brown fox equals jumping over the lazy dog.
+### 
+11. Instruction: Generate the names and graduation years of Nobel laureates in physics for the past 10 years, sorted from the most recent to the oldest. 
+11. Input: 
+<noinput>
+11. Output: 
+- 2020: Andrea Ghez, Reinhard Genzel 
+- 2019: James Peebles, Michel Mayor, Didier Queloz 
+- 2018: Arthur Ashkin, Gérard Mourou, Donna Strickland 
+- 2017: Rainer Weiss, Barry Barish, Kip Thorne 
+- 2016: David Thouless, Duncan Haldane, John Kosterlitz 
+- 2015: Takaaki Kajita, Arthur B. McDonald 
+- 2014: Isamu Akasaki, Hiroshi Amano, Shuji Nakamura 
+- 2013: François Englert, Peter Higgs 
+- 2012: Serge Haroche, David J. Wineland 
+- 2011: Saul Perlmutter, Brian Schmidt, Adam Riess
+
+* Graduation year is the year when each laureate received their highest degree so far.
+### 
+12. Instruction: Given a sentence, extract all the named entities and group them by their types (e.g., person, organization, location, etc.). 
+12. Input: 
+I met John in New York last week. 
+12. Output: 
+- Person: John 
+- Location: New York 
+### 
+13. Instruction: Generate a lyrics for a song about summer vacation that rhymes and has a chorus. 
+13. Input: 
+<noinput>
+13. Output: 
+Chorus:
+We're gonna have a blast this summer
+Vacation's here and we're free
+Nothing's gonna stop us now
+Just you wait and see
+ 
+Verses:
+We'll hit the beach and soak up the sun
+Take a dip and have some fun
+Catch a fish, build a sandcastle
+Absorb the moment, let go of the hassle
+
+We'll hit the road and go on a trip
+Create memories, let our hearts skip
+Explore nature, scenic beauty
+Live in the moment, let go of duty
+
+We'll play games, have barbeques
+Watch the stars, and make our own views
+Laugh, talk, and sing along
+Our summer vacation is now our song
+### 
+14. Instruction: Given a sentence, reverse the order of its words. 
+14. Input: 
+This is a sample sentence. 
+14. Output: 
+sentence sample a is This. 
+### 
+15. Instruction: Generate the names of the capital cities of the top 5 most populous countries in the world, along with their populations. 
+15. Input: 
+<noinput>
+15. Output: 
+- China: Beijing, 1.402 billion 
+- India: New Delhi, 1.38 billion 
+- US: Washington D.C., 329.5 million 
+- Indonesia: Jakarta, 273.5 million 
+- Pakistan: Islamabad, 225.2 million
+
+* All populations data is from 2020.
+### 
+16. Instruction: Given a sentence and two indices, capitalize the characters between these indices (inclusive). The first character is index 0. 
+16. Input: 
+This is a sample sentence. Start: 3, End: 8. 
+16. Output: 
+This IS A SaMPLe sentence. 
+### 
+17. Instruction: Provide a list of the top 5 bestselling books of all time, along with their authors' names. 
+17. Input: 
+<noinput>
+17. Output: 
+- Don Quixote by Miguel de Cervantes 
+- A Tale of Two Cities by Charles Dickens 
+- The Lord of the Rings by J.R.R. Tolkien 
+- The Little Prince by Antoine de Saint-Exupéry 
+- Harry Potter and the Philosopher's Stone by J.K. Rowling
+
+* All data are estimated based on the number of copies sold worldwide.
+### 
+18. Instruction: Generate a haiku about autumn. 
+18. Input: 
+<noinput>
+18. Output: 
+Leaves rustle and fall 
+Autumn breeze whispers goodbye 
+Nature takes a nap 
+### 
+19. Instruction: Given a sentence, return its polar question. 
+19. Input: 
+She is coming home. 
+19. Output: 
+Is she coming home? 
+### 
+20. Instruction: Provide a list of the top 5 universities in the world, along with their locations and their yearly tuition fee. 
+20. Input: 
+<noinput>
+20. Output: 
+- Massachusetts Institute of Technology: Cambridge, MA, USA, $53,450 
+- Stanford University: Stanford, CA, USA, $55,473 
+- Harvard University: Cambridge, MA, USA, $51,925 
+- California Institute of Technology: Pasadena, CA, USA, $56,862 
+- University of Oxford: Oxford, UK, £26,770 (~$37,600)
+
+* All data are as per May 2021.

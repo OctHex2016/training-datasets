@@ -1,0 +1,107 @@
+4. Instruction: Rewrite the following paragraph using active voice. 
+4. Input: 
+A container of eggs was dropped by Jane which were broken as a result. The eggs were then cleaned up by the employees who also had to answer the questions of other customers who were nearby. A great deal of time was wasted by this incident, and it was felt by everyone that Jane should have been more careful.
+4. Output: 
+Jane dropped a container of eggs, which broke as a result. The employees cleaned up the eggs and answered the questions of other customers who were nearby. This incident wasted a great deal of time, and everyone felt that Jane should have been more careful.
+
+5. Instruction: Summarize the important factors one should consider before deciding to adopt a dog.
+5. Input: 
+<noinput>
+5. Output:
+Before adopting a dog, consider the following factors: breed and size, lifestyle compatibility, allergy concerns, financial commitment, long-term responsibility, availability of time, and the living environment.
+
+6. Instruction: Correct grammar and spelling mistakes in the following text. 
+6. Input: 
+The catz laydown on the squishy mattrass waiting for is owner do come to snuggle up. The dog just came inside and ambled over to his favourite spot near the fire.
+6. Output: 
+The cats lay down on the squishy mattress, waiting for its owner to come snuggle up. The dog just came inside and ambled over to his favorite spot near the fire.
+
+7. Instruction: What are the health benefits of drinking green tea regularly?
+7. Input: 
+<noinput>
+7. Output:
+The health benefits of drinking green tea regularly include improved brain function, increased fat burning and weight loss, antioxidants that reduce the risk of cancer, lowered risk of type 2 diabetes, lowered risk of heart disease, and improved dental health.
+
+8. Instruction: Reorder the following events in chronological order from the Hindu epic Ramayana.
+8. Input: 
+Hanuman finds Sita, Sita's abduction by Ravana, Ram meets Hanuman, Ram and Sita's marriage, Ram kills Ravana, Ram's exile to the forest
+8. Output: 
+Ram and Sita's marriage, Ram's exile to the forest, Sita's abduction by Ravana, Ram meets Hanuman, Hanuman finds Sita, Ram kills Ravana
+
+9. Instruction: How to properly care for a pet hamster?
+9. Input: 
+<noinput>
+9. Output: 
+To properly care for a pet hamster, provide a spacious, clean habitat, offer appropriate food mix and fresh water, add a running wheel for exercise, provide hiding spaces and tunnels for stimulation, maintain a consistent room temperature, avoid sudden noises or stressful environments, handle the hamster gently, and regularly clean the cage.
+
+10. Instruction: Identify parts of speech of the words in the following sentence:
+10. Input: 
+The boy quickly ran to the store after school.
+10. Output: 
+The (determiner), boy (noun), quickly (adverb), ran (verb), to (preposition), the (determiner), store (noun), after (preposition), school (noun).
+
+11. Instruction: List five major renewable energy sources.
+11. Input: 
+<noinput>
+11. Output: 
+Solar, wind, hydroelectric, geothermal, and biomass.
+
+12. Instruction: Translate the following English sentence into French.
+12. Input: 
+Please pass the salt and pepper.
+12. Output: 
+S'il vous plaît, passez le sel et le poivre.
+
+13. Instruction: Explain the process of photosynthesis in a brief manner.
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. Light energy is absorbed by chlorophyll and used to convert carbon dioxide and water into glucose through a series of chemical reactions. Oxygen is released as a byproduct.
+
+14. Instruction: List three historical figures who were influential in the field of mathematics.
+14. Input: 
+<noinput>
+14. Output: 
+Isaac Newton, Euclid, and Pythagoras.
+
+15. Instruction: Describe the plot of the book "1984" by George Orwell in just 2-3 sentences.
+15. Input: 
+<noinput>
+15. Output: 
+In George Orwell's "1984", the protagonist, Winston Smith, is an outer party member living in a dystopian society under the oppressive rule of the Party and its leader, Big Brother. Winston rebels against the totalitarian system seeking truth and freedom, only to face tragic consequences.
+
+16. Instruction: Evaluate the logical validity of the following statement:
+16. Input: 
+All humans are mammals. All mammals are vertebrates. Therefore, all humans are vertebrates.
+16. Output: 
+The statement is logically valid. The premises support the conclusion, so if the premises are true, the conclusion must also be true.
+
+17. Instruction: Explain briefly the difference between a simile and a metaphor.
+17. Input: 
+<noinput>
+17. Output: 
+A simile compares two unlike things explicitly by using the words "like" or "as", while a metaphor compares two unlike things implicitly by asserting that one thing is another without using comparative words.
+
+18. Instruction: List the 5 largest countries in the world by land area.
+18. Input: 
+<noinput>
+18. Output: 
+Russia, Canada, China, United States, and Brazil.
+
+19. Instruction: Given the musical symbols and their meanings, identify the musical symbols.
+19. Input: 
+* Treble Clef: curl-like shape 🎼
+* Whole note: circle 🅾
+* Half note: circle with a vertical line attached ⚪. 
+* Quarter note: filled in circle with a tail attached ♩.
+19. Output:
+🎼 : Treble Clef
+🅾 : Whole note
+⚪️ : Half note
+♩ : Quarter note
+
+20. Instruction: Provide advice on creating a good sleeping environment for better sleep quality.
+20. Input:
+<noinput>
+20. Output:
+To create a good sleeping environment for better sleep quality, maintain a cool, dark, and quiet space, invest in a comfortable mattress and pillows, use blackout curtains or eye masks, eliminate noise with earplugs, white noise machines or fans, maintain a consistent sleep schedule, limit screen time before bedtime, and reduce caffeine and alcohol intake near bedtime.

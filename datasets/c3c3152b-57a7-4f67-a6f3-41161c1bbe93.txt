@@ -1,0 +1,84 @@
+4. Instruction: Describe the implications of climate change on wildlife.
+4. Input: 
+<noinput>
+4. Output: 
+Climate change affects wildlife in various ways such as habitat loss, shifts in migration patterns, altered reproduction cycles, and increased risk of extinction for vulnerable species. Food sources may be diminished, and species may face greater exposure to predators and diseases due to the changing environmental conditions.
+
+###
+5. Instruction: Rewrite the following passage in passive voice.
+5. Input: 
+Sam threw the ball, and it hit the window. The cat chased the ball and broke a glass in the process.
+5. Output: 
+The ball was thrown by Sam, and the window was hit by it. The ball was chased by the cat, and in the process, a glass was broken.
+
+###
+6. Instruction: Convert the given numbers into their Roman numeral equivalents.
+6. Input: 
+89, 2354, 507
+6. Output: 
+89 -> LXXXIX
+2354 -> MMCCCLIV
+507 -> D(VII)
+
+###
+7. Instruction: Translate the following English phrases into French.
+7. Input: 
+Good morning, I would like a cup of coffee and a croissant.
+7. Output: 
+Bonjour, j'aimerais une tasse de café et un croissant.
+
+###
+8. Instruction: Rank the following social media platforms in terms of active daily users, starting from the highest.
+8. Input: 
+LinkedIn, Facebook, Instagram, Twitter, Snapchat
+8. Output: 
+Facebook, Instagram, Snapchat, Twitter, LinkedIn
+
+###
+9. Instruction: Given a description of a movie or TV show, identify the title.
+9. Input: 
+In a world where humanity faces the threat of giant humanoid creatures, a group of young soldiers dedicate their lives to protect the last remnants of civilization behind massive walls.
+9. Output: 
+Attack on Titan
+
+###
+10. Instruction: Identify the positive qualities of the provided job candidate based on the provided description.
+10. Input: 
+Sarah is diligent and hardworking, continuously seeking to improve her skills through constant learning. She has excellent problem-solving abilities and often helps her peers with their issues. While she can be somewhat introverted, her communication skills are more than satisfactory.
+10. Output: 
+Diligent, hardworking, improvement-oriented, excellent problem-solving abilities, helpful, satisfactory communication skills
+
+###
+11. Instruction: Identify the logical fallacy in the argument provided.
+11. Input: 
+Everyone in our neighborhood enjoys eating at the new pizza place, so it must offer the best pizza in the city.
+11. Output: 
+Hasty Generalization
+
+###
+12. Instruction: Determine the category of the following musical instrument.
+12. Input: 
+Saxophone
+12. Output: 
+Woodwind
+
+###
+13. Instruction: Identify the conflict of interest in the given scenario.
+13. Input: 
+A nutritionist has been providing dietary tips on a health blog. They also promote and sell their own brand of supplements on the same blog.
+13. Output: 
+The conflict of interest is that the nutritionist may provide biased dietary tips in order to promote and sell their own brand of supplements.
+
+###
+14. Instruction: Remove any excessive punctuation and correct the grammar in the given sentence.
+14. Input: 
+I went to the store;;; and I bought some eggs, milk., bread and, a chocolate,, bar.
+14. Output: 
+I went to the store and I bought some eggs, milk, bread, and a chocolate bar.
+
+###
+15. Instruction: Summarize the main idea of the given text.
+15. Input: 
+Technological advancements have played a significant role in the growth of modern society. They have improved the speed at which information is disseminated, increased the interconnectivity of people from different regions, and enabled businesses to operate more efficiently. This has opened doors for new opportunities for innovation and growth, positively impacting various sectors such as education, healthcare, and transportation.
+15. Output: 
+The main idea is that technological advancements have significantly contributed to the growth of modern society by improving information dissemination, increasing interconnectivity, and enabling businesses to operate efficiently, which in turn has led to positive impacts across sectors like education, healthcare, and transportation.

@@ -1,0 +1,133 @@
+4. Instruction: Given a photo of a celebrity, describe the person's outfit and accessories.
+4. Input:
+Image of Scarlett Johansson at the Oscars red carpet.
+4. Output: 
+Scarlett Johansson stunned at the Oscars red carpet wearing a beautiful silver Oscar de la Renta gown with a plunging neckline and a diamond necklace. She paired the look with diamond drop earrings, a sleek hair updo, and a bold red lip. 
+###
+5. Instruction: Provide a sentence summarizing the plot of the movie "The Shawshank Redemption".
+5. Input:
+<noinput>
+5. Output: 
+The Shawshank Redemption is a story of hope and resilience that follows the life of Andy Dufresne, a banker who is sentenced to life in Shawshank State Penitentiary and his friendship with fellow inmate Red as they both hope for eventual freedom. 
+###
+6. Instruction: Given a news article, create a one-sentence headline that summarizes the article.
+6. Input:
+https://www.reuters.com/business/china-says-resolutely-opposed-new-us-sanctions-connecting-cuba-2022-10-15/
+6. Output: 
+China opposes new US sanctions for Cuba, affecting the trade industry.
+###
+7. Instruction: Summarize the main selling points of the Toyota Camry 2022 model.
+7. Input:
+<noinput>
+7. Output: 
+The 2022 Toyota Camry features a sleek design, a spacious and comfortable interior, advanced safety features, and improved fuel efficiency, making it reliable and eco-friendly. 
+###
+8. Instruction: Given a set of instructions, write down the list of required ingredients and tools for the recipe. 
+8. Input: 
+Recipe for Banana Bread: 
+1. Preheat oven to 350°F. 
+2. Mash 3 ripe bananas with fork. 
+3. Add 1/3 cup melted butter, 1 teaspoon of baking soda, and pinch of salt. 
+4. Stir in 3/4 cup sugar, 1 beaten egg, and 1 teaspoon of vanilla extract. 
+5. Add 1 and 1/2 cups of flour and mix everything together. 
+6. Pour the batter into a greased loaf pan. 
+7. Bake in the preheated oven for 60 to 65 minutes, or until a toothpick inserted into the center of the bread comes out clean. 
+8. Cool on a rack.
+8. Output: 
+Ingredients: 3 ripe bananas, 1/3 cup melted butter, 1 teaspoon of baking soda, pinch of salt, 3/4 cup sugar, 1 beaten egg, 1 teaspoon of vanilla extract, 1 and 1/2 cup of flour 
+Tools: fork, loaf pan, oven, toothpick, cooling rack
+###
+9. Instruction: Write a brief introduction paragraph about the Mona Lisa painting.
+9. Input:
+<noinput>
+9. Output:
+The Mona Lisa painting by Leonardo da Vinci is one of the most well-known works of art in the world, admired for its enigmatic smile, exquisite detail, and its ability to captivate audiences for centuries. 
+###
+10. Instruction: Given a sentence with an incorrect spelling, provide the corrected spelling.
+10. Input: 
+The partridge is sitting in a peir tree. 
+10. Output: 
+The partridge is sitting in a pier tree.
+###
+11. Instruction: Write a descriptive paragraph about your favorite city, including its landmarks and cultural attractions.
+11. Input:
+<noinput>
+11. Output: 
+San Francisco is my favorite city. With its iconic landmarks like the Golden Gate Bridge and Alcatraz Island, it has an unforgettable view. The city is known for its picturesque neighborhoods such as Chinatown, Union Square, and Fisherman's Wharf, along with the diverse cuisine that is available on every corner. It is a place that never fails to impress and inspire. 
+###
+12. Instruction: Given a set of instructions in a foreign language, translate the instructions into English. 
+12. Input:
+Instructions for making croissants in French. 
+12. Output: 
+Instructions for making croissants:
+1. In a bowl, mix the flour, sugar, salt and yeast. 
+2. In another bowl, mix the milk and water, then pour into the flour mixture. 
+3. Knead the dough for several minutes to create a smooth dough. 
+4. Roll the dough out onto the table, between two sheets of wax paper, to create a rectangle. 
+5. Place the butter on the dough and fold the dough over it. 
+6. Refrigerate for 1 hour. 
+7. After 1 hour, roll the dough out thinly and cut it into triangles. 
+8. Roll each triangle up, starting from the wide end, creating a croissant shape. 
+9. Put croissants on a baking sheet, brush with egg wash and let them rise for about 2 hours. 
+10. Bake at 375 degrees Fahrenheit until golden brown.
+###
+13. Instruction: Provide a summary of the key features of the new iPhone 13.
+13. Input:
+<noinput>
+13. Output: 
+The new iPhone 13 boasts a faster A15 Bionic chip, an improved Super Retina XDR display, enhanced camera features such as cinematic mode, longer battery life, and a ceramic shield front cover, making it one of the most durable iPhones yet. 
+###
+14. Instruction: Given a scientific article, summarize the main findings of the study.
+14. Input: 
+https://www.nature.com/articles/s41586-021-03713-2
+14. Output: 
+Researchers have discovered how to reactivate growth in damaged neurons, offering a potential breakthrough in the treatment of neurological injuries, suggesting implications for treating human spinal cord injuries.
+###
+15. Instruction: Write a short paragraph on how to budget for a long-term trip.
+15. Input:
+<noinput>
+15. Output: 
+Planning a long-term trip can be daunting, but a solid budget can ease financial stress during your travels. Start by setting your travel goals, like your desired location, duration and accommodation. Once you have a rough idea of how long you'll be traveling, you can estimate the cost of transportation, lodging, food, and activities. Make sure to include miscellaneous expenses such as insurance, visas, and unexpected costs. Compiling the budget into a visual document can be helpful to track and adjust expenses as you go on your travel journey. 
+###
+16. Instruction: Given a sentence with grammatical errors, correct the errors and provide a revised sentence.
+16. Input: 
+Their doing really well in school this semester!
+16. Output: 
+They're doing really well in school this semester!
+###
+17. Instruction: Write a list of three main advantages and disadvantages of remote work.
+17. Input:
+<noinput>
+17. Output: 
+Advantages: 
+1. Flexibility in location and schedule
+2. No commute leading to more time and less expense 
+3. Environmental Friendly (less emissions from traveling)
+
+Disadvantages: 
+1. Isolation and lack of physical contact with colleagues leading to loneliness and disconnection
+2. Difficulty maintaining work-life balance leading to overworking 
+3. Dependence on technology leading to potential security risks.
+###
+18. Instruction: Given a paragraph with redundant phrases, simplify the paragraph by removing the redundancies.
+18. Input: 
+The pitcher threw the ball out of his hand, and then the ball was carrying through the air as it came towards the plate for the batter to hit it with his bat.
+18. Output: 
+The pitcher released the ball, and it flew towards the plate for the batter to hit. 
+###
+19. Instruction: Provide a few examples of hotels located near the Empire State Building in New York City.
+19. Input: 
+<noinput>
+19. Output: 
+Examples of hotels near Empire State Building: 
+1. The Langham, New York
+2. The Redbury New York
+3. The Roger
+4. Arlo NoMad
+5. Aliz Hotel Times Square
+###
+20. Instruction: Given a set of adjectives, create a brief character description for a fictional character.
+20. Input: 
+Friendly, adventurous, witty, generous, patient.
+20. Output: 
+Meet Sarah, a friendly and sociable young woman. Always looking for new experiences, she seeks adventure at every opportunity. Her sharp wit and generosity draw others to her, and her patient nature makes her an ideal friend to have.

@@ -1,0 +1,46 @@
+4. Instruction: Provide the common names for the Latin botanical names of peppers.
+4. Input: 
+Capsicum annuum, Capsicum baccatum, Capsicum chinense, Capsicum frutescens, Capsicum pubescens
+4. Output: 
+Bell pepper, Peruvian pepper, Habanero pepper, Tabasco pepper, Rocoto pepper
+###
+5. Instruction: Write a haiku about autumn weather.
+5. Input: 
+<noinput>
+5. Output: 
+Crisp leaves underfoot,
+Chilly air, warm colors blaze,
+Autumn breathes its grace.
+###
+6. Instruction: Summarize the following passage.
+6. Input: 
+Tom sawyer is a young boy living with his half-brother Sid, his cousin Mary, and his Aunt Polly in St. Petersburg, Missouri, near the Mississippi River. Tom loves playing outside and is always getting into trouble. He is good friends with Huckleberry Finn, who lives by himself and is seen as a bit of an outcast. Throughout the novel, Tom has many adventures, like playing pirates with Huck, witnessing a murder, falling in love with Becky Thatcher, getting lost in a cave, and finding hidden treasure. His clever and mischievous personality leads him to be both well-liked and a source of frustration for the people around him.
+6. Output: 
+Tom Sawyer, a mischievous boy living in St. Petersburg, Missouri, experiences various adventures with his friend Huckleberry Finn, such as playing pirates, witnessing a murder, falling in love, and discovering hidden treasure.
+###
+7. Instruction: Identify the strongest argument for vegetarianism from the options given.
+7. Input: 
+Option A: Vegetarian diets can be cost-effective.
+Option B: Vegetarianism reduces the demand for deforestation for animal agriculture.
+Option C: Vegetarianism prevents animals from experiencing suffering.
+Option D: There are meat alternative recipes available that taste delicious.
+7. Output: 
+Option C: Vegetarianism prevents animals from experiencing suffering.
+###
+8. Instruction: Rewrite the given paragraph from the perspective of a dog.
+8. Input: 
+It's a warm summer day and I can feel the sun on my skin. I walk through the park, enjoying the soft green grass between my toes. The smell of fresh flowers in the air, I see smiling faces of families enjoying a day together. Nearby, a couple of kids are playing with their dog, loudly chasing him around the open field as he runs with a stick in his mouth.
+8. Output: 
+It's a warm summer day and I can feel the sun on my fur. I run through the park, enjoying the soft green grass beneath my paws. The smell of fresh flowers wafts by, and I see happy human families spending time together. Nearby, a couple of kids are playing with me, excitedly chasing me around the open field as I dash with a stick in my mouth.
+###
+9. Instruction: Detect the grammatical error in the sentence.
+9. Input: 
+Your package will be arrive on Tuesday.
+9. Output: 
+"be arrive" should be "arrive"
+###
+10. Instruction: Calculate the average temperature based on the given data.
+10. Input: 
+Temperature readings for the week: Monday: 72 F, Tuesday: 75 F, Wednesday: 68 F, Thursday: 70 F, Friday: 73 F, Saturday: 77 F, Sunday: 74 F
+10. Output: 
+71.3 F

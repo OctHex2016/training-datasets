@@ -1,0 +1,136 @@
+4. Instruction: Recommend an ideal piece of workout equipment for a home gym.
+4. Input: <noinput>
+4. Output: 
+A versatile and compact option for a home gym is a set of adjustable dumbbells, as they allow users to perform various exercises and can easily be customized to different fitness levels.
+
+5. Instruction: Correct any grammar and punctuation mistakes found in this excerpt. 
+5. Input: 
+Yesterday,I went too the library and borrows a book. Is a great book about space, rocket and planets! I think I am going read it tonight.'
+5. Output: 
+Yesterday, I went to the library and borrowed a book. It's a great book about space, rockets, and planets! I think I am going to read it tonight.
+
+6. Instruction: Arrange the sentences given in chronological order, based on historical events. 
+6. Input: 
+- The first solar eclipse to be predicted by human calculations occurred.
+- NASA's Voyager 1 captured the first-ever photograph of Earth from a distance of 6 billion kilometers.
+- Copernicus published his theory on heliocentrism in De revolutionibus orbium coelestium.
+- Sir Isaac Newton formulated the laws of motion and universal gravitation. 
+6. Output: 
+1. Copernicus published his theory on heliocentrism in De revolutionibus orbium coelestium.
+2. Sir Isaac Newton formulated the laws of motion and universal gravitation.
+3. The first solar eclipse to be predicted by human calculations occurred.
+4. NASA's Voyager 1 captured the first-ever photograph of Earth from a distance of 6 billion kilometers.
+
+7. Instruction: Convert this dessert recipe's measurements from imperial to metric units. 
+7. Input: 
+Ingredients:
+- 2 cups all-purpose flour
+- 1.5 teaspoons baking powder
+- 1/2 teaspoon salt
+- 3/4 cup unsalted butter
+- 1 cup granulated sugar
+- 2 large eggs
+- 1 teaspoon vanilla extract
+- 1/2 cup milk
+7. Output: 
+Ingredients:
+- 240 grams all-purpose flour
+- 7.5 grams baking powder
+- 2.5 grams salt
+- 170 grams unsalted butter
+- 200 grams granulated sugar
+- 2 large eggs
+- 5 milliliters vanilla extract
+- 120 milliliters milk
+
+8. Instruction: Translate this text into French. 
+8. Input: 
+"Will you go to the dance with me tomorrow night?"
+8. Output: 
+"Veux-tu aller au bal avec moi demain soir?"
+
+9. Instruction: Detect whether the player underlined is in an offside position.
+9. Input: 
+- Defender 1: 5 meters from the goal line
+- Defender 2: 6 meters from the goal line
+- Underlined player: 4 meters from the goal line
+- Ball position: 7 meters from the goal line
+9. Output: 
+Yes, the underlined player is in an offside position.
+
+10. Instruction: Evaluate and rewrite the sentence to eliminate the logical fallacy committed. 
+10. Input: 
+"You can't trust doctors; they just want to make money."
+10. Output: 
+"While some doctors may be primarily focused on personal financial gain, it is important to consider that there are many dedicated professionals who prioritize patient care."
+
+11. Instruction: Write a limerick poem about a dog. 
+11. Input: <noinput>
+11. Output: 
+There once was a dog named Rover,
+Who frolicked in fields full of clover,
+He'd leap and he'd bound,
+And chase squirrels around,
+Always wagging his tail till it's over.
+
+12. Instruction: Identify the literary device used in this sentence. 
+12. Input: 
+"The autumn leaves were a symphony of color."
+12. Output: 
+Metaphor
+
+13. Instruction: Determine the validity of this deductive argument. 
+13. Input: 
+- All mammals have hair.
+- Whales are mammals.
+- Therefore, whales have hair.
+13. Output: 
+The argument is valid.
+
+14. Instruction: Summarize this news article in one sentence. 
+14. Input: 
+Researchers from the University of Oxford have recently discovered a new type of cell in human lungs called the "pulmonary ionocyte." These cells play a critical role in cystic fibrosis, as they are responsible for regulating the movement of chloride ions in the airways. The discovery of the pulmonary ionocyte opens up new possibilities for developing targeted treatments against cystic fibrosis.
+14. Output: 
+Oxford researchers have discovered a new cell type in human lungs, the "pulmonary ionocyte," offering potential for targeted cystic fibrosis treatments.
+
+15. Instruction: Determine the relationship between the words provided.
+15. Input: 
+"Knight" and "Squire"
+15. Output: 
+Hierarchy relationship
+
+16. Instruction: Analyze this data and calculate the average temperature in Celsius. 
+16. Input: 
+Monday: 20°C
+Tuesday: 22°C
+Wednesday: 19°C
+Thursday: 21°C
+Friday: 18°C
+16. Output: 
+The average temperature in Celsius is 20°C.
+
+17. Instruction: Rewrite the following sentence using passive voice. 
+17. Input: 
+"The cat chased the mouse."
+17. Output: 
+"The mouse was chased by the cat."
+
+18. Instruction: List three potential ethical issues that might arise in the field of artificial intelligence. 
+18. Input: <noinput>
+18. Output: 
+1. Bias and discrimination in AI algorithms
+2. Invasion of privacy and data security
+3. Job displacement caused by automation 
+
+19. Instruction: Identify the type of poem based on the characteristics provided. 
+19. Input: 
+- Japanese in origin 
+- Consists of three lines 
+- Has a 5-7-5 syllable pattern
+19. Output: 
+Haiku
+
+20. Instruction: Suggest an alternative investment for someone looking to invest in the stock market. 
+20. Input: <noinput>
+20. Output: 
+Investing in real estate, such as rental properties or real estate investment trusts (REITs), is a viable alternative to the stock market for diversifying an investment portfolio.

@@ -1,0 +1,139 @@
+4. Instruction: Write a short story using the given words. 
+4. Input: 
+Words: Umbrella, Rain, Lost, Lonely, Hope
+4. Output: 
+As the rain poured down, Sarah clutched her umbrella tightly and walked along the empty street. She had lost her way and was feeling incredibly lonely. But just then, a glimmer of hope shone as she saw a faint light in the distance. She quickened her pace and finally saw a small café. She went in, ordered a warm cup of coffee, and felt a sense of comfort knowing that she was no longer lost and alone in the pouring rain.
+###
+5. Instruction: Create a tweet about a recent sporting event. 
+5. Input: 
+<noinput>
+5. Output: 
+"Just witnessed an incredible match! The underdogs pulled off a stunning victory in extra time! #sports #upset"
+###
+6. Instruction: Rewrite the given sentence to eliminate passive voice. 
+6. Input: 
+Sentence: The cake was baked by John.
+6. Output: 
+John baked the cake.
+###
+7. Instruction: Complete the analogy by filling in the blank. 
+7. Input: 
+Wine : Grapes :: Whiskey : ______
+7. Output: 
+Whiskey : Barley
+###
+8. Instruction: Write a paragraph summarizing the main points of a news article. 
+8. Input: 
+Article: https://www.bbc.com/news/world-europe-61344685
+8. Output: 
+According to the article, the Italian government has blocked the export of 250,000 doses of the AstraZeneca Covid vaccine to Australia. The decision to block the shipment was made due to the shortage of vaccine supply in Italy. The article suggests that this action may escalate tensions between Italy and Australia, and may have repercussions for Italy's vaccine supply from the EU.
+###
+9. Instruction: Generate an alternate title for a novel. 
+9. Input: 
+Title: The Great Gatsby
+9. Output: 
+Jay Gatsby: The Man Who Would Rather Live in Dreams than Reality
+###
+10. Instruction: Correct the spelling errors in the given sentence. 
+10. Input: 
+Sentence: She recieves a lollypop at the party.
+10. Output: 
+She receives a lollipop at the party.
+###
+11. Instruction: Write a set of instructions for a recipe. 
+11. Input: 
+Recipe: Guacamole
+11. Output: 
+Ingredients:
+- 2 ripe avocados
+- 1/2 red onion, finely chopped
+- 1 medium tomato, diced
+- 1 lime, juiced
+- 2 cloves garlic, minced
+- Salt to taste
+Instructions:
+1. Cut the avocados in half and remove the pit.
+2. Scoop out the flesh using a spoon and place it in a bowl.
+3. Mash the avocado until smooth or chunky.
+4. Add the chopped red onion, diced tomato, minced garlic, and lime juice to the bowl and mix until well combined.
+5. Add salt to taste.
+6. Serve the guacamole immediately or store it in the fridge for up to an hour.
+###
+12. Instruction: Describe the given image. 
+12. Input: 
+Image link: https://i.imgur.com/RP5D7il.jpg
+12. Output: 
+The image shows a group of people kayaking on a beautiful blue lake surrounded by mountains. The kayakers are wearing life jackets and paddling in sync with each other. The sun is shining down on the lake, and there are a few clouds in the sky.
+###
+13. Instruction: Explain the meaning of the given idiom. 
+13. Input: 
+Idiom: Break the ice
+13. Output: 
+The idiom "break the ice" means to do or say something to relieve tension and create a more comfortable or friendly atmosphere in a situation where people are meeting for the first time or are in an awkward situation.
+###
+14. Instruction: Write a poem about nature. 
+14. Input: 
+<noinput>
+14. Output: 
+The sun sets over the mountains,
+A golden glow fills the sky.
+The birds fly to their nests,
+As the day slowly passes by.
+
+The rustling of leaves in the wind,
+A soft melody that nature sings.
+The river dances over the rocks,
+As it flows with so much ease.
+
+Nature, oh nature,
+A beauty so divine,
+A place of peace and harmony,
+That forever will be mine.
+###
+15. Instruction: Explain the concept of gravity. 
+15. Input: 
+<noinput>
+15. Output: 
+Gravity is a force that pulls objects towards each other. It is the reason why objects stay on the ground instead of floating off into space. All objects with mass have gravity, and the stronger the mass, the stronger the gravitational pull. Gravity is what keeps planets in orbit around stars, and stars revolving in galaxies. It is a fundamental force of nature that affects every part of our universe.
+###
+16. Instruction: Compose an email to a superior requesting a day off work. 
+16. Input: 
+<noinput>
+16. Output: 
+Subject: Request for Day off Work
+
+Dear [Name],
+
+I am writing to request a day off work on [date]. I understand that this may be an inconvenience for the team, but I have some personal matters to attend to that require me to take the day off.
+
+I have made arrangements with [colleague] to handle my duties in my absence, and I will ensure that all important tasks are completed beforehand. I will also be available via email or phone in case of any urgent matters.
+
+Thank you for your understanding, and please let me know if there are any issues with my request.
+
+Sincerely,
+[Your Name]
+###
+17. Instruction: Write a pun using the given word. 
+17. Input: 
+Word: Bee
+17. Output: 
+Q: What do you call a bee that can’t make up its mind? 
+A: A maybee.
+###
+18. Instruction: Rewrite the given sentence to use the active voice. 
+18. Input: 
+Sentence: The ball was caught by the dog.
+18. Output: 
+The dog caught the ball.
+###
+19. Instruction: Write a product review. 
+19. Input: 
+Product: AirPods Pro
+19. Output: 
+I recently purchased the AirPods Pro, and I am blown away by how good they are! The sound quality is crystal clear, and the noise cancellation works wonders in a noisy environment. They also fit securely in my ears and are comfortable to wear for long periods. I especially love the transparency mode which lets me hear what's going on around me while still enjoying my music. Overall, I highly recommend the AirPods Pro to anyone looking for a high-quality wireless earbud experience.
+###
+20. Instruction: Explain the concept of supply and demand. 
+20. Input: 
+<noinput>
+20. Output: 
+Supply and demand refers to the relationship between the availability of a product or service and the demand for it. If the supply of a product is limited, and there is high demand, the price will increase. Conversely, if the supply is high and there is low demand, the price will decrease. In short, the more that people want something, the higher the price will be, and the less they want something, the lower the price will be. This concept is fundamental to economics, as it affects the price of virtually everything in the marketplace.

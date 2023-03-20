@@ -1,0 +1,49 @@
+4. Instruction: Identify and correct any grammatical errors in the given text.
+4. Input: 
+The fog was begin to lift and Tim new that soon he could see clearly the landscape around him. He picks up hes backpack and start make hes way back to the main trail.
+4. Output: 
+The fog was beginning to lift, and Tim knew that soon he could see clearly the landscape around him. He picked up his backpack and started making his way back to the main trail.
+
+5. Instruction: Write a rhyming couplet using the given word.
+5. Input: 
+moon
+5. Output: 
+Underneath the shining moon, we sang a lovely, heartfelt tune.
+
+6. Instruction: Summarize the given article in one or two sentences.
+6. Input: 
+A recent publication in Nature Communications reveals a significant breakthrough in battery technology, as a group of researchers from the University of Cambridge have developed a lithium-ion battery that can rival the energy density of gasoline. The unique design uses lithium-metal foil as the anode, allowing the battery to store 10 times more energy than traditional lithium-ion batteries while simultaneously addressing common issues of safety and degradation that can occur during fast charging.
+6. Output: 
+University of Cambridge researchers developed a lithium-ion battery with energy density rivaling gasoline by using lithium-metal foil as the anode. This breakthrough addresses safety and degradation issues during fast charging while increasing energy storage by 10 times.
+
+7. Instruction: Translate the given text from English to French.
+7. Input: 
+I would like a cup of coffee, please.
+7. Output: 
+Je voudrais une tasse de café, s'il vous plaît.
+
+8. Instruction: Convert the given idea into a haiku (5-7-5 syllable pattern).
+8. Input: 
+Peaceful forest scene
+8. Output: 
+Whispering green leaves,
+Forest breathes in tranquil peace,
+Nature's calm embrace.
+
+9. Instruction: Imagine a conversation between two historical figures and write their dialogue.
+9. Input: 
+Nikola Tesla and Thomas Edison
+9. Output: 
+Tesla: Mr. Edison, I must insist that alternating current is the future of electricity.
+
+Edison: Nonsense, Tesla! Direct current is much safer and more practical for everyday use.
+
+Tesla: But think of the potential for transmitting energy over vast distances. AC can accomplish this with far greater efficiency.
+
+Edison: Efficiency has its advantages, but safety and reliability cannot be compromised. Our focus should be on improving and expanding DC technology.
+
+10. Instruction: Write a brief description of the given movie title without revealing spoilers.
+10. Input: 
+Inception
+10. Output: 
+Inception is a mind-bending sci-fi thriller that follows a team of skilled individuals led by Dom Cobb, who specializes in extracting valuable information from people's dreams. With high stakes, they embark on a daring mission that involves planting an idea deep within a target's subconscious - a concept known as inception. The film takes viewers on a thrilling journey through layers of dreams and explores themes of reality, memory, and regret.

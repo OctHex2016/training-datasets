@@ -1,0 +1,117 @@
+4. Instruction: Translate the following sentence to French. 
+4. Input: 
+I would like to order a coffee.
+4. Output: 
+Je voudrais commander un café.
+
+5. Instruction: Explain the difference between two given terms.
+5. Input: 
+Term 1: weather
+Term 2: climate
+5. Output: 
+Weather refers to the short-term atmospheric conditions at a particular place and time while climate refers to the long-term patterns of weather conditions in a region over an extended period.
+
+6. Instruction: Summarize the given paragraph.
+6. Input: 
+Google is a multinational technology company that specializes in Internet-related services and products. These include online advertising technologies, a search engine, cloud computing, software, and hardware. The company is considered one of the Big Five technology companies in the United States, alongside Amazon, Apple, Microsoft, and Facebook. Google was founded in 1998 by Larry Page and Sergey Brin, who were Ph.D. students at Stanford University in California. The company's rapid growth since its incorporation has triggered a chain of products, acquisitions, and partnerships beyond Google's core search engine.
+6. Output: 
+Google, founded in 1998 by Larry Page and Sergey Brin, is a global technology company specializing in internet-related services and products like online advertising, search engines, and cloud computing. As one of the Big Five technology companies in the US, Google has experienced rapid growth, leading to numerous product launches, acquisitions, and partnerships.
+
+7. Instruction: Suggest three possible names for a new outdoor clothing brand.
+7. Input: <noinput>
+7. Output: 
+1. Trailblaze Outfitters
+2. NatureBound Gear
+3. SummitVenture Apparel
+
+8. Instruction: List four types of intellectual property.
+8. Input: <noinput>
+8. Output: 
+1. Patents
+2. Trademarks
+3. Copyrights
+4. Trade Secrets
+
+9. Instruction: Categorize the following items into fruits, vegetables, or fish.
+9. Input: 
+Tomato, carrot, salmon, apple, tuna
+9. Output: 
+Fruits: tomato, apple
+Vegetables: carrot
+Fish: salmon, tuna
+
+10. Instruction: Highlight the major issue in the given text.
+10. Input: 
+The project started out smoothly, but within a few weeks, it became apparent that communication between team members was lacking, which led to several delays and misunderstandings.
+10. Output: 
+The major issue in the text is poor communication between team members causing delays and misunderstandings.
+
+11. Instruction: Determine the percentage increment.
+11. Input: 
+Initial value: 20
+Final value: 25
+11. Output: 
+25% increase
+
+12. Instruction: Identify the adjective and adverb in the following sentence.
+12. Input: 
+She quickly finished the difficult puzzle.
+12. Output: 
+Adjective: difficult
+Adverb: quickly
+
+13. Instruction: Convert the given recipe to serve 8 people.
+13. Input: 
+Current recipe serves 4:
+- 400g pasta
+- 200g broccoli
+- 100g parmesan cheese
+13. Output: 
+To serve 8 people:
+- 800g pasta
+- 400g broccoli
+- 200g parmesan cheese
+
+14. Instruction: Correct the grammar errors in the following sentence.
+14. Input: 
+He can plays the guitar and singing, too.
+14. Output: 
+He can play the guitar and sing, too.
+
+15. Instruction: Write a haiku about autumn.
+15. Input: <noinput>
+15. Output: 
+Crisp air whispers by
+Leaves fall in vibrant colors
+Autumn's dance begins
+
+16. Instruction: Create a slogan for a technology repair store.
+16. Input: <noinput>
+16. Output: 
+Rejuvenate your tech life! We fix it right, we fix it fast.
+
+17. Instruction: Advise on the best way to handle conflict among coworkers.
+17. Input: <noinput>
+17. Output: 
+The best way to handle conflict among coworkers is through open, respectful communication, actively listening to each person's perspective, and finding a compromise or solution that resolves the issue for all parties involved.
+
+18. Instruction: List 5 benefits of exercise.
+18. Input: <noinput>
+18. Output: 
+1. Improved cardiovascular health
+2. Increased strength and flexibility
+3. Weight management
+4. Enhanced mental well-being
+5. Reduced risk of chronic diseases
+
+19. Instruction: Recommend 3 good practices for studying efficiently.
+19. Input: <noinput>
+19. Output: 
+1. Create a distraction-free study environment
+2. Use active learning techniques (e.g., summarizing, questioning, and teaching others)
+3. Take regular short breaks to help maintain focus and improve retention
+
+20. Instruction: Write a short paragraph about the importance of teamwork.
+20. Input: <noinput>
+20. Output: 
+Teamwork is essential in all aspects of life as it encourages collaboration, fosters trust and responsibility, and promotes creative problem-solving. By working together, individuals can efficiently combine their diverse skills and perspectives to achieve a common goal, allowing for better decision-making and more innovative solutions. Effective teamwork not only benefits the outcome of a project but also nurtures personal growth and professional development.

@@ -1,0 +1,183 @@
+4. Instruction: Rewrite the following sentence in passive voice. 
+4. Input: 
+The dog chased the cat up the tree.
+4. Output: 
+The cat was chased up the tree by the dog.
+###
+5. Instruction: Identify the error in the given text and provide a corrected version.
+5. Input: 
+She was really tired on the morning from staying up too late the night before.
+5. Output: 
+Error: "on the morning from"
+Correction: She was really tired in the morning from staying up too late the night before.
+###
+6. Instruction: Explain the meaning of the given idiom.
+6. Input: 
+Bite the bullet
+6. Output: 
+'Bite the bullet' is an idiom that means to face a difficult or unpleasant situation with courage and determination, even though it may be painful or difficult.
+###
+7. Instruction: Create a limerick, a humorous 5-line poem, with a specific topic.
+7. Input: 
+Topic: A frog in the bog
+7. Output: 
+There once was a frog in a bog,
+Who leapt through the fog like a dog,
+He sang with delight,
+As mosquitoes took flight,
+A happy, musical frog in the bog.
+###
+8. Instruction: Translate the given English text into French.
+8. Input: 
+Please find enclosed my application for the position of project manager.
+8. Output: 
+Veuillez trouver ci-joint ma candidature pour le poste de chef de projet.
+###
+9. Instruction: Summarize the main ideas of the given paragraph in a single sentence.
+9. Input: 
+In the animal kingdom, altruism can be observed in various species, such as ants, dolphins, and primates. Altruistic behavior can involve self-sacrifice for the benefit of others in the community, which might seem counterintuitive when considering Darwin's theory of natural selection. However, altruism can promote better cooperation and teamwork, leading to increased survival chances for the group as a whole.
+9. Output: 
+Altruism in various animal species may involve self-sacrifice, but it promotes group cooperation and increased survival chances for the group as a whole.
+###
+10. Instruction: Spot and correct any grammatical or punctuation errors in the given sentence.
+10. Input: 
+If I were you I'd think twice,, before making such a bold claim in front of so many, people.
+10. Output: 
+If I were you, I'd think twice before making such a bold claim in front of so many people.
+###
+11. Instruction: What is the capital city of the specified country?
+11. Input: 
+Canada
+11. Output: 
+Ottawa
+###
+12. Instruction: Write a short sympathy message for someone who lost their family member.
+12. Input: <noinput>
+12. Output: 
+I am deeply sorry for your loss. My thoughts are with you and your family during this difficult time.
+###
+13. Instruction: Identify the literary device used in the given sentence and explain it.
+13. Input: 
+It was so quiet, you could hear a pin drop.
+13. Output: 
+Literary device: Hyperbole
+Explanation: Hyperbole is an exaggerated statement or claim, used to emphasize and make a strong point but is not meant to be taken literally. In this case, the extreme quietness is emphasized by suggesting that even the sound of a pin dropping would be noticeable.
+###
+14. Instruction: Make a recommendation for a book about a specific genre.
+14. Input: 
+Science Fiction
+14. Output: 
+I recommend "Dune" by Frank Herbert. It's an excellent science fiction novel that tells a captivating story about politics, survival, and ecology on a desert planet.
+###
+15. Instruction: Take the given point of view and debate in favor of it.
+15. Input: 
+Point of view: Cell phones should be banned in schools.
+15. Output: 
+In favor of the argument that cell phones should be banned in schools, they can be a significant distraction for students, often hindering learning and encouraging multitasking. Moreover, cell phones can facilitate cheating in exams, degrade the overall fairness, and disrupt the academic integrity of the educational environment. Teachers can spend more time addressing discipline and usage problems, taking away from teaching time. Banning cell phones would encourage face-to-face interactions and promote better focus on academic tasks.
+###
+16. Instruction: Identify the type of formal fallacy displayed in the given argument.
+16. Input: 
+All dogs are animals. All cats are animals. Therefore, all dogs are cats.
+16. Output: 
+Type of Fallacy: Undistributed Middle
+Explanation: This fallacy occurs when two different categories are incorrectly assumed to be equivalent because of their shared relation to a third category. In this case, the shared relation is "animals," but this doesn't make dogs and cats equivalent.
+###
+17. Instruction: Design a hypothetical experiment to test the given hypothesis.
+17. Input: 
+Hypothesis: Listening to classical music while studying improves learning outcomes.
+17. Output: 
+Experiment: Randomly assign participants into two groups: Group A (the experimental group) and Group B (the control group). Both groups will have equal access to study materials and resources. Group A will listen to classical music while studying for a pre-defined period (e.g., one month). Group B will study for the same period without music. Before and after the study period, both groups will take standardized exams related to the study materials. Compare the pre- and post-test scores between the groups to assess if listening to classical music while studying led to a significant improvement in learning outcomes for Group A compared to Group B.
+###
+18. Instruction: State a potential limitation of the given research study.
+18. Input: 
+Researchers conducted an online survey to study the impact of social media use on self-esteem in teenagers. They received 250 responses to the survey.
+18. Output: 
+One potential limitation is the sample size and selection bias. With only 250 participants, the findings may not be generalizable to the larger population of teenagers. Additionally, the online survey might primarily attract those with more frequent social media use, skewing the data and limiting the representation of the general teenage population.
+###
+19. Instruction: Evaluate the argument and provide a counterargument.
+19. Input: 
+Argument: We should not use nuclear power because it produces radioactive waste, which is incredibly dangerous and difficult to dispose of safely.
+19. Output: 
+Counterargument: While it is true that nuclear power generates radioactive waste, advances in technology have led to more efficient waste management, storage, and disposal systems. Furthermore, nuclear power remains one of the most reliable and carbon-free sources of energy available. Considering the urgent need to reduce greenhouse gas emissions and combat climate change, the benefits of nuclear power as a low-emission energy source may outweigh its disadvantages related to waste.
+###
+20. Instruction: Write a haiku, a 17-syllable poem with a 5-7-5 syllable count, composed of three lines, with a specific theme.
+20. Input: 
+Theme: Winter evening
+20. Output: 
+Snowflakes gently fall,
+Silent whispers from the sky,
+Winter's night embrace.
+4. Instruction: Create a mnemonic for remembering the taxonomic classification hierarchy from broadest to most specific.
+4. Input: 
+<noinput>
+4. Output: 
+King Phillip Came Over For Good Soup (Kingdom, Phylum, Class, Order, Family, Genus, Species)
+###
+5. Instruction: Evaluate the given scenario and decide if it is likely to be a phishing email.
+5. Input: 
+Subject: Urgent Account!!! Update your records now!
+
+"Dear Customer,
+
+We noticed some suspicious activity on your account, and we need you to update your personal details immediately. To make sure your account remains safe, click on the link below and update your account information. Failure to do this within 24 hours will result in account suspension. 
+
+Secure Update Link: http://login.mysecureemail123.xyz
+
+Sincerely, The Email Support Team."
+5. Output: 
+Likely to be a phishing email, as it contains urgency, asks to click on an insecure link, and is not using an official email domain.
+###
+6. Instruction: Advise a person about their diet based on their daily food intake.
+6. Input: 
+For breakfast, I eat a bowl of cereal with milk and a cup of coffee. For lunch, I have a cheeseburger and fries from a fast-food restaurant. I have an afternoon snack of a packet of chips and a soda. For dinner, I usually have takeout such as pizza or fried chicken.
+6. Output: 
+Consider incorporating more fruits, vegetables, and whole grains into your diet. Replace fast food and takeout with healthier homemade meals. Switch to healthier snacks like nuts or yogurt, and opt for water or herbal tea instead of sugary soda.
+###
+7. Instruction: Outline the main ideas of an email message to a colleague announcing a company restructuring.
+7. Input: 
+<noinput>
+7. Output: 
+1. Introduction: Inform colleague about the company restructuring.
+2. Brief overview: Mention major changes due to restructuring.
+3. Impact on their role: Explain any changes to your colleague's position and responsibilities.
+4. Timeline: Share the timeline for the restructuring process.
+5. Resources and support: Provide information on available support and resources to help with the transition.
+6. Feedback and concerns: Encourage open communication for any questions or concerns.
+7. Conclusion: Reiterate the purpose of restructuring and express optimism about the future.
+###
+8. Instruction: Write an encouraging comment on a beginner runner's blog post about their first 5K race.
+8. Input: 
+I'm a beginner runner, and I recently ran my first 5K race. I finished with a time of 38 minutes, which is not fast, but I'm proud of completing it. I'm planning to keep training and improve my time in the future.
+8. Output: 
+Congratulations on completing your first 5K race! Finishing is an accomplishment in itself, and 38 minutes is a great starting point. Keep training and pushing yourself, and you'll undoubtedly see improvements in your time. The most important part is enjoying the journey. Keep up the good work and happy running!
+###
+9. Instruction: Estimate the word count of the given passage.
+9. Input: 
+"The leaves fluttered in the soft breeze, a gentle murmur whispering among the trees. Maria stared out the window, unable to ignore the beauty of the landscape before her. Tangled vines intertwined with one another, a delicate dance twisting and turning as they reached for the sun. Her mind drifted, lost in the serenity of the moment, and she forgot for an instant about the turmoil that raged within."
+9. Output: 
+The estimated word count for the passage is 56 words.
+###
+10. Instruction: Browse the provided lyrics and choose a keyword to use in a poem.
+10. Input: 
+"I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze."
+
+(William Wordsworth - I Wandered Lonely as a Cloud)
+10. Output: 
+Keyword: Daffodils
+###
+11. Instruction: Translate the given English sentence into German.
+11. Input:
+Could you please pass me the salt?
+11. Output:
+Können Sie mir bitte das Salz reichen?
+###
+12. Instruction: Provide some information about the first confirmed exoplanet.
+12. Input: 
+<noinput>
+12. Output: 
+The first confirmed exoplanet is called 51 Pegasi b, also known as Dimidium or Bellerophon. It was discovered in 1995 by Swiss astronomers Michel Mayor and Didier Queloz. 51 Pegasi b is a hot Jupiter-type planet, with a mass about half the size of Jupiter, and it orbits extremely close to its host star, 51 Pegasi, completing an orbit in just 4.2 Earth days.

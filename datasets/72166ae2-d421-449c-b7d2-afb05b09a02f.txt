@@ -1,0 +1,108 @@
+4. Instruction: Rewrite the given sentence in a more formal tone.
+4. Input: 
+I'm super excited about the conference next week, it's gonna be awesome!
+4. Output: 
+I am greatly looking forward to the conference next week, as it promises to be an engaging event.
+
+5. Instruction: Analyze the social media post with respect to its credibility and possible bias.
+5. Input: 
+"Big pharma is deliberately keeping us sick to make more money. Prescription drug prices are through the roof and natural remedies are being suppressed. #WakeUp"
+5. Output: 
+The credibility of this post is low, as it promotes a conspiracy theory without providing any evidence. The post has a strong anti-big pharma bias and seems to advocate for the use of natural remedies over prescription drugs.
+
+6. Instruction: What is the scientific explanation behind the given phenomenon?
+6. Input: 
+<noinput> (What causes a rainbow?)
+6. Output: 
+A rainbow is caused by the refraction, dispersion, and reflection of light in water droplets present in the atmosphere. As sunlight passes through the water droplets, the light bends (refracts), and its colors are separated into a spectrum due to dispersion. The light then reflects off the inner surface of the droplet and refracts once more as it exits the droplet, creating the circular arc of colors we see as a rainbow.
+
+7. Instruction: Summarize the given article in 2-3 sentences.
+7. Input: 
+Sony is assisting security research by expanding its bug bounty program to include its PlayStation Network online gaming service. The program will reward researchers with $50,000 for finding and reporting critical vulnerabilities that could endanger the network, while less severe issues will garner smaller cash prizes. The expansion of the program aims to foster an environment where the gaming community and security researchers work together to keep the PlayStation Network safe and secure.
+7. Output: 
+Sony has expanded its bug bounty program to include the PlayStation Network, offering rewards of up to $50,000 for reporting critical vulnerabilities. This move encourages collaboration between the gaming community and security researchers to maintain the network's security.
+
+8. Instruction: Given the revenue and expenses data for a month, calculate the profit.
+8. Input: 
+Revenue: $20,000
+Expenses: $8,500
+8. Output: 
+$11,500
+
+9. Instruction: Translate the following phrase to French.
+9. Input: 
+I look forward to our next meeting.
+9. Output: 
+Je me réjouis de notre prochaine rencontre.
+
+10. Instruction: Identify the logical fallacy present in the argument.
+10. Input: 
+If we allow people to own guns, it will inevitably lead to more crime and violence in society.
+10. Output: 
+Slippery slope
+
+11. Instruction: Provide a brief explanation of the term "machine learning."
+11. Input: 
+<noinput>
+11. Output: 
+Machine learning is a subset of artificial intelligence that uses algorithms, statistical models, and data to enable computers to learn, adapt, and improve their performance on specific tasks without the need for explicit programming.
+
+12. Instruction: Describe an effective marketing strategy for increasing website traffic.
+12. Input: 
+<noinput>
+12. Output: 
+An effective marketing strategy for increasing website traffic is content marketing, which involves creating and distributing valuable, relevant, and engaging content to attract and retain a defined target audience. This can include blog posts, videos, social media posts, and email newsletters. Optimizing this content for search engines (SEO) and promoting it through social media platforms can drive more organic and referral traffic to the website.
+
+13. Instruction: Rank the given cities by population, from the most populous to the least populous.
+13. Input: 
+New York City, Los Angeles, Chicago, Houston, Phoenix
+13. Output: 
+1. New York City
+2. Los Angeles
+3. Chicago
+4. Houston
+5. Phoenix
+
+14. Instruction: Create a haiku (5-7-5 syllable pattern) about the beauty of nature.
+14. Input: 
+<noinput>
+14. Output: 
+In the morning light
+Birds sing among the blossoms
+Nature's symphony
+
+15. Instruction: Correct any spelling and grammatical errors in the given sentence.
+15. Input: 
+Its importent too proofred you’re writting so their are know issues in it.
+15. Output: 
+It's important to proofread your writing so there are no issues in it.
+
+16. Instruction: Provide an example of a simile in a sentence.
+16. Input: 
+<noinput>
+16. Output: 
+Her eyes sparkled like the stars in the night sky.
+
+17. Instruction: Explain the difference between equity and equality.
+17. Input: 
+<noinput>
+17. Output: 
+Equality refers to treating everyone the same, giving everyone the same opportunities and resources, regardless of individual needs or circumstances. Equity, on the other hand, is about ensuring that everyone has access to the resources and support they need to reach an equal outcome, taking into consideration their unique needs and circumstances.
+
+18. Instruction: Point out the illogical part of the given statement.
+18. Input: 
+The world is round, smartphones are rectangular, therefore all round objects interact with rectangular objects.
+18. Output: 
+The illogical part is the assumption that all round objects interact with rectangular objects based on their shape without any valid connections or evidence.
+
+19. Instruction: Critique the effectiveness of the given website design.
+19. Input: 
+The website has a bright red background with white text, uses Comic Sans font, has a cluttered homepage with several pop-up ads, and the menu is difficult to navigate.
+19. Output: 
+The website design is not effective as it features a visually unappealing color combination, a non-professional font choice, an overcrowded layout, disruptive pop-up ads, and poor navigation. These aspects can deter visitors from engaging with the website, impacting user experience and conversion rates.
+
+20. Instruction: Given a claim, suggest a way to verify its validity. 
+20. Input: 
+Bananas are radioactive.
+20. Output: 
+To verify the validity of this claim, consult reliable scientific sources, such as academic research papers, reputable science websites or textbooks, which discuss the topic of radioactivity in everyday objects, including bananas.

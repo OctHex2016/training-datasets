@@ -1,0 +1,79 @@
+4. Instruction: Edit the given sentence by removing irrelevant words and fixing the grammar.
+4. Input: 
+the cat which was went and was just chasing a dog big a large and now returning sit on the fence.
+4. Output: 
+The cat, which had been chasing a large dog, now sits on the fence.
+###
+5. Instruction: List three possible uses of a toothpick.
+5. Input: 
+<noinput>
+5. Output: 
+1. Removing food particles stuck between teeth.
+2. Serving small appetizers or cheese cubes at parties.
+3. As a temporary bookmark in books or magazines.
+###
+6. Instruction: Summarize the following text in one sentence.
+6. Input: 
+Despite its small geographical size, Belgium is a country that has made a significant impact on the world stage. Known primarily for its European Union and NATO headquarters, Belgium is also famous for delicious chocolate and waffles, as well as its thousands of castles studding the landscape.
+6. Output: 
+Belgium, a small country, is significant for its EU and NATO headquarters, its delicious chocolate and waffles, and its numerous castles.
+###
+7. Instruction: Translate the expression from English to French: "What time is it?"
+7. Input: 
+<noinput>
+7. Output: 
+Quelle heure est-il ?
+###
+8. Instruction: Convert the given story into a poem.
+8. Input: 
+A little boy named Timmy found a magic lamp while playing by the sea. He rubbed the lamp, and a genie appeared. The genie granted him three wishes. Timmy wished for a puppy, a castle, and to become a prince. His wishes were granted, and he lived happily ever after.
+8. Output: 
+By the ocean, young Timmy roamed,
+A magic lamp he found, all alone.
+He rubbed the dusty, ancient prize,
+A genie appeared before his eyes.
+
+"Three wishes I grant," the genie said,
+Timmy pondered, then wished with dread.
+A puppy, a castle, a royal decree,
+He wished to be a prince, and so he'd be.
+
+All his wishes became reality,
+And in his newfound joy, he lived quite free.
+In Timmy's dream world, he found his heart,
+A happy ending, a brand new start.
+###
+9. Instruction: Identify the error in the given sentence and provide the corrected version.
+9. Input: 
+The dog chased her ball over the you're fence.
+9. Output: 
+The dog chased her ball over the your fence.
+###
+10. Instruction: Create a riddle based on a 'pencil'.
+10. Input: 
+<noinput>
+10. Output: 
+I'm thin and I'm tall, I leave a mark wherever I fall.
+I have no voice, but with me, a thousand stories you can tell.
+In a writer's hand, I cast a spell.
+What am I?
+Answer: A pencil.
+###
+11. Instruction: Reorder the words to form a meaningful sentence.
+11. Input: 
+on there was table the apple an
+11. Output: 
+There was an apple on the table.
+###
+12. Instruction: From the provided text, list two main points.
+12. Input: 
+Pollution is an increasing issue with many harmful effects on the environment and human health. Air pollution, specifically, is caused by both human activities and natural factors, such as burning fossil fuels, industrial activities, and volcanic eruptions. The consequences of air pollution are severe, leading to respiratory problems, global warming, and damage to ecosystems.
+12. Output: 
+1. Air pollution is caused by human activities and natural factors like burning fossil fuels, industrial activities, and volcanic eruptions.
+2. The consequences of air pollution include respiratory problems, global warming, and damage to ecosystems.
+###
+13. Instruction: Write a short description of the process of photosynthesis.
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process by which plants, algae, and certain bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. In this process, chlorophyll within the plant cells absorbs light energy, which drives chemical reactions to produce glucose, providing energy for the plant’s growth and development while releasing oxygen as a byproduct.

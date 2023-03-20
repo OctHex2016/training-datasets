@@ -1,0 +1,103 @@
+4. Instruction: Generate a summary of the given research article. 
+4. Input: 
+Link to the research article: https://doi.org/10.1016/j.neuron.2021.04.010
+4. Output: 
+The article proposes a new theory on how the brain processes and selects sensory information. This theory involves hierarchical competition between different areas of the brain, leading to selective attention and perception.
+###
+5. Instruction: Identify the noun phrases in the following sentence. 
+5. Input: 
+Hiking in the beautiful mountains is one of my favorite pastimes. 
+5. Output: 
+hiking, beautiful mountains, favorite pastimes
+###
+6. Instruction: Rewrite the sentence in the passive voice. 
+6. Input: 
+The construction workers are building a new bridge over the river. 
+6. Output:
+A new bridge is being built over the river by the construction workers. 
+###
+7. Instruction: Paraphrase the given sentence. 
+7. Input: 
+The government implemented new policies to address the issue of pollution. 
+7. Output: 
+New measures were taken by the government to tackle the problem of pollution. 
+###
+8. Instruction: Generate a one-sentence caption for the given image. 
+8. Input: 
+Link to the image: https://unsplash.com/photos/MQ4nqsYABL4
+8. Output: 
+A colorful hot air balloon floats over a mountainous landscape. 
+###
+9. Instruction: Convert the given decimal number into binary form. 
+9. Input: 
+63
+9. Output: 
+111111
+###  
+10. Instruction: Correct the spelling mistakes in the following sentence. 
+10. Input: 
+While traveleing to Italy, we visited Venece, Florense, and Rom. 
+10. Output: 
+While traveling to Italy, we visited Venice, Florence, and Rome. 
+###
+11. Instruction: Add punctuation to the following sentence. 
+11. Input: 
+he arrived at the restaurant sat down and ordered his favorite dish 
+11. Output: 
+He arrived at the restaurant, sat down, and ordered his favorite dish. 
+###
+12. Instruction: Identify the main idea of the given paragraph. 
+12. Input: 
+Link to the paragraph: https://www.bbc.com/news/health-58835383
+12. Output: 
+The UK government is recommending an increase in vitamin D intake for the winter months to support overall health, and especially to reduce the severity of COVID-19 symptoms.  
+###
+13. Instruction: Explain the difference between a turtle and a tortoise. 
+13. Input: 
+<noinput>
+13. Output: 
+While turtles and tortoises are both reptiles, turtles live mainly in water and have webbed feet, while tortoises live mainly on land and have strong, sturdy legs instead. 
+###
+14. Instruction: Create a haiku poem about the changing seasons. 
+14. Input: 
+<noinput>
+14. Output: 
+Leaves fall gently down,
+Nature's colors start to blend,
+Autumn's beauty found. 
+###
+15. Instruction: Define the term "social justice". 
+15. Input: 
+<noinput>
+15. Output: 
+Social justice refers to the fair distribution of resources and opportunities in society, ensuring that all individuals have equal access and are valued equally. 
+###
+16. Instruction: Convert the following temperature from Celsius to Fahrenheit. 
+16. Input: 
+24 degrees Celsius
+16. Output: 
+75.2 degrees Fahrenheit 
+###
+17. Instruction: Identify the subject and object in the following sentence. 
+17. Input: 
+She gave him the gift that he had been wanting. 
+17. Output: 
+Subject: She; Object: him and the gift 
+###
+18. Instruction: Generate a pun related to technology. 
+18. Input: 
+<noinput>
+18. Output: 
+Why did the computer go to the doctor? Because it had a virus and needed to be rebooted! 
+###
+19. Instruction: Replace the underlined word with a synonym. 
+19. Input: 
+The athlete's performance was exemplary during the championship. 
+19. Output: 
+The athlete's performance was outstanding during the championship. 
+###
+20. Instruction: Explain the concept of entropy in thermodynamics. 
+20. Input: 
+<noinput>
+20. Output: 
+Entropy is a measure of the disorder or randomness in a system, often used in thermodynamics to describe the amount of energy that is no longer available to do work.

@@ -1,0 +1,48 @@
+4. Instruction: Invert the following sentence into the passive voice.
+4. Input: 
+The boy washed the car.
+4. Output: 
+The car was washed by the boy.
+###
+5. Instruction: Give recommendations for a healthy breakfast option.
+5. Input: <noinput>
+5. Output: 
+A healthy breakfast option could include a bowl of oatmeal topped with fresh berries, a drizzle of honey, and a handful of nuts. You can also try Greek yogurt with sliced fruit, a sprinkle of granulated flax seeds, and some granola for crunch. Pair it with a green smoothie or a glass of freshly squeezed orange juice.
+###
+6. Instruction: Create a summary of the input text.
+6. Input: 
+The concept of reselling a business idea may seem strange, but many successful companies have emerged by acquiring licenses to sell others' popular designs, products, and services using their distribution channels. For example, Starbucks did not invent coffee, nor did McDonald's create the concept of fast food. What they're successful at is understanding the customer's needs and creating franchises that people want to buy from. Companies that engage in reselling profitable ideas will often make alterations that enhance branding and customer experience while addressing critical elements like pricing and advertising to reach new customers.
+6. Output: 
+Reselling business ideas involves acquiring licenses to sell popular designs, products, and services through one's distribution channels. Successful companies like Starbucks and McDonald's have capitalized on understanding customer needs and creating franchises that attract customers. Modifications in branding, customer experience, pricing, and advertising may be made to reach new customers.
+###
+7. Instruction: Express your thoughts on the given topic in three to four sentences.
+7. Input:
+Topic: The impact of smartphones on modern-day society
+7. Output: 
+Smartphones have revolutionized modern-day society, making communication more accessible and instantaneous. They have enabled access to information and resources on a global scale, and have become essential tools in our daily lives. However, their ubiquity has also led to issues like decreased attention spans and addiction to social media. It's crucial to strike a balance between benefiting from smartphone usage and overcoming its negative effects.
+###
+8. Instruction: Identify the main problem and recommend possible solutions in the given text.
+8. Input: 
+I work in a very competitive environment where everybody tries to outshine their coworkers. This has led to a toxic work culture with high stress levels, no collaboration or support, and a constant game of one-upmanship. The employees' morale and well-being are suffering, and the team spirit is getting lost.
+8. Output: 
+The main problem is a toxic work culture characterized by high stress, lack of collaboration, and unhealthy competition. Possible solutions include promoting team-building activities, providing stress-management resources, and leadership emphasizing cooperation and support instead of solely focusing on individual accomplishments.
+###
+9. Instruction: Analyze the given data and describe the trend in one to two sentences.
+9. Input: 
+Stock prices (USD):
+2018 Q1: 40
+2018 Q2: 53
+2018 Q3: 60
+2018 Q4: 45
+2019 Q1: 55
+2019 Q2: 70
+2019 Q3: 75
+2019 Q4: 68
+9. Output: 
+The stock prices exhibit an overall upward trend from 2018 to 2019 with some fluctuations, notably a dip in 2018 Q4 followed by a recovery in 2019 after which the stock price continues to rise.
+###
+10. Instruction: What is the best course of action based on the given customer's review?
+10. Input: 
+I bought a dress here last month, but when it arrived, it had a large hole in it! I contacted customer service, but they put me on hold for ages and then told me there was nothing they could do. I'm really disappointed with the whole experience.
+10. Output: 
+The best course of action is to apologize to the customer, offer a full refund or replacement for the damaged dress, and review customer service procedures to ensure better handling of similar situations in the future.

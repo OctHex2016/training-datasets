@@ -1,0 +1,111 @@
+4. Instruction: Rewrite the following tweet to be more concise while keeping its message intact. 
+4. Input: 
+"Just wanted to share that I'm currently feeling so happy because I went on a walk this morning and the weather was amazing, the scenery was beautiful, and it really lifted my spirits."
+4. Output: 
+Feeling great after a morning walk in perfect weather and beautiful scenery! 
+###
+5. Instruction: Summarize the plot of the movie "The Godfather". 
+5. Input: 
+<noinput>
+5. Output: 
+The Godfather is a movie about the powerful Corleone family, and their involvement in organized crime. The patriarch of the family, Vito Corleone, is the head of the family, who maintains peace and order through acts of violence and coercion. The story follows the Corleone family as they navigate their way through treacherous alliances and deadly enemies. 
+###
+6. Instruction: Classify the given image as "dog" or "cat". 
+6. Input: 
+Please classify this image as a "dog" or "cat".
+6. Output: 
+I cannot classify the image without actually seeing it. Please provide a specific input.
+###
+7. Instruction: Edit this document to remove any spelling or grammatical errors. 
+7. Input: 
+Please edit and correct any errors in the following text:
+"Somtimes peaple can make mistaks when they are in a hurry or to tired."
+7. Output: 
+Sometimes people can make mistakes when they are in a hurry, or too tired.
+###
+8. Instruction: Generate a haiku (3 lines of 5, 7 and 5 syllables) about autumn. 
+8. Input: 
+<noinput>
+8. Output: 
+Amber leaves falling, 
+Rustling sounds under my feet, 
+Autumn is here now. 
+###
+9. Instruction: Translate the following sentence from French to English. 
+9. Input: 
+Je voudrais un croissant au chocolat, s'il vous plaît. 
+9. Output: 
+I would like a chocolate croissant, please.
+###
+10. Instruction: Given a word, write a sentence that uses the word in context. 
+10. Input: 
+Word: Serendipity
+10. Output: 
+It was serendipity that I found the antique watch I had been searching for at the garage sale. 
+###
+11. Instruction: Answer the question: "What is the capital of Brazil?" 
+11. Input: 
+<noinput>
+11. Output: 
+The capital of Brazil is Brasília. 
+###
+12. Instruction: Invert the following sentence without changing its meaning: "John loves Mary." 
+12. Input: 
+<noinput>
+12. Output: 
+Mary is loved by John. 
+###
+13. Instruction: Write a creative story using the following three words: cat, rain, and treasure. 
+13. Input: 
+<noinput>
+13. Output: 
+As the rain poured heavily outside, the old tabby cat snuggled up in the warm corner of the house. Suddenly, she heard a soft knocking sound. She crept out of her hiding place and followed the sound to find a small treasure buried in the garden. It turned out to be the key to an enchanted castle. 
+###
+14. Instruction: Simplify the following sentence to be easier to read by a non-native English speaker. 
+14. Input: 
+In the event that you require any assistance, do not hesitate to contact our customer support team. 
+14. Output: 
+If you need help, please contact customer support. 
+###
+15. Instruction: Generate a short description of the dish "Sushi". 
+15. Input: 
+<noinput>
+15. Output: 
+Sushi is a Japanese dish that typically consists of raw fish, vegetables, and specially prepared rice wrapped in seaweed. It is often served with soy sauce, wasabi and pickled ginger.
+###
+16. Instruction: Write a rhyming poem about flowers. 
+16. Input: 
+<noinput>
+16. Output: 
+Flowers, so bright and fair,
+Dancing in the summer air,
+From the garden to the street,
+Petals soft, so pink and sweet.
+###
+17. Instruction: Explain the concept of "artificial intelligence". 
+17. Input: 
+<noinput>
+17. Output: 
+Artificial intelligence (AI) is a field of computer science and engineering that focuses on creating machines and computer software that can perform tasks that typically require human intelligence. These tasks may include perception, reasoning, problem solving, language understanding, and decision-making. AI has a wide range of practical applications, from manufacturing to medicine to entertainment.
+###
+18. Instruction: Rewrite the following sentence to be more formal. 
+18. Input: 
+"I wanna go to the beach today." 
+18. Output: 
+I would like to go to the beach today. 
+###
+19. Instruction: Write a tweet that promotes a new book about mindfulness. 
+19. Input: 
+Title of the book: "The Power of Now"
+19. Output: 
+Discover the transformative power of mindfulness with "The Power of Now" - a must-read for anyone looking to live a more peaceful and fulfilling life.
+###
+20. Instruction: Based on the given information, provide the top 3 most similar articles from a collection of news articles. 
+20. Input: 
+Information: 
+- Title: "China announces new carbon goals at UN Summit"
+- Date: Sept. 22, 2021
+20. Output: 
+1. "New climate pledges from major economies show global action is 'inchingly' stronger"
+2. "Climate change: EU eyes 'eleventh hour' deal on green law"
+3. "Biden urges nations to work together on clean energy technology"

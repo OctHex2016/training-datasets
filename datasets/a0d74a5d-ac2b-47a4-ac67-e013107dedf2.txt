@@ -1,0 +1,128 @@
+4. Instruction: Edit the given text to make it more formal and professional.
+4. Input: 
+Hey there,
+Just a quick note to let you know your request to shift meeting time has been approved. You'll now be attending the meeting at 2:30 pm instead of 11 am tomorrow. No worries! See ya there.
+4. Output: 
+Dear [Recipient],
+I would like to inform you that your request to change the meeting time has been approved. The meeting has been rescheduled for 2:30 pm instead of 11:00 am tomorrow. Please ensure your attendance. We look forward to seeing you there.
+
+Best regards,
+[Your Name]
+
+###
+5. Instruction: Classify the following statement as fact or opinion.
+5. Input: 
+Taking a walk in the park daily can significantly improve mental health.
+5. Output: 
+Fact
+
+###
+6. Instruction: Propose a scientific hypothesis based on the given statement.
+6. Input: 
+People who work night shifts have a higher risk of developing health issues.
+6. Output: 
+Night shift work disrupts the circadian rhythm, leading to hormone imbalances and increased stress levels, which contribute to a higher risk of health issues in night shift workers.
+
+###
+7. Instruction: Summarize the main idea of the given paragraph.
+7. Input: 
+The advent of the railway system revolutionized the transportation industry in the 19th and 20th centuries, allowing goods and people to travel long distances quickly and efficiently. Additionally, this development led to a boom in economic growth, as transportation costs were drastically reduced and new markets opened up for both national and international trade. However, the construction and development of railroads also brought about a multitude of negative consequences, such as environmental degradation, displacement of local communities, and monopolistic practices by some railroad companies.
+7. Output: 
+The railway system significantly transformed transportation and boosted economic growth in the 19th and 20th centuries, but also led to various negative consequences like environmental degradation, displacement of communities, and monopolistic practices.
+
+###
+8. Instruction: Translate the following sentence to French.
+8. Input: 
+The weather is beautiful today, let's go for a picnic at the park.
+8. Output: 
+Le temps est magnifique aujourd'hui, allons pique-niquer au parc.
+
+###
+9. Instruction: Write a palindrome.
+9. Input: 
+<noinput>
+9. Output: 
+A man, a plan, a canal, Panama! 
+
+###
+10. Instruction: Create a mnemonic to remember the planets in our solar system in order.
+10. Input: 
+<noinput>
+10. Output: 
+My Very Easy Method Just Speeds Up Naming Planets
+(Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto)11. Instruction: Convert the following active voice sentence into passive voice.
+11. Input: 
+Sheila had prepared dinner for the entire family.
+11. Output: 
+Dinner had been prepared for the entire family by Sheila.
+
+###
+12. Instruction: Given the set of words, create an alliteration.
+12. Input: 
+dolphin, drizzle, daffodil, doodle
+12. Output:
+Dancing dolphins dived during a delightful drizzle, dodging daffodils as they doodled through the water.
+
+###
+13. Instruction: Generate a limerick using the following characters: Tim, cat, and rat.
+13. Input:
+<noinput>
+13. Output:
+There once was a young man named Tim,
+Who adopted a cat with a whim.
+    The cat chased a rat,
+    But it couldn't catch that,
+And now Tim must teach it to swim.
+
+###
+14. Instruction: Given two quotations, combine them into one coherent statement.
+14. Input: 
+"Actions speak louder than words." and "You can't judge a book by its cover."
+14. Output: 
+Although actions speak louder than words, it's important to remember that you can't judge a book by its cover.
+
+###
+15. Instruction: Provide an analogy for the given expression.
+15. Input: 
+A watched pot never boils.
+15. Output: 
+Waiting for a response to an important email feels like watching grass grow.
+
+###
+16. Instruction: Write a haiku about a snowy winter day.
+16. Input:
+<noinput>
+16. Output:
+Snowflakes gently fall,
+Blanketing the silent earth,
+Winter whispers peace.
+
+###
+17. Instruction: Rewrite the given sentence in a way that uses personification.
+17. Input: 
+The wind pushed the branches of the tree.
+17. Output: 
+The wind playfully danced with the tree branches.
+
+###
+18. Instruction: Explain the meaning of the given idiom.
+18. Input: 
+"Break a leg!"
+18. Output: 
+"Break a leg!" is an idiom used to wish someone good luck, often before a performance or presentation.
+
+###
+19. Instruction: List the possible interpretations of the following ambiguous statement.
+19. Input: 
+I saw a man on a hill with a telescope.
+19. Output: 
+1. I saw a man standing on a hill, and I used a telescope to see him.
+2. I saw a man standing on a hill, who had a telescope with him.
+3. There was a man on a hill, and I saw a separate telescope nearby.
+
+###
+20. Instruction: Generate a metaphor for the concept of time.
+20. Input:
+<noinput>
+20. Output: 
+Time is a river, constantly flowing and carrying us through life's journey.

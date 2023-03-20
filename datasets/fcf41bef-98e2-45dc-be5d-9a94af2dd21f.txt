@@ -1,0 +1,124 @@
+4. Instruction: Devise a haiku poem about cherry blossoms.
+4. Input:
+<noinput>
+4. Output:
+Pink petals flutter,
+Whispers on a gentle breeze,
+Spring's sweet serenade.
+
+###
+5. Instruction: Translate the sentence from English to French.
+5. Input:
+The cat is under the table.
+5. Output:
+Le chat est sous la table.
+
+###
+6. Instruction: Generate an alliteration sentence using the letter "s."
+6. Input:
+<noinput>
+6. Output:
+Slimy slugs silently sled down smooth, slippery slopes.
+
+###
+7. Instruction: Assess the tone of the paragraph and mention if it is formal or informal.
+7. Input:
+Yo dude, that party last night was wicked! Honestly, it was off the chain, and everyone there had a killer time. Can't wait for the next one!
+7. Output:
+Informal
+
+###
+8. Instruction: Calculate the tip amount if the tip is 20% of the total price.
+8. Input:
+Total price: $65
+8. Output:
+Tip amount: $13
+
+###
+9. Instruction: Identify if the following statement is true or false: Bats are blind.
+9. Input:
+<noinput>
+9. Output:
+False
+
+###
+10. Instruction: Correct the grammar and spelling mistakes in the following sentence.
+10. Input:
+Her and me will takeing the dog too the park.
+10. Output:
+She and I will be taking the dog to the park.
+
+###
+11. Instruction: Summarize the main point from the text.
+11. Input:
+In today's hyper-connected world, digital security has become of utmost importance. As technology becomes more intertwined in our daily lives, we need to be more proactive about protecting our personal and financial information. Implementing strong passwords, being wary of phishing attacks, and using secure networks are essential strategies in ensuring our online safety.
+11. Output:
+The importance of digital security has increased as technology becomes more essential in our daily lives; strategies such as strong passwords, phishing awareness, and secure networks can help ensure online safety.
+
+###
+12. Instruction: Recommend a book based on the person's interests provided.
+12. Input:
+Interests include: Science-fiction, artificial intelligence, futuristic technologies.
+12. Output:
+I recommend "Neuromancer" by William Gibson.
+
+###
+13. Instruction: Convert temperatures in Fahrenheit to Celsius.
+13. Input:
+Temperature: 98.6°F
+13. Output:
+Temperature: 37°C
+
+###
+14. Instruction: Rephrase the sentence in passive voice.
+14. Input:
+She held the door open for her friend.
+14. Output:
+The door was held open for her friend by her.
+
+###
+15. Instruction: List 5 ingredients of a vegetarian salad.
+15. Input:
+<noinput>
+15. Output:
+1. Lettuce
+2. Cucumber
+3. Cherry tomatoes
+4. Red bell pepper
+5. Carrots
+
+###
+16. Instruction: What is the number one cause of deforestation?
+16. Input:
+<noinput>
+16. Output:
+Agricultural expansion is the number one cause of deforestation.
+
+###
+17. Instruction: Provide a synonym for the following word.
+17. Input:
+Kind
+17. Output:
+Generous
+
+###
+18. Instruction: Describe the process of photosynthesis.
+18. Input:
+<noinput>
+18. Output:
+Photosynthesis is a process in which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process consists of two stages: light-dependent reactions, during which light energy is absorbed by chlorophyll and converted to chemical energy, and light-independent reactions or the Calvin cycle, where glucose is produced. Overall, photosynthesis helps plants and some organisms generate energy for growth and survival.
+
+###
+19. Instruction: Write a rhyming couplet about the night sky.
+19. Input:
+<noinput>
+19. Output:
+A velvet cloak of black descends, the day's light ends,
+Stars shimmer and gleam, in the darkness, like dreams.
+
+###
+20. Instruction: Analyze the readability of the given text and suggest if it is suitable for a middle-school audience.
+20. Input:
+Advanced scientific research provides empirical evidence that exposure to certain stimuli has a significant effect on modifying human behavior under specific conditions, which in turn, elicits different reactions depending on the individual's genetic predisposition and environmental influences.
+20. Output:
+The given text might be too complex for a middle-school audience; it contains advanced vocabulary and dense concepts.

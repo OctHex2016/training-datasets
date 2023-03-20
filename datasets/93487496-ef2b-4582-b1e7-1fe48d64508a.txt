@@ -1,0 +1,119 @@
+4. Instruction: Describe the process of photosynthesis in simple terms.
+4. Input: 
+<noinput>
+4. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert sunlight into energy. They absorb sunlight and carbon dioxide, then transform these into glucose (a type of sugar) and oxygen. This process helps plants grow and produce the oxygen needed for our survival.
+
+###
+5. Instruction: Pick out grammatical errors in the following paragraph and suggest corrections.
+5. Input: 
+The interesting thing about about travelling is meeting new people, to learn different cultures and to experiences many things that you wouldn't had if you stayed in the same place. I loves to explore new places, taste varieties of food, and enjoying the local arts and music scene, which is why travelling is one of mine favorite hobbies.
+5. Output: 
+The interesting thing about ~~about~~ travelling is meeting new people, ~~to learn~~ learning different cultures and ~~to experiences~~ experiencing many things that you wouldn't ~~had~~ have if you stayed in the same place. I ~~loves~~ love to explore new places, taste ~~varieties~~ a variety of food, and ~~enjoying~~ enjoy the local arts and music scene, which is why travelling is one of ~~mine~~ my favorite hobbies.
+
+###
+6. Instruction: Summarize the following article in two to three sentences.
+6. Input: 
+The World Health Organization (WHO) has recently approved a new blood test for tuberculosis (TB), that can deliver rapid and accurate results. The test, known as TB Detect, is a nucleic acid amplification-based test (NAAT) and has been developed in collaboration with the Foundation for Innovative New Diagnostics (FIND). The WHO says that TB Detect can provide results within two hours, with a sensitivity rate of 85%, significantly higher than the current tests available. This breakthrough will help in the early detection and treatment of TB and will be a contributing factor in the global fight against the disease.
+6. Output: 
+The WHO has approved TB Detect, a new and efficient blood test for tuberculosis, capable of delivering accurate results within two hours. Developed with FIND, it has an 85% sensitivity rate and will aid in early detection and treatment, contributing to the global fight against TB.
+
+### 
+7. Instruction: Translate this English text to Spanish.
+7. Input: 
+Please take this medication twice a day, once in the morning and once at night, with a full glass of water.
+7. Output: 
+Por favor, tome este medicamento dos veces al día, una vez por la mañana y una vez por la noche, con un vaso lleno de agua.
+
+###
+8. Instruction: Rewrite the given text avoiding passive voice.
+8. Input: 
+The Great Wall of China was built by different Chinese dynasties over several centuries.
+8. Output: 
+Different Chinese dynasties built the Great Wall of China over several centuries.
+
+###
+9. Instruction: Recommend three action thriller movies to watch.
+9. Input: 
+<noinput>
+9. Output: 
+1. Mad Max: Fury Road (2015)
+2. The Dark Knight (2008)
+3. Inception (2010)
+
+###
+10. Instruction: Identify the type of logical fallacy in the following statement.
+10. Input: 
+Some athletes use performance-enhancing drugs. James is an athlete. Therefore, James must be using performance-enhancing drugs.
+10. Output: 
+Hasty generalization
+
+### 
+11. Instruction: Correct the punctuation and capitalization in the following text.
+11. Input: 
+hi, my name is Kate i'm from the United States; and I have a question. How long does it take to speaking fluent spanish! thanks,
+11. Output: 
+Hi, my name is Kate. I'm from the United States, and I have a question. How long does it take to speak fluent Spanish? Thanks,
+
+###
+12. Instruction: Suggest a title for a book about overcoming challenges and personal growth.
+12. Input: 
+<noinput>
+12. Output: 
+"Triumph Through Adversity: A Journey of Personal Growth"
+
+###
+13. Instruction: Calculate the total price, including an 18% tip, for a restaurant bill of $62.50.
+13. Input: 
+<noinput>
+13. Output: 
+Total price (including 18% tip): $73.75
+
+###
+14. Instruction: Write a brief explanation of what the greenhouse effect is.
+14. Input: 
+<noinput>
+14. Output: 
+The greenhouse effect is a natural process that warms the Earth's surface. It occurs when certain gases in the atmosphere, called greenhouse gases, trap heat from the Sun, preventing it from escaping back into space. These gases raise the planet's temperature and make it habitable for life. However, excessive greenhouse gas emissions from human activities can lead to an enhanced greenhouse effect, causing global warming and climate change.
+
+###
+15. Instruction: Give an example of a simile.
+15. Input: 
+<noinput>
+15. Output: 
+Her smile was as warm as a summer's day.
+
+###
+16. Instruction: Create a password with the following requirements: a minimum of 8 characters, at least one uppercase letter, one lowercase letter, one digit, and one special character.
+16. Input: 
+<noinput>
+16. Output: 
+P@ssw0rd1
+
+###
+17. Instruction: What are the three primary colors of light?
+17. Input: 
+<noinput>
+17. Output: 
+The three primary colors of light are red, green, and blue (RGB).
+
+###
+18. Instruction: mention three irregular verbs in the past tense.
+18. Input: 
+<noinput>
+18. Output: 
+Went (go), ate (eat), and sang (sing).
+
+###
+19. Instruction: Condense the following sentences into one sentence.
+19. Input: 
+The boy was running. He tripped on a stone. He fell and hurt his knee.
+19. Output: 
+The boy was running, tripped on a stone, and fell, hurting his knee.
+
+###
+20. Instruction: Give me an example of alliteration.
+20. Input: 
+<noinput>
+20. Output: 
+Peter Piper picked a peck of pickled peppers.

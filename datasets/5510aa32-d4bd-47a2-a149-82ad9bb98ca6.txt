@@ -1,0 +1,119 @@
+
+
+4. Instruction: Rewrite the following sentence in the passive voice. 
+4. Input: 
+The company CEO will release a statement tomorrow. 
+4. Output: 
+A statement will be released by the company CEO tomorrow.
+###
+5. Instruction: Write a question that requires a factual answer about US politics. 
+5. Input: 
+<noinput>
+5. Output: 
+Who was the first female Speaker of the US House of Representatives?
+###
+6. Instruction: Complete the analogy: 
+6. Input: 
+Sailor is to boat as driver is to _____.
+6. Output: 
+car
+###
+7. Instruction: Edit the following sentence for grammar and spelling mistakes. 
+7. Input: 
+She is an athlete, but plays very badly. 
+7. Output: 
+She is an athlete but plays very poorly.
+###
+8. Instruction: Synthesize a haiku on the theme of autumn. 
+8. Input: 
+<noinput>
+8. Output: 
+Yellow leaves falling
+Crisp air and cold breezes blow
+Autumn has arrived
+###
+9. Instruction: Write a sentence using a metaphor. 
+9. Input: 
+<noinput>
+9. Output: 
+She was a ray of sunshine, brightening everyone's day with her smile.
+###
+10. Instruction: Provide step-by-step instructions for a recipe. 
+10. Input: 
+Ingredients for spaghetti carbonara: spaghetti, pancetta, eggs, black pepper, grated parmesan cheese. 
+10. Output: 
+1. Cook spaghetti in boiling water and drain it. 
+2. In a pan, fry pancetta until crispy.
+3. In a bowl, whisk eggs, black pepper, and grated parmesan cheese together.
+4. Add cooked spaghetti to the pan, then remove it from the heat.
+5. Pour in the egg mixture and mix thoroughly.
+6. Serve immediately.
+###
+11. Instruction: Define the following term: deus ex machina 
+11. Input: 
+<noinput>
+11. Output: 
+Deus ex machina is a narrative device where a seemingly unsolvable problem is suddenly resolved by an unexpected event or intervention.
+###
+12. Instruction: Describe how to perform a certain exercise. 
+12. Input: 
+Exercise: Squats. 
+12. Output: 
+1. Stand with feet shoulder-width apart, toes pointing slightly outwards.
+2. Keep your back straight and look forward.
+3. Lower your body by bending your knees until your thighs are parallel to the ground.
+4. Keep your weight on your heels and push back up to standing position.
+5. Repeat for desired number of repetitions.
+###
+13. Instruction: Write a sentence using a double negative. 
+13. Input: 
+<noinput>
+13. Output: 
+I don't have no money.
+###
+14. Instruction: Provide a definition of the word "ambivalent". 
+14. Input: 
+<noinput>
+14. Output: 
+Ambivalent means having mixed feelings or contradictory ideas about something or someone.
+###
+15. Instruction: Instruct on how to tie a tie. 
+15. Input: 
+Type of tie: Windsor knot. 
+15. Output: 
+1. Drape the tie around your neck with the wide end on the right side and the narrow end on the left.
+2. Cross the wide end over the narrow end.
+3. Bring the wide end behind the narrow end and bring it up and over the knot.
+4. Take the wide end and bring it down through the loop and then behind the knot.
+5. Bring the wide end across the front of the knot and tuck it up through the neck loop.
+6. Finally, adjust the tie and the knot as necessary.
+###
+16. Instruction: Describe the appearance of a famous landmark. 
+16. Input: 
+Landmark: Taj Mahal. 
+16. Output: 
+The Taj Mahal is a white marble mausoleum with intricate carvings and beautiful gardens surrounding it. It has four minarets and a large dome in the center.
+###
+17. Instruction: Write a short paragraph about your favorite hobby. 
+17. Input: 
+Hobby: Running
+17. Output: 
+Running is my favorite hobby because it helps me clear my mind and stay healthy. I love the feeling of pushing myself and working towards new goals, whether it be distance or speed. There's nothing quite like the rush of endorphins that come after a long run. Plus, it's a great way to explore new places and meet new people through races and running clubs.
+###
+18. Instruction: Provide a synonym for the word "happy". 
+18. Input: 
+<noinput>
+18. Output: 
+Joyful.
+###
+19. Instruction: Write a sentence with a hyperbole. 
+19. Input: 
+<noinput>
+19. Output: 
+I've been waiting in this line for a million years.
+###
+20. Instruction: Edit the following sentence to improve clarity. 
+20. Input: 
+I read the instructions on the medicine bottle that said "take one pill, three times daily." 
+20. Output: 
+I read the instructions on the medicine bottle, which instructed me to take one pill three times daily.

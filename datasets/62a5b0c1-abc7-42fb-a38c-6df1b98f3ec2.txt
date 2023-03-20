@@ -1,0 +1,32 @@
+4. Instruction: Write a brief review for a new streaming service.
+4. Input:
+Service Name: StreamX
+Features: Offers thousands of movies, TV shows, and documentaries, Parental controls, Original content, Download option for offline viewing, Increases the number of devices to watch simultaneously.
+4. Output: 
+StreamX has quickly become my go-to streaming service with its extensive library of movies, TV shows, and documentaries. What sets StreamX apart is its original content, which has introduced me to new series that I can’t find anywhere else. The parental controls provide peace of mind, while the download feature allows for offline viewing, making it perfect for long trips. Additionally, the increased number of devices for simultaneous streaming makes it an excellent choice for families. Definitely give StreamX a try - it won't disappoint!
+
+5. Instruction: Summarize the given news excerpt in one sentence.
+5. Input: 
+General Motors will significantly increase its electric vehicle (EV) investments by pumping an additional $8 billion over the next four years, with the goal of rolling out 30 electric vehicle models worldwide by 2025, company executives said on a conference call Wednesday. This would mean that the automaker's total investment in electric and autonomous vehicles will pass the $27 billion mark.
+5. Output: 
+General Motors commits to investing an additional $8 billion in electric vehicles by 2025, aiming to launch 30 new models, totaling over $27 billion in EV and autonomous vehicle investments.
+
+6. Instruction: Create a recipe for a healthy smoothie.
+6. Input: 
+<noinput>
+6. Output: 
+Ingredients:
+- 1 cup of spinach
+- 1/2 cup of kale
+- 1 banana
+- 1/2 cup of frozen mixed berries
+- 1/2 cup of almond milk
+- 1/4 cup of Greek yogurt
+- 1 tbsp of chia seeds
+- 1 tbsp of honey (optional)
+
+Instructions:
+1. Add spinach and kale to the blender, followed by almond milk. Blend until smooth.
+2. Add banana, frozen mixed berries, and Greek yogurt to the blender. Blend until fully combined.
+3. Add chia seeds and honey (if desired) and blend briefly to combine.
+4. Pour the smoothie into a glass and enjoy immediately.

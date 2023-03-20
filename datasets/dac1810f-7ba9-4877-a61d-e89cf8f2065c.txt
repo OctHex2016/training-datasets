@@ -1,0 +1,70 @@
+4. Instruction: What are the steps to make a simple tomato pasta sauce?
+4. Input:
+<noinput>
+4. Output: 
+1. Gather ingredients: ripe tomatoes, onion, garlic, olive oil, salt, pepper, and fresh basil.
+2. Dice the onion and mince the garlic.
+3. Heat olive oil in a saucepan over medium heat.
+4. Add onion and garlic, sauté until softened.
+5. Chop the tomatoes and add them to the saucepan.
+6. Season with salt and pepper, and simmer for 20-30 minutes, stirring occasionally.
+7. Remove the sauce from the heat and add fresh basil.
+8. Optional: Blend the sauce for a smoother consistency or leave it chunky.
+9. Serve over cooked pasta and enjoy.
+###
+5. Instruction: Reading the given lyrics, could you identify the song title and the band that sang it?
+5. Input:
+She packed my bags last night, pre-flight
+Zero hour, nine a.m.
+And I'm gonna be high as a kite by then
+5. Output: 
+The song title is "Rocket Man," and it is performed by Elton John.
+###
+6. Instruction: Determine whether the passage is written in first person, second person, or third person point of view.
+6. Input:
+The sun was setting as she walked down the road. Susan felt the weight of the day on her shoulders but still managed to smile at the beauty around her.
+6. Output: 
+The passage is written in third person point of view.
+###
+7. Instruction: Read the given text and extract the main idea in one sentence.
+7. Input:
+The honey bee is a vital source of pollination for a wide variety of flowers and plants. Without this crucial process, many of these plants would not be able to bear fruit or seeds, which would have a significant impact on agriculture and the ecosystem. Over the last couple of decades, bee populations around the world have experienced a decline, resulting in a potential global food security issue.
+7. Output: 
+Honey bees play a crucial role in pollination, and their declining populations present a risk to global food security and ecosystems.
+###
+8. Instruction: Translate the given sentence from English to French.
+8. Input:
+Please have a seat and enjoy the music.
+8. Output: 
+Veuillez prendre place et profiter de la musique.
+###
+9. Instruction: Correct any grammatical mistakes found in this sentence.
+9. Input:
+She enjoys read books and listening to music in her free time's.
+9. Output: 
+She enjoys reading books and listening to music in her free time.
+###
+10. Instruction: Find a synonym for the word "abundant" and use it in a sentence.
+10. Input: 
+<noinput>
+10. Output: 
+Plentiful rainfall in the region contributed to a thriving agricultural industry.
+###
+11. Instruction: Write a short poem with the theme of "moonlit night."
+11. Input: 
+<noinput>
+11. Output: 
+In the still of a moonlit night,
+A shimmering silver glow,
+Reflected upon a tranquil sea,
+A dance of shadows below.
+
+Whispers in the breeze,
+Caress the rustling leaves,
+A symphony, the world's delight,
+Nature's melody weaves.
+
+In the embrace of the moon's light,
+A slumbering world, hearts delving,
+Dreams take flight by the lunar guide,
+Timeless secrets, night's unveiling.

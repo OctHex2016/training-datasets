@@ -1,0 +1,189 @@
+4. Instruction: Correct the punctuation and capitalization errors in the following paragraph.
+
+4. Input:
+last year, i joined a gym in town, i started off with easy exercises and gradually incorporated running, swimming, and weightlifting: i gained the confidence to participate in organized community events, It was a life-changing experience!
+
+4. Output:
+Last year, I joined a gym in town. I started off with easy exercises and gradually incorporated running, swimming, and weightlifting. I gained the confidence to participate in organized community events. It was a life-changing experience!
+
+###
+
+5. Instruction: Identify the film genre based on the provided plot synopsis.
+
+5. Input:
+A group of high school friends band together to stop a malevolent force that has been controlling their town for years.
+
+5. Output:
+Horror
+
+###
+
+6. Instruction: Summarize the author's main argument in the text.
+
+6. Input:
+The text argues that society's incessant focus on consumerism leads to a toxic cycle of overconsumption, environmental degradation, and materialism. This affects individuals by fueling the desire to accumulate more and more possessions, creating a sense of never-ending dissatisfaction. The author suggests that adopting sustainable lifestyles and shifting values away from materialism could contribute to greater personal happiness and the long-term health of the planet.
+
+6. Output:
+The author argues that consumerism drives overconsumption, environmental damage, and materialism, causing dissatisfaction in individuals. They propose sustainable lifestyles and a shift in values to promote personal happiness and a healthier planet.
+
+###
+
+7. Instruction: Translate the following sentence from English to French.
+
+7. Input:
+I am learning to play the guitar and I practice every day.
+
+7. Output:
+J'apprends à jouer de la guitare et je m'entraîne tous les jours.
+
+###
+
+8. Instruction: Generate a limerick poem about a lazy cat named Oscar.
+
+8. Input:
+<noinput>
+
+8. Output:
+There once was a lazy cat named Oscar,
+Who really was quite the fast basker.
+He'd sleep all day long,
+But with mice, he'd go strong,
+At night, our dear Oscar's the boss, Sir.
+
+###
+
+9. Instruction: Rate the film "Inception" (2010) on a scale of 1 to 10 and explain your reasoning.
+
+9. Input:
+<noinput>
+
+9. Output:
+I would rate "Inception" a 9 out of 10. The film mixes a thought-provoking, original concept with stunning visuals and an outstanding cast. While the plot may be complex for some viewers, the layers of the story create a unique, engaging experience that rewards multiple viewings.
+
+###
+
+10. Instruction: Provide a recommendation for a mobile app that can help improve time management.
+
+10. Input:
+<noinput>
+
+10. Output:
+I recommend the mobile app "Toggl Track" for improving time management. It's a powerful and easy-to-use time tracker with features like one-click timers, detailed reports, and synchronization across devices. By tracking how you spend your time, you'll be able to identify areas for improvement and work towards more effective time management.
+
+###
+
+11. Instruction: Describe the role of mitochondria in cells.
+
+11. Input:
+<noinput>
+
+11. Output:
+Mitochondria are organelles found in eukaryotic cells that play a crucial role in cellular energy production. They are often referred to as the "powerhouses" of the cell, as they produce adenosine triphosphate (ATP) through a process called cellular respiration. Mitochondria are also involved in other cellular processes, such as the regulation of the cell cycle, maintenance of calcium levels, and apoptosis (programmed cell death).
+
+###
+
+12. Instruction: Explain the greenhouse effect in simple terms.
+
+12. Input:
+<noinput>
+
+12. Output:
+The greenhouse effect is a natural process that occurs when certain gases in Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the sun. These gases, called greenhouse gases, absorb and re-emit infrared radiation, preventing it from escaping into space. This trapped heat warms the Earth's surface, making our planet habitable. However, human activities, such as burning fossil fuels, have increased greenhouse gas levels, which intensifies the greenhouse effect, leading to global warming and climate change.
+
+###
+
+13. Instruction: What is the best way to cook a steak on a stovetop?
+
+13. Input:
+<noinput>
+
+13. Output:
+The best way to cook a steak on a stovetop is by searing it in a hot pan and then finishing it off with a lower heat or in the oven. Here are the steps:
+
+1. Remove the steak from the fridge about 30 minutes before cooking to let it come to room temperature.
+2. Pat the steak dry with paper towels and season it generously with salt and pepper.
+3. Preheat a heavy pan (such as a cast-iron skillet) over medium-high heat until it's very hot.
+4. Add a small amount of vegetable oil or clarified butter to the pan, just enough to coat the surface.
+5. Place the steak in the pan and sear it for 2-3 minutes per side until it develops a brown crust.
+6. Lower the heat to medium, add some butter, crushed garlic, and herbs (optional), and continue cooking the steak until it reaches your desired doneness, flipping occasionally and basting with the melted butter to enhance the flavor.
+7. Allow the steak to rest for a few minutes before slicing and serving.
+
+###
+
+14. Instruction: Determine whether the following statement is true or false: All squares are rectangles.
+
+14. Input:
+<noinput>
+
+14. Output:
+True
+
+###
+
+15. Instruction: Create a slogan for a fictional fitness gym called "PowerCore Fitness."
+
+15. Input:
+<noinput>
+
+15. Output:
+"Unleash Your Strength, Ignite Your Core - PowerCore Fitness!"
+
+###
+
+16. Instruction: Rewrite the following passage in a formal tone.
+
+16. Input:
+That's when Jane figured out, there's more than one kinda happiness in life. The first type? That would be your basic, everyday kinda happiness. The second type is the kinda happiness that overflows when you reach your goals, like catching a sweet promotion at work.
+
+16. Output:
+It was at that moment that Jane realized there are multiple forms of happiness in life. The first type consists of the standard, day-to-day happiness. The second type refers to the intense happiness experienced upon achieving one's goals, such as obtaining a well-deserved promotion at work.
+
+###
+
+17. Instruction: Suggest three potential research topics related to the impact of social media on mental health.
+
+17. Input:
+<noinput>
+
+17. Output:
+1. The relationship between social media use and levels of anxiety and depression in adolescents.
+2. The effect of social media-induced FOMO (Fear of Missing Out) on overall life satisfaction and self-esteem.
+3. The influence of online social comparisons on body image and self-worth in different age groups.
+
+###
+
+18. Instruction: Name three benefits of meditation for overall well-being.
+
+18. Input:
+<noinput>
+
+18. Output:
+1. Reduced stress levels: Meditation helps regulate stress by triggering the relaxation response and lowering cortisol levels.
+2. Improved focus and concentration: Practicing meditation enhances cognitive abilities, including attention, memory, and mental clarity.
+3. Increased emotional resilience: Meditation cultivates self-awareness and emotional regulation, promoting a healthier response to life's challenges.
+
+###
+
+19. Instruction: What does the acronym STEM stand for in the context of education?
+
+19. Input:
+<noinput>
+
+19. Output:
+In the context of education, STEM stands for Science, Technology, Engineering, and Mathematics.
+
+###
+
+20. Instruction: Analyze the given budget for a household and provide suggestions to save money.
+
+20. Input:
+Rent: $1200, Utilities: $200, Groceries: $400, Dining Out: $250, Entertainment: $150, Transportation: $300, Clothing: $100, Gym Membership: $40, Insurance: $100, Savings: $200
+
+20. Output:
+To save money in this household budget, consider the following suggestions:
+
+1. Reduce dining out expenses by cutting back on the frequency and opting for budget-friendly meals at home.
+2. Look for entertainment options with little or no cost, such as visiting parks, hiking or hosting a game night with friends instead of costly outings.
+3. Examine transportation costs and consider alternatives like carpooling, public transit, or biking if possible.
+4. Limit clothing purchases to essential items and take advantage of sales and discounts.
+5. If the gym membership is underused, explore free or low-cost fitness options, such as outdoor exercises, online workout videos or community fitness classes.

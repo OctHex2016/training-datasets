@@ -1,0 +1,124 @@
+4. Instruction: Generate a short poem about the beauty of nature. 
+4. Input: 
+<noinput>
+4. Output: 
+The sun sets o'er the rolling hills,
+The breeze whispers secrets to the trees,
+The birds serenade the world to sleep,
+Nature's beauty is a sight to keep.
+###
+5. Instruction: Can you describe the difference between a credit card and a debit card? 
+5. Input: 
+<noinput>
+5. Output: 
+A credit card is a loan that must be repaid with interest, while a debit card immediately withdraws money from your account. 
+###
+6. Instruction: Using the provided data, generate a report on the monthly sales performance. 
+6. Input: 
+Monthly sales (in thousands): January - 20, February - 25, March - 30, April - 33.5, May - 38, June - 41.2
+6. Output: 
+Sales have consistently increased from January to June, with the biggest jump between April and May. 
+###
+7. Instruction: Can you provide some common symptoms of the flu? 
+7. Input: 
+<noinput>
+7. Output: 
+Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, and fatigue. 
+###
+8. Instruction: Write a one-paragraph argument in favor of renewable energy. 
+8. Input: 
+<noinput>
+8. Output: 
+Renewable energy is the future of our planet, as it produces energy without using finite resources or emitting harmful pollutants. Not only is it better for the environment, but it also creates jobs and strengthens energy security. It is important that we invest in and prioritize renewable energy for the benefit of ourselves and future generations. 
+###
+9. Instruction: Provide some recommendations for someone traveling to Japan for the first time. 
+9. Input: 
+<noinput>
+9. Output: 
+Some recommendations include trying the food, visiting a temple or shrine, learning some basic Japanese phrases, experiencing a traditional onsen, and shopping for souvenirs. It is also important to research cultural customs and etiquette beforehand. 
+###
+10. Instruction: Rewrite this sentence to make it more concise: "The reason why I didn't come to the party is that I was feeling sick." 
+10. Input: 
+"The reason why I didn't come to the party is that I was feeling sick."
+10. Output: 
+"I didn't come to the party because I was sick." 
+###
+11. Instruction: Can you tell me what the capital of France is? 
+11. Input: 
+<noinput>
+11. Output: 
+The capital of France is Paris. 
+###
+12. Instruction: Using the table below, classify each occupation as either blue-collar or white-collar: 
+12. Input: 
+Doctor, plumber, teacher, construction worker, lawyer, electrician, accountant, chef
+
+12. Output: 
+Blue-collar: plumber, construction worker, electrician, chef
+White-collar: doctor, teacher, lawyer, accountant
+###
+13. Instruction: Can you provide some tips for preparing for a job interview? 
+13. Input: 
+<noinput>
+13. Output: 
+Some tips include researching the company, preparing responses to common interview questions, practicing, dressing appropriately, and arriving early. It is also important to bring a copy of your resume and any relevant documents, and to have a positive attitude. 
+###
+14. Instruction: Generate an outline for a research paper about the effects of social media on mental health. 
+14. Input: 
+<noinput>
+14. Output: 
+I. Introduction
+    A. Background on social media
+    B. Overview of mental health concerns
+II. Literature review
+    A. Studies showing negative effects
+    B. Studies showing positive effects
+III. Discussion of negative effects
+    A. Cyberbullying
+    B. Addiction
+    C. Social comparison
+    D. Sleep disturbance
+IV. Discussion of positive effects
+    A. Social support
+    B. Positive self-expression
+    C. Community building
+V. Conclusion and future directions
+    A. Summary of findings
+    B. Call for further research
+###
+15. Instruction: Can you explain how to make a classic margarita cocktail? 
+15. Input: 
+<noinput>
+15. Output: 
+To make a classic margarita, mix tequila, lime juice, and triple sec in a shaker with ice. Strain into a salt-rimmed glass and garnish with a lime wedge. Adjust to taste and enjoy! 
+###
+16. Instruction: Edit this sentence to eliminate the passive voice: "The book was written by Jane Austen." 
+16. Input: 
+"The book was written by Jane Austen."
+16. Output: 
+"Jane Austen wrote the book." 
+###
+17. Instruction: Using the provided data, create a graph to show the growth of the company's revenue over the past five years. 
+17. Input: 
+Year: 2016, 2017, 2018, 2019, 2020
+Revenue (in millions): 10, 12, 15, 18, 21
+17. Output: 
+<graphic output>
+###
+18. Instruction: Can you provide some suggestions for dealing with stress in the workplace? 
+18. Input: 
+<noinput>
+18. Output: 
+Some suggestions include taking breaks, practicing relaxation techniques, setting boundaries, seeking social support, and maintaining a healthy work-life balance. It is also important to identify sources of stress and address them directly. 
+###
+19. Instruction: Generate a sentence using alliteration with the letter "S". 
+19. Input: 
+<noinput>
+19. Output: 
+Samantha's silly snake slithered slowly down the slippery slope. 
+###
+20. Instruction: Can you explain the concept of supply and demand? 
+20. Input: 
+<noinput>
+20. Output: 
+Supply and demand is the relationship between the quantity of a good or service that is produced and the amount that consumers are willing to pay for it. When demand is high and supply is low, prices tend to increase. When demand is low and supply is high, prices tend to decrease.

@@ -1,0 +1,88 @@
+4. Instruction: Rewrite the given text in a passive voice.
+4. Input: 
+The dog chased the thief out of the yard.
+4. Output: 
+The thief was chased out of the yard by the dog.
+###
+5. Instruction: Summarize the main points of the provided article.
+5. Input: 
+A new study from Harvard University shows that individuals with adequate sleep patterns tend to have better cognitive functions compared to those with irregular sleep patterns. The research involved 61,000 participants and found a strong correlation between a regular sleep schedule and improved memory, attention, and processing speed. The study also showed that participants who maintained a consistent sleep routine exhibited a decreased risk of developing neurological diseases, such as Alzheimer's and dementia. Researchers recommend that individuals aim for seven to nine hours of sleep per night and establish a consistent bedtime routine to promote better cognitive health.
+5. Output: 
+Harvard University's study reveals that individuals with regular sleep patterns have improved cognitive functions and a decreased risk of neurological diseases like Alzheimer's and dementia. Consistent sleep routines are linked to enhanced memory, attention, and processing speed. Recommendations include aiming for seven to nine hours of sleep per night and having a consistent bedtime routine. 
+###
+6. Instruction: Explain the differences between two given programming languages.
+6. Input: 
+Python and JavaScript
+6. Output: 
+Python is a versatile, high-level programming language mainly used for web development, data analysis, artificial intelligence, and scientific computing. It has a simple and easy-to-read syntax that makes it beginner-friendly. Meanwhile, JavaScript is a scripting language mainly used for front-end web development, making websites interactive and engaging. It can be used alongside HTML and CSS to provide seamless user experience. Although JavaScript can be used for server-side development with Node.js, Python is more commonly used for back-end tasks.
+###
+7. Instruction: Create a 30th birthday greeting message.
+7. Input: 
+<noinput>
+7. Output: 
+Happy 30th Birthday! May this new decade bring endless joy, growth, and exciting new adventures. Cherish the memories of your twenties and embrace the beautiful journey ahead. Cheers to another year of love, laughter, and success! 🎉🎂
+###
+8. Instruction: Tell me a fun fact about the ocean.
+8. Input: 
+<noinput>
+8. Output: 
+Did you know that the Pacific Ocean, the largest and deepest ocean on Earth, is so big that it contains more area than all the Earth's landmass combined?
+###
+9. Instruction: Structure the given information into an organized table with three columns: Name, Age, and Occupation.
+9. Input: 
+John is 28 years old and works as a software engineer. Mary is 35, and she is a doctor. Tim, who is 22, is a university student. Sarah, at 40 years of age, is a lawyer.
+9. Output: 
+
+| Name  | Age |    Occupation     |
+|-------|-----|-------------------|
+| John  |  28 | Software Engineer |
+| Mary  |  35 | Doctor            |
+| Tim   |  22 | University Student|
+| Sarah |  40 | Lawyer            |
+###
+10. Instruction: Translate the given sentence into French.
+10. Input: 
+I love reading books about history.
+10. Output: 
+J'aime lire des livres sur l'histoire.
+###
+11. Instruction: Provide feedback on the provided essay excerpt.
+11. Input: 
+Nowaday, we live in a world were technology is indivisible part of hour lifes. Therefore, pecple use the Internat daily as their prime saurce of information. But, how can we belive the information online thot we recive?
+11. Output: 
+In this essay excerpt, you have some grammatical errors and spelling mistakes that need to be corrected. Consider revising the text as follows:
+"Today, we live in a world where technology is an indivisible part of our lives. Therefore, people use the Internet daily as their primary source of information. But, how can we trust the information online that we receive?"
+Remember to proofread your writing to avoid these types of issues.
+###
+12. Instruction: Describe the main characteristics of a given animal.
+12. Input: 
+Elephant
+12. Output: 
+Elephants are large, herbivorous mammals known for their thick, wrinkled skin, enormous ears, long trunk or proboscis, and great size. They are highly intelligent animals with strong social bonds and a complex form of communication, using vocalizations and body language. Elephants are herbivores, primarily feeding on leaves, branches, and fruits. There are two main species, the African elephant and the Asian elephant, with the former being larger and having more distinctively shaped ears.
+###
+13. Instruction: Define the given term.
+13. Input: 
+Biodegradable
+13. Output: 
+Biodegradable is a term that describes materials or substances that can be broken down by natural processes or decomposed by microorganisms, such as bacteria or fungi. This breakdown turns the material into natural elements, typically over a relatively short period, minimizing environmental impact by reducing pollution and waste in landfills.
+###
+14. Instruction: Explain how to cook the given recipe.
+14. Input: 
+Pasta Carbonara
+14. Output: 
+To cook Pasta Carbonara, follow these steps:
+1. Bring a pot of salted water to a boil and cook the pasta according to package instructions until al dente.
+2. Meanwhile, in a large skillet or frying pan, cook diced bacon or pancetta over medium heat until crispy. Remove from heat and drain excess fat, reserving some for later.
+3. In a mixing bowl, whisk together eggs, grated pecorino or parmesan cheese, black pepper, and a pinch of salt.
+4. Once the pasta is cooked, reserve around 1 cup of pasta water and drain the pasta.
+5. Add the pasta to the skillet with bacon and toss to combine, adding some reserved bacon fat for flavor if desired.
+6. Slowly pour the egg mixture into the skillet while continuously tossing the pasta to ensure the eggs don't scramble. Add reserved pasta water gradually as needed to create a creamy sauce.
+7. Serve immediately, garnishing with additional grated cheese and black pepper if desired.
+###
+15. Instruction: Recommend three movies in the given genre.
+15. Input: 
+Science fiction
+15. Output: 
+1. Inception (2010) - Christopher Nolan's mind-bending heist thriller exploring dreams and the subconscious.
+2. The Matrix (1999) - A groundbreaking sci-fi film that deals with simulated realities and artificial intelligence.
+3. Interstellar (2014) - A visually stunning and emotional journey through space and time, highlighting humanity's survival and exploration.

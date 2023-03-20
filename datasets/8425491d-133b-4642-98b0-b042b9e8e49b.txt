@@ -1,0 +1,54 @@
+4. Instruction: Correct the grammar mistakes in the given text.
+4. Input:
+What did they thinks about how long this would be remained. Nobody would knowing this important details. It may needs to be calculating.
+4. Output:
+What did they think about how long this would remain? Nobody would know this important detail. It may need to be calculated.
+
+5. Instruction: Briefly summarize this news article.
+5. Input:
+Tesla launches all-new electric Model S Plaid, with the capability of accelerating from 0 to 60 miles per hour in under 2 seconds, making it the fastest production car in the world. The new model has an estimated range of 390 miles and features improved charging, allowing drivers to gain 187 miles of range in as little as 15 minutes. Tesla has also updated the interior with a steering yoke and other cutting-edge features. CEO Elon Musk claims the Model S Plaid is the start of a new era for electric vehicles as performance cars.
+5. Output:
+Tesla releases its new Model S Plaid, which becomes the fastest production car, reaching 0-60 mph in under 2 seconds. It has a range of 390 miles and offers quicker charging, adding 187 miles in just 15 minutes. The interior has been updated with a steering yoke and innovative features. Elon Musk sees this as the beginning of high-performance electric vehicles.
+
+6. Instruction: Translate the following text from English to French.
+6. Input:
+I can't wait to see you again! Have a good trip, and don't forget to send me some pictures.
+6. Output:
+J'ai hâte de te revoir ! Bon voyage, et n'oublie pas de m'envoyer quelques photos.
+
+7. Instruction: Generate a birthday message for Sarah that includes her love for dolphins.
+7. Input: <noinput>
+7. Output:
+Happy Birthday, Sarah! Wishing you a day full of love, laughter, and loads of fin-tastic adventures with your most cherished sea friends, the dolphins! May you continue to swim through life with grace and joy just as they do.
+
+8. Instruction: Identify the logical fallacy in the following statement.
+8. Input:
+You can't trust doctors. My friend says that every doctor he went to was rude and unhelpful.
+8. Output:
+Hasty Generalization
+
+9. Instruction: Provide a recipe for making a cold avocado soup.
+9. Input: <noinput>
+9. Output:
+Ingredients:
+- 2 ripe avocados
+- 2 cups vegetable broth (cold)
+- 1/2 cup sour cream
+- 1/3 cup chopped cilantro
+- 1 tablespoon lime juice
+- 1/2 teaspoon ground cumin
+- Salt and pepper, to taste
+- Lime wedges and chopped cilantro for garnish
+
+Instructions:
+1. Halve and pit avocados, then scoop the flesh into a blender.
+2. Add vegetable broth, sour cream, cilantro, lime juice, and cumin to the blender.
+3. Blend until smooth and creamy, occasionally scraping down the sides.
+4. Season the soup with salt and pepper to taste.
+5. Chill the soup in the refrigerator for at least an hour.
+6. Serve cold, garnished with lime wedges and additional chopped cilantro.
+
+10. Instruction: Describe the process of photosynthesis.
+10. Input: <noinput>
+10. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, water, and carbon dioxide into oxygen and glucose, a form of energy. This process occurs in two stages: the light-dependent reactions and the light-independent reactions (also known as the Calvin cycle). In the light-dependent reactions, chlorophyll pigments in the plant’s chloroplasts absorb sunlight, which is converted to chemical energy in the form of ATP and NADPH. These molecules are used in the light-independent reactions, where carbon dioxide and water are converted into glucose, releasing oxygen as a byproduct. Overall, this process allows plants to harness solar energy, providing energy for themselves and oxygen for other living organisms.

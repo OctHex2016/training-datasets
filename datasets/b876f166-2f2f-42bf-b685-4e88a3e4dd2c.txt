@@ -1,0 +1,118 @@
+4. Instruction: Translate the following sentence from English to Spanish.
+4. Input: 
+I love to visit the beach in the summer.
+4. Output: 
+Me encanta visitar la playa en el verano.
+
+5. Instruction: You are given a short description of a film. Based on that description, come up with an original title for the film.
+5. Input: 
+A hacker turned detective discovers a dangerous conspiracy involving a corrupt political system, massive corporations, and underground criminal networks.
+5. Output: 
+Code of Shadows
+
+6. Instruction: Come up with a limerick that is humorous and captures the essence of the following phrase.
+6. Input: 
+Going shopping for clothes
+6. Output: 
+There once was a fellow named Mose,
+Who loved shopping for stylish new clothes,
+The stores he'd explore,
+And clothes he'd adore,
+Filling closets with fashion that grows!
+
+7. Instruction: Provide synonyms for the given term or phrase. 
+7. Input: 
+Eager
+7. Output: 
+Enthusiastic, keen, excited, anxious
+
+8. Instruction: For a given topic, provide three potential thesis statement ideas that someone could use for an essay on the topic. 
+8. Input: 
+Negative Effects of Social Media
+8. Output: 
+1. The negative impact of social media on mental health is an area of significant concern, as it potentially leads to increased anxiety, depression, and feelings of isolation.
+2. Social media platforms facilitate the spread of misinformation, influencing political decisions and social attitudes by distorting public understanding of critical issues.
+3. Social media addiction has become a prevalent problem in today's society, severely affecting individuals' productivity, real-life relationships, and overall well-being.
+
+9. Instruction: Correct the grammar and punctuation errors in the provided text. 
+9. Input: 
+I'm very interesting in photography; specially portraits. In my opinion, the're a great way to capture the essence uf person's character.
+9. Output: 
+I'm very interested in photography, especially portraits. In my opinion, they're a great way to capture the essence of a person's character.
+
+10. Instruction: Write a 4-line alliterative poem on the given topic. 
+10. Input: 
+Sailing
+10. Output: 
+Sailors set sail on the silvery sea,
+Steering strong ships skillfully and free,
+Soft winds whisper through silky sails,
+Stars shimmer overhead as night entails.
+
+11. Instruction: Identify the fallacy in the given argument.
+11. Input: 
+Every professional athlete is in excellent physical condition. Sally is in excellent physical condition. Therefore, Sally must be a professional athlete.
+11. Output: 
+Affirming the consequent
+
+12. Instruction: Name an appropriate major or field of study for the given career.
+12. Input: 
+Forensic psychologist
+12. Output: 
+Forensic psychology or clinical psychology
+
+13. Instruction: Convert the given sentence from passive voice to active voice. 
+13. Input: 
+The ball was thrown by John.
+13. Output: 
+John threw the ball.
+
+14. Instruction: Provide a concise summary of the following paragraph. 
+14. Input: 
+When it comes to promoting mental health and overall well-being, exercise is widely recognized as an important factor. Regular physical activity has been shown to significantly reduce symptoms of depression and anxiety, increase self-esteem, and improve mood. In addition, exercise can help to alleviate stress by promoting the production of endorphins and reducing cortisol levels. In turn, these benefits positively affect both personal relationships and work performance.
+14. Output: 
+Exercise is crucial for mental health and well-being, as it reduces depression and anxiety symptoms, boosts self-esteem and mood, alleviates stress and improves personal relationships and work performance.
+
+15. Instruction: Generate a creative, pun-filled name for the given business idea.
+15. Input: 
+A dog grooming salon
+15. Output: 
+Pooch Pawfection
+
+16. Instruction: Provide three possible themes for a given fictional story.
+16. Input: 
+A boy embarks on a quest to save his village from a powerful sorceress.
+16. Output: 
+1. The power of friendship and teamwork
+2. Discovering one's inner strength and courage
+3. The importance of standing up against tyranny and oppression
+
+17. Instruction: Write a haiku about the given subject. 
+17. Input: 
+Autumn colors
+17. Output: 
+Crimson leaves falling,
+A tapestry on the ground,
+Autumn's hues abound.
+
+18. Instruction: Suggest three potential causes for the given phenomenon.
+18. Input: 
+Increase in obesity rates
+18. Output: 
+1. Sedentary lifestyles and lack of physical activity
+2. Increased consumption of high-calorie, processed foods
+3. Genetic factors or underlying medical conditions
+
+19. Instruction: Write a short internal monologue for the given character in response to the specific event or situation.
+19. Input: 
+A detective uncovering the final clue to a complex murder mystery
+19. Output: 
+At last, the pieces fit together. All the suspicions, the evidence... it all makes sense now. This will change everything. I've cracked the case, but will they believe me? This could put an end to the biggest mystery this town's ever seen. It's time to confront the perpetrator.
+
+20. Instruction: Outline potential solutions to the given problem. <br>
+20. Input: 
+Finding enough volunteers for a local charity event
+20. Output: 
+1. Reach out to local schools and universities for student volunteers looking to fulfill community service requirements.
+2. Collaborate with other nonprofit organizations to pool resources and shared followers.
+3. Utilize social media and online volunteer platforms to spread the word and attract interested individuals.

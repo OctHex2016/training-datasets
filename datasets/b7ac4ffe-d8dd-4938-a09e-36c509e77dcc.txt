@@ -1,0 +1,44 @@
+4. Instruction: Summarize the news article in two sentences.
+4. Input: 
+The World Health Organization declared the coronavirus, which emerged in the Chinese province of Hubei in late December 2019, a global pandemic on the 11th of March 2020. The massive impact of the pandemic led to over 200 million confirmed cases and more than 4 million deaths worldwide. The rapid spread of the virus caused disruptions in global economies, international travels, and instigated lockdowns in various countries around the globe. Vaccination campaigns are ongoing, and many countries are on a path to recovery thanks to the rollout of vaccines since December 2020.
+4. Output: 
+The WHO declared the coronavirus outbreak a global pandemic in March 2020, resulting in considerable socioeconomic disruptions and millions of deaths worldwide. Vaccination campaigns, initiated in December 2020, now offer a path towards recovery for numerous countries.
+
+5. Instruction: Rewrite the given paragraph into the passive voice.
+5. Input: 
+Charles Dickens wrote "A Tale of Two Cities" in 1859, and it is a historical novel set in London and Paris. The French Revolution serves as the backdrop of the story. Critics consider it one of Dickens' most famous works and praise its memorable characters, vivid imagery, and captivating plot.
+5. Output: 
+"A Tale of Two Cities" was written by Charles Dickens in 1859 and is a historical novel set in London and Paris. The backdrop of the story is provided by the French Revolution. It is considered one of Dickens' most famous works by critics, who praise its memorable characters, vivid imagery, and captivating plot.
+
+6. Instruction: Determine the subjects of the provided sentences and list them.
+6. Input: 
+The soccer match was held at the city stadium. Mary and John won the dance competition. Dogs are loyal companions. The new bookstore opened last week.
+6. Output: 
+Soccer match; Mary and John; Dogs; The new bookstore.
+
+7. Instruction: Provide three examples of alliteration in sentences.
+7. Input: <noinput>
+7. Output: 
+Sally swiftly sewed several small shirts.
+The curious cat cautiously crept across the kitchen counter.
+Peter purchased plenty of pretty plants for his patio.
+
+8. Instruction: Identify any errors in the text and suggest the corrections.
+8. Input: 
+Theirs is no doubt that exercise is good for are health, however, it's importent to maintain a balance between activity and rest. Exercising to much can lead too injury or burnout, so it's importnt to strike the right balance.
+8. Output: 
+There is(no doubt that exercise is good for our( health, however, it's important( to maintain a balance between activity and rest. Exercising too( much can lead to( injury or burnout, so it's important( to strike the right balance.
+
+9. Instruction: Create a haiku about the ocean.
+9. Input: <noinput>
+9. Output: 
+Endless horizon,
+Waves whisper secrets to shore,
+Deep blue mystery.
+
+10. Instruction: Given the information provided, explain the main differences between these two products.
+10. Input: 
+Product A: Organic apple juice, 100% pure, no added sugar or preservatives, 355 ml per bottle, $3.00 per unit.
+Product B: Conventional apple juice, 80% fruit content with added sugar, contains preservatives, 500 ml per bottle, $2.25 per unit.
+10. Output: 
+Product A is 100% pure organic apple juice with no added sugar or preservatives, sold in 355 ml bottles at $3.00 per unit. Product B, on the other hand, is conventional apple juice with only 80% fruit content, added sugar, and preservatives, sold in 500 ml bottles at a lower price of $2.25 per unit.

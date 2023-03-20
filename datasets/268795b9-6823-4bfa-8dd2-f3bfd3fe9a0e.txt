@@ -1,0 +1,49 @@
+4. Instruction: Transform the given text into a poem.
+4. Input: 
+A solitary tree stands tall on the hill, with wind whistling in its branches. Birds perch there, singing sweet melodies. The sunset casts a golden glow around it, making it seem otherworldly.
+4. Output: 
+Upon the hill, a tree stands tall,
+Wind whispers softly through its call.
+Birds find solace on its plea,
+Singing sweet verse of harmony.
+
+As the sun dips low, a golden cast,
+Envelops the tree in a hue so vast.
+An ethereal sight, a realm apart,
+Nature's beauty speaks to the heart.
+
+5. Instruction: Edit or correct the grammar, punctuation, or capitalization in the given text.
+5. Input: 
+i'm very exicted to come along with you, to the Zoo! i can wait to see the lions, tigers and bear;s. Oh my!
+5. Output: 
+I'm very excited to come along with you to the zoo! I can't wait to see the lions, tigers, and bears. Oh my!
+
+6. Instruction: Summarize the core message of the provided text.
+6. Input: 
+The fast food industry has been criticized for years for its negative impact on public health. High salt, sugar, and fat content can cause various health issues such as obesity, diabetes, and high blood pressure. Many fast food companies are now changing their menus to provide healthier options and promote balanced diets. To tackle this problem, people must also be educated about healthier food choices and making conscientious decisions about what they consume.
+6. Output: 
+The fast food industry negatively affects public health due to unhealthy ingredients. Both companies offering healthier menu options and public education on better food choices are necessary to address this issue.
+
+7. Instruction: What is the capital city of Australia?
+7. Input: 
+<noinput>
+7. Output: 
+Canberra
+
+8. Instruction: Translate the given text to French.
+8. Input: 
+The weather today is rainy and cold, perfect for staying indoors and reading a book.
+8. Output: 
+Le temps aujourd'hui est pluvieux et froid, idéal pour rester à l'intérieur et lire un livre.
+
+9. Instruction: Generate a creative sentence using the words "moon", "hippo", and "dream".
+9. Input: 
+<noinput>
+9. Output: 
+Under the shimmering moonlight, a hippo waded through the sleeping dream-forest, where reality and imagination intertwined.
+
+10. Instruction: Compare and contrast cats and dogs as pets.
+10. Input: 
+<noinput>
+10. Output: 
+Cats are independent, low-maintenance, and quiet pets that need less space to live, whereas dogs require more attention, exercise, and training, but offer strong companionship and loyalty in return.

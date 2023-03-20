@@ -1,0 +1,110 @@
+4. Instruction: Rewrite the given sentence using past tense verbs.
+4. Input: 
+She bakes a blueberry pie and serves it to her guests.
+4. Output: 
+She baked a blueberry pie and served it to her guests.
+###
+5. Instruction: Calculate the compound interest and final amount earned after a certain period of time.
+5. Input: 
+Initial investment: $5000, Annual interest rate: 5%, Number of years: 3, Compound frequency: 4 times per year
+5. Output: 
+Compound interest: $580.21; Final amount: $5580.21.
+###
+6. Instruction: State the main argument of the text in one sentence.
+6. Input: 
+The article discusses the benefits of keeping conversation-driven commerce personal, maintaining a customer-centric approach and ensuring that customers receive an empathetic experience. The author presents conversations as the backbone of the new era of digital business, as people increasingly expect human-like interactions that make them feel heard and understood when they reach out to brands. To achieve this, companies are recommended to maintain a balance between automation and human touchpoints, avoiding the reduction of conversations to data and numbers in order to keep the customer experience truly personalized.
+6. Output: 
+The main argument is that companies should maintain a personal, empathetic, and customer-centric approach in conversation-driven commerce, balancing automation with human touchpoints for a more effective digital business experience.
+###
+7. Instruction: Recommend an outdoor family activity for a sunny weekend.
+7. Input: 
+<noinput>
+7. Output: 
+A fun outdoor family activity for a sunny weekend could be a family bike ride and picnic at a nearby park or nature reserve.
+###
+8. Instruction: Estimate the annual energy consumption of the appliance based on the given data.
+8. Input: 
+Power rating: 800 Watts, Daily usage: 2 hours, Days of usage in a year: 220 days
+8. Output: 
+The annual energy consumption is approximately 352,000 Watt-hours or 352 kWh.
+###
+9. Instruction: Provide a summary of the given news article in 50 words or less.
+9. Input: 
+A major earthquake struck Bali, Indonesia, with a preliminary magnitude of 6.4. Reports suggest that it occurred at a depth of 62 miles under the sea, causing buildings to shake and swaying trees. Despite the strong quake, there were no immediate reports of serious injuries or severe damage. The authorities announced that they do not anticipate a tsunami.
+9. Output: 
+A 6.4 magnitude earthquake hit Bali, Indonesia, causing buildings to shake and trees to sway, but no serious injuries or severe damage were immediately reported. Authorities do not expect a tsunami.
+###
+10. Instruction: Create a rhyming couplet for a children's bedtime story.
+10. Input: 
+<noinput>
+10. Output: 
+Underneath the twinkling skies, a world of wonder gently lies.
+As we close our eyes to sleep, our dreams become adventures deep.
+###
+11. Instruction: Evaluate how well the given argument supports its claim.
+11. Input: 
+Claim: Physical books are better than e-books. Argument: Physical books allow readers to hold and flip pages, which provides a more tactile reading experience and promotes a deeper connection with the material.
+11. Output: 
+The argument moderately supports the claim, as it identifies a specific experience (tactile reading) that physical books provide and asserts the benefit of this experience (deeper connection) compared to e-books. However, it does not provide a comprehensive analysis or consider other potential advantages/disadvantages of both formats.
+###
+12. Instruction: Identify the tone of the given text.
+12. Input: 
+There is something simply beautiful about the nighttime sky, filled with stars that you could never possibly count. Their glittering expanse captures your imagination, and for a moment, you can imagine traveling to distant planets and exploring the universe. It's a breathtaking reminder that we are part of an infinite cosmos.
+12. Output: 
+The tone of the text is reflective and awe-inspiring.
+###
+13. Instruction: Who wrote the book mentioned in the text? Provide the title and author.
+13. Input: 
+An intriguing novel I recently read is a grippingly intricate murder mystery. It is an exceptional piece of writing, revealing the life and career of a private investigator. Set against the vibrant backdrop of 1940s Los Angeles, the book renders a captivating portrait of the city while the protagonist uncovers clues and secrets. The winner of the Pulitzer Prize, this novel is "The Big Sleep" by Raymond Chandler.
+13. Output: 
+Title: "The Big Sleep"; Author: Raymond Chandler
+###
+14. Instruction: Explain the given idiom in your own words.
+14. Input: 
+Don't count your chickens before they hatch
+14. Output: 
+Don't assume the success or completion of something before confirming it or seeing it through to the end.
+###
+15. Instruction: Correct the grammar and spelling mistakes in the given text.
+15. Input: 
+My freind told me about his plan for vacation. He's thinking of visiting Austrlia next sumer will be very excited!
+15. Output: 
+My friend told me about his plan for vacation. He's thinking of visiting Australia next summer and will be very excited!
+###
+16. Instruction: Mention the author's point of view on the given topic.
+16. Input: 
+The author argues that traditional journalism still has a significant role to play in our increasingly digital world. He believes that professional journalists have a responsibility to fact-check and verify information before presenting it to the public. This is important because social media and other digital platforms often spread misinformation and fake news. He claims that the accuracy and reliability of traditional journalism help society make informed decisions and engage in productive discourse.
+16. Output: 
+The author's point of view is that traditional journalism is still important for its role in fact-checking, verifying information, and ensuring accuracy in reporting, thus helping society make informed decisions and engage in productive discourse.
+###
+17. Instruction: Write a brief description of the given character's personality based on their dialogue.
+17. Input: 
+"Come on, guys! We're gonna have so much fun. This trip is going to be unforgettable," exclaimed Sarah. "I can't wait to explore the caves, go hiking, and make amazing memories together!" she added, with excitement shining in her eyes.
+17. Output: 
+Sarah's personality is enthusiastic, adventurous, and outgoing, as she is eager to engage in fun activities and create memorable experiences with her friends.
+###
+18. Instruction: Identify the type of poem given the excerpt.
+18. Input: 
+Her locks are long and golden,
+Far brighter than the sun;
+In her eyes there’s innocence
+Yet wisdom shines in them.
+
+This lady, standing tall and proud
+With grace and poise, she roams;
+A regal, stunning, confident grace
+Amidst a sea of unknowns.
+18. Output: 
+The excerpt is from a lyrical poem.
+###
+19. Instruction: Convert the given Celsius temperature to Fahrenheit.
+19. Input: 
+28°C
+19. Output: 
+82.4°F
+###
+20. Instruction: Write a compliment using an alliteration.
+20. Input: 
+<noinput>
+20. Output: 
+You lavishly light up any location with your lovely and luminous laughter.

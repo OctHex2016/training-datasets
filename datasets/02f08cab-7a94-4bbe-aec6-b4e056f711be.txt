@@ -1,0 +1,107 @@
+4. Instruction: Identify and correct the grammatical error in the given paragraph.
+4. Input:
+Yesterday, I goes to the grocery store to buy some vegetables. I bought tomatoes, potatoes, and a bag of spinach for cooking dinner.
+4. Output:
+Yesterday, I went to the grocery store to buy some vegetables. I bought tomatoes, potatoes, and a bag of spinach for cooking dinner.
+
+5. Instruction: What is the resulting change in revenue based on the given information?
+5. Input:
+A company had a revenue of $10,000 last month, and this month they increased their revenue by 15%.
+5. Output:
+The company's revenue increased by $1,500.
+
+6. Instruction: Develop an opening line to an apocalyptic novel.
+6. Input:
+<noinput>
+6. Output:
+As the sun set upon the decaying skyscrapers, an eerie silence enveloped the once-vibrant city, foretelling the doom that awaited humanity.
+
+7. Instruction: Explain the importance of photosynthesis in a simple way.
+7. Input:
+<noinput>
+7. Output:
+Photosynthesis is important because it allows plants to convert sunlight into energy, which is necessary for their growth and release oxygen, which is essential for life on Earth.
+
+8. Instruction: In the following text, replace all uppercase letters with lowercase and lowercase letters with uppercase.
+8. Input:
+Hello, my NAME is AlIeN.
+8. Output:
+hELLO, MY name IS aLiEn.
+
+9. Instruction: Convert the given Celsius temperature to Fahrenheit.
+9. Input:
+18°C
+9. Output:
+64.4°F
+
+10. Instruction: Summarize the given text.
+10. Input:
+In today's business world, networking plays a crucial role. Whether you're an executive, a small business owner, or a recent graduate entering the workforce, establishing professional connections can open doors to new opportunities. This includes job leads, partnerships, and even potential clients. Furthermore, networking fosters the exchange of ideas and knowledge, improving overall performance and decision-making in various industries.
+10. Output:
+Networking is vital in today's business world, as it helps individuals establish professional connections, access new opportunities, and promotes the exchange of ideas and knowledge, benefiting overall performance in different industries.
+
+11. Instruction: Determine the theme of the following song lyrics.
+11. Input:
+Times are hard, we're feeling blue, every day a challenge new. Still, we stand, we unite, we rise above, we'll be alright.
+11. Output:
+The theme of the song lyrics is perseverance and unity during challenging times.
+
+12. Instruction: Translate the provided text into French.
+12. Input:
+Good morning! How are you today?
+12. Output:
+Bonjour ! Comment ça va aujourd'hui?
+
+13. Instruction: Create a limerick using the given topic.
+13. Input:
+A clever young girl named Jane
+13. Output:
+A clever young girl named Jane,
+With knowledge she wished to obtain,
+In a library, she hid,
+Every book, she outdid,
+Till wisdom filled every vein.
+
+14. Instruction: Explain the difference between the words "assume" and "presume."
+14. Input:
+<noinput>
+14. Output:
+"Assume" means to take something for granted without any evidence, while "presume" means to believe something based on some degree of evidence or probability.
+
+15. Instruction: Continue the story with the given line.
+15. Input:
+As Anna wandered through the enchanted forest, she stumbled upon a mysterious stone door.
+15. Output:
+Curious, she approached the door, running her fingers along the intricate carvings. With a sudden movement, the door creaked open, revealing a hidden chamber filled with ancient scrolls and artifacts, a secret world waiting to be explored.
+
+16. Instruction: Write a haiku about the ocean.
+16. Input:
+<noinput>
+16. Output:
+Endless waves converge,
+Majestic depths hold secrets,
+Nature's vast embrace.
+
+17. Instruction: Decide which category the following item belongs to: chair.
+17. Input:
+<noinput>
+17. Output:
+The item "chair" belongs to the category of furniture.
+
+18. Instruction: In the given text, identify the protagonist and their goal.
+18. Input:
+Samantha, an aspiring detective, arrives at the crime scene determined to uncover the truth and bring the criminal to justice.
+18. Output:
+The protagonist is Samantha, and her goal is to uncover the truth and bring the criminal to justice.
+
+19. Instruction: Provide another way of saying the given phrase without changing its meaning.
+19. Input:
+"to bite the bullet"
+19. Output:
+"to face the music"
+
+20. Instruction: State two major functions of proteins in the human body.
+20. Input:
+<noinput>
+20. Output:
+Two major functions of proteins in the human body are to build and repair body tissues and to serve as enzymes to facilitate biochemical reactions.

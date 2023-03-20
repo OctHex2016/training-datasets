@@ -1,0 +1,118 @@
+4. Instruction: Convert the given text into a haiku.
+4. Input: 
+Raindrops on roses and whiskers on kittens, bright copper kettles and warm woolen mittens.
+4. Output: 
+Raindrops on roses,
+Whiskers on kittens, kettles,
+Warm woolen mittens.
+
+5. Instruction: Recommend five activities to do during a weekend getaway to a tropical location.
+5. Input:
+<noinput>
+5. Output:
+1. Snorkeling or scuba diving
+2. Beach relaxation and sunbathing
+3. Hiking in a tropical rainforest
+4. Taking a boat tour to explore islands
+5. Attending a local cultural event or performance
+
+6. Instruction: Determine if the given description fits a comedy or tragedy genre.
+6. Input: 
+A play where the main character loses everything, becomes aware of his misdeeds and faces tragic consequences in the end.
+6. Output: 
+Tragedy
+
+7. Instruction: Give me a different way to say the given phrase.
+7. Input: 
+I'm hungry.
+7. Output: 
+My stomach is growling.
+
+8. Instruction: Suggest a suitable color for the given item based on occasion or purpose.
+8. Input: 
+Tie for a business meeting.
+8. Output: 
+Dark blue
+
+9. Instruction: Provide a short summary of the given brief passage.
+9. Input: 
+The story starts with Montag, a fireman, happily burning books in a dystopian society where reading is illegal. After meeting an eccentric girl named Clarisse, Montag starts to question his work and life. His wife Mildred is addicted to media, and her superficial lifestyle causes Montag to become more disillusioned. Eventually, Montag decides to rebel against the government and works with a group of outcasts to preserve knowledge for a future society.
+9. Output: 
+Montag, a fireman, burns books in a society where reading is illegal. After meeting Clarisse and growing disillusioned with his wife Mildred's superficial lifestyle, he rebels to preserve knowledge for the future.
+
+10. Instruction: Identify the given quote's origin.
+10. Input: 
+To be, or not to be: that is the question.
+10. Output: 
+William Shakespeare's play "Hamlet"
+
+11. Instruction: State the highlight/main accomplishment of the given historical figure.
+11. Input: 
+Neil Armstrong
+11. Output: 
+First person to walk on the moon
+
+12. Instruction: Provide steps for fixing the given common household issue.
+12. Input: 
+Clogged sink drain
+12. Output: 
+1. Remove any debris visible in the drain.
+2. Pour hot water down the drain to loosen any buildup.
+3. Mix 1/2 cup baking soda and 1/2 cup white vinegar and pour it down the drain.
+4. Wait for 15 minutes as the mixture dissolves the clog.
+5. Rinse the drain with hot water to flush the remaining debris.
+
+13. Instruction: Determine the literary device used in the given sentence.
+13. Input: 
+All the world's a stage, and all the men and women merely players.
+13. Output: 
+Metaphor
+
+14. Instruction: Describe an easy recipe for the given dish.
+14. Input: 
+Vegetable stir fry
+14. Output: 
+1. Heat oil in a large pan over medium heat.
+2. Add minced garlic and cook for 1 minute, until fragrant.
+3. Add sliced vegetables (carrots, bell peppers, broccoli, onions, and zucchini) into the pan.
+4. Stir-fry the vegetables for 5-7 minutes, or until they're tender-crisp.
+5. Add 1/4 cup soy sauce and cook for an additional 2 minutes.
+6. Serve with rice or noodles and enjoy!
+
+15. Instruction: Based on the given information, suggest a non-fiction book that the person may enjoy.
+15. Input: 
+Person interested in history and war strategies
+15. Output: 
+"The Art of War" by Sun Tzu
+
+16. Instruction: Identify the name of given movie based on the brief description.
+16. Input: 
+A private detective unravels a mysterious conspiracy while investigating a former lover's disappearance.
+16. Output: 
+"Chinatown"
+
+17. Instruction: Write a brief advertisement copy for the given product.
+17. Input: 
+Luxury leather wallet
+17. Output: 
+Discover unparalleled sophistication with our luxury leather wallets. Our sleek, handcrafted designs provide style and functionality. Keep your essentials organized while enjoying the feel of premium leather. Elevate your everyday accessory game!
+
+18. Instruction: List three potential career paths for someone with the given degree.
+18. Input: 
+Bachelors in Psychology
+18. Output: 
+1. Human Resources Specialist
+2. Mental Health Counselor
+3. Marketing Research Analyst
+
+19. Instruction: Give me a reason why the given historical event happened.
+19. Input: 
+The fall of the Berlin Wall
+19. Output: 
+Growing political and social unrest in East Germany and the desire for freedom and reunification with West Germany.
+
+20. Instruction: Help identify the musical instrument in the given description.
+20. Input: 
+A stringed instrument with a long neck and small rounded body, commonly used in bluegrass and country music.
+20. Output: 
+Banjo

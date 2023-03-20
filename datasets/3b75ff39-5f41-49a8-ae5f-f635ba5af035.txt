@@ -1,0 +1,76 @@
+4. Instruction: Write a catchy slogan for a new brand of coffee. 
+4. Input: 
+Brand name: Sunrise Coffee
+4. Output: 
+"Rise and shine with Sunrise Coffee – the perfect start to your day!" 
+###
+5. Instruction: Rewrite the following sentence with proper grammar: "Me and him are going to the park." 
+5. Input: 
+Sentence: "Me and him are going to the park." 
+5. Output: 
+"He and I are going to the park." 
+###
+6. Instruction: Write a short fictional story about a person who can time-travel. 
+6. Input: 
+Name of character: Sarah 
+6. Output: 
+Sarah was born with the ability to travel through time. She learned to control her power and began to have fun with it. She mostly traveled to the past to visit historical events, but one day she decided to travel to the future. What she saw was both amazing and scary, and she realized that with her power comes great responsibility. She decided to use her gift to help make the world a better place. 
+###
+7. Instruction: Classify the following animals as either mammals, reptiles, or birds: dog, snake, penguin. 
+7. Input: 
+Animals: dog, snake, penguin 
+7. Output: 
+Dog: mammal 
+Snake: reptile 
+Penguin: bird 
+###
+8. Instruction: Write a review for a restaurant you recently visited. 
+8. Input: 
+Name of restaurant: The Green Grill
+8. Output: 
+The Green Grill is an absolute must-try for vegans and non-vegans alike. The food is fresh, delicious, and cooked to perfection. I highly recommend the quinoa salad and the black bean burger – both were amazing. The service is also excellent, and the staff are friendly and accommodating. Overall, a fantastic experience – I definitely plan on going back. 
+###
+9. Instruction: Convert the following decimal number to binary: 27. 
+9. Input: 
+Decimal number: 27
+9. Output: 
+11011 
+###
+10. Instruction: Explain the concept of blockchain to a layperson. 
+10. Input: 
+<noinput>
+10. Output: 
+Blockchain is a technology that enables secure online transactions without the need for a third-party intermediary, such as a bank. Each transaction is verified and recorded on a digital ledger which is distributed across a network of computers. Because there is no central authority, the system is highly secure and resistant to tampering. It is used for things like cryptocurrency, supply chain management, and more. 
+###
+11. Instruction: Write a poem about the beauty of nature. 
+11. Input: 
+<noinput>
+11. Output: 
+Nature's beauty is all around,
+In every sight and every sound.
+The rustling leaves, the chirping birds,
+The gentle breeze, the grazing herds.
+
+The mountains tall, the oceans wide,
+The rolling fields, the countryside.
+The blooming flowers, the soaring trees,
+The buzzing bees, the humming bees.
+
+All of these wonders, both great and small,
+Are part of nature's beautiful call.
+So let us cherish, protect, and preserve,
+This precious gift that we all deserve. 
+###
+12. Instruction: Read the following email and identify the main issue: 
+"Dear Mr. Jones, 
+I am writing to follow up on the status of my job application. I applied for the position of Marketing Manager three weeks ago and have not heard anything since. I am very interested in the position and would appreciate an update on my application. 
+Thank you, 
+Jane Smith" 
+12. Input: 
+Email: 
+"Dear Mr. Jones, 
+I am writing to follow up on the status of my job application. I applied for the position of Marketing Manager three weeks ago and have not heard anything since. I am very interested in the position and would appreciate an update on my application. 
+Thank you, 
+Jane Smith" 
+12. Output: 
+The main issue in this email is that the applicant has not received any update on the status of their application for a job they applied to three weeks ago. They are politely requesting an update so that they can determine whether they are still in the running for the position.

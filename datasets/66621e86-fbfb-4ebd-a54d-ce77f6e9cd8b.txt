@@ -1,0 +1,121 @@
+4. Instruction: Explain the concept of cloud computing in simple terms. 
+4. Input: 
+<noinput>
+4. Output: 
+Cloud computing is a technology that allows you to access and use computing resources, such as storage and processing power, over the internet. Instead of maintaining and managing these resources on your own computer or local server, you can access them on-demand from cloud service providers. This enables users to easily access and scale resources according to their needs without investing in physical hardware and infrastructure.
+
+5. Instruction: Classify the following text as positive, negative, or neutral sentiment.
+5. Input: 
+I can't believe how amazing this product is. It has exceeded all my expectations and I am so happy that I decided to give it a try.
+5. Output: 
+positive
+
+6. Instruction: Identify the key issue in the following paragraph and summarize it in one sentence.
+6. Input: 
+The customer returned to the store after finding that the power cord for his computer was not working. He said that he had only bought the cord a week ago, and after plugging it in at home, his computer was not receiving any power. The customer expressed frustration because he had been unable to work all weekend as a result of the faulty cord.
+6. Output: 
+A customer is frustrated after a newly-purchased power cord failed, leaving him unable to work over the weekend.
+
+7. Instruction: Translate the following sentence into Spanish.
+7. Input: 
+I enjoy reading books in my free time.
+7. Output: 
+Disfruto leyendo libros en mi tiempo libre.
+
+8. Instruction: Identify the grammatical errors in the following text and correct them.
+8. Input: 
+Their going to there friends house this afternoon, to play some video game.
+8. Output:
+They're going to their friend's house this afternoon to play some video games.
+
+9. Instruction: Write a brief description of the painting 'Starry Night' by Vincent van Gogh.
+9. Input:
+<noinput>
+9. Output: 
+Starry Night is an iconic painting by the Dutch artist Vincent van Gogh that was created in 1889. Known for its expressive brushstrokes and vibrant blue palette, the painting depicts a swirling night sky ablaze with stars over a sleepy village nestled in the hills, with a large cypress tree in the foreground. Starry Night evokes a powerful sense of beauty and emotion, and serves as a testament to van Gogh's unique artistic vision.
+
+10. Instruction: Provide a simple recipe for making a grilled cheese sandwich.
+10. Input:
+<noinput>
+10. Output: 
+1. Gather your ingredients: sandwich bread (2 slices), butter, and cheese (your choice of cheddar, Swiss, or American).
+2. Preheat a skillet over medium heat.
+3. Spread butter on one side of each slice of bread.
+4. Place one slice of bread, buttered side down, on the skillet.
+5. Add cheese on top of the bread in the skillet.
+6. Place the other slice of bread, buttered side up, on top of the cheese.
+7. Cook until the bottom slice of bread is golden brown, then carefully flip the sandwich.
+8. Cook until the other side is golden brown and the cheese is melted.
+9. Remove the sandwich from the skillet, let it cool for a minute, then enjoy your grilled cheese sandwich.
+
+11. Instruction: Compose a rhyming couplet about a dragon. 
+11. Input: 
+<noinput>
+11. Output: 
+In the lair of the dragon, the flames fiercely danced,
+Guarding its treasure, through centuries it pranced.
+
+12. Instruction: Perform a sentiment analysis on the following product review.
+12. Input: 
+Honestly, I expected more from this brand. The product arrived in poor condition, and it did not work as advertised.
+12. Output: 
+negative
+
+13. Instruction: Write a step-by-step guide on how to tie a tie using a half Windsor knot.
+13. Input:
+<noinput>
+13. Output: 
+1. Drape the tie around your neck with the wide end on your right and the narrow end on your left.
+2. Cross the wide end over the narrow end, making an X-shape below your chin.
+3. Tuck the wide end up through the loop between your neck and the tie, then pull it down.
+4. Pass the wide end behind the narrow end, moving it from right to left.
+5. Pull the wide end up and through the loop between your neck and the tie again.
+6. Guide the wide end through the horizontal loop created in step 4.
+7. Gently tighten the knot by pulling on the wide end while holding the knot with your other hand.
+8. Adjust the knot so that it sits comfortably at the center of your collar, and ensure the narrow end is hidden behind the wide end of the tie. Your half Windsor knot is now complete.
+
+14. Instruction: Describe blockchain technology in simple terms.
+14. Input: 
+<noinput>
+14. Output: 
+Blockchain technology is a digital system that allows for secure and transparent record-keeping of transactions. It works like a digital ledger, where each transaction (called a block) is linked to the ones before and after it, forming a chain. Once a transaction is added to the chain, it cannot be altered or removed, making the data stored in the blockchain tamper-proof. This technology is decentralized, meaning that it doesn't rely on a single authority for control, and is best known for its use in cryptocurrencies like Bitcoin.
+
+15. Instruction: Proofread and edit the following email for grammar, punctuation, and professionalism.
+15. Input: 
+hey john how are you? Just wantin to give you a heads up about the scheduled meeting with the marketing team tomorow. Were presenting our new project proposal at the meeting I hope you can prep the slides till then. Looking forward to your reply!
+15. Output: 
+Hello John,
+
+How are you? I just wanted to give you a heads-up about the scheduled meeting with the marketing team tomorrow. We will be presenting our new project proposal at the meeting, and I hope you can have the slides prepared by then. I look forward to your reply.
+
+Best regards,
+
+16. Instruction: Provide a brief explanation of photosynthesis.
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is a biological process carried out by green plants, algae, and some bacteria. During photosynthesis, these organisms use the energy from sunlight to convert carbon dioxide absorbed from the air and water taken up from their environment into glucose (a form of sugar) and oxygen. The glucose is used to produce energy to sustain the organism's life processes, while the oxygen is released into the atmosphere as a byproduct. This process plays a crucial role in providing the necessary energy and air for life on Earth.
+
+17. Instruction: Provide a synopsis of the plot for the movie 'Inception.'
+17. Input:
+<noinput>
+17. Output: 
+Inception is a science fiction film that revolves around a skilled thief named Dom Cobb, played by Leonardo DiCaprio. Cobb and his team specialize in stealing information from people's minds by infiltrating their dreams using advanced technology. He takes on a final, high-stakes job in exchange for having his criminal record erased and the chance to reunite with his children. In this job, instead of stealing information, his team must plant an idea deep within their target's subconscious mind. With an intricate dream-within-a-dream narrative, the film explores themes of reality, memory, and the power of the mind.
+
+18. Instruction: Convert the following text into passive voice.
+18. Input: 
+She finished the project ahead of schedule.
+18. Output: 
+The project was finished ahead of schedule by her.
+
+19. Instruction: Write a recommendation for the book 'To Kill a Mockingbird.'
+19. Input:
+<noinput>
+19. Output: 
+I highly recommend 'To Kill a Mockingbird'—a timeless masterpiece by Harper Lee. Set in a small Southern town during the 1930s, the novel tells the story of Scout Finch, her brother Jem, and their widowed father, Atticus Finch, a respected attorney. The story tackles serious themes of racial injustice, social inequality, and moral growth, as Atticus valiantly defends a black man falsely accused of a heinous crime. Told from young Scout's perspective, the book beautifully combines humor, warmth, and delicate insights into human nature. 'To Kill a Mockingbird' is an essential read that will leave an indelible impression on readers of all ages.
+
+20. Instruction: Propose a creative slogan for a new line of eco-friendly cleaning products.
+20. Input:
+<noinput>
+20. Output: 
+Clean with Confidence. Care for Nature.

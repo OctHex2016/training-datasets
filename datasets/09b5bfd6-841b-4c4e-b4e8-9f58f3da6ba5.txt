@@ -1,0 +1,144 @@
+4. Instruction: Explain what an idiom is and give an example.
+4. Input: 
+<noinput>
+4. Output: 
+An idiom is a common expression or saying that represents a specific idea or meaning, but where the meaning is not directly derived from the literal words. Idioms are unique to a particular language or dialect and often cannot be translated directly into another language without losing their intended meaning. For example, the idiom "raining cats and dogs" means that it is raining heavily, but the words themselves do not directly suggest this meaning.
+
+###
+
+5. Instruction: Which of the following items are fruits, and which are vegetables? Classify them as either "fruit" or "vegetable."
+5. Input: 
+apple, potato, tomato, broccoli, cucumber
+5. Output:
+apple - fruit
+potato - vegetable
+tomato - fruit
+broccoli - vegetable
+cucumber - fruit
+
+###
+
+6. Instruction: Find two words in the text that can be changed to their opposites to create a situation with a different outcome. Replace them with their opposite words.
+6. Input: 
+Yesterday, I walked along a busy street and came across a small dog. It was dirty, hungry, and scared, so I quickly called the animal rescue service.
+6. Output:
+Yesterday, I walked along a quiet street and came across a large dog. It was clean, full, and confident, so I quickly called the animal rescue service.
+
+###
+
+7. Instruction: Describe the difference between a meteor, a meteorite, and a meteoroid.
+7. Input:
+<noinput>
+7. Output:
+A meteoroid is a small celestial object, typically a rocky or metallic body, that travels through space. A meteor is the flash of light created when a meteoroid enters Earth's atmosphere and burns up due to friction with the air. A meteorite is the remnant of a meteoroid that survives its passage through Earth's atmosphere and lands on the surface.
+
+###
+
+8. Instruction: Rewrite the given paragraph using passive voice.
+8. Input:
+John wrote a book that became a best-seller. People appreciated the depth of his characterizations and the emotional moments he captured throughout the story. Critics praised the book and explained how it was an important piece of literature.
+8. Output:
+A book was written by John that became a best-seller. The depth of his characterizations and the emotional moments captured throughout the story were appreciated by people. The book was praised by critics and was explained as being an important piece of literature.
+
+###
+
+9. Instruction: Rewrite the following sentence to have a positive tone.
+9. Input: 
+Sadly, the company was not performing well and had to downsize to reduce expenses.
+9. Output:
+Fortunately, the company took proactive measures like downsizing to improve its financial situation.
+
+###
+
+10. Instruction: Calculate the compound interest for a $5000 principal amount, a 5% annual interest rate, and 4 years of compounding. Use the formula: A = P(1 + r/n)^(nt), where A is the final amount, P is the principal amount, r is the annual interest rate, n is the number of times interest is compounded per year, and t is the number of years.
+10. Input:
+<noinput>
+10. Output:
+A = 5000 (1 + 0.05/1)^(1*4) = 5000 (1.05)^4 = 6077.6311. Instruction: How many planets are there in the solar system and what are their names? List them in order from closest to the sun to farthest.
+11. Input:
+<noinput>
+11. Output:
+There are 8 planets in the solar system. In order from closest to the Sun to farthest, they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+###
+
+12. Instruction: Identify main and subordinate clauses in the following sentence.
+12. Input:  
+Although the project was behind schedule, the team managed to complete it on time by working extra hours.
+12. Output:
+Main clause: The team managed to complete it on time by working extra hours.
+Subordinate clause: Although the project was behind schedule
+
+###
+
+13. Instruction: Translate the following sentence into Spanish.
+13. Input: 
+The weather is beautiful today.
+13. Output:
+El clima está hermoso hoy.
+
+###
+
+14. Instruction: Pick a famous movie quote and rewrite it as an analogy.
+14. Input: 
+Keep your friends close, but your enemies closer. (The Godfather Part II)
+14. Output:
+Treating your friends like family and your enemies like friends is key to staying one step ahead.
+
+###
+
+15. Instruction: Explain what photosynthesis is and the role it plays for plants.
+15. Input:
+<noinput>
+15. Output:
+Photosynthesis is a process by which plants, algae, and certain bacteria convert light energy from the sun into chemical energy. It plays a crucial role in the survival of plants, as it allows them to produce glucose – their main source of energy – along with oxygen as a by-product. During photosynthesis, carbon dioxide and water are absorbed by the plant and, using the energy from sunlight, are transformed into glucose and oxygen. The oxygen is released into the atmosphere, while the glucose is used by the plant for cellular respiration, growth, and reproduction.
+
+###
+
+16. Instruction: In which country can you find the Great Barrier Reef, and what is it famous for?
+16. Input:
+<noinput>
+16. Output:
+The Great Barrier Reef is located in Australia. It is famous for being the largest coral reef system globally, spanning over 2,300 kilometers and comprising a diverse array of marine life, coral species, and various ecosystems. It is also a UNESCO World Heritage site and a popular tourist destination for snorkeling, scuba diving, and observing the stunning underwater world.
+
+###
+
+17. Instruction: Analyze the pros and cons of flexible-hours work policy in companies.
+17. Input:
+<noinput>
+17. Output:
+Pros:
+1. Increased employee satisfaction: Flexible-hours work policy offers better work-life balance, giving employees more control over their schedules.
+2. Increased productivity: People work more efficiently when it aligns with their natural body clock and preferred working styles.
+3. Attracts talent: Providing flexible work hours may attract more skilled workers or retain existing employees.
+4. Reduced overhead costs: Employees may work remotely, reducing costs associated with office spaces.
+
+Cons:
+1. Reduced face-to-face collaboration: Teams might find it challenging to coordinate or collaborate without a set working schedule.
+2. Potential isolation: Less time in the office can lead to reduced social interactions with colleagues.
+3. Management challenges: Managers may find it difficult to assess employee performance and overall productivity.
+4. Inconsistency: Flexible-hours work policy could result in an imbalance in workloads or unfair distribution of tasks.
+
+###
+
+18. Instruction: How many sides does a nonagon have, and what is the sum of its interior angles?
+18. Input:
+<noinput>
+18. Output:
+A nonagon has 9 sides. The sum of its interior angles is 180° * (9 - 2) = 1260°.
+
+###
+
+19. Instruction: Correct any grammar, punctuation, and spelling errors in the following sentence:
+19. Input: 
+Their going too the store with there bicycles to by groceries, but they forgotten there bags at home.
+19. Output:
+They're going to the store with their bicycles to buy groceries, but they forgot their bags at home.
+
+###
+
+20. Instruction: Which is the fastest land animal, and what is its top speed?
+20. Input:
+<noinput>
+20. Output:
+The fastest land animal is the cheetah. Its top speed is around 60-70 miles per hour (97-112 kilometers per hour).

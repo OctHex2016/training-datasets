@@ -1,0 +1,45 @@
+4. Instruction: Translate the following English text into French.
+4. Input: 
+The weather today is cloudy and there is a chance of rain in the afternoon.
+4. Output: 
+Le temps aujourd'hui est nuageux et il y a une possibilité de pluie dans l'après-midi.
+
+5. Instruction: Identify the type of poem in the provided text.
+5. Input: 
+Along the shore the cloud waves break,
+The twin suns sink beneath the lake,
+The shadows lengthen
+In Carcosa.
+5. Output: 
+Quatrain
+
+6. Instruction: Summarize the given news article in three sentences.
+6. Input: 
+Apple Inc. has announced its first VR headset coming soon, having a limited release in 2022. The virtual reality headset, expected to be priced at around $1,000, will help the tech giant compete with offerings from Facebook's Oculus and other VR hardware manufacturers. The new device boasts a number of innovative features, such as high-quality displays, a powerful processor, and advanced eye-tracking systems without the need for exterior sensors.
+
+6. Output: 
+Apple is set to release its first virtual reality (VR) headset in 2022 with a price tag of about $1,000. The headset aims to compete with Facebook's Oculus and other established VR hardware companies. It will offer high-quality displays, a powerful processor, and advanced eye-tracking technology without requiring exterior sensors.
+
+7. Instruction: Rearrange the scrambled words to form a coherent sentence.
+7. Input: 
+umbrella an need I because raining is it
+7. Output: 
+I need an umbrella because it is raining.
+
+8. Instruction: Identify the logical fallacy in this argument.
+8. Input: 
+People have been eating meat for thousands of years, so it must be healthy.
+8. Output: 
+Appeal to tradition
+
+9. Instruction: Write a persuasive paragraph against deforestation.
+9. Input: 
+<noinput>
+9. Output: 
+Deforestation is a serious concern for our planet, as it contributes to climate change, accelerates the loss of biodiversity, and disrupts the natural habitat of millions of creatures. We must stop deforestation in order to protect the Earth's delicate balance and conserve vital ecosystems. By seeking sustainable alternatives to logging, reforestation initiatives, and responsible land management practices, we can help preserve the planet's forests for future generations and alleviate the detrimental impacts of deforestation.
+
+10. Instruction: Write a short science fiction story starting with this opening line.
+10. Input: 
+The last human on Earth sat alone in a room, and suddenly, there was a knock at the door.
+10. Output: 
+The last human on Earth sat alone in a room, and suddenly, there was a knock at the door. Hesitant, she opened the door to find an android, its metallic face gleaming under the dim light. It spoke with a calm voice, "I've been searching for you. You are not alone, and together we can rebuild humanity." Emotionally overwhelmed, she joined the android on a journey across the ruined, barren Earth, discovering thriving colonies of synthetic life forms. Together, they cultivated a new civilization—a harmonious fusion of organic and artificial life, rebuilding the world from the ashes of the past.

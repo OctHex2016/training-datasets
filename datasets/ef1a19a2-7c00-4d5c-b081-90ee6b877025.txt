@@ -1,0 +1,44 @@
+4. Instruction: Translate the given sentence into French.
+4. Input: 
+Can I have the bill, please?
+4. Output: 
+Puis-je avoir l'addition, s'il vous plaît?
+
+5. Instruction: Identify the main plot and the subplots in the given movie summary.
+5. Input: 
+When Luke, a young farm boy raised by his aunt and uncle, discovers a hidden message in a droid, he is thrust into an intergalactic rebellion against the evil Galactic Empire. Along the way, he meets a smuggler named Han Solo, a Wookiee named Chewbacca, and a wise old Jedi named Obi-Wan Kenobi, who all become instrumental in Luke's journey to rescue Princess Leia and destroy the Empire's dreaded Death Star. Meanwhile, Leia's relationship with the smuggler, as well as the unfolding story of a father-son conflict, provides dramatic subplots.
+5. Output: 
+Main Plot: Luke's journey to rescue Princess Leia and destroy the Death Star.
+Subplots: Leia's relationship with the smuggler, father-son conflict.
+
+6. Instruction: What is the author's purpose based on the text? Choose one of the following: entertain, persuade, inform, or express feelings.
+6. Input: 
+Today, our love for nature is under siege due to over-consumption of earth's resources. It's time we take a step back and appreciate the importance of the environment. The balance of ecosystems is delicate and irreplaceable. We must act now to protect our planet for future generations.
+6. Output: 
+Persuade
+
+7. Instruction: List three reasons supporting the argument in the passage.
+7. Input: 
+Plant-based diets have numerous health, environmental, and ethical benefits. First, a plant-based diet is naturally low in saturated fats and high in fiber, which reduces the risk of chronic diseases, such as heart disease and Type 2 diabetes. Second, adopting a plant-based diet helps reduce greenhouse gas emissions and slows deforestation, which are major contributors to climate change. Lastly, following a plant-based diet is more ethically responsible, as it minimizes animal suffering and exploitation in the food industry.
+7. Output: 
+1. Reduces the risk of chronic diseases.
+2. Helps reduce greenhouse gas emissions and slows deforestation.
+3. Minimizes animal suffering and exploitation.
+
+8. Instruction: Generate a 50-word summary for the given article.
+8. Input: 
+Ever since the first Tesla Model 3 rolled off the production line four years ago, the affordable EV has been the center of attention. Recently, the Model 3 surpassed the Nissan Leaf to become the world's best-selling electric vehicle. With a global cumulative sales figure of more than 800,000 units, the Tesla Model 3 continues to impress experts and consumers alike. Tesla's commitment to electric vehicles and its growing Supercharger network play a significant role in this achievement, along with the company's focus on producing high-quality vehicles that appeal to a broad audience.
+8. Output: 
+The Tesla Model 3 recently surpassed the Nissan Leaf, becoming the world's best-selling electric vehicle. It boasts over 800,000 units sold globally, impressing both experts and consumers. Tesla's commitment to electric vehicles, growing Supercharger network, and focus on high-quality production contribute to the Model 3's success.
+
+9. Instruction: Proofread the provided text and correct any grammatical or punctuation errors.
+9. Input: 
+There pets were playing joyfully in the backyard. Tom, was preparing dinner in the kichen as Sara worked on her computer in the home office. As the family seattled down to eat dinner together, they where reminded of the simple pleasures of life.
+9. Output: 
+Their pets were playing joyfully in the backyard. Tom was preparing dinner in the kitchen, while Sara worked on her computer in the home office. As the family settled down to eat dinner together, they were reminded of the simple pleasures of life.
+
+10. Instruction: Replace all instances of "<name>" with an appropriate fictional character's name.
+10. Input: 
+Once upon a time, the kingdom was ruled by a wise king named <name>. However, an evil witch named <name> cast a spell on the kingdom, plunging it into darkness. A brave knight called <name> embarked on a quest to save the kingdom and defeat the witch. With the help of his loyal companion <name>, they fought against the forces of darkness and emerged victorious.
+10. Output: 
+Once upon a time, the kingdom was ruled by a wise king named King Arthur. However, an evil witch named Morgana cast a spell on the kingdom, plunging it into darkness. A brave knight called Sir Lancelot embarked on a quest to save the kingdom and defeat the witch. With the help of his loyal companion Merlin, they fought against the forces of darkness and emerged victorious.

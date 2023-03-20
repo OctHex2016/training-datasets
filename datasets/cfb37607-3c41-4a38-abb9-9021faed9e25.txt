@@ -1,0 +1,31 @@
+4. Instruction: Generate a 5-sentence paragraph about the benefits of incorporating mindfulness into daily routines.
+4. Input:
+<noinput>
+4. Output:
+Mindfulness has been shown to help reduce stress and anxiety, improve focus and cognitive abilities, and increase overall feelings of well-being. Regular mindfulness practice can improve relationships by helping individuals develop better communication and empathy skills. It can also lead to greater emotional regulation and resilience. Mindfulness can be incorporated into daily routines through various exercises such as mindful breathing, body scans, and meditation. Taking even just a few minutes a day to practice mindfulness can have a significant impact on overall mental and emotional health.
+###
+5. Instruction: Edit the given sentence to be more concise and grammatically correct. 
+5. Input: 
+Original Sentence: Despite the fact that I have a big test tomorrow, I am going to watch a movie tonight anyways. 
+5. Output: 
+Even though I have a test tomorrow, I'm still going to watch a movie tonight.
+###
+6. Instruction: Given the provided list of ingredients and recipe, generate a shopping list for this meal. 
+6. Input: 
+Ingredients:
+- 2 lbs boneless, skinless chicken breast
+- 1 bottle of your favorite BBQ sauce
+- 1/2 cup brown sugar
+- 1/4 cup honey
+- 1/4 cup apple cider vinegar
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- hamburger buns
+Recipe:
+1. Place chicken in a slow cooker. 
+2. In a medium bowl, combine BBQ sauce, brown sugar, honey, vinegar, garlic powder, and onion powder. 
+3. Pour sauce mixture over chicken. 
+4. Cook on low for 6-8 hours or high for 3-4 hours. 
+5. Shred chicken and serve on hamburger buns.
+6. Output: 
+Chicken breast, BBQ sauce, brown sugar, honey, apple cider vinegar, garlic powder, onion powder, and hamburger buns.

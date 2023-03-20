@@ -1,0 +1,125 @@
+4. Instruction: Identify the emotions expressed in the given sentences and return them as a comma-separated list.
+4. Input: 
+I can't believe I got the job! I feel like I'm on top of the world! I'm so sick of this traffic; it's driving me insane.
+4. Output: 
+elation, frustration
+
+5. Instruction: Provide advice on how to improve the following sentence in terms of clarity and readability.
+5. Input: 
+Took a great deal of time with the purposefulness of utilizing further, plenty of folks providing advantages for those burdened by the mentioned circumstances.
+5. Output: 
+It took a significant amount of time to further engage numerous individuals who offered benefits to those impacted by the stated situations.
+
+6. Instruction: Translate the following sentence into French.
+6. Input: 
+The weather is beautiful today.
+6. Output: 
+Le temps est magnifique aujourd'hui.
+
+7. Instruction: What would be the next logical statement in the given conversation?
+7. Input: 
+A: My car broke down.
+B: Oh no! Do you need help?
+7. Output: 
+A: Yes, I could use some assistance. Can you recommend a mechanic or give me a lift?
+
+8. Instruction: Identify two main opposing arguments in the given debate topic.
+8. Input: 
+Debate Topic: Should parents be financially responsible for their adult children's education expenses?
+8. Output: 
+Argument 1: Parents should be financially responsible for their adult children's education expenses as it invests in their children's future and helps alleviate the burden of student debt.
+Argument 2: Parents should not be financially responsible for their adult children's education expenses because doing so may hinder the development of their children's independence and financial responsibility skills.
+
+9. Instruction: Write two proverbs that convey a similar meaning.
+9. Input: <noinput>
+9. Output: 
+Actions speak louder than words. - The proof of the pudding is in the eating.
+
+10. Instruction: Summarize the given news article's main points in 2-3 sentences.
+10. Input: 
+Hurricane Eta has made landfall in Nicaragua, as a Category 4 storm with winds of 140 mph (225 km/h), bringing heavy rain, coastline flooding, and landslides to Central America. The rain from Eta is expected to worsen the already flooding situation in Honduras, and cause flooding in Belize, Mexico, Costa Rica, and Panama. The storm's trajectory puts parts of the central Yucatán Peninsula at risk during the week.
+
+10. Output: 
+Hurricane Eta, a Category 4 storm, has hit Nicaragua with strong winds and heavy rain, causing flooding and landslides in Central America. Countries like Honduras, Belize, Mexico, Costa Rica, and Panama are also expected to experience increased flooding due to the storm, while the central Yucatán Peninsula is at risk throughout the week.
+
+11. Instruction: Suggest three potential solutions for the presented problem.
+11. Input: 
+Problem: Lack of recycling awareness in a community.
+11. Output: 
+1. Organize educational workshops and campaigns to promote recycling awareness.
+2. Implement a well-structured recycling program, including clear instructions and easily accessible recycling facilities.
+3. Encourage local businesses and organizations to adopt eco-friendly initiatives and support community recycling efforts.
+
+12. Instruction: Convert the given message into a more concise text, suitable for a tweet.
+12. Input: 
+Hello everyone, we are happy to announce that our annual charity event to raise funds for the children's hospital will be taking place on Saturday, October 19th, from 12 PM to 6 PM at our usual venue. There will be music, food, games, and lots of fun. We hope to see you there. Bring your friends and family to support this wonderful cause.
+12. Output: 
+Join us on Oct 19th, 12-6 PM, for our annual charity event to support the children's hospital! Enjoy music, food, games, and fun times. Bring friends & family to contribute to this great cause! #CharityEvent
+
+13. Instruction: What should I do if I have an idea for a new invention but neither the technical know-how nor the funds to develop it?
+13. Input: <noinput>
+13. Output: 
+Consider researching about the invention and its potential market value, connect with relevant professionals in the field for guidance, create a prototype if possible, and seek funding or partnership opportunities through crowdfunding, grants, or investors to help you bring your idea to life.
+
+14. Instruction: Can you list any five main components of a computer and briefly describe their functions?
+14. Input: <noinput>
+14. Output: 
+1. CPU (Central Processing Unit): Processes instructions and manages the computer's operations.
+2. RAM (Random Access Memory): Provides temporary data storage for running applications and operating system.
+3. Hard Drive: Stores the computer's long-term data, such as files, documents, and software.
+4. Motherboard: Connects and provides communication between all the components of the computer.
+5. Power Supply Unit: Supplies electrical power to the computer, converting AC power to DC.
+
+15. Instruction: Analyze the given poem and provide a one-sentence interpretation of its main theme.
+15. Input: 
+Stopping by Woods on a Snowy Evening by Robert Frost
+
+Whose woods these are I think I know. 
+His house is in the village, though; 
+He will not see me stopping here
+To watch his woods fill up with snow. 
+
+My little horse must think it queer 
+To stop without a farmhouse near 
+Between the woods and frozen lake 
+The darkest evening of the year. 
+
+He gives his harness bells a shake 
+To ask if there is some mistake. 
+The only other sound's the sweep 
+Of easy wind and downy flake. 
+
+The woods are lovely, dark and deep, 
+But I have promises to keep, 
+And miles to go before I sleep, 
+And miles to go before I sleep.
+15. Output: 
+The main theme of the poem is the allure of nature's beauty and the struggle to balance it with one's duties and obligations.
+
+16. Instruction: Rewrite the given sentence in passive voice.
+16. Input: 
+The company hired 20 new employees last month.
+16. Output: 
+Twenty new employees were hired by the company last month.
+
+17. Instruction: Correct any grammatical or spelling errors in the given paragraph.
+17. Input: 
+The blue whales is the world's largest mammal, often weigh over 200 tonnes. In cotrast, the pygmy shrew is the smallest mammal weighs around 1.2 grams only. Despite their sizee differences, both of this creatures shares one defining trait: they're both warm-blooded animals.
+17. Output: 
+The blue whale is the world's largest mammal, often weighing over 200 tonnes. In contrast, the pygmy shrew is the smallest mammal, weighing around 1.2 grams only. Despite their size differences, both of these creatures share one defining trait: they're both warm-blooded animals.
+
+18. Instruction: Did the restaurant meet the customer's expectations according to the given review?
+18. Input: 
+The food at the restaurant was decent, but the service was slow and the noise level high. I did enjoy the dessert, although it didn't make up for the overall experience.
+18. Output: 
+No
+
+19. Instruction: Write a motivational message to encourage someone who feels hopeless.
+19. Input: <noinput>
+19. Output: 
+Remember, you are capable of facing any challenge that comes your way. It's just a bad day, not a bad life. Believe in yourself and take one step at a time, and soon you'll find the strength to overcome any obstacle.
+
+20. Instruction: Explain how cryptocurrency works in simple terms to someone who is unfamiliar with the concept.
+20. Input: <noinput>
+20. Output: 
+Cryptocurrency is a form of digital or virtual money that uses cryptography for security. It operates on a decentralized network of computers, where transactions are recorded in a digital ledger called a blockchain. This system ensures that transactions are verified, secure, and eliminates the need for a central authority like a bank.

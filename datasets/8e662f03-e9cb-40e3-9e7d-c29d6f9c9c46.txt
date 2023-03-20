@@ -1,0 +1,153 @@
+4. Instruction: Write 4 to 5 lines of dialogue between two friends discussing their plans for the weekend.
+4. Input: 
+<noinput>
+4. Output: 
+Alice: Hey, what are you up to this weekend?
+Bob: I'm thinking of going for a hike on Saturday morning. Wanna join?
+Alice: That sounds fun! I'd love to. What time are we meeting?
+Bob: How about 8 am at the trailhead? And maybe we can grab lunch afterward?
+Alice: Sounds like a plan. I'll see you then!
+
+###
+
+5. Instruction: Which planet is not a gas giant?
+5. Input:
+Mercury, Jupiter, Neptune, Saturn
+5. Output:
+Mercury
+
+###
+
+6. Instruction: Rewrite the following passage to make it more positive.
+6. Input:
+Unfortunately, the weather was terrible and everyone felt miserable. We couldn't enjoy any outdoor activities, and even the party had to be canceled.
+6. Output:
+Though the weather was unfavorable, it gave everyone a chance to bond indoors. We found creative ways to have fun and rescheduled the party for a better day.
+
+###
+
+7. Instruction: Identify three unreliable sources of news and information.
+7. Input: 
+<noinput>
+7. Output: 
+1. Conspiracy theory websites
+2. Unverified social media accounts
+3. Sensationalist tabloid newspapers
+
+###
+
+8. Instruction: Compare renewable energy sources and non-renewable energy sources.
+8. Input: 
+<noinput>
+8. Output: 
+Renewable energy sources, such as solar, wind, and hydroelectric power, are replenished naturally and offer sustainable energy options. They produce fewer greenhouse gas emissions in comparison to non-renewable energy sources. Non-renewable energy sources, like coal, oil, and natural gas, are finite resources that cause more substantial environmental impact, including air pollution and increased carbon dioxide emissions, contributing to climate change.
+
+###
+
+9. Instruction: Make a list of 5 healthy snacks.
+9. Input:
+<noinput>
+9. Output:
+1. Greek yogurt with berries and honey
+2. Sliced apples with almond butter
+3. Veggie sticks with hummus
+4. Trail mix of nuts and dried fruits
+5. Rice cakes topped with avocado and tomato
+
+###
+
+10. Instruction: Solve the following math problem.
+10. Input:
+12 + (5 * 2) - 8 / 4
+10. Output:
+22
+
+###
+
+11. Instruction: Paraphrase the following quote by Mahatma Gandhi.
+11. Input:
+"An ounce of practice is worth more than tons of preaching."
+11. Output:
+A little bit of action carries more weight than a large amount of mere talk.
+
+###
+
+12. Instruction: State the four main components of a computer system.
+12. Input:
+<noinput>
+12. Output:
+1. Central Processing Unit (CPU)
+2. Memory
+3. Storage
+4. Input/output devices
+
+###
+
+13. Instruction: Assess the potential benefits of adopting a plant-based diet.
+13. Input:
+<noinput>
+13. Output:
+A plant-based diet has potential benefits, including improved heart health, lower risk of type 2 diabetes, and reduced likelihood of obesity. Additionally, such a diet contributes to environmental sustainability, as it reduces the carbon footprint and land use associated with animal agriculture. Adopting a plant-based diet may also result in increased intake of vital nutrients, antioxidants, and fiber found in fruits, vegetables, and whole grains.
+
+###
+
+14. Instruction: Create a simile to describe a beautiful sunset.
+14. Input:
+<noinput>
+14. Output:
+The sunset was like a captivating painting, with vibrant colors blending effortlessly into one another.
+
+###
+
+15. Instruction: Explain the concept of herd immunity.
+15. Input:
+<noinput>
+15. Output:
+Herd immunity is a form of indirect protection from infectious diseases that occurs when a large percentage of a population becomes immune to the infection, either through vaccination or prior illness, reducing the likelihood of its spread among those who are not immune. This helps protect vulnerable populations, such as those with weak immune systems or those who cannot receive vaccinations, because it reduces the overall prevalence of the disease in the community.
+
+###
+
+16. Instruction: Suggest five fiction books for someone to read this summer.
+16. Input:
+<noinput>
+16. Output:
+1. "The Night Circus" by Erin Morgenstern
+2. "Where the Crawdads Sing" by Delia Owens
+3. "The Alchemist" by Paulo Coelho
+4. "The Great Gatsby" by F. Scott Fitzgerald
+5. "The Catcher in the Rye" by J.D. Salinger
+
+###
+
+17. Instruction: Identify the fallacy in the following argument.
+17. Input:
+"If we allow children to use smartphones, they will become addicted, and the next thing we know, society will crumble."
+17. Output:
+Slippery slope fallacy
+
+###
+
+18. Instruction: Provide three methods of stress management.
+18. Input:
+<noinput>
+18. Output:
+1. Practicing mindfulness meditation
+2. Engaging in regular physical activity/exercise
+3. Developing healthy sleep habits and maintaining a consistent sleep schedule
+
+###
+
+19. Instruction: Summarize the purpose of photosynthesis in plants.
+19. Input:
+<noinput>
+19. Output:
+The purpose of photosynthesis in plants is to convert sunlight, water, and carbon dioxide into carbohydrates (sugars) for energy and growth, and oxygen as a byproduct.
+
+###
+
+20. Instruction: Rewrite the following sentence in passive voice.
+20. Input:
+The dog chased the cat up the tree.
+20. Output:
+The cat was chased up the tree by the dog.
+

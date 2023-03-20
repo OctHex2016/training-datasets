@@ -1,0 +1,111 @@
+4. Instruction: Write a tweet about your favorite book.
+4. Input: 
+Favorite book: 1984 by George Orwell
+4. Output: 
+"Just finished reading 1984 by George Orwell and it blew my mind! The dystopian society portrayed in the book is scarily similar to today's world. A must-read for everyone. #1984 #GeorgeOrwell #classic"
+###
+5. Instruction: Generate a new recipe for banana bread.
+5. Input: 
+Bananas, flour, sugar, eggs, butter, baking powder, vanilla extract
+5. Output: 
+Mix 2 mashed bananas, 1.5 cups flour, 1/2 cup sugar, 2 eggs, 1/4 cup butter, 1 tsp baking powder, and 1 tsp vanilla extract. Bake at 350F for 45 minutes. Serve warm and enjoy!
+###
+6. Instruction: Classify the input sentence as positive, negative, or neutral sentiment.
+6. Input: 
+"I am so excited to go on vacation next week!"
+6. Output: 
+Positive
+### 
+7. Instruction: Suggest a workout routine for someone who wants to improve their strength.
+7. Input: 
+Current workout routine includes cardio and some light weightlifting.
+7. Output: 
+Incorporate compound exercises such as squats, deadlifts, and bench press into your routine. Focus on progressive overload and gradually increasing the weight lifted. Aim for 3 sets of 8-12 reps for each exercise. Rest for 1-2 minutes between sets.
+###
+8. Instruction: Rewrite the given sentence in active voice.
+8. Input: 
+"The book was written by the famous author J.K. Rowling."
+8. Output: 
+"Famous author J.K. Rowling wrote the book."
+###
+9. Instruction: Suggest a healthy and easy-to-prepare breakfast recipe.
+9. Input: 
+Available ingredients: oats, almond milk, banana, honey, cinnamon
+9. Output: 
+Mix 1/2 cup oats, 1 cup almond milk, 1 mashed banana, 1 tbsp honey, and 1 tsp cinnamon in a bowl. Let it sit in the fridge overnight. Serve cold with fresh fruit on top.
+###
+10. Instruction: Write a descriptive paragraph about your favorite city.
+10. Input: 
+Favorite city: Paris
+10. Output: 
+Paris is a city full of history, culture, and romance. From the iconic Eiffel Tower to the charming streets of Montmartre, there is always something to discover. The mouth-watering cuisine, fashionable boutiques, and world-renowned museums make Paris a must-visit destination for everyone.
+###
+11. Instruction: Identify the main topic and supporting ideas in the given paragraph.
+11. Input: 
+Paragraph: "The internet has revolutionized the way we communicate and access information. It has made it easier to connect with friends and family, and also to collaborate with colleagues on work projects. However, there are also concerns about privacy and security issues, as well as the spread of misinformation and harmful content."
+11. Output: 
+Main topic: The internet
+Supporting ideas: Communication and information, connections with others, collaboration on work projects, concerns about privacy and security, concern about misinformation and harmful content.
+###
+12. Instruction: Generate a poem about nature.
+12. Input: 
+<noinput>
+12. Output: 
+The sun sets over fields of gold,
+Trees sway in the breeze so bold,
+Birds soar high in the endless sky,
+Nature's beauty will never die.
+###
+13. Instruction: Summarize the given news article.
+13. Input: 
+News article title: "COVID-19 Vaccines Prove Highly Effective in Real-World Use"
+13. Output: 
+COVID-19 vaccines have been effective in real-world use, according to recent studies. These vaccines have helped reduce hospitalizations and deaths, providing hope for a return to normalcy.
+###
+14. Instruction: Convert the given decimal number to binary.
+14. Input: 
+Decimal number: 25
+14. Output: 
+Binary number: 11001
+###
+15. Instruction: Write an engaging opening sentence for a crime thriller novel.
+15. Input: 
+Title: The Midnight Killer
+15. Output: 
+The city was quiet, but Detective James knew he had to find the Midnight Killer before he struck again.
+###
+16. Instruction: Create a dialogue between two friends discussing their favorite movies.
+16. Input: 
+Friends' names: Sarah and Max
+Favorite movie: Inception (Sarah), The Godfather (Max)
+16. Output: 
+Sarah: "Have you seen Inception? It's my absolute favorite movie!"
+Max: "No way, The Godfather is where it's at. I could watch it a hundred times and never get tired of it."
+Sarah: "Really? I thought it was a bit overrated..."
+Max: "Blasphemy! You're just saying that because you can't handle the complexity of Inception."
+Sarah: "Ha! I think you're just biased because you're Italian."
+Max: "Okay, maybe there's a little truth to that. But seriously, The Godfather is a masterpiece."
+###
+17. Instruction: Rewrite the given sentence in passive voice.
+17. Input: 
+"Claire will send the report to the manager."
+17. Output: 
+"The report will be sent to the manager by Claire."
+###
+18. Instruction: Recommend a travel destination for someone interested in adventure sports.
+18. Input: 
+Interests: white water rafting, mountain climbing, zip lining
+18. Output: 
+Costa Rica is the perfect destination for adventure sports enthusiasts. Go white water rafting in the rapids of the Pacuare River, climb the stunning peaks of Arenal Volcano, and zip line through the lush tropical forests. Don't forget to take in the breathtaking views and experience the warm culture of this Central American gem.
+###
+19. Instruction: Correct the given sentence for grammar and spelling mistakes.
+19. Input: 
+"Samantha and her freind went too the park."
+19. Output: 
+"Samantha and her friend went to the park."
+###
+20. Instruction: Identify the correct usage of homophones in the given sentence.
+20. Input: 
+Sentence: "I ate eight slices of cake, but I still feel hungry."
+20. Output: 
+Correct usage: Eight (the number) and ate (past tense of eat).

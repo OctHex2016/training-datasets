@@ -1,0 +1,114 @@
+4. Instruction: Rewrite the following sentence using passive voice.
+4. Input: 
+John will be submitting the report by Friday.
+4. Output: 
+The report will be submitted by John by Friday.
+###
+5. Instruction: Suggest an adventure novel title based on the story summary provided.
+5. Input: 
+Set in the 18th century, a young sailor embarks on a treacherous journey to recover a legendary treasure hidden on an uncharted island, battling pirates, sea monsters, and the forces of nature along the way.
+5. Output: 
+Isle of Legends: The Quest for the Hidden Treasure
+###
+6. Instruction: Explain the concept of inflation in simple terms.
+6. Input: 
+<noinput>
+6. Output: 
+Inflation is the rate at which the prices of goods and services increase over time, leading to a decrease in the purchasing power of money.
+###
+7. Instruction: Translate the following English text into French.
+7. Input: 
+Have a safe trip! I'll see you when you get back.
+7. Output: 
+Passe un bon voyage ! Je te verrai à ton retour.
+###
+8. Instruction: What would the output of the given Python code be?
+8. Input: 
+```python
+def add_numbers(x, y):
+    return x + y
+
+result = add_numbers(5, 6)
+print(result)
+```
+8. Output: 
+11
+###
+9. Instruction: Check the following text for spelling and grammatical errors and correct them.
+9. Input: 
+Marry had a litle lamb, it's fees as white as snow. But than it accidentally stept in mud, lokking dirty now.
+9. Output: 
+Mary had a little lamb, its fleece as white as snow. But then it accidentally stepped in mud, looking dirty now.
+###
+10. Instruction: Provide a synonym for the word "innovative."
+10. Input: 
+<noinput>
+10. Output: 
+Pioneering
+###
+11. Instruction: Determine the rhyming pattern for the following poem.
+11. Input: 
+Blessings on thee, little man,
+Barefoot boy, with cheek of tan!
+With thy turned-up pantaloons,
+And thy merry whistled tunes;
+11. Output: 
+AABB
+###
+12. Instruction: Identify the main argument and provide a counter-argument for the given statement.
+12. Input: 
+School uniforms should be mandatory because they can enhance students' sense of belonging and pride in their school community.
+12. Output: 
+Main Argument: School uniforms can enhance students' sense of belonging and pride in their school community.
+
+Counter-Argument: Mandatory school uniforms can potentially suppress individuality and self-expression, impeding students' development of personal identity.
+###
+13. Instruction: Provide the definition of "photosynthesis."
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize food by converting carbon dioxide and water into glucose and oxygen.
+###
+14. Instruction: List three similarities between humans and apes.
+14. Input: 
+<noinput>
+14. Output: 
+1. Both humans and apes have opposable thumbs.
+2. They share a significant percentage of their DNA.
+3. Both groups are highly social and communicate with others in their community.
+###
+15. Instruction: Find and correct the contradiction in the given paragraph.
+15. Input: 
+John doesn't like to try new activities, and he's an adventure enthusiast. Last week, he went bungee jumping for the first time and found it exhilarating. Whenever he travels, he looks for exciting activities to engage in. However, he prefers to stay indoors during the weekends and avoids trying out new sports or experiences.
+15. Output: 
+John is an adventure enthusiast. Last week, he went bungee jumping for the first time and found it exhilarating. Whenever he travels, he looks for exciting activities to engage in. However, he prefers to stay indoors during the weekends and avoids trying out new sports or experiences.
+###
+16. Instruction: Name two famous painters from the Renaissance period.
+16. Input: 
+<noinput>
+16. Output: 
+Leonardo da Vinci and Michelangelo
+###
+17. Instruction: Express the given statement in the form of a positive statement.
+17. Input: 
+Don't forget to turn off the lights when you leave the room.
+17. Output: 
+Remember to turn off the lights when you leave the room.
+###
+18. Instruction: What is the capital of Australia?
+18. Input: 
+<noinput>
+18. Output: 
+Canberra
+###
+19. Instruction: Briefly explain the first law of thermodynamics.
+19. Input: 
+<noinput>
+19. Output: 
+The first law of thermodynamics, also known as the law of conservation of energy, states that energy cannot be created or destroyed in an isolated system; it can only be converted from one form to another.
+###
+20. Instruction: Calculate the tip amount for a bill of $75 with a 15% tipping rate.
+20. Input: 
+<noinput>
+20. Output: 
+$11.25

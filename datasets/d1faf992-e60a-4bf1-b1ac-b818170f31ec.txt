@@ -1,0 +1,113 @@
+4. Instruction: Paraphrase the given sentence. 
+4. Input: 
+It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+4. Output: 
+A widely accepted belief is that a wealthy, unmarried man surely desires a spouse.
+
+5. Instruction: Estimate the calories in the following meal:
+5. Input: 
+2 slices of pizza with pepperoni and cheese, a garden salad with ranch dressing, and a 12-ounce can of cola
+5. Output: 
+Approximately 800-900 calories
+
+6. Instruction: Outline a short 4-week workout plan to lose weight and tone muscles.
+6. Input:
+<noinput>
+6. Output: 
+Week 1-2: 
+1. Cardio exercises for 30 minutes, 4-5 times a week (i.e., running, cycling, swimming)
+2. Bodyweight exercises: squats, lunges, push-ups, planks (3 sets of 15 reps each)
+
+Week 3-4:
+1. Cardio exercises for 45 minutes, 4-5 times a week
+2. Bodyweight and resistance exercises: squats, lunges, push-ups, planks, bicep curls, tricep dips (3-4 sets of 12-15 reps each)
+3. Stretching exercises: 10-minutes of flexibility training
+
+7. Instruction: Write a haiku about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Morning dew glistens,
+Beneath the vibrant sunrise,
+Nature wakes anew.
+
+8. Instruction: Identify the language of the following sentence.
+8. Input: 
+Me gustaría aprender más sobre esta cultura interesante.
+8. Output: 
+Spanish
+
+9. Instruction: Identify any grammar errors or inconsistencies in the paragraph below.
+9. Input: 
+Their are many cars in the city, and public transportation often get crowded. People tends to rely on their own vehicles for daily commute, causing traffic. Carpooling can help mitigate this issue, by reducing the number of cars on road.
+9. Output: 
+Their -> There, get -> gets, tends -> tend, road -> the road
+
+10. Instruction: Summarize the passage.
+10. Input: 
+The Global Positioning System (GPS) is a satellite-based radio navigation system owned by the United States government and operated by the United States Space Force. It provides geolocation and time information to a GPS receiver anywhere on, or near, the Earth. The GPS project was launched in the United States in 1973 to overcome the limitations of previous navigation systems, integrating ideas from several predecessors, including classified engineering design studies from the 1960s. Global coverage became available in the 1990s, and its usefulness has grown significantly in the 21st century.
+10. Output: 
+GPS, owned by the US government and operated by the US Space Force, provides geolocation and time information globally. Launched in 1973, it aimed to overcome previous navigation system limitations, and has significantly grown in usefulness since the 1990s.
+
+11. Instruction: Recommend a movie based on the given user preference.
+11. Input: 
+Science-fiction and time-travel themes
+11. Output: 
+Interstellar
+
+12. Instruction: Create a rhyming couplet about love.
+12. Input: 
+<noinput>
+12. Output: 
+In love's embrace, our hearts take flight,
+Through darkest days and starry nights.
+
+13. Instruction: Suggest three team building activities for a corporate retreat.
+13. Input: 
+<noinput>
+13. Output: 
+1. Escape room challenge
+2. Scavenger hunt
+3. Trust-building exercises (e.g., Trust Falls)
+
+14. Instruction: Convert the following sentence to its passive voice.
+14. Input: 
+The cat chased the mouse around the corner.
+14. Output: 
+The mouse was chased by the cat around the corner.
+
+15. Instruction: Identify the verb tense in the following sentence.
+15. Input: 
+She will have finished her project before the deadline.
+15. Output: 
+Future perfect tense
+
+16. Instruction: Create a nickname for a person named "Samuel".
+16. Input: 
+<noinput>
+16. Output: 
+Sammy
+
+17. Instruction: Describe the importance of biodiversity in a paragraph.
+17. Input: 
+<noinput>
+17. Output: 
+Biodiversity plays a vital role in maintaining a balanced and healthy ecosystem. A variety of plant and animal species, along with microorganisms, form interrelated relationships that enable the ecosystem to function properly. Biodiversity helps in sustaining natural resources, such as clean air, water, and fertile soil, which humans rely on for various purposes. Furthermore, diverse gene pools within species contribute to their adaptability to environmental changes, helping them withstand and recover from disturbances. Ensuring the conservation of biodiversity is essential for the stability of ecosystems and the overall health of our planet.
+
+18. Instruction: Write a short congratulatory message for someone who has just been promoted.
+18. Input: 
+<noinput>
+18. Output: 
+Congratulations on your well-deserved promotion! Your hard work and dedication have truly paid off. Wishing you continued success in your new position!
+
+19. Instruction: Detect the logical fallacy in the given statement.
+19. Input: 
+If we legalize marijuana, then more people will begin using other dangerous drugs like cocaine and heroin.
+19. Output: 
+Slippery slope fallacy
+
+20. Instruction: Briefly explain the concept of "opportunity cost" in economics.
+20. Input: 
+<noinput>
+20. Output: 
+Opportunity cost is a fundamental economic concept that represents the potential loss or foregone benefit when choosing one alternative over another. It refers to the value of the next best alternative that would have been chosen if the chosen option was not available.

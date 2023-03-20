@@ -1,0 +1,66 @@
+4. Instruction: List three fundamental principles of the Agile methodology.
+4. Input:
+<noinput>
+4. Output:
+1. Collaboration and flexibility: Agile values responding to change over following a strict project plan. 
+2. Incremental delivery: Agile focuses on regularly delivering high-quality, valuable work to customers. 
+3. Continuous improvement: Agile encourages reflection, adaptation, and learning to continuously improve the process.
+###
+5. Instruction: Translate the following English sentence to French. 
+5. Input: 
+The cat is sitting on the windowsill.
+5. Output: 
+Le chat est assis sur le rebord de la fenêtre.
+###
+6. Instruction: Explain Newton's second law of motion in simple terms.
+6. Input: 
+<noinput>
+6. Output: 
+Newton's second law states that the force acting on an object is equal to the mass of the object multiplied by its acceleration. In simpler terms, the more force you apply to an object, the faster it moves, and heavier objects need more force to move.
+###
+7. Instruction: Identify the key message from the following paragraph.
+7. Input: 
+Technology is rapidly changing the way businesses operate today. Large and small companies need to adapt in order to stay competitive in the marketplace. This can include adopting new digital marketing strategies, upgrading hardware and software, and utilizing machine learning and artificial intelligence. Businesses that don't keep up risk losing customers, profits, and may even end up going out of business.
+7. Output: 
+The key message is that businesses need to adapt to rapidly changing technology to stay competitive and successful.
+###
+8. Instruction: Name five cryptocurrencies besides Bitcoin.
+8. Input: 
+<noinput>
+8. Output: 
+1. Ethereum
+2. Ripple (XRP)
+3. Litecoin
+4. Cardano
+5. Binance Coin
+###
+9. Instruction: From the text below, assess whether the meeting was productive or unproductive.
+9. Input: 
+During the meeting, attendees spent most of the time discussing personal issues and unrelated projects. Only a few agenda items were covered, and there was confusion regarding the team's goals. The meeting ended without any clear action items or next steps.
+9. Output: 
+unproductive
+###
+10. Instruction: Write a brief introduction for a blog post about the benefits of meditation.
+10. Input: 
+<noinput>
+10. Output: 
+In our fast-paced modern world, it can sometimes feel impossible to catch a moment of peace. Meditation, an age-old practice that has been utilized for centuries, offers a solution to calm the mind, reduce stress, and provide numerous health benefits. In this blog post, we'll explore the advantages of incorporating meditation into your daily life and discover a path to mental well-being.
+###
+11. Instruction: Summarize the following text in two sentences.
+11. Input: 
+The process of photosynthesis is essential for life on Earth. This process uses energy from sunlight to convert carbon dioxide and water into glucose, which is then used as a source of energy for plants. Oxygen is released as a byproduct during this process. Photosynthesis not only provides food for plants, but also indirectly supports other organisms that depend on plants for their own sustenance.
+11. Output: 
+Photosynthesis is a vital process that converts sunlight, carbon dioxide, and water into glucose for plants, while releasing oxygen as a byproduct. This process supports life on Earth by providing energy for plants and indirectly supporting other organisms that rely on plants.
+####
+12. Instruction: Provide an example of a palindrome.
+12. Input: 
+<noinput>
+12. Output: 
+racecar
+####
+13. Instruction: Correct the punctuation in the following sentence.
+13. Input: 
+Hey John guess what I just finished my first 5k run ever, I feel amazing, we should celebrate.
+13. Output: 
+Hey John, guess what? I just finished my first 5k run ever! I feel amazing. We should celebrate.
+####

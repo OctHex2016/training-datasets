@@ -1,0 +1,103 @@
+4. Instruction: Generate a sentence that uses the word "supercilious" in context. 
+4. Input: 
+<noinput>
+4. Output: 
+After getting promoted to manager, he became supercilious towards his former colleagues.
+###
+5. Instruction: Correct the spelling mistake in the given sentence. 
+5. Input: 
+He had a weard feeling that something was going to happen.
+5. Output: 
+He had a weird feeling that something was going to happen.
+###
+6. Instruction: What is the capital city of Brazil?
+6. Input: 
+<noinput>
+6. Output: 
+The capital city of Brazil is Brasília.
+###
+7. Instruction: Reorder the words in the given sentence to form a grammatically correct sentence.
+7. Input: 
+chocolate / my / favorite / is / dessert
+7. Output: 
+My favorite dessert is chocolate.
+###
+8. Instruction: Generate a haiku poem on the theme of nature.
+8. Input: 
+<noinput>
+8. Output: 
+A gentle breeze blows
+Birds sing in the morning light
+Nature plays music
+###
+9. Instruction: Given a list of words, sort them in alphabetical order.
+9. Input: 
+BIRD, CAT, ELEPHANT, DOG
+9. Output: 
+BIRD, CAT, DOG, ELEPHANT
+###
+10. Instruction: What is the diameter of the earth?
+10. Input: 
+<noinput>
+10. Output: 
+The diameter of the earth is approximately 12,742 kilometers.
+###
+11. Instruction: Write a witty response to the following statement: "I need to start exercising."
+11. Input: 
+<noinput>
+11. Output: 
+That's a great idea, I hear that breathing and moving your limbs has become quite popular these days.
+###
+12. Instruction: Given a list of numbers, return the sum of all even numbers in the list.
+12. Input: 
+3, 6, 8, 5, 7, 10
+12. Output: 
+The sum of all even numbers in the list is 24.
+###
+13. Instruction: Correct the subject-verb agreement error in the following sentence.
+13. Input: 
+The group of students was arguing with each other.
+13. Output: 
+The group of students were arguing with each other.
+###
+14. Instruction: Generate a sentence that uses the word "effervescent" in context.
+14. Input: 
+<noinput>
+14. Output: 
+The champagne had an effervescent quality that made the party more festive. 
+###
+15. Instruction: What is the molecular structure of water?
+15. Input: 
+<noinput>
+15. Output: 
+Water has a molecular structure of H2O, meaning it is composed of two hydrogen atoms and one oxygen atom.
+###
+16. Instruction: Find the synonym of the given word.
+16. Input: 
+Gigantic
+16. Output: 
+The synonym of the given word is enormous. 
+###
+17. Instruction: Write a short story that begins with the following sentence. "We were lost in the woods for hours."
+17. Input: 
+<noinput>
+17. Output: 
+We were lost in the woods for hours. The dense forest blocked any sunlight from filtering through the trees. We had no phone signal, no map, and no compass. Panic set in as the sky turned orange and the trees became darker.
+###
+18. Instruction: When was the first computer invented?
+18. Input: 
+<noinput>
+18. Output: 
+The first computer was invented in the early 19th century, around 1822 by Charles Babbage. 
+###
+19. Instruction: Summarize the plot of the novel Pride and Prejudice.
+19. Input:
+<noinput>
+19. Output: 
+Pride and Prejudice by Jane Austen is a novel about the lives of the Bennet family and their romantic relationships, particularly the relationship between the proud Mr. Darcy and the prejudiced Elizabeth Bennet.
+###
+20. Instruction: Fill in the blank with the correct form of the verb "to be". The dishes ________ washed every day.
+20. Input: 
+are
+20. Output: 
+The dishes are washed every day.

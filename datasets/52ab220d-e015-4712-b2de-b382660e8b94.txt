@@ -1,0 +1,108 @@
+4. Instruction: Identify the type of chemical reaction taking place based on the given equation. 
+4. Input: 
+C6H12O6 + 6O2 ⇒ 6CO2 + 6H2O
+4. Output: 
+Combustion reaction
+
+5. Instruction: List the original members of a famous rock band. 
+5. Input: 
+The Beatles
+5. Output: 
+John Lennon, Paul McCartney, George Harrison, and Ringo Starr
+
+6. Instruction: Rewrite the given sentence in passive voice. 
+6. Input: 
+She made a beautiful painting.
+6. Output: 
+A beautiful painting was made by her.
+
+7. Instruction: How would you explain photosynthesis to a child? 
+7. Input: 
+<noinput>
+7. Output: 
+Photosynthesis is a way plants make their own food. They take in sunlight, water, and a gas called carbon dioxide from the air, and with a little help from their leaves, they turn these ingredients into food and oxygen, which we breathe.
+
+8. Instruction: Translate the following English sentence into French. 
+8. Input: 
+I love eating chocolate ice cream.
+8. Output: 
+J'adore manger de la glace au chocolat.
+
+9. Instruction: List three compelling reasons to choose renewable energy over nonrenewable energy. 
+9. Input: 
+<noinput>
+9. Output: 
+1. Environmental benefits: Renewable energy sources reduce greenhouse gas emissions and air pollution. 2. Sustainability: Renewable energy sources are inexhaustible, ensuring long-term energy security. 3. Economic growth: Transition to renewable energy can create new job opportunities and stimulate local economies.
+
+10. Instruction: Identify the logical fallacy in the given argument. 
+10. Input: 
+Everyone in my dorm stays up till midnight studying, so clearly studying at night is the best strategy.
+10. Output: 
+Hasty generalization
+
+11. Instruction: Write a haiku about autumn. 
+11. Input: 
+<noinput>
+11. Output: 
+Leaves rustle, they fall,
+Golden hues drape the earth's floor,
+Autumn's chill embrace.
+
+12. Instruction: Correct any grammatical and spelling errors in the given sentence. 
+12. Input: 
+The boy is runing too fast his going to fell.
+12. Output: 
+The boy is running too fast; he's going to fall.
+
+13. Instruction: Summarize the plot of the given movie for a person who hasn't seen it. 
+13. Input: 
+The Godfather
+13. Output: 
+The Godfather is a crime drama that follows the story of the Corleone family, a powerful Mafia clan in 1940s New York. The patriarch, Vito Corleone, must navigate the world of organized crime, making tough decisions to uphold his power and protect his family. His reluctant son Michael gets drawn into the world of crime, eventually taking over the reins of the family business.
+
+14. Instruction: Provide a SWOT analysis for an online clothing store. 
+14. Input: 
+<noinput>
+14. Output: 
+Strengths: Convenient shopping experience, global market reach, lower overhead costs.
+Weaknesses: No physical presence, inability to try clothes on, reliance on technology.
+Opportunities: E-commerce growth, social media marketing, targeted customer segmentation.
+Threats: High competition, online fraud, rapid shifts in fashion trends.
+
+15. Instruction: What lesson can be learned from Aesop's fable "The Tortoise and the Hare"? 
+15. Input: 
+<noinput>
+15. Output: 
+The lesson from "The Tortoise and the Hare" is that slow and steady wins the race, emphasizing the importance of persistence, determination, and consistency over speed or arrogance.
+
+16. Instruction: Rewrite this famous movie quote in your own words. 
+16. Input: 
+"May the Force be with you."
+16. Output: 
+Let the power support you.
+
+17. Instruction: Explain the difference between a theory and a hypothesis. 
+17. Input: 
+<noinput>
+17. Output: 
+A hypothesis is a testable, tentative explanation or prediction based on existing knowledge, while a theory is a well-substantiated explanation of an aspect of the natural world that has been repeatedly tested and confirmed through experimentation and observation.
+
+18. Instruction: Describe the taste of a lemon using metaphor or simile. 
+18. Input: 
+<noinput>
+18. Output: 
+The taste of a lemon is like a burst of sunshine, with a tangy kick that leaves you feeling refreshed.
+
+19. Instruction: Name two famous paintings and their respective artists. 
+19. Input:
+<noinput>
+19. Output:
+1. The Mona Lisa by Leonardo da Vinci
+2. The Starry Night by Vincent van Gogh
+
+20. Instruction: Identify the protagonist and antagonist of the given story. 
+20. Input: 
+Harry Potter and the Philosopher's Stone
+20. Output: 
+Protagonist: Harry Potter
+Antagonist: Lord Voldemort

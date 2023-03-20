@@ -1,0 +1,39 @@
+4. Instruction: Summarize the main idea of the given paragraph.
+4. Input: 
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like a human. The term may also be applied to any machine that exhibits traits associated with a human mind, such as learning and problem-solving. Some of the essential abilities of AI include reasoning, learning, planning, perception, and analogy. AI can be classified into three types: narrow AI, which is designed to perform specific tasks; general AI, which can perform any intellectual task a human can do; and strong AI, which can understand or learn from any intellectual task that a human being can do.
+4. Output: 
+Artificial intelligence (AI) simulates human intelligence in machines, enabling them to learn and solve problems like humans. AI possesses abilities like reasoning, learning, and perception and can be categorized into narrow, general, and strong AI based on the tasks they can perform.5. Instruction: Rewrite this sentence with a positive tone.
+5. Input:
+He isn't very cooperative and doesn't communicate well.
+5. Output:
+He has room for improvement in cooperation and communication.
+
+6. Instruction: Translate the following sentence to French.
+6. Input:
+Good luck with your job interview!
+6. Output:
+Bonne chance pour ton entretien d'embauche!
+
+7. Instruction: Find the error in this equation and correct it.
+7. Input:
+4(3x - 7) + 21 = 7x - 14
+7. Output:
+4(3x - 7) + 20 = 7x - 14
+
+8. Instruction: Identify the type of figurative language used in the sentence.
+8. Input:
+The sun smiled down as we played together.
+8. Output:
+Personification
+
+9. Instruction: Write an attention-grabbing opening line for a science fiction story.
+9. Input: 
+<noinput>
+9. Output:
+As the last survivors of Earth boarded the interstellar ark, nobody could have predicted the cosmic odyssey that awaited them.
+
+10. Instruction: Remove passive voice from the following sentence. 
+10. Input: 
+The cake was eaten by the cat.
+10. Output:
+The cat ate the cake.

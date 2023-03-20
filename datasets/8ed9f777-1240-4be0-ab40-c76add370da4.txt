@@ -1,0 +1,143 @@
+4. Instruction: Write a haiku about autumn.
+4. Input:
+<noinput>
+4. Output:
+Golden leaves fall slow,
+Cool breeze whispers, autumn's song,
+Nature's dance unfolds.
+
+###
+5. Instruction: Reorder the following sentence to be in proper English grammatical structure.
+5. Input:
+pencil for the Look behind sofa
+5. Output:
+Look for the pencil behind the sofa
+
+###
+6. Instruction: Determine the tone of the text provided: positive, negative, or neutral.
+6. Input:
+I had a fantastic time at the beach today. The weather was perfect, and I even found a beautiful seashell.
+6. Output:
+positive
+
+###
+7. Instruction: List four benefits of daily exercise.
+7. Input:
+<noinput>
+7. Output:
+1. Improved cardiovascular health.
+2. Better mental well-being and reduced stress.
+3. Maintenance of healthy body weight.
+4. Increased strength and flexibility.
+
+###
+8. Instruction: Write a short story ending with the phrase: "...as the last leaf fell."
+8. Input:
+<noinput>
+8. Output:
+Samantha and her younger brother, Tom, loved to watch the leaves change colors each autumn. They would spend hours in the park, collecting fallen leaves and marveling at their beauty. One year, as the leaves began to turn, the siblings made a pact to visit the park every day until the last leaf fell. Days turned into weeks, and their daily ritual grew more magical with each visit. On the final day, they sat under the oldest tree in the park, waiting for its last leaf to fall. They shared stories and laughter, feeling the approach of winter's chill. In that moment of connection, they knew they would always remember this season of their lives...as the last leaf fell.
+
+###
+9. Instruction: Convert the given sentence into an interrogative sentence.
+9. Input:
+She attended the conference last week.
+9. Output:
+Did she attend the conference last week?
+
+###
+10. Instruction: Fill in the blank with the most suitable phrase among the options: A, B, or C.
+10. Input:
+I enjoyed the movie, _____ the ending was disappointing.
+(A) still 
+(B) in contrast
+(C) but
+10. Output:
+C
+
+###
+11. Instruction: Identify the type of figurative language used in the sentence provided: metaphor, simile, or personification.
+11. Input:
+Her eyes were like shining stars in the night sky.
+11. Output:
+simile
+
+###
+12. Instruction: Summarize the following paragraph without losing the main idea.
+12. Input:
+Sarah recently started her journey towards network marketing success. She spent countless hours learning from top leaders in her company and attending regular meetings to grow her contacts. Networking became her primary focus, as she sought to expand her client base and build a strong team. While some may see this as just another business venture, Sarah viewed it as a path to freedom and independence.
+12. Output:
+Sarah is dedicated to achieving success in network marketing by learning from top leaders, attending meetings, and focusing on expanding her client base and team, seeking freedom and independence.
+
+###
+13. Instruction: Calculate the cost of purchasing the items provided.
+13. Input:
+2 t-shirts at $12 each, 3 hats at $8 each, and 1 pair of shorts at $24
+13. Output:
+$72
+
+###
+14. Instruction: Which event happened first in history? Provide the answer in the form of the event number.
+14. Input:
+Event 1: The first man walks on the moon.
+Event 2: The first automobile was invented.
+Event 3: World War II.
+14. Output:
+Event 2
+
+###
+15. Instruction: Write a recommendation on the book you have just read.
+15. Input:
+Book: "To Kill a Mockingbird" by Harper Lee
+15. Output:
+I highly recommend reading "To Kill a Mockingbird" by Harper Lee. This classic novel explores themes of racial injustice, moral growth, and courage in the face of adversity. The story is narrated by a young girl named Scout Finch, whose innocence and curiosity allow readers to experience the events through fresh, unbiased eyes. The book's unforgettable characters and powerful message will leave a lasting impact on readers and provide invaluable insights into human nature and American history.
+
+###
+16. Instruction: Edit the following sentence to improve clarity and readability.
+16. Input:
+I plays soccer, every day after school, with my classmates, on the field.
+16. Output:
+I play soccer with my classmates on the field every day after school.
+
+###
+17. Instruction: Translate the following text to French.
+17. Input:
+Please send me the project updates by tomorrow morning.
+17. Output:
+Veuillez m'envoyer les mises à jour du projet demain matin.
+
+###
+18. Instruction: Provide a creative title for the following essay.
+18. Input:
+An essay exploring the environmental impact of fast fashion and consumer mindset towards sustainable shopping habits.
+18. Output:
+"Chasing Trends, Losing Earth: Rethinking Fast Fashion and Sustainable Shopping Choices"
+
+###
+19. Instruction: Suggest two possible solutions for reducing traffic congestion in urban areas.
+19. Input:
+<noinput>
+19. Output:
+1. Improved public transportation systems to offer affordable, faster, and convenient alternatives to driving.
+2. Implement congestion pricing to discourage excessive driving during peak hours.
+
+###
+20. Instruction: Write an apology email to a customer for a delayed delivery.
+20. Input:
+Customer name: Alice, Product: Smart LED TV, Estimated Delivery Date: March 5th, New Delivery Date: March 12th
+20. Output:
+Subject: Sincere Apology for Delayed Delivery
+
+Dear Alice,
+
+We hope this email finds you well. We regret to inform you about a delay in the delivery of your Smart LED TV. It was initially estimated to arrive on March 5th; however, due to unforeseen circumstances, the new delivery date has been moved to March 12th.
+
+Please accept our sincerest apologies for any inconvenience this may have caused. Our team is working hard to ensure your product will reach you on the updated delivery date.
+
+We appreciate your understanding and patience during this time. If you have any questions or concerns, please feel free to reach out to our customer support team.
+
+Thank you for your continued support.
+
+Sincerely,
+[Your Name]
+[Your Position]
+[Your Company]

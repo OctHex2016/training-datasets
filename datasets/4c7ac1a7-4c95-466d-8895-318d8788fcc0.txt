@@ -1,0 +1,63 @@
+4. Instruction: Complete the Shakespeare verse "To be, or not to be, that is the ____"
+4. Input: 
+<noinput>
+4. Output: 
+question
+###
+5. Instruction: Suggest a recipe for a vegan gluten-free lasagna.
+5. Input: 
+- 1 box gluten-free lasagna noodles.
+- 1 jar marinara sauce
+- 1 package vegan ground beef crumbles
+- 1 onion, diced
+- 4 cloves garlic, minced
+- 2 tablespoons olive oil
+- 1 package frozen chopped spinach, thawed and excess water squeezed out
+- 1/4 cup fresh basil, chopped
+- 1 carton vegan ricotta cheese
+- 1/4 cup nutritional yeast
+- Salt and pepper
+5. Output: 
+Preheat oven to 350 F. Cook lasagna noodles according to package directions. In a large skillet, heat olive oil over medium heat. Add onion and garlic and sauté until onions are translucent (about 5 minutes). Add vegan ground beef crumbles and continue to sauté until heated through. Add spinach and marinara sauce to skillet and stir until well mixed. Remove from heat. In a separate bowl, mix vegan ricotta cheese, fresh basil, nutritional yeast, salt, and pepper. In a baking dish, layer cooked noodles, sauce mixture, and ricotta mixture, and repeat until all ingredients are used up. Cover with foil and bake for 25 minutes. Remove foil and bake for another 10-15 minutes until cheese is melted and bubbly. Let cool for a few minutes before serving.
+###
+6. Instruction: Name five countries that use the metric system.
+6. Input:
+<noinput>
+6. Output:
+Canada, France, Germany, Australia, New Zealand.
+###
+7. Instruction: Summarize in a sentence the main concept of the book "1984" by George Orwell
+7. Input: 
+<noinput>
+7. Output: 
+"1984" is a dystopian novel about a future totalitarian society where citizens are oppressed by constant government surveillance and propaganda. 
+###
+8. Instruction: Edit the following sentence to be grammatically correct: "Me and him are going to the store."
+8. Input: 
+<noinput>
+8. Output: 
+He and I are going to the store. 
+###
+9. Instruction: Provide a brief description of each dog breed.
+9. Input:
+Chihuahua:
+Golden Retriever:
+Bulldog:
+Poodle:
+9. Output: 
+Chihuahua: Small dog breed, originating in Mexico, sweet temperament, requires little exercise.
+Golden Retriever: Medium-to-large dog breed, originating in Scotland, friendly and intelligent, frequently used as service dogs.
+Bulldog: Medium-size dog breed, originating in England, friendly and determined, often characterized by their wrinkly skin and underbite.
+Poodle: Medium-to-large dog breed, originating in France, intelligent and elegant, often used in dog shows.
+###
+10. Instruction: What is the highest waterfall in the world?
+10. Input: 
+<noinput>
+10. Output: 
+Angel Falls, located in Venezuela, is the highest waterfall in the world, standing at 3,212 feet (979 meters). 
+###
+11. Instruction: Convert the following Fahrenheit temperature to Celsius: 68°F
+11. Input: 
+<noinput>
+11. Output: 
+20°C

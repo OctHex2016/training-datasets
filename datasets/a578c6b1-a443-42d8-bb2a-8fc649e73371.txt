@@ -1,0 +1,103 @@
+4. Instruction: Write a brief summary of the given passage.
+4. Input:
+For generations, roboticists and engineers have been fascinated with the idea of Artificial Intelligence (AI). In the last decade, AI-driven digital technology has evolved rapidly, revolutionizing the nature of work and daily life. Both machine learning and deep learning techniques have equipped AI applications with an impressive range of capabilities. Areas like healthcare, finance, education, and communication have witnessed drastic improvements. That said, AI adoption still carries a risk of job displacement and ethical issues. Nonetheless, its transformative impact on society has been broadly embraced as a welcome development.
+4. Output:
+In recent years, AI advancements have significantly impacted various sectors, such as healthcare, finance, education, and communication. Despite potential job displacement and ethical concerns, the transformative effects of AI-driven technology on society are generally well-received.
+
+5. Instruction: Is the statement true or false? Explain your answer.
+5. Input:
+The rings of Saturn are made primarily of ice.
+5. Output:
+True. Saturn's rings are primarily composed of ice particles, with some rocky material mixed in. The ice particles can range from tiny grains to large chunks, reflecting sunlight and giving the rings their bright appearance.
+
+6. Instruction: Convert the given sentence to passive voice.
+6. Input:
+The dog ate my homework.
+6. Output:
+My homework was eaten by the dog.
+
+7. Instruction: What is the significance of the following date in history?
+7. Input:
+July 20, 1969
+7. Output:
+On July 20, 1969, the Apollo 11 mission successfully landed astronauts Neil Armstrong and Buzz Aldrin on the Moon. It marked the first time humans stepped foot on the lunar surface and fulfilled President John F. Kennedy's goal of landing a man on the Moon by the end of the 1960s.
+
+8. Instruction: Identify the type of cloud in the provided description.
+8. Input:
+The clouds are puffy, like cotton balls, and they appear low in the sky.
+8. Output:
+Based on the description, the clouds are cumulus clouds.
+
+9. Instruction: Tell me the chemical elements present in the compound.
+9. Input:
+H2O
+9. Output:
+The compound H2O, or water, consists of two hydrogen (H) atoms and one oxygen (O) atom.
+
+10. Instruction: Explain the primary function of the following part of the human body.
+10. Input:
+Kidneys
+10. Output:
+The primary function of kidneys is to filter waste products and excess substances, such as water, from the blood to form urine, which is then excreted from the body. They also help regulate blood pressure, electrolyte balance, and red blood cell production.
+
+11. Instruction: Identify the author and the name of the following quote.
+11. Input:
+“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”
+11. Output:
+The quote is from Ralph Waldo Emerson and does not have a specific title associated with it as it is not part of a larger work.
+
+12. Instruction: Calculate the area of the given shape.
+12. Input:
+Rectangle; Length: 5 units; Width: 3 units
+12. Output:
+The area of the rectangle is 15 square units.
+
+13. Instruction: Provide three synonyms for the following word.
+13. Input:
+Happy
+13. Output:
+Joyful, content, delighted
+
+14. Instruction: Correct any grammatical errors in the given sentence.
+14. Input:
+Me and him goes to the store everyday.
+14. Output:
+He and I go to the store every day.
+
+15. Instruction: Translate the following sentence into French.
+15. Input:
+I love eating ice cream in the summer.
+15. Output:
+J'aime manger de la glace en été.
+
+16. Instruction: Identify the main theme of the given poem.
+16. Input:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+16. Output:
+The main theme of the poem is the importance of individual choices and the impact they have on our lives.
+
+17. Instruction: Solve the given equation for x.
+17. Input:
+3x + 7 = 10
+17. Output:
+x = 1
+
+18. Instruction: What type of energy is described in the given scenario?
+18. Input:
+Water flowing down a waterfall.
+18. Output:
+The energy described in the scenario is gravitational potential energy converted into kinetic energy.
+
+19. Instruction: Draft a short paragraph using the following words.
+19. Input:
+Extravagant, mysterious, journey, forest, treasure
+19. Output:
+Embarking on a mysterious journey, a group of adventurers ventured deep into the extravagant forest. Guided by an ancient map, they sought a hidden treasure, rumored to be protected by the very spirit of the forest itself. Unbeknownst to them, they were about to encounter challenges beyond their wildest imagination.
+
+20. Instruction: Classify the following animal as a mammal, reptile, amphibian, bird, or fish.
+20. Input:
+Dolphin
+20. Output:
+Mammal

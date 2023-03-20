@@ -1,0 +1,119 @@
+4. Instruction: Edit the following sentence and make it grammatically correct.
+4. Input: 
+The cookies tastes good.
+4. Output: 
+The cookies taste good.
+###
+5. Instruction: Generate a recipe for a vegetarian lasagna.
+5. Input: 
+- 1 eggplant
+- 1 zucchini
+- 1 yellow squash
+- 1 onion
+- 2 cloves of garlic
+- 1 can of crushed tomatoes
+- 1 package of lasagna noodles
+- 1 cup of ricotta cheese
+- 1 cup of shredded mozzarella cheese
+- 1/2 cup of grated parmesan cheese
+5. Output: 
+Preheat the oven to 375°F. Slice eggplant, zucchini, yellow squash, and onion into thin slices. Mince garlic. Spread a layer of crushed tomatoes on the bottom of a 9x13 inch baking dish. Add a layer of lasagna noodles, then a layer of eggplant, zucchini, yellow squash, onions, and garlic. Spoon on a layer of ricotta cheese and top with shredded mozzarella cheese. Repeat layers 2 more times. Sprinkle parmesan cheese on top. Bake for 45 minutes, or until cheese is melted and bubbly.
+###
+6. Instruction: Write a paragraph summarizing the plot of Emma by Jane Austen.
+6. Input: 
+<noinput>
+6. Output: 
+Emma Woodhouse is a wealthy young woman living in Highbury, England. She is known for her matchmaking skills, but her efforts to find a suitable match for her friend Harriet Smith lead to confusion and misunderstandings. Along the way, Emma learns to understand her own heart and discovers that love may not be as straightforward as she thought.
+###
+7. Instruction: Generate a paraphrase for the following sentence.
+7. Input:
+The United States has a diverse population consisting of people from different ethnic, cultural and religious backgrounds. 
+7. Output:
+The US is home to people from diverse backgrounds, including ethnicity, culture, and religion.
+###
+8. Instruction: Write a sentence describing the concept of blockchain to a layman.
+8. Input: 
+<noinput>
+8. Output: 
+Blockchain is a decentralized digital ledger that records transactions across a network of computers, allowing for secure and transparent exchange of information without the need for a central authority.
+###
+9. Instruction: Write a sentence to describe the Mona Lisa painting by Leonardo da Vinci.
+9. Input: 
+<noinput>
+9. Output: 
+The Mona Lisa is a portrait painting by Leonardo da Vinci that is famed for her expression and is considered one of the most famous paintings in the world.
+###
+10. Instruction: Generate a question for which the answer is "42".
+10. Input: 
+<noinput>
+10. Output: 
+What is the answer to the ultimate question of life, the universe, and everything?
+### 
+11. Instruction: Write a sentence that involves the use of metaphor.
+11. Input: 
+<noinput>
+11. Output: 
+The world is a stage, and we are all merely players.
+###
+12. Instruction: Generate synonyms for the following words.
+12. Input: 
+- Beautiful
+- Sad
+- Angry
+12. Output: 
+- Lovely, gorgeous, stunning, attractive, pretty
+- Gloomy, melancholy, sorrowful, unhappy, mournful
+- Furious, mad, livid, enraged, incensed
+###
+13. Instruction: Write a sentence explaining these two scientific concepts: gravity and photosynthesis.
+13. Input: 
+<noinput>
+13. Output:  
+Gravity is the force that pulls all objects with mass towards each other, and is responsible for the motion of everything from planets to cars. Photosynthesis is the process by which green plants and some bacteria use sunlight to synthesize foods with the help of chlorophyll.
+###
+14. Instruction: Generate the past tense of the following verbs:
+14. Input: 
+- Write
+- Swim
+- Eat
+14. Output: 
+- Wrote
+- Swam
+- Ate
+###
+15. Instruction: Write a sentence to describe your favorite sports team.
+15. Input: 
+<noinput>
+15. Output: 
+My favorite sports team is the Golden State Warriors, a professional basketball team based in San Francisco, who have won multiple championships with their exciting and fast-paced style of play.
+###
+16. Instruction: Write a sentence beginning with a preposition.
+16. Input: 
+<noinput>
+16. Output: 
+After finishing my breakfast, I went for a walk in the park.
+###
+17. Instruction: Suggest a song to describe a break-up situation.
+17. Input: 
+<noinput>
+17. Output: 
+"I Will Survive" by Gloria Gaynor is a classic song that reflects on the pain and struggles of a break-up, but also inspires strength and resilience to move on and thrive.
+###
+18. Instruction: Generate a simile for the following situation:  
+Being lost in the middle of the city without a map.
+18. Input: 
+<noinput>
+18. Output: 
+Being lost in the city without a map is like being a needle in a haystack, where everything looks the same and it's hard to find your way around.
+###
+19. Instruction: Write a sentence using a pun.
+19. Input: 
+<noinput>
+19. Output: 
+I'm reading a book on anti-gravity. It's impossible to put down!
+###
+20. Instruction: Write a sentence that uses the passive voice.
+20. Input: 
+<noinput>
+20. Output: 
+The cake was baked by the chef, and it was delicious.

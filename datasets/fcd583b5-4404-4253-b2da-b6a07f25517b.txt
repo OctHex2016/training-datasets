@@ -1,0 +1,56 @@
+4. Instruction: Transform the given sentence into a haiku by maintaining its meaning but adhering to the 5-7-5 syllable structure.
+4. Input: 
+The sun sets slowly, casting a beautiful orange hue over the calm lake.
+4. Output: 
+Sun sets gradually
+Orange hue on quiet lake
+Nature's beauty wakes
+
+5. Instruction: Analyze the given lyrics and identify the primary theme.
+5. Input: 
+Yesterday, all my troubles seemed so far away.
+Now it looks as though they're here to stay.
+Oh, I believe in yesterday.
+Suddenly, I'm not half the man I used to be.
+There's a shadow hanging over me.
+Oh, yesterday came suddenly.
+5. Output: 
+Nostalgia and Loss
+
+6. Instruction: Rewrite the given text in a more formal tone.
+6. Input: 
+Hey there! Just wanted to let ya know we're looking forward to seeing you at the conference next month. It's gonna be great, so be sure to get ready!
+6. Output: 
+Greetings, we would like to inform you that we are eagerly anticipating your presence at the conference next month. We trust it will be a highly productive event, so please prepare accordingly.
+
+7. Instruction: Choose the most suitable headline that matches the summary of a news article.
+7. Input: 
+Summary: A recent study has found that following a Mediterranean-style diet may improve brain function and reduce the risk of neurological disorders.
+Options:
+a) The Miracle of Mediterranean Diet
+b) Improving Brain Function with the Mediterranean Diet
+c) Mediterranean Diet: The Ultimate Diet Plan
+7. Output: 
+b) Improving Brain Function with the Mediterranean Diet
+
+8. Instruction: Describe the effects of the Industrial Revolution on the standard of living for the working class.
+8. Input: 
+<noinput>
+8. Output: 
+The Industrial Revolution significantly impacted the standard of living for the working class. While it led to urbanization, job opportunities, and economic growth, it also created overcrowded unsanitary conditions, long work hours, child labor, and low wages with laborers living in extreme poverty. In the long term, progressive reforms eventually improved their situation.
+
+9. Instruction: Given the restaurant description, create a suitable name for the establishment.
+9. Input: 
+Modern, industrial-themed restaurant specializing in artisanal brick-oven pizzas with locally-sourced, organic ingredients, and a curated selection of craft beers and wines.
+9. Output: 
+Urban PieCraft
+
+10. Instruction: Summarize the following paragraph.
+10. Input: 
+The process of photosynthesis in plants involves the absorption of sunlight by chlorophyll, which is then used to convert carbon dioxide and water into glucose and oxygen. This reaction occurs in specialized structures called chloroplasts, which are located in the cells of plant leaves. The glucose produced serves as a source of energy for the plant, which in turn helps the plant grow, while the oxygen is released into the atmosphere, providing a prerequisite for the survival of animals and humans.
+10. Output: 
+Photosynthesis in plants is the conversion of sunlight, carbon dioxide, and water into glucose and oxygen by chlorophyll, occurring in leaf cell chloroplasts. Plants use glucose for energy and growth, while oxygen supports the survival of animals and humans.
+
+11. Instruction: Detect the logical fallacy in the given argument.
+11. Input: 
+Just because 90% of people polled say that they believe climate change is real doesn't make it true. After all, at one point, people believed the Earth was flat.

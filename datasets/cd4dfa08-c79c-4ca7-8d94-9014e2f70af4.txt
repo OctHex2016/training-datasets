@@ -1,0 +1,20 @@
+4. Instruction: Summarize the plot of the book "To Kill a Mockingbird" by Harper Lee.
+4. Input: 
+<noinput>
+4. Output: 
+"To Kill a Mockingbird" is set in Maycomb, Alabama, during the Great Depression, where a lawyer named Atticus Finch defends a black man accused of rape. Meanwhile, his daughter, Scout, learns about racism and prejudice through various incidents in her hometown.
+###
+5. Instruction: Generate a Haiku poem about autumn.
+5. Input: 
+<noinput>
+5. Output: 
+Crisp leaves swirl and fall, 
+Golden glow fades into grey, 
+Nature sleeps, we dream. 
+###
+6. Instruction: Edit the following sentence to remove redundancy: "She stood up to her feet and walked towards him."
+6. Input: 
+Sentence: She stood up to her feet and walked towards him.
+6. Output: 
+She stood up and walked towards him.
+###

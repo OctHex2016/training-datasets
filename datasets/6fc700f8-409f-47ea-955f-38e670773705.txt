@@ -1,0 +1,125 @@
+4. Instruction: Generate a paragraph that describes the weather for a specific location and date. 
+4. Input: 
+San Francisco, CA on June 1, 2022
+4. Output: 
+On June 1, 2022, San Francisco will have mostly sunny skies with a high of 74°F and a low of 59°F. There will be a gentle breeze blowing at around 10 mph. Expect some patchy fog in the morning but it will dissipate by midday.
+###
+5. Instruction: Rewrite the following sentence to be more concise. 
+5. Input: 
+The reason why I couldn't come to work on Wednesday was because I had a medical appointment scheduled at the same time that I couldn't reschedule.
+5. Output: 
+I had a medical appointment that couldn't be rescheduled, so I couldn't come to work on Wednesday.
+###
+6. Instruction: Suggest a recipe that uses the following ingredients. 
+6. Input: 
+Chicken, broccoli, coconut milk, curry powder, rice. 
+6. Output: 
+Broccoli and Chicken in Coconut Curry Rice. 
+
+
+1. Start cooking rice
+2. Cut chicken into small pieces and cook until brown.
+3. Add curry powder into chicken and stir until coated.
+4. Pour in can of coconut milk and let it simmer until chicken is cooked.
+5. Add broccoli into the pan and cook for about 4 minutes.
+6. Serve the curry chicken and broccoli on a plate of cooked rice. Add some cilantro for garnish.
+###
+7. Instruction: Write an ending to the following story starter.
+7. Input: 
+After hours of hiking in the forest, they found the abandoned cabin... 
+7. Output: 
+...and much to their surprise, the cabin wasn't as abandoned as they thought. There was smoke coming out of the chimney and as they approached, they could hear the sound of a guitar being played inside. They were greeted with warm hospitality and leave the next day feeling a little less alone in the world.
+###
+8. Instruction: Write a persuasive paragraph that convinces readers to adopt a plant-based diet.
+8. Input: 
+<noinput>
+8. Output: 
+By adopting a plant-based diet, not only are you helping your health, but the planet too. Animal agriculture contributes to deforestation, water pollution, and massive greenhouse gas emissions that are responsible for climate change. Not to mention, plant-based meals are packed with nutrients, antioxidants, and fiber that will leave you feeling satisfied and full of energy!
+###
+9. Instruction: Generate a poem that utilizes the words "rain", "love", and "heartbreak".
+9. Input: 
+<noinput>
+9. Output: 
+Rain falls from above,
+Bringing joy and love,
+But when it becomes too much,
+It reminds us of heartbreak and such.
+The tears we cry when love is lost,
+Mimic the storm that makes us tossed.
+But we hold on to hope,
+That love will help us cope.
+###
+10. Instruction: Answer the following question in a complete sentence. 
+10. Input: 
+What is the capital of Brazil?
+10. Output: 
+The capital of Brazil is Brasília. 
+###
+11. Instruction: Summarize the main idea of the following article in one sentence.
+11. Input: 
+https://www.nytimes.com/2021/06/01/books/review-highlights-good-company-cynthia-daprix-sweeney.html
+11. Output: 
+The novel, "Good Company" by Cynthia D'Aprix Sweeney, explores the concept of friendship and the secrets we keep from those we love.
+###
+12. Instruction: Write a descriptive paragraph about a landmark in a city. 
+12. Input: 
+The Statue of Liberty in New York City
+12. Output: 
+The Statue of Liberty in New York City stands tall and proud, representing freedom and democracy. The iconic figure was gifted to the United States by France and continues to be a symbol of hope and new beginnings for both Americans and visitors alike.
+###
+13. Instruction: Identify the grammatical error in the following sentence and correct it. 
+13. Input: 
+Us students should of studied for the test better.
+13. Output: 
+The grammatical error is using "should of" instead of "should have." The correct sentence is "We students should have studied for the test better."
+###
+14. Instruction: Write a sentence using a semicolon correctly. 
+14. Input: 
+<noinput>
+14. Output: 
+I love to read; however, I need to spend more time exercising.
+###
+15. Instruction: Generate a list of tips for someone starting their first garden. 
+15. Input: 
+<noinput>
+15. Output: 
+1. Start small with a few easy-to-grow plants.
+2. Make sure the garden gets plenty of sunlight and water.
+3. Use good quality soil and fertilizer.
+4. Keep track of the weather and adapt accordingly.
+5. Don't be afraid to ask for help or do research.
+###
+16. Instruction: Write an instruction manual for how to tie a tie. 
+16. Input: 
+<noinput>
+16. Output: 
+1. Drape the tie around the collar with the wide end on the right and the narrow end on the left.
+2. Cross the wide end over the narrow end.
+3. Bring the wide end behind the narrow end and wrap it across the front horizontally.
+4. Take the wide end up and over the loop around your neck.
+5. Bring it down and pass it through the knot in front.
+6. Finally, adjust the knot and the tie so that it's comfortable and looks proportional to your body.
+###
+17. Instruction: Edit the following sentence to remove the passive voice. 
+17. Input: 
+The cookies were baked by my grandmother. 
+17. Output: 
+My grandmother baked the cookies.
+###
+18. Instruction: Write a paragraph that describes a unique cultural tradition. 
+18. Input: 
+The Day of the Dead in Mexico
+18. Output: 
+The Day of the Dead is a unique cultural tradition in Mexico that celebrates the lives and memories of loved ones who have passed away. The holiday takes place over two days, November 1 and 2, where families create altars filled with offerings such as food, candles, and photographs. People dress up in ornate costumes and paint their faces like skulls to participate in parades and celebrations. It's a beautiful reminder of the cycle of life and death and the importance of family and community.
+###
+19. Instruction: Generate a pun using the word "book". 
+19. Input: 
+<noinput>
+19. Output: 
+The librarian couldn't put down his book because it had a gripping storyline.
+###
+20. Instruction: Ask a question that would prompt a recommendation. 
+20. Input: 
+<noinput>
+20. Output: 
+What books should I read if I love mystery novels?<noinput>

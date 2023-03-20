@@ -1,0 +1,44 @@
+4. Instruction: Identify the name of the author of the given book and provide a one-sentence summary of the book.
+4. Input:
+Book: 1984 by George Orwell
+4. Output:
+Author: George Orwell
+Summary: 1984 depicts a dystopian future society where surveillance and totalitarianism are the norm, and where individualism and independent thought are suppressed.
+
+5. Instruction: Explain the concept of photosynthesis in one sentence.
+5. Input: <noinput>
+5. Output:
+Photosynthesis is the process used by plants, algae, and some bacteria to convert sunlight, carbon dioxide, and water into chemical energy stored in sugar molecules and oxygen.
+
+6. Instruction: Given a set of ingredients, suggest a dish that can be prepared using those ingredients.
+6. Input:
+Ingredients: chicken breast, broccoli, garlic, olive oil, salt, pepper
+6. Output:
+You can prepare garlic and olive oil sautéed chicken breast with a side of steamed broccoli seasoned with salt and pepper.
+
+7. Instruction: Is this statement true or false? Explain your answer.
+7. Input:
+Statement: Ice is heavier than water.
+7. Output:
+False. Ice is lighter than water because its density is lower, causing it to float on top of water.
+
+8. Instruction: Correct any grammatical errors in the given sentence.
+8. Input:
+Sentence: She buyed a new dress yesturday for the event.
+8. Output:
+She bought a new dress yesterday for the event.
+
+9. Instruction: Identify the major parts of a human cell and describe their functions in one sentence.
+9. Input: <noinput>
+9. Output:
+Nucleus, cytoplasm, and cell membrane: The nucleus contains genetic material and controls cellular activities, the cytoplasm is a gel-like substance containing organelles that support metabolism and cell function, and the cell membrane regulates what enters and exits the cell.
+
+10. Instruction: Convert the given English text into a limerick poem.
+10. Input:
+Text: A man from the city tried sailing, but found that he wasn't prevailing; he got wet and cold and slipped on some mold, but he never gave up and kept flailing.
+10. Output:
+There once was a man who set sail,
+From the city, he tried, but would fail.
+He got wet and quite chilly,
+Slipped on mold that was silly,
+But persisted and flailed without fail.

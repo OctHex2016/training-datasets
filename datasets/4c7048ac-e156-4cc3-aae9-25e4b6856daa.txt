@@ -1,0 +1,61 @@
+4. Instruction: Write a brief summary of the text.
+4. Input: 
+Stress is a significant problem in today's society, affecting millions of people worldwide. It can lead to various health problems, including depression, digestive problems, sleep disorders, and weight gain. Multiple factors can contribute to stress, such as work, relationships, personal issues, and financial difficulties. It is essential to manage stress effectively to maintain overall well-being. Some ways to reduce stress include regular exercise, meditation, spending time in nature, deep breathing, and maintaining a healthy lifestyle.
+
+4. Output: 
+Stress, a major issue in today's society, affects millions and can cause numerous health problems. It can result from work, relationships, personal issues, and finances. Effectively managing stress, through exercise, meditation, nature, deep breathing, and a healthy lifestyle, is crucial to maintaining well-being.
+
+5. Instruction: Convert the given recipe into a bulleted list of required ingredients and their quantities.
+5. Input: 
+Chocolate Chip Pancakes - 4 servings
+Ingredients:
+1 1/2 cups all-purpose flour
+1 1/2 teaspoons baking powder
+1/4 teaspoon salt
+1 tablespoon granulated sugar
+1 large egg
+1 1/4 cups milk
+1/2 teaspoon vanilla extract
+1/2 cup chocolate chips
+
+5. Output: 
+- 1 1/2 cups all-purpose flour
+- 1 1/2 teaspoons baking powder
+- 1/4 teaspoon salt
+- 1 tablespoon granulated sugar
+- 1 large egg
+- 1 1/4 cups milk
+- 1/2 teaspoon vanilla extract
+- 1/2 cup chocolate chips
+
+6. Instruction: Explain the procedure for tying a simple half-windsor knot.
+6. Input: 
+<noinput>
+6. Output: 
+1. Drape the necktie over your shirt collar, with the wide end on your right side.
+2. Cross the wide end over the narrow end, creating an X.
+3. Tuck the wide end underneath the narrow end and pull upward.
+4. Pull the wide end down and to the left, under the X.
+5. Move the wide end across the front and over the narrow end, forming a horizontal band.
+6. Pull the wide end up and under the loop around your neck.
+7. Bring the wide end down through the knot loop you created in step 5.
+8. Tighten the knot by holding the narrow end and sliding the knot up to your collar.
+9. Adjust the tie for comfort and appearance.
+
+7. Instruction: Choose the grammatically correct sentence in the given pair.
+7. Input: 
+A. If I would have known about the storm, I would have stayed home.
+B. If I had known about the storm, I would have stayed home.
+7. Output: 
+B. If I had known about the storm, I would have stayed home.
+
+8. Instruction: Identify 5 mistakes in the text and correct them.
+8. Input: 
+Their are meny people who goe to the cinema. Some like actoin movies, others enjoye romantic movies, but most people like comedies becouse they make them fell happy.
+
+8. Output: 
+Their → There
+meny → many
+goe → go
+actoin → action
+enjoye → enjoy

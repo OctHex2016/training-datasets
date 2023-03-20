@@ -1,0 +1,25 @@
+4. Instruction: Convert the following paragraph into a haiku poem.
+4. Input: 
+The sun sets slowly, casting a golden glow on the serene lake. A soft breeze brushes against the water, creating faint ripples in the otherwise calm surface. Trees gently sway, and birds return to their nests.
+4. Output: 
+Sun sets, golden lake
+Soft breeze causes calm ripples
+Trees sway, birds find nests
+###
+5. Instruction: Translate the following English text into Spanish.
+5. Input: 
+The sun rises on a new day, bringing warmth and hope. The birds start their cheerful songs and the flowers slowly open their petals.
+5. Output: 
+El sol sale en un nuevo día, trayendo calor y esperanza. Los pájaros comienzan sus alegres canciones y las flores abren lentamente sus pétalos.
+###
+6. Instruction: Summarize the main points of the given text.
+6. Input: 
+Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits on the sides of the head, and pectoral fins that are not fused to the head. Modern sharks are classified within the clade Selachimorpha and are the sister group to the rays. However, the term "shark" has also been used for extinct members of the subclass Elasmobranchii outside the Selachimorpha, such as Cladoselache and Xenacanthus, as well as other Chondrichthyes such as the holocephalid eugenedontidans. Etymologically, Sharks derive their name from the German Schorck and the Old English sceorc.
+6. Output: 
+Sharks are cartilaginous fish with five to seven gill slits and unfused pectoral fins. They are related to rays and are part of the clade Selachimorpha. The term "shark" also refers to extinct members of the subclass Elasmobranchii and other Chondrichthyes. The word "shark" is derived from German and Old English origins.
+###
+7. Instruction: Imagine walking onto a spaceship, what do you find inside?
+7. Input: 
+<noinput>
+7. Output: 
+Inside the spaceship, I find a sleek and modern control panel filled with glowing buttons and touchscreens. The walls are lined with advanced equipment and storage compartments, while the ceiling contains efficient LED lighting. Comfortable seats are placed strategically throughout the cabin, facing large windows revealing the vastness of space. In the center of the spaceship, there is a holographic map detailing our current location and trajectory. The air is filled with a faint hum from the engines, and the atmosphere is both eerie and awe-inspiring.

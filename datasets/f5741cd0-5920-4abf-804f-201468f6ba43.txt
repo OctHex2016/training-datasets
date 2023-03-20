@@ -1,0 +1,127 @@
+4. Instruction: Rewrite the given sentence in a more diplomatic and polite tone.
+4. Input:
+You were wrong about the sales figures.
+4. Output:
+It seems there might have been a discrepancy in the sales figures we discussed.
+
+###
+5. Instruction: Please format the given text into bullet points.
+5. Input:
+Reduce waste, take shorter showers, use energy-efficient appliances, plant a tree, turn off electronics when not in use, eat less meat, use reusable bags.
+5. Output:
+- Reduce waste
+- Take shorter showers
+- Use energy-efficient appliances
+- Plant a tree
+- Turn off electronics when not in use
+- Eat less meat
+- Use reusable bags
+
+###
+6. Instruction: Based on the given movie title and synopsis, create a tagline to entice viewers.
+6. Input:
+Title: "The Great Awakening"
+Synopsis: "A scientist discovers a cure for a rare sleep disorder, only to find out the dire consequences it will bring to humanity."
+6. Output:
+Awake to a world of unforeseen consequences.
+
+###
+7. Instruction: Summarize the following text into one concise sentence.
+7. Input:
+The main objectives of the health department's new program are to reduce the prevalence of childhood obesity, increase immunization rates, and improve overall mental health services for children and adolescents.
+7. Output:
+The health department's new program aims to combat childhood obesity, boost immunization, and enhance mental health support for young individuals.
+
+###
+8. Instruction: Using the provided data, determine the winner of the game based on who scored more points.
+8. Input:
+Team A: 34 points
+Team B: 28 points
+8. Output:
+Team A
+
+###
+9. Instruction: Recommend an appropriate musical instrument for a person interested in playing classical music and wanting to start their music journey.
+9. Input:
+<noinput>
+9. Output:
+I recommend starting with the piano, as it provides a strong foundation in music theory and is suitable for classical music.
+
+###
+10. Instruction: Find the thesis statement in the following paragraph.
+10. Input:
+Our society has a major issue with disposable consumer culture. Many people purchase items, use them minimally, and then throw them away, adding to the current waste problem. The overconsumption and inadequacy of recycling methods are major contributors to environmental pollution. By embracing a more minimalist lifestyle and a reduction in consumption, we can work towards preserving our planet for future generations.
+10. Output:
+The overconsumption and inadequacy of recycling methods are major contributors to environmental pollution.
+
+###
+11. Instruction: Please suggest a suitable color scheme based on the image description.
+11. Input:
+A peaceful beach scene during sunset, with gentle waves and striking clouds in the sky.
+11. Output:
+A color scheme of soft oranges, warm yellows, and calm blues would be suitable for this image.
+
+###
+12. Instruction: Given the ingredients, suggest what type of dish can be made.
+12. Input:
+Carrots, potatoes, onions, tomatoes, green peas, bread crumbs, and vegetable broth.
+12. Output:
+A hearty vegetable stew or casserole.
+
+###
+13. Instruction: Classify the given activity as either aerobic or anaerobic exercise.
+13. Input:
+High-intensity interval training (HIIT)
+13. Output:
+Aerobic
+
+###
+14. Instruction: Identify and correct any grammatical error in the following sentence.
+14. Input:
+He is confident, considerate, and have a great sense of humor.
+14. Output:
+He is confident, considerate, and has a great sense of humor.
+
+###
+15. Instruction: Write a brief overview of the main benefits of practicing yoga daily.
+15. Input:
+<noinput>
+15. Output:
+Daily yoga practice promotes mental and physical well-being, increases flexibility, strengthens muscles, improves posture, and reduces stress and anxiety.
+
+###
+16. Instruction: Compose a haiku about the beauty of nature.
+16. Input:
+<noinput>
+16. Output:
+Leaves gently falling,
+Streams meandering below,
+Nature's symphony.
+
+###
+17. Instruction: Answer the riddle: What has keys but can't open locks?
+17. Input:
+<noinput>
+17. Output:
+A piano.
+
+###
+18. Instruction: Offer an alternative phrase for "every cloud has a silver lining."
+18. Input:
+<noinput>
+18. Output:
+In every misfortune, there's an opportunity for growth.
+
+###
+19. Instruction: Edit the given phrase to make it less colloquial and more formal.
+19. Input:
+It's raining cats and dogs outside.
+19. Output:
+There is heavy rain outside.
+
+###
+20. Instruction: Predict a future technological advancement based on the given context.
+20. Input:
+The world has seen rapid developments in artificial intelligence, robotics, and virtual reality.
+20. Output:
+In the future, we could see the integration of advanced AI in daily life with intelligent personal assistants, capable of empathetic interactions and personalized decision-making assistance.

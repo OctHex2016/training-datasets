@@ -1,0 +1,155 @@
+4. Instruction: Design a vegetarian meal plan for 3 days.
+4. Input: 
+<noinput>
+4. Output:
+Day 1:
+Breakfast: Oatmeal with berries and almond milk
+Lunch: Chickpea salad with whole-grain bread
+Dinner: Spaghetti with marinara sauce, garlic bread, and steamed broccoli
+
+Day 2: 
+Breakfast: Avocado toast and a green smoothie
+Lunch: Rice and bean burritos with guacamole
+Dinner: Stuffed bell peppers with quinoa, mushrooms, and spinach
+
+Day 3:
+Breakfast: Fruit salad with chia pudding
+Lunch: Lentil soup with a mixed green salad
+Dinner: Eggplant parmesan with roasted vegetables
+
+###
+5. Instruction: Explain the difference between absolute and relative humidity.
+5. Input: 
+<noinput>
+5. Output: 
+Absolute humidity is the actual amount of water vapor present in a specific volume of air, generally expressed in grams per cubic meter. Relative humidity, on the other hand, is the ratio of the current amount of water vapor in the air compared to the maximum amount of water vapor the air could hold at a given temperature, expressed as a percentage. Relative humidity is dependent on both the moisture content and the air temperature, while absolute humidity only considers the moisture content.
+
+###
+6. Instruction: Convert the given passage to plain language.
+6. Input:
+The incision of the brachial artery elicited a gory effusion of crimson fluid, which necessitated the swift application of a hemostatic tourniquet to staunch the flow and mitigate any further hemodynamic compromise.
+6. Output:
+The cut in the arm artery caused a lot of blood to gush out. A tight band was quickly put on the arm to stop the bleeding and to prevent further blood flow problems.
+
+###
+7. Instruction: Correct the grammatical errors in the following paragraph.
+7. Input:
+Me and my sister loves to listen music together. She enjoy indie and rock bands, while my favorites is pop and R&B. Where we have different music taste, we both love going to live concerts and immersive onself in the experience.
+7. Output:
+My sister and I love to listen to music together. She enjoys indie and rock bands, while my favorite genres are pop and R&B. Although we have different music tastes, we both love going to live concerts and immersing ourselves in the experience.
+
+###
+8. Instruction: Classify the given email as spam or not spam.
+8. Input:
+Subject: Congratulation!!! You've won $10,000 in Cash!
+Body: Hey Friend, We know you'll be thrilled to hear that you've won our exclusive $10,000 cash prize! All you need to do is click the link below to claim your reward. Hurry – this offer is available for a limited time only!
+8. Output:
+Spam
+
+###
+9. Instruction: Write a brief summary of the article below.
+9. Input: 
+Scientists at the University of California have made a breakthrough in the field of artificial photosynthesis, developing a new process that could potentially turn carbon dioxide (CO2) into useful organic compounds, such as plastics and fuels. Using a unique nanowire-bacteria hybrid system, this process imitates natural photosynthesis and converts sunlight, water, and CO2 into the desired chemical products. The researchers believe that this technology could help mitigate climate change by reducing the increasing atmospheric CO2 levels and supporting the development of renewable energy solutions.
+9. Output:
+Researchers at the University of California have developed an artificial photosynthesis process that can convert carbon dioxide into useful organic materials like plastics and fuels. Using a nanowire-bacteria hybrid system, the process mimics natural photosynthesis and utilizes sunlight, water, and CO2. This breakthrough could help address climate change by reducing atmospheric CO2 levels and advancing renewable energy solutions.
+
+###
+10. Instruction: Compose a short poem about a beautiful sunset.
+10. Input:
+<noinput>
+10. Output:
+Golden rays stretch across the sky,
+Painting clouds with hues of orange and red,
+A gentle breeze whispers a lullaby,
+As the sun begins its descent to bed.
+
+The ocean dances with waves of light,
+A fiery romance before nightfall,
+Colors dancing before the twilight,
+The sunset a masterpiece, entrancing all.
+
+###
+11. Instruction: What are the usual symptoms of the common cold? List at least five.
+11. Input:
+<noinput>
+11. Output:
+1. Sneezing
+2. Runny or stuffy nose
+3. Sore throat
+4. Cough
+5. Headache
+
+###
+12. Instruction: Paraphrase the given sentence.
+12. Input:
+Failure to adequately review the case could result in wasted resources and inefficiencies in the eventual implementation of the project.
+12. Output:
+Insufficient examination of the case may lead to squandering resources and ineffective execution of the project.
+
+###
+13. Instruction: Check the given statement for facts and bias.
+13. Input: 
+Nobody truly cares about climate change, as all political parties have failed to take any significant action in the past few years.
+13. Output: 
+This statement contains both a fact and a bias. The fact is that political parties may have failed to take significant action regarding climate change in the past few years. The bias lies in the generalization that "nobody truly cares" about climate change, which cannot be proven and overlooks the efforts made by individuals and organizations around the world.
+
+###
+14. Instruction: Identify three external factors that could affect a small business.
+14. Input:
+<noinput>
+14. Output:
+1. Economic conditions (economic growth, recession, inflation, etc.)
+2. Government regulations and policies (taxes, licensing requirements, labor laws, etc.)
+3. Market trends and consumer preferences
+
+###
+15. Instruction: Compose a tweet to announce a new product release.
+15. Input:
+Product name: EcoGlow Light Bulbs
+Features: energy-efficient, long-lasting, and affordable
+Release date: September 10th
+15. Output:
+Introducing the EcoGlow Light Bulbs! 🔆 Save energy, money, and the environment with these long-lasting and affordable bulbs! Get ready for brighter days ahead - launching September 10th. ✨ #EcoGlow #EnergyEfficiency #GoGreen
+
+###
+16. Instruction: Explain the term "opportunity cost" and provide an example.
+16. Input:
+<noinput>
+16. Output:
+Opportunity cost refers to the value of the next best alternative forgone when making a decision or choosing one option over another. It represents the potential benefits an individual, business, or economy misses out on when choosing a particular course of action. For example, if you decide to watch a movie instead of studying for an exam, the opportunity cost is the potential higher grade you could have achieved had you spent that time studying.
+
+###
+17. Instruction: Detect the logical fallacy in the following argument.
+17. Input:
+Environmental activists are against oil drilling because they are anti-business and want to see companies fail.
+17. Output:
+This argument contains the "straw man" fallacy, as it misrepresents the position of the environmental activists. The activists are likely to be against oil drilling due to environmental concerns and not because they are anti-business or wish to see companies fail.
+
+###
+18. Instruction: List three advantages and three disadvantages of eCommerce for businesses.
+18. Input:
+<noinput>
+18. Output:
+Advantages:
+1. Wider customer reach
+2. Lower overhead costs
+3. Easier access to analytics and customer data
+
+Disadvantages:
+1. Increased competition
+2. Difficulties in building trust with customers
+3. High dependence on the internet and technology
+
+###
+19. Instruction: Write a convincing counter-argument to the statement below.
+19. Input:
+There is no point in recycling because it consumes a lot of energy and resources, and only a small percentage of the waste actually gets recycled.
+19. Output:
+While recycling may require energy and resources, it remains an essential practice for conserving natural resources, reducing landfill space, and cutting down on greenhouse gas emissions. Recycling not only saves raw materials and helps in the production of new products with less energy consumption, but it also generates job opportunities in the recycling industry. Furthermore, increasing recycling rates and improving recycling infrastructure can help address the limitations you mentioned, and create a more sustainable and environmentally-friendly waste management system.
+
+###
+20. Instruction: Write a motivational quote to help someone stay focused on their goals.
+20. Input:
+<noinput>
+20. Output:
+"Never allow distractions to become roadblocks; keep your eyes fixed on the horizon, and you'll reach your destination with unwavering determination."

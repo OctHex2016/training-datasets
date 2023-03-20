@@ -1,0 +1,110 @@
+4. Instruction: Summarize the following paragraph in one sentence.
+4. Input:
+In 1985, a sinkhole developed within the Winter Park area in Florida, which resulted in extensive damage to the surrounding residential area, including collapsing a portion of the city's main street. It was initially estimated to be about 25 feet deep, but over time, it grew to a depth of around 350 feet. The sinkhole's formation was attributed to the dissolution of the underlying limestone bedrock, which was exacerbated by heavy groundwater pumping in the area for water supply purposes.
+4. Output:
+A sinkhole in Winter Park, Florida, damaging the residential area and main street, was caused by the dissolution of limestone bedrock and exacerbated by heavy groundwater pumping in 1985.
+
+5. Instruction: Create a rhyming couplet about friendship.
+5. Input:
+<noinput>
+5. Output:
+In life's journey, a friend does appease,
+Together we laugh, grow, and sail troubled seas.
+
+6. Instruction: Identify the type of logical fallacy in the provided argument.
+6. Input:
+Many people love chocolate ice cream, so it must be the best flavor in the world.
+6. Output:
+Bandwagon fallacy
+
+7. Instruction: Rewrite the given sentence in passive voice.
+7. Input:
+I am reading a book.
+7. Output:
+A book is being read by me.
+
+8. Instruction: Explain the term "opportunity cost" in economics.
+8. Input:
+<noinput>
+8. Output:
+Opportunity cost is the value of the next best alternative forgone when making a decision in economics, representing the benefits an individual or business misses out on when choosing one option over another.
+
+9. Instruction: Provide three examples of renewable energy sources.
+9. Input:
+<noinput>
+9. Output:
+1. Solar energy
+2. Wind energy
+3. Hydro power
+
+10. Instruction: Translate the following sentence from English to French.
+10. Input:
+I am going to the supermarket.
+10. Output:
+Je vais au supermarché.
+
+11. Instruction: Explain the main difference between HTTP and HTTPS protocols.
+11. Input:
+<noinput>
+11. Output:
+The main difference between HTTP and HTTPS is that HTTPS provides an additional layer of security through encryption, while HTTP does not.
+
+12. Instruction: Describe the structure of a haiku poem.
+12. Input:
+<noinput>
+12. Output:
+A haiku poem consists of three lines, where the first line has 5 syllables, the second line has 7 syllables, and the third line has 5 syllables.
+
+13. Instruction: Convert the following sentence from past tense to present tense.
+13. Input:
+The cat jumped on the table.
+13. Output:
+The cat jumps on the table.
+
+14. Instruction: Provide a short definition of "photosynthesis."
+14. Input:
+<noinput>
+14. Output:
+Photosynthesis is a process used by plants and certain organisms to convert sunlight, carbon dioxide, and water into glucose and oxygen, which they use as energy.
+
+15. Instruction: Identify the theme of the following quote.
+15. Input:
+"Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light." - Dylan Thomas
+15. Output:
+Resistance to aging and the inevitability of death
+
+16. Instruction: Highlight an example of personification in the following sentence.
+16. Input:
+The sun smiled down on the flowers, and they danced in the gentle breeze.
+16. Output:
+The sun smiled down on the flowers.
+
+17. Instruction: Come up with a creative name for a vegan food truck.
+17. Input:
+<noinput>
+17. Output:
+Plant-Powered Grub Hub
+
+18. Instruction: Write a compelling opening sentence for a mystery novel.
+18. Input:
+<noinput>
+18. Output:
+On the night of the full moon, the sudden silence in the woods was broken by a sound no one in the small town could ever forget.
+
+19. Instruction: Sketch out a rough schedule and decide the order for three TEDx talk topics.
+19. Input:
+1. The future of biofuels and sustainable energy
+2. The impact of social media on mental health
+3. Urban farming and food security
+19. Output:
+1. 9:00 - 9:30 am: Urban farming and food security
+2. 9:45 - 10:15 am: The future of biofuels and sustainable energy
+3. 10:30 - 11:00 am: The impact of social media on mental health
+
+20. Instruction: Name three characteristics of Gothic architecture.
+20. Input:
+<noinput>
+20. Output:
+1. Pointed arches
+2. Ribbed vaults
+3. Flying buttresses

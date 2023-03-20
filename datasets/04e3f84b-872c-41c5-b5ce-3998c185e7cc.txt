@@ -1,0 +1,117 @@
+4. Instruction: Rewrite the given sentence using passive voice. 
+4. Input: 
+The dog chased the cat.
+4. Output: 
+The cat was chased by the dog.
+###
+5. Instruction: Provide a brief summary of the given text. 
+5. Input: 
+In the novel Pride and Prejudice, English author Jane Austen tells the story of the spirited Elizabeth Bennet and her family. Set in the rural countryside of England in the early 19th century, the novel revolves around the societal expectations surrounding marriage during that time. Elizabeth's strong personality clashes with the arrogant Mr. Darcy, which initially leads to misunderstandings and mutual dislike but eventually evolves into a complex bond between the two main characters. The novel examines themes of pride, prejudice, love, and social class.
+5. Output: 
+Pride and Prejudice is a novel by Jane Austen set in early 19th-century rural England, in which the story revolves around societal expectations of marriage. It follows the relationship between Elizabeth Bennet, a strong-willed young woman, and the arrogant Mr. Darcy, exploring themes of pride, prejudice, love, and social class.
+###
+6. Instruction: Define the term in simple language.
+6. Input: 
+gravity
+6. Output: 
+Gravity is a force that attracts two objects towards each other. It's the reason we stay on the ground and don't float away.
+###
+7. Instruction: Correct the grammar mistakes in the given sentence. 
+7. Input: 
+Me and him were at the park yesterday, there was much peoples there.
+7. Output: 
+He and I were at the park yesterday, and there were many people there.
+###
+8. Instruction: Suggest three possible titles for a science fiction book. 
+8. Input: 
+<noinput>
+8. Output: 
+1. Stars Beyond Infinity
+2. The Quantum Paradox
+3. Echoes of a Distant Galaxy
+###
+9. Instruction: Translate the given sentence into informal everyday English. 
+9. Input: 
+The individual is not currently available to engage in conversation.
+9. Output: 
+They're not here right now to talk.
+###
+10. Instruction: List five ways for a person to reduce their carbon footprint. 
+10. Input: 
+<noinput>
+10. Output: 
+1. Use public transportation, carpool, or bike instead of driving alone
+2. Consume less energy by turning off lights and appliances when not in use
+3. Practice energy-efficient shopping, such as buying locally produced goods and using reusable bags
+4. Reduce meat consumption and choose a plant-based diet
+5. Plant trees or support reforestation efforts
+###
+11. Instruction: Provide a recommendation for a healthy breakfast.
+11. Input: 
+<noinput>
+11. Output: 
+A healthy breakfast option is Greek yogurt with mixed berries, whole grain toast with avocado, and a glass of freshly squeezed orange juice.
+###
+12. Instruction: Suggest three diverse strategies for stress management. 
+12. Input: 
+<noinput>
+12. Output: 
+1. Meditate or practice mindfulness exercises
+2. Exercise regularly, such as going for a walk or attending a yoga class
+3. Connect with friends and family for emotional support and share your feelings
+###
+13. Instruction: Explain the given proverb in your own words. 
+13. Input: 
+Don't count your chickens before they're hatched.
+13. Output: 
+Don't assume that you will achieve success or have something before it's actually earned or obtained.
+###
+14. Instruction: Write a response to the given customer complaint. 
+14. Input: 
+I ordered a product from your website last week and I still haven't received a confirmation email, nor the product itself. This is extremely frustrating and I would like a refund.
+14. Output: 
+Dear customer, we apologize for the inconvenience you have experienced. We understand how frustrating this situation must be. Please provide your order number so that our team can investigate the issue further and take the necessary steps to resolve it, which may include issuing a refund. We appreciate your patience and understanding.
+###
+15. Instruction: Identify what literary device is used in the given sentence. 
+15. Input: 
+Time flies like an arrow.
+15. Output: 
+Simile
+###
+16. Instruction: Briefly describe the major functions of the given organ. 
+16. Input: 
+heart
+16. Output: 
+The heart is responsible for pumping blood throughout the body, supplying oxygen and nutrients to tissues, and removing waste products like carbon dioxide.
+###
+17. Instruction: Provide three examples of the given fact. 
+17. Input: 
+Countries with a high GDP
+17. Output: 
+1. United States of America
+2. China
+3. Japan
+###
+18. Instruction: Brainstorm five potential topics to cover in a high school biology class. 
+18. Input: 
+<noinput>
+18. Output: 
+1. Cell structure and functions
+2. Genetics and heredity
+3. Theory of evolution
+4. Human anatomy and physiology
+5. Ecology and ecosystems
+###
+19. Instruction: Outline three key steps to writing an effective academic essay. 
+19. Input: 
+<noinput>
+19. Output: 
+1. Plan and organize your thoughts by creating a thorough outline
+2. Write a clear and concise thesis statement to guide your essay
+3. Develop strong supporting arguments, evidence, and examples for your main points
+###
+20. Instruction: Explain the historical significance of the given event. 
+20. Input: 
+American Civil War
+20. Output: 
+The American Civil War was a significant event in U.S. history as it resulted in the end of slavery, preserved the Union, and led to constitutional amendments that recognized the civil rights of all individuals, regardless of race. It also led to a significant loss of life and economic disruption.

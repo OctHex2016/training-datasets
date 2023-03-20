@@ -1,0 +1,136 @@
+4. Instruction: Identify the thesis statement in the given paragraph.
+4. Input: 
+Despite the advancement of digital technology, there are still instances where writing by hand offers a unique advantage. The process of composing thoughts and transferring them onto paper requires a higher level of mental effort than simply typing on a keyboard. Hence, people who write by hand can develop a more profound understanding of the material they are writing. Moreover, writing by hand has been associated with increased creativity and memory retention compared to typing.
+
+4. Output: 
+The process of composing thoughts and transferring them onto paper requires a higher level of mental effort than simply typing on a keyboard.
+
+5. Instruction: Translate the given sentence into French.
+5. Input: 
+Thank you for helping me with my project. I couldn't have done it without you.
+
+5. Output: 
+Merci de m'avoir aidé avec mon projet. Je n'aurais pas pu le faire sans toi.
+
+6. Instruction: Compare the speed of sound with the speed of light.
+6. Input: 
+<noinput>
+
+6. Output: 
+The speed of sound is approximately 343 meters per second in air at room temperature, while the speed of light is much faster, about 300,000 kilometers per second in a vacuum.
+
+7. Instruction: Which political party does the given politician belong to?
+7. Input: 
+Barack Obama
+
+7. Output: 
+Barack Obama belongs to the Democratic Party.
+
+8. Instruction: Elaborate on the importance of utilizing renewable energy sources.
+8. Input: 
+<noinput>
+
+8. Output: 
+Utilizing renewable energy sources, such as solar, wind, and hydroelectric power, is important because they provide clean, sustainable energy with minimal greenhouse gas emissions. This helps reduce our dependence on fossil fuels and combats global warming, protecting the environment and preserving natural resources for future generations.
+
+9. Instruction: Proofread and correct the given sentence. 
+9. Input: 
+There alot of reasons to stay up late, but priorioritizing sleep is crutial to overall good heath.
+
+9. Output: 
+There are a lot of reasons to stay up late, but prioritizing sleep is crucial to overall good health.
+
+10. Instruction: Identify the logical fallacy in the given argument.
+10. Input: 
+You should stop drinking coffee—if you don't, you'll never be able to sleep at night.
+
+10. Output: 
+Slippery Slope Fallacy.
+
+11. Instruction: Compose a haiku about nature.
+11. Input: 
+<noinput>
+
+11. Output: 
+Whispering green leaves,
+Flowing rivers, mountains high,
+Nature breathes, alive.
+
+12. Instruction: List down five famous painters and their country of origin.
+12. Input: 
+<noinput>
+
+12. Output: 
+1. Leonardo da Vinci - Italy
+2. Vincent van Gogh - Netherlands
+3. Pablo Picasso - Spain
+4. Frida Kahlo - Mexico
+5. Salvador Dalí - Spain
+
+13. Instruction: Suggest good quality microphones for a home recording studio.
+13. Input: 
+<noinput>
+
+13. Output: 
+1. Audio-Technica AT2020
+2. Rode NT1-A
+3. Shure SM7B
+4. Neumann TLM 102
+5. AKG C214
+
+14. Instruction: Generate three possible names for a new brand of running shoes.
+14. Input: 
+<noinput>
+
+14. Output: 
+1. SwiftStride
+2. PaceRacers
+3. MomentumMakers
+
+15. Instruction: Evaluate the significance of the Egyptian pyramids in archaeological history.
+15. Input: 
+<noinput>
+
+15. Output: 
+The Egyptian pyramids hold great significance in archaeological history as they represent ancient engineering marvels and serve as remarkable landmarks of one of the most influential civilizations in human history. Moreover, they provide essential insight into the spiritual beliefs, afterlife rituals, and technological advancements of the Old and Middle Kingdoms.
+
+16. Instruction: Rephrase the given sentence for better clarity.
+16. Input: 
+Though the upcoming changes may cause you a temporary sense of disorientation, they will lead to improvements in the long run.
+
+16. Output: 
+While you might feel temporarily disoriented by the upcoming changes, they will ultimately result in long-term improvements.
+
+17. Instruction: What does the idiom "barking up the wrong tree" mean?
+17. Input: 
+<noinput>
+
+17. Output: 
+The idiom "barking up the wrong tree" means pursuing a mistaken or misguided course of action, or looking for answers in the wrong place.
+
+18. Instruction: Suggest a healthy dinner option for someone with a nut allergy.
+18. Input: 
+<noinput>
+
+18. Output: 
+Grilled lemon herb chicken or tofu served with steamed vegetables, a side of quinoa or brown rice, and a portion of mixed greens salad with an olive oil and vinegar dressing.
+
+19. Instruction: Analyze the given marketing data and give insights on consumer preferences.
+19. Input: 
+Last month, our store sold 72 iPads, 80 iPhones, and 38 Apple Watches. There was an increase in iPhone sales after a promotional offer was introduced. Customers preferred choosing iPhone 12 over 11 and opted for devices with higher storage capacities. 
+
+19. Output: 
+The given marketing data shows that iPhones were the most popular product among customers, with sales likely influenced by the promotional offer. Consumer preferences leaned towards the newer iPhone 12 model and devices offering more storage capacity, indicating that customers valued up-to-date technology and greater storage space.
+
+20. Instruction: Provide tips on saving money while grocery shopping.
+20. Input: 
+<noinput>
+
+20. Output: 
+1. Plan your meals and make a detailed shopping list.
+2. Buy in bulk and purchase long-lasting staple items.
+3. Look for deals and discounts online or in newspapers.
+4. Choose generic or store brand products over name brands.
+5. Buy seasonal produce to get better quality and pricing.
+6. Limit impulse buys and stick to your shopping list.
+7. Consider shopping at discount or wholesale stores.

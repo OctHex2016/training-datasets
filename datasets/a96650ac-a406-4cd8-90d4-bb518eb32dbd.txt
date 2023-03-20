@@ -1,0 +1,171 @@
+4. Instruction: Rewrite the given sentence as a question. 
+4. Input: 
+They climbed the mountain last weekend.
+4. Output: 
+Did they climb the mountain last weekend?
+
+###
+5. Instruction: Summarize the key information in the given paragraph.
+5. Input: 
+The novel coronavirus (COVID-19) outbreak became a global pandemic in early 2020. COVID-19 is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The virus primarily spreads through respiratory droplets and can also be transmitted by touching a contaminated surface and then touching the face. Common symptoms include fever, cough, and difficulty breathing, though many cases are asymptomatic. To prevent spreading, frequent handwashing, social distancing, and wearing masks are recommended.
+5. Output: 
+The COVID-19 pandemic began in early 2020 and is caused by the SARS-CoV-2 virus. It spreads through respiratory droplets and contact with contaminated surfaces. Common symptoms are fever, cough, and breathing difficulties, but some cases are asymptomatic. Prevention includes handwashing, social distancing, and wearing masks.
+
+###
+6. Instruction: Provide the opening hours for a hypothetical ice cream shop based on the given conditions.
+6. Input: 
+Conditions: The ice cream shop is open every day, but it opens an hour later on Sundays. It closes at 10 pm from Monday to Thursday and at 11 pm from Friday to Sunday.
+6. Output: 
+Monday-Thursday: Open 9 am - 10 pm
+Friday-Saturday: Open 9 am - 11 pm
+Sunday: Open 10 am - 11 pm
+
+###
+7. Instruction: Convert the given passage into bullet points.
+7. Input: 
+Renowned astrophysicist Stephen Hawking was born on January 8, 1942, in Oxford, England. He attended Oxford University, where he studied physics and went on to complete his PhD at the University of Cambridge. Hawking's work on black holes and the Big Bang theory played a significant role in shaping our understanding of the universe. He became famous for writing the best-selling book A Brief History of Time, which has sold over 10 million copies. Stephen Hawking passed away on March 14, 2018.
+7. Output: 
+- Born on January 8, 1942, in Oxford, England.
+- Attended Oxford University (studied physics) and University of Cambridge (PhD).
+- Research focused on black holes and Big Bang theory.
+- Author of best-selling book A Brief History of Time (over 10 million copies sold).
+- Passed away on March 14, 2018.
+
+###
+8. Instruction: Identify the genre of the provided book synopsis.
+8. Input: 
+In a world where magic is tightly controlled, a young woman named Valya discovers her unique ability to wield powerful spells. With the help of her mentor and a ragtag group of unlikely allies, Valya must hone her skills and uncover the truth about her past, all while evading the watchful gaze of the wizarding authorities and a mysterious assassin.
+8. Output: 
+Fantasy
+
+###
+9. Instruction: Translate the English sentence to French.
+9. Input: 
+She likes to read books near the lake on Sundays.
+9. Output: 
+Elle aime lire des livres près du lac le dimanche.
+
+###
+10. Instruction: What are the pros and cons of the proposed solution?
+10. Input: 
+Proposed solution: Implementing a four-day workweek where employees work longer hours during those four days.
+10. Output: 
+Pros:
+- Improved work-life balance.
+- Increased employee productivity and morale.
+- Reduced stress and burnout.
+- Potential cost savings on utilities in the workplace.
+
+Cons:
+- Longer working hours on working days.
+- Challenges coordinating with clients/customers on the off day.
+- Potential work overload during the four working days.
+- May not be suitable for all industries.
+
+###
+11. Instruction: Write a thank you email to your roommate for looking after your pet while you were on vacation.
+11. Input: <noinput>
+11. Output: 
+Subject: Thank You for Looking After Mr. Whiskers!
+
+Dear [Roommate's Name],
+
+I just wanted to take a moment to express my gratitude for taking care of Mr. Whiskers while I was on vacation. It brings me so much peace of mind knowing that he was in good hands during my absence.
+
+Your kindness and attentiveness to his needs made it possible for me to enjoy my trip without any worries. I hope Mr. Whiskers didn't give you too much trouble!
+
+Once again, thank you for being an amazing roommate and an even better friend. If there's ever anything I can do to return the favor, please don't hesitate to ask.
+
+Warmest regards,
+[Your Name]
+
+###
+12. Instruction: Suggest three ways to become more environmentally friendly at home.
+12. Input: <noinput>
+12. Output: 
+1. Reduce, reuse, and recycle household waste.
+2. Save energy by turning off appliances when not in use and switching to energy-efficient lightbulbs.
+3. Conserve water by fixing leaks, using a rain barrel for gardening, and installing a low-flow showerhead.
+
+###
+13. Instruction: Provide the nutritional value of one serving (100g) of cooked brown rice, including calories, carbohydrates, protein, and fat.
+13. Input: <noinput>
+13. Output: 
+One serving (100g) of cooked brown rice:
+- Calories: 111 kcal
+- Carbohydrates: 23 g
+- Protein: 2.6 g
+- Fat: 0.9 g
+
+###
+14. Instruction: Write a brief formal invitation for an exhibition opening.
+14. Input: 
+<i>Exhibition Name: "Vibrant Hues: A Celebration of Color" 
+Date: October 25, 2023 
+Time: 7 pm to 9 pm</i>
+14. Output: 
+Subject: Invitation to "Vibrant Hues: A Celebration of Color" Exhibition Opening
+
+Dear [Recipient's Name],
+
+We are honored to cordially invite you to the opening of our exhibition "Vibrant Hues: A Celebration of Color" on October 25, 2023, from 7 pm to 9 pm.
+
+Please join us for an evening of art, conversation, and light refreshments as we celebrate the artists and their exceptional work. We look forward to sharing this special occasion with you.
+
+Kindly RSVP by October 15, 2023, to confirm your attendance.
+
+With warm regards,
+[Your Name and Title]
+
+###
+15. Instruction: Sum up the given product description in one sentence.
+15. Input: 
+The NutriBlaze Pro is a high-performance blender equipped with a powerful 1200-watt motor and pre-programmed settings that make it easy to prepare smoothies, soups, nut butters, and more by simply selecting the desired function. Its stainless steel blades can easily crush ice and blend even the toughest ingredients, making it the perfect kitchen companion for those seeking healthier and more versatile meal options.
+15. Output: 
+The NutriBlaze Pro is a 1200-watt blender with pre-programmed settings and stainless steel blades, ideal for smoothies, soups, nut butters, and more.
+
+###
+16. Instruction: Write a limerick about a man who won the lottery.
+16. Input: <noinput>
+16. Output: 
+There once was a man from the city,
+Who suddenly came into plenty.
+He won the grand prize,
+Right in front of his eyes,
+And his life became happy and witty.
+
+###
+17. Instruction: Elaborate on why the statement is incorrect.
+17. Input: 
+Statement: The Sahara Desert is located in South America.
+17. Output: 
+The statement is incorrect because the Sahara Desert is not located in South America. Instead, it is situated in North Africa, stretching across several countries, including Algeria, Chad, Egypt, Libya, Mali, Mauritania, Morocco, Niger, Sudan, and Tunisia.
+
+###
+18. Instruction: Find three rhyming words for the given word and write a sentence using each of them.
+18. Input: 
+Word: throne
+18. Output: 
+1. Rhyming word: alone
+Sentence: He sat alone, reflecting on the day's events.
+
+2. Rhyming word: phone
+Sentence: She picked up the phone to share the good news with her friend.
+
+3. Rhyming word: stone
+Sentence: The ancient building was made of weathered stone, a testament to its history and resilience.
+
+###
+19. Instruction: Explain the difference between the two economic systems in simple terms.
+19. Input: 
+Capitalism vs socialism
+19. Output: 
+In simple terms, capitalism is an economic system based on private ownership, where individuals and businesses compete for profit. On the other hand, socialism emphasizes public ownership and the equitable distribution of resources, with the government playing a larger role in controlling the economy and providing social services.
+
+###
+20. Instruction: Rate the given movie on a scale of 1 to 5, explaining the reasoning behind your rating.
+20. Input: 
+Movie: "The Adventures of Captain Marvel"
+Reason: Impressive visual effects, engaging plot, and memorable characters.
+20. Output: 
+Rating: 4/5 – "The Adventures of Captain Marvel" features impressive visual effects, an engaging plot, and memorable characters, making it an enjoyable film, although it may not be considered a groundbreaking masterpiece.

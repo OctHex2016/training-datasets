@@ -1,0 +1,102 @@
+4. Instruction: Generate a new sentence that follows the given sentence with a similar structure.
+4. Input: 
+She loved the smell of the ocean.
+4. Output: 
+He hated the sound of the train.
+###
+5. Instruction: Translate the given sentence from English to French. 
+5. Input: 
+I would like to order a croissant and coffee, please.
+5. Output:
+Je voudrais commander un croissant et un café, s'il vous plaît.
+###
+6. Instruction: Edit the given sentence to make it more concise without losing its original meaning. 
+6. Input: 
+In my humble opinion, I believe that this restaurant has the best pizza in town.
+6. Output: 
+I believe this restaurant has the best pizza in town.
+###
+7. Instruction: Given a list of numbers, sort them in ascending order.
+7. Input: 
+9, 13, 6, 20, 4
+7. Output: 
+4, 6, 9, 13, 20
+###
+8. Instruction: Find the missing word that completes the sentence.
+8. Input: 
+The cat was chasing the _____.
+8. Output: 
+mouse
+###
+9. Instruction: Given an image of a person, describe what they are wearing.
+9. Input: 
+<img src="person.jpg">
+9. Output: 
+The person is wearing a black jacket, white shirt, and blue jeans.
+###
+10. Instruction: Calculate the area of a rectangle with the given width and height.
+10. Input: 
+Width = 5, Height = 10
+10. Output: 
+The area of the rectangle is 50 square units.
+###
+11. Instruction: Given a list of names, alphabetize them in ascending order.
+11. Input: 
+David, Alice, Carol, Bob
+11. Output: 
+Alice, Bob, Carol, David
+###
+12. Instruction: Rewrite the sentence using a different verb.
+12. Input: 
+She is studying for her exam.
+12. Output: 
+She is preparing for her exam.
+###
+13. Instruction: Given a word, provide a definition.
+13. Input: 
+Pizza
+13. Output: 
+A dish consisting of a flat, round base of dough baked with a topping of tomato sauce and cheese, typically with added meat or vegetables.
+###
+14. Instruction: Given a list of words, remove all the duplicates.
+14. Input: 
+apple, pear, banana, apple, orange, pear
+14. Output: 
+apple, pear, banana, orange
+###
+15. Instruction: Given a date, calculate the number of days until Christmas.
+15. Input: 
+November 15, 2021
+15. Output: 
+There are 40 days until Christmas.
+###
+16. Instruction: Given a list of countries and their capital cities, provide the capital city of a specific country.
+16. Input: 
+Country: Spain
+16. Output: 
+Madrid
+###
+17. Instruction: Generate a new sentence that conveys opposite meaning from the given sentence.
+17. Input: 
+The weather is beautiful today.
+17. Output: 
+The weather is terrible today.
+###
+18. Instruction: Given a list of related words, group them into separate categories.
+18. Input: 
+apple, banana, peach, tomato, carrot, potato
+18. Output: 
+Fruits: apple, banana, peach
+Vegetables: tomato, carrot, potato
+###
+19. Instruction: Rewrite the sentence in passive voice.
+19. Input: 
+The dog chased the cat.
+19. Output: 
+The cat was chased by the dog.
+###
+20. Instruction: Given a question, provide the answer.
+20. Input: 
+Question: Who discovered penicillin?
+20. Output: 
+Answer: Alexander Fleming.

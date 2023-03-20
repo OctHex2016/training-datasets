@@ -1,0 +1,51 @@
+4. Instruction: Translate the following sentence to French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Convert the following recipe into a 3-day meal plan.
+5. Input: 
+Ingredients: 1 lb ground turkey, 2 cups cooked quinoa, 1 cup chopped kale, 1/2 cup diced red bell pepper, 1/4 cup chopped fresh cilantro,
+1/4 cup green onions, 1/4 cup feta cheese, salt and pepper.
+
+Instructions: In a large bowl, mix together all the ingredients. Add salt and pepper to taste.
+5. Output: 
+Day 1: Lunch - Ground turkey quinoa bowl with chopped kale, red bell pepper, cilantro, green onions, and feta cheese.
+
+Day 2: Dinner - Ground turkey quinoa stuffed bell pepper, served with a side of sautéed kale and green onions.
+
+Day 3: Lunch - Ground turkey quinoa salad with mixed greens, cilantro, diced red bell pepper, green onions, and feta cheese.
+###
+6. Instruction: Create a short poem about autumn.
+6. Input:
+<noinput>
+6. Output:
+A paintbrush held in nature's hand,
+Colors the world with hues so grand.
+Leaves of gold and crimson red,
+Autumn's magic, a season to be fed.
+
+Crisp and cool, the air so divine,
+In the scent of orchards, apples and pine.
+A pumpkin harvest under the moon,
+Autumn's beauty shall vanish soon.
+###
+7. Instruction: Evaluate the argument strengths and weaknesses.
+7. Input:
+Assigning homework is an ineffective educational tool because it puts undue stress on students, causing them to develop a negative attitude towards learning. As a result, their academic performance suffers.
+7. Output:
+Strengths: 
+1. Addresses the relationship between homework, stress, and student attitudes.
+2. Highlights the potential long-term impact of negative attitudes on academic performance.
+
+Weaknesses:
+1. Lacks evidence or data to support the claim.
+2. Does not consider potential benefits of homework in reinforcing learning or developing skills.
+3. Assumes a causal relationship between homework and stress, without considering other factors.
+###
+8. Instruction: Narrate a few lines in the perspective of a cat who is experiencing a beautiful day.
+8. Input:
+<noinput>
+8. Output:
+I wake from my slumber, stretching gracefully on this fine day. I approach the sunlit windowpane, as warm sun rays bathe over my silky coat. The sweet scent of blooming flowers awakens my senses. The enchanting chimes of rustling leaves fill the air above. Such a beautiful day to perch on this window sill... I ponder in delight before I doze off again.

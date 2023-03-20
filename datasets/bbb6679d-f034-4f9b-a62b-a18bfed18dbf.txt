@@ -1,0 +1,21 @@
+
+
+4. Instruction: Summarize the main points of the article. 
+4. Input: 
+Here is the article: 
+"New research shows that eating blueberries daily can reduce the risk of heart disease by 15%. The study, which was conducted over a period of 10 years, followed 2,000 participants and found that those who consumed at least 1 cup of blueberries per week had a 15% lower risk of developing heart disease."
+Source: Healthline
+4. Output: 
+The article states that eating blueberries on a daily basis can reduce the risk of heart disease by 15%. After following 2,000 participants for 10 years, those who consumed at least 1 cup of blueberries per week had a 15% lower risk of developing heart disease.
+###
+5. Instruction: Edit the following sentence to include a proper colon: "I have three favorite hobbies reading photography and cooking." 
+5. Input: 
+I have three favorite hobbies reading, photography and cooking. 
+5. Output: 
+I have three favorite hobbies: reading, photography, and cooking. 
+###
+6. Instruction: Complete the following sentence with the appropriate word: "I'm not sure if I should ___ this job offer." 
+6. Input: 
+<noinput>
+6. Output: 
+I'm not sure if I should accept this job offer.

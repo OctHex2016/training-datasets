@@ -1,0 +1,49 @@
+4. Instruction: Write an encouraging message for someone who wants to start their own business but is feeling nervous.
+4. Input:
+<noinput>
+4. Output:
+Believe in yourself and your unique idea. It's okay to feel nervous as starting a business can be a rollercoaster ride, but remember every successful entrepreneur has faced challenges too. Keep your vision strong, take small but consistent steps, learn from your mistakes and always keep moving forward. Surround yourself with supportive and like-minded individuals. Give yourself credit for taking the leap and have faith in your abilities. You've got this!
+
+###
+5. Instruction: Correct any grammatical errors in the following passage.
+5. Input:
+I loves hiking through the forest, especially during the fall when the leaves is starting to change colors. Last weekend, an friend and me hiked ten miles into the woods.
+5. Output:
+I love hiking through the forest, especially during the fall when the leaves are starting to change colors. Last weekend, a friend and I hiked ten miles into the woods.
+
+###
+6. Instruction: Translate the following sentence into French.
+6. Input:
+Please, bring me a glass of water.
+6. Output:
+S'il vous plaît, apportez-moi un verre d'eau.
+
+###
+7. Instruction: Write a synopsis for a mystery novel based on the given title.
+7. Input:
+The Lighthouse Keeper's Secret
+7. Output:
+Following the suspicious death of her reclusive uncle, amateur detective Caroline Worthington inherits his cliffside lighthouse property. Curious about her uncle's past, she uncovers a series of unexplained events and strange encounters. As she delves deeper, she discovers a darker history of the lighthouse keeper and an ominous secret hidden in the shadows. With danger lurking around every corner, Caroline must navigate a web of deceit, mistrust, and haunting clues to unravel an age-old mystery before it's too late.
+
+###
+8. Instruction: Find the incorrect word in the given sentence and replace it with the correct one.
+8. Input:
+Elephants are the aquatic mammals of the animal kingdom.
+8. Output:
+Elephants are the terrestrial mammals of the animal kingdom.
+
+###
+9. Instruction: Summarize the main controversy surrounding the given topic. 
+9. Input:
+Genetically modified organisms (GMOs) in agriculture
+9. Output:
+The controversy surrounding genetically modified organisms (GMOs) in agriculture mainly revolves around concerns about the potential health and environmental impacts of GMO crops. Critics argue that GMOs may pose unknown health risks to consumers and cause harm to the environment. Supporters believe that GMO technology can address food security issues, increase crop yields, and enhance resistance to disease and pests.
+
+###
+10. Instruction: List three tips for studying effectively.
+10. Input:
+<noinput>
+10. Output:
+1. Create a study schedule: Organize your time by setting specific hours for studying each day to stay consistent and focused.
+2. Use active learning techniques: Engage with the material in multiple ways, like taking notes, summarizing, teaching it to someone else, or creating flashcards.
+3. Take breaks and practice self-care: Give yourself regular breaks during your study sessions, ensuring proper sleep, nutrition, and exercise to boost mental and physical health.

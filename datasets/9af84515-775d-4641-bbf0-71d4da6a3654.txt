@@ -1,0 +1,46 @@
+4. Instruction: Translate "How are you?" to French.
+4. Input: 
+<noinput>
+4. Output: 
+Comment ça va?
+
+5. Instruction: In the given passage, replace repetitive words with similar words, using synonyms and rewrite the passage.
+5. Input: 
+She was very excited to see her grandma. She loved to hear her grandma's stories. After lunch, she quickly went up to her grandma's room and they spent hours talking. It was her favorite part of the day because spending time with her grandma always made her happy.
+5. Output:
+She was extremely enthusiastic about seeing her grandmother. She adored listening to her grandmother's tales. Following lunch, she hurried to her grandmother's bedroom, and they conversed for hours. It was her most cherished portion of the day, as being with her grandmother consistently brought her joy.
+
+6. Instruction: Identify which of the following facts are true or false.
+6. Input:
+1. The Earth revolves around the Sun.
+2. There are 365 days in a year.
+3. Cats have nine lives.
+4. Water is the primary component of human sweat.
+6. Output:
+1. True
+2. True
+3. False
+4. True
+
+7. Instruction: Write five examples of onomatopoeic words and their meanings.
+7. Input:
+<noinput>
+7. Output:
+1. Buzz: the humming sound made by bees
+2. Sizzle: the hissing sound produced when an object is heated, like food frying
+3. Beep: the short, high-pitched sound made by electronic devices
+4. Clink: the chinking sound made when two glass or metal objects collide
+5. Splash: the sound made when an object makes contact with a liquid, typically water
+
+8. Instruction: Describe the basic steps to make tomato soup from scratch.
+8. Input:
+<noinput>
+8. Output:
+1. Gather ingredients: tomatoes, onion, garlic, vegetable broth, olive oil, salt, pepper, and optionally, basil or other herbs.
+2. Dice onions and mince garlic.
+3. In a large pot, heat olive oil, then sauté onions and garlic until softened.
+4. Chop tomatoes and add them to the pot. Cook for a few minutes, allowing the tomatoes to release their juices.
+5. Add the vegetable broth to the pot and bring to a boil. Lower heat and let it simmer for 20-30 minutes.
+6. If using, add chopped basil or herbs of choice.
+7. Puree the soup using a blender, immersion blender, or food processor until smooth.
+8. Season with salt and pepper to taste. Once heated through, serve the soup either hot or cold.

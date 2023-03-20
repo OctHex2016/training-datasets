@@ -1,0 +1,122 @@
+4. Instruction: Write a brief summary of the provided news article.
+4. Input: 
+At least 30 people were killed, and over 70 were injured following a collision between two passenger trains in southern Pakistan early Monday morning, according to local officials. The accident occurred when the Millat Express train derailed and was struck by the Sir Syed Express train near Ghotki, in southern Sindh province. The cause of the derailment is not yet known. Rescue efforts are currently underway for other passengers that remained trapped in the wreckage. Pakistan has a history of poor railway safety records and outdated infrastructure. In 2019, at least 75 people died in a similar train accident near the city of Rahim Yar Khan.
+4. Output: 
+At least 30 people have died and over 70 were injured after two passenger trains collided in southern Pakistan early Monday morning. The Millat Express train derailed and collided with the Sir Syed Express train near Ghotki, Sindh province. As the cause of the derailment remains unclear, rescue efforts are ongoing for trapped passengers. Pakistan's history of poor railway safety and outdated infrastructure has led to similar accidents, like one in 2019 near Rahim Yar Khan that killed 75 people.
+
+5. Instruction: Convert the given recipe instruction into the passive voice. 
+5. Input: 
+Add the chopped onions and garlic to the pan and sauté for 5 minutes.
+5. Output: 
+The chopped onions and garlic should be added to the pan and sautéed for 5 minutes.
+
+6. Instruction: Identify and list three security vulnerabilities in the following hypothetical web application code snippet:
+6. Input: 
+```
+$userId = $_POST["userId"];
+$userPassword = $_POST["userPassword"];
+$sql = "SELECT * FROM users WHERE userId = '$userId' AND userPassword = '$userPassword';";
+$result = mysql_query($sql);
+$row = mysql_fetch_array($result);
+if ($row) {
+    $_SESSION["loggedIn"] = true;
+    header("Location: dashboard.php");
+} else {
+    echo "Incorrect username or password";
+}
+```
+6. Output: 
+1. SQL Injection
+2. Storing passwords in plaintext
+3. Use of deprecated MySQL functions
+
+7. Instruction: Describe the plot of Romeo and Juliet.
+7. Input: 
+<noinput>
+7. Output: 
+Romeo and Juliet is a tragedy written by William Shakespeare about two young star-crossed lovers from feuding families in Verona, the Montagues and Capulets. The couple fall in love at a party despite their families' longstanding feud. After various miscommunications and tragic events, including the deaths of their friends Tybalt and Mercutio, the two secretly marry. However, they are unable to be together and eventually commit suicide, causing their families to reconcile upon discovering their tragic end.
+
+8. Instruction: Transform the following text into a poetic verse using alliteration, assonance, and other wordplay.
+8. Input: 
+The rain came down in heavy waves, soaking the earth and drowning low-lying plants.
+8. Output: 
+Relentless rain, relentless waves,
+Saturated soil, saturating graves,
+Deep drench floods, drowning flora fates.
+
+9. Instruction: Identify two major causes of the American Revolutionary War.
+9. Input: 
+<noinput>
+9. Output: 
+1. Taxation without representation
+2. British government's attempts to exert greater control over the colonies
+
+10. Instruction: Come up with a catchy slogan for a fictional new plant-based burger.
+10. Input: 
+<noinput>
+10. Output: 
+"Nature's Delight: Savor the Flavor of Earth's Best Creation!"
+
+11. Instruction: Translate the given text from English to Spanish.
+11. Input: 
+Please find attached the document you requested.
+11. Output: 
+Por favor, encuentre adjunto el documento que solicitó.
+
+12. Instruction: Calculate the simple interest accrued over 2 years on a principal of $5,000 with an interest rate of 3% per annum.
+12. Input: 
+<noinput>
+12. Output: 
+$300
+
+13. Instruction: Correct any grammatical errors in the given sentence.
+13. Input: 
+The my briefcase is over their on the table.
+13. Output: 
+My briefcase is over there on the table.
+
+14. Instruction: What are the primary colors of light?
+14. Input: 
+<noinput>
+14. Output: 
+Red, green, and blue
+
+15. Instruction: Write a haiku about the beauty of the night sky.
+15. Input: 
+<noinput>
+15. Output: 
+Velvet sky above,
+Whispers of celestial light,
+Night's silent story.
+
+16. Instruction: Give examples of three renewable energy sources.
+16. Input: 
+<noinput>
+16. Output: 
+1. Solar energy
+2. Wind energy
+3. Hydropower
+
+17. Instruction: Explain how the greenhouse effect contributes to global warming.
+17. Input: 
+<noinput>
+17. Output: 
+The greenhouse effect occurs when certain gases in Earth's atmosphere, such as carbon dioxide, methane, and water vapor, trap heat from the sun. These gases absorb infrared radiation, preventing the heat from escaping back into space. This trapped heat warms the planet's surface, which leads to a rise in global temperatures, otherwise known as global warming.
+
+18. Instruction: Identify the logical fallacy present in the following statement: "You can't trust Mike. He ran a red light yesterday."
+18. Input: 
+<noinput>
+18. Output: 
+Ad Hominem
+
+19. Instruction: In Python programming, transform the given list of numbers into a list of their squares using list comprehension.
+19. Input: 
+numbers = [1, 2, 3, 4, 5]
+19. Output: 
+squared_numbers = [x**2 for x in numbers]
+
+20. Instruction: Name the biological process by which green plants convert sunlight into energy.
+20. Input: 
+<noinput>
+20. Output: 
+Photosynthesis

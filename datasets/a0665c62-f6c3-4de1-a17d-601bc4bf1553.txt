@@ -1,0 +1,47 @@
+4. Instruction: Summarize the following movie plot briefly.
+4. Input: 
+In the movie "The Shawshank Redemption," two imprisoned men, Andy Dufresne and Ellis 'Red' Redding, bond over several years by finding solace and eventual redemption through acts of common decency. Andy, who is wrongly accused of killing his wife and her lover, befriends Red and starts managing finances for some of the guards. Over time, Andy develops a deep friendship with Red, and they spend their years in the prison dreaming of freedom. In the end, Andy makes a daring escape from the prison using his intelligence and patience, and Red eventually follows and reunites with his friend on a beach in Mexico.
+4. Output: 
+"The Shawshank Redemption" follows two imprisoned men, Andy and Red, who bond over years, finding solace and redemption through acts of decency. Despite his wrongful conviction, Andy manages financial matters for prison guards and befriends Red. Eventually, Andy escapes and Red follows, with the two reuniting on a Mexican beach.
+
+5. Instruction: Identify the correct tenses of the highlighted verbs.
+5. Input: 
+I (was) really tired yesterday after (having) a long day at work. I (have) a lot of deadlines this week, so I (commit) myself to work overtime. (Fingers crossed!) I (finish) my work on time.
+5. Output: 
+was - past simple, having - present perfect, have - present simple, commit - present simple (future reference), finish - present simple (future reference)
+
+6. Instruction: Translate the following English text to French
+6. Input:
+Good night, sweet dreams, and sleep well.
+6. Output: 
+Bonne nuit, fais de beaux rêves et dors bien.
+
+7. Instruction: Write a creative and engaging blog post introduction based on the given topic.
+7. Input:
+Topic: Interior Design Tips for Small Spaces
+7. Output: 
+Welcome to our little corner of the world where we specialize in helping small-space dwellers craft their dream homes! Have you ever peeked into a tiny room and thought, "How on earth can I make this both cozy and functional?" Fear not! In today's post, we'll reveal our arsenal of clever interior design tips to help you maximize every inch of your abode, making it feel like a spacious and stylish haven.
+
+8. Instruction: Explain the advantages and disadvantages of using solar energy as a source of energy.
+8. Input: <noinput>
+8. Output:
+Advantages of solar energy include: 
+1. Renewable and clean energy
+2. Low maintenance costs
+3. Decreased greenhouse gas emissions
+4. Potential savings on energy bills
+5. Decentralized power production
+
+Disadvantages of solar energy:
+1. High upfront costs
+2. Intermittent energy production (reliance on sunny weather)
+3. Space requirements for solar panel installation
+4. Energy storage solutions can be expensive
+5. Limited efficiency in regions with low sunlight hours
+
+9. Instruction: Write a haiku about a snowy day.
+9. Input: <noinput>
+9. Output: 
+Snowflakes gently fall,
+Silent whispers cloak the ground,
+Winter's touch is near.

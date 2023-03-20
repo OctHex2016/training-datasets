@@ -1,0 +1,103 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input: 
+John donated money to the homeless shelter.
+4. Output: 
+Money was donated to the homeless shelter by John.
+###
+5. Instruction: Correct the grammar in the given sentence.
+5. Input: 
+“Anna and me have go out for dinner.” 
+5. Output: 
+Anna and I are going out for dinner.
+###
+6. Instruction: Explain a major benefit of solar energy.
+6. Input: 
+<noinput>
+6. Output: 
+A major benefit of solar energy is that it is a clean and renewable energy source. Unlike fossil fuels, it does not produce harmful greenhouse gas emissions, which helps to mitigate climate change and reduce air pollution.
+###
+7. Instruction: Name the type of chemical bond mentioned in the sentence.
+7. Input: 
+Water molecules are formed by oxygen and hydrogen atoms that share electrons.
+7. Output: 
+Covalent bond.
+###
+8. Instruction: Insert appropriate punctuation in the text.
+8. Input: 
+Jeans T-shirts and sneakers are casual wear sunglasses complete the look
+8. Output: 
+Jeans, T-shirts, and sneakers are casual wear; sunglasses complete the look.
+###
+9. Instruction: Write an original haiku poem about nature.
+9. Input: 
+<noinput>
+9. Output: 
+Gentle breeze whispers,
+Leaves rustle, dancing in wind,
+Nature's symphony.
+###
+10. Instruction: Summarize the main idea of the passage.
+10. Input: 
+Small businesses form the backbone of a country's economy. They contribute to job creation, innovation, and economic growth. Government policies promoting small businesses can provide incentives for entrepreneurs to start their ventures. Supporting small businesses through grants, loans, and tax breaks helps them overcome initial hurdles, such as startup costs, and opens up opportunities to grow and succeed in the long run.
+10. Output: 
+Small businesses play a crucial role in a country's economy by generating jobs, fostering innovation, and contributing to economic growth. Government support through incentives and policies can encourage the establishment and long-term success of these businesses.
+###
+11. Instruction: Calculate the mean average of the numbers in the list.
+11. Input: 
+5, 10, 20, 25, 40
+11. Output: 
+20
+###
+12. Instruction: Suggest a dish that fits the dietary needs described.
+12. Input: 
+Vegetarian and gluten-free
+12. Output: 
+Quinoa and vegetable stir-fry.
+###
+13. Instruction: Translate the following sentence to French.
+13. Input: 
+It is a beautiful day in the city.
+13. Output: 
+C'est une belle journée dans la ville.
+###
+14. Instruction: Identify and correct any misspelled words in the sentence.
+14. Input: 
+She enjoyd walking her playfull dog on sunny days at the nieghborhood park.
+14. Output: 
+She enjoyed walking her playful dog on sunny days at the neighborhood park.
+###
+15. Instruction: Write a condolence message to someone who has just lost their sister.
+15. Input: 
+<noinput>
+15. Output: 
+I am deeply sorry for the loss of your beloved sister. Please know that my thoughts and prayers are with you during this difficult time. May her soul rest in peace and may you find comfort in the memories that you shared together.
+###
+16. Instruction: Briefly describe what a gravitational wave is.
+16. Input: 
+<noinput>
+16. Output: 
+A gravitational wave is a ripple in the fabric of spacetime caused by the accelerated movement or interaction of massive objects, such as merging black holes or neutron stars. They travel at the speed of light and can provide valuable information about the universe and its events.
+###
+17. Instruction: Convert the recurring decimal to a simplified fraction.
+17. Input: 
+0.666...
+17. Output: 
+2/3
+###
+18. Instruction: Use the idiom in a sentence relevant to its meaning.
+18. Input: 
+Idiom: raining cats and dogs
+18. Output: 
+I had to cancel my picnic plans today because it was raining cats and dogs outside.
+###
+19. Instruction: Use the given keyword to generate a hypothesis about study habits.
+19. Input: 
+Keyword: sleep
+19. Output: 
+Students who get adequate sleep each night have more effective study habits and retain information more efficiently compared to sleep-deprived students.
+###
+20. Instruction: Explain an ethical concern related to human cloning.
+20. Input: 
+<noinput>
+20. Output: 
+One ethical concern related to human cloning is the potential loss of individuality and uniqueness. Cloned individuals may face issues related to their identity, as they might be considered copies of someone else. Seeking to create clones in the image of specific individuals raises concerns about human dignity and personal autonomy.

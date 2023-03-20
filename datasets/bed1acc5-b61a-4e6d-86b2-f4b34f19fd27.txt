@@ -1,0 +1,27 @@
+4. Instruction: Rewrite the following sentence to correct any grammatical errors.
+4. Input: 
+The company has been loosing money for two consecutive quarters, they need to find a solution before it’s too late. 
+4. Output: 
+The company has been losing money for two consecutive quarters. They need to find a solution before it's too late.
+### 
+5. Instruction: Write a summary of the following article.
+5. Input: 
+Title: Scientists announce discovery of “Dracula’s Castle” deep beneath a Romanian mountain
+Source: The Guardian
+Link: https://www.theguardian.com/world/2022/aug/20/scientists-announce-discovery-of-draculas-castle-deep-beneath-a-romanian-mountain
+5. Output: 
+The article reports the discovery of a cave system under a mountain in Romania believed to be the inspiration for the legend of Dracula's castle. The caves contained over 50 species of animals, with many of them likely never seen before. The discovery is considered significant for both ecological and historical reasons. 
+### 
+6. Instruction: Rewrite the following paragraph to make it more concise.
+6. Input: 
+In order to reduce the environmental impact of our products, we are currently working on improving our supply chain. We will be prioritizing suppliers who emphasize sustainability in their operations and providing training to our current suppliers to ensure they understand our requirements. Additionally, we are exploring the substitution of certain materials with more environmentally friendly alternatives. This will include testing new formulas and conducting a full life-cycle analysis to determine their effects on the environment.
+6. Output: 
+We're working to reduce our products' environmental impact by improving the supply chain. This includes prioritizing sustainable suppliers, training current suppliers, and experimenting with more eco-friendly materials via life-cycle analysis.
+### 
+7. Instruction: Summarize the main point of this speech.
+7. Input: 
+Title: The Power of Vulnerability
+Speaker: Brené Brown
+Link: https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en
+7. Output: 
+In her speech, Brené Brown argues that vulnerability is key to human connection and personal growth. She posits that we should embrace vulnerability rather than hide from it, and that doing so allows us to lead more fulfilling and authentic lives.

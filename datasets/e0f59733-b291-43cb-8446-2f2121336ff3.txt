@@ -1,0 +1,45 @@
+4. Instruction: Convert a given text passage into passive voice. Make sure the meaning remains the same.
+4. Input: 
+The dog chewed the bone.
+4. Output: 
+The bone was chewed by the dog.
+###
+5. Instruction: Provide a rhyming word for the given word. The provided word must have a similar meaning or be a synonym.
+5. Input: 
+<noinput>
+5. Output: 
+happy - snappy
+###
+6. Instruction: What is the main idea of the paragraph?
+6. Input: 
+The process of photosynthesis is crucial for all life on Earth. Through a series of chemical reactions, plants, algae, and some bacteria take sunlight, water, and carbon dioxide to create oxygen and glucose. In the process, they release the oxygen we breathe and store energy in the form of glucose, which can be broken down later to provide energy. The process of photosynthesis is the foundation for the food chain because it provides the energy that powers all living organisms.
+6. Output: 
+The main idea of this paragraph is that photosynthesis is essential to life on Earth because it powers the food chain by supplying energy.
+###
+7. Instruction: Reformulate the given sentence by replacing complex terms with easier synonyms, without losing the core meaning.
+7. Input: 
+The utilization of convoluted vocabulary might perplex your audience and detract from your primary objective.
+7. Output: 
+The use of complicated words may confuse your audience and take away from your main goal.
+###
+8. Instruction: What is the name of the fallacy used in this argument, and why is this fallacious reasoning?
+8. Input: 
+My neighbor communicates with aliens. He says so, and nobody has proved him wrong.
+8. Output: 
+The fallacy used in this argument is "Argument from Ignorance", also known as "Ad Ignorantiam". This reasoning is fallacious because it assumes a claim is true simply because it has not been proven false.
+###
+9. Instruction: Compose a haiku poem about the topic provided.
+9. Input: 
+<noinput>
+9. Output: 
+Autumn leaves falling
+Nature's vibrant hues displayed
+Chilly air whispers
+###
+10. Instruction: Provide two examples of the given literary device.
+10. Input: 
+<noinput>
+10. Output: 
+Irony:
+1. A fire station burns down.
+2. The police station gets robbed.

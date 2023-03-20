@@ -1,0 +1,55 @@
+4. Instruction: Name the capitals of the following European countries.
+4. Input: 
+Germany, France, Spain, Italy, Netherlands
+4. Output: 
+Germany: Berlin, France: Paris, Spain: Madrid, Italy: Rome, Netherlands: Amsterdam
+###
+5. Instruction: Calculate the tip amount with a standard rate for the given meal cost.
+5. Input: 
+Meal cost: $45.7
+5. Output: 
+A standard tip rate is 15%. So, the tip amount for a $45.7 meal would be $6.86.
+###
+6. Instruction: Tell me what rhymes with the word "orange".
+6. Input:
+<noinput>
+6. Output:
+Blorenge (a hill in Wales) and Sporange (a rare type of fungi).
+###
+7. Instruction: Edit the sentence for correct grammar and punctuation.
+7. Input: 
+my mom's doctor told her, that she should be eating ; more fruits and vegetable every day
+7. Output:
+My mom's doctor told her that she should be eating more fruits and vegetables every day.
+###
+8. Instruction: Create a haiku about the beauty of spring.
+8. Input:
+<noinput>
+8. Output: 
+Blossoms come alive,
+Rivers sing with gentle breeze,
+Spring's warm grace, rebirth.
+###
+9. Instruction: Rate the quality of the service at XYZ Hotel (poor, average, good, or excellent).
+9. Input: 
+Located in downtown, XYZ Hotel offers excellent accommodation but the reception personnel were not attentive when we asked for directions. Also, there were leftovers in the fridge from the last guests.
+9. Output: 
+Average
+###
+10. Instruction: Identify the tone of the given text (e.g. sarcastic, serious, humorous, melancholic).
+10. Input: 
+"Why don't you tell me what happened to her? I'm sure you didn't just accidentally drop the antidote while dancing and singing 'I Will Always Love You' at the top of your lungs on the rooftop."
+10. Output: 
+Sarcastic
+###
+11. Instruction: Write a brief summary of the provided article.
+11. Input: 
+Yesterday, the international space agency had an emergency meeting regarding an undisclosed issue. The director announced that they discovered a potentially life-sustaining Earth-like exoplanet named Euclea-6 located 250 light years away. The planet is in the habitable zone around its red dwarf star and possesses water, a stable atmosphere, and a similar gravitational pull to Earth. Researchers believe this discovery may lead to finding new sources of life in the universe. Acknowledging the findings, the space agency said further investigations will be conducted using advanced technology.
+11. Output: 
+The international space agency discovered a potentially life-sustaining Earth-like exoplanet, Euclea-6, which is located 250 light years away in the habitable zone around its red dwarf star. The planet possesses water, a stable atmosphere, and a similar gravitational pull to Earth. This discovery may lead to finding new life sources in the universe, and further investigations will be carried out.
+###
+12. Instruction: Explain the difference between an alligator and a crocodile.
+12. Input: 
+<noinput>
+12. Output: 
+Alligators and crocodiles are both large reptiles, but they belong to different families. The most notable difference is their snout shape: alligators have a broad, U-shaped snout, while crocodiles have a narrower, V-shaped snout. Crocodiles are typically more aggressive than alligators, and their habitat also varies: alligators are mostly found in freshwater environments like swamps, while crocodiles inhabit brackish and saltwater areas. Additionally, when their mouths are closed, alligators' lower teeth are hidden, whereas the lower teeth of crocodiles are visible.

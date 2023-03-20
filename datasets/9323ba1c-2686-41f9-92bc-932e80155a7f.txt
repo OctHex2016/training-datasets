@@ -1,0 +1,45 @@
+4. Instruction: Describe six essential steps for good dental hygiene. 
+4. Input: 
+<noinput>
+4. Output: 
+1. Brushing: Brush your teeth at least twice a day using a soft-bristle toothbrush and fluoride toothpaste, ensuring you reach all surfaces of your teeth.
+2. Flossing: Floss at least once a day to remove plaque and food particles from between teeth and under the gumline.
+3. Using mouthwash: Rinse with an antiseptic mouthwash daily to help kill bacteria and freshen breath.
+4. Regular dental checkups: Visit your dentist at least twice a year for professional cleanings and oral health exams.
+5. Limit sugary and acidic foods: These can contribute to tooth decay and erosion, so be mindful of your daily intake.
+6. Maintain a balanced diet: Eating a variety of fruits, vegetables, lean proteins, and whole grains can help support overall dental health.
+
+5. Instruction: Proofread and edit the following paragraph for spelling and grammatical errors.
+5. Input: 
+Their was three friends who went to thee store. They needed a few items for thier party that was happening tomorrrow. One of the friends was supposted to grab the snacks, another  the drinks and one the decorations. 
+5. Output: 
+There were three friends who went to the store. They needed a few items for their party that was happening tomorrow. One of the friends was supposed to grab the snacks, another the drinks, and one the decorations.
+
+6. Instruction: What are the main differences between American English and British English?
+6. Input:
+<noinput>
+6. Output: 
+1. Spelling: There are various spelling differences, such as "color" (American) vs. "colour" (British), and "theater" (American) vs. "theatre" (British).
+2. Pronunciation: Some words are pronounced differently, such as "schedule" and "advertisement."
+3. Vocabulary: There are unique words and phrases in both American and British English, such as "truck" (American) vs. "lorry" (British) and "apartment" (American) vs. "flat" (British).
+4. Grammar: Some minor grammatical differences exist, such as collective nouns being treated as singular in American English but often plural in British English (e.g., "The team is playing" vs. "The team are playing").
+###
+7. Instruction: Identify the tone of the following text and rewrite it in a more formal tone.
+7. Input: 
+Hey there! I wanted to talk to you about our meeting. I'm wondering if it's cool if we move it to tomorrow instead of today. Would that work for you?
+7. Output: 
+Dear [Recipient], I hope this message finds you well. I would like to discuss our scheduled meeting. Would it be possible to reschedule the meeting to tomorrow instead of today? Please let me know if this works for you.
+
+8. Instruction: Explain the differences between a secured and an unsecured loan.
+8. Input:
+<noinput>
+8. Output: 
+A secured loan is a type of loan that requires the borrower to provide some form of collateral, such as a property or vehicle, as a guarantee for repayment. This reduces the risk for the lender, often resulting in lower interest rates. If the borrower fails to repay the loan, the lender can seize the collateral to recover their losses.
+
+An unsecured loan, on the other hand, does not require collateral. Since there is no guarantee for repayment, lenders typically charge higher interest rates to offset the increased risk. These loans often rely on the borrower's credit score and income for approval, and defaulting on an unsecured loan can negatively impact one's credit rating.
+
+9. Instruction: Summarize the plot of the novel "To Kill a Mockingbird".
+9. Input:
+<noinput>
+9. Output: 
+"To Kill a Mockingbird" is a coming-of-age novel by Harper Lee, set in the fictional town of Maycomb, Alabama during the 1930s. The story is told through the perspective of Scout Finch, a young girl who, along with her brother Jem, navigates prejudice and social inequalities in their community. Their father, Atticus Finch, a respected lawyer, is appointed to defend a black man named Tom Robinson, who is falsely accused of raping a white woman. Throughout the trial, Scout and Jem learn about the deep-rooted racial injustices in their town, and with the guidance of Atticus, they develop a greater understanding of empathy and moral courage.

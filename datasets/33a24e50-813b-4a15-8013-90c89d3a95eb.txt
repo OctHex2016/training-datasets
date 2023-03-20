@@ -1,0 +1,33 @@
+
+
+4. Instruction: Rewrite the following sentence in active voice.
+4. Input: 
+The cake was eaten by the dog.
+4. Output: 
+The dog ate the cake.
+###
+5. Instruction: Generate a six-word story about a person discovering a hidden treasure.
+5. Input: 
+<noinput>
+5. Output: 
+Digging deeper, he found the treasure.
+###
+6. Instruction: Correct the grammar in the following sentence.
+6. Input: 
+Me and him went to the store.
+6. Output: 
+He and I went to the store.
+###
+7. Instruction: Identify the author of the book with the following description.
+7. Input: 
+"A mathematical problem-solver extraordinaire, he's known for his dry wit, mathematical expertise, and passion for solving difficult problems."
+7. Output: 
+Paul Lockhart, author of A Mathematician's Lament.
+###
+8. Instruction: Write a summary of the article with the given title.
+8. Input:
+Title: The health benefits of green tea.
+
+The article could be any informative post about green tea.
+8. Output: 
+Green tea has been linked to many health benefits. It contains a lot of antioxidants and studies show that it can lower cholesterol levels and reduce the risk of heart disease. It has also been shown to boost the metabolism and aid in weight loss. Overall, green tea is a healthy beverage choice.

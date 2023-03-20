@@ -1,0 +1,46 @@
+4. Instruction: Rewrite the sentence using the passive voice.
+4. Input: 
+The cat chased the mouse around the house.
+4. Output: 
+The mouse was chased by the cat around the house.
+###
+5. Instruction: Create a topic sentence for a paragraph discussing ways to save money on your energy bills.
+5. Input: 
+<noinput>
+5. Output: 
+This article will explore several practical and efficient ways to save money on your energy bills, which can translate into long-term savings and a lower carbon footprint.
+###
+6. Instruction: Translate the given sentence into French.
+6. Input: 
+Can you please pass me the salt?
+6. Output: 
+Pouvez-vous me passer le sel, s'il vous plaît?
+###
+7. Instruction: Write a haiku about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Whispering breeze sings,
+Petals drift upon clear stream,
+Nature's symphony.
+###
+8. Instruction: Name the author and summarize the plot of the following book: "To Kill a Mockingbird"
+8. Input: 
+<noinput>
+8. Output: 
+Author: Harper Lee
+Plot Summary: "To Kill a Mockingbird" tells the story of Scout Finch, a young girl living in the fictional town of Maycomb, Alabama, during the 1930s. The story follows Scout as she and her brother Jem are exposed to a variety of topics, including racism and prejudice. Their father, lawyer Atticus Finch, is appointed to defend Tom Robinson, an African American man falsely accused of raping a white woman. The trial exposes the children to the dangers and cruel nature of prejudice, teaching them valuable life lessons.
+###
+9. Instruction: Explain Bitcoin in simple terms.
+9. Input: 
+<noinput>
+9. Output: 
+Bitcoin is a digital form of money called cryptocurrency that is created, stored, and transferred using computer systems. It is not controlled by a central bank or government, but instead works through a decentralized network called blockchain. People can use Bitcoin to make transactions or for investment purposes, just like they would use traditional currency.
+###
+10. Instruction: Identify at least three key elements necessary for an employment contract.
+10. Input: 
+<noinput>
+10. Output: 
+1. Offer and acceptance: An employer must offer a job, and the employee must accept the offer.
+2. Consideration: Both parties must exchange something of value, such as the employer providing a salary and benefits in return for the employee's work.
+3. Legal intent and capacity: Both parties must be legally capable of entering into the contract and intend to create a legally binding agreement.

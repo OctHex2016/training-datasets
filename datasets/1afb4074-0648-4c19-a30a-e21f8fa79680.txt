@@ -1,0 +1,136 @@
+4. Instruction: Write a recipe for a classic margarita.
+4. Input: 
+<noinput>
+4. Output: 
+Ingredients:
+- 2 oz tequila
+- 1 oz lime juice (freshly squeezed)
+- 1 oz triple sec (Cointreau preferred)
+- Salt for rimming the glass (optional)
+- Lime wedge for garnish
+
+Instructions:
+1. Rub a lime wedge around the rim of a chilled margarita glass, then dip the rim in salt to coat it (optional).
+2. In a cocktail shaker filled with ice, combine the tequila, lime juice, and triple sec.
+3. Shake well for about 15-20 seconds, until well-chilled.
+4. Strain the mixture into the prepared margarita glass.
+5. Garnish the glass with a lime wedge and serve immediately.
+
+###
+5. Instruction: Describe three main differences between sunflower oil and olive oil.
+5. Input: 
+<noinput>
+5. Output: 
+1. Flavor: Olive oil has a fruity, peppery, and sometimes slightly bitter taste, whereas sunflower oil has a neutral or mild flavor.
+2. Smoke Point: Sunflower oil has a higher smoke point (around 440°F) compared to olive oil (320°F for extra virgin olive oil and 465°F for light olive oil), making sunflower oil more suitable for high-heat cooking methods like frying.
+3. Nutritional Properties: Olive oil, particularly extra virgin olive oil, contains more monounsaturated fats and antioxidants, making it a healthier choice overall. Sunflower oil is higher in polyunsaturated fats and omega-6 fatty acids.
+
+###
+6. Instruction: Write a rhyming couplet about the importance of staying hydrated.
+6. Input: 
+<noinput>
+6. Output: 
+Each day, to keep our bodies reviving,
+Drink water, the key to healthy surviving.
+
+###
+7. Instruction: Provide a summary of the following news article.
+7. Input: 
+Stonk Digital, a leading artificial intelligence (AI) firm, announced its plan to go public through a merger with SamurAI Acquisition Corp, a special acquisition company (SPAC). The combined company's post-transaction valuation is expected to be approximately $3.2 billion. Stonk Digital's shareholders will hold about 70% equity in the combined entity, while SamurAI Acquisition Corp shareholders will retain the remaining 30%. 
+
+Stonk Digital pioneered the creation of an AI platform, designed to predict market trends and manage funds. Since its inception, the company has grown rapidly, increasing the revenue by 370% YoY. CEO of Stonk Digital, James Lee, believes that the deal would allow the company to access significant capital to accelerate growth and expand their products and services.
+7. Output: 
+Stonk Digital plans to go public by merging with SamurAI Acquisition Corp through a special acquisition company (SPAC) deal, valuing the combined entity at approximately $3.2 billion. Stonk Digital is a leading artificial intelligence firm that has an AI platform for predicting market trends and managing funds. The new capital will aid in accelerated growth and service expansion.
+
+###
+8. Instruction: Revise the following sentence to make it more formal.
+8. Input: 
+Hey, are you up for grabbing food together after we're done with work today?
+8. Output: 
+Would you like to join me for dinner following the conclusion of our workday?
+
+###
+9. Instruction: Propose a new name for a pawnshop that wishes to convey trustworthiness and professionalism to its customers.
+9. Input: 
+<noinput>
+9. Output: 
+Reliable Exchange Emporium
+
+###
+10. Instruction: Translate the following English proverb to French.
+10. Input: 
+A picture is worth a thousand words.
+10. Output: 
+Une image vaut mille mots.
+
+###
+11. Instruction: Give a suggestion for improving mental health.
+11. Input: 
+<noinput>
+11. Output: 
+Regularly practicing mindfulness meditation can help reduce stress, improve focus, and promote overall mental wellbeing.
+
+###
+12. Instruction: Calculate the total cost after applying a 23% discount on a $175 item.
+12. Input: 
+<noinput>
+12. Output: 
+$134.75
+
+###
+13. Instruction: Write an opinion about the role of technology in education.
+13. Input: 
+<noinput>
+13. Output: 
+In my opinion, technology has significantly transformed education, providing greater access to resources, fostering collaboration, and allowing for customization of learning experiences. It enables continuous improvement by offering real-time feedback and facilitating communication between students, educators, and parents. While technology should not entirely replace traditional teaching methods, it should complement them to create a more engaging and effective learning environment.
+
+###
+14. Instruction: Explain the primary function of a thesaurus.
+14. Input: 
+<noinput>
+14. Output: 
+The primary function of a thesaurus is to provide a list of synonyms and related words for a specific term, helping users expand their vocabulary and find alternative ways to express ideas in writing or speech.
+
+###
+15. Instruction: Identify the dependent clause(s) in the following sentence.
+15. Input: 
+After the movie, Sarah went to the restaurant where her friends were waiting for her, but her phone's battery died, so she couldn't call them.
+15. Output: 
+where her friends were waiting for her, her phone's battery died, so she couldn't call them
+
+###
+16. Instruction: Recommend a title for a blog post about the benefits of indoor plants.
+16. Input: 
+<noinput>
+16. Output: 
+"Breathing Life into Your Home: The Surprising Benefits of Indoor Plants"
+
+###
+17. Instruction: Correct the following sentence: "Me and him are going to the store."
+17. Input: 
+Me and him are going to the store.
+17. Output: 
+He and I are going to the store.
+
+###
+18. Instruction: Write a haiku about rain.
+18. Input: 
+<noinput>
+18. Output: 
+Gentle whispers fall,
+Rivers swell and leaves glisten,
+Quenching life anew.
+
+###
+19. Instruction: Convert the given date to the format: DD-MM-YYYY.
+19. Input: 
+November 10th, 2023
+19. Output: 
+10-11-2023
+
+###
+20. Instruction: Briefly describe the Krebs cycle.
+20. Input: 
+<noinput>
+20. Output: 
+The Krebs cycle, also known as the citric acid cycle, is a series of chemical reactions that occur within the mitochondria of cells. These reactions generate ATP (adenosine triphosphate), the body's main source of energy, as well as NADH and FADH2, which are electron carriers. The cycle also produces carbon dioxide and water as waste products. The Krebs cycle plays a vital role in cellular respiration, helping to convert carbohydrates, fats, and proteins into usable energy.

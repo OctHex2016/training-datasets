@@ -1,0 +1,121 @@
+4. Instruction: Translate the given sentence into French.
+4. Input: 
+My dog is very playful and energetic.
+4. Output: 
+Mon chien est très joueur et énergique.
+
+###
+5. Instruction: Explain the given scientific term in layman's terms.
+5. Input: 
+Photosynthesis
+5. Output: 
+Photosynthesis is the process through which plants, algae, and some bacteria convert sunlight, carbon dioxide from the air, and water into food (glucose or sugar) for growth and energy. In return, they release oxygen as a byproduct, which is essential for humans and animals to breathe.
+
+###
+6. Instruction: Choose an appropriate band name based on the given genre.
+6. Input: 
+Country Rock
+6. Output: 
+"Rustic Ramblers"
+
+###
+7. Instruction: Calculate the area of the triangle given the below dimensions.
+7. Input: 
+Base: 10 cm, Height: 6 cm
+7. Output: 
+A = 1/2 × Base × Height = 1/2 × 10 × 6 = 30 cm²
+
+###
+8. Instruction: Provide a summary of the given news article.
+8. Input: 
+A massive earthquake natural disaster has struck a village in western China on Saturday, leaving thousands of families homeless. The 6.5 magnitude earthquake hit the village at 2.2 km deep, killing 25 people and injuring more than 500 so far. Local government announced a state of emergency and the Chinese Premier urged immediate rescue and relief efforts from the army and local police force. Several international humanitarian organizations have pledged their support and sent their disaster relief teams to aid with recovery and reconstruction. Aftershocks are still occurring in the area, increasing the concern for more damage and loss of life.
+8. Output: 
+A 6.5 magnitude earthquake struck a village in western China on Saturday, causing 25 deaths, over 500 injuries, and thousands of families to become homeless. The Chinese Premier declared a state of emergency and mobilized the army and police for rescue and relief efforts. International humanitarian organizations are also providing aid for recovery and reconstruction. Continued aftershocks increase concerns for further damage and loss of life.
+
+###
+9. Instruction: Reorder the given words to create a coherent sentence.
+9. Input: 
+sky / the / bird / in / soared / blue / the.
+9. Output: 
+The bird soared in the blue sky.
+
+###
+10. Instruction: Identify any grammatical errors in the following sentence and correct them.
+10. Input: 
+Me and my friend goning to the park today for play soccer.
+10. Output: 
+My friend and I are going to the park today to play soccer.
+
+###
+11. Instruction: Provide a brief overview of how the given mechanism works.
+11. Input: 
+Combustion engine
+11. Output: 
+A combustion engine is a type of engine that generates power by burning fuel, such as gasoline or diesel, in an enclosed chamber. Air is mixed with the fuel and this is then ignited by a spark or heating, causing a rapid expansion of gases. This expansion pushes a piston, which is connected to a crankshaft, converting the linear motion into the rotational motion needed to drive the wheels of a vehicle or power other equipment.
+
+###
+12. Instruction: Name a famous person associated with the given field.
+12. Input: 
+Modern physics
+12. Output: 
+Albert Einstein
+
+###
+13. Instruction: Write a positive customer review for a local bookstore.
+13. Input: 
+<noinput>
+13. Output: 
+I recently visited the 'Enchanted Pages' local bookstore, and I must say, I had an outstanding experience. The staff was incredibly knowledgeable and friendly, guiding me to the perfect book in no time. The store itself was clean and well-organized, with a wide range of literature to choose from. I was particularly impressed with their extensive collection of children's books, which made the perfect gift for my niece. I will be returning to 'Enchanted Pages' and highly recommend it to fellow book lovers!
+
+###
+14. Instruction: List five common human emotions.
+14. Input: 
+<noinput>
+14. Output: 
+1. Happiness
+2. Sadness
+3. Anger
+4. Fear
+5. Surprise
+
+###
+15. Instruction: Given the provided scenario, advise a course of action.
+15. Input: 
+Michael forgot his friend Beth's birthday party and only remembered the day after the event.
+15. Output: 
+Michael should call or message Beth as soon as possible, apologize sincerely for missing her birthday party, and explain that it completely slipped his mind. He should also plan a time to meet up with her and give her a thoughtful birthday gift as a gesture to make up for his absence at the party.
+
+###
+16. Instruction: Rewrite the given sentence in the passive voice.
+16. Input: 
+She baked a delicious chocolate cake for her son's birthday.
+16. Output: 
+A delicious chocolate cake was baked by her for her son's birthday.
+
+###
+17. Instruction: Identify the literary device in the given sentence.
+17. Input: 
+The sun played hide and seek with the clouds.
+17. Output: 
+Personification
+
+###
+18. Instruction: Write a brief explanation of the historical event.
+18. Input: 
+American Revolutionary War
+18. Output: 
+The American Revolutionary War (1775-1783), also known as the American War of Independence, was a conflict between thirteen American colonies and Great Britain. The colonies sought independence from British rule, fueled by issues such as taxation without representation and violations of their rights as English subjects. The war ultimately resulted in the colonies gaining their independence and the formation of the United States of America. Pivotal moments include the signing of the Declaration of Independence in 1776 and the British surrender at the Siege of Yorktown in 1781.
+
+###
+19. Instruction: Solve the given riddle.
+19. Input: 
+What has keys but can't open locks?
+19. Output: 
+A piano.
+
+###
+20. Instruction: Recommend suitable attire for the mentioned event.
+20. Input: 
+A winter wedding
+20. Output: 
+For a formal winter wedding, women can wear a long-sleeved evening gown, paired with a coordinating shawl or wrap to stay warm, while men should opt for a suit or, if appropriate, a tuxedo. For a less formal winter wedding, women can wear a stylish cocktail dress with a warm coat, and men can wear a dress shirt, dress pants, and a blazer or sports coat. In both cases, make sure to wear weather-appropriate footwear to ensure safety and comfort.

@@ -1,0 +1,105 @@
+4. Instruction: Combine the following two sentences and rewrite them as one.
+4. Input: 
+Dolphins are highly intelligent marine mammals. They are known for their playful behavior.
+4. Output: 
+Dolphins, known for their playful behavior, are highly intelligent marine mammals.
+
+5. Instruction: Pick out the grammatical error in this sentence and correct it.
+5. Input: 
+The reason she was late is because the train broke down.
+5. Output: 
+The reason she was late is that the train broke down.
+
+6. Instruction: Recommend a book to someone interested in entrepreneurship.
+6. Input: 
+<noinput>
+6. Output: 
+"The Lean Startup" by Eric Ries is a great book for anyone interested in entrepreneurship.
+
+7. Instruction: Translate the following English sentence into French.
+7. Input: 
+The weather is beautiful today.
+7. Output: 
+Le temps est magnifique aujourd'hui.
+
+8. Instruction: Explain the difference in meaning between these two sentences.
+8. Input: 
+Jane learned Spanish. Jane has learned Spanish.
+8. Output: 
+"Jane learned Spanish" implies that she completed learning Spanish at some specific time in the past. "Jane has learned Spanish" means that Jane finished learning Spanish not too long ago, and the learning experience may still have a lasting impact on her present situation.
+
+9. Instruction: Write three unique and insightful questions that could be used in an interview.
+9. Input: 
+<noinput>
+9. Output: 
+1. Have you ever faced a significant challenge or setback in your career or life? What did you learn from it, and how did you overcome it?
+2. Can you describe a situation where you had to make a tough decision that led to a positive outcome, even though it may have been unpopular at the time?
+3. How do you balance your long-term strategic goals with short-term, day-to-day tasks in your role?
+
+10. Instruction: Write a haiku about a morning sunrise.
+10. Input: 
+<noinput>
+10. Output: 
+Golden rays emerge,
+Birdsong greets the dawn's warm glow,
+Nature breathes anew.
+
+11. Instruction: Identify and fix the inconsistency in this paragraph.
+11. Input: 
+Ann started jogging every morning after her son left for school. She jogged on Tuesdays and Thursdays at the gym in the afternoons. She enjoyed the peace of the mornings and the sound of the birds chirping. She also liked the satisfaction of completing her workout before her workday began.
+11. Output: 
+Ann started jogging every morning after her son left for school. She enjoyed the peace of the mornings and the sound of the birds chirping. She also liked the satisfaction of completing her workout before her workday began.
+
+12. Instruction: Provide a healthy food substitution for a common unhealthy ingredient.
+12. Input: 
+<noinput>
+12. Output: 
+Instead of using sour cream, try substituting plain Greek yogurt for a healthier alternative.
+
+13. Instruction: Write a motivational statement to help someone overcome self-doubt.
+13. Input: 
+<noinput>
+13. Output: 
+Believe in your abilities and trust the process; you are more powerful and capable than you might think. Keep pushing forward, and soon you'll see the obstacles in your way as opportunities for growth and success.
+
+14. Instruction: Summarize the main points of this article paragraph.
+14. Input: 
+Recent research has revealed a new way to treat cancer using immunotherapy. Immunotherapy works by harnessing the body's immune system to fight tumors. This treatment method has been found to be effective in certain types of cancers and has fewer side effects than traditional chemotherapy. Scientists are actively working to develop better strategies for implementing immunotherapy and find new applications for it in an effort to save more lives.
+14. Output: 
+Immunotherapy is a new cancer treatment that uses the body's immune system to combat tumors, proving effective for certain cancer types and with fewer side effects than chemotherapy. Scientists continue to explore improvements and expand its applicability.
+
+15. Instruction: Correct the anachronism in the following sentence.
+15. Input: 
+While watching a classical Greek play, a character pulled out his iPhone and began taking selfies.
+15. Output: 
+While watching a classical Greek play, a character pulled out a small mirror and began admiring himself.
+
+16. Instruction: Organize the following words in alphabetical order.
+16. Input: 
+committed, beach, fruit, science, element, randomly, zebra
+16. Output: 
+beach, committed, element, fruit, randomly, science, zebra
+
+17. Instruction: Write an antonym for the given word.
+17. Input: 
+success
+17. Output: 
+failure
+
+18. Instruction: Identify the root cause of the problem in the following description and suggest a potential solution.
+18. Input: 
+Our team has been struggling to meet deadlines for the past few months. Our team members have been complaining that their workload is overwhelming and they are burning out.
+18. Output: 
+The root cause of the problem is the excessive workload on team members. A potential solution would be to reconsider task delegation, hire additional staff, or adjust project timelines to reduce pressure and prevent burnout.
+
+19. Instruction: Create a one-sentence marketing slogan for a brand of reusable water bottles.
+19. Input: 
+<noinput>
+19. Output: 
+Quench your thirst for sustainability with our eco-friendly reusable water bottles.
+
+20. Instruction: Briefly describe the plot of a science fiction movie.
+20. Input: 
+<noinput>
+20. Output: 
+In a future where earth's resources are depleted, a team of astronauts embarks on a mission to a distant, habitable planet, overcoming alien encounters and dangerous obstacles in their quest to secure humanity's survival.

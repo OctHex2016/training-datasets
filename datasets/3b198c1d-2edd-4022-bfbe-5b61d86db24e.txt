@@ -1,0 +1,47 @@
+4. Instruction: Provide introductive information about the given person.
+4. Input: 
+Stephen Hawking
+4. Output: 
+Stephen Hawking (1942-2018) was a renowned British theoretical physicist, cosmologist, and author. He is best known for his groundbreaking work on black holes and his development of the theory of Hawking radiation. Despite being diagnosed with ALS at the age of 21, which left him paralyzed and wheelchair-bound, he continued to make significant contributions to the fields of science and was the author of the best-selling book "A Brief History of Time."
+
+5. Instruction: List five issues that need to be addressed in the given city.
+5. Input: 
+City: Rio de Janeiro
+5. Output: 
+1. Poverty and inequality
+2. Infrastructure and public transportation
+3. Environmental issues and deforestation
+4. Crime, safety, and policing
+5. Corruption in local government
+
+6. Instruction: Can you convert this text to an app description?
+6. Input: 
+FrugalMe helps you track your expenses and income by maintaining a ledger. The app comes with a user-friendly interface to make it simple to add, edit, or remove financial transactions, making it easy for people to plan their finances efficiently.
+6. Output: 
+Introducing FrugalMe: A hassle-free expense tracking app to help you manage your personal finances effectively! Record your transactions with our user-friendly interface, easily add, edit or remove expenses and income, and let FrugalMe take care of keeping your finances organized. Say goodbye to unexpected overspending and hello to financial stability with FrugalMe!
+
+7. Instruction: Compare and contrast lions and tigers.
+7. Input: 
+<noinput>
+7. Output: 
+Lions and tigers are both large, carnivorous big cats, but they do have notable differences. Lions live in prides and have a distinct social hierarchy, while tigers are solitary animals. Tigers have a more potent bite force and are generally larger than lions. Besides, lions have a unique mane, which is not present in tigers. In terms of habitat, lions primarily live in the African savannah, while tigers inhabit forests and grasslands in Asia. Lastly, the fur and coloration patterns differ: lions have a consistent sandy-brown fur with a tufted tail, whereas tigers have characteristic orange fur with black stripes.
+
+8. Instruction: How should one store their coffee beans to maximize freshness?
+8. Input: 
+<noinput>
+8. Output: 
+To maximize the freshness of coffee beans, store them in an opaque, airtight container at room temperature. Keep the container away from direct sunlight, heat, and moisture to prevent degradation of the beans. If possible, use coffee beans within two weeks of opening the package.
+
+9. Instruction: Revise the following paragraph to improve its tone and conciseness.
+9. Input: 
+People who exercise each morning will find that the rest of the day will be so much better. They will have more energy and they will be more alert. They may even find that they have more patience with their coworkers that tend to irritate them a little bit. They might even see that they've become friendlier with some of the people that they normally avoided in the past.
+9. Output: 
+Morning exercise significantly improves one's daily experience. It boosts energy levels and alertness while promoting patience with potentially irritating coworkers. Exercisers may also find themselves building camaraderie with those they previously avoided.
+
+10. Instruction: Write a haiku about the given scene.
+10. Input: 
+Cherry blossoms in spring
+10. Output: 
+Cherry blossoms bloom,
+In spring's embrace, they dance,
+Soft whispers of pink.

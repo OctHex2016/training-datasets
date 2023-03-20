@@ -1,0 +1,108 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+The dog chased the cat through the yard.
+4. Output: 
+The cat was chased through the yard by the dog.
+
+5. Instruction: Identify the literary device used in the provided sentence.
+5. Input: 
+Time flies like an arrow; fruit flies like a banana.
+5. Output: 
+Pun
+
+6. Instruction: Summarize the main idea of the following text.
+6. Input: 
+Artificial intelligence (AI) has made significant progress in recent years, enabling machines to perform tasks that were once reserved for humans. While AI has been applied to a broad range of industries, its most profound impact may be felt in the field of healthcare. AI tools have the potential to revolutionize the way doctors diagnose and treat diseases, making it possible to provide personalized care to patients at a lower cost. Moreover, AI algorithms can analyze vast amounts of data to identify patterns and make predictions that can help healthcare providers make more informed decisions about patient care.
+6. Output: 
+Artificial intelligence is revolutionizing healthcare by enabling personalized treatment and improving diagnosis through data analysis, leading to informed decision-making.
+
+7. Instruction: Explain the impact of the Fourth Industrial Revolution on employment opportunities.
+7. Input: 
+<noinput>
+7. Output: 
+The Fourth Industrial Revolution, driven by advancements in automation and artificial intelligence, will transform the job market. While it may eliminate some traditional jobs, it will also create new and diverse opportunities, particularly in technology and innovation-related fields. The shift in skills demand will require a focus on lifelong learning and adaptation to succeed in the changing employment landscape.
+
+8. Instruction: What are some potential drawbacks of using social media?
+8. Input: 
+<noinput>
+8. Output: 
+Some potential drawbacks of using social media include reduced privacy, misinformation, addiction, cyberbullying, negative impact on mental health, and excessive time consumption.
+
+9. Instruction: Correct the grammar and punctuation errors in the following text.
+9. Input: 
+Some places - like restaurants or other public areas - may forbid dogs. However; there are situation's when dog owners cant leave they're pets at home, every pet owners should pay attention to the signs and follow the rules.
+9. Output: 
+Some places, like restaurants or other public areas, may forbid dogs. However, there are situations when dog owners can't leave their pets at home. Every pet owner should pay attention to the signs and follow the rules.
+
+10. Instruction: Rank the following items by their level of importance in personal finance: saving, debt reduction, investing, budgeting.
+10. Input: 
+<noinput>
+10. Output: 
+1. Budgeting
+2. Saving
+3. Debt reduction
+4. Investing
+
+11. Instruction: Identify the type of figurative language used in the given sentence.
+11. Input: 
+My love for her is a deep ocean.
+11. Output: 
+Metaphor
+
+12. Instruction: Convert the given Fahrenheit temperature to Celsius.
+12. Input: 
+95°F
+12. Output: 
+35°C
+
+13. Instruction: Describe the main features of the market economy system.
+13. Input: 
+<noinput>
+13. Output: 
+The main features of the market economy system include private property, voluntary exchange, competitive markets, limited government intervention, and the profit motive.
+
+14. Instruction: Suggest two ways to improve the environmental friendliness of the transportation sector.
+14. Input: 
+<noinput>
+14. Output: 
+1. Encourage the use of electric and hybrid vehicles.
+2. Promote public transportation and carpooling.
+
+15. Instruction: Identify the correct order for the lifecycle of a butterfly.
+15. Input: 
+<noinput>
+15. Output: 
+1. Egg
+2. Larva (Caterpillar)
+3. Pupa (Chrysalis)
+4. Adult (Butterfly)
+
+16. Instruction: Analyze the tone of the following excerpt.
+16. Input: 
+Imagine waking up one day to find out that the future has arrived, and it is a dystopia where human interaction is nearly extinct. The world around you is cold, devoid of warmth, and you can't help but wonder how we ever got to this point.
+16. Output: 
+Dismal, somber
+
+17. Instruction: Explain the difference between 'who' and 'whom' in grammar.
+17. Input: 
+<noinput>
+17. Output: 
+'Who' is a subject pronoun, used for the person performing the action of a verb. In contrast, 'whom' is an object pronoun, used for the person receiving the action of a verb or following a preposition.
+
+18. Instruction: Determine the best audience for a public speaking event about artificial intelligence and robotics in manufacturing.
+18. Input: 
+<noinput>
+18. Output: 
+Factory owners, manufacturing industry professionals, supply chain managers, and automation engineers.
+
+19. Instruction: Expand the given acronym into its full form.
+19. Input: 
+GDP
+19. Output: 
+Gross Domestic Product
+
+20. Instruction: Write a short 2-3 sentence review about visiting the Empire State Building.
+20. Input: 
+<noinput>
+20. Output: 
+The Empire State Building offers a breathtaking view of New York City from its observation deck. A must-visit attraction for tourists and locals alike, it's truly an iconic symbol of human achievement.

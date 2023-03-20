@@ -1,0 +1,41 @@
+4. Instruction: Write a short news article summary for the given headline.
+4. Input:
+ Apple announces new privacy features for iOS 15 at WWDC 2021
+4. Output:
+Apple unveiled new privacy features for iOS 15 during WWDC 2021, aimed at giving users more control over how and when their data is accessed. Key features include the App Privacy Report, which provides an overview of how apps use users' data, and Mail Privacy Protection, which stops senders from tracking when emails are opened. These updates reinforce Apple's commitment to user privacy amid growing concerns about data collection and tracking by tech giants.
+
+5. Instruction: Correct the grammatical and spelling errors in the given sentence.
+5. Input:
+Ther's many resons for childs inteference in the family matters.
+5. Output:
+There are many reasons for children's interference in family matters.
+
+6. Instruction: Suggest a healthier alternative to the given food or dish.
+6. Input:
+Cheeseburger and fries
+6. Output:
+Grilled chicken sandwich with a side salad.
+
+7. Instruction: Make a positive comment about a fictional book.
+7. Input:
+<noinput>
+7. Output:
+The gripping storyline and multidimensional characters in this novel are truly exceptional. I couldn't put the book down and was left wanting more even after I finished!
+
+8. Instruction: Identify the emotion conveyed in the provided sentence.
+8. Input:
+My hands were shaking and my heart was pounding as I prepared to give my speech.
+8. Output:
+Anxiety
+
+9. Instruction: State the benefits of concluding a meeting on time.
+9. Input:
+<noinput>
+9. Output:
+Concluding a meeting on time fosters time management, increases productivity, maintains engagement and focus, shows respect for participants' schedules, and allows for better follow-up action planning.
+
+10. Instruction: Describe how to start a vegetable garden in a small backyard.
+10. Input:
+<noinput>
+10. Output:
+To start a vegetable garden in a small backyard, begin by selecting the sunniest location. Prep the soil by clearing weeds, tilling, and adding organic matter like compost. Choose suitable plants, considering your climate and space limitations. Use raised beds or containers for better drainage and to save space. Plant seeds or seedlings, maintaining good spacing for optimal growth, and water regularly. Implement organic pest control methods and keep an eye out for diseases to ensure a thriving garden.

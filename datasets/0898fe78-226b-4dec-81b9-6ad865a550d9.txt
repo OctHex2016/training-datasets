@@ -1,0 +1,114 @@
+4. Instruction: Summarize the given news article. 
+4. Input: 
+"Researchers from the University of Melbourne and Monash University have discovered a new method for producing hydrogen with an energy-efficient and affordable catalyst. The catalyst consists of tiny clusters of gold nano-particles, which are efficient at breaking the bond between the oxygen and hydrogen atoms in water molecules. The team found that under normal room temperature conditions, the new catalyst greatly sped up the chemical processes required to produce hydrogen gas, potentially leading to an abundant and sustainable energy source. According to the researchers, this discovery could facilitate the wide-scale adoption of hydrogen fuel cells as an alternative energy source. The team will now look for industrial partners to commercialize their innovation."
+4. Output: 
+Researchers from Australian universities have discovered an energy-efficient and affordable catalyst, comprising gold nano-particles, for producing hydrogen. This new method could lead to a sustainable energy source and boost the adoption of hydrogen fuel cells as an alternative energy source. The researchers are now seeking industrial partners for commercialization.
+
+5. Instruction: Name the speaker of the following quote.
+5. Input: 
+"Forget not that the earth delights to feel your bare feet and the winds long to play with your hair."
+5. Output: 
+Khalil Gibran
+
+6. Instruction: Correct any grammatical errors in the following paragraph.
+6. Input: 
+"If I would of known how difficult it were to learn English, I might have chose another language to study. At least I’ve learned a lot from my mistakes, but its also been frustrating at times. I hope this’ll remain a memorable experience for me in the futur."
+6. Output: 
+"If I had known how difficult it was to learn English, I might have chosen another language to study. At least I've learned a lot from my mistakes, but it's also been frustrating at times. I hope this will remain a memorable experience for me in the future."
+
+7. Instruction: Describe the process of making a cup of coffee using a French press.
+7. Input: 
+<noinput>
+7. Output: 
+1. Boil water and let it cool slightly.
+2. Coarsely grind your coffee beans.
+3. Add the ground coffee to the French press.
+4. Pour the hot water slowly over the grounds, saturating them evenly.
+5. Stir the mixture gently.
+6. Place the plunger on top but don't press down yet.
+7. Let the coffee steep for about 4 minutes.
+8. Press the plunger down slowly and evenly.
+9. Pour the coffee into a cup and enjoy.
+
+8. Instruction: Pick three countries and sort them in alphabetical order.
+8. Input: 
+Norway, United States, Japan
+8. Output: 
+Japan, Norway, United States
+
+9. Instruction: Identify the fallacy in the following argument.
+9. Input: 
+"You should really try this all-natural yogurt. After all, everyone I know is eating it and they tell me it's really working."
+9. Output: 
+Bandwagon fallacy
+10. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+10. Input: 
+25 °C
+10. Output: 
+77 °F
+
+11. Instruction: Identify the literary device used in the following sentence.
+11. Input: 
+"Life is like a box of chocolates; you never know what you're going to get."
+11. Output: 
+Simile
+
+12. Instruction: Recommend five popular travel destinations within Europe.
+12. Input: 
+<noinput>
+12. Output: 
+1. Paris, France
+2. Rome, Italy
+3. Barcelona, Spain
+4. Amsterdam, Netherlands
+5. Prague, Czech Republic
+
+13. Instruction: Rank the given items by cost, from least expensive to most expensive.
+13. Input: 
+Smartphone, pack of gum, bicycle, laptop
+13. Output:
+Pack of gum, bicycle, smartphone, laptop
+
+14. Instruction: What is the capital city of the given country?
+14. Input:
+Brazil
+14. Output: 
+Brasília
+
+15. Instruction: Rewrite the following sentence in the first person point of view.
+15. Input: 
+"He walked down the street, under the glowing streetlights."
+15. Output: 
+"I walked down the street, under the glowing streetlights."
+
+16. Instruction: Select the best synonym for the supplied word.
+16. Input: 
+Examine: explore, evaluate, expand
+16. Output: 
+Evaluate
+
+17. Instruction: Explain the primary function of a CPU in a computer.
+17. Input: 
+<noinput>
+17. Output: 
+The primary function of a CPU (Central Processing Unit) in a computer is to execute instructions and manage data for various programs and applications. It acts as the "brain" of the computer, processing and coordinating tasks according to priority and capacity.
+
+18. Instruction: Tell me the common theme in these movies: The Godfather, Goodfellas, Scarface.
+18. Input: 
+<noinput>
+18. Output: 
+The common theme in these movies is organized crime and the rise and fall of criminal figures.
+
+19. Instruction: Write a haiku about the ocean.
+19. Input: 
+<noinput>
+19. Output: 
+Waves crash on the shore,
+Endless blue horizon calls,
+Ocean's deep embrace.
+
+20. Instruction: Which famous scientist is credited with the theory of general relativity?
+20. Input: 
+<noinput>
+20. Output: 
+Albert Einstein

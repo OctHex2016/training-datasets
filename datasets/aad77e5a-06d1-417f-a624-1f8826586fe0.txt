@@ -1,0 +1,45 @@
+4. Instruction: Rewrite the given sentence in passive voice. 
+4. Input: 
+The cat chased the mouse.
+4. Output: 
+The mouse was chased by the cat.
+
+5. Instruction: Recommend five books in the fantasy genre.
+5. Input: 
+<noinput>
+5. Output:
+- The Hobbit by J.R.R. Tolkien
+- A Game of Thrones by George R.R. Martin
+- The Name of the Wind by Patrick Rothfuss
+- The Chronicles of Narnia by C.S. Lewis
+- Harry Potter and the Philosopher's Stone by J.K. Rowling
+
+6. Instruction: Summarize the information given in the passage.
+6. Input:
+Jellyfish are fascinating creatures that inhabit every ocean. These animals come in a variety of shapes, sizes, and colors. Equipped with a soft, gelatinous body and a unique structure, they lack the traditional features such as bones, muscles, and fins. However, this does not hinder their ability to move about the oceans. Instead, they use a pulsing motion to propel themselves through the water. Some species of jellyfish are bioluminescent, which means they are capable of emitting light. This ability helps them attract prey or scare away predators.
+6. Output:
+Jellyfish are intriguing marine creatures found in all oceans, having a diverse range of shapes, sizes, and colors. Despite their soft, gelatinous body and lack of bones, muscles, and fins, they effectively move using a pulsing motion. Some jellyfish are bioluminescent, emitting light to attract prey or deter predators.
+
+7. Instruction: Find the error and correct the given sentence.
+7. Input:
+She catched the last train to London yesterday.
+7. Output:
+She caught the last train to London yesterday.
+
+8. Instruction: What is the capital city of the given country?
+8. Input:
+France
+8. Output:
+Paris
+
+9. Instruction: Provide the full name of the acronym.
+9. Input:
+NASA
+9. Output:
+National Aeronautics and Space Administration
+
+10. Instruction: Who was the author who created the idea of the given character?
+10. Input:
+Sherlock Holmes
+10. Output:
+Sir Arthur Conan Doyle

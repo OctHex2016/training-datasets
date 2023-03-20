@@ -1,0 +1,140 @@
+4. Instruction: Rewrite the given sentence in the passive voice. 
+4. Input: 
+Jane wrote an excellent essay on climate change.
+4. Output: 
+An excellent essay on climate change was written by Jane.
+
+###
+5. Instruction: Recommend an appropriate plant to consider for each room in the home specified, based on the given environmental conditions.
+5. Input: 
+Kitchen: Bright window; Bathroom: Low light, high humidity; Bedroom: Moderate light. 
+5. Output: 
+Kitchen: Spider Plant; Bathroom: Peace Lily; Bedroom: Snake Plant.
+
+###
+6. Instruction: Write a brief summary of the following news article.
+6. Input: 
+Scientists have just discovered a new species of frog in the Amazon rainforest. The frog, now named the "Emerald-spotted Treefrog," is notable for its distinctive green spots and its ability to change color rapidly. This ability helps the frog to blend in with its environment, providing excellent camouflage when needed. Researchers hypothesize that this unique feature played a vital role in the animal's survival, especially as deforestation rates continue to spike in the area. The discovery offers new insights into the biodiversity and potential adaptations of amphibians in the region.
+6. Output: 
+A new species of frog, called the Emerald-spotted Treefrog, has been discovered in the Amazon rainforest. It has distinguishable green spots and can rapidly change color to blend in with its environment, which researchers believe contributes to its survival amidst deforestation challenges. The discovery highlights the region's biodiversity and potential adaptations of amphibians.
+
+###
+7. Instruction: Identify the grammatical errors in the given text.
+7. Input: 
+Evry tim when i go to the storr, i think about what kind of fruut is on season and i make sure im grabbing what looks the best.
+7. Output: 
+Evry (Every), tim (time), storr (store), fruut (fruit), im (I'm)
+
+###
+8. Instruction: What are the National Parks located in Washington State? List at least two parks.
+8. Input: 
+<noinput>
+8. Output: 
+Olympic National Park, North Cascades National Park
+
+###
+9. Instruction: Given the recipe, calculate the required ingredients for 2 servings.
+9. Input: 
+Recipe for Chocolate Cake (4 servings):
+- 1 cup sugar
+- 1 cup flour
+- 1/2 cup cocoa powder
+- 2 eggs
+- 1/2 cup boiling water
+9. Output: 
+Ingredients for Chocolate Cake (2 servings):
+- 1/2 cup sugar
+- 1/2 cup flour
+- 1/4 cup cocoa powder
+- 1 egg
+- 1/4 cup boiling water
+
+###
+10. Instruction: Arrange the given events in chronological order.
+10. Input: 
+World War II, The Great Depression, The Cold War, World War I
+10. Output: 
+World War I, The Great Depression, World War II, The Cold War
+
+###
+11. Instruction: Identify the literary devices used in the given passage.
+11. Input: 
+The sky was full of dancing stars on this fine, crisp autumn night. The wind sung its elusive song, dancing through the trees like a waltzing ballerina.
+11. Output: 
+Imagery, personification, simile
+
+###
+12. Instruction: Write a condolence message for the loss of a loved one.
+12. Input: 
+<noinput>
+12. Output: 
+I am deeply saddened to hear about your loss. My sincerest condolences go out to you and your family during this difficult time. May the cherished memories of your loved one bring you comfort and strength in the days ahead.
+
+###
+13. Instruction: Based on the given text, what kind of climate would suit the character best?
+13. Input: 
+Robert has always loved the outdoors, especially hiking and camping in the mountains. He appreciates cooler weather and finds tropical climates to be overwhelming with their heat and humidity.
+13. Output: 
+A temperate or cooler mountain climate would suit Robert best.
+
+###
+14. Instruction: List three steps in the process of cellular respiration.
+14. Input:
+<noinput>
+14. Output: 
+1. Glycolysis
+2. Citric acid cycle (Krebs cycle)
+3. Oxidative phosphorylation (electron transport chain)
+
+###
+15. Instruction: Proofread and correct the spelling and punctuation in the following passage.
+15. Input: 
+I went to the doctor yesterday - he said I had a cold im fine now, though. The medicine he proscribed works relly well! Do you remember that party last week? It was incredible: thers another one tomorow.
+15. Output: 
+I went to the doctor yesterday; he said I had a cold. I'm fine now, though. The medicine he prescribed works really well! Do you remember that party last week? It was incredible. There's another one tomorrow.
+
+###
+16. Instruction: Classify the following items into four categories: animals, plants, natural phenomena, and human-made objects.
+16. Input: 
+Giraffe, apple tree, cactus, computer, lightning, Eiffel Tower, bear, whale, rainbow
+16. Output: 
+Animals: Giraffe, bear, whale
+Plants: Apple tree, cactus
+Natural phenomena: Lightning, rainbow
+Human-made objects: Computer, Eiffel Tower
+
+###
+17. Instruction: Rephrase the following question to show empathy for a grieving friend.
+17. Input: 
+Are you okay with the loss of your friend?
+17. Output: 
+I can't imagine how tough it must be to lose a dear friend. How are you holding up?
+
+###
+18. Instruction: Explain the meaning of the phrase "don't judge a book by its cover."
+18. Input:
+<noinput>
+18. Output: 
+The phrase "don't judge a book by its cover" means that you shouldn't form an opinion about someone or something solely based on its outward appearance, as there may be more depth or value than initially meets the eye.
+
+###
+19. Instruction: Write an example of a limerick.
+19. Input: 
+<noinput>
+19. Output: 
+There once was a man from Peru
+Who dreamt he was eating his shoe
+He awoke with a scream
+In the midst of his dream
+And found that the dream had come true
+
+###
+20. Instruction: Transform the given data into a pie chart description.
+20. Input: 
+Smartphone Users by Age Group:
+- 18-24: 80%
+- 25-34: 70%
+- 35-44: 60%
+- 45 and over: 50%
+20. Output: 
+The pie chart represents the percentage of smartphone users among different age groups. The 18-24 age group has the highest smartphone usage, accounting for 80% of users. The 25-34 age group follows with 70% usage. The 35-44 age group has 60% smartphone usage, and finally, the 45 and over age group has 50% smartphone usage.

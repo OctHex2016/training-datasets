@@ -1,0 +1,122 @@
+4. Instruction: Write a 200-word description of your favorite movie. 
+4. Input: 
+Movie: The Dark Knight (2008)
+4. Output: 
+The Dark Knight is a gripping crime-drama that transcends the superhero genre. The film's Joker, played brilliantly by Heath Ledger, is the perfect foil to Christian Bale's Batman. The cinematography, action sequences and score are all top notch, but it's the moral dilemmas, stunning performances, and complex characters that make this movie a masterpiece. Successfully combining gritty realism with larger-than-life heroics, The Dark Knight is a tour-de-force of filmmaking that resonates with audiences to this day.
+###
+5. Instruction: Write a short poem about rain. 
+5. Input: 
+<noinput>
+5. Output: 
+Raindrops fall from the sky,
+Soaking through my clothes pass by,
+Pitter patter all around and such,
+Nothing beats the sound of the rain's gentle touch.
+###
+6. Instruction: Convert the following temperature from °F to °C.
+6. Input: 
+80 °F
+6. Output: 
+26.7 °C
+###
+7. Instruction: Identify the type of flower in the given image.
+7. Input: 
+<image of a flower>
+7. Output: 
+Tulip
+###
+8. Instruction: Identify the breed of dog in the given image.
+8. Input: 
+<image of a dog>
+8. Output: 
+Golden Retriever
+###
+9. Instruction: Edit the given paragraph for grammar and spelling errors.
+9. Input: 
+Befor Mark Twain rite Huck Finn, he rite Tom Sawyer.
+9. Output: 
+Before Mark Twain wrote Huck Finn, he wrote Tom Sawyer. 
+###
+10. Instruction: Generate a list of 10 book recommendations.
+10. Input: 
+<noinput>
+10. Output: 
+1. 1984 by George Orwell
+2. To Kill a Mockingbird by Harper Lee
+3. Pride and Prejudice by Jane Austen
+4. The Great Gatsby by F. Scott Fitzgerald
+5. One Hundred Years of Solitude by Gabriel Garcia Marquez  
+6. Crime and Punishment by Fyodor Dostoevsky
+7. The Catcher in the Rye by J.D. Salinger
+8. Their Eyes Were Watching God by Zora Neale Hurston
+9. The Color Purple by Alice Walker
+10. Beloved by Toni Morrison
+###
+11. Instruction: Write a 100-word summary of a recent news article.
+11. Input: 
+Article: NASA’s Perseverance Rover Successfully Lands on Mars
+11. Output: 
+NASA’s Perseverance Rover successfully landed on Mars on February 18th, marking the beginning of a new era of space exploration. The mission will search for signals of ancient life and collect samples for eventual return to Earth. The mission is also equipped with a mini-helicopter, which would be the first powered flight on another planet if successful. The landing site is an ancient lake bed and delta that may have once hosted microbial life. The mission will provide important clues to the history of Mars and help lay the groundwork for future manned missions to explore the Red Planet.
+### 
+12. Instruction: Translate the following phrase from English to Spanish.
+12. Input: 
+Hello, how are you?
+12. Output: 
+Hola, ¿cómo estás?
+###
+13. Instruction: Define the scientific term "photosynthesis".
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose, using carbon dioxide and water as the raw material. The process is essential for life on Earth, as it produces oxygen and is the base of the food chain.
+###
+14. Instruction: Write a 150-word essay on the impact of social media on society.
+14. Input: 
+<noinput>
+14. Output: 
+Social media has transformed the way we communicate, share information and interact with each other. While it has revolutionized access to information and provided a powerful platform for activism and advocacy, it has also enabled the spread of misinformation, radicalization and cyberbullying. Social media algorithms create echo-chambers and filter bubbles, reinforcing our biases and limiting the exchange of diverse perspectives. Furthermore, social media addiction has led to increased anxiety, depression, and sleep disorders among users. Despite these challenges, social media remains a powerful tool that can be harnessed for social change and connecting with like-minded people. The key is to regulate social media content, educate users on digital citizenship and use social media in a responsible and meaningful way.
+###
+15. Instruction: Identify the composer of the following classical music piece.
+15. Input: 
+<recording of music piece>
+15. Output: 
+Ludwig van Beethoven 
+###
+16. Instruction: Suggest a scientific experiment to test the effect of caffeine on heart rate. 
+16. Input: 
+<noinput>
+16. Output: 
+A possible experiment to test the effect of caffeine on heart rate would be to recruit a sample of 20 participants, half of whom will receive a caffeine pill and the other half will receive a placebo. The heart rate of each participant will be monitored and recorded for 30 minutes before and after they take the pill. The results will be compared using a t-test to determine whether the caffeine has a significant effect on heart rate.
+###
+17. Instruction: Create a Twitter post about a recent trip you took.
+17. Input: 
+<noinput>
+17. Output: 
+Just got back from an amazing trip to Bali! The beaches, food and culture were all unforgettable. I can't wait to go back! 🏝️🍛🌺 #travel #bali #vacation
+###
+18. Instruction: Write a 100-word character description for a story you are writing. 
+18. Input: 
+Character: Emma, 25-year-old journalist.
+18. Output: 
+Emma is a tenacious journalist who relentlessly pursues the truth. Though she can be reckless and impulsive at times, she is fiercely intelligent and has a keen sense of justice. Emma's passion for her work can sometimes lead her down dangerous paths, but her resolve and determination never falter. Her closest friends describe her as caring, witty and fiercely loyal, but Emma's obsession with her work often consumes her life. Despite this, Emma remains determined to use her journalism to make a positive impact on the world, no matter the cost.
+###
+19. Instruction: Correct the spelling and grammar errors in the following sentence. 
+19. Input: 
+I freaked out wnen i herd abowt the spider in my rom.
+19. Output: 
+I freaked out when I heard about the spider in my room.
+###
+20. Instruction: Write a sonnet about unrequited love.
+20. Input: 
+<noinput>
+20. Output: 
+Unrequited love, the sweetest pain,
+The heart that aches in vain.
+For reasons beyond our might,
+Our feelings cast aside like light.
+We dream of that which we can't grasp,
+A one-sided love that cannot last.
+With each rejection we grow more strong,
+Cherishing what cannot belong. 
+For love is not a gift that's given, 
+But it's the reason we keep livin'.

@@ -1,0 +1,47 @@
+4. Instruction: Recommend books for learning about artificial intelligence with a focus on natural language processing.
+4. Input: <noinput>
+4. Output: 
+1. "Speech and Language Processing" by Daniel Jurafsky and James H. Martin
+2. "Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper
+3. "Deep Learning for Natural Language Processing" by Palash Goyal, Sumit Pandey, and Karan Jain
+4. "Applied Text Analysis with Python" by Benjamin Bengfort, Rebecca Bilbro, and Tony Ojeda
+5. "Pattern Recognition and Machine Learning" by Christopher M. Bishop
+
+5. Instruction: Edit the following paragraph to make it more formal and academic.
+5. Input: 
+People in their 20s are facing different challenges than their parents did. Today's political and economical situations are holding them back from starting a family and having babies. Lucinda, an expert on this topic, states that those old-fashioned family dreams are quickly becoming a fantasy. 
+5. Output: 
+Individuals in their twenties confront distinct challenges compared to previous generations. Contemporary political and economic circumstances impede their ability to initiate families and raise children. Lucinda, a specialist in this domain, posits that traditional family aspirations are rapidly evolving into unattainable fantasies.
+
+6. Instruction: Summarize the primary points of the given text in 50 words or less.
+6. Input: 
+Climate change is one of the most critical challenges facing humanity today. Carbon dioxide emissions from fossil fuel burning have caused a significant increase in global temperatures, leading to a variety of harmful effects on ecosystems and human populations. The Intergovernmental Panel on Climate Change (IPCC) has set forth various measures to combat this issue, including reducing greenhouse gas emissions, transitioning to clean energy sources, and implementing strategic policies worldwide. Failure to address climate change adequately and promptly will lead to severe consequences for both current and future generations.
+6. Output: 
+Climate change, driven by carbon emissions, threatens ecosystems and human populations. The IPCC recommends reducing emissions, adopting clean energy, and implementing global policies. Inaction will result in severe consequences for present and future generations.
+
+7. Instruction: Describe the steps to bake chocolate chip cookies.
+7. Input: <noinput>
+7. Output: 
+1. Preheat oven to 350°F (180°C). Line baking sheets with parchment paper.
+2. In a large bowl, cream together butter, granulated sugar, and brown sugar until smooth.
+3. Beat in eggs one at a time, then stir in vanilla extract.
+4. In a separate bowl, combine flour, baking soda, and salt. Gradually add to the butter mixture.
+5. Fold in chocolate chips.
+6. Use a cookie scoop or spoon to drop rounded tablespoons of dough onto prepared baking sheets.
+7. Bake for 10-12 minutes or until edges are lightly golden. Cool on wire racks.
+
+8. Instruction: State the advantages and disadvantages of using solar energy as a primary power source.
+8. Input: <noinput>
+8. Output: 
+Advantages:
+1. Renewable and sustainable source of energy
+2. Low operating costs and minimal maintenance
+3. Reduces reliance on fossil fuels and lowers greenhouse gas emissions
+4. Can be installed on various scales, from home to industrial use
+5. Incentives and rebates from governments and utilities
+
+Disadvantages:
+1. Initial high installation costs
+2. Variable energy production due to weather conditions and limited sunlight hours
+3. Requires large surface area for significant power generation
+4. Environmental impact from solar panel production and the disposal of panels at end-of-life

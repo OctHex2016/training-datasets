@@ -1,0 +1,101 @@
+4. Instruction: Generate a creative story starting with the sentence "She looked up at the sky and saw something she had never seen before."
+4. Input: 
+<noinput>
+4. Output: 
+She looked up at the sky and saw something she had never seen before. A kaleidoscope of colors swirled above her, a vibrant dance of purples, pinks, and blues. The colors moved in harmony, almost as if choreographed. She stood there, mesmerized and unable to move. What does it mean, she wondered. Is it a sign? She watched until the colors faded away, promising herself that she would find out what it meant.
+###
+5. Instruction: Correct the grammar in the following sentence: "Me and my friend went to the store yesterday."
+5. Input: 
+Me and my friend went to the store yesterday.
+5. Output: 
+My friend and I went to the store yesterday.
+###
+6. Instruction: What is the capital of Thailand? 
+6. Input: 
+<noinput>
+6. Output: 
+The capital of Thailand is Bangkok. 
+###
+7. Instruction: Create a new recipe for lasagna, including at least one non-traditional ingredient. 
+7. Input: 
+12 lasagna noodles, 1 lb. ground beef, 1 crushed garlic cloves, 1 chopped onion, 2 teaspoons garlic powder, 2 teaspoons dried oregano, 1 1/2 teaspoons salt, 1 (24 ounce) jar tomato-based pasta sauce, 6 oz. sliced mushrooms, 1 1/2 cups ricotta cheese, 2 cups shredded mozzarella cheese, 1/2 cup grated parmesan cheese.
+7. Output: 
+Try this delicious zucchini lasagna recipe with 3 zucchinis layered in place of noodles. Brown the beef with onions and garlic then add mushrooms to the pan. Mix with sauce, ricotta cheese, parmesan, and seasoning. Layer the dish with sliced zucchini, cheese mix, and sauce, and repeat until finished. Bake at 375°F for 30 minutes, and then top with shredded mozzarella and bake for extra 10 minutes until the cheese is melted.
+###
+8. Instruction: Rewrite the following sentence to sound more formal: "I gotta go to the store." 
+8. Input: 
+I gotta go to the store.
+8. Output: 
+I must go to the store.
+###
+9. Instruction: Based on the following graph, what was the highest revenue month for ABC Company in 2020? 
+9. Input:
+[insert graph]
+9. Output: 
+According to the graph, the highest revenue month for ABC Company in 2020 was March.
+###
+10. Instruction: Use the given word in a sentence: exasperated 
+10. Input: 
+<noinput>
+10. Output: 
+She felt exasperated when she realized she had left her phone at the office after coming all the way home.
+###
+11. Instruction: Come up with a catchy slogan for a new energy drink. 
+11. Input: 
+<noinput>
+11. Output: 
+"Get amped with Surge, the energy drink that never quits!" 
+###
+12. Instruction: Summarize the main idea of the given article in one sentence. 
+12. Input: 
+Article: A recent study finds that people often underestimate the amount of sugar they consume due to the confusing nutritional information on food labels. 
+12. Output: 
+The article reveals that nutritional information on food labels often confuse people, causing under-estimation of their sugar intake. 
+###
+13. Instruction: Rewrite the following sentence to use the active voice: "The ball was caught by the outfielder." 
+13. Input: 
+The ball was caught by the outfielder.
+13. Output: 
+The outfielder caught the ball. 
+###
+14. Instruction: Describe the main character in the given book. 
+14. Input: 
+Book: To Kill a Mockingbird, Harper Lee. 
+14. Output: 
+The main character in To Kill a Mockingbird is Scout, a curious and precocious young girl living in the South during the 1930s.
+###
+15. Instruction: Correct the spelling in the following sentence: "Recieve the package at the front desk." 
+15. Input: 
+Recieve the package at the front desk.
+15. Output: 
+Receive the package at the front desk. 
+###
+16. Instruction: What is the boiling point of water in Celsius? 
+16. Input: 
+<noinput>
+16. Output: 
+The boiling point of water in Celsius is 100 degrees. 
+###
+17. Instruction: In ten words or less, describe the theme of the movie The Lion King. 
+17. Input: 
+<noinput>
+17. Output: 
+A young lion prince must defeat his uncle and reclaim the throne. 
+###
+18. Instruction: Which country has the largest population in the world? 
+18. Input: 
+<noinput>
+18. Output: 
+The country with the largest population in the world is China. 
+###
+19. Instruction: Write an example of a palindrome. 
+19. Input: 
+<noinput>
+19. Output: 
+A palindrome example is "racecar" which is the same backward and forward. 
+###
+20. Instruction: Explain the difference between "there", "their", and "they're". 
+20. Input: 
+<noinput>
+20. Output: 
+"There" refers to a place, "their" is possessive, "they're" is a contraction for "they are".

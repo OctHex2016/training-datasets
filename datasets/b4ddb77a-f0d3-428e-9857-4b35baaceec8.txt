@@ -1,0 +1,11 @@
+4. Instruction: Briefly explain how an enigma machine works during World War II.
+4. Input:
+<noinput>
+4. Output:
+The Enigma machine was an electro-mechanical encryption device used by the Germans during World War II. It used a combination of rotors, a set of spinning discs that changed the input plaintext into scrambled coded text (ciphertext). These rotors were arranged in specific orders and positions, which formed the key for encryption. As operators typed, the rotors turned in a stepping motion, altering the encrypting mechanism for each letter, thus making the solving process increasingly difficult. To decrypt a message, the receiving end needed to have an Enigma machine set to the same key settings. Overall, it provided high security for secret communications, although eventually, the Allies managed to crack the Enigma code due to mathematicians' and cryptanalysts' efforts like Alan Turing.5. Instruction: Can you classify the below text into one of the following categories: Business, Technology, Science, Politics, or Sports
+
+5. Input:
+Samsung Electronics announced a breakthrough in its research on advanced semiconductor materials, enabling the development of DRAM chips with significantly higher performance and energy efficiency.
+
+5. Output:
+Technology

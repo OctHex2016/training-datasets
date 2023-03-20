@@ -1,0 +1,107 @@
+
+
+4. Instruction: Rewrite the given sentence in the passive voice. 
+4. Input: 
+The chef cooked the meal quickly.
+4. Output: 
+The meal was cooked quickly by the chef.
+###
+5. Instruction: Given an equation, solve for x.
+5. Input: 
+2x + 6 = 14
+5. Output: 
+x = 4
+###
+6. Instruction: Summarize the given passage in one sentence. 
+6. Input: 
+The United States government is planning to build a new bridge that would connect two cities separated by a river, but environmentalists are concerned about the impact the bridge would have on the local wildlife.
+6. Output: 
+The United States government's plans to build a new bridge are facing opposition from environmentalists concerned about its impact on local wildlife.
+###
+7. Instruction: Given a set of numbers, find the mode. 
+7. Input: 
+4, 5, 2, 4, 6, 7, 4, 3, 3
+7. Output: 
+4
+###
+8. Instruction: Convert the given temperature from Celsius to Fahrenheit. 
+8. Input: 
+23 degrees Celsius
+8. Output: 
+73.4 degrees Fahrenheit
+###
+9. Instruction: Given a piece of music, identify the key signature. 
+9. Input: 
+<noinput>
+9. Output: 
+<GPT-3 cannot perform this task>
+###
+10. Instruction: Analyze the given graph and determine whether the line represents a positive or negative correlation.
+10. Input: 
+<insert graph>
+10. Output: 
+Positive correlation
+###
+11. Instruction: Given a sentence, generate a new sentence with the same meaning using synonyms. 
+11. Input: 
+He is a great friend who always helps me out when I need it.
+11. Output: 
+He is a wonderful pal who consistently lends a hand when I require it.
+###
+12. Instruction: Given a sentence, insert the appropriate punctuation. 
+12. Input: 
+i love to eat pizza but i don't like pineapple on it
+12. Output: 
+I love to eat pizza, but I don't like pineapple on it.
+###
+13. Instruction: Given a set of words, identify the antonym of the adjective. 
+13. Input: 
+happy - ________:
+wide - ________:
+hot - ________:
+13. Output: 
+happy - sad
+wide - narrow
+hot - cold
+###
+14. Instruction: Given a set of numbers, find the median. 
+14. Input: 
+5, 7, 2, 6, 3, 8, 1
+14. Output: 
+5
+###
+15. Instruction: Given a sentence, identify the noun and the verb. 
+15. Input: 
+The cat sat on the mat.
+15. Output: 
+Noun: cat, Verb: sat
+###
+16. Instruction: Given a word, write a sentence containing that word in the present continuous tense. 
+16. Input: 
+read
+16. Output: 
+I am currently reading this book.
+###
+17. Instruction: Given a paragraph, highlight the main idea. 
+17. Input: 
+<insert paragraph>
+17. Output: 
+<GPT-3 cannot perform this task>
+###
+18. Instruction: Given a sentence, identify the subject and the object. 
+18. Input: 
+The dog chased the cat.
+18. Output: 
+Subject: dog, Object: cat
+###
+19. Instruction: Given a passage, identify the theme or main idea. 
+19. Input: 
+<insert passage>
+19. Output: 
+<GPT-3 cannot perform this task>
+###
+20. Instruction: Given a sentence, rephrase it in the past tense. 
+20. Input: 
+I eat breakfast every morning.
+20. Output: 
+I ate breakfast every morning.

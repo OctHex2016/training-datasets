@@ -1,0 +1,140 @@
+4. Instruction: Rewrite the given text in a more formal tone.
+4. Input:
+Hey, can you plz let me know how's everything gonna work out for the upcoming conference? It's urgent, I need to tell my boss.
+4. Output:
+Dear [Recipient], could you please provide information regarding the arrangements for the upcoming conference? It is of utmost importance, as I need to update my supervisor promptly.
+
+5. Instruction: Explain the Monty Hall Problem in simple terms.
+5. Input: 
+<noinput>
+5. Output:
+The Monty Hall Problem is a probability puzzle based on a game show. There are three doors, with a car behind one door and goats behind the other two. You pick one door, and the host, who knows what is behind each door, opens one of the other two doors with a goat. Then you can choose to either stick with your initial choice or switch to the unopened door. The puzzle is, should you switch or stay? Statistically, it's better to switch, as it increases your chances of winning the car to 2/3.
+
+6. Instruction: Give three reasons why one should read fiction books.
+6. Input:
+<noinput>
+6. Output:
+1. Enhances imagination and creativity: Fiction allows readers to explore new worlds, situations, and characters that encourage imaginative thinking.
+2. Improves vocabulary and language skills: Exposure to varied writing styles and diverse vocabulary enhances comprehension, communication, and confidence in using language.
+3. Provides entertainment and relaxation: Reading fiction offers an escape from daily stressors, allowing readers to unwind and explore different emotions in a safe environment.
+
+7. Instruction: Convert this paragraph into bullet points.
+7. Input: 
+Our upcoming event is planned for June 16th in Miami, Florida. It is expected to bring together over 300 professionals from the tech industry. The conference will feature keynote speeches, panel discussions, and interactive workshops. The conference will run from 9:00 AM to 5:00 PM, with a networking lunch from 12:00 PM to 1:30 PM.
+7. Output:
+- Event date: June 16th
+- Location: Miami, Florida
+- Attendees: 300+ tech professionals
+- Features: Keynote speeches, panel discussions, interactive workshops
+- Timing: 9:00 AM to 5:00 PM
+- Networking lunch: 12:00 PM to 1:30 PM
+
+8. Instruction: Based on the given traits, suggest a suitable career option.
+8. Input:
+Loves animals, enjoys outdoor activities, good at understanding animal behavior, has experience in animal treatment, and motivated to make a difference in animals' well-being.
+8. Output:
+A career as a Veterinarian or Wildlife Conservationist would be suitable, given their passion for animals, outdoor activities, and experience in animal treatment.
+
+9. Instruction: Generate an alternative tagline for the company Tesla.
+9. Input:
+<noinput>
+9. Output:
+"Driving the Future: Sustainable Innovation and Beyond."
+
+10. Instruction: Identify two potential target audiences for a high-end fitness center.
+10. Input:
+<noinput>
+10. Output:
+1. Affluent individuals seeking a luxury fitness experience with exclusive facilities and personalized service.
+2. Corporate clients looking to provide employee wellness programs and upscale fitness opportunities.
+
+11. Instruction: Given the following statement, determine if it is fact or opinion.
+11. Input:
+Water boils at 100 degrees Celsius (212 degrees Fahrenheit) at sea level.
+11. Output:
+Fact
+
+12. Instruction: Identify and correct any grammatical errors in the given sentence.
+12. Input:
+He enjoys swim in lakes and rivers, while she prefer to swim in a pool.
+12. Output:
+He enjoys swimming in lakes and rivers, while she prefers to swim in a pool.
+
+13. Instruction: What are the primary colors in the RGB color model?
+13. Input:
+<noinput>
+13. Output:
+The primary colors in the RGB color model are Red, Green, and Blue.
+
+14. Instruction: Describe how photosynthesis works in plants.
+14. Input:
+<noinput>
+14. Output:
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide (CO2), and water (H2O) into glucose and oxygen. In the presence of light, the chlorophyll (the green pigment in plants) absorbs sunlight and uses its energy to combine CO2 and H2O molecules. This reaction produces glucose, which the plants use as energy and building blocks, and releases oxygen as a byproduct.
+
+15. Instruction: Based on the review, rate the product on a scale of 1 to 5 stars.
+15. Input:
+I recently purchased this Bluetooth speaker, and I am very impressed with its sound quality and battery life. It has a sleek design and is incredibly easy to use. My only minor complaint is that it takes a little longer to charge than I expected.
+15. Output:
+4.5 stars
+
+16. Instruction: Write a brief description of the movie "The Shawshank Redemption."
+16. Input:
+<noinput>
+16. Output:
+"The Shawshank Redemption" is a 1994 drama film based on Stephen King's novella. It tells the story of Andy Dufresne, a banker falsely convicted of his wife's murder, who is sentenced to life in Shawshank State Penitentiary. The movie explores themes of friendship, hope, and redemption as Andy forms a bond with fellow inmate Ellis "Red" Redding and struggles to survive the harsh realities of prison life.
+
+17. Instruction: Identify the rhyme scheme used in the given poem.
+17. Input:
+The sun descending in the west,
+The evening star does shine;
+The birds are silent in their nest,
+And I must seek for mine.
+17. Output:
+ABAB
+
+18. Instruction: Write a concise summary of the given paragraph.
+18. Input: 
+The study, conducted by researchers at Boston University, examines the relationship between air pollution and cognitive decline. They analyzed data from longitudinal studies, tracking 3,000 participants' cognitive performance over 10 years. The study reveals that higher exposure to air pollution is associated with a faster decline in cognitive abilities. Furthermore, this decline appears across various cognitive domains, including memory and processing speed.
+18. Output:
+Boston University researchers found that higher exposure to air pollution correlates with faster cognitive decline in areas such as memory and processing speed, based on a study tracking 3,000 participants over 10 years.
+
+19. Instruction: Name three key aspects to consider when designing a mobile application for a wide user base.
+19. Input:
+<noinput>
+19. Output:
+1. User interface (UI) and user experience (UX) design: Ensure easy navigation, accessibility, and a visually appealing interface.
+2. Compatibility and performance: Optimize the app to function seamlessly across various devices, screen sizes, and operating systems.
+3. Security and privacy: Implement robust security measures to protect user data and maintain user trust.
+
+20. Instruction: Write a customer review for a recently purchased laptop that is satisfactory, but could use some improvements.
+20. Input:
+<noinput>
+20. Output:
+I recently bought this laptop, and I am fairly satisfied with my purchase. The performance is good, and it handles my daily tasks well. The battery life is decent, lasting me through most of the workday. However, there are a few areas where improvements could be made. The build quality feels somewhat cheap, and the screen could be brighter and offer better color accuracy. Overall, it's a decent laptop for the price, but I'd love to see these issues addressed in future iterations.1. Instruction: Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know. 
+1. Input: 
+[Naruto] is a [Nippon] manga series written and illustrated by [Masashi]. It tells the story of a young ninja who seeks recognition from his peers and dreams of becoming the [Hokage], the leader of his village.
+1. Output: 
+Naruto -> Naruto
+Nippon -> Japan
+Masashi -> Masashi Kishimoto
+Hokage -> Hokage
+
+2. Instruction: Rank the following universities. 
+2. Input: 
+Princeton, Stanford, UW, Cornell
+2. Output: 
+According to the US News 2022 National University Rankings, Princeton > Stanford >  Cornell > UW. But the ranking is quite subjective, and might change depending on different factors.
+
+3. Instruction: Given some political opinions, classify whether the person belongs to Democrats or Republicans. 
+3. Input: 
+* Putting Kids First and Protecting Parents’ Rights
+* Florida’s Economy is Outpacing the Nation
+* Keeping Our Communities Safe
+* The Environment: Keeping Florida Beautiful
+* Protecting the Integrity of Our Elections
+* Standing Up for Moms and Florida Families
+* Florida: The Most Veteran-Friendly and Pro-Military State
+* Fighting Special Interests
+3. Output: 
+Republicans

@@ -1,0 +1,52 @@
+4. Instruction: Provide three alternative titles for the given article along with its existing title.
+4. Input: 
+"7 Smart Tips to Improve Your Home Office and Boost Productivity"
+4. Output: 
+1. "7 Smart Tips for an Efficient Home Office and Enhanced Productivity"
+2. "Upgrade Your Home Office: 7 Tips for Better Productivity"
+3. "Maximize Your Productivity: 7 Home Office Improvement Ideas"
+
+5. Instruction: Summarize the main points of the following text in no more than three sentences.
+5. Input: 
+Artificial intelligence (AI) is intelligence demonstrated by machines, which contrasts with the natural intelligence displayed by humans and animals. Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of achieving its goals. The term "artificial intelligence" is often used to describe machines, computers, or systems that can perform tasks that typically require human reasoning and problem-solving abilities, such as visual perception, speech recognition, decision-making, and language translation.
+5. Output: 
+Artificial intelligence (AI) is a field focused on creating machine intelligence, in contrast to the natural intelligence of humans and animals. It involves studying "intelligent agents", devices capable of perceiving their environment and taking actions to achieve their goals. AI systems can perform tasks that typically require human cognitive abilities, such as visual perception, speech recognition, decision-making, and language translation.
+
+6. Instruction: Of the two sentences below, find the sentence with a grammatical error, and correct it.
+6. Input: 
+1. Artificial intelligence has been progressing rapidly in recent years.
+2. More faster computers and adequate storage systems has been developed.
+6. Output: 
+2. More faster computers and adequate storage systems have been developed.
+
+7. Instruction: Tell me the theme and mood for the poem below.
+7. Input: 
+Do not go gentle into that good night,
+Old age should burn and rage at close of day;
+Rage, rage against the dying of the light.
+
+Though wise men at their end know dark is right,
+Because their words had forked no lightning they
+Do not go gentle into that good night.
+7. Output: 
+Theme: The poem deals with the inexorable approach of death and the urge to fight against it.
+Mood: The mood is defiant, as it conveys a sense of resistance to the dying of the light and the approach of darkness.
+
+8. Instruction: Generate a rhyming couplet on the theme of Spring.
+8. Input: <noinput>
+8. Output: 
+As blossoms bloom and songbirds sing,
+We feel the joys that Spring does bring.
+
+9. Instruction: Classify the plot of the following story into two genres.
+9. Input: 
+Lucas, an unassuming janitor at a prestigious university, possesses extraordinary problem-solving abilities. One night, while cleaning the chalkboard of a classroom, he solves a complex equation left unfinished by a renowned mathematics professor. The professor then discovers Lucas's talent and guides him on a journey of self-discovery, leading him to pursue a life beyond his janitorial work.
+9. Output: 
+Drama, Coming-of-Age
+
+10. Instruction: In the given excerpt, detect the logical fallacy and briefly explain the issue.
+10. Input: 
+Many people believe that cars are better than bicycles because they provide a faster mode of transportation. And since cars are better than bicycles, they believe public transportation should not be invested in.
+10. Output: 
+Fallacy: Non-sequitur
+Issue: The conclusion that public transportation should not be invested in does not logically follow from the premise that cars are faster than bicycles. The argument fails to consider other factors that may support investment in public transportation.

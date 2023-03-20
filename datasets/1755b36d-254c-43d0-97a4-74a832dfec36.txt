@@ -1,0 +1,130 @@
+4. Instruction: Invert the given statement.
+4. Input: 
+I like dogs, but I don't like cats.
+4. Output: 
+I don't like dogs, but I like cats.
+###
+5. Instruction: Create a slogan for the following brand.
+5. Input: 
+Sunny Soaps - a natural and eco-friendly soap company
+5. Output: 
+Sunny Soaps: Cleanse with a Conscience
+###
+6. Instruction: Summarize the key points of the following article.
+6. Input: 
+In recent years, interest in electric vehicles (EVs) has grown exponentially, leading to exciting innovations in the automotive industry. The global market has seen a shift in the demand for fuel-efficient and environmentally friendly vehicles, advancing the potential for widespread EV adoption.
+
+The most significant barrier to EV adoption has been the relatively limited driving range of battery-powered vehicles. However, rapid advancements in battery technology have improved energy storage capacity and charging times. As a result, the range of electric vehicles is now often comparable to that of traditional internal combustion engines.
+
+Another crucial factor in supporting the widespread adoption of electric vehicles is the development of charging infrastructure. Governments and private companies are investing heavily in the establishment of charging stations and other infrastructure needed to make EVs practical for everyday use. Many countries have set ambitious targets for the number of charging stations to be installed in the coming years, which will help address the issue of "range anxiety" among potential EV buyers. 
+
+The EV market's expansion is also being supported by aggressive government policies, such as tax incentives for consumers who purchase electric vehicles, and mandates for automakers to produce cleaner vehicles. As more automakers transition to producing electric models, the number of available EV options continues to increase. This, in turn, drives competition and innovation, which will likely lead to increasingly better and more affordable electric vehicles in the future.
+
+In conclusion, the rising interest in electric vehicles is driven by developments in battery technology, expanding charging infrastructure, and supportive government policies that work together to make EVs a realistic and attractive option for consumers.
+6. Output: 
+The increasing interest in electric vehicles is driven by advancements in battery technology, expanding charging infrastructure, and supportive government policies. Better energy storage capacity and charging times, as well as more charging stations, make EVs more practical for everyday use. As more automakers offer electric models, competition and innovation will lead to better and more affordable options for consumers.
+###
+7. Instruction: Provide the correct meaning of the idiom.
+7. Input: 
+bite the bullet
+7. Output: 
+To face a difficult or unpleasant situation with courage and determination.
+###
+8. Instruction: How is gravitational force calculated?
+8. Input: 
+<noinput>
+8. Output: 
+Gravitational force is calculated using the formula: F = G * (m1 * m2 / r^2), where F is the gravitational force, G is the gravitational constant (approximately 6.674 × 10^-11 Nm²/kg²), m1 and m2 are the masses of the two objects, and r is the distance between their centers.
+###
+9. Instruction: Write a haiku about autumn leaves.
+9. Input: 
+<noinput>
+9. Output: 
+Crisp leaves underfoot
+Scarlet, gold, and orange hues
+Autumn's final breath
+###
+10. Instruction: Identify any grammatical errors in the given sentence and correct it.
+10. Input: 
+Me and him went to the store together after finished work.
+10. Output: 
+He and I went to the store together after finishing work.
+###
+11. Instruction: Compose a short recipe for the given dish.
+11. Input: 
+shrimp scampi
+11. Output: 
+Ingredients:
+- 1 lb shrimp, peeled and deveined
+- 3 garlic cloves, minced
+- 1/4 cup white wine
+- 1/4 cup lemon juice
+- 1/4 cup butter
+- 2 tbsp olive oil
+- 1/4 cup chopped parsley
+- Salt and pepper to taste
+- 8 oz cooked linguine or spaghetti
+
+Instructions:
+1. Heat the olive oil in a large skillet over medium heat.
+2. Add the shrimp and cook until pink, about 2 minutes per side.
+3. Remove shrimp from the skillet and set aside.
+4. In the same skillet, add minced garlic, cooking for about 1 minute.
+5. Add white wine and lemon juice, allowing the mixture to simmer for about 2-3 minutes.
+6. Stir in butter until melted and combine well.
+7. Add cooked shrimp back into the skillet, and sprinkle with chopped parsley, salt, and pepper.
+8. Toss the shrimp scampi with cooked pasta and serve.
+###
+12. Instruction: Name one major difference between American and British English.
+12. Input: 
+<noinput>
+12. Output: 
+One major difference between American and British English is the spelling of certain words, such as "color" in American English and "colour" in British English.
+###
+13. Instruction: Identify the type of logical fallacy in the given statement.
+13. Input: 
+Everybody is buying the new iPhone, so it must be the best phone out there.
+13. Output: 
+Bandwagon fallacy
+###
+14. Instruction: Describe an effective strategy for time management.
+14. Input: 
+<noinput>
+14. Output: 
+An effective time management strategy is the Pomodoro Technique, which involves breaking tasks into 25-minute intervals (called "pomodoros") followed by a 5-minute break. After completing four pomodoros, take a longer break of 15-30 minutes. This method helps maintain focus and productivity by providing regular breaks and preventing burnout.
+###
+15. Instruction: Imagine a scenario where a person commits a fallacy of false cause.
+15. Input: 
+<noinput>
+15. Output: 
+A person sees an increase in crime rates in their city and also notices that the number of local ice cream parlors has risen. They incorrectly conclude that the increase in ice cream shops is the cause of higher crime rates, committing a fallacy of false cause.
+###
+16. Instruction: Sum up the following argument in your own words.
+16. Input: 
+By providing children with access to books that reflect diversity, we can help them understand the differences and similarities between people of various backgrounds, cultures, and traditions. This can foster empathy and acceptance, which are essential qualities for developing a tolerant and inclusive society.
+16. Output: 
+Ensuring children have diverse books helps them learn about various backgrounds and cultures, promoting empathy and acceptance to create a more inclusive society.
+###
+17. Instruction: Translate the following sentence to simple English.
+17. Input: 
+The deleterious effects of air pollution exacerbate respiratory issues, particularly among vulnerable populations such as elderly individuals and young children.
+17. Output: 
+Harmful effects of dirty air make breathing problems worse, especially for older people and kids.
+###
+18. Instruction: Compare and contrast two options for creating a website.
+18. Input: 
+Using a website builder vs. hiring a website developer
+18. Output: 
+A website builder is a user-friendly, DIY option that allows you to create a website using pre-made templates and drag-and-drop tools, usually for a relatively low cost. It's suitable for simpler websites and beginners. Hiring a website developer involves working with a professional who customizes your site to your specifications, offering more control and flexibility. However, it is usually more expensive and requires more involvement from the site owner throughout the project.
+###
+19. Instruction: How can we reduce environmental pollution?
+19. Input: 
+<noinput>
+19. Output: 
+To reduce environmental pollution, we can conserve energy, reduce waste, recycle, use public transport or carpool, plant trees, choose eco-friendly products, and raise awareness about the impact of pollution to encourage others to make environmentally conscious decisions.
+###
+20. Instruction: Proofread and correct any errors in the given text.
+20. Input: 
+In examining the affects of social media on mental health, several sudies have found links between excessive social media use and symptoms of depression, anxiety, and low self-esteem.
+20. Output: 
+In examining the effects of social media on mental health, several studies have found links between excessive social media use and symptoms of depression, anxiety, and low self-esteem.

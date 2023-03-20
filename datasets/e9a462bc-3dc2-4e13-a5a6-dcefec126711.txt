@@ -1,0 +1,123 @@
+4. Instruction: Write the provided passage in active voice. 
+4. Input: 
+The project was completed on time by the team, and the final report was submitted to the management.
+4. Output: 
+The team completed the project on time and submitted the final report to the management.
+
+5. Instruction: Summarize the given excerpt in 2-3 lines.
+5. Input: 
+A recent study indicated that gardening can be beneficial not only to one's physical health but also to mental wellbeing. The research showed that spending time regularly in the garden can lead to a decrease in cortisol levels, a hormone associated with stress. In addition, the physical activity involved in gardening can help improve cardiovascular health and promote better sleep.
+5. Output: 
+Gardening not only benefits physical health but also mental wellbeing due to reduced stress hormone levels. It also helps improve cardiovascular health and promotes better sleep.
+
+6. Instruction: Translate the following sentence into French.
+6. Input: 
+The hotel staff were very helpful, and the rooms were clean.
+6. Output: 
+Le personnel de l'hôtel était très serviable et les chambres étaient propres.
+
+7. Instruction: List the key differences between mitosis and meiosis.
+7. Input: 
+<noinput>
+7. Output: 
+1. Purpose: Mitosis is for cell growth and repair, while meiosis is for reproducing gametes (egg and sperm cells) for sexual reproduction.
+2. Cell division: Mitosis has one cell division, resulting in two identical daughter cells, while meiosis has two cell divisions, leading to four non-identical daughter cells.
+3. Chromosome number: Mitosis maintains the same chromosome number in the daughter cells, while meiosis reduces the chromosome number by half in the gametes.
+
+8. Instruction: Convert the following recipe's measurements to serve 8.
+8. Input: 
+Serves: 4
+Ingredients:
+- 4 cups chicken broth 
+- 2 cups uncooked orzo 
+- 1-pound boneless skinless chicken breast, cubed
+- Salt and pepper to taste
+8. Output: 
+Serves: 8
+Ingredients:
+- 8 cups chicken broth
+- 4 cups uncooked orzo
+- 2 pounds boneless skinless chicken breast, cubed
+- Salt and pepper to taste
+
+9. Instruction: Analyze the tone of the given text.
+9. Input: 
+How dare you accuse me of being insensitive! Just because I wasn't there doesn't mean I didn't care. You have no right to question my intentions!
+9. Output: 
+Defensive and angry
+
+10. Instruction: Write a Haiku about nature.
+10. Input: 
+<noinput>
+10. Output: 
+Gentle river flows
+Through the whispering green woods
+Nature's harmony
+
+11. Instruction: Determine if the given statement is a fact or an opinion.
+11. Input: 
+Skiing is more fun than snowboarding.
+11. Output: 
+Opinion
+
+12. Instruction: Explain in layman's terms how photosynthesis works.
+12. Input: 
+<noinput>
+12. Output: 
+Photosynthesis is a process that plants use to create food and energy. They take in sunlight, water, and carbon dioxide from the air, and transform these into sugars and oxygen. The plant then uses the sugars for growth and releases the oxygen back into the air, which we breathe.
+
+13. Instruction: Suggest a suitable title for the novel's plot.
+13. Input: 
+An acclaimed detective investigates the disappearance of a wealthy businessman, only to find out that the businessman's wife, who is also the detective’s long-lost sister, plotted the perfect crime.
+13. Output: 
+Deceptive Bloodlines: A Tale of Betrayal
+
+14. Instruction: Write a short motivational message for someone going through tough times.
+14. Input: 
+<noinput>
+14. Output: 
+Hold on tight, you're stronger than you think. Believe in yourself and keep pushing forward. The darkest night will soon give way to the dawn, and happier days are just around the corner. You've got this!
+
+15. Instruction: Classify the given animal into the correct taxonomic class.
+15. Input: 
+Koala
+15. Output: 
+Mammalia
+
+16. Instruction: Describe how to perform a squat exercise properly.
+16. Input: 
+<noinput>
+16. Output: 
+1. Stand with your feet shoulder-width apart and toes slightly turned outward.
+2. Keep your chest up, look straight ahead, and engage your core.
+3. Bend your knees, push your hips back, and lower yourself while keeping your back straight.
+4. Lower your body until your thighs are parallel to the ground.
+5. Push through your heels to return to the starting position, while keeping your back straight during the ascent.
+
+17. Instruction: Calculate the compound interest on an investment for 3 years.
+17. Input: 
+Principal: $1000
+Rate: 5%
+Years: 3
+17. Output: 
+Compound interest: $157.62
+
+18. Instruction: Check the spelling of 5th word in this sentence and correct it if necessary.
+18. Input: 
+She finished the asignemnt and submitted it on time.
+18. Output: 
+The correct spelling is "assignment."
+
+19. Instruction: Is the sentence written in passive or active voice?
+19. Input: 
+This beautiful painting was done by a local artist.
+19. Output: 
+Passive voice
+
+20. Instruction: Write a friendly opening to a letter.
+20. Input: 
+<noinput>
+20. Output: 
+Dear [Name],
+
+I hope this letter finds you in good spirits and full of positivity. It's been so long since we last connected, and I can't wait to catch up on all that's happened in your life!

@@ -1,0 +1,108 @@
+
+
+4. Instruction: Summarize the main idea of the following paragraph in 1-2 sentences.
+4. Input: 
+Sickle cell disease (SCD) is an inherited group of disorders characterized by the presence of haemoglobin S (HbS) in the red blood cells. The most common form of SCD is homozygous (HbSS) disease, which is caused by the inheritance of two sickle haemoglobin genes (one from each parent). SCD is a significant public health problem in many tropical and subtropical areas of the world.
+4. Output: 
+Sickle cell disease is an inherited disorder caused by two sickle haemoglobin genes resulting in red blood cells containing haemoglobin S (HbS). The condition is most commonly found in tropical and subtropical areas, and is a significant public health concern. 
+
+5. Instruction: Correct the grammar mistake in the following sentence.
+5. Input:
+She don't have no money to buy it.
+5. Output: 
+She doesn't have any money to buy it. 
+
+6. Instruction: Rewrite the following sentence in an active voice.
+6. Input: 
+The cake was eaten by my dog.
+6. Output: 
+My dog ate the cake. 
+
+7. Instruction: What is the capital of Peru?
+7. Input: 
+<noinput>
+7. Output: 
+The capital of Peru is Lima. 
+
+8. Instruction: Provide a definition for the term "herpetology."
+8. Input: 
+<noinput>
+8. Output: 
+Herpetology is a branch of zoology that studies reptiles and amphibians.
+
+9. Instruction: What year was the first iPhone released?
+9. Input: 
+<noinput>
+9. Output: 
+The first iPhone was released in 2007.
+
+10. Instruction: Rewrite the following sentence to make it more concise.
+10. Input: 
+The reason why he did not attend the meeting is because he had a dentist appointment.
+10. Output: 
+He did not attend the meeting because of a dentist appointment. 
+
+11. Instruction: What is the boiling point of water in Celsius?
+11. Input: 
+<noinput>
+11. Output: 
+The boiling point of water in Celsius is 100 degrees.
+
+12. Instruction: Write a short poem about nature.
+12. Input: 
+<noinput>
+12. Output:
+Nature is a beauty born,
+Radiant colors and life adorn,
+Trees stand tall, seas roar,
+A place of peace forevermore. 
+
+13. Instruction: Rewrite the following sentence in a formal style.
+13. Input: 
+Dude, that game was awesome!
+13. Output: 
+The game was thoroughly enjoyable. 
+
+14. Instruction: What is the square root of 256?
+14. Input: 
+<noinput>
+14. Output: 
+The square root of 256 is 16. 
+
+15. Instruction: Write a sentence using the word "fortuitous".
+15. Input: 
+<noinput>
+15. Output: 
+It was fortuitous that the museum exhibit opened just as the tourist arrived in town. 
+
+16. Instruction: Correct the spelling mistake in the following sentence.
+16. Input: 
+Accidently , I spilled coffee on my laptop.
+16. Output: 
+Accidentally, I spilled coffee on my laptop. 
+
+17. Instruction: What is the main idea of the book "To Kill a Mockingbird" by Harper Lee?
+17. Input: 
+<noinput>
+17. Output: 
+The main idea of "To Kill a Mockingbird" explores themes of racial injustice, inequality, and social prejudice, and follows the story of a young girl learning to navigate a complex world. 
+
+18. Instruction: Write a brief conversation in which one person asks another for directions to the nearest gas station.
+18. Input: 
+Person 1: Excuse me, do you know how to get to the nearest gas station?
+Person 2: Sure, go straight ahead for two blocks and turn right at the traffic lights. You'll find the gas station on your left-hand side. 
+18. Output: 
+Person 1: Excuse me, do you know how to get to the nearest gas station?
+Person 2: Sure, go straight ahead for two blocks and turn right at the traffic lights. You'll find the gas station on your left-hand side. 
+
+19. Instruction: Rewrite the following sentence using a different verb.
+19. Input: 
+She walked down the street to the grocery store.
+19. Output: 
+She strolled down the street to the grocery store.
+
+20. Instruction: What is the currency used in Japan?
+20. Input: 
+<noinput>
+20. Output: 
+The currency used in Japan is the yen.

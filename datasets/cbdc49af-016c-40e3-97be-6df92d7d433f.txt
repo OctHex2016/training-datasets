@@ -1,0 +1,46 @@
+4. Instruction: Transform the given sentence into passive voice. 
+4. Input: 
+She reads the book every evening.
+4. Output: 
+The book is read by her every evening.
+###
+5. Instruction: Write a brief summary of the provided text.
+5. Input: 
+Van Gogh painted a series of portraits before moving to Paris in 1886 based on popular Victorian novels. Some of these portraits are now lost, but they provide insight into Van Gogh's development as an artist. Recent discoveries have allowed researchers to piece together clues about the location of the missing art, links to his later work, and his evolving relationship with his brother Theo. Van Gogh's fascination with literature fueled his experimentation with a range of subjects and enabled him to communicate certain emotions and concepts through his early work.
+5. Output: 
+Before moving to Paris in 1886, Van Gogh painted a series of portraits influenced by popular Victorian novels. These lost pieces provide valuable insight into his artistic evolution, ties to later work, and his relationship with his brother Theo. Van Gogh's passion for literature inspired him to explore various subjects and convey emotions through his early work.
+###
+6. Instruction: Indicate the main character's profession in the following text excerpt.
+6. Input: 
+Dr. Ronald Thompson hurried down the crowded hospital corridor, dodging nurses and orderlies as he went. The seasoned surgeon knew that every second counted in emergency situations, and he was about to face the most complex surgery of his career.
+6. Output: 
+Surgeon
+###
+7. Instruction: Based on the provided text, write an advice for the friend who is having a problem.
+7. Input: 
+My friend is feeling overwhelmed with her job, she’s working long hours, and struggling to balance her work and personal life. She is constantly feeling stressed and burned out, which is affecting her health and relationships.
+7. Output: 
+Your friend should consider taking a step back and reassessing her priorities. She should have a conversation with her supervisor about her workload and discuss possible strategies to create a better work-life balance. It's also important for her to set boundaries between work and personal life, practice self-care, and seek support from her friends and family.
+###
+8. Instruction: Analyze the given statement and explain whether it is an objective or subjective perspective.
+8. Input: 
+Chocolate is the best dessert.
+8. Output: 
+This statement is subjective because it reflects a personal opinion or preference about chocolate being the best dessert.
+###
+9. Instruction: Convert the following text to a series of bullet points.
+9. Input: 
+The main advantages of electric cars are their environmental friendliness and reduced greenhouse gas emissions, the low operating and maintenance costs, and a quieter driving experience. Furthermore, electric cars reduce dependence on fossil fuels and provide tax incentives for their owners in some countries.
+9. Output: 
+- Environmental friendliness
+- Reduced greenhouse gas emissions
+- Low operating and maintenance costs
+- Quieter driving experience
+- Reduced dependence on fossil fuels
+- Tax incentives in some countries
+###
+10. Instruction: What is the capital city of the country mentioned in the given text?
+10. Input: 
+<button>,</button> France is a beautiful country known for its rich history, art, and culture. People from all over the world visit France to experience its famous sights, such as the Eiffel Tower and Louvre Museum.
+10. Output:
+Paris

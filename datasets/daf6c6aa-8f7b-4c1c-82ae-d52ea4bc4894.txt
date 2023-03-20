@@ -1,0 +1,17 @@
+4. Instruction: Summarize the main points of this news article on climate change in one sentence. 
+4. Input: 
+News Article: Scientists warn that the world is facing a climate emergency as global temperatures continue to rise, causing sea levels to rise and natural disasters to become more frequent and extreme. 
+4. Output: 
+Climate scientists warn of global emergency due to rising temperatures, sea levels, and more frequent natural disasters. 
+###
+5. Instruction: Given this list of ingredients, come up with a recipe for a vegetarian meal without using any dairy or eggs. 
+5. Input: 
+Ingredients: Chickpeas, tomato, onion, eggplant, garlic
+5. Output: 
+Vegetarian chickpea and eggplant stew: sauté onions and garlic, then add diced tomatoes, chopped eggplant, and chickpeas, and let simmer until vegetables are tender. Add salt and pepper to taste. Serve hot and enjoy! 
+###
+6. Instruction: Edit this sentence to improve its clarity and conciseness: “The reason why he decided to quit his job was that he couldn’t handle the stress that came with it.” 
+6. Input: 
+<noinput>
+6. Output: 
+He quit his job due to stress.

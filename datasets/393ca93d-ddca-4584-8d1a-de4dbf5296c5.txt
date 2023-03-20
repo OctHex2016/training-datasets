@@ -1,0 +1,127 @@
+4. Instruction: Identify three poetic devices within the given poetry excerpt.
+4. Input: 
+As birds in flight, they moved through twilight shade,
+Seeking new paths across the serenade.
+Where trees and whispers spoke in harmony,
+Their voices echoed, forming words of glee.
+
+4. Output: 
+1. Alliteration (twilight shade)
+2. Rhyme (shade and serenade, harmony and words of glee) 
+3. Personification (trees and whispers spoke)
+
+###
+5. Instruction: Write a brief introduction paragraph on the given topic.
+5. Input: 
+Topic: The impact of social media on mental health
+5. Output: 
+In recent years, social media has become an integral part of daily life for many people worldwide. With its undeniable influence on society, researchers, psychologists, and healthcare professionals have started to analyze the impact of social media on mental health. This paper will explore the positive and negative effects of social media usage on individuals, examine recent studies on the subject, and discuss potential measures for mitigating harm while maximizing the benefits of these platforms.
+
+###
+6. Instruction: Classify the given text into one of the following categories: Science Fiction, Romance, Mystery, or Biography. 
+6. Input: 
+Alone on this barren planet, Hugo navigated the unforgiving landscapes, encountering strange lifeforms and slowly uncovering the secrets of the abandoned civilization that once thrived here.
+6. Output: 
+Science Fiction
+
+###
+7. Instruction: Point out two logical fallacies in the following argument.
+7. Input: 
+Anyone who doesn't believe in climate change is ignorant. You obviously don't understand science if you can't see the evidence that climate change is real. There must be something wrong with you!
+7. Output:
+1. Ad Hominem: Attacking the person rather than addressing the argument.
+2. Appeal to Ridicule: Making fun of the opposing view instead of addressing the argument.
+
+###
+8. Instruction: Based on their personality traits, recommend a suitable career for the given individual.
+8. Input: 
+Personality traits: compassionate, empathetic, communicative, great listener
+8. Output: 
+Mental Health Counselor or Psychologist
+
+###
+9. Instruction: Briefly explain the given scientific term.
+9. Input: 
+Photosynthesis
+9. Output: 
+Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose or other sugars. During photosynthesis, these organisms use sunlight, carbon dioxide, and water to produce oxygen and glucose, which serves as a source of energy and sustenance for the organism.
+
+###
+10. Instruction: Rewrite the given sentence while keeping its meaning the same.
+10. Input: 
+Although the storm was predicted to be mild, it ultimately caused a considerable amount of damage.
+10. Output: 
+Despite the forecast of a mild storm, it resulted in significant damage.
+
+###
+11. Instruction: Translate the given English text to French.
+11. Input: 
+What time is the next train to Paris?
+11. Output: 
+À quelle heure est le prochain train pour Paris?
+
+###
+12. Instruction: Convert the given recipe measurements to metric units.
+12. Input: 
+2 cups of flour, 1 tablespoon of sugar, 1/2 cup of milk, 1/4 teaspoon of salt
+12. Output: 
+480 mL of flour, 15 mL of sugar, 120 mL of milk, 1.25 mL of salt
+
+###
+13. Instruction: Summarize the main argument of the given text.
+13. Input: 
+In light of the recent changes to online privacy policies, debates surrounding data protection have become increasingly prevalent. One key concern is the extent that massive corporations like Facebook and Google gather user data to generate targeted advertisements. Data collection practices have faced intense scrutiny as users grapple with the realization that their online activity is monitored and stored. The push for increased privacy regulations, curbing data collection practices, or even breaking up big tech giants has gained substantial ground within the population, reflected in growing public and political pressure.
+13. Output: 
+The text argues that data collection practices by big tech corporations, like Facebook and Google, have raised privacy concerns, leading to growing public and political pressure for increased privacy regulations or potential breakup of these tech giants.
+
+###
+14. Instruction: Suggest an alternative solution to the given problem.
+14. Input:
+Problem: A small business is struggling to keep up with customer service inquiries due to a limited budget, and cannot afford to hire additional staff.
+14. Output:
+Solution: Implement customer service chatbots on the website and social media channels to handle frequently asked questions and simple inquiries, allowing the existing staff to focus on more complex issues.
+
+###
+15. Instruction: Write one advantage and one disadvantage for the topic provided.
+15. Input:
+Topic: Carpooling
+15. Output:
+Advantage: Reduces commuting costs by sharing fuel and parking expenses.
+Disadvantage: Requires coordination among participants, potentially leading to scheduling conflicts or delays.
+
+###
+16. Instruction: List three common myths related to the given subject.
+16. Input:
+Subject: Weight loss
+16. Output:
+1. Starvation diets lead to sustainable weight loss.
+2. Fat-free or low-fat foods are always better for weight loss.
+3. Skipping meals is an effective way to lose weight.
+
+###
+17. Instruction: Calculate the tip amount for a given restaurant bill and percentage.
+17. Input:
+Bill: $60, Tip Percentage: 15%
+17. Output: 
+Tip Amount: $9
+
+###
+18. Instruction: Correct the grammatical errors in the given sentence.
+18. Input:
+Me and Jennifer went too the store for buying some fruit's.
+18. Output: 
+Jennifer and I went to the store to buy some fruits.
+
+###
+19. Instruction: State the name of the historical period and location associated with this art style/movement.
+19. Input:
+Renaissance
+19. Output: 
+Period: 14th-17th century, Location: Italy (Europe)
+
+###
+20. Instruction: Describe the significance of the given historical event.
+20. Input: 
+Invention of the printing press by Johannes Gutenberg
+20. Output: 
+The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was disseminated, making it more accessible to the masses. With the ability to print books and documents more quickly and cost-effectively, literacy rates increased, and ideas spread at a much faster pace, contributing to significant advancements in fields like science, religion, and politics.

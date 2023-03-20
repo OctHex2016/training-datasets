@@ -1,0 +1,41 @@
+4. Instruction: Write a very brief summary of the following movie plot.
+4. Input: 
+Following the global devastation caused by an alien species known as the Formics, humanity unites and creates an advanced military academy to train children who show exceptional strategic ability. Ender Wiggin, a young genius, is recruited to join the academy, where he rapidly rises through the ranks. Ultimately, he leads a human fleet in a simulated battle against the alien species, only to discover that the simulation was a test, and the real battle has been won. Ender now becomes humanity's savior and is chosen to explore and colonize the universe.
+4. Output: 
+Ender Wiggin, a young strategist, is recruited to a military academy to train for battle against an alien species, the Formics. He excels and leads a simulated battle against the aliens, only to learn it was real, making him humanity's savior and colonizer of the universe.
+
+5. Instruction: Using the input dialogue, predict what happens next.
+5. Input:
+John: I can't find my wallet anywhere. I think I might have left it at the cafe.
+Marie: Don't worry, I'm going there now. I can ask the staff if they found it.
+John: Thanks, I really appreciate it!
+5. Output: 
+Marie goes to the cafe and asks the staff about John's lost wallet.
+
+6. Instruction: What is the main idea behind the statement provided?
+6. Input:
+"By simplifying complex processes and streamlining operations, businesses can improve their productivity, reduce costs, and gain a competitive advantage in the market."
+6. Output:
+The main idea is that simplifying processes and streamlining operations can boost business productivity, lower costs, and provide a competitive edge.
+
+7. Instruction: Describe the given image.
+7. Input: <noinput>
+7. Output: 
+An image description cannot be provided without an image. Please provide a visual context or specific details for me to describe.
+
+8. Instruction: Analyze the tone of this email and determine if it's positive, negative, or neutral.
+8. Input:
+Dear team,
+
+I wanted to take a moment to congratulate everyone on a terrific performance during Q1! Our revenue has exceeded expectations and our customer satisfaction rates are at an all-time high. Great work everyone!
+
+Regards,
+Your Manager
+8. Output:
+Positive
+
+9. Instruction: Identify which type of fallacy is present in the statement.
+9. Input: 
+"Of course, Maria can be trusted with that responsibility. She is quite good at maintaining her social media profiles."
+9. Output:
+False analogy

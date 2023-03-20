@@ -1,0 +1,102 @@
+4. Instruction: Write a congratulatory message to someone who just passed their driving test.
+4. Input:
+<noinput>
+4. Output:
+Hey there, congratulations on passing your driving test! I knew you could do it. Now you can enjoy the freedom of the open road and make some exciting memories. Drive safe and be proud of your achievement!
+
+5. Instruction: Categorize the following fruits as either "citrus" or "non-citrus".
+5. Input:
+orange, apple, grapefruit, blueberry, lemon
+5. Output:
+Citrus: orange, grapefruit, lemon
+Non-citrus: apple, blueberry
+
+6. Instruction: Improve the grammar and punctuation of the following sentence.
+6. Input:
+i went to the store and saw a cute dog it was playing with toy
+6. Output:
+I went to the store and saw a cute dog. It was playing with a toy.
+
+7. Instruction: What is it called when you remember a past event in great detail, like watching a movie of it in your mind?
+7. Input:
+<noinput>
+7. Output:
+This is called having a "flashbulb memory."
+
+8. Instruction: Describe the role of pollinators in the food chain.
+8. Input:
+<noinput>
+8. Output:
+Pollinators play a vital role in the food chain by transferring pollen from one plant to another, resulting in the fertilization and production of seeds and fruits. This process supports biodiversity, helps plants grow and reproduce, and provides food sources for insects, birds, and other animals, maintaining a balanced ecosystem.
+
+9. Instruction: Compare a novel with its movie adaptation.
+9. Input:
+"The Great Gatsby" by F. Scott Fitzgerald and the 2013 film directed by Baz Luhrmann
+9. Output:
+The novel "The Great Gatsby" is a timeless classic written by F. Scott Fitzgerald, which delves into themes of wealth, love, and the disillusionment of the American Dream. The 2013 movie adaptation, directed by Baz Luhrmann, maintains the core of the story but adds a modern and visually spectacular twist to it. While the novel relies heavily on descriptive language and symbolism to convey its message, the movie emphasizes extravagant visuals, costume design, and mannerisms of the characters to bring the roaring 1920s to life. The movie may be more accessible for modern audiences, but it potentially sacrifices the depth and intricacy of Fitzgerald's original text.
+
+10. Instruction: Explain how to solve a Rubik's Cube.
+10. Input:
+<noinput>
+10. Output:
+To solve a Rubik's Cube, you can follow these general steps:
+1. Solve the white cross: Match the white edge pieces to their correct centers while aligning them with the corresponding side colors.
+2. Finish the first layer: Position the white corner pieces in their correct locations.
+3. Solve the second layer: Insert the four edge pieces in their correct positions, matching them with their respective centers.
+4. Solve the yellow cross: Apply the required algorithms to create a complete yellow cross on the top layer.
+5. Position the yellow corners: Apply algorithms to position the corners in their correct locations on the top layer.
+6. Orient the yellow corners: Perform the necessary algorithm sequences to rotate the corners, completing the Rubik's Cube.
+Keep in mind there are different solving methods for the Rubik's Cube, but learning and practicing a chosen method will eventually lead to mastery.
+
+11. Instruction: Rewrite the following sentence in passive voice.
+11. Input:
+The cat chased the mouse into the hole.
+11. Output:
+The mouse was chased into the hole by the cat.
+
+12. Instruction: Identify the main difference between external and internal conflict in literature.
+12. Input:
+<noinput>
+12. Output:
+The main difference between external and internal conflict in literature lies in the nature of the struggle faced by the characters. External conflict involves a character's struggle against an outside force, such as another character, nature, or society. In contrast, internal conflict occurs within the character's mind, often dealing with their emotions, thoughts, or a moral dilemma.
+
+13. Instruction: Invent a creative name for a brand of ecological cleaning products.
+13. Input:
+<noinput>
+13. Output:
+EcoSweep Harmony
+
+14. Instruction: Write a recipe for a healthy and tasty vegetable stir-fry.
+14. Input:
+<noinput>
+14. Output:
+Ingredients:
+- 2 tablespoons vegetable oil
+- 1 cup broccoli florets
+- 1 cup sliced bell peppers (assorted colors)
+- 1 cup sliced carrots
+- 1 cup sliced zucchini
+- 1 cup snap peas
+- 1 tablespoon minced garlic
+- 1 tablespoon grated ginger
+- 1/4 cup soy sauce
+- 2 tablespoons honey
+- 1 tablespoon cornstarch
+- 1/4 cup water
+- Salt and pepper to taste
+- Cooked rice or noodles (optional)
+
+Instructions:
+1. Heat vegetable oil in a large skillet or wok over high heat.
+2. Add broccoli, bell peppers, carrots, zucchini, and snap peas, cooking for 3-4 minutes, stirring frequently. 
+3. Add garlic and ginger to the skillet, continuing to cook for an additional 1 minute.
+4. In a small bowl, whisk together the soy sauce, honey, cornstarch, and water.
+5. Pour the sauce mixture over the vegetables in the skillet, stirring to combine. Cook for 2 minutes or until the sauce has thickened slightly.
+6. Season with salt and pepper, adjusting to your taste.
+7. Serve the vegetable stir-fry over cooked rice or noodles, if desired.
+
+15. Instruction: What are the three main types of rocks in geology?
+15. Input:
+<noinput>
+15. Output:
+The three main types of rocks in geology are igneous, sedimentary, and metamorphic.

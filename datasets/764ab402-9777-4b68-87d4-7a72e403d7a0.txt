@@ -1,0 +1,177 @@
+4. Instruction: Summarize the following text into two sentences.
+
+4. Input: 
+Climate change is a global crisis affecting all living beings on Earth. Rising temperatures, melting ice caps, increased frequency of natural disasters, and increased CO2 levels in the atmosphere pose significant threats to our planet. The main cause of climate change is human activity, specifically the burning of fossil fuels and deforestation. To mitigate the effects of climate change, urgent measures including reducing greenhouse gas emissions, transitioning to renewable energy sources, and protecting and restoring ecosystems must be undertaken on a global scale.
+
+4. Output: 
+Climate change, caused primarily by human activities, is impacting the entire planet through rising temperatures, melting ice caps, and more frequent natural disasters. Urgent global action is needed, including reducing greenhouse gas emissions, transitioning to renewable energy, and protecting ecosystems.
+
+###
+
+5. Instruction: Rewrite the following sentence in passive voice.
+
+5. Input: 
+The company launched a new product yesterday.
+
+5. Output: 
+A new product was launched by the company yesterday.
+
+###
+
+6. Instruction: How would you improve the following cover letter paragraph to make it more compelling for the hiring manager?
+
+6. Input: 
+I have been working in the software testing field for more than four years, and I have experience with both manual and automated testing. At my present job, I have successfully led a small team of testers to meet project deadlines and maintain product quality.
+
+6. Output: 
+Leveraging over four years of experience in software testing, including proficiency in both manual and automated methodologies, I have a proven track record of leading teams to excellence by consistently meeting project deadlines and surpassing quality standards.
+
+###
+
+7. Instruction: Translate the following text from English to French.
+
+7. Input: 
+I am excited to visit Paris in the spring. I hope to see the Eiffel Tower and enjoy the local cuisine.
+
+7. Output: 
+Je suis ravi de visiter Paris au printemps. J'espère voir la Tour Eiffel et savourer la cuisine locale.
+
+###
+
+8. Instruction: Given the list of movies, recommend three of them based on their popularity and critical acclaim according to IMDb and Rotten Tomatoes ratings.
+
+8. Input: 
+Interstellar, The Godfather, Titanic, The Shawshank Redemption, Pulp Fiction, Inception, The Dark Knight, Goodfellas, Fight Club, Schindler's List.
+
+8. Output: 
+The Godfather, The Shawshank Redemption, The Dark Knight.
+
+###
+
+9. Instruction: What are the five stages of grief, also known as the Kübler-Ross model?
+
+9. Input: 
+<noinput>
+
+9. Output: 
+Denial, Anger, Bargaining, Depression, Acceptance.
+
+###
+
+10. Instruction: Correct the grammatical errors in the following sentence.
+
+10. Input: 
+She enjoys read book every night before goes to sleep.
+
+10. Output: 
+She enjoys reading a book every night before going to sleep.
+
+###
+
+11. Instruction: Convert the following statement into a question.
+
+11. Input: 
+You can speak four languages.
+
+11. Output: 
+Can you speak four languages?
+
+###
+
+12. Instruction: Generate three possible marketing slogans for an eco-friendly clothing brand.
+
+12. Input: 
+<noinput>
+
+12. Output: 
+1. Wear the Change: Chic, Sustainable Styles for a Greener World.
+2. Embrace a Brighter Future: Eco-Fashion Made Stylish.
+3. Love Your Look, Love Your Planet: Conscious Fashion for Modern Living.
+
+###
+
+13. Instruction: Explain the concept of inflation in your own words.
+
+13. Input: 
+<noinput>
+
+13. Output: 
+Inflation is the steady increase in the general price levels of goods and services in an economy over time. As a result, money loses its purchasing power, meaning people need more money to buy the same items they could previously buy with less money.
+
+###
+
+14. Instruction: Identify the adjectives in the given sentence.
+
+14. Input: 
+The beautiful sunset painted the sky with vibrant colors.
+
+14. Output: 
+beautiful, vibrant.
+
+###
+
+15. Instruction: For an iPhone user who’s having battery drain issues, provide a step-by-step guide to check which apps are using the most battery.
+
+15. Input: 
+<noinput>
+
+15. Output: 
+1. Unlock and open your iPhone.
+2. Tap on the 'Settings' app to access the device settings.
+3. Scroll down and tap on 'Battery.'
+4. Under the 'Battery Usage' section, you'll see a list of apps.
+5. The list will show the percentage of battery usage by each app.
+6. To see more detailed information, tap on the app to view its battery usage over a specific time period.
+
+###
+
+16. Instruction: Write a brief description of a novel based on the following keywords: time travel, Victorian era, secret society, forbidden love.
+
+16. Input: 
+<noinput>
+
+16. Output: 
+Embark on a thrilling journey through time as Amelia, a modern-day historian, stumbles upon a mysterious artifact that transports her to the Victorian era. Unequipped for this new world, she is swept into the intricate web of a secret society hiding in the shadows of London's elite. As Amelia deciphers hidden clues and navigates dangerous liaisons, she becomes entangled in a forbidden love that threatens her existence, unraveling a tale of passion, power, and betrayal that transcends the boundaries of time.
+
+###
+
+17. Instruction: Provide a polite response to a user who left a message saying, "I received the wrong item."
+
+17. Input: <+noinput>
+
+17. Output: 
+Thank you for bringing this to our attention, and we apologize for any inconvenience caused. We'll immediately work on resolving this issue by sending you the correct item. Please check your email for further instructions regarding the return and replacement process.
+
+###
+
+18. Instruction: Describe the game of chess in one sentence.
+
+18. Input: 
+<noinput>
+
+18. Output: 
+Chess is a strategic, two-player board game played on an 8x8 grid, with each player attempting to outwit their opponent and ultimately achieve checkmate by capturing the opponent's king while protecting their own.
+
+###
+
+19. Instruction: How can companies foster more diversity and inclusion in the workplace?
+
+19. Input: 
+<noinput>
+
+19. Output: 
+Companies can foster more diversity and inclusion by implementing clear hiring and promotion policies, offering diversity and inclusion training programs, creating employee resource groups, supporting work flexibility, actively seeking feedback from employees, measuring diversity and inclusion outcomes, and cultivating a positive and inclusive company culture that values and respects differences.
+
+###
+
+20. Instruction: List five famous historical events that took place between the 18th and 19th centuries.
+
+20. Input: 
+<noinput>
+
+20. Output: 
+1. American Revolution (1765-1783)
+2. French Revolution (1789-1799)
+3. Napoleonic Wars (1803-1815)
+4. War of 1812 (1812-1815)
+5. Industrial Revolution (1760-1840)

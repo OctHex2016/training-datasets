@@ -1,0 +1,51 @@
+4. Instruction: Write a 50-word news headline summarizing the main point of the given text.
+4. Input: 
+Researchers at the University of California, Berkeley, have discovered that sleep-starved fruit flies display hyperactivity during periods of sleep loss which may be similar to human insomnia. The research could help in understanding the underlying reasons for sleep deprivation and possible treatments for insomnia.
+4. Output: 
+UC Berkeley Researchers Discover Sleep-Deprived Fruit Flies Exhibit Insomnia-Like Behavior, Improving Understanding of Human Sleep Disorders
+###
+5. Instruction: Provide three possible ending sentences for the given story.
+5. Input: 
+Once upon a time, in a small village near the mountains, there lived a young girl named Elina. She loved exploring the woods and listening to the birds sing. One day, while walking through the forest, she found a shimmering, magical stone that...
+5. Output: 
+1. ...granted her the ability to speak to animals, forming lifelong friendships and unforgettable experiences.
+2. ...opened a portal to a hidden world of mystical creatures, where she would embark on thrilling adventures.
+3. ...bestowed upon her the power of healing, and she used this gift to help the sick and wounded in her village.
+###
+6. Instruction: Identify three scientific inaccuracies in the following text.
+6. Input: 
+The earth revolves around the sun at a speed of 300,000 kilometers per hour (km/h) in an elliptical orbit. Light from the sun reaches the earth in just 8.20 minutes. The earth's tilt in relation to the sun causes the four seasons - summer, winter, autumn, and spring.
+6. Output: 
+1. The earth's speed around the sun is not 300,000 km/h; it is approximately 107,000 km/h.
+2. Light from the sun reaches the earth in 8.20 minutes is inaccurate; it takes approximately 8.3 minutes.
+3. The earth's tilt does cause the four seasons, but the list of seasons is incorrect - it should be winter, spring, summer, and fall (or autumn).
+###
+7. Instruction: Convert the given dialogue into a narrative paragraph.
+7. Input: 
+Martha: Hi, Tom! How was your vacation?
+Tom: Hey, Martha! It was great. We went to the beach, and the kids loved it.
+Martha: That sounds fun. What else did you do?
+Tom: Well, we also visited some museums and tried local cuisine.
+Martha: I'm glad you had a good time!
+7. Output: 
+When Martha saw Tom, she asked him how his vacation went. Tom enthusiastically told her it was great, mentioning how much the kids loved their time at the beach. He also shared that they visited some museums and enjoyed trying the local cuisine. Martha expressed her happiness for Tom's enjoyable vacation.
+###
+8. Instruction: Write a haiku (5-7-5 syllable) about summer. 
+8. Input: 
+<noinput>
+8. Output: 
+Golden sun above,
+Children play, laughter ringing,
+Warmth on blossoming bloom.
+###
+9. Instruction: Can you identify if the given statement is a fact, opinion, or a hypothesis?
+9. Input: 
+The Grand Canyon is one of the Seven Wonders of the World.
+9. Output: 
+Opinion
+###
+10. Instruction: Summarize the main characteristics of the protagonist in the following text.
+10. Input: 
+In the small town of Millhaven, Gregory Parker was known for his intelligence and wit. He was a tall, middle-aged man with piercing blue eyes and black hair streaked with gray. As a detective, he made a habit of noticing details others overlooked. He was incredibly observant and never shied away from a challenge, often taking risks to solve the most intricate of mysteries. His tenacity and resourcefulness were his strongest attributes, but he did struggle with a stubborn streak that occasionally complicated his relationships.
+10. Output: 
+Gregory Parker is an intelligent and witty detective from Millhaven. He is a tall, middle-aged man with piercing blue eyes and black hair streaked with gray. Highly observant, he never shies away from challenges and takes risks to solve complex mysteries. Gregory is tenacious and resourceful but struggles with stubbornness, which complicates his relationships.

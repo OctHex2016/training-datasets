@@ -1,0 +1,121 @@
+4. Instruction: Translate the text provided from English to French.
+4. Input: 
+The sun was setting and the sky was a beautiful blend of orange and pink. I walked along the beach, enjoying the sound of waves crashing on the shore.
+4. Output: 
+Le soleil se couchait et le ciel était un magnifique mélange d'orange et de rose. Je me promenais sur la plage, profitant du bruit des vagues s'écrasant sur le rivage.
+
+5. Instruction: Correct the grammar mistakes in the given text.
+5. Input: 
+She are going to the store, and he have three choices of ice cream flavor to buy: vanilla, strawberry or chocalate.
+5. Output: 
+She is going to the store, and he has three choices of ice cream flavors to buy: vanilla, strawberry, or chocolate.
+
+6. Instruction: What are some famous landmarks in the given city? List at least five.
+6. Input: 
+Paris
+6. Output: 
+- Eiffel Tower
+- Louvre Museum
+- Notre-Dame Cathedral
+- Arc de Triomphe
+- Montmartre and Sacré-Cœur Basilica
+
+7. Instruction: Write a brief overview of the plot of the given book or movie.
+7. Input: 
+The Great Gatsby
+7. Output: 
+The Great Gatsby, written by F. Scott Fitzgerald, tells the story of Jay Gatsby's pursuit of the American Dream and his love for the beautiful Daisy Buchanan. Set in the Roaring Twenties, the novel explores themes of wealth, social class, and idealism through the eyes of the narrator, Nick Carraway. As Gatsby tries to win back Daisy's love, events unfold that lead to a tragic ending, revealing the harsh reality behind the glamour and extravagance of the era.
+
+8. Instruction: Identify the genre of the given movie or book.
+8. Input: 
+The Matrix
+8. Output: 
+Science Fiction/Action
+
+9. Instruction: List possible health benefits associated with the given food.
+9. Input: 
+Green tea
+9. Output: 
+- Improves brain function
+- Increases fat burning
+- Reduces the risk of cancer
+- Lowers the risk of heart disease
+- Supports weight loss
+- Promotes dental health
+- Reduces the risk of type 2 diabetes
+
+10. Instruction: Write a haiku featuring the given word.
+10. Input: 
+Autumn
+10. Output: 
+Crisp autumn leaves fall,
+Golden hues embrace the ground,
+Nature's breath turns cold.
+
+11. Instruction: Determine whether the given statement is true or false and provide a brief explanation.
+11. Input: 
+A square is always a rectangle, but a rectangle is never a square.
+11. Output: 
+False. A square is always a rectangle because it has four right angles. However, a rectangle can sometimes be a square if it has all four sides equal in length.
+
+12. Instruction: Summarize the main points of the given news article.
+12. Input: 
+After months of negotiations, the United Kingdom and the European Union have finally agreed on a post-Brexit trade deal. This historic agreement comes just days before the UK is set to leave the EU single market and customs union. The deal ensures that there will be no tariffs or quotas on goods traded between the UK and the EU, avoiding the potentially disastrous consequences of a no-deal Brexit. However, the trade deal does mean new customs procedures for businesses, and the UK will no longer be bound by EU regulations or the European Court of Justice.
+
+12. Output: 
+The UK and EU have agreed on a post-Brexit trade deal, which ensures no tariffs or quotas on goods traded between them. The deal avoids a no-deal Brexit but introduces new customs procedures and separates the UK from EU regulations and the European Court of Justice.
+
+13. Instruction: Explain how photosynthesis works in plants.
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is a process in plants where they convert sunlight, carbon dioxide, and water into glucose (sugar) and oxygen. This occurs in the chloroplasts, organelles containing chlorophyll, which is responsible for capturing sunlight. During photosynthesis, light energy is absorbed by chlorophyll and used to power reactions that produce ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate), both high-energy molecules. These molecules, along with carbon dioxide, are used in the Calvin Cycle, a series of enzyme-catalyzed reactions that produce glucose. Oxygen is released as a byproduct during this process.
+
+14. Instruction: Write a limerick containing the given word.
+14. Input: 
+Frog
+14. Output: 
+There once was a curious frog,
+Whose home was a damp, murky bog.
+He leaped without pain,
+Splashing mud made it rain,
+Such a jolly, carefree, green dog.
+ 
+15. Instruction: Propose three improvements to the given product or service.
+15. Input: 
+Public transportation in a large metropolitan city
+15. Output: 
+1. Increase the frequency of buses and trains during peak hours to reduce overcrowding.
+2. Implement clear and user-friendly real-time schedule updates at stops and stations via digital displays and mobile apps.
+3. Enhance the cleanliness and maintenance of vehicles and stations for better hygiene and aesthetics.
+
+16. Instruction: Based on the given sentence, identify whether the tone is positive, negative, or neutral.
+16. Input: 
+The service at this restaurant is outstanding, and the food is delicious.
+16. Output: 
+Positive
+
+17. Instruction: Write a short, alliterative tongue twister using the provided word.
+17. Input: 
+Sheep
+17. Output: 
+Seven sleek sheep silently shuffled, shearing shaggy shrubs shrilly.
+
+18. Instruction: What is the meaning of the idiom in the given context?
+18. Input: 
+After working on the project for months, Mia finally handed it in, hoping she had left no stone unturned.
+18. Output: 
+In this context, the idiom "left no stone unturned" means that Mia made a thorough effort in completing the project, searching for and addressing any possible issues.
+
+19. Instruction: Recommend a book or movie from the given genre.
+19. Input: 
+Fantasy
+19. Output: 
+Book: "The Hobbit" by J.R.R. Tolkien
+Movie: "The Lord of the Rings: The Fellowship of the Ring" directed by Peter Jackson
+
+20. Instruction: Compare and contrast the given objects or concepts.
+20. Input: 
+Socialism vs Capitalism
+20. Output: 
+Socialism is an economic system that emphasizes the collective ownership of resources and aims for a more equal distribution of wealth. It often involves government control and planning of industries. Capitalism, on the other hand, emphasizes private ownership of resources and relies on the concept of the free market to determine the distribution of goods and services. In capitalism, individuals and companies have more freedom to make decisions and face the consequences of their choices, leading to larger income disparities. Both systems have their advantages and disadvantages, as socialism strives for reduced inequality and improved social services, while capitalism fosters innovation and economic growth.

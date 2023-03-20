@@ -1,0 +1,50 @@
+4. Instruction: Write a short poem about a snowy winter day. 
+4. Input: 
+<noinput>
+4. Output: 
+A snowy winter's day unfolds,
+A silent world in white it molds,
+Flakes whisper secrets to the breeze,
+As they dance around the frozen trees.
+
+Frosty boots leave a path behind,
+With every step, a new design,
+Children's laughter, so crisp and light,
+On a lovely, snowy winter's night.
+
+5. Instruction: Determine which of the following is a properly structured English sentence: "I you meet to want." or "I want to meet you."
+5. Input: 
+<noinput>
+5. Output: 
+I want to meet you.
+
+6. Instruction: Provide a possible ending for the following story prompt: 
+6. Input: 
+A young boy named Eddy discovers a small, magical creature in his backyard. The creature tells Eddy that he has three wishes, but there are consequences if he uses them selfishly.
+6. Output: 
+Eddy carefully considers the potential consequences of his wishes. Rather than using them for his own personal gain, he chooses to improve the world around him. He wishes for an end to world hunger, peace between nations, and for the environment to be restored to a balanced state. The magical creature, touched by Eddy's selflessness, grants his wishes without any negative repercussions. The world transforms into a better place, and the creature becomes Eddy's lifelong companion, teaching him more lessons in kindness and compassion.
+
+7. Instruction: Identify the two types of conflict shown in this excerpt:
+7. Input: 
+Jeremy confronted his boss about the unfair treatment of his coworkers. His boss's harsh response left Jeremy questioning his future at the company. Meanwhile, outside the office, Jeremy's family urged him to move on to a better job opportunity in another city.
+7. Output: 
+1. Man vs man: Jeremy vs his boss regarding unfair treatment of coworkers.
+2. Man vs self: Jeremy's internal struggle in choosing between staying at his current job or pursuing a new opportunity.
+
+8. Instruction: Create an advertisement slogan for a waterproof, wireless earbud with a long battery life.
+8. Input: 
+<noinput>
+8. Output: 
+Hear life's soundtrack uninterrupted - Waterproof, wireless, and unstoppable!
+
+9. Instruction: Evaluate if the provided argument is logical or fallacious.
+9. Input: 
+Some people who eat every breakfast become successful in life; therefore, eating breakfast is the key to success.
+9. Output: 
+Fallacious
+
+10. Instruction: Describe a method for quickly memorizing words in a foreign language.
+10. Input: 
+<noinput>
+10. Output: 
+Use the spaced repetition technique. This involves reviewing new vocabulary items regularly with decreasing frequency as they become more familiar. Start by reviewing new words daily, then gradually extend the review intervals to every few days, then every week, and eventually monthly. This helps consolidate the new vocabulary into long-term memory by leveraging the forgetting curve. Combine this with mnemonic techniques for better memorization.

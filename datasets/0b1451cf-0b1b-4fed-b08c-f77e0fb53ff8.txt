@@ -1,0 +1,42 @@
+4. Instruction: Convert the present tense paragraph into past tense.
+4. Input: 
+Sam wakes up every morning at 6 a.m. He eats breakfast and leaves for work. He takes the train and arrives at his office around 8 a.m. He works as a software engineer and enjoys his job. After work, he goes to the gym and works out for an hour.
+4. Output: 
+Sam woke up every morning at 6 a.m. He ate breakfast and left for work. He took the train and arrived at his office around 8 a.m. He worked as a software engineer and enjoyed his job. After work, he went to the gym and worked out for an hour.
+
+5. Instruction: Based on the two given restaurants reviews, choose which one you would most likely visit and explain why.
+5. Input: 
+Restaurant A: "The service was top-notch at this upscale Italian eatery. The atmosphere was warm and inviting with live music playing in the background. The homemade pasta was some of the best I've ever had. Highly recommended!"
+Restaurant B: "This casual pizza place had a fun and energetic atmosphere. The pizza was delicious with a variety of unique toppings to choose from. Fast service and pocket-friendly prices make this a great spot for a quick bite!"
+5. Output: 
+I would most likely visit Restaurant A because the review mentions top-notch service, an upscale atmosphere, and the high quality of the homemade pasta, which I value in a dining experience.
+
+6. Instruction: Describe the evolution of mobile phones in the last two decades.
+6. Input: 
+<noinput>
+6. Output: 
+In the last two decades, mobile phones have evolved dramatically. In the early 2000s, mobile phones were primarily used for making calls and sending text messages. They were bulky with small screens and physical keypads. With the introduction of smartphones in the late 2000s, such as the iPhone, they became thinner and sleeker, featuring touchscreens and internet connectivity. Smartphones rapidly gained popularity, enabling users to access apps, play games, take high-quality photos, and use GPS navigation. In the 2010s, technological advancements led to faster processors, larger screens, and improved battery life, making smartphones essential tools in our daily lives.
+
+7. Instruction: Determine if the phrase within the sentence is a simile or metaphor.
+7. Input: 
+Her smile was like the first warm sunshine after a winter storm.
+7. Output: 
+Simile
+
+8. Instruction: Correct any grammatical errors found in the text.
+8. Input: 
+I has seen many movies in the theater, but my favorite one was that sci-fi blockbuster with the incredible visual effect and groundbreaking plot twist. Plus, the movie was full from surprises!
+8. Output: 
+I have seen many movies in the theater, but my favorite one was that sci-fi blockbuster with the incredible visual effects and groundbreaking plot twist. Plus, the movie was full of surprises!
+
+9. Instruction: Summarize the following passage in one sentence.
+9. Input: 
+Jane Austen's Pride and Prejudice is a novel about Elizabeth Bennet and her family, which consists of her four sisters, parents, and numerous suitors who visit their home in search of marriage. The novel explores themes of love, class, reputation, morality, and the impact of prejudice on individual characters and relationships.
+9. Output: 
+Pride and Prejudice is a novel that follows the lives of Elizabeth Bennet and her family as they navigate love, marriage, and societal expectations in 19th-century England.
+
+10. Instruction: What are three potential negative effects of social media on mental health?
+10. Input: 
+<noinput>
+10. Output: 
+Three potential negative effects of social media on mental health are increased feelings of loneliness and isolation, heightened anxiety and depression, and lowered self-esteem due to the constant comparison with others.

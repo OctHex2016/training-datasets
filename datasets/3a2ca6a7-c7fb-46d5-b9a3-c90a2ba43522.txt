@@ -1,0 +1,56 @@
+4. Instruction: Correct the grammar and punctuation errors in the following text.
+4. Input: 
+Me no wont to going home till dinnertime, he want's to stay? with hes friends and play games-with them, help! us ,decide whos right,
+4. Output: 
+I don't want to go home until dinnertime. He wants to stay with his friends and play games with them. Help us decide who's right.
+
+5. Instruction: Analyze the investment portfolio and provide recommendations based on the given information.
+5. Input: 
+Investment Portfolio:
+1. Stock A: 25%, Electronics, 5-year average return: 8%
+2. Stock B: 35%, Real Estate, 5-year average return: 6%
+3. Stock C: 15%, Utilities, 5-year average return: 4%
+4. Bond D: 10%, Government bond, 5-year average return: 3%
+5. Bond E: 15%, Corporate bond, 5-year average return: 5%
+5. Output: 
+Your current portfolio leans heavily towards stocks and the real estate sector. Consider re-balancing to diversify across different industries and asset classes. Here are two recommendations to improve your portfolio's diversification:
+
+1. Reduce your allocation in Stock B (Real Estate) by 10%, as it represents a significant portion of your portfolio, which could expose you to sector-specific risks. 
+
+2. Increase your allocation in bonds and other safe-haven investments to provide greater stability during economic downturns. You can consider adding more government bonds, or diversifying into other fixed income instruments or mutual funds with low-risk strategies.
+
+6. Instruction: Summarize the main causes of World War II in a few sentences.
+6. Input: 
+<noinput>
+6. Output: 
+World War II was caused by a combination of factors, including unresolved political, economic, and territorial issues from World War I, the rise of fascist ideologies and totalitarian regimes, and expansionist policies of Germany, Italy, and Japan. Key events include the German occupation of Czechoslovakia and Poland, which triggered the conflict and forced the Allies, including Britain and France, to declare war on Germany.
+
+7. Instruction: Paraphrase the following quote: "Art is a collaboration between God and the artist, and the less the artist does the better."
+7. Input: 
+<noinput>
+7. Output: 
+Creative expression is a partnership between the divine and the creator; the more the artist steps back, the more magnificent the outcome.
+
+8. Instruction: Provide three alternative uses for a wooden cutting board.
+8. Input: 
+<noinput>
+8. Output: 
+1. Serving Tray: Use the cutting board as a stylish and functional serving tray for appetizers, tapas, or cheese platters.
+2. Trivet: Protect your countertops and tables from hot pots and pans by placing them on the wooden cutting board as a heat-resistant surface.
+3. Decorative Display: Add a touch of rustic charm to your kitchen by displaying the wooden cutting board propped up against your kitchen backsplash or wall.
+
+9. Instruction: Decide if the children's book plot is interesting and appropriate for the intended age group (5-7 years old).
+9. Input: 
+Plot Synopsis: Tommy the Tomato is a small, shy, and worried tomato who has never left his garden patch. After a sudden storm, Tommy gets blown all the way to an unfamiliar and strange new land filled with vegetables and fruits of all shapes and sizes. On his journey to find his way back home, Tommy meets a colorful cast of new friends who help him build up his confidence and learn the importance of courage and perseverance.
+9. Output: 
+Yes, the plot is interesting and appropriate for the intended age group (5-7 years old). The story introduces relatable themes, such as facing fears and making new friends, and the colorful characters will provide ample opportunity for visual storytelling and engaging illustrations.
+
+10. Instruction: List five steps to improve online privacy.
+10. Input: 
+<noinput>
+10. Output: 
+1. Use a strong, unique password for each of your online accounts and enable two-factor authentication where possible.
+2. Install and regularly update antivirus and firewall software on your devices to prevent malware.
+3. Be cautious when connecting to public Wi-Fi networks and use a virtual private network (VPN) to encrypt your internet traffic.
+4. Review and adjust privacy settings on social media and other online platforms to limit the personal information you share.
+5. Think twice before clicking on suspicious links or downloading attachments from unknown sources, as they may contain viruses or phishing attempts.

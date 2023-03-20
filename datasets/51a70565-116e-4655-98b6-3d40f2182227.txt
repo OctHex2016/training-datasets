@@ -1,0 +1,106 @@
+4. Instruction: Describe a potential plot for a science fiction novel.
+4. Input: 
+<noinput>
+4. Output: 
+In the year 2150, humanity discovers an advanced alien artifact capable of unlocking the secrets of interstellar travel. As nations race to claim this powerful technology, a young scientist and an eccentric linguist join forces to unlock its secrets, leading them to an ancient starfaring civilization. However, this newfound knowledge comes at a cost, with political tensions escalating towards a full-scale war. The two protagonists face the monumental task of utilizing the artifact to bring about peace, while unraveling a deeper, darker secret that threatens the fabric of reality.
+
+5. Instruction: List four causes of the French Revolution.
+5. Input: 
+<noinput>
+5. Output: 
+1. Economic Crisis: High public debt and poor economic policies.
+2. Social Inequality: Division of society into three estates with unfair privileges.
+3. Political Incompetence: Weak monarchy and lack of government reforms.
+4. Enlightenment ideas: New ideas on governance, liberty, and social equality.
+
+6. Instruction: Rewrite the given sentence in passive voice.
+6. Input:
+The dog chased the squirrel.
+6. Output: 
+The squirrel was chased by the dog.
+
+7. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+7. Input: 
+37°C
+7. Output: 
+98.6°F
+
+8. Instruction: Summarize the given passage.
+8. Input: 
+Jason was really tired after his day at work, but he had promised to meet his friends in the evening. He came home and rested for a while before he had to get ready to go out. He considered canceling, but he didn't want to let his friends down as it was a special occasion. So, despite his exhaustion, he mustered up the energy to go out and have a good time.
+8. Output: 
+Jason, exhausted from work, decided to meet his friends for a special occasion instead of canceling, despite his tiredness.
+
+9. Instruction: Suggest a proper dining etiquette rule for a formal dinner.
+9. Input: 
+<noinput>
+9. Output: 
+Always use the correct utensils for each course, starting with the outermost utensils and working your way inwards as the meal progresses.
+
+10. Instruction: Check if the given series converges or diverges, and briefly explain why.
+10. Input: 
+1/n^2 (n = 1, 2, 3, ...)
+10. Output: 
+Converges, because it is a p-series with p > 1, which implies the series converges by the p-series convergence test.
+
+11. Instruction: Split the given paragraph into a list of sentences.
+11. Input: 
+Mary lived in a small town near the mountains. She loved taking her dog out for walks in the nearby forest. One winter day, while walking her dog, she found a hidden cave.
+11. Output: 
+1. Mary lived in a small town near the mountains.
+2. She loved taking her dog out for walks in the nearby forest.
+3. One winter day, while walking her dog, she found a hidden cave.
+
+12. Instruction: Identify the protagonist in the given movie quote.
+12. Input: 
+"There's no place like home." - The Wizard of Oz
+12. Output: 
+Dorothy
+
+13. Instruction: Provide a tip for reducing stress and anxiety.
+13. Input: 
+<noinput>
+13. Output: 
+Practice deep breathing or meditation techniques to help calm your mind and relax your body.
+
+14. Instruction: Unscramble the given words to form a sentence.
+14. Input: 
+blue is the color sky of
+14. Output: 
+The color of the sky is blue.
+
+15. Instruction: Briefly explain the concept of photosynthesis.
+15. Input: 
+<noinput>
+15. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy by using sunlight to synthesize carbohydrates from carbon dioxide and water, releasing oxygen as a byproduct.
+
+16. Instruction: Given a date, find the day of the week of that date.
+16. Input: 
+July 4, 2022
+16. Output: 
+Monday
+
+17. Instruction: Translate the given text from English to French.
+17. Input: 
+I am going to the supermarket.
+17. Output: 
+Je vais au supermarché.
+
+18. Instruction: Rank the following adjectives in order of increasing intensity.
+18. Input: 
+large, colossal, massive
+18. Output: 
+large, massive, colossal
+
+19. Instruction: Given an acronym, provide the full name.
+19. Input: 
+NASA
+19. Output: 
+National Aeronautics and Space Administration
+
+20. Instruction: Describe a simple exercise for improving cardiovascular health.
+20. Input: 
+<noinput>
+20. Output: 
+Walking briskly for 30 minutes a day can help improve cardiovascular health, as it increases heart rate and circulation without putting too much strain on the body.

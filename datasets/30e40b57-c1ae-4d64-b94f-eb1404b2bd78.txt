@@ -1,0 +1,150 @@
+4. Instruction: Given a list of customer support tickets, categorize each ticket as "technical issue", "billing issue", "feature request", or "other".
+4. Input: 
+
+Ticket 1: "I can't access my account, keep getting an error message."
+Ticket 2: "I was double charged for my subscription this month."
+Ticket 3: "Can you add a feature to automatically save my progress in the app?"
+Ticket 4: "I have a general question about my account."
+4. Output:
+
+Ticket 1: technical issue
+Ticket 2: billing issue
+Ticket 3: feature request
+Ticket 4: other
+
+### 
+
+5. Instruction: Given a paragraph, summarize the main idea in 1-2 sentences.
+5. Input: 
+Climate change is a significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years. It may be a change in the average weather conditions, or in the distribution of weather around the average conditions. Climate change is caused by factors such as biotic processes, variations in solar radiation received by Earth, plate tectonics, and volcanic eruptions. Certain human activities have been identified as primary causes of ongoing climate change, often referred to as global warming.
+5. Output: 
+Climate change is a lasting change in the statistical distribution of weather patterns and includes changes in average conditions and distribution of weather. Human activities are primary causes of ongoing climate change.
+
+### 
+
+6. Instruction: Describe an event in history and ask for its significance. 
+6. Input: 
+The Emancipation Proclamation was signed by President Abraham Lincoln and went into effect on January 1, 1863.
+6. Output: 
+What was the significance of the Emancipation Proclamation?
+
+### 
+
+7. Instruction: Evaluate a given paragraph for grammar errors and re-write it correctly.
+7. Input: 
+I done went to the store today and bought some apples, and then I seen my friend on the way home and we had a convo.
+7. Output: 
+I went to the store today and bought some apples. On the way home, I saw my friend and we had a conversation. 
+
+### 
+
+8. Instruction: Given a sentence, replace a word with a suitable synonym. 
+8. Input: 
+John is a very intelligent individual. 
+8. Output: 
+John is a very smart individual.
+
+### 
+
+9. Instruction: Generate a list of 10 potential headlines for an article about the benefits of yoga. 
+9. Input: 
+<noinput>
+9. Output: 
+1. "10 Proven Health Benefits of Yoga Practice You Need to Know About"
+2. "Find Inner Calm: How Yoga Can Help Manage Stress and Anxiety"
+3. "The Science Behind How Yoga Can Boost Your Immune System"
+4. "The 30-Day Yoga Challenge: Strengthening Mind and Body"
+5. "Yoga & Sleep: How Yoga Practice Can Improve Your Sleep Quality"
+6. "Yoga for Pain Management: Understanding the Healing Power of Yoga"
+7. "Yoga for All Ages: How Yoga Can Benefit Young and Old"
+8. "Yoga and Nutrition: How Eating Habits and Yoga Practice are Connected"
+9. "Standing Yoga Poses To Improve Your Balance And Flexibility"
+10. "Yoga at the Office: Quick And Easy Exercises To Do At Work"
+
+### 
+
+10. Instruction: Given a description of a product, write a catchy product name. 
+10. Input: 
+Description: A phone app that helps you find the best restaurants based on user reviews, distance, and cuisine. 
+10. Output: 
+"EatMeNow"
+
+### 
+
+11. Instruction: Given a sentence, write a rhyming sentence. 
+11. Input: 
+It's too hot outside today. 
+11. Output: 
+I'm going to stay inside and play.
+
+### 
+
+12. Instruction: Given a sentence, re-write it in a different tense. 
+12. Input: 
+She sings in the choir every Sunday.
+12. Output: 
+She will sing in the choir this Sunday.
+
+### 
+
+13. Instruction: Given a sentence, add an appropriate adjective. 
+13. Input: 
+The cat sat on the __ chair. 
+13. Output: 
+The cat sat on the fluffy chair. 
+
+### 
+
+14. Instruction: Given a paragraph, remove all instances of the passive voice. 
+14. Input: 
+The cake was made by my sister earlier today. It was decided that it would be a chocolate cake, due to everyone's shared love of chocolate. The ingredients were mixed together in a bowl before being poured into the greased cake pan. The cake was baked at 350 degrees for 45 minutes. Once it was finished baking, it was taken out of the oven and left to cool for a few minutes.
+14. Output: 
+My sister made the cake earlier today. We decided to make a chocolate cake, as everyone loves chocolate. I mixed the ingredients together in a bowl before pouring them into the greased cake pan. We baked the cake at 350 degrees for 45 minutes. Once finished, we took it out of the oven and left it to cool for a few minutes. 
+
+### 
+
+15. Instruction: Write a sentence in the present perfect tense. 
+15. Input: 
+Richard _____ (already/finish) his work for the day.
+15. Output: 
+Richard has already finished his work for the day.
+
+### 
+
+16. Instruction: Given a sentence, change the voice of the sentence from active to passive. 
+16. Input: 
+The janitor cleaned the floors every night. 
+16. Output: 
+The floors were cleaned every night by the janitor.
+
+### 
+
+17. Instruction: Given a list of words, create a sentence where each word starts with the same letter. 
+17. Input: 
+cactus, camera, color, cookie 
+17. Output: 
+Cactus can't compare to colorfully decorated cookies caught on camera.
+
+### 
+
+18. Instruction: Given a sentence, make a comparison using "as ___ as".
+18. Input: 
+He runs fast.
+18. Output: 
+He runs as fast as a cheetah.
+
+### 
+
+19. Instruction: Write a sentence with a relative clause. 
+19. Input: 
+The woman _____ (win) the writing contest lives in London.
+19. Output: 
+The woman who won the writing contest lives in London.
+
+### 
+
+20. Instruction: Given an incomplete sentence, add an appropriate dependent clause. 
+20. Input: 
+______ (Since/in case) you don't have time for a full meal, why don't you grab a snack instead?
+20. Output: 
+Since you don't have time for a full meal, why don't you grab a snack instead?

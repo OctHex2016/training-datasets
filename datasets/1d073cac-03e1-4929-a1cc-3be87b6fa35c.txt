@@ -1,0 +1,55 @@
+4. Instruction: Convert the following paragraph into bullet points.
+4. Input: 
+Fishkeeping is a rewarding hobby that offers numerous benefits. It teaches responsibility and encourages problem-solving skills. Fishkeeping can be a relaxing activity as watching fish swim is known to have a calming effect on people. It provides a means of learning about aquatic ecosystems and can also be a great conversation starter with friends, family, and even co-workers.
+4. Output: 
+- Fishkeeping is a rewarding hobby
+- Teaches responsibility
+- Encourages problem-solving skills
+- Watching fish is calming
+- Learn about aquatic ecosystems
+- Great conversation starter
+###
+
+5. Instruction: Suggest three potential benefits of practicing yoga regularly.
+5. Input: <noinput>
+5. Output: 
+- Improved flexibility and balance
+- Stress reduction and emotional well-being
+- Enhanced strength and muscle tone
+###
+
+6. Instruction: What are three differences between JPEG and PNG file formats?
+6. Input: <noinput>
+6. Output: 
+- JPEG uses lossy compression, while PNG uses lossless compression
+- JPEG supports more colors than PNG (16 million vs. 256)
+- PNG supports transparency, while JPEG does not
+###
+
+7. Instruction: Given the sets A and B, calculate their intersection.
+7. Input: 
+A = {3, 5, 7, 9, 11}
+B = {1, 3, 5, 7}
+7. Output: 
+{3, 5, 7}
+###
+
+8. Instruction: Are there any common ingredients between these two recipes and if so, list them.
+8. Input: 
+Recipe1: Eggs, flour, sugar, baking powder, milk, butter, vanilla
+Recipe2: Eggs, cinnamon, bread, milk, sugar, nutmeg, butter
+8. Output: 
+Eggs, milk, sugar, butter
+###
+
+9. Instruction: Correct the grammar and punctuation errors in the following sentence.
+9. Input: 
+I love learning foreign languages, such as: french german, spanish! and italian?
+9. Output: 
+I love learning foreign languages, such as French, German, Spanish, and Italian.
+###
+
+10. Instruction: Write a short description of a romantic comedy movie plot.
+10. Input: <noinput>
+10. Output: 
+An introverted librarian, Nora, discovers a love letter hidden in a book returned to the library, after reading it she falls in love and dreams of the mysterious author. On her quest to find the letter's sender, she forms an unexpected friendship with Max, an outgoing coworker. Max decides to help Nora, unaware that he's the one who wrote the letter. As they work together, their friendship turns into something more, and Nora learns that the love she's been searching for may be closer than she realized.

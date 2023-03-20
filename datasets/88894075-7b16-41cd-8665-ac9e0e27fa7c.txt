@@ -1,0 +1,107 @@
+4. Instruction: Write a limerick based on the given input.
+4. Input: 
+ships, sailors, sea
+4. Output: 
+There once were some sailors at sea,
+Who sailed on their ships full of glee,
+The waves crashed and tossed,
+But they were never lost,
+For they knew their route perfectly.
+###
+5. Instruction: Identify the grammatical errors in the given sentence and provide the corrected sentence.
+5. Input: 
+She doesn't know whether he will coming tomorrow, but she hopes him will be there.
+5. Output: 
+She doesn't know whether he will come tomorrow, but she hopes he will be there.
+###
+6. Instruction: Explain the meaning of the given idiom.
+6. Input: 
+break a leg
+6. Output: 
+"Break a leg" is a colloquial expression used to wish someone good luck, especially before a performance or event. It is often used in the context of theater and acting.
+###
+7. Instruction: Convert the given sentence into a question.
+7. Input: 
+The cat is sitting on the fence.
+7. Output: 
+Is the cat sitting on the fence?
+###
+8. Instruction: You are given two sides of a right-angled triangle, a = 5, and b = 12. Calculate the length of the hypotenuse (c) using the Pythagorean theorem.
+8. Input: 
+<noinput>
+8. Output: 
+13
+###
+9. Instruction: Summarize the given text in two sentences.
+9. Input: 
+Nelson Mandela was a South African anti-apartheid revolutionary, political leader, philanthropist, and president of South Africa from 1994 to 1999. He was arrested in 1962, and after spending 27 years in prison, he was released in 1990. Mandela played a significant role in the abolishment of apartheid in South Africa and the establishment of a new democratic government. He received numerous awards and honors, including the Nobel Peace Prize in 1993.
+9. Output: 
+Nelson Mandela, a South African anti-apartheid revolutionary and political leader, spent 27 years in prison before becoming the country's president from 1994 to 1999. He played a vital role in ending apartheid and establishing democracy, earning him the Nobel Peace Prize in 1993.
+###
+10. Instruction: Using the five W's (who, what, when, where, and why), write a short news headline.
+10. Input:
+A woman saved three children from a house fire on Saturday night at Cherry Street, and she explained she did it because she couldn't just watch them suffer.
+10. Output: 
+Heroic Woman Rescues Three Children from Saturday Night House Fire on Cherry Street: "Couldn't Watch Them Suffer"
+###
+11. Instruction: Determine the most appropriate target audience for the given product description.
+11. Input: 
+Our specially designed STEM subscription box features hands-on science, technology, engineering, and math activities to challenge and engage young minds. Each box includes step-by-step directions, materials, and tools required for the projects.
+11. Output: 
+Children and teenagers interested in STEM
+###
+12. Instruction: Describe the given image in a single sentence without using the words "black" or "white".
+12. Input: 
+A grayscale image depicting family of four, parents and two children, having a picnic in the lush, scenic park surrounded by trees.
+12. Output: 
+A family of four, parents and two children, enjoy a picnic in a picturesque park filled with trees and greenery.
+
+13. Instruction: Translate the given English proverb into French.
+13. Input: 
+Actions speak louder than words.
+13. Output: 
+Les actes valent mieux que les mots.
+###
+14. Instruction: Identify the literary term used in the following sentence: "The wind danced in the trees."
+14. Input: 
+<noinput>
+14. Output: 
+Personification
+###
+15. Instruction: Given the list of ingredients, suggest a dessert that can be made using at least three of those elements.
+15. Input: 
+whipped cream, chocolate chips, strawberries, bananas, graham crackers, vanilla extract
+15. Output: 
+Strawberry and banana parfait with whipped cream
+###
+16. Instruction: Compose a haiku that captures the essence of the given subject.
+16. Input: 
+autumn
+16. Output: 
+Leaves fall gracefully,
+Autumn's breath chills the air,
+Nature's colors fade.
+###
+17. Instruction: Based on the input, provide advice on how to improve study habits.
+17. Input: 
+"I tend to procrastinate a lot and cram all my studying into one long session right before an exam."
+17. Output: 
+To improve study habits, break down your study materials into smaller sections and create a study schedule. Set aside short, focused study sessions daily or weekly, and avoid distractions like your phone or social media during those times. This will help reduce procrastination and make the learning experience more effective.
+###
+18. Instruction: Classify the following sentence based on its tone: positive, negative, or neutral.
+18. Input: 
+You did a fantastic job organizing the event!
+18. Output: 
+Positive
+###
+19. Instruction: Unscramble the given letters to form a word.
+19. Input:
+rtsyuevini
+19. Output: 
+university
+###
+20. Instruction: Identify the type of figurative language used in the following phrase: "My new laptop is as light as a feather."
+20. Input: 
+<noinput>
+20. Output: 
+Simile

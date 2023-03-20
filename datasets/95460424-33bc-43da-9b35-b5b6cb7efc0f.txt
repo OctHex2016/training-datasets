@@ -1,0 +1,104 @@
+4. Instruction: Summarize the given text in two sentences or less.
+4. Input: 
+Caffeine is a natural stimulant derived from various plants, including coffee beans, tea leaves, and cacao seeds. It works by stimulating the central nervous system, providing increased alertness and staving off tiredness temporarily. Caffeine consumption in moderate doses is considered safe, but excessive consumption can lead to negative health effects such as increased heart rate, headache, insomnia, and digestive issues.
+4. Output: 
+Caffeine, a natural stimulant found in coffee beans, tea leaves, and cacao seeds, boosts alertness and combats tiredness. Though safe in moderate doses, excessive consumption can cause health issues like increased heart rate, headache, insomnia, and digestive problems.
+
+5. Instruction: Identify the author and the title of the famous novel that begins with the following sentence: "Call me Ishmael."
+5. Input: 
+<noinput>
+5. Output: 
+The novel is "Moby-Dick" by Herman Melville.
+
+6. Instruction: Provide an appropriate response to the given praise.
+6. Input: 
+You did a fantastic job on the presentation! It was engaging and informative.
+6. Output: 
+Thank you! I'm glad you enjoyed it and found it informative.
+
+7. Instruction: Remove repetitve words and correct the grammar in the following text.
+7. Input: 
+My sister got a cat cat from the the shelter which which was fluffy, and she she named it Tigger. The cat cat is orange orange and really adorable.
+7. Output: 
+My sister got a cat from the shelter which was fluffy, and she named it Tigger. The cat is orange and really adorable.
+
+8. Instruction: What are the basic ingredients needed to bake a chocolate cake?
+8. Input: 
+<noinput>
+8. Output: 
+To bake a chocolate cake, you'll need all-purpose flour, granulated sugar, unsweetened cocoa powder, baking soda, baking powder, salt, eggs, milk, vegetable oil, and vanilla extract.
+
+9. Instruction: Compose a haiku about nature.
+9. Input: 
+<noinput>
+9. Output: 
+Gentle morning breeze,
+Whispers secrets to the trees,
+Nature's symphony.
+
+10. Instruction: Brainstorm three domain names for a new online marketplace that focuses on handmade and unique items.
+10. Input: 
+<noinput>
+10. Output: 
+1. CraftersDelight.com
+2. UniqueHandmadeHub.com
+3. ArtisanMarketplace.co
+
+11. Instruction: Solve the given math equation: 8x - 3 = 13
+11. Input: 
+<noinput>
+11. Output: 
+The solution for the equation 8x - 3 = 13 is x = 2.
+
+12. Instruction: Convert the given Fahrenheit temperature to Celsius: 77°F
+12. Input: 
+<noinput>
+12. Output: 
+25°C
+
+13. Instruction: Continue the following story in two more sentences.
+13. Input: 
+Alice peered into the old, dusty cupboard and discovered a peculiar-looking key.
+13. Output: 
+She cautiously picked up the key and noticed a small, hidden door in the back of the cupboard. Overwhelmed with curiosity, she inserted the key into the door's lock and turned it.
+
+14. Instruction: Identify an example of irony in the following passage.
+14. Input: 
+"I had to rinse my dirty laundry in public because you decided to hang me out to dry. Thanks a lot, I wouldn't even be here at all if not for you."
+14. Output: 
+The irony in the passage is that the speaker is blaming someone for putting them in a situation of public embarrassment, but by making this statement, the speaker is actually airing their grievances and drawing attention to the situation.
+
+15. Instruction: Provide alternative methods of communication for someone with speech impairment.
+15. Input: 
+<noinput>
+15. Output: 
+Some alternative methods of communication for someone with speech impairment include sign language, using a communication device or app, writing, and utilizing visual aids or gestures.
+
+16. Instruction: Correct any spelling or punctuation errors in the following sentence.
+16. Input: 
+Definately, the concert was incredible; it was our favorite bands' first tour in five years.
+16. Output: 
+Definitely, the concert was incredible; it was our favorite band's first tour in five years.
+
+17. Instruction: Provide an appropriate response to the given question.
+17. Input: 
+What do you think about the recent rise in gas prices?
+17. Output: 
+The recent rise in gas prices is concerning, as it can impact a variety of aspects including transportation costs and daily expenses for many individuals.
+
+18. Instruction: Explain in brief about photosynthesis.
+18. Input: 
+<noinput>
+18. Output: 
+Photosynthesis is the process by which green plants, algae, and certain bacteria convert light energy into chemical energy. In this process, they use sunlight, carbon dioxide, and water to produce oxygen and glucose, which serves as an energy source for the organisms.
+
+19. Instruction: Suggest a name for a new dog training app and briefly describe its features.
+19. Input: 
+<noinput>
+19. Output: 
+App Name: Paw-sitiveTraining
+Features: This app offers customizable training programs for various dog breeds, instructional videos, behavioral tracking, progress reports, reward tracking, and a supportive community of pet owners and trainers for advice and sharing experiences.
+
+20. Instruction: Determine the missing word in the sentence using the given context.
+20. Input: 
+Our project had been going so smoothly, but then we hit a (missing word) and had to reevaluate our plans.

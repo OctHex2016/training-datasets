@@ -1,0 +1,108 @@
+4. Instruction: Tell me the composer of the following piece of classical music.
+4. Input: 
+Beethoven's Symphony No. 9
+4. Output: 
+Ludwig van Beethoven
+###
+5. Instruction: What is the appropriate response to the following question?
+5. Input: 
+Would you like coffee or tea?
+5. Output: 
+I would like coffee, please.
+###
+6. Instruction: Come up with an alliteration using the letter "S."
+6. Input: 
+<noinput>
+6. Output: 
+Silly snakes slither silently through silky sand.
+###
+7. Instruction: Find an error in the sentence below and correct it.
+7. Input: 
+Its going to be a sunny day today.
+7. Output: 
+It's going to be a sunny day today.
+###
+8. Instruction: Write a haiku about nature.
+8. Input: 
+<noinput>
+8. Output: 
+Meadow's morning dew,
+Whispers of the sun emerge,
+Nature breathes anew.
+###
+9. Instruction: Translate the following sentence into Spanish.
+9. Input: 
+The cat is sleeping under the table.
+9. Output: 
+El gato está durmiendo bajo la mesa.
+###
+10. Instruction: Identify the literary device used in the given phrase.
+10. Input: 
+curiosity killed the cat
+10. Output: 
+Proverb
+###
+11. Instruction: Summarize the main idea of the following paragraph.
+11. Input: 
+Solar energy is a sustainable, clean, and abundant power source that harnesses the sun's energy to generate electricity. As the world's population continues to increase and non-renewable resources like fossil fuels dwindle, it is crucial that we embrace solar power as a means of creating electricity. By investing in solar technologies, we can create jobs, reduce harmful pollution, and provide affordable and reliable energy for our communities.
+11. Output: 
+Solar energy is a sustainable and clean power source that can help meet increasing electricity demands, create jobs, and benefit the environment.
+###
+12. Instruction:  Name the sub-genre within the science fiction genre for the given plot summary.
+12. Input: 
+In a dystopian future, the government controls every aspect of the citizens' lives and a group of rebels fights to overthrow it.
+12. Output: 
+Dystopian
+###
+13. Instruction: Give an appropriate title for a contemporary romance novel using the plot line provided.
+13. Input: 
+After her failed marriage, a divorce lawyer finds love with a charming, yet stubborn coffee shop owner who changes her mind about love.
+13. Output: 
+Brewing a Second Chance
+###
+14. Instruction: What career would be suitable for the following qualifications and interests?
+14. Input: 
+I have a bachelor's degree in interior design, experience in project management, and a passion for creating beautiful, functional living spaces.
+14. Output: 
+Interior Designer
+###
+15. Instruction: Create a slogan for an eco-friendly cleaning product company.
+15. Input: 
+<noinput>
+15. Output: 
+Nature's Clean: For a Happy Home and a Healthier Planet
+###
+16. Instruction: Write a brief thank you note for a friend who helped you move to a new city.
+16. Input: 
+<noinput>
+16. Output: 
+Dear [Friend's Name],
+
+Thank you so much for helping me move to my new home. Your time, effort, and support were invaluable during this journey. I am incredibly grateful and lucky to have someone like you in my life.
+
+Sincerely,
+[Your Name]
+###
+17. Instruction: What is the significance of the following historical event?
+17. Input: 
+The signing of the U.S. Declaration of Independence
+17. Output: 
+The signing of the U.S. Declaration of Independence marked the official break from Britain and the establishment of the United States as an independent nation.
+###
+18. Instruction: Formulate a hypothesis based on the following observation.
+18. Input: 
+Students who listen to classical music while studying perform better on exams.
+18. Output: 
+Listening to classical music while studying may improve exam performance.
+###
+19. Instruction: Identify a potential solution to the following problem.
+19. Input: 
+A small town has limited access to fresh fruits and vegetables.
+19. Output: 
+Establish a farmers' market or create a community garden to increase access to fresh produce.
+###
+20. Instruction: Describe a practical use of the Pythagorean theorem in everyday life.
+20. Input: 
+<noinput>
+20. Output: 
+Measuring the diagonal distance of a flat screen TV to ensure it fits in the desired space.

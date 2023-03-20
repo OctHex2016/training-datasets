@@ -1,0 +1,44 @@
+4. Instruction: Translate the given sentence to French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+
+5. Instruction: Write an original haiku about cherry blossoms.
+5. Input: <noinput>
+5. Output: 
+Cherry blossoms bloom,
+Soft whispers on gentle breeze,
+Spring's sweet fleeting kiss.
+
+6. Instruction: Explain the greenhouse effect in simple terms.
+6. Input: <noinput>
+6. Output: 
+The greenhouse effect is a natural process that occurs when gases in Earth's atmosphere, such as carbon dioxide and water vapor, trap and retain heat that would otherwise escape to space. This trapped heat warms the planet, making it habitable for life.
+
+7. Instruction: Summarize the passage in one sentence.
+7. Input: 
+Shakespeare's Macbeth is a gripping tragedy that tells the story of a Scottish nobleman, Macbeth, who receives a prophetic message from three witches suggesting that he will become the King of Scotland. Consumed by ambition and spurred by his wife, Macbeth murders the current king to seize the throne, but this act of treachery leads to a dramatic downfall as a result of guilt, internal conflicts, and the ultimate consequences of ambition and power.
+7. Output: 
+Macbeth, a Scottish nobleman, spirals into tragedy as his ambitious pursuit of power, fueled by a prophecy, culminates in regicide, guilt, and self-destruction.
+
+8. Instruction: Write an apology for missing a friend's birthday party.
+8. Input: <noinput>
+8. Output: 
+Dear [Friend's Name],
+
+I am deeply sorry for missing your birthday party. I understand how important the occasion was, and I regret not being there to celebrate with you. Please know that my absence was unintentional, and I truly wish I could have been there. I hope you had a fantastic time, and I would love to make it up to you in any way I can.
+
+Sincerely,
+[Your Name]
+
+9. Instruction: Identify the main conflict in the following plot synopsis and describe it in one sentence.
+9. Input: 
+In The Hunger Games, a dystopian novel by Suzanne Collins, the country of Panem is divided into twelve districts and a powerful Capitol. Every year, as a form of control and punishment, the Capitol forces each district to send one boy and one girl, known as tributes, to participate in a televised fight to the death called the Hunger Games. The story follows Katniss Everdeen, a tribute from District 12, who emerges as an unlikely hero and symbol of hope against the oppressive regime.
+9. Output: 
+The main conflict in The Hunger Games is between the oppressed districts, represented by Katniss Everdeen, and the brutal Capitol, which forces the districts to participate in a cruel and deadly game.
+
+10. Instruction: Provide advice on how to improve time management skills.
+10. Input: <noinput>
+10. Output: 
+To improve time management skills, consider setting clear goals, prioritizing tasks, creating a daily schedule, breaking tasks into smaller chunks, eliminating distractions, setting deadlines, taking breaks when needed, delegating tasks when possible, and periodically reviewing your progress and adjusting your strategies as necessary.

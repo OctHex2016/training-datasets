@@ -1,0 +1,41 @@
+4. Instruction: Provide a brief summary of the given text.
+4. Input: 
+The Parthenon is a former temple on the Athenian Acropolis, Greece. Dedicated to the goddess Athena, people built the temple to serve her as the patron of Athens. It was completed in 438 BC when the Athenian Empire was at the height of its power. It is the most important surviving building of Classical Greece, generally considered the zenith of the Doric order. The Parthenon is one of the world's greatest cultural monuments and is regarded as an enduring symbol of Ancient Greece, democracy, and Western civilization.
+4. Output: 
+The Parthenon is a former temple on the Athenian Acropolis in Greece, dedicated to the goddess Athena, the patron of Athens. Built during the zenith of the Doric order in 438 BC, it is a surviving symbol of Classical Greece, democracy, and Western civilization.
+
+5. Instruction: Is the following statement true or false? Explain your answer.
+5. Input: 
+The sun is a planet.
+5. Output: 
+False. The sun is not a planet; it is a star at the center of the Solar System, responsible for providing light and heat needed for life on Earth.
+
+6. Instruction: Describe two main differences between the products mentioned in the comparison.
+6. Input: 
+Apple's iPhone 12 has a 6.1-inch Super Retina XDR display, while Samsung's Galaxy S21 boasts a 6.2-inch Dynamic AMOLED 2X display, with a slightly higher resolution and better color accuracy.
+6. Output: 
+The main differences between the iPhone 12 and the Galaxy S21 are the display technology and the resolution. The iPhone 12 has a 6.1-inch Super Retina XDR display, while the Galaxy S21 has a slightly larger 6.2-inch Dynamic AMOLED 2X display with higher resolution and better color accuracy.
+
+7. Instruction: What's the implication or conclusion in the quote?
+7. Input: 
+"The greatest deception men suffer is from their own opinions." - Leonardo da Vinci
+7. Output: 
+The quote suggests that people's own opinions and beliefs can lead to self-deception and limit their understanding of the world.
+
+8. Instruction: Impersonate Shakespeare and rewrite the given quote in a Shakespearean style.
+8. Input: 
+"Love yourself first, and everything else falls into line." - Lucille Ball
+8. Output: 
+Prithee, cherish thineself foremost, for all else shall settle in harmonious accord.
+
+9. Instruction: In simple words, explain the concept of inflation.
+9. Input: 
+<noinput>
+9. Output: 
+Inflation is the gradual increase in the prices of goods and services in an economy, resulting in a decrease in the purchasing power of money over time.
+
+10. Instruction: Explain how a plant can produce food through photosynthesis.
+10. Input: 
+<noinput>
+10. Output: 
+Plants produce food through a process called photosynthesis. They use sunlight, water, and carbon dioxide from the air to create glucose, a type of sugar, as their energy source. Oxygen is produced as a byproduct and released into the air.

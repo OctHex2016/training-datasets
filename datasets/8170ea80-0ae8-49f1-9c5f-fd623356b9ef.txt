@@ -1,0 +1,108 @@
+4. Instruction: Transform the given sentence into a more formal version. 
+4. Input: 
+I need those reports ASAP, or I'm gonna be in a real jam with my boss!
+4. Output: 
+I require those reports as soon as possible, or I will find myself in a difficult situation with my supervisor.
+
+5. Instruction: Identify the grammar error in the sentence and correct it. 
+5. Input: 
+She wants joining the club because she loves sports.
+5. Output: 
+She wants to join the club because she loves sports.
+
+6. Instruction: Summarize the given text in 50 words or less.
+6. Input: 
+The Lion, the Witch, and the Wardrobe is a fantasy novel for children by C. S. Lewis, published by Geoffrey Bles in 1950. It is the first published and best known of seven novels in The Chronicles of Narnia (1950–1956). Among all the books by C.S. Lewis, the Narnia series is the most widely read and enjoyed. The story begins when four young siblings, Lucy, Susan, Peter, and Edmund, are sent to the British countryside to escape the London Blitz during World War II. They discover a magical wardrobe that leads into a world called Narnia, a land ruled by an evil White Witch who has manipulated time so that it is constantly winter but never Christmas. The children join forces with the lion Aslan to defeat the Witch and bring spring back to Narnia.
+6. Output: 
+The Lion, the Witch, and the Wardrobe is a children's fantasy novel by C. S. Lewis. Four siblings discover a magical wardrobe that leads to Narnia, a land with eternal winter ruled by an evil White Witch. They join the lion Aslan to defeat the Witch and restore spring.
+
+7. Instruction: Identify whether the statement agrees or disagrees with the given position or idea.
+7. Input: 
+Idea: "Children should eat vegetables."
+Statement: "Kids will benefit from having veggies in their diet."
+7. Output: 
+agrees
+
+8. Instruction: Describe the technology in layman terms.
+8. Input: 
+Blockchain
+8. Output: 
+Blockchain is a digital record-keeping system that stores information in a secure, transparent, and public way. It is like a digital ledger that is updated by multiple users and cannot be easily altered, making it safe and reliable for transactions.
+
+9. Instruction: Provide a synonym and an antonym for the given word.
+9. Input: 
+Warm
+9. Output: 
+Synonym: Hot
+Antonym: Cold
+
+10. Instruction: Convert the passive voice sentence to active voice.
+10. Input: 
+The trophy was lifted by the captain.
+10. Output: 
+The captain lifted the trophy.
+
+11. Instruction: Translate the given sentence to French.
+11. Input: 
+Where is the nearest grocery store?
+11. Output: 
+Où se trouve la supérette la plus proche?
+
+12. Instruction: Choose the appropriate verb to fill in the blank. Alternatives: "are" or "is".
+12. Input: 
+There ___ many books on the shelf.
+12. Output: 
+are
+
+13. Instruction: Rearrange the jumbled words to form a meaningful sentence.
+13. Input: 
+important is very in life patience
+13. Output: 
+Patience is very important in life.
+
+14. Instruction: Write a suitable proverb or idiom to convey the given meaning.
+14. Input: 
+Over time, small amounts of money can add up to a large sum.
+14. Output: 
+A penny saved is a penny earned.
+
+15. Instruction: Proofread the given sentence and correct any spelling error(s).
+15. Input: 
+I am stonished by the beaty of the sunrise.
+15. Output: 
+I am astonished by the beauty of the sunrise.
+
+16. Instruction: Would the given advice be helpful in the context? Answer yes or no.
+16. Input: 
+Context: A person wants to lose weight.
+Advice: "You should eat more fruits and vegetables and avoid processed foods."
+16. Output: 
+yes
+
+17. Instruction: Create a unique sentence that includes the provided word.
+17. Input: 
+Unicorn
+17. Output: 
+The little girl's eyes lit up when she saw a unicorn-themed birthday cake on the table.
+
+18. Instruction: Write a rhyming couplet using the provided word.
+18. Input: 
+Moon
+18. Output: 
+In the night sky, the full moon shone soon,
+Illuminating the world, like a silver balloon.
+
+19. Instruction: State the main theme of the given poem.
+19. Input: 
+Do not stand at my grave and weep,
+I am not there; I do not sleep.
+In the sunlight on ripened grain,
+I am the gentle autumn rain.
+19. Output: 
+The main theme of the poem is that death is not the end, and the loved one is still with us in spirit or in nature.
+
+20. Instruction: Identify a logical fallacy or error in the given statement.
+20. Input: 
+All cats have fur. My dog has fur. Therefore, my dog is a cat.
+20. Output: 
+Fallacy: False analogy

@@ -1,0 +1,53 @@
+4. Instruction: Summarize the issue mentioned in the input text.
+4. Input: 
+The director of a plastics manufacturing company has been concerned about the declining efficiency in the production process over the last few months. An internal investigation revealed that outdated machinery is the primary cause of the slowdown. The director is now trying to decide whether to invest in new machinery or to find alternative ways to improve efficiency.
+4. Output: 
+The issue is about the declining efficiency in the plastics manufacturing company's production process due to outdated machinery, with the director considering whether to invest in new machinery or seek alternative ways to improve efficiency.
+
+###
+5. Instruction: Translate the input sentence into French.
+5. Input: 
+I like to try new restaurants with my friends on weekends.
+5. Output: 
+J'aime essayer de nouveaux restaurants avec mes amis le week-end.
+
+###
+6. Instruction: Provide a positive aspect and a negative aspect for the given topic.
+6. Input: 
+Electric cars
+6. Output: 
+Positive aspect: Electric cars produce zero tailpipe emissions, contributing to cleaner air quality.
+Negative aspect: Electric cars have a limited driving range, typically less than gasoline-powered vehicles, which can cause range anxiety for drivers.
+
+###
+7. Instruction: List three possible reasons for the given situation.
+7. Input: 
+A local coffee shop has seen a decrease in customers.
+7. Output: 
+1. Increased competition from new coffee shops in the area.
+2. Changes in customer preferences, such as a shift towards healthier alternatives.
+3. Economic downturn resulting in reduced disposable income for potential customers.
+
+###
+8. Instruction: Come up with a rhyming couplet based on the provided context.
+8. Input: 
+The beauty of a sunset by the ocean.
+8. Output: 
+As the sun bids farewell to the sky so grand,
+Its vibrant hues paint the ocean and the sand.
+
+###
+9. Instruction: Proofread the text and correct any mistakes.
+9. Input: 
+The boy remembered him gratefull for the gifts he'd recieved, but he coudn't help but wondre who was thier mysterious benefactor.
+9. Output: 
+The boy remembered him gratefully for the gifts he'd received, but he couldn't help but wonder who was their mysterious benefactor.
+
+###
+10. Instruction: Name a psychological concept that explains the given situation.
+10. Input: 
+People tend to remember incomplete tasks better than completed tasks.
+10. Output: 
+Zeigarnik effect
+
+###

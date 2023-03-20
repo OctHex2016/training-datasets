@@ -1,0 +1,104 @@
+4. Instruction: Complete the following sentence with a suitable conclusion. 
+4. Input: 
+The results of the experiment indicate that...
+4. Output: 
+the new drug is effective in reducing symptoms of the disease.
+###
+5. Instruction: Revise the following sentence to remove passive voice. 
+5. Input: 
+The product was tested by the team before it was released. 
+5. Output: 
+The team tested the product before releasing it.
+###
+6. Instruction: Describe the steps to make a sandwich. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Choose your bread, meat, cheese, and vegetables.
+2. Spread condiments like mayonnaise or mustard on bread.
+3. Add meat, cheese, and vegetables to bread.
+4. Close sandwich and enjoy.
+###
+7. Instruction: Explain the main idea of the article. 
+7. Input: 
+Title: "Using AI to Predict When Mulch Should be Applied to the Soil"
+7. Output: 
+The article talks about how AI can be used to make predictions about the ideal time to apply mulch to soil, thus improving plant growth and reducing the effects of harmful insects on crops. 
+###
+8. Instruction: Translate the following phrase from Spanish to English.
+8. Input: 
+¿Cómo estás?
+8. Output: 
+How are you?
+###
+9. Instruction: Correct the grammatical mistake in the following sentence. 
+9. Input: 
+Me and my friend went to the park yesterday. 
+9. Output: 
+My friend and I went to the park yesterday. 
+###
+10. Instruction: Suggest a title for the following passage. 
+10. Input: 
+<noinput>
+10. Output: 
+"Benefits of Regular Exercise for Maintaining a Healthy Lifestyle"
+###
+11. Instruction: Ask a question based on the following statement about a book. 
+11. Input: 
+"The story takes place in a dystopian society where the government controls citizens' lives." 
+11. Output: 
+What is the setting of the story and how does the government impact citizens' lives? 
+###
+12. Instruction: Revise the following sentence to use a more professional tone. 
+12. Input: 
+Hey, can you give me a hand with this project? 
+12. Output: 
+Excuse me, could you please assist me with this project?
+###
+13. Instruction: Generate a one-sentence summary of the following scientific study. 
+13. Input: 
+Title: "Optimizing blast furnace productivity with AI-based hearth condition monitoring"
+13. Output: 
+The study explores the use of AI-based technology to improve productivity in blast furnace operations by monitoring the hearth's health. 
+###
+14. Instruction: Instruct the user on how to cancel their subscription. 
+14. Input: 
+<noinput>
+14. Output: 
+To cancel your subscription, log in to your account and navigate to the subscription section. From there, follow the prompts to cancel your subscription. 
+###
+15. Instruction: Suggest an alternative phrase for the following idiom. 
+15. Input: 
+Bite the bullet. 
+15. Output: 
+Grin and bear it. 
+###
+16. Instruction: Complete the following sentence with a suitable word. 
+16. Input: 
+He was arrested for _________ theft. (Fill in the blank.) 
+16. Output: 
+grand 
+###
+17. Instruction: Provide a definition for the following term. 
+17. Input: 
+Pedagogy 
+17. Output: 
+Pedagogy refers to the methods and principles of teaching and instruction, especially as they apply to children. 
+###
+18. Instruction: Ask a question based on the following sentence. 
+18. Input: 
+The concert was canceled due to inclement weather. 
+18. Output: 
+What was the reason for the concert's cancellation? 
+###
+19. Instruction: Revise the following sentence to use parallel structure. 
+19. Input: 
+She enjoys hiking, swimming, and to dance. 
+19. Output: 
+She enjoys hiking, swimming, and dancing. 
+###
+20. Instruction: Generate a one-sentence summary of the following news article. 
+20. Input: 
+Title: "London Marathon: Eliud Kipchoge wins men's race in unofficial two-hour mark but misses out on official record"
+20. Output: 
+Eliud Kipchoge won the men's London Marathon, finishing in an unofficial two-hour mark but narrowly missing out on an official record due to differences in race conditions.

@@ -1,0 +1,116 @@
+4. Instruction: Compare the two given songs and determine which is considered emo music.
+4. Input: 
+Song 1: "Welcome to the Black Parade" by My Chemical Romance
+Song 2: "Shape of You" by Ed Sheeran
+4. Output: 
+"Welcome to the Black Parade" by My Chemical Romance is considered emo music.
+
+5. Instruction: Describe the role alexithymia plays in emotional intelligence.
+5. Input: 
+<noinput>
+5. Output: 
+Alexithymia is a personality trait characterized by difficulty in identifying and describing emotions. It can negatively impact emotional intelligence, as it hinders a person's ability to understand and manage their own emotions, as well as empathize with others.
+
+6. Instruction: Summarize the main topic of the given text.
+6. Input: 
+"Microplastics are small fragments of plastic material, typically less than 5mm in size. These particles enter the environment from various sources, including the breakdown of larger plastic items, artificial textile fibers, and the use of plastic microbeads in personal care products. Microplastics have become a significant environmental concern as they have been found to accumulate in aquatic ecosystems, soil, and even the food chain. They pose a threat to wildlife and could potentially impact human health."
+6. Output: 
+The main topic of the text is microplastics, their sources, and the environmental concerns they pose, including accumulation in ecosystems and potential impact on wildlife and human health.
+
+7. Instruction: Convert the provided recipe into a vegan-friendly version.
+7. Input: 
+Spaghetti Carbonara:
+- 400g spaghetti
+- 4 eggs
+- 100g grated Parmesan cheese
+- 150g pancetta
+- salt and pepper
+7. Output: 
+Vegan Spaghetti Carbonara:
+- 400g spaghetti
+- 4 tbsp aquafaba (chickpea liquid)
+- 100g grated vegan Parmesan cheese substitute
+- 150g smoked tempeh or mushrooms
+- salt and pepper
+
+8. Instruction: Correct any grammatical errors in the given sentence.
+8. Input: 
+Me and John goes to the park on Sundays.
+8. Output: 
+John and I go to the park on Sundays.
+
+9. Instruction: Based on the company description, classify the type of industry it belongs to.
+9. Input: 
+Tesla, Inc. is an American electric vehicle and clean energy company that designs, manufactures, and sells electric cars, battery energy storage products, solar panels, and solar roof tiles.
+9. Output: 
+Tesla, Inc. belongs to the clean energy and automotive industries.
+
+10. Instruction: Using the three provided words, generate a haiku (5-7-5 syllable pattern).
+10. Input: 
+stars, mountain, whisper
+10. Output: 
+Whisper of the stars
+Silent mountain breathes at night
+Nature's voice anew
+
+11. Instruction: Translate the given sentence into French.
+11. Input: 
+Please bring me a glass of water.
+11. Output: 
+S'il vous plaît, apportez-moi un verre d'eau.
+
+12. Instruction: Identify the literary device used in the given sentence.
+12. Input: 
+The sudden gust of wind was as abrupt as an uninvited guest.
+12. Output: 
+The literary device used in the sentence is a simile.
+
+13. Instruction: Find the square root of the given number.
+13. Input: 
+256
+13. Output: 
+16
+
+14. Instruction: Explain the significance of the Battle of Gettysburg in the American Civil War.
+14. Input: 
+<noinput>
+14. Output: 
+The Battle of Gettysburg was a significant turning point in the American Civil War. It halted the Confederate advance into Union territory, marking the first major defeat for General Robert E. Lee. The Union victory boosted the morale of the North and signaled a change in the course of the war, eventually leading to the Union's ultimate victory.
+
+15. Instruction: Name the type of bond formed between sodium and chloride in table salt.
+15. Input: 
+<noinput>
+15. Output: 
+The type of bond formed between sodium and chloride in table salt is an ionic bond.
+
+16. Instruction: Choose the most appropriate camera settings for outdoor portrait photography on a sunny day.
+16. Input: 
+<noinput>
+16. Output: 
+ISO: 100-200, Aperture: f/2.8-f/5.6, Shutter Speed: 1/500-1/2000, White Balance: daylight
+
+17. Instruction: Determine the business structure of the given company.
+17. Input: 
+"XYZ Corporation is a large multinational company with a CEO, a board of directors, and shareholders who own stocks. The company operates in multiple countries and has divisions for each region."
+17. Output: 
+The business structure of XYZ Corporation is a corporation.
+
+18. Instruction: Provide an example of convergent evolution.
+18. Input: 
+<noinput>
+18. Output: 
+An example of convergent evolution is the similar body form and streamlined shape of sharks (fish) and dolphins (mammals) that enable both to move efficiently through water, even though they belong to different animal groups and evolved separately.
+
+19. Instruction: Provide feedback on the effectiveness of the given introduction for an essay about the impact of technology on society.
+19. Input: 
+"Technology has become an essential part of our lives. From smartphones to self-driving cars, technological advancements have changed the way we live, work, and communicate. In this essay, I will delve into the numerous ways technology impacts society, both positively and negatively."
+19. Output: 
+The introduction effectively captures the reader's attention and introduces the general subject of the essay. It also provides a clear direction by stating that the essay will discuss both positive and negative impacts of technology on society.
+
+20. Instruction: List three reasons why regular exercise is beneficial for mental health.
+20. Input: 
+<noinput>
+20. Output: 
+1. Regular exercise can reduce stress by releasing endorphins, which are natural mood elevators.
+2. Exercise can improve sleep quality, which is essential for maintaining overall mental well-being.
+3. Physical activity helps increase brain function, which can improve cognitive abilities and reduce the risk of cognitive decline.

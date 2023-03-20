@@ -1,0 +1,105 @@
+4. Instruction: Invent a clever and attention-grabbing slogan for the product. 
+4. Input: 
+Product: All-in-one vegetable slicer.
+4. Output: 
+Slice, dice, make it nice - One tool, endless creations! 
+###
+5. Instruction: Identify the grammar errors in the following sentence.
+5. Input: 
+Sentence: Yesterday, Jenifer goes to shopping with Lisa for by new clothes.
+5. Output: 
+Errors:
+- "goes" should be "went" (use past tense verb)
+- Remove "to" before "shopping"
+- Replace "for by" with "to buy"
+Corrected sentence: Yesterday, Jenifer went shopping with Lisa to buy new clothes.
+###
+6. Instruction: Create a haiku about autumn leaves. 
+6. Input: 
+<noinput>
+6. Output: 
+Crimson gold cascade,
+Whispers in the autumn breeze,
+Nature's tapestry.
+###
+7. Instruction: Explain how to tie a Windsor knot step by step.
+7. Input:
+<noinput>
+7. Output:
+1. Begin with the wide end of the tie on your right, extending about 12 inches below the narrow end on your left.
+2. Cross the wide end over the narrow end.
+3. Bring the wide end up through the loop between your collar and tie.
+4. Pull it back down through the front, forming a simple knot.
+5. Bring the wide end around behind the narrow end, from right to left.
+6. Take the wide end up over the front of the knot, from beneath.
+7. Pull it through the loop, from behind, creating a second loop.
+8. Bring the wide end down and place it through the second loop.
+9. Tighten the knot by gently pulling on the wide end, adjusting the knot to the desired position.
+10. Slide the knot up to your collar, adjusting the narrow end as needed.
+###
+8. Instruction: List four benefits of learning a foreign language.
+8. Input:
+<noinput>
+8. Output:
+1. Enhances cognitive skills, including problem-solving and multitasking abilities.
+2. Expands cultural understanding and appreciation, promoting open-mindedness.
+3. Facilitates communication and travel, opening up a world of opportunities.
+4. Boosts career prospects, making you an attractive candidate in an increasingly global job market.
+###
+9. Instruction: In five sentences, summarize the plot of "The Great Gatsby."
+9. Input:
+<noinput>
+9. Output:
+Set in the 1920s, "The Great Gatsby" follows the story of Nick Carraway, a young Midwesterner drawn into the world of Long Island's jazz age. There, he becomes fascinated by his mysterious and wealthy neighbor, Jay Gatsby, who throws extravagant parties. Gatsby is revealed to be hopelessly in love with Daisy Buchanan, a former flame now married to Tom Buchanan. An ill-fated encounter results in the accidental death of Tom's mistress, Myrtle Wilson. Gatsby, tragically, takes the blame and is murdered by Myrtle's husband, causing Nick to become disillusioned with the superficial and ephemeral nature of high society.
+10. Instruction: Convert the recipe into a vegan version by replacing non-vegan ingredients with vegan alternatives.
+10. Input:
+Recipe: Caramel Cheesecake
+Ingredients:
+- 1 ready-made graham cracker pie crust
+- 18 oz cream cheese
+- 3/4 cup sugar
+- 3 eggs
+- 1/3 cup caramel topping
+- 2 1/2 cups whipped cream
+- 1/4 cup chopped pecans
+10. Output:
+Recipe: Vegan Caramel Cheesecake
+Ingredients:
+- 1 ready-made vegan graham cracker pie crust
+- 18 oz vegan cream cheese (such as cashew-based cream cheese)
+- 3/4 cup sugar
+- 3 vegan egg alternatives (e.g., flax eggs or 3 tbsp of aquafaba)
+- 1/3 cup vegan caramel topping (such as coconut milk-based caramel)
+- 2 1/2 cups coconut whipped cream or other dairy-free whipped cream
+- 1/4 cup chopped pecans
+###
+11. Instruction: Estimate the budget required for a one week trip to New York City, including flights, accommodation, food, transportation, and sightseeing.
+11. Input:
+<noinput>
+11. Output:
+Estimated budget:
+- Flights: $300-$1,200 (depending on location, time of year, and airline choices)
+- Accommodation: $150-$300 per night (approximately $1,050-$2,100 for a week)
+- Food: $50-$80 per day (approximately $350-$560 for a week)
+- Transportation: $35 for a 7-Day Unlimited Ride MetroCard + $40 for taxi/ride-sharing (approximately $75 total)
+- Sightseeing: $100-$200 for attractions (museums, landmarks, etc.)
+
+Total estimated budget: $1,875- $4,135
+###
+12. Instruction: Identify the primary source of conflict in the following passage.
+12. Input:
+Passage: Last month, Sarah’s best friend Lana moved away to another town, leaving her feeling lonely and sad. They used to do everything together, but now Sarah has to do things by herself. Recently, she's tried making new friends, but it hasn't been as easy as she thought, which only adds to her feelings of loneliness.
+12. Output:
+The primary source of conflict in this passage is Sarah's loneliness as a result of her best friend, Lana, moving away to another town.
+###
+13. Instruction: Provide an appropriate title for the book given the following synopsis.
+13. Input:
+Synopsis: In the near future, artificial intelligence has surpassed human capabilities, leading to a world where AI-driven androids are part of everyday life. Amidst this paradigm shift, a robotics engineer named Ethan discovers a deadly secret inherent to this advanced technology. As he uncovers a dangerous conspiracy, he must struggle against the very creations he once championed to prevent a catastrophic event that could change the course of humanity.
+13. Output:
+Title: "Rise of the Sentinels: An Ethan Miles Adventure"
+###
+14. Instruction: Explain a fundamental concept in a concise and understandable way.
+14. Input:
+Concept: Time dilation in Einstein's theory of relativity
+14. Output:
+Time dilation is a phenomenon in Einstein's theory of relativity where time passes at different rates for two observers depending on their relative velocity or the presence of a gravitational field. This means that the faster an object is traveling or the stronger the gravitational field it's in, the slower time will pass for it compared to a stationary observer or one experiencing weaker gravity. In essence, time dilation demonstrates that time is not absolute, but relative to the observer.

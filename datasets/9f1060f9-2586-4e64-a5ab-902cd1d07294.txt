@@ -1,0 +1,14 @@
+4. Instruction: Teach me how to solve a Rubik's cube.
+4. Input: 
+<noinput>
+4. Output: 
+To solve a Rubik's Cube, follow these steps:
+1. Solve the white cross: Match white edge pieces with the centers of their corresponding colors to form a cross.
+2. Complete the white corners: Place the white corner pieces in their correct positions by rotating them around their neighboring pieces.
+3. Solve the middle layer: Insert edge pieces into the middle layer by matching their colors with the centers and using specific algorithms.
+4. Create a yellow cross on the last layer: Use an algorithm to flip yellow edge pieces until you form a cross.
+5. Solve the yellow face: Rotate the corner pieces so that the entire yellow face is solved.
+6. Position last-layer corners: Use an algorithm to swap corner pieces until they match their neighboring centers.
+7. Position last-layer edges: Use an algorithm to swap edge pieces until the Rubik's cube is solved.
+
+It's helpful to learn specific algorithms and practice them repeatedly, as solving the cube relies on muscle memory.

@@ -1,0 +1,126 @@
+4. Instruction: Generate a unique and secure password with at least 10 characters.
+4. Input:
+<noinput>
+4. Output:
+Here is a unique and secure password for you: rT#9xG6$K2
+###
+5. Instruction: Summarize the main ideas or key points of the article.
+5. Input:
+Please summarize this article on the importance of sleep for your health and well-being: https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm
+5. Output:
+The article highlights the importance of getting enough sleep for our overall health and well-being. It discusses the recommended amount of sleep for different age groups, the negative effects of sleep deprivation, and tips for improving sleep quality.
+###
+6. Instruction: Choose the correct option that completes the sentence.
+6. Input:
+The ------ is a large, carnivorous feline found in Africa and parts of Asia.
+a) lion
+b) tiger
+c) jaguar
+d) leopard
+6. Output:
+The correct option is a) lion.
+###
+7. Instruction: Generate a paragraph of text on the topic of climate change.
+7. Input:
+<noinput>
+7. Output:
+Climate change is a pressing issue affecting our planet. The Earth's temperature is rising due to greenhouse gas emissions from human activities such as burning fossil fuels and deforestation. This is causing a wide range of negative impacts such as rising sea levels, extreme weather events, and loss of biodiversity. It is crucial that we take action to reduce our carbon footprint and mitigate the effects of climate change.
+###
+8. Instruction: Translate the following text from French to English.
+8. Input:
+Le chat noir dort sur le canapé.
+8. Output:
+The black cat is sleeping on the couch.
+###
+9. Instruction: Edit the following sentence to avoid a dangling modifier.
+9. Input:
+Walking to class, the rain started pouring down.
+9. Output:
+As I was walking to class, the rain started pouring down.
+###
+10. Instruction: Provide step-by-step instructions on how to prepare a cup of coffee using a drip coffee maker.
+10. Input:
+<noinput>
+10. Output:
+1. Fill the water reservoir with cold, filtered water.
+2. Insert a paper filter into the filter basket and add coffee grounds.
+3. Place the filter basket into the coffee maker and turn it on.
+4. Wait for the coffee to brew.
+5. Once it's finished brewing, pour the coffee into a mug and enjoy.
+###
+11. Instruction: Rewrite the following sentence in the passive voice.
+11. Input:
+The company laid off many employees last month.
+11. Output:
+Many employees were laid off by the company last month.
+###
+12. Instruction: Recommend a book based on someone's interests.
+12. Input:
+I love reading romance novels. Do you have any recommendations?
+12. Output:
+I would recommend "The Notebook" by Nicholas Sparks. It's a classic love story that's both heartwarming and emotional.
+###
+13. Instruction: Identify the main idea or thesis statement of the following passage.
+13. Input:
+What is the main idea of this passage on the history of the internet:
+The internet was created in the 1960s as a way for researchers and scientists to share information. Over time, it evolved into a global communication network that has transformed the way we live and work.
+13. Output:
+The main idea of this passage is the evolution of the internet from a tool for sharing information among researchers to a ubiquitous communication network that has revolutionized society.
+###
+14. Instruction: Provide instructions on how to change a flat tire.
+14. Input:
+<noinput>
+14. Output:
+1. Find a safe location and turn on hazard lights.
+2. Loosen the lug nuts with a lug wrench.
+3. Use a jack to lift the car off the ground.
+4. Remove the lug nuts and take off the flat tire.
+5. Put on the spare tire and tighten the lug nuts.
+6. Lower the car and tighten the lug nuts again.
+7. Double check that lug nuts are tightened properly and keep the flat tire in the trunk.
+###
+15. Instruction: Classify the following animals as mammals, reptiles, or birds.
+15. Input:
+a) elephant
+b) iguana
+c) ostrich
+d) dolphin
+15. Output:
+a) mammal
+b) reptile
+c) bird
+d) mammal
+###
+16. Instruction: Generate a list of the top 5 tourist attractions in Paris.
+16. Input:
+<noinput>
+16. Output:
+1. Eiffel Tower
+2. Louvre Museum
+3. Notre-Dame Cathedral
+4. Champs-Élysées
+5. Palace of Versailles
+###
+17. Instruction: Correct the spelling mistake in the following sentence.
+17. Input:
+The resteraunt specials include pizza and salad.
+17. Output:
+The restaurant specials include pizza and salad.
+###
+18. Instruction: Identify the verb tense in the following sentence.
+18. Input:
+He has been singing for three hours straight.
+18. Output:
+The verb tense is present perfect continuous.
+###
+19. Instruction: Generate a list of synonyms for the word "happy".
+19. Input:
+<noinput>
+19. Output:
+joyful, pleased, content, elated, ecstatic.
+###
+20. Instruction: Rewrite the following sentence to use parallel structure.
+20. Input:
+She likes dancing, hiking, and to read.
+20. Output:
+She likes dancing, hiking, and reading.

@@ -1,0 +1,105 @@
+4. Instruction: Rewrite the following text in formal language.
+4. Input: 
+Hey, can u plz approve my vacay request before EOD? I gotta book the tix soon. You're the best!
+4. Output: 
+Dear [Recipient's Name], could you please review and approve my vacation request before the end of the day? I need to make travel arrangements at the earliest opportunity. Your assistance is greatly appreciated.
+
+5. Instruction: List three potential health benefits of regular exercise.
+5. Input: 
+<noinput>
+5. Output: 
+1. Improved cardiovascular health.
+2. Weight management and prevention of obesity-related diseases.
+3. Enhanced mood and mental well-being.
+
+6. Instruction: Translate the following English sentence into French.
+6. Input: 
+How much does this cost?
+6. Output: 
+Combien ça coûte?
+
+7. Instruction: Identify the type of logical fallacy in the given statement.
+7. Input: 
+Everyone I know loves pizza, therefore, pizza must be the most loved food in the world.
+7. Output: 
+Hasty generalization.
+
+8. Instruction: Identify the tense of the sentence.
+8. Input: 
+The leaves were falling from the trees.
+8. Output: 
+Past continuous tense.
+
+9. Instruction: Suggest an alternative book title based on the following synopsis.
+9. Input: 
+A young protagonist journeys across a desolate landscape and encounters other struggling to survive the harsh conditions. Unexpected friendships and hidden strengths allow them to overcome adversity.
+9. Output: 
+Resilience Through Ruin: A Tale of Unlikely Bonds
+
+10. Instruction: Explain the difference between weather and climate.
+10. Input: 
+<noinput>
+10. Output: 
+Weather pertains to the short-term conditions of the atmosphere, such as temperature, humidity, precipitation, and wind in a specific area, while climate refers to the long-term average patterns of weather in a region, including variations and extremes, usually over multiple decades.
+
+11. Instruction: Write an opening line for a mystery novel set in a small town.
+11. Input: 
+<noinput>
+11. Output: 
+The midnight thunderstorm that rolled in over the sleepy town of Willow Falls seemed intent on hiding the secrets that lay just beneath its charming façade.
+
+12. Instruction: Calculate the portion of the price that corresponds to the given tip percentage.
+12. Input: 
+Price: $20, Tip Percentage: 15%
+12. Output: 
+$3
+
+13. Instruction: Determine the market reception of a product based on the provided review excerpt.
+13. Input: 
+"The product consistently malfunctioned after just a few weeks of use, and customer service seemed uninterested in resolving the issue."
+13. Output: 
+Negative market reception.
+
+14. Instruction: Decide whether the provided statement is a fact or an opinion.
+14. Input: 
+Titanic is a sad movie.
+14. Output: 
+Opinion.
+
+15. Instruction: Edit the following sentence to make it more concise.
+15. Input: 
+She is a type of person that is very diligent, and in addition to being diligent, she is quite good at paying attention to small details and spotting errors.
+15. Output: 
+She is a diligent person with an exceptional attention to detail and an ability to spot errors.
+
+16. Instruction: Write a concise summary of the following video game plotline.
+16. Input: 
+A young sorceress embarks on a grand adventure to save her homeland from an ancient evil lurking within. Teaming up with a group of brave but unlikely heroes, she unlocks the mysteries of the magical realm they journey through, learning a devastating truth about her own origins. Together, they rush against time as the forces of darkness strive to reign supreme over the world, hoping their combined strength can restore the balance.
+16. Output: 
+A young sorceress and a band of unlikely heroes embark on a quest to save their homeland from an ancient evil, unraveling the mysteries of a magical realm and her own origins as they race against time to restore balance and thwart the forces of darkness.
+
+17. Instruction: Identify the main theme of the following poem excerpt.
+17. Input: 
+"Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light."
+17. Output: 
+Resistance to the inevitability of death.
+
+18. Instruction: Suggest a side dish that would complement the given main dish.
+18. Input: 
+Grilled salmon
+18. Output: 
+Quinoa and roasted vegetable salad.
+
+19. Instruction: Describe how the color blue is perceived psychologically.
+19. Input: 
+<noinput>
+19. Output: 
+The color blue is commonly associated with feelings of tranquility, relaxation, and calmness. It has also been linked to the perception of depth and stability, symbolizing trust, wisdom, and confidence.
+
+20. Instruction: Explain the concept of supply and demand in simple terms.
+20. Input: 
+<noinput>
+20. Output: 
+Supply and demand is an economic principle that describes the relationship between how much of a product is available (supply) and how much people want to buy it (demand). If supply is high and demand is low, prices tend to decrease, while if supply is low and demand is high, prices tend to increase. This balance influences the pricing of goods and services in a market economy.

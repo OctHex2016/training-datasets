@@ -1,0 +1,57 @@
+4. Instruction: Determine if the given text is a palindrome, ignoring punctuation, whitespace, and letter case.
+4. Input: 
+A man, a plan, a canal: Panama!
+4. Output: 
+Yes, it is a palindrome.
+
+5. Instruction: Describe how to pronounce the given word in the International Phonetic Alphabet (IPA).
+5. Input: 
+encyclopedia
+5. Output: 
+/ɛnˌsaɪkləˈpidiə/
+
+6. Instruction: Summarize the main features of the given mobile application.
+6. Input: 
+WhatsApp
+6. Output: 
+WhatsApp is a messaging app with end-to-end encryption offering instant text, voice, and video chat capabilities, as well as the option to share files, images, and locations. It also includes group chats, and supports desktop use for seamless cross-platform communication.
+
+7. Instruction: Given a math problem, write an equation to represent the problem, then solve it.
+7. Input: 
+Lilly has 10 apples. She gives 2 apples to each of her 3 friends. How many apples does she have left?
+7. Output: 
+10 - 2 * 3 = 4. Lilly has 4 apples left.
+
+8. Instruction: Identify the literary device applied in the following sentence.
+8. Input: 
+All the world's a stage, And all the men and women merely players.
+8. Output: 
+This sentence employs a metaphor.
+
+9. Instruction: Write a haiku (5-7-5 syllable structure) about nature.
+9. Input: 
+<noinput>
+9. Output: 
+Gentle autumn breeze,
+Colored leaves dance gracefully,
+Nature's symphony.
+
+10. Instruction: Analyze the given logo for its design principles.
+10. Input: 
+Apple logo
+10. Output: 
+The Apple logo consists of a simple, recognizable silhouette of an apple with a bite taken out. It demonstrates clean, minimalist design utilizing symmetry, proportion, and negative space. The bite distinguishes it from a generic apple and enables immediate brand recognition.
+
+11. Instruction: Identify the programming language based on the given code snippet.
+11. Input: 
+def recursion_example(n):
+    if n <= 0:
+        return 1
+    else:
+        return n * recursion_example(n - 1)
+11. Output: 
+Python
+
+12. Instruction: Name the country and its capital given the description.
+12. Input: 
+A European country known for its windmills, tulips, and wooden shoes.

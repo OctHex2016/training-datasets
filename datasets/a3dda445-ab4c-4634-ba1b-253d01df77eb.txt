@@ -1,0 +1,106 @@
+4. Instruction: Identify the author of the book given its title. 
+4. Input: 
+Title: The Great Gatsby
+4. Output: 
+F. Scott Fitzgerald
+###
+5. Instruction: Complete the sentence with the appropriate word. 
+5. Input: 
+_______ is the study of the earth's physical and cultural features. 
+5. Output: 
+Geography
+###
+6. Instruction: Paraphrase the following sentence. 
+6. Input: 
+"I cannot guarantee that the package will arrive tomorrow, but I will try my best to get it to you as soon as possible."
+6. Output: 
+Although I do not have a definite assurance on the package's arrival tomorrow, I will endeavour to deliver it to you in the quickest possible time.
+###
+7. Instruction: Simplify the paragraph to a single sentence. 
+7. Input: 
+
+According to a new report, the percentage of children with obesity in the United States has reached its highest point in history. The report, which was published Wednesday by the Robert Wood Johnson Foundation and the Trust for America's Health, found that almost 20 percent of children ages 6 to 19 are now obese, up from 17 percent in 2003.
+
+7. Output: 
+Childhood obesity in the United States has increased significantly since 2003, with almost 20% of children aged 6-19 being considered obese. 
+###
+8. Instruction: Give an alternate word that can be used instead of the underlined word. 
+8. Input: 
+Aurora Borealis is also called the Northern Lights.
+Word: called
+8. Output: 
+referred to as 
+###
+9. Instruction: Identify the country where this dish originates. 
+9. Input: 
+Dish: Paella
+9. Output: 
+Spain 
+###
+10. Instruction: Provide a synonym for the word. 
+10. Input: 
+Word: Disgruntled 
+10. Output: 
+Unhappy 
+###
+11. Instruction: Identify the type of animal based on its description. 
+11. Input: 
+Description: Largest member of the cat family, known for its distinctive black and orange stripes. 
+11. Output: 
+Tiger 
+###
+12. Instruction: Provide a brief summary of the article given its title. 
+12. Input: 
+Title: Tesla unveils new 'plaid' Model S to fend off Mercedes-Benz EQS 
+12. Output: 
+Tesla has revealed its new Model S Plaid at a delivery event in California. The updated all-electric vehicle includes new features such as a 17-inch infotainment screen and a new cockpit design. The Model S Plaid will compete with luxury models such as the Mercedes-Benz EQS. 
+###
+13. Instruction: Correct the spelling of the underlined word. 
+13. Input: 
+The restaurant's speciality dish is lasagne. 
+Word: speciality 
+13. Output: 
+specialty 
+###
+14. Instruction: Provide an antonym for the word. 
+14. Input: 
+Word: Optimistic 
+14. Output: 
+Pessimistic 
+###
+15. Instruction: Identify the capital city of the country. 
+15. Input: 
+Country: Brazil 
+15. Output: 
+Brasília 
+###
+16. Instruction: Identify the geometric shape described. 
+16. Input: 
+Description: A polygon with three sides. 
+16. Output: 
+Triangle 
+###
+17. Instruction: Provide another word that can be formed from the letters in the underlined word. 
+17. Input: 
+The word "listen" contains the letters s, t, e, n, i and l. What other word can be formed out of these letters? 
+Word: listen 
+17. Output: 
+silent 
+###
+18. Instruction: Convert the following sentence to passive voice. 
+18. Input: 
+The company shipped the product yesterday. 
+18. Output: 
+The product was shipped by the company yesterday. 
+###
+19. Instruction: Identify the element given its atomic number. 
+19. Input: 
+Atomic Number: 29 
+19. Output: 
+Copper 
+###
+20. Instruction: Provide the synonym for the phrase. 
+20. Input: 
+Phrase: In a bad mood 
+20. Output: 
+Irritable.

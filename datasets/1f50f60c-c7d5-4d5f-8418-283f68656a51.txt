@@ -1,0 +1,116 @@
+4. Instruction: Explain how to do a specific exercise.
+4. Input: 
+Deadlift
+4. Output: 
+To perform a deadlift:
+
+1. Stand with your feet hip-width apart and your toes beneath a loaded barbell.
+2. Bend at your hips and knees, and grasp the barbell with an overhand grip, hands slightly wider than shoulder-width.
+3. Straighten your legs slightly, keeping the bar close to your shins, and raise your chest until your back is straight and slightly above parallel to the ground.
+4. Push through your heels, and lift the bar as you straighten your legs and extend your hips.
+5. When the barbell passes your knees, pull your shoulder blades together and thrust your hips forward.
+6. Pause at the top, with your hips fully extended.
+7. Lower the barbell by bending at the hips and knees, keeping the bar close to your body throughout.
+
+5. Instruction: Write a haiku on a specific theme.
+5. Input: 
+Autumn leaves
+5. Output: 
+Falling leaves whisper
+Cool breeze carries autumn's breath
+Nature's artistry
+
+6. Instruction: Fix the grammar and spelling errors in the given text. 
+6. Input: 
+Their are seven beaches nearby the town. The weather their is always nice and each day is full of entrentainment.
+6. Output: 
+There are seven beaches near the town. The weather there is always nice, and each day is full of entertainment.
+
+7. Instruction: Translate the given sentence to French.
+7. Input: 
+I love walking in the park.
+7. Output: 
+J'aime me promener dans le parc.
+
+8. Instruction: Write the scientific name of the following animal.
+8. Input:
+Lion
+8. Output:
+Panthera leo
+
+9. Instruction: Explain the meaning of the given idiom.
+9. Input:
+Bite the bullet
+9. Output:
+"Bite the bullet" is an idiom meaning to face a difficult or unpleasant situation with courage and determination.
+
+10. Instruction: What happened in the event described on this date in history?
+10. Input: 
+July 20, 1969
+10. Output:
+On July 20, 1969, Apollo 11 astronauts Neil Armstrong and Buzz Aldrin became the first humans to set foot on the moon.
+
+11. Instruction: Summarize the plot of the following movie.
+11. Input:
+The Godfather
+11. Output:
+"The Godfather" is a crime drama film that follows the Corleone crime family from 1945 to 1955. Vito Corleone, the patriarch, must navigate various power struggles within the mafia while his son Michael reluctantly becomes more involved in the family business, eventually taking over as the new Godfather.
+
+12. Instruction: Describe how the given principle works in the context of physics.
+12. Input:
+Archimedes' Principle
+12. Output:
+Archimedes' Principle states that an object submerged in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced by the object. It describes how the buoyant force on an object is related to the pressure differences in the fluid surrounding the object, leading to the object either floating, sinking, or remaining neutrally buoyant.
+
+13. Instruction: Determine the subject of the following sentence.
+13. Input: 
+The cat chased the butterfly across the garden.
+13. Output:
+The subject of the sentence is "the cat".
+
+14. Instruction: Analyze the given data and identify a potential correlation.
+14. Input: 
+A sample of 50 people was taken; for each person in the sample, the number of hours slept per night and their yearly income was documented. People who slept for 8 hours per night had a higher average yearly income compared to those who slept only 6 hours.
+14. Output: 
+The data suggests a potential correlation between the number of hours slept per night and yearly income. Those who slept 8 hours per night had higher average yearly incomes compared to those who slept only 6 hours.
+
+15. Instruction: Identify the literary device in the given sentence.
+15. Input: 
+The sun was a blazing ball of fire in the sky.
+15. Output: 
+The literary device used in the sentence is a metaphor.
+
+16. Instruction: Provide a brief analysis of the given stock's performance over the past six months.
+16. Input: 
+XYZ Company's stock price increased from $50 to $75 over six months.
+16. Output: 
+XYZ Company's stock has shown positive growth, increasing by 50% ($25) over the past six months from $50 to $75. This indicates the company has improved or has experienced positive events that have led to an increase in investor confidence, pushing the value of the stock higher.
+
+17. Instruction: Suggest 3 suitable dishes to make for a vegetarian dinner.
+17. Input: 
+<noinput>
+17. Output: 
+1. Quinoa Stuffed Peppers
+2. Eggplant Parmesan
+3. Roasted Vegetable and Pesto Pasta
+
+18. Instruction: Elaborate on the importance of the given factor in determining credit score.
+18. Input: 
+Payment history
+18. Output: 
+Payment history is crucial in determining credit score as it reflects the borrower's ability to make timely payments on their debts. Lenders use credit scores to assess the borrower's risk, and a strong payment history indicates a lower risk of default. Consistent timely payments demonstrate financial responsibility, which positively impacts the credit score. On the other hand, late or missed payments can significantly lower credit scores and damage the borrower's credibility.
+
+19. Instruction: Provide arguments in support of the following statement.
+19. Input: 
+Nuclear power is a valuable source of energy.
+19. Output: 
+1. Nuclear power produces a large amount of energy with relatively little fuel, making it an efficient source of energy.
+2. Nuclear power generates less greenhouse gas emissions compared to traditional fossil fuels, which can help combat climate change.
+3. With advancements in safety and disposal methods, the risks associated with nuclear power have been reduced, making it a safer option than before.
+4. Nuclear power plants can provide a stable and continuous energy supply.
+
+20. Instruction: What are the consequences of getting a penalty in a specific game?
+20. Input: 
+Ice hockey
+20. Output: 
+In ice hockey, when a player receives a penalty, they are sent to the penalty box for a specified amount of time, usually 2 minutes for minor penalties. During this time, their team plays with one player short, putting them at a disadvantage and increasing the risk of the opposing team scoring a goal.

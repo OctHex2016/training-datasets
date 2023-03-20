@@ -1,0 +1,112 @@
+4. Instruction: Translate the given sentence from English to French.
+4. Input:
+The weather is beautiful today.
+4. Output:
+Le temps est beau aujourd'hui.
+
+5. Instruction: Identify the main characters and summarize the plot of the novel in one paragraph from the given excerpt.
+5. Input:
+Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people's hats off—then, I account it high time to get to sea as soon as I can.
+5. Output:
+The main character in this excerpt is Ishmael. This excerpt is from the novel "Moby-Dick" by Herman Melville. The story follows Ishmael, a sailor, who joins Captain Ahab on the whaling ship, the Pequod. Throughout the voyage, Ahab obsessively pursues the elusive great white whale called Moby Dick, which had bitten off his leg in a previous encounter. The narrative explores themes such as obsession, revenge, friendship, and the great unknown.
+
+6. Instruction: Rewrite the given text in a formal tone.
+6. Input:
+Hey, I kinda need that report ya promised me. If ya could finish it up soon, it would be cool. Thanks!
+6. Output:
+Dear [Name],
+I kindly request that you finalize the report that was previously promised. If you could complete it at your earliest convenience, it would be greatly appreciated. Thank you.
+
+7. Instruction: Reorder the words in the given sentence to create a syntactically correct and meaningful sentence.
+7. Input:
+dog jumped The the over fence
+7. Output:
+The dog jumped over the fence.
+
+8. Instruction: Compute the total cost of the shopping list.
+8. Input:
+3 bottles of milk - $2.50 each
+5 loaves of bread - $1.75 each
+1 packet of cookies - $3.00
+2 cartons of eggs - $2.10 each
+8. Output:
+Total cost: (3 x $2.50) + (5 x $1.75) + $3.00 + (2 x $2.10) = $7.50 + $8.75 + $3.00 + $4.20 = $23.45
+
+9. Instruction: Write 2 rhyming lines of poetry about autumn.
+9. Input:
+<noinput>
+9. Output:
+As leaves fall, painting landscapes gold and red,
+Autumn's cool breath whispers secrets to be read.
+
+10. Instruction: Express the given text message in a more polite manner.
+10. Input:
+Your work is not good enough. Please redo it.
+10. Output:
+I'd like to provide some feedback on your work. If you could kindly revise it, I believe we could achieve a better result together.
+
+11. Instruction: Summarize the recipe in one sentence.
+11. Input:
+First, preheat your oven to 350°F (180°C) and grease a 9-inch (23 cm) pie dish. In a large mixing bowl, combine 1 cup (128 g) of all-purpose flour, ½ cup (100 g) of sugar, ½ cup (120 mL) of milk, 1 teaspoon (4 g) of baking powder, and 1 cup (165 g) of fresh blueberries. Mix together until smooth. Pour the mixture into the greased pie dish, and bake for 45 to 50 minutes or until golden brown on top. Serve with whipped cream, if desired.
+11. Output:
+Preheat oven to 350°F, mix flour, sugar, milk, baking powder, and blueberries, pour mixture into greased pie dish, and bake for 45-50 minutes until golden brown.
+
+12. Instruction: Predict what would happen next in the given scenario.
+12. Input:
+John carefully placed the last domino in the long, intricate line that he had been setting up for hours.
+12. Output:
+John would likely initiate the domino effect by gently tapping the first domino, watching as the entire sequence of dominos topple one after another in a mesmerizing display of his effort and planning.
+
+13. Instruction: Write a limerick about sheep.
+13. Input:
+<noinput>
+13. Output:
+There once was a sheep from the dale,
+Whose fleece was as white as the gale,
+It leaped and it bound,
+It grazed all around,
+And its baa's were a jovial tale.
+
+14. Instruction: Explain the metaphor in the given text.
+14. Input:
+Anger was a fire in his chest, consuming him from the inside.
+14. Output:
+In this metaphor, anger is compared to a fire inside the person's chest. It suggests that the person's anger is a powerful and destructive force that is consuming him internally, overwhelming him and potentially causing self-inflicted damage.
+
+15. Instruction: Identify the language of the given text.
+15. Input:
+Esta es una oración en español.
+15. Output:
+The language of the given text is Spanish.
+
+16. Instruction: Provide two examples of mammals that live in the Arctic environment.
+16. Input:
+<noinput>
+16. Output:
+Two examples of mammals that live in the Arctic environment are the polar bear (Ursus maritimus) and the Arctic fox (Vulpes lagopus).
+
+17. Instruction: Provide advice for avoiding procrastination.
+17. Input:
+<noinput>
+17. Output:
+To avoid procrastination, set specific and achievable goals, break the task into smaller, manageable steps, use a timer to work in focused sessions with breaks, eliminate distractions, and reward yourself after completing milestones to stay motivated.
+
+18. Instruction: Analyze the tone of the given text.
+18. Input:
+Why did you do that? I can't believe how careless you were! This is a huge mess!
+18. Output:
+The tone of the given text is frustrated and critical, expressing disappointment or disbelief in the actions of the person being addressed.
+
+19. Instruction: Write a haiku about snow.
+19. Input:
+<noinput>
+19. Output:
+Silent snowflakes fall,
+Blanketing the world in white,
+Nature's breath, subdued.
+
+20. Instruction: Express a compliment for a coworker's presentation.
+20. Input:
+<noinput>
+20. Output:
+Your presentation was truly outstanding, and I appreciate the time and effort you put into making it both informative and engaging. Your ability to convey complex information in an accessible manner is truly commendable.

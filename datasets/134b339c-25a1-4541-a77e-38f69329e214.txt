@@ -1,0 +1,76 @@
+4. Instruction: Identify and rewrite the passive sentence in active voice.
+4. Input: 
+The house was painted by the skilled workers.
+4. Output: 
+The skilled workers painted the house.
+###
+5. Instruction: Provide a 100-word summary of the given passage.
+5. Input: 
+It is not uncommon for families to have a favorite vacation destination, a spot that harbors warm memories and continues to beckon year after year. For the Bradleys of Portland, Oregon, that beloved getaway is a picturesque resort village nestled snuggly between the mountains and the Pacific coastline. For the past decade, this idyllic setting has been the perennial backdrop for some of their most treasured snapshots of family bonding.
+
+Spanning three generations, the Bradleys comprise an assortment of siblings, cousins, aunts, uncles, and grandparents, all drawn together each summer by the irresistible lure of sun, sand, and surf. United by their affinity for relaxation and recreation, they delight in participating in friendly competitions, whether that entails sandcastle-building contests, beach volleyball matches, or group scavenger hunts.
+
+These outings have become so integral to the family's collective identity that the resort staff recognizes them on sight, eagerly anticipating their return each summer. As much as the Bradleys appreciate the innumerable amenities that their favorite vacation spot provides, the true magic of these trips lies in the unbreakable bonds that they have forged, the cherished memories they have created, and the unshakable ties that keep them longing for one more day beneath the seaside sun.
+5. Output: 
+The Bradleys, a family from Portland, Oregon, have made a picturesque resort village their beloved vacation destination for the past decade. Spanning three generations, they gather each summer to bond over sun, sand, and surf, participating in various friendly competitions. The resort staff eagerly awaits their annual arrival, as the family has become an integral part of the venue's atmosphere. Although they enjoy the many amenities and activities offered, the true magic of these trips is the unbreakable bonds, cherished memories, and enduring connections they create while enjoying their time together beneath the seaside sun.
+###
+6. Instruction: Which country is Mount Everest located in?
+6. Input: 
+<noinput>
+6. Output: 
+Mount Everest is located on the border between Nepal and China's Tibet Autonomous Region.
+###
+7. Instruction: Proofread the following sentence and correct any grammar or spelling mistakes.
+7. Input: 
+My dog chases his tail pooringly and spins in circles in the yard, making him look very silly.
+7. Output: 
+My dog chases his tail persistently and spins in circles in the yard, making him look very silly.
+###
+8. Instruction: Write a short email apologizing for a missed deadline.
+8. Input: 
+<noinput>
+8. Output: 
+Subject: Apologies for Missing the Deadline - Project Update
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. I wanted to apologize for missing the deadline on our recent project. Unfortunately, unforeseen circumstances arose that hindered my ability to complete the task as quickly as I had anticipated.
+
+Please rest assured that I am working diligently to catch up and will have the completed project submitted to you no later than [new deadline date]. I understand the importance of adhering to deadlines and deeply regret any inconvenience this may cause.
+
+Once again, I apologize, and I appreciate your understanding. Please do not hesitate to reach out if you have any questions or concerns.
+
+Best regards,
+
+[Your Name]
+###
+9. Instruction: Determine the author’s tone in the given sentence.
+9. Input: 
+The weather forecast called for a complete whiteout that lasted for days, giving the villagers the perfect opportunity to practice their collective snowman-making skills.
+9. Output: 
+The author's tone in the sentence is light-hearted and playful.
+###
+10. Instruction: Describe the process of photosynthesis in simple terms.
+10. Input: 
+<noinput>
+10. Output: 
+Photosynthesis is a process used by plants, algae, and some bacteria to convert sunlight, water, and carbon dioxide into oxygen and glucose, a type of sugar that serves as energy for the organism. During photosynthesis, chlorophyll, a pigment found in plant cells, absorbs sunlight that the plant, algae, or bacteria take in from their environment. The energy from the sunlight is then used to combine carbon dioxide (taken from the air) and water (absorbed through roots or the environment) to produce oxygen and glucose. As a result, plants create oxygen for the environment and use glucose to grow and reproduce.
+###
+11. Instruction: Categorize the following list of items into fruits and vegetables.
+11. Input: 
+Apple, Carrot, Broccoli, Peach, Cucumber, Potato, Orange, Onion, Banana, Lettuce
+11. Output: 
+Fruits: Apple, Peach, Cucumber, Orange, Banana
+Vegetables: Carrot, Broccoli, Potato, Onion, Lettuce
+###
+12. Instruction: Point out two differences and two similarities between dogs and cats. 
+12. Input: 
+<noinput>
+12. Output: 
+Differences:
+1. Dogs are generally more sociable and loyal to their owners, while cats are more independent and self-sufficient.
+2. Dogs need regular exercise and outdoor walks, while cats usually prefer to spend time indoors and can self-regulate their activity levels.
+
+Similarities:
+1. Both dogs and cats are popular domestic pets and provide companionship to their owners.
+2. Dogs and cats both have predatory instincts, stemming from their carnivorous nature and their ancestry in the wild.

@@ -1,0 +1,116 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+The cat chased the mouse through the house.
+4. Output: 
+The mouse was chased by the cat through the house.
+
+5. Instruction: List three reasons why regular exercise is beneficial for a person's overall health.
+5. Input: 
+<noinput>
+5. Output: 
+1. Reduces the risk of chronic diseases like heart disease and diabetes.
+2. Improves mental health by reducing stress and anxiety.
+3. Enhances sleep quality and increases energy levels.
+
+6. Instruction: Identify the mistake in this sentence and correct it.
+6. Input: 
+She was weary after a long day at school, so the quiet atmosphere was a welcome contrast.
+6. Output: 
+She was weary after a long day at school, so the quiet atmosphere was a welcomed contrast.
+
+7. Instruction: Explain the benefits of using renewable energy sources over fossil fuels.
+7. Input: 
+<noinput>
+7. Output: 
+1. Renewable energy is sustainable and doesn't deplete natural resources.
+2. Reduced greenhouse gas emissions, decreasing climate change effects.
+3. Lower levels of air and water pollution, protecting public health.
+
+8. Instruction: Check the grammar in the following sentence and, if necessary, correct it.
+8. Input: 
+There are a several reasons why an individual might decide to start their own business.
+8. Output: 
+There are several reasons why an individual might decide to start their own business.
+
+9. Instruction: Write a short review about your favorite restaurant.
+9. Input: 
+<noinput>
+9. Output: 
+The Green House offers an outstanding dining experience. Their selection of plant-based dishes is diverse and flavorful, always made from fresh, local ingredients. The warm, inviting atmosphere and impeccable service make each visit memorable. I highly recommend the Linguine Alfredo and their signature dessert, the Chocolate Lava Cake.
+
+10. Instruction: Identify the type of fallacy in this argument: "If you don't vote for my candidate, you must not care about our country's future."
+10. Input: 
+<noinput>
+10. Output: 
+False dilemma (or false dichotomy)
+
+11. Instruction: Describe a problem, and provide a solution for improving the public transportation system in a city.
+11. Input: 
+<noinput>
+11. Output: 
+Problem: Overcrowded buses during peak hours cause delays and discomfort for passengers.
+Solution: Increase the frequency of buses during peak hours and introduce express routes to minimize stops and reduce travel time.
+
+12. Instruction: Write a thank you note to your friend for hosting a lovely dinner party.
+12. Input: 
+<noinput>
+12. Output: 
+Dear [Friend's Name],
+
+Thank you so much for the wonderful dinner party you hosted last night. The food was absolutely delicious, and the company was delightful. Your thoughtful attention to detail really made the evening special. I appreciate all the effort you put into organizing such a memorable gathering.
+
+Warm regards,
+[Your Name]
+
+13. Instruction: What are three strategies that companies can implement to reduce employee turnover?
+13. Input: 
+<noinput>
+13. Output: 
+1. Competitive compensation packages and benefits.
+2. Effective communication and a supportive work environment.
+3. Providing opportunities for career growth and professional development.
+
+14. Instruction: Proofread the following paragraph for punctuation errors and correct them.
+14. Input: 
+Once upon a time in a small village nestled deep in the forest, lived a young girl named Lucy, and her dog Max. One day Lucy's mother gave her a basket filled with yummy treats for her elderly grandmother, who lived on the other side of the forest, "Don't stray from the path, and be sure not to talk to strangers," warned her mother.
+14. Output: 
+Once upon a time, in a small village nestled deep in the forest, lived a young girl named Lucy and her dog Max. One day, Lucy's mother gave her a basket filled with yummy treats for her elderly grandmother, who lived on the other side of the forest. "Don't stray from the path, and be sure not to talk to strangers," warned her mother.
+
+15. Instruction: Provide an analysis of the main theme in William Shakespeare's play "Romeo and Juliet".
+15. Input: 
+<noinput>
+15. Output: 
+The main theme in Shakespeare's play "Romeo and Juliet" is the power of love and its ability to transcend societal boundaries, family feuds, and personal desires. It explores how love can be both a destructive and redemptive force, ultimately leading to the tragic deaths of the protagonists but also healing the rift between their feuding families.
+
+16. Instruction: Write a brief comparison of online shopping and in-store shopping, considering at least one advantage and one disadvantage for each.
+16. Input: 
+<noinput>
+16. Output: 
+Online shopping offers convenience, as customers can shop from anywhere and at any time. However, it lacks the tactile experience and interaction with the product before purchase. In-store shopping allows customers to see and touch products, as well as consult with sales representatives, yet it requires physically visiting the store during their operating hours, which may not be convenient for some.
+
+17. Instruction: Summarize the given text in one sentence.
+17. Input: 
+Climate change is one of the most pressing challenges that humanity faces in the 21st century. It refers to long-term shifts in temperature, precipitation, and other climatic patterns related to greenhouse gas emissions, primarily from human activities like burning fossil fuels and deforestation. Left unchecked, climate change could lead to catastrophic consequences, including food and water shortages, severe weather events, loss of biodiversity, and more frequent contagious diseases.
+17. Output: 
+Climate change - primarily caused by human activities like burning fossil fuels and deforestation - leads to long-term shifts in climatic patterns and could result in catastrophic consequences, such as food and water shortages, severe weather events, loss of biodiversity, and more frequent contagious diseases.
+
+18. Instruction: Define the term "digital marketing" and provide three main components of a typical digital marketing strategy.
+18. Input: 
+<noinput>
+18. Output: 
+Digital marketing is the promotion of products or services through electronic media channels, including search engines, social media, email, and mobile applications. Three main components of a typical digital marketing strategy are: 1) Search Engine Optimization (SEO), 2) Social Media Marketing, and 3) Email Marketing.
+
+19. Instruction: Analyze the given sentence for any possible ambiguities and rephrase it for clarity.
+19. Input: 
+I saw the man with the telescope.
+19. Output: 
+I used the telescope to see the man.
+
+20. Instruction: List four potential hazards of artificial intelligence (AI) technology.
+20. Input: 
+<noinput>
+20. Output: 
+1. Bias in AI algorithms, leading to unfair outcomes.
+2. Loss of privacy due to data-collection and surveillance.
+3. Job displacement and unemployment in certain industries.
+4. Potential misuse of AI for malicious purposes, such as hacking or creating autonomous weapons.

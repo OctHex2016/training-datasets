@@ -1,0 +1,47 @@
+4. Instruction: Generate a short story with the following prompt "It was a dark night and the wind was howling"
+4. Input: 
+<noinput>
+4. Output: 
+It was a dark night and the wind was howling. Jane was walking home from work when suddenly she heard a noise. She turned around and saw a shadowy figure following her. She quickened her pace and started running, but so did the figure. She finally reached her doorstep and turned around to look, but no one was there. She rushed inside her home, locked the door and looked through the peephole. She couldn't see anything outside but she could feel that someone was watching her.
+###
+5. Instruction: Given two sets of numbers, calculate the Jaccard similarity. 
+5. Input: 
+set1 = {2, 3, 4, 5, 6, 7}
+set2 = {1, 3, 5, 7, 9, 11}
+5. Output: 
+The Jaccard similarity for the given sets is: 0.3333333333333333
+The formula for the Jaccard Similarity is given by:
+J(A,B)  =  (A ∩ B) / (A ∪ B)
+Where A and B are two sets.
+###
+6. Instruction: Edit the following sentence to make it grammatically correct - "Me and my friends is going to the beach tomorrow".
+6. Input: 
+<noinput>
+6. Output: 
+My friends and I are going to the beach tomorrow.
+###
+7. Instruction: Generate an email to your manager requesting a day-off due to a family commitment.
+7. Input: 
+<noinput>
+7. Output: 
+Dear Manager,
+
+I am writing to request a day-off work next week ,Thursday, July 30, as I have to be present for a family commitment that day. I have completed all my assignments for this week and will ensure all my pending work is taken care of before I leave on Wednesday. Please let me know if there are any concerns.
+
+Thank you,
+[Your Name]
+###
+8. Instruction: Given a short paragraph, generate a summary of the paragraph in one sentence.
+8. Input: 
+The coronavirus pandemic has impacted millions, if not billions of people's lives in diverse ways; the economic and emotional impact of the pandemic is expected to last for years to come. 
+8. Output: 
+The coronavirus pandemic's impact on people's lives is vast and wide-ranging with long-lasting economic and emotional effects. 
+### 
+9. Instruction: Write a regex to extract email addresses from a given text. 
+9. Input: 
+text = "My email is john.doe@example.com, you can also reach my team at team@example.com"
+9. Output: 
+Email addresses extracted:
+['john.doe@example.com', 'team@example.com']
+
+Regex: (?i)\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b

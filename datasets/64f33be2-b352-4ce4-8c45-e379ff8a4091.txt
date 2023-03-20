@@ -1,0 +1,120 @@
+4. Instruction: Sort the words in the given list alphabetically.
+4. Input:
+apple, cherry, banana, mango, orange
+4. Output:
+apple, banana, cherry, mango, orange
+###
+
+5. Instruction: Convert the text into a haiku format (5-7-5 syllable pattern).
+5. Input:
+A peaceful lake sits, untouched by man's intrusion, silent and serene.
+5. Output:
+A peaceful lake sits
+Untouched by man's intrusion
+Silent and serene
+###
+
+6. Instruction: Explain the main idea of the given text.
+6. Input:
+Alice, a seven-year-old girl, becomes bored one day and starts looking for adventure. While sitting on a riverbank, she notices a white rabbit with a pocket watch pass by. Curiously, she follows it down a rabbit hole and into a fantastical world filled with peculiar creatures and strange landscapes. 
+6. Output:
+The main idea is that Alice, a young girl, looks for adventure and follows a white rabbit into a fantastical world filled with strange creatures and landscapes.
+###
+
+7. Instruction: Convert the reported speech into a direct speech.
+7. Input:
+John asked Sarah if she had finished her homework.
+7. Output:
+John: "Sarah, have you finished your homework?"
+###
+
+8. Instruction: Authenticate the following statement as true or false.
+8. Input:
+The sun revolves around the Earth.
+8. Output:
+False
+###
+
+9. Instruction: List three synonyms for the given word.
+9. Input:
+big
+9. Output:
+large, huge, enormous
+###
+
+10. Instruction: Describe a possible meaning of the given acronym.
+10. Input:
+NASA
+10. Output:
+National Aeronautics and Space Administration
+###
+
+11. Instruction: Identify if the given quotation is an example of a simile, a metaphor, or neither.
+11. Input:
+Her smile was brighter than the sun.
+11. Output:
+Simile
+###
+
+12. Instruction: Rewrite the sentence using passive voice.
+12. Input:
+They build houses quickly.
+12. Output:
+Houses are built quickly by them.
+###
+
+13. Instruction: State the literary device being used in the given text.
+13. Input:
+The whispering wind swayed the trees.
+13. Output:
+Personification
+###
+
+14. Instruction: Check for proper comma usage and suggest changes, if necessary.
+14. Input:
+When I was at the store, I bought milk eggs, and bread.
+14. Output:
+When I was at the store, I bought milk, eggs, and bread.
+###
+
+15. Instruction: Translate the given phrase into French.
+15. Input:
+I love you
+15. Output:
+Je t'aime
+###
+
+16. Instruction: Summarize the given text in a single sentence.
+16. Input:
+The protagonist, named Winston Smith, works at the Ministry of Truth in a dystopian society ruled by a Party led by Big Brother. He starts to question the Party's motives and becomes involved in a risky love affair with a woman named Julia, which ultimately leads to his arrest and psychological torture for his rebellious thoughts.
+16. Output:
+In a dystopian society, Winston Smith questions the ruling Party's motives, engages in a risky love affair, and faces arrest and torture for his rebellion.
+###
+
+17. Instruction: Determine the tense of the given verb.
+17. Input:
+running
+17. Output:
+Present continuous
+###
+
+18. Instruction: Name or describe a historical event associated with the given date.
+18. Input:
+July 20, 1969
+18. Output:
+The first manned moon landing by NASA's Apollo 11 mission.
+###
+
+19. Instruction: Identify the type of poem based on the given excerpt.
+19. Input:
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+19. Output:
+Narrative poem
+###
+
+20. Instruction: Name the currency commonly used in the given country.
+20. Input:
+Japan
+20. Output:
+Japanese Yen

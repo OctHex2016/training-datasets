@@ -1,0 +1,112 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input:
+The cat caught the mouse.
+4. Output:
+The mouse was caught by the cat.
+
+5. Instruction: Translate the given text to Spanish.
+5. Input:
+How's the weather today?
+5. Output:
+¿Cómo está el tiempo hoy?
+
+6. Instruction: Summarize the main points of the following paragraph.
+6. Input:
+Research on blueberries indicates that they contain various antioxidants and nutrients that may benefit human health. Many studies have shown that consuming blueberries may help lower the risk of heart disease, protect against memory loss, and improve cognitive function. Additionally, these small berries are an excellent source of vitamin C, fiber, and other essential nutrients.
+6. Output:
+Blueberries are rich in antioxidants and nutrients that provide health benefits, such as reduced heart disease risk, protection against memory loss, and improved cognitive function. They are also a good source of vitamin C, fiber, and other essential nutrients.
+
+7. Instruction: Choose the right option based on the given text.
+7. Input:
+Text: Amy trained daily for a month in order to run in the marathon.
+Question: What was Amy's main goal?
+Options: a) Win a race b) Complete a marathon c) Improve her health
+7. Output:
+b) Complete a marathon
+
+8. Instruction: Write a haiku about a rainy day.
+8. Input:
+<noinput>
+8. Output:
+Raindrops tap the ground
+Umbrellas dance in rhythm
+Nature's song unfolds
+
+9. Instruction: Sort the following numbers in ascending order (from smallest to largest).
+9. Input:
+37, 14, 58, 6, 29, 95, 1
+9. Output:
+1, 6, 14, 29, 37, 58, 95
+
+10. Instruction: Determine the author and the title of the book based on the given quote.
+10. Input:
+“Not all those who wander are lost.”
+10. Output:
+Author: J.R.R. Tolkien
+Title: The Lord of the Rings
+
+11. Instruction: Identify the main conflict of the given movie plot.
+11. Input:
+Two astronauts stranded on Mars must find a way to survive and return to Earth.
+11. Output:
+The main conflict is survival on Mars and finding a way to return to Earth.
+
+12. Instruction: Find the grammatical error in the given sentence and correct it.
+12. Input:
+Their going to the store later today.
+12. Output:
+They're going to the store later today.
+
+13. Instruction: Determine the tone of the following passage.
+13. Input:
+The sun rose peacefully over the hills, painting the sky with hues of orange and pink. The air was filled with the gentle scent of fresh flowers, and twittering birds flitted from branch to branch.
+13. Output:
+The tone is serene and calming.
+
+14. Instruction: Convert the currency amount to a new currency.
+14. Input:
+Amount: 50 USD
+New Currency: EUR
+Exchange Rate: 1 USD = 0.85 EUR
+14. Output:
+42.50 EUR
+
+15. Instruction: What animals are classified as marsupials?
+15. Input:
+<noinput>
+15. Output:
+Marsupials include animals such as kangaroos, wallabies, koalas, opossums, wombats, Tasmanian devils, and bandicoots.
+
+16. Instruction: Provide a suggestion for a delicious meal based on the ingredients given.
+16. Input:
+chicken, rice, bell peppers, onions, tomatoes, spices
+16. Output:
+You can make a flavorful chicken and rice stir-fry with sautéed bell peppers, onions, and tomatoes, seasoned with your favorite spices.
+
+17. Instruction: Identify the literary devices used in the following line.
+17. Input:
+"The icy wind sizzled against my bare skin, burning red hot anger into my bones."
+17. Output:
+Personification, simile, and alliteration
+
+18. Instruction: Complete the famous quote and name its original speaker.
+18. Input:
+"Injustice anywhere is a threat to..."
+18. Output:
+"Injustice anywhere is a threat to justice everywhere." - Martin Luther King Jr.
+
+19. Instruction: Suggest potential negative effects of deforestation.
+19. Input:
+<noinput>
+19. Output:
+- Loss of biodiversity
+- Disruption of the water cycle
+- Soil erosion and degradation
+- Increased greenhouse gas emissions
+- Displacement of indigenous communities
+
+20. Instruction: Recommend a book based on the given interests.
+20. Input:
+Interests: Science fiction, time travel, and mystery
+20. Output:
+I would recommend "The Time Traveler's Wife" by Audrey Niffenegger.

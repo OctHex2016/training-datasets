@@ -1,0 +1,120 @@
+4. Instruction: Analyze the given company's SWOT (Strengths, Weaknesses, Opportunities, and Threats) based on the information provided. Summarize your analysis in bullet points.
+4. Input:
+XYZ Industries develops and produces cutting-edge electronics, specifically smartphones and laptops. The company has a talented and experienced team of engineers and designers, but it lacks a strong marketing presence. XYZ's products are designed with sustainable materials and have excellent battery life. However, the products are priced higher than those of their competitors. The emerging market for eco-friendly gadgets and IoT devices presents a new opportunity for XYZ Industries, but the competitive landscape is fierce, with companies like Apple and Samsung dominating the market.
+4. Output:
+Strengths:
+- Talented and experienced team
+- Sustainable materials
+- Excellent battery life
+
+Weaknesses:
+- Lack of strong marketing presence
+- Higher pricing compared to competitors
+
+Opportunities:
+- Emerging market for eco-friendly gadgets
+- IoT devices
+
+Threats:
+- Fierce competition from market leaders like Apple and Samsung
+###
+5. Instruction: Based on the data given, predict the trend for the coming year in a brief sentence.
+5. Input: 
+Sales of electric vehicles have shown an increasing trend over the last five years, with a compound annual growth rate (CAGR) of 15%. In 2021, the EV market reached $250 billion in sales, up from $200 billion in 2020.
+5. Output:
+The trend for the coming year is likely to reflect continued growth in electric vehicle sales, supported by the 15% CAGR observed in the past five years.
+###
+6. Instruction: Rewrite the given sentence using passive voice.
+6. Input:
+The tournament organizers announced the winners yesterday.
+6. Output:
+The winners were announced by the tournament organizers yesterday.
+###
+7. Instruction: What is the main conflict in the story described below? 
+7. Input: 
+In the novel "Life of Pi" by Yann Martel, a young Indian boy named Pi Patel is the sole human survivor of a shipwreck that kills his family. Stranded on a lifeboat with a Bengal tiger named Richard Parker, Pi struggles to survive as he develops an unlikely bond with the dangerous animal.
+7. Output: 
+The main conflict in "Life of Pi" is Pi's struggle for survival while stranded on a lifeboat with a Bengal tiger, and his effort to form an unlikely bond with the dangerous animal.
+###
+8. Instruction: Create a haiku inspired by the given image description. 
+8. Input:
+A serene mountain landscape, with snow-capped peaks, a calm reflective lake, and lush green trees in the foreground.
+8. Output:
+Snowy peaks so high,
+Green trees frame calm mirror lake,
+Nature's breath, we sigh.
+###
+9. Instruction: Determine the author's writing style based on the given passage.
+9. Input: 
+"The sun was a relentless and blistering presence overhead. There was no wind, and every breath seemed to become shallower than the one that had preceded it. The desert stretched out for what felt like a thousand miles in every direction - an unforgiving, unbroken stretch of sand and rock that appeared wholly inhospitable to any semblance of life. It was a landscape so desolate that it might have made Death himself stop and shudder."
+9. Output:
+The author's writing style is descriptive and vivid, with a focus on creating a strong sense of atmosphere and place.
+###
+10. Instruction: Identify the logical fallacy in the given statement.
+10. Input:
+The best athletes in the world use this brand of sports shoes, so if you wear these shoes, you'll become a world-class athlete.
+10. Output:
+False cause (Post hoc) fallacy.
+###
+11. Instruction: Restate the given phrase as a question. 
+11. Input: 
+Samantha is traveling to Paris for her vacation.
+11. Output:
+Is Samantha traveling to Paris for her vacation?
+###
+12. Instruction: Give recommendations for a book similar to the given description.
+12. Input: 
+I enjoyed reading "Ready Player One" by Ernest Cline, a science fiction novel set in a dystopian future where people spend most of their time in a massive virtual reality game called the OASIS.
+12. Output:
+You might enjoy "Snow Crash" by Neal Stephenson or "Ender's Game" by Orson Scott Card, both of which involve immersive virtual worlds and thought-provoking science fiction elements.
+###
+13. Instruction: Choose the appropriate collective noun to complete the sentence.
+13. Input: 
+I saw a _______ of seagulls flying over the beach.
+13. Output:
+I saw a flock of seagulls flying over the beach.
+###
+14. Instruction: Convert the following text message slang back into standard English.
+14. Input:
+Btw, r u goin 2 the party 2nite? Lmk asap, thx.
+14. Output:
+By the way, are you going to the party tonight? Let me know as soon as possible, thanks.
+###
+15. Instruction: Detect any bias in the given statement.
+15. Input:
+According to an article titled "High Taxation: The Dreaded Enemy of Progress" by the Society for Economic Freedom, high taxes have been proven to significantly hamper economic growth and discourage innovation.
+15. Output:
+The bias in the statement comes from a source with a clear ideological leaning (the Society for Economic Freedom) and the use of negative language ("The Dreaded Enemy of Progress") to describe high taxation.
+###
+16. Instruction: Give an advice on how to improve the structure of the given sentence.
+16. Input:
+The new employee was enthusiastic, outgoing, energetic, and to receive feedback quite well.
+16. Output:
+Rearrange the sentence for better structure: The new employee was enthusiastic, outgoing, energetic, and receptive to feedback.
+###
+17. Instruction: Name a famous person and an interesting fact about them.
+17. Input:
+<noinput>
+17. Output:
+Albert Einstein, a renowned theoretical physicist, was offered the presidency of Israel in 1952, but he declined the position.
+###
+18. Instruction: List four potential risks that a small retail business might face.
+18. Input:
+<noinput>
+18. Output:
+1. Cash flow problems
+2. Theft or vandalism
+3. Inventory management issues
+4. Increasing competition from e-commerce
+###
+19. Instruction: Transform the following declarative sentence into an exclamatory one. 
+19. Input:
+You did a great job on the project.
+19. Output:
+Wow, you did a great job on the project!
+###
+20. Instruction: Calculate the tip for the given bill amount at a 15% rate.
+20. Input: 
+$75.40
+20. Output:
+$11.31

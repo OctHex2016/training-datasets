@@ -1,0 +1,104 @@
+4. Instruction: Rewrite the following sentence using a different word for "happy". 
+4. Input: 
+John felt very happy when he heard the good news. 
+4. Output: 
+John felt overjoyed when he heard the good news. 
+###
+5. Instruction: Output the antonyms of the following words: hot, dark, slow. 
+5. Input: 
+<noinput>
+5. Output: 
+cold, light, fast.
+###
+6. Instruction: Generate a haiku about a beautiful sunset. A haiku consists of 3 lines, where the first and third lines have 5 syllables and the second line has 7 syllables. 
+6. Input: 
+<noinput>
+6. Output: 
+Sun descends in gold,
+Casting hues in the sky's fold,
+Nature's beauty, bold.
+###
+7. Instruction: Given a list of numbers, output the second smallest number. 
+7. Input: 
+3, 7, 1, 9, 5, 2
+7. Output: 
+2
+###
+8. Instruction: What is the current weather like in London, UK? 
+8. Input: 
+<noinput>
+8. Output: 
+It is currently sunny with a high of 27 degrees Celsius in London, UK.
+###
+9. Instruction: Correct the grammatical errors in the following sentence. 
+9. Input: 
+Me and him went to the store yesterday. 
+9. Output: 
+He and I went to the store yesterday.
+###
+10. Instruction: Give a one-word synonym for the following words: happy, big, small. 
+10. Input: 
+<noinput>
+10. Output: 
+joyful, large, tiny.
+###
+11. Instruction: Given a list of books with their authors and publication dates, sort the books in chronological order. 
+11. Input: 
+The Great Gatsby by F. Scott Fitzgerald (1925), Frankenstein by Mary Shelley (1818), To Kill a Mockingbird by Harper Lee (1960), The Catcher in the Rye by J.D. Salinger (1951).
+11. Output: 
+Frankenstein by Mary Shelley (1818), The Great Gatsby by F. Scott Fitzgerald (1925), The Catcher in the Rye by J.D. Salinger (1951), To Kill a Mockingbird by Harper Lee (1960).
+###
+12. Instruction: Make a one-sentence recommendation on a restaurant based on the given reviews. 
+12. Input: 
+I went to this restaurant and the food was delicious, but the service was slow. 
+12. Output: 
+Overall, the restaurant had delicious food but the service could be improved. 
+###
+13. Instruction: Given a list of cities and their populations, output the top 3 most populated cities. 
+13. Input: 
+New York City (8.3 million), Los Angeles (3.9 million), Chicago (2.7 million), Houston (2.3 million), Phoenix (1.7 million).
+13. Output: 
+New York City, Los Angeles, Chicago. 
+###
+14. Instruction: Given a movie review, rate the movie on a scale of 1 to 10. 
+14. Input: 
+I thought the acting was amazing, but the plot was a bit predictable. 
+14. Output: 
+I would rate it a 7 out of 10. 
+###
+15. Instruction: Generate a pun using the word "orange". 
+15. Input: 
+<noinput>
+15. Output: 
+Why did the orange go to the doctor? Because it wasn't peeling well! 
+###
+16. Instruction: Correct the spelling errors in the following sentence. 
+16. Input: 
+I havent seen you in a whyle. 
+16. Output: 
+I haven't seen you in a while. 
+###
+17. Instruction: Output the synonyms of the following words: large, happy, sad. 
+17. Input: 
+<noinput>
+17. Output: 
+big, joyful, unhappy. 
+###
+18. Instruction: Generate a rhyming couplet about a cat. A couplet consists of two lines that rhyme with each other. 
+18. Input: 
+<noinput>
+18. Output: 
+I had a little kitty,
+Who always looked so pretty. 
+###
+19. Instruction: Given a list of healthy foods, output the top 3 high-protein options. 
+19. Input: 
+Salmon, chicken breast, Greek yogurt, lentils, tofu, almonds.
+19. Output: 
+Salmon, chicken breast, tofu.
+###
+20. Instruction: Tell me a little bit about the history of the Taj Mahal. 
+20. Input: 
+<noinput>
+20. Output: 
+The Taj Mahal is a white marble mausoleum located in Agra, India. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, who died in childbirth in 1631. Its construction was completed in 1653, and it is regarded by many as the finest example of Mughal architecture.

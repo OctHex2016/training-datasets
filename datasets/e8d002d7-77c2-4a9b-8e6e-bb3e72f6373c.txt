@@ -1,0 +1,106 @@
+4. Instruction: Translate the following English sentence to French. 
+4. Input: 
+I want to visit Paris with my friends.
+4. Output: 
+Je veux visiter Paris avec mes amis.
+
+5. Instruction: Identify the type of poem from the given example. 
+5. Input: 
+Whose woods these are, I think I know.
+His house is in the village though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+5. Output: 
+Quatrain
+
+6. Instruction: Provide a catchy slogan for a company that sells eco-friendly products. 
+6. Input: 
+<noinput>
+6. Output: 
+Go Green, Live Clean – Embrace the Eco-Friendly Scene!
+
+7. Instruction: Rate the following joke on a scale of 1 to 10, where 1 represents "not funny" and 10 represents "very funny". 
+7. Input: 
+Why don't scientists trust atoms? Because they make up everything!
+7. Output: 
+8
+
+8. Instruction: Summarize the following paragraph into one sentence. 
+8. Input: 
+Deforestation, the permanent destruction of forests in order to utilize the land for other purposes, is a major global issue with various contributing factors. Some causes of deforestation include agricultural expansion, logging for paper and fuel, the construction of infrastructure, and urbanization. Deforestation not only affects wildlife habitats, but also contributes to climate change by reducing the number of trees consuming carbon dioxide.
+8. Output: 
+Deforestation, caused by factors such as agriculture and urbanization, destroys wildlife habitats and contributes to climate change by reducing the carbon-dioxide-consuming trees.
+
+9. Instruction: In a brief paragraph, describe Leonardo da Vinci's contributions to art and science. 
+9. Input: 
+<noinput>
+9. Output: 
+Leonardo da Vinci was a multifaceted genius whose contributions to art and science have left a lasting impact. As a master artist, he created iconic works such as "The Last Supper" and "Mona Lisa" that display innovative techniques and demonstrate his deep understanding of human anatomy. In addition, he ventured into numerous scientific disciplines, including anatomy, engineering, and physics, making discoveries, inventions, and detailed sketches of prototypes that were ahead of his time.
+
+10. Instruction: Compare and contrast dogs and cats as pets. 
+10. Input: 
+<noinput>
+10. Output: 
+Dogs are loyal and active pets, requiring regular exercise, playtime, and social interaction. They are often protective and can be trained to perform various tasks. Cats, on the other hand, are independent and mostly low-maintenance, spending much of their day sleeping or grooming. They are less likely to demand attention compared to dogs and are generally more flexible when left alone for longer periods. Both pets offer companionship, but the choice between the two depends on individual preferences and lifestyles.
+
+11. Instruction: Write a short review of a movie you've seen recently. 
+11. Input: 
+Movie: The Grand Budapest Hotel
+11. Output: 
+"The Grand Budapest Hotel" is a delightful, whimsical comedy that transports you into a world of colorful aesthetics and charming characters. Directed by Wes Anderson, the film's quirky narrative unfolds through the eyes of the protagonist, Moustafa, and features Ralph Fiennes in a beautifully nuanced performance. The storyline, coupled with a captivating visual style and sharp humor, makes "The Grand Budapest Hotel" an enjoyable cinematic escape.
+
+12. Instruction: Recommend a book to someone who is interested in psychology. 
+12. Input: 
+<noinput>
+12. Output: 
+I recommend "Thinking, Fast and Slow" by Daniel Kahneman, a fascinating exploration of human decision-making processes and the two systems that drive the way we think.
+
+13. Instruction: Fact-check the following statement.
+13. Input: 
+Van Gogh sold only one painting during his lifetime.
+13. Output: 
+True
+
+14. Instruction: Rewrite the given sentence in passive voice.
+14. Input: 
+The cat chased the mouse.
+14. Output: 
+The mouse was chased by the cat.
+
+15. Instruction: Explain the main difference between mitosis and meiosis.
+15. Input: 
+<noinput>
+15. Output: 
+The main difference between mitosis and meiosis is that mitosis produces identical daughter cells with the same number of chromosomes as the parent cell, while meiosis produces non-identical sex cells or gametes with half the number of chromosomes of the parent cell.
+
+16. Instruction: Suggest some potential uses for artificial intelligence in education. 
+16. Input: 
+<noinput>
+16. Output: 
+AI can be used for personalized learning, automating administrative tasks, assessing student performance, developing intelligent tutoring systems, creating interactive learning experiences, and aiding in special needs education.
+
+17. Instruction: Given the symptoms, tell me about the possible diagnosis.
+17. Input: 
+Symptoms: fever, sore throat, swollen lymph nodes, and fatigue.
+17. Output: 
+Possible diagnosis: Mononucleosis or strep throat.
+
+18. Instruction: Analyze the tone of the following text. 
+18. Input: 
+I absolutely cannot stand waiting in traffic. It's the worst part of my day, and when it's hot outside, forget it. I would rather walk ten miles and enjoy the fresh air than sit in the car for hours.
+18. Output: 
+Frustrated and annoyed.
+
+19. Instruction: Explain the concept of the butterfly effect in simple terms. 
+19. Input: 
+<noinput>
+19. Output: 
+The butterfly effect is the idea that a small change, like the flap of a butterfly's wings, can have a ripple effect and lead to much larger changes in the future, such as altering the course of weather patterns.
+
+20. Instruction: Write a haiku about nature. 
+20. Input: 
+<noinput>
+20. Output: 
+Gentle autumn breeze,
+Leaves whisper, create sweet hymn,
+Nature's harmony.

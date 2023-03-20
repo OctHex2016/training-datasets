@@ -1,0 +1,103 @@
+
+
+4. Instruction: Rewrite the sentence in passive voice.
+4. Input: 
+The chef cooked the meal.
+4. Output: 
+The meal was cooked by the chef.
+###
+5. Instruction: Summarize the plot of the given book in a few sentences.
+5. Input: 
+To Kill a Mockingbird by Harper Lee
+5. Output: 
+To Kill a Mockingbird tells the story of a young girl named Scout and her brother Jem who grow up in Alabama during the Great Depression. Their father, a lawyer, defends a black man falsely accused of rape, and the siblings learn about racism, injustice, and the power of compassion.
+###
+6. Instruction: Generate a witty pun based on the following word.
+6. Input: 
+Tea
+6. Output: 
+How does one make a party bearable? By steeping it lively with tea.
+###
+7. Instruction: Rearrange the words to make a grammatically correct sentence. 
+7. Input: 
+around softly she tiptoed room the
+7. Output: 
+She tiptoed softly around the room.
+###
+8. Instruction: Write a brief summary of the article given in the input.
+8. Input: 
+https://www.bbc.com/news/technology-58440040
+8. Output: 
+The article discusses the harm to people's mental health caused by social media influencers promoting unrealistic beauty standards. The UK government plans to implement legislation that requires such influencers to be more transparent about their use of online filters and editing.
+###
+9. Instruction: Write 5 words that rhyme with the provided word.
+9. Input: 
+Star 
+9. Output: 
+Far, car, jar, bar, par.
+###
+10. Instruction: Define a technical term used in data science.
+10. Input: 
+Overfitting
+10. Output: 
+Overfitting is a phenomenon that occurs when a machine learning model is trained on a particular dataset so much that it begins to fit noise in the dataset along with the important patterns. As a result, this model does not generalize well to new data and offers poor performance.
+###
+11. Instruction: Correct the misspelled word in the input sentence.
+11. Input: 
+I went to the store to bye some groseries. 
+11. Output: 
+I went to the store to buy some groceries.
+###
+12. Instruction: Provide a synonym for the given word.
+12. Input: 
+Mundane
+12. Output: 
+Boring, monotonous, repetitive, everyday, ordinary.
+###
+13. Instruction: Explain the meaning of an idiom.
+13. Input: 
+"To beat around the bush"
+13. Output: 
+"To beat around the bush" means to avoid coming to the main point or issue, by talking in a roundabout way or indirectly.
+###
+14. Instruction: Suggest a healthy food recipe using the following ingredients.
+14. Input: 
+Quinoa, avocado, tomato, and cilantro.
+14. Output: 
+Avocado Quinoa Salad: Mix cooked quinoa and diced avocado in a bowl. Add diced tomato and chopped cilantro leaves. Drizzle with olive oil, season with salt and pepper, and serve.
+###
+15. Instruction: Complete the following analogy.
+15. Input: 
+Cup is to coffee as bowl is to _______.
+15. Output: 
+Soup
+###
+16. Instruction: Identify the noun in the given sentence.
+16. Input: 
+She read the book.
+16. Output: 
+Book
+###
+17. Instruction: Create a compelling slogan for a new product.
+17. Input: 
+Luxury watch brand
+17. Output: 
+"Timeless elegance for every moment with [Brand Name] watches."
+###
+18. Instruction: Pick the correct verb to complete the sentence.
+18. Input: 
+My friends ___ going to the beach tomorrow.
+18. Output: 
+Are
+###
+19. Instruction: Generate a palindrome using the following word.
+19. Input: 
+Racecar
+19. Output: 
+Racecar
+###
+20. Instruction: Ask an open-ended question about the following topic.
+20. Input: 
+Artificial intelligence.
+20. Output: 
+What are the ethical implications of using artificial intelligence in various industries?

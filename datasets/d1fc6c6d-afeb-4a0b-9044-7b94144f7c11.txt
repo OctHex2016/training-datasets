@@ -1,0 +1,122 @@
+4. Instruction: Summarize the article in 2-3 sentences. 
+4. Input: 
+Researchers from the University of California, San Diego have developed a new sustainable, coral-safe sunscreen from algae-derived compounds. The new sunscreen is not only eco-friendly, but it also offers protection against a wider range of ultraviolet (UV) radiation than current products. It uses specially engineered algae proteins to provide protection against both UVA and UVB radiation, which can cause skin cancer, without harming coral reefs or other marine life.
+4. Output: 
+Researchers at the University of California, San Diego have created an eco-friendly, coral-safe sunscreen using algae-derived compounds that protect against a broad range of UV radiation. The new sunscreen utilizes engineered algae proteins to shield against both UVA and UVB rays without causing harm to coral reefs and marine life.
+
+5. Instruction: Translate the given text into Spanish.
+5. Input: 
+The shipment with the vaccines against COVID-19 has arrived at our warehouse. Please sign the inventory sheet confirming that you have received the shipment and notify your manager immediately.
+5. Output: 
+El envío de las vacunas contra COVID-19 ha llegado a nuestro almacén. Por favor, firme la hoja de inventario confirmando que ha recibido el envío y notifique a su gerente de inmediato.
+
+6. Instruction: Do the source and the paraphrase have similar meaning? Answer "Yes" or "No".
+6. Input: 
+Source: The boy jumped happily in the puddle.
+Paraphrase: The young child leaped joyfully into the muddy water.
+6. Output: 
+Yes
+
+7. Instruction: <noinput> What would be a biological reason for someone to have blue eyes? 
+7. Output: 
+A person may have blue eyes due to the amount and type of melanin present in the front layer of the iris. Individuals with blue eyes have a lower concentration of melanin, leading to a blue appearance as the light scatters within the eye.
+
+8. Instruction: Detect the sentiment of the following sentence as "positive", "negative", or "neutral".
+8. Input: 
+I absolutely love the features and design of my new phone.
+8. Output: 
+Positive
+
+9. Instruction: Rewrite the sentences without changing their meaning by using passive voice.
+9. Input: 
+They are building a new shopping mall in town, and they will finish it next month.
+9. Output: 
+A new shopping mall is being built in town, and it will be finished next month.
+
+10. Instruction: Make the sentence sound more formal.
+10. Input: 
+I need you to finish that report before you leave today, okay?
+10. Output: 
+Please ensure that the report is completed prior to your departure today.
+
+11. Instruction: Categorize the text as a scientific discovery or a historical event. If neither, answer "unknown".
+11. Input: 
+In 1969, Apollo 11 successfully landed on the moon, marking a significant milestone in the space race.
+11. Output: 
+Historical event
+
+12. Instruction: Write a short poem about spring.
+12. Input: <noinput>
+12. Output: 
+In spring, the world awakes anew,
+As golden sunbeams kiss the dew,
+Fresh blossoms paint the earth with hues,
+A symphony of life ensues.
+
+13. Instruction: Fact-check the statement and provide a source.
+13. Input: 
+Statement: Albert Einstein won the Nobel Prize in Physics in 1921 for his work in theoretical physics.
+13. Output: 
+True. Albert Einstein won the Nobel Prize in Physics in 1921 for his work in theoretical physics, particularly for discovering the photoelectric effect. Source: https://www.nobelprize.org/prizes/physics/1921/einstein/facts/
+
+14. Instruction: Identify and correct any grammatical errors in the sentence.
+14. Input: 
+The two best things about they're vacation, was the beaches and the delicious local foods which they enjoyed daily.
+14. Output: 
+The two best things about their vacation were the beaches and the delicious local foods, which they enjoyed daily.
+
+15. Instruction: What are the primary colors in the RGB color model?
+15. Input: <noinput>
+15. Output: 
+The primary colors in the RGB color model are red, green, and blue.
+
+16. Instruction: Based on the given prompt, write a fictional story in first person.
+16. Input: 
+Prompt: A magical talking cat convinces the protagonist to follow it.
+16. Output: 
+I was walking home one evening when an unusual sight caught my attention – a cat, casually sitting on the sidewalk, staring right at me. As I approached, I found something even more surprising: the cat spoke to me.
+
+"Good evening, traveler," it said in a smooth, almost hypnotic voice. "I have an important quest for you, should you choose to accept it."
+
+Before I could question my sanity, the cat continued. "My name is Whiskerston, guardian of the mythical Clockwork Kingdom. Our world is in grave danger, and we need your help." Baffled, yet intrigued, I couldn't resist following Whiskerston down roads and alleys, entering a realm of mystery and magic I never thought possible.
+
+17. Instruction: Write an apology letter to a customer apologizing for a faulty product and offering a proper solution.
+17. Input: 
+Product Issue: Pair of shoes with a tear on the right shoe's side
+Customer Name: Mrs. Williams
+Company Name: Footwear Finesse
+17. Output: 
+Dear Mrs. Williams,
+
+We at Footwear Finesse are truly sorry for the inconvenience you have experienced with your recent purchase of a pair of our shoes. It has come to our attention that there was a tear on the side of the right shoe, and we understand how disappointing this must be for you.
+
+Please accept our sincerest apologies for this issue, and know that we take your feedback very seriously. As a valued customer, we want to ensure you are completely satisfied with our products. To rectify the situation, we are offering you a full refund of the purchase price or a replacement pair of shoes, whichever you prefer.
+
+To process the refund or exchange, simply return the faulty pair of shoes to the store where you made the purchase or contact our customer service team for further assistance.
+
+Thank you for your understanding and for your continued support of Footwear Finesse. We appreciate your business, and we are committed to providing you with the highest-quality products and customer service in the future.
+
+Sincerely,
+
+[Your Name]
+
+[Your Title]
+
+Footwear Finesse
+
+18. Instruction: Generate two creative and distinct names for a new cafe.
+18. Input: <noinput>
+18. Output: 
+1. Brewtopia Haven
+2. Whimsical Cup & Saucer
+
+19. Instruction: Correct the punctuation errors in the passage.
+19. Input: 
+When I bought my car; I had a choice between two models, a sedan, or a hatchback. I ended up choosing the hatchback: which has served me well.
+19. Output: 
+When I bought my car, I had a choice between two models: a sedan or a hatchback. I ended up choosing the hatchback, which has served me well.
+
+20. Instruction: Create a new slogan for a health supplements company.
+20. Input: <noinput>
+20. Output: 
+Fuel your future - Empower your wellness.

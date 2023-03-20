@@ -1,0 +1,118 @@
+4. Instruction: Explain the concept in layman's terms.
+4. Input: 
+Concept: photosynthesis
+4. Output: 
+Photosynthesis is the process used by plants, algae, and certain bacteria to convert sunlight, water, and carbon dioxide into food (sugar) and oxygen. It's how plants make their own food, turning sun energy into a form they can use and share with other living things.
+
+5. Instruction: Rewrite the sentence in passive voice.
+5. Input: 
+Sentence: They are making a movie about her life.
+5. Output: 
+A movie about her life is being made.
+
+6. Instruction: Give reasons why anyone must learn a foreign language.
+6. Input: 
+<noinput>
+6. Output: 
+1. Enhances cognitive skills: Learning a foreign language improves memory, multitasking abilities, and problem-solving skills.
+2. Career opportunities: Knowing a foreign language opens up job opportunities and increases professional value.
+3. Cultural understanding: Learning a language helps in understanding different cultures and their beliefs.
+4. Travel experiences: Communicating with locals becomes easier when you know their language, making traveling experiences richer and more enjoyable.
+5. Connect with others: Language allows you to connect with people from different backgrounds and create friendships across borders.
+
+7. Instruction: Given a scenario, write an appropriate email subject line.
+7. Input: 
+Scenario: You are asking your professor for an appointment to discuss your research paper proposal.
+7. Output: 
+Request for Appointment: Research Paper Proposal Discussion
+
+8. Instruction: Provide three examples of synonyms for the given word.
+8. Input: 
+Word: happy
+8. Output: 
+1. Joyful
+2. Content
+3. Delighted
+
+9. Instruction: Given the dish, provide its country of origin.
+9. Input: 
+Dish: sushi
+9. Output: 
+Japan
+
+10. Instruction: Given the problem, propose a solution.
+10. Input: 
+Problem: You noticed that your neighbor's dog barks loudly during late-night hours and you find it difficult to sleep.
+10. Output: 
+Solution: Have a respectful conversation with your neighbor to discuss the issue and suggest potential modifications, such as moving the dog to a more isolated area of their home or using a noise-cancelling device in your bedroom.
+
+11. Instruction: From the input passage, extract one sentence that represents the main idea.
+11. Input: 
+Passage: Shoes play an important role in our daily lives. They protect our feet from dirt, sharp objects, and improve comfort during physical activities. Moreover, the right pair of shoes can enhance performance in sports by providing support and reducing the risk of injuries. Shoes are not only functional but can also make a fashion statement and express an individual's personality and style.
+11. Output: 
+They protect our feet from dirt, sharp objects, and improve comfort during physical activities.
+
+12. Instruction: What are the benefits of the given activity?
+12. Input: 
+Activity: reading books
+12. Output: 
+1. Expands vocabulary and language skills
+2. Improves focus, concentration, and critical thinking
+3. Enhances creativity and imagination
+4. Reduces stress and promotes relaxation
+5. Increases knowledge and understanding of various topics
+6. Develops empathy and encourages personal growth
+
+13. Instruction: Should I invest in this product? Explain briefly.
+13. Input: 
+Product: An electric car with limited mile range, high cost, and long charging times
+13. Output: 
+Not recommended. The limited mile range, high cost, and long charging times outweigh the benefits of investing in this electric car. It is better to wait for more efficient and affordable options to become available in the market.
+
+14. Instruction: Write a brief description of the given term.
+14. Input: 
+Term: Yoga
+14. Output: 
+Yoga is an ancient practice originating in India that combines physical postures, breath control, and meditation to promote overall well-being. It helps in enhancing flexibility, strength, balance, and mental clarity while reducing stress and anxiety.
+
+15. Instruction: Given the website URL, cite it in APA format.
+15. Input: 
+URL: https://www.example.com/blog/10-best-movies-of-all-time
+Author: John Doe
+Date: January 20, 2022
+Title: 10 Best Movies of All Time
+15. Output: 
+Doe, J. (2022, January 20). 10 Best Movies of All Time. Example. https://www.example.com/blog/10-best-movies-of-all-time
+
+16. Instruction: Compare and contrast the two given items in a few sentences.
+16. Input: 
+Item 1: Apples
+Item 2: Oranges
+16. Output: 
+Apples and oranges are both healthy fruits, rich in essential vitamins, minerals, and fiber. However, apples have a thin, edible skin and a slightly sweet taste, while oranges have a thicker, inedible peel with a more tangy and citrusy flavor. In terms of texture, apples are crispier and firmer, whereas oranges are juicier and softer.
+
+17. Instruction: Can you name two key features of the given topic?
+17. Input: 
+Topic: Roman architecture
+17. Output: 
+1. Use of arches: Roman architecture is known for its extensive use of arches that allowed for wider spans and larger structures.
+2. Building materials: Romans mastered the use of concrete, which allowed them to create durable and lasting buildings.
+
+18. Instruction: Identify the problem in the given sentence and suggest a correction.
+18. Input: 
+Sentence: She went to the store and buys milk.
+18. Output: 
+Problem: Incorrect verb tense.
+Correction: She went to the store and bought milk.
+
+19. Instruction: Which question would be the most relevant for the following statement? Provide only the question.
+19. Input: 
+Statement: The company's turnover increased by 20% in the last fiscal year.
+19. Output: 
+What factors contributed to the 20% turnover increase in the last fiscal year?
+
+20. Instruction: In two to three sentences, summarize the given event.
+20. Input: 
+Event: On July 20, 1969, Apollo 11, with astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins on board, successfully landed on the Moon, making it the first manned mission to do so.
+20. Output: 
+On July 20, 1969, Apollo 11 made history by landing on the Moon with astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins on board. This momentous event marked the first time humans had ever set foot on the lunar surface.

@@ -1,0 +1,54 @@
+4. Instruction: Correct the grammatical and punctuation mistakes in the given passage.
+4. Input: 
+She comes to us every day, since before one year, she's been taking care of my child, and cleaning the house; so, she's important to me my wife and my child.
+4. Output: 
+She has been coming to us every day for over a year. She takes care of my child and cleans the house, so she's important to me, my wife, and my child.
+###
+5. Instruction: Provide a summary of the passage.
+5. Input: 
+In recent years, the use of artificial intelligence (AI) and machine learning (ML) technologies has grown exponentially in the business world, impacting many industries and market segments. Companies have adopted these technologies to optimize their operations, analyze patterns in business data, and enhance their decision-making processes. The applications of AI and ML range from customer service, where chatbots can respond to customer inquiries or recommend products, to supply chain management, where predictive analytics can identify potential disruptions and enable businesses to respond proactively. Furthermore, AI and ML can also be used to improve cybersecurity, monitor equipment performance, and automate repetitive tasks, freeing up employees' time for more high-value work.
+5. Output: 
+The use of AI and machine learning in the business world has grown exponentially, impacting various industries. Companies use these technologies to optimize operations, analyze patterns, and improve decision-making. Applications range from customer service and supply chain management to cybersecurity, equipment monitoring, and automating repetitive tasks.
+###
+6. Instruction: Write a short poem about a beautiful sunset.
+6. Input:
+<noinput>
+6. Output:
+Amidst the horizon's serene hue,
+A masterpiece begins to ensue,
+Golden rays paint the sky,
+A canvas so vast, a dreamer's eye.
+
+Shades of orange, purple, and pink,
+A celestial dance, a marvelous sync,
+The sun descends, a soft slow embrace,
+Nature's orchestra, grace upon grace.
+
+Reflections of beauty, in water and skies,
+A fleeting moment, a heartfelt sigh,
+As the day turns to twilight, the final ray,
+A beautiful sunset, to end the day. 
+###
+7. Instruction: Translate the following text from English to French.
+7. Input: 
+I'm planning to visit Paris this summer with my friends. We want to explore the city, try delicious French cuisine, and visit some famous landmarks like the Eiffel Tower and the Louvre Museum.
+7. Output: 
+Je prévois de visiter Paris cet été avec mes amis. Nous voulons explorer la ville, goûter à la délicieuse cuisine française et visiter des monuments célèbres comme la Tour Eiffel et le Musée du Louvre.
+###
+8. Instruction: From the given description, estimate the age of the person.
+8. Input: 
+John is a high school senior. He's currently applying to colleges for admission in the upcoming academic year. He got his driver's license last year.
+8. Output: 
+17-18
+###
+9. Instruction: List three different ways to cook an egg for breakfast.
+9. Input: 
+<noinput>
+9. Output: 
+Scrambled eggs, fried eggs, boiled eggs
+###
+10. Instruction: Identify the logical fallacy in the given statement.
+10. Input: 
+You can't trust Sarah's opinion on technology, she's over 60 years old!
+10. Output: 
+Ad hominem

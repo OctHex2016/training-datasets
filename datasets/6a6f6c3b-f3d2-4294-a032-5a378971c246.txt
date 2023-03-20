@@ -1,0 +1,116 @@
+4. Instruction: Provide possible features or functionalities for a new alarm clock app.
+4. Input: 
+<noinput>
+4. Output: 
+1) Multiple alarm profiles.
+2) Customizable alarm tones and vibrations.
+3) Intelligent snooze settings.
+4) Sleep tracking and analysis.
+5) Integration with smart home devices.
+6) Wake up challenge (e.g., solving math problems).
+7) Bedtime reminders and relaxation techniques.
+8) Weather forecast notifications.
+9) Voice command compatibility.
+10) Dark mode and adjustable app brightness.
+
+5. Instruction: Correct any grammar mistakes in the given sentence. If no corrections needed, type "Correct."
+5. Input: 
+There is many books in the library.
+5. Output: 
+There are many books in the library.
+
+6. Instruction: Paraphrase the given sentence without changing its meaning.
+6. Input: 
+Some people think exercising is pointless and prefer to enjoy their free time doing other activities.
+6. Output: 
+A few individuals believe that working out has no purpose, and they would rather spend their leisure time engaged in different pursuits.
+
+7. Instruction: Summarize the given passage in one sentence.
+7. Input: 
+A self-driving car, also referred to as an autonomous car, is a vehicle that uses sensors, cameras, and complex algorithms to drive itself without the need for human intervention. These cars can navigate routes, obey traffic laws, avoid obstacles, and make driving decisions without any input from the driver.
+7. Output: 
+Self-driving cars, or autonomous cars, are vehicles that utilize sensors, cameras, and advanced algorithms to navigate routes, follow traffic laws, and make driving decisions without human intervention.
+
+8. Instruction: Convert the given passage from passive voice to active voice.
+8. Input: 
+The award was presented to the deserving student by the principal.
+8. Output: 
+The principal presented the award to the deserving student.
+
+9. Instruction: Write a question that could be answered using the information provided in the following sentence:
+9. Input: 
+Johnny spends two hours every day practicing the piano.
+9. Output: 
+How much time does Johnny devote daily to practicing the piano?
+
+10. Instruction: Identify the style of language used in the given passage: Formal, Informal, or Neutral?
+10. Input: 
+Honestly, I totally didn't expect the exam to be that easy!
+10. Output: 
+Informal
+
+11. Instruction: Identify which category the given information belongs to: Fact, Opinion, or Belief?
+11. Input: 
+Global warming is a real threat to our planet.
+11. Output: 
+Fact
+
+12. Instruction: Detect if the given statement is an oxymoron. If so, answer "Yes" if not answer "No".
+12. Input: 
+Jumbo shrimp
+12. Output: 
+Yes
+
+13. Instruction: Translate the given sentence into French.
+13. Input: 
+I will meet you at the coffee shop tomorrow.
+13. Output: 
+Je te retrouverai au café demain.
+
+14. Instruction: Calculate the total cost for the given items and quantities.
+14. Input: 
+Apples: 10 at $0.50 each
+Bananas: 5 at $0.25 each
+Grapes: 2 pounds at $3.00 per pound
+14. Output: 
+$11.25
+
+15. Instruction: Provide information on the process of photosynthesis.
+15. Input: 
+<noinput>
+15. Output: 
+Photosynthesis is the process used by plants, algae, and certain bacteria to convert sunlight, carbon dioxide, and water into oxygen and glucose, which they use as energy for growth and reproduction.
+
+16. Instruction: Identify any logical fallacies present in the given argument.
+16. Input: 
+I saw a lady on the news who recovered from a serious illness after using an herbal remedy. Therefore, all herbal remedies must be effective in treating serious illnesses.
+16. Output: 
+Hasty generalization
+
+17. Instruction: Write a haiku about nature.
+17. Input: 
+<noinput>
+17. Output: 
+Gentle morning breeze,
+Whispers softly through tall trees,
+Nature's symphony
+
+18. Instruction: Describe how to perform the Heimlich maneuver.
+18. Input: 
+<noinput>\
+18. Output: 
+Stand behind the person who is choking, wrap your arms around their waist and make a fist with one hand. Place the thumb side of your fist just above the person's navel, below the ribcage. Grasp your fist with your other hand and give quick, upward abdominal thrusts until the object dislodges or the person starts to breathe or cough.
+
+19. Instruction: Express sympathy and condolences for someone who has lost a loved one.
+19. Input: 
+<noinput>
+19. Output: 
+I am deeply saddened to hear of your loss, and my heart goes out to you and your family. Please accept my sincere condolences and know that I am here for you during this difficult time.
+
+20. Instruction: Recommend three classic novels for someone looking to expand their reading list.
+20. Input: 
+<noinput>
+20. Output: 
+1) To Kill a Mockingbird by Harper Lee
+2) Pride and Prejudice by Jane Austen
+3) 1984 by George Orwell

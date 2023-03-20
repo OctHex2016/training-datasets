@@ -1,0 +1,50 @@
+4. Instruction: Transform the following text into a haiku.
+4. Input: 
+The woods in winter, filled with white snow and silence, create a peaceful scene.
+4. Output: 
+Winter woods hushed white,
+Snow concealing silent paths,
+Peace in every step.
+
+5. Instruction: Summarize John F. Kennedy's contributions as the 35th President of the United States.
+5. Input: 
+<noinput>
+5. Output:
+JFK established the Peace Corps, navigated the Cuban missile crisis, pushed for civil rights, and set the goal for the U.S. to land on the moon.
+
+6. Instruction: Correct any grammatical errors and rewrite the following paragraph.
+6. Input:
+Jenna coming over to your house thats great. She is mine best friend, although since she move to the other city, we havent seen each other much any more. Lets, order some pizza and make it a fun night! I'll be there are 6pm, sounds good?
+6. Output:
+Jenna is coming over to your house; that's great. She is my best friend, but since she moved to another city, we haven't seen each other much anymore. Let's order some pizza and make it a fun night! I'll be there at 6 pm; does that sound good?
+
+7. Instruction: What are the main symptoms of depression? 
+7. Input:
+<noinput>
+7. Output:
+Persistent sadness, loss of interest in activities, changes in appetite and sleep patterns, fatigue, feelings of guilt, difficulty concentrating, and suicidal thoughts.
+
+8. Instruction: Provide tips to enhance productivity at work.
+8. Input:
+<noinput>
+8. Output:
+1. Set achievable goals
+2. Prioritize tasks
+3. Break tasks into smaller steps
+4. Keep a dedicated workspace
+5. Limit distractions
+6. Take breaks
+7. Develop a routine
+8. Use technology efficiently
+
+9. Instruction: Translate the following sentence from English to Spanish.
+9. Input:
+I would like a cup of coffee with milk, please.
+9. Output:
+Me gustaría una taza de café con leche, por favor.
+
+10. Instruction: Identify the logical fallacy in the following statement.
+10. Input:
+If you don't vote for this candidate, then you must be supporting the other one.
+10. Output:
+False dilemma

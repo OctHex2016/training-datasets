@@ -1,0 +1,44 @@
+4. Instruction: Rewrite the given sentence using passive voice.
+4. Input: 
+Maria sang the song beautifully.
+4. Output: 
+The song was beautifully sung by Maria.
+###
+5. Instruction: Identify and list the logical fallacies present in the given argument.
+5. Input: 
+People believe that global warming is a hoax because one expert once argued that it's not real, and he has a PhD. Besides, it's not that simple to determine - just last week, it was snowing!
+5. Output: 
+Appeal to Authority, Anecdotal Evidence, Hasty Generalization
+###
+6. Instruction: Given the following document excerpt, retrieve and provide quotes that relate to the theme of companionship. 
+6. Input: 
+There was a time when George and Lennie traveled together on the open road. They shared an ambition in their hearts – the American Dream. George was a small, intelligent man, while Lennie happened to be tall, strong, and intellectually disabled. They talked about owning their own land, a piece of paradise where they could live off the "fat of the land." This dream motivated them, pushing them forward in search of work wherever they went.
+
+Often, in the lonely hours on the road, they marveled at their luck. They knew that most people who sought work in the dying economy were alone, while they had each other. "I got you to look after me, and you got me to look after you," Lennie said on more than one occasion. For these two, the journey was just as important as the destination, because they walked it together.
+6. Output: 
+1. "I got you to look after me, and you got me to look after you."
+2. "For these two, the journey was just as important as the destination, because they walked it together."
+###
+7. Instruction: Summarize the main idea of the paragraph in one sentence.
+7. Input: 
+With constant advancements in technology, many workers are facing the challenges of adapting to new processes and work methodologies. This situation is causing a significant amount of stress to workers as they try to keep up in an ever-changing environment. However, companies can help mitigate this issue by providing adequate training and support to employees, ensuring they understand and can properly use new technologies. Additionally, fostering a culture that values and encourages continuous learning will empower employees to embrace innovation and adapt to the evolving workplace.
+7. Output: 
+Companies should provide training and foster a culture of continuous learning to help employees adapt to technological advancements and reduce workplace stress.
+###
+8. Instruction: Translate the following sentence into French.
+8. Input: 
+Let's meet at the coffee shop tomorrow morning.
+8. Output: 
+Rencontrons-nous au café demain matin.
+###
+9. Instruction: Express the given statement as a question.
+9. Input: 
+The concert will be held outdoors.
+9. Output: 
+Will the concert be held outdoors?
+###
+10. Instruction: Describe the importance of time management in daily life.
+10. Input: 
+<noinput>
+10. Output: 
+Time management is crucial in daily life, as it allows individuals to prioritize tasks, allocate resources efficiently, and achieve goals within deadlines, thus increasing productivity and reducing stress. It also enables work-life balance and improves overall well-being.

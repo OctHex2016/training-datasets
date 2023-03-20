@@ -1,0 +1,122 @@
+4. Instruction: Correct any grammar errors in the given text.
+4. Input: 
+She walk to school every day despite she lives far-away.
+4. Output: 
+She walks to school every day, despite living far away.
+
+5. Instruction: Translate the following English sentence into French.
+5. Input:
+I love going to the beach on weekends.
+5. Output:
+J'aime aller à la plage le week-end.
+
+6. Instruction: Identify the style of the following text: formal or informal?
+6. Input:
+Hey, wanna grab some food later? I'm starvin'!
+6. Output:
+informal
+
+7. Instruction: Explain how photosynthesis works in plants.
+7. Input:
+<noinput>
+7. Output:
+Photosynthesis is the process by which plants convert sunlight, carbon dioxide, and water into glucose and oxygen. In the chloroplasts, light energy is absorbed by chlorophyll and is used to convert carbon dioxide and water to glucose through a series of chemical reactions. Oxygen is released as a byproduct.
+
+8. Instruction: Specifically criticize the role of John in the work project.
+8. Input:
+John was part of the team working on the new software project. He contributed to the database design and helped with testing. However, he was late to several meetings, and his communication was not always clear.
+8. Output:
+In the work project, John's shortcomings were his punctuality and communication skills. He was frequently late to meetings, demonstrating a lack of respect for others' time. Additionally, his unclear communication hindered the team's progress and created potential misunderstandings.
+
+9. Instruction: Suggest three ways to reduce plastic pollution.
+9. Input:
+<noinput>
+9. Output:
+1. Minimize single-use plastic consumption by using reusable bags, bottles, and containers.
+2. Support companies that prioritize sustainable packaging and zero-waste practices.
+3. Participate in clean-up initiatives and spread awareness about the harmful effects of plastic pollution.
+
+10. Instruction: Briefly summarize the main points of the following article.
+10. Input:
+A recent study has found that the adoption of electric vehicles (EVs) could save the United States billions of dollars in fuel costs and significantly reduce greenhouse gas emissions. The study, conducted by a team of economists and environmental researchers, analyzed the impact of replacing 50% of gasoline-powered vehicles with electric vehicles by 2050. The results showed that if the target is achieved, the US could save around $250 billion on fuel costs and prevent the emission of 2.4 billion tons of CO2. The researchers emphasized the importance of promoting EV adoption and increasing the charging infrastructure to achieve these benefits.
+10. Output:
+The study suggests that adopting electric vehicles in the US could save $250 billion on fuel costs and reduce emissions by 2.4 billion tons of CO2 by 2050. These benefits can be achieved by replacing 50% of gasoline-powered vehicles with EVs and improving charging infrastructure.
+
+11. Instruction: Invent an alternative title for the provided article.
+11. Input:
+"5 Incredible Ways that Drones are Changing the World"
+11. Output:
+"Revolutionizing the Future: The Top 5 Impacts of Drone Technology"
+
+12. Instruction: Explain the purpose of the Krebs cycle in cellular respiration.
+12. Input:
+<noinput>
+12. Output:
+The purpose of the Krebs cycle, also known as the citric acid cycle, is to generate energy in the form of ATP through a series of chemical reactions. It occurs in cellular respiration, breaking down pyruvate produced during glycolysis and converting it into carbon dioxide, NADH, FADH2, and ATP. The electron carriers NADH and FADH2 play a crucial role in the electron transport chain, where further ATP is produced.
+
+13. Instruction: Write a letter of complaint about the damaged washing machine that was just delivered.
+13. Input:
+<noinput>
+13. Output:
+Dear [Customer Service],
+
+I am writing to inform you about a disappointing experience with your company. On [Delivery Date], I received a washing machine (Model: [Model Number]) that I had purchased from your online store. Upon installation, I discovered that the washing machine was damaged, causing it to malfunction and leak water.
+
+I rely on the washing machine for my daily laundry needs and expected it to be in perfect working order when delivered. Unfortunately, the damaged product has caused inconvenience and frustration.
+
+I request immediate assistance to rectify the issue. Please arrange for a replacement or repair, as well as instructions on how to handle the damaged washing machine. I appreciate your prompt attention to this matter and look forward to a satisfactory resolution.
+
+Sincerely,
+
+[Your Name]
+[Contact Information]
+
+14. Instruction: Recommend three movies to watch for a Halloween movie marathon.
+14. Input:
+<noinput>
+14. Output:
+1. "Hocus Pocus" - A Halloween classic featuring witches, magic, and adventure.
+2. "Halloween" - This iconic slasher film delivers suspense, horror, and frights.
+3. "The Nightmare Before Christmas" - A unique blend of Halloween and Christmas, with a touch of whimsy and fantastic visuals.
+
+15. Instruction: List five important characteristics of a good leader.
+15. Input:
+<noinput>
+15. Output:
+1. Effective communication
+2. Adaptability and flexibility
+3. Strong work ethic and integrity
+4. Empathy and emotional intelligence
+5. Decisiveness and problem-solving skills
+
+16. Instruction: How would you describe the plot of the novel "To Kill a Mockingbird"?
+16. Input:
+<noinput>
+16. Output:
+"To Kill a Mockingbird" is set in a small town in Alabama during the 1930s and follows the story of siblings, Scout and Jem Finch. Under the guidance of their father, lawyer Atticus Finch, they learn about morality, empathy, and race relations. The novel revolves around Atticus defending a black man, Tom Robinson, falsely accused of rape, thus exposing the deep-rooted racism in their community.
+
+17. Instruction: Proofread the given resume statement and correct any errors.
+17. Input:
+Experienced professionel with strong social media management and comunications skills lookking to leverage my expertise in a marketing role
+17. Output:
+Experienced professional with strong social media management and communication skills, seeking to leverage my expertise in a marketing role.
+
+18. Instruction: Determine whether the given statement is pantheistic, monotheistic, or polytheistic.
+18. Input:
+There is only one supreme all-loving creator behind the entire universe.
+18. Output:
+monotheistic
+
+19. Instruction: Analyze the effect of a decrease in interest rates on consumer spending.
+19. Input:
+<noinput>
+19. Output:
+A decrease in interest rates usually leads to an increase in consumer spending. Lower interest rates reduce the cost of borrowing, making it more attractive for consumers to take out loans or use credit to buy goods and services. Additionally, people tend to save less when interest rates are low, as there is less incentive to put money in savings accounts. This shift of money from savings to spending can lead to an expansion in consumer spending and stimulate economic growth.
+
+20. Instruction: List three potential benefits of practicing meditation.
+20. Input:
+<noinput>
+20. Output:
+1. Reduced stress and anxiety levels
+2. Improved emotional well-being and self-awareness
+3. Enhanced focus, mindfulness, and concentration

@@ -1,0 +1,66 @@
+4. Instruction: Explain how to change a flat tire on a car.
+4. Input: 
+<noinput>
+4. Output: 
+1. Pull over and park the car safely.
+2. Turn on hazard lights and apply the parking brake.
+3. Retrieve the spare tire, jack, and lug wrench from the trunk.
+4. Loosen the lug nuts by turning counterclockwise using the lug wrench.
+5. Position the jack under the car's jack point and raise the vehicle.
+6. Completely remove the lug nuts and then the flat tire.
+7. Mount the spare tire onto the wheel lugs.
+8. Tighten the lug nuts by hand, then lower the vehicle by turning the jack handle.
+9. Once the car has lowered, use the lug wrench to fully tighten the lug nuts in a criss-cross pattern.
+10. Put away the tools, flat tire, and check the spare tire's pressure.
+
+5. Instruction: Describe the plot of the provided movie summary.
+5. Input:
+An action-packed science fiction film, "Noble Empire" takes place in a dystopian future where humankind is surviving in domed cities. A power-hungry corporation, Elyxium Corp, has complete control over these habitats, and a small group of rebels plan to face the empire head-on. When a highly skilled female mercenary infiltrates their group, she questions her loyalty and ultimately decides to join them. Together, they embark on a dangerous mission to take down Elyxium Corp and restore freedom to the human race.
+5. Output: 
+"Noble Empire" is a science fiction film set in a dystopian future, where humans live in domed cities controlled by Elyxium Corp. A group of rebels plan to challenge Elyxium's rule and are joined by a skilled female mercenary who reevaluates her loyalties. Together, they embark on a perilous mission to overthrow the oppressive corporate empire and bring freedom back to humanity.
+
+6. Instruction: Translate the following English text into French.
+6. Input:
+South Korea on Monday announced sweeping tax reforms, including income and corporate tax cuts to boost growth by stimulating sluggish private consumption and business investment. 
+6. Output:
+La Corée du Sud a annoncé lundi de vastes réformes fiscales, notamment des réductions d'impôt sur le revenu et les sociétés pour stimuler la croissance en encourageant la consommation privée atone et l'investissement des entreprises.
+
+7. Instruction: Write an opening paragraph for an article about the benefits of practicing yoga daily.
+7. Input:
+<noinput>
+7. Output:
+Yoga, an ancient mind-body practice, continues to gain popularity around the globe as individuals seek alternative methods to enhance their physical and mental well-being. Among its many touted benefits, a daily practice of yoga can elevate mood, increase flexibility, boost strength, and bring about a sense of inner peace. In this article, we delve into the science-backed reasons why incorporating yoga into your daily routine can lead to substantial improvements in your overall health and well-being.
+
+8. Instruction: Detect any spelling or grammar errors in the following text and correct them.
+8. Input:
+The study analized the impact of transportation on reducing city trafic, finding that carsharing, bikesharing and public transport significantly reduced traffic jams and improoved the quality of life in urban areas.
+8. Output:
+The study analyzed the impact of transportation on reducing city traffic, finding that car-sharing, bike-sharing, and public transport significantly reduced traffic jams and improved the quality of life in urban areas.
+
+9. Instruction: Write a formal thank you note to someone after a job interview.
+9. Input:
+<noinput>
+9. Output:
+Subject: Thank You - [Your Name] - Interview for [Job Position]
+
+Dear [Interviewer Name],
+
+I am writing to express my sincere gratitude for the opportunity to interview for the [job position] at [Company Name] on [Date]. It was a pleasure meeting with you and discussing the exciting prospects for this position.
+
+I would like to reiterate my strong interest in joining your team and contributing to the success of [Company Name]. The interview reinforced my belief that my background and experience align well with the desired qualifications, and I am eager to make a positive impact.
+
+I appreciate your time and the insightful information you shared about the company and the role. I look forward to the possibility of working together and hope to hear from you soon.
+
+Warm regards,
+
+[Your Full Name]
+[Phone Number]
+[Email Address]
+
+10. Instruction: Create a list of three family-friendly outdoor activities for a weekend getaway.
+10. Input:
+<noinput>
+10. Output:
+1. Nature scavenger hunt at a local park or nature reserve
+2. Family picnic with outdoor games and activities
+3. Bike ride along a scenic trail with multiple stops to explore local attractions

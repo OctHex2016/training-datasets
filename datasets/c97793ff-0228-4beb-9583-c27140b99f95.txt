@@ -1,0 +1,104 @@
+4. Instruction: Rewrite the given sentence by removing any passive voice and making it active. 
+4. Input: 
+The trophy was presented to the winning team by the principal.
+4. Output: 
+The principal presented the trophy to the winning team.
+###
+5. Instruction: Summarize the main idea of the given text passage.
+5. Input: 
+Many people are unaware of the consequences of using plastic products. Plastic usage has become a widely debated issue as it harms the environment and affects marine life. Most plastics take hundreds of years to decompose, and in the meantime, they break down into smaller pieces that pollute the water and soil. Additionally, marine animals often mistake plastic debris for food, which leads to illness or death. To reduce pollution, individuals should look for alternative, eco-friendly products and participate in recycling efforts.
+5. Output: 
+Plastic usage harms the environment and marine life due to its long decomposition process and pollution effects. To combat this issue, people should use eco-friendly alternatives and partake in recycling efforts.
+###
+6. Instruction: Write a haiku (5-7-5 syllable pattern) about nature.
+6. Input: 
+<noinput>
+6. Output: 
+Crisp autumn leaves fall,
+Whispering winds sing softly,
+Nature's dance unfolds.
+###
+7. Instruction: Is the given statement true or false? Give a brief explanation.
+7. Input: 
+Bats are blind animals.
+7. Output: 
+False. Bats are not blind; they have functional eyes and can see, although they primarily rely on echolocation to navigate and hunt for food.
+###
+8. Instruction: Convert the sentence into a question.
+8. Input: 
+She enjoys painting and gardening during weekends.
+8. Output: 
+Does she enjoy painting and gardening during weekends?
+###
+9. Instruction: Provide the percentage of the given fraction.
+9. Input: 
+37/50
+9. Output: 
+74%
+###
+10. Instruction: Write the given word in plural form.
+10. Input: 
+octopus
+10. Output: 
+octopuses
+###
+11. Instruction: Write an alliterative sentence using the given letter.
+11. Input: 
+P
+11. Output: 
+Peter picked a peck of plump purple plums.
+###
+12. Instruction: What is the meaning of the given idiom?
+12. Input: 
+The ball is in your court
+12. Output: 
+It's your turn to take action or make a decision; the responsibility now lies with you.
+###
+13. Instruction: Write an expanded form of the following abbreviation or acronym.
+13. Input: 
+NASA
+13. Output: 
+National Aeronautics and Space Administration
+###
+14. Instruction: Translate the input text into simple English while retaining its meaning.
+14. Input: 
+Egregious errors made during the operation prompted an immediate overhaul of the procedure.
+14. Output: 
+Serious mistakes during the operation caused an urgent change in the procedure.
+###
+15. Instruction: Identify the literary device used in the following sentence.
+15. Input: 
+The snow whispered softly as it fell to the ground.
+15. Output: 
+Personification
+###
+16. Instruction: In one sentence, explain the function of photosynthesis in plants.
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into oxygen and glucose, providing them with energy for growth and maintenance.
+###
+17. Instruction: Write a rhyming couplet using the given word as the end-rhyme.
+17. Input: 
+moon
+17. Output: 
+Under the glowing midnight moon,
+Sweet melodies of a nightingale's tune.
+###
+18. Instruction: Identify the type of sentence, whether it's declarative, interrogative, exclamatory, or imperative.
+18. Input: 
+How can you finish the project by tomorrow?
+18. Output: 
+Interrogative
+###
+19. Instruction: List the odd numbers from the given range.
+19. Input: 
+7 to 15
+19. Output: 
+7, 9, 11, 13, 15
+###
+20. Instruction: Come up with an antonym for the given word.
+20. Input: 
+prosperity
+20. Output: 
+adversity

@@ -1,0 +1,112 @@
+4. Instruction: Summarize the text below in one sentence.
+4. Input: 
+Once upon a time, in a small village, there was a poor farmer named Jack. Jack had a wife and two children, who barely got enough to eat. Tired of the constant struggle, Jack decided to venture out into the world to seek fortune for his family. After many days of travel, Jack stumbled upon a castle, where a wealthy lord resided. Jack gathered the courage to ask the lord for help, and the kind-hearted lord agreed to provide Jack and his family with a fertile piece of land, tools, and seeds for farming. Grateful for this opportunity, Jack returned to his village, where he and his family thrived, living happily ever after.
+4. Output: 
+A poor farmer named Jack sought fortune for his family, found a kind-hearted lord who provided land and resources, and they thrived and lived happily ever after.
+
+5. Instruction: Determine if the given sentence is a fact or an opinion.
+5. Input: 
+Chocolate is the best dessert for any occasion.
+5. Output: 
+Opinion
+
+6. Instruction: Correct any grammar, punctuation, or spelling errors in the following sentence.
+6. Input: 
+She buyed the books, carrefulley choosing each one, then leaved the store.
+6. Output: 
+She bought the books, carefully choosing each one, then left the store.
+
+7. Instruction: Identify the main idea from the provided paragraph.
+7. Input: 
+Plastic pollution is a growing problem that affects marine life, terrestrial ecosystems, and eventually human health. Everyday items such as plastic bags, bottles, and straws contribute to the accumulation of plastic waste that ends up in the environment. Due to their slow degradation process, plastic materials break down into smaller particles known as microplastics, which have been found in various areas of the world, from remote islands to Arctic ice. These particles can be ingested by, and cause harm to, wildlife and eventually make their way into the human food chain, posing serious threats to human well-being.
+7. Output: 
+Plastic pollution is a growing problem impacting ecosystems, wildlife, and human health due to accumulation and slow degradation into harmful microplastics.
+
+8. Instruction: Describe how you can quickly test an internet connection on your computer or device.
+8. Input: 
+<noinput>
+8. Output: 
+Open a web browser and try accessing a known website like www.google.com. If the page loads without any issues, your internet connection is working.
+9. Instruction: Compose a short thank you email for a job interview.
+9. Input: 
+<noinput>
+9. Output: 
+Subject: Thank You for the Interview
+
+Dear [Interviewer's Name],
+
+I wanted to thank you for the opportunity to interview for the [job title] position at [Company Name] today. I enjoyed learning about the company and the role and am confident that my background and skills make me a strong candidate for the position.
+
+I was particularly impressed with the company's dedication to [specific quality or project discussed]. I believe my experience in [related field or skill] would enable me to contribute positively and thrive in this role.
+
+Please let me know if I can provide any additional information, and I look forward to the possibility of working together.
+
+Sincerely,
+
+[Your Name]
+
+10. Instruction: Write a brief explanation of photosynthesis.
+10. Input: 
+<noinput>
+10. Output: 
+Photosynthesis is a biological process that allows plants, algae, and some bacteria to convert sunlight, carbon dioxide, and water into energy, specifically glucose, to fuel their growth and maintenance. As a byproduct, oxygen is produced, which supports life on Earth.
+
+11. Instruction: Convert the following text into a question.
+11. Input: 
+The CEO announced a new strategy during the town hall meeting.
+11. Output: 
+What new strategy did the CEO announce during the town hall meeting?
+
+12. Instruction: Form an affirmative sentence with the words: astronaut, walks, Moon.
+12. Input: 
+<noinput>
+12. Output: 
+An astronaut walks on the Moon.
+
+13. Instruction: Paraphrase the following sentence.
+13. Input: 
+Online shopping has become increasingly popular in recent years.
+13. Output: 
+In recent years, the popularity of online shopping has significantly increased.
+
+14. Instruction: Suggest a way to save water in everyday life.
+14. Input: 
+<noinput>
+14. Output: 
+Install a low-flow showerhead, which uses less water per minute while maintaining water pressure, to save water in everyday life.
+
+15. Instruction: Identify the literary device used in the sentence: "My alarm clock roars like a lion every morning."
+15. Input: 
+<noinput>
+15. Output: 
+Simile
+
+16. Instruction: Write a brief explanation of the greenhouse effect.
+16. Input: 
+<noinput>
+16. Output: 
+The greenhouse effect is a natural process where certain gases in the Earth's atmosphere, known as greenhouse gases, trap heat from the Sun, helping to maintain Earth's temperature suitable for life. However, human activities have increased the concentration of these gases, causing the enhanced greenhouse effect, which contributes to global warming and climate change.
+
+17. Instruction: Write a short descriptive passage about a sunset at the beach.
+17. Input: 
+<noinput>
+17. Output: 
+The sun dipped low on the horizon, casting warm hues of orange, pink, and purple across the sky. Its waning rays shimmered and danced atop the calm ocean waves that gently washed against the sandy shore. The beach was adorned with silhouettes of couples and families, basking in the tranquility of the moment. Palm trees swayed gracefully as the balmy breeze whispered tender melodies through the air, leaving the world awestruck in the fading embrace of the day.
+
+18. Instruction: Provide one example of renewable energy.
+18. Input: 
+<noinput>
+18. Output: 
+Solar power
+
+19. Instruction: Find the passive voice in the sentence: "The teacher graded the exams, and the results were sent home."
+19. Input: 
+<noinput>
+19. Output: 
+"the results were sent home"
+
+20. Instruction: According to social psychology, explain why people might conform.
+20. Input: 
+<noinput>
+20. Output: 
+According to social psychology, people might conform due to factors such as social pressure, desire to fit in, fear of rejection, or wanting to be liked and accepted by others. Conformity can also arise from the need for accurate information in ambiguous situations, leading individuals to rely on others for cues about appropriate behavior.

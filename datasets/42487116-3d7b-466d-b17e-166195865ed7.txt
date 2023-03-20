@@ -1,0 +1,377 @@
+4. Instruction: Spot which words are spelled incorrectly in the sentence and provide the correct spelling.
+4. Input: 
+I got unvariably confuse when I recieved the invitiation to the prepeption.
+4. Output: 
+unvariably (invariably), confuse (confused), recieved (received), invitiation (invitation), prepeption (reception).
+
+5. Instruction: Calculate the total cost, taking into account the given discount.
+5. Input: 
+I want to buy 3 items for $15 each, but I have a 10% discount coupon.
+5. Output: 
+The total cost after the discount is $40.50.
+
+6. Instruction: Identify the genre of the given movie plot.
+6. Input: 
+In a futuristic society, a man with psychic abilities tries to prevent a catastrophic explosion caused by an evil corporation.
+6. Output: 
+Science Fiction.
+
+7. Instruction: Translate the sentence to French.
+7. Input: 
+I always drink coffee in the morning.
+7. Output: 
+Je bois toujours du café le matin.
+
+8. Instruction: Pick out the two odd words from the list and explain why they don't belong.
+8. Input: 
+apple, violet, lemon, blue, rose, orange
+8. Output: 
+Violet and blue are odd words because they are both colors, while the other words are all types of fruit.
+
+9. Instruction: Fill in the missing word in the proverb.
+9. Input: 
+A picture is worth a ______ words.
+9. Output: 
+thousand
+
+10. Instruction: Identify the author who wrote the given novel.
+10. Input: 
+Pride and Prejudice
+10. Output: 
+Jane Austen
+
+11. Instruction: Explain the difference in meaning between two words.
+11. Input: 
+affect and effect
+11. Output: 
+Affect is a verb that means to influence or create a change. Effect is a noun that stands for the result or the consequence of an action or event.
+
+12. Instruction: Determine if the statement is an example of simile or metaphor.
+12. Input: 
+Her eyes were as bright as the sun.
+12. Output: 
+Simile
+
+13. Instruction: Rearrange the words to form a meaningful sentence.
+13. Input: 
+Sailing we're ocean the across
+13. Output: 
+We're sailing across the ocean.
+
+14. Instruction: Identify the poetic device used in the given line.
+14. Input: 
+The sun that silently smiles upon us.
+14. Output: 
+Alliteration
+
+15. Instruction: List three countries in South America.
+15. Input: 
+<noinput>
+15. Output: 
+Brazil, Argentina, Colombia
+
+16. Instruction: Describe the chemical reaction that occurs when an acid and a base are combined.
+16. Input: 
+<noinput>
+16. Output: 
+When an acid and a base are combined, they undergo a neutralization reaction. In this reaction, the acid donates a hydrogen ion (proton) to the base, resulting in the formation of water and a salt.
+
+17. Instruction: Determine if the given statement is a fact or an opinion.
+17. Input: 
+Strawberries are the best fruit in the world.
+17. Output: 
+Opinion
+
+18. Instruction: Provide a brief summary of the given text.
+18. Input: 
+During the Middle Ages, the Church played a significant role in the everyday lives of Europeans. To maintain its power, the Church collected taxes called tithes, amounting to ten percent of an individual's income, and controlled education and knowledge. The clergy, composed of priests, bishops, and monks, held enormous influence on political decisions and public opinion. The monasteries preserved ancient texts, laying the foundation for future intellectuals, while also providing shelter, food, and care for the less fortunate.
+18. Output: 
+The Church was a central institution in medieval Europe, collecting taxes and controlling education while wielding great political influence. Monasteries preserved ancient texts and offered support for the less fortunate.
+
+19. Instruction: Answer the given multiple-choice question.
+19. Input: 
+Which of the following is a synonym for "angry"? A) sad, B) curious, C) furious, D) happy
+19. Output: 
+C) furious
+
+20. Instruction: Name the musical instrument based on the provided description.
+20. Input: 
+It is a stringed instrument that is played by plucking with fingers or a pick and has a distinctive hourglass shape.
+20. Output: 
+Mandolin21. Instruction: Divide the given compound word into two separate words.
+21. Input: 
+bookmark
+21. Output: 
+book, mark
+
+22. Instruction: List three different sources of renewable energy.
+22. Input: 
+<noinput>
+22. Output: 
+Solar power, wind power, hydroelectric power
+
+23. Instruction: Identify the main character from the mentioned book or series.
+23. Input: 
+Harry Potter
+23. Output: 
+Harry Potter
+
+24. Instruction: Give an example of a palindrome.
+24. Input: 
+<noinput>
+24. Output: 
+racecar
+
+25. Instruction: Choose which of the given words completes the sentence.
+25. Input: 
+It is important to be _____ when making decisions. (objective or subjective)
+25. Output: 
+objective
+
+26. Instruction: Which famous artist painted the given artwork?
+26. Input: 
+The Starry Night
+26. Output: 
+Vincent van Gogh
+
+27. Instruction: Explain the basic rule to solve the given type of math problem.
+27. Input: 
+Solving a linear equation
+27. Output: 
+To solve a linear equation, isolate the variable by performing the opposite operations (addition, subtraction, multiplication, or division) on both sides of the equation until the variable is by itself on one side.
+
+28. Instruction: Identify the name of the given punctuation mark.
+28. Input: 
+&
+28. Output: 
+ampersand
+
+29. Instruction: Define the given term in chemistry.
+29. Input: 
+mole
+29. Output: 
+A mole is a basic unit of measurement in chemistry that represents a specific quantity of particles, such as atoms or molecules. One mole of any substance contains Avogadro's number (approximately 6.022 x 10^23) of particles.
+
+30. Instruction: Rewrite the given sentence using passive voice.
+30. Input: 
+The dog chased the cat.
+30. Output: 
+The cat was chased by the dog.
+
+31. Instruction: Based on the given description, identify the famous scientist.
+31. Input: 
+He was an English mathematician and physicist who developed the laws of motion and universal gravitation.
+31. Output: 
+Sir Isaac Newton
+
+32. Instruction: Choose the verb that best fits the given context.
+32. Input: 
+After she failed the test, she ______ heartbroken. (was or is)
+32. Output: 
+was
+
+33. Instruction: Simplify the given mathematical expression.
+33. Input: 
+(6 + 2) * (8 - 3)
+33. Output: 
+40
+
+34. Instruction: Identify the currency used in the mentioned country.
+34. Input: 
+Japan
+34. Output: 
+Japanese Yen
+
+35. Instruction: Provide an alternative way to say the given phrase.
+35. Input: 
+Break a leg!
+35. Output: 
+Good luck!
+
+36. Instruction: Name a career that matches the description given.
+36. Input: 
+A professional who creates visual concepts using computer software or by hand to communicate ideas to inform, inspire, or captivate consumers.
+36. Output: 
+Graphic Designer
+
+37. Instruction: Identify if the given item is an example of hardware or software.
+37. Input: 
+Web browser
+37. Output: 
+Software
+
+38. Instruction: Correctly identify the tagline of the mentioned brand.
+38. Input: 
+Nike
+38. Output: 
+Just Do It
+
+39. Instruction: Determine the tone of the given text.
+39. Input: 
+His sarcastic comments always made people laugh.
+39. Output: 
+Humorous
+
+40. Instruction: Explain what the abbreviation stands for in the given context.
+40. Input: 
+In the context of computer networking, what does ISP stand for?
+40. Output: 
+Internet Service Provider41. Instruction: Correct the punctuation errors in the given sentence.
+41. Input: 
+After lunch Susan decided, to go for a swim though she was, exhausted from the morning's activities.
+41. Output: 
+After lunch, Susan decided to go for a swim, though she was exhausted from the morning's activities.
+
+42. Instruction: Confirm if the mentioned date is a public holiday in the United States.
+42. Input: 
+Is December 25th a public holiday in the United States?
+42. Output: 
+Yes, December 25th is a public holiday in the United States. It is celebrated as Christmas Day.
+
+43. Instruction: Offer a solution for the given problem.
+43. Input: 
+My phone's battery drains too quickly.
+43. Output: 
+Close any unnecessary apps running in the background, turn down the brightness, or enable battery saver mode to help extend your phone's battery life.
+
+44. Instruction: In music, what do the given terms express?
+44. Input: 
+Piano and forte
+44. Output: 
+Piano means 'soft' or 'quiet,' while forte means 'loud' or 'strong.' They are dynamic markings in music notation that indicate relative volume levels of a passage or section.
+
+45. Instruction: Identify the playing style of a musician based on the provided information.
+45. Input: 
+This guitarist is known for his fingerstyle technique and virtuosic performances of popular songs.
+45. Output: 
+Tommy Emmanuel
+
+46. Instruction: Name three items based on the given category.
+46. Input: 
+Kitchen utensils
+46. Output: 
+Spatula, whisk, cutting board
+
+47. Instruction: Write a short motivational quote.
+47. Input: 
+<noinput>
+47. Output: 
+Believe in yourself and anything is possible.
+
+48. Instruction: Convert the given temperature from Fahrenheit to Celsius.
+48. Input: 
+50°F
+48. Output: 
+10°C
+
+49. Instruction: Explain the significance of the given historical event.
+49. Input: 
+Declaration of Independence
+49. Output: 
+The Declaration of Independence is a foundational document in United States history that formally proclaimed the 13 American colonies' independence from Great Britain. It outlined the reasons for separation and asserted the colonists' right to "life, liberty, and the pursuit of happiness."
+
+50. Instruction: Provide advice for the given situation.
+50. Input: 
+I am feeling overwhelmed with work and personal responsibilities.
+50. Output: 
+Prioritize your tasks and break them into smaller, manageable steps. Set aside time for self-care and relaxation, and don't hesitate to ask for help or delegate tasks when needed. Remember, it's important to find a balance between work and personal life.51. Instruction: Provide a synonym for the given word.
+51. Input: 
+Prosperous
+51. Output: 
+Wealthy
+
+52. Instruction: Name a popular dish from the specified cuisine.
+52. Input: 
+Italian cuisine
+52. Output: 
+Spaghetti Bolognese
+
+53. Instruction: Identify the biological process described.
+53. Input: 
+The process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water.
+53. Output: 
+Photosynthesis
+
+54. Instruction: Recommend a suitable indoor exercise for someone with limited space.
+54. Input: 
+<noinput>
+54. Output: 
+Jumping jacks
+
+55. Instruction: Define the given literary term.
+55. Input: 
+Oxymoron
+55. Output: 
+Oxymoron is a figure of speech in which two contradictory words or phrases are combined to create a new meaning or emphasize a particular quality, such as "sweet sorrow" or "jumbo shrimp."
+
+56. Instruction: Identify the main responsibility of the specified professional.
+56. Input: 
+Dentist
+56. Output: 
+A dentist's main responsibility is to diagnose and treat oral health problems, including preventative care, gum disease, tooth decay, and oral surgery.
+
+57. Instruction: State whether the given sentence is in active or passive voice.
+57. Input: 
+The letter was mailed by James.
+57. Output: 
+Passive voice
+
+58. Instruction: Match the scientific law with its description.
+58. Input: 
+A fundamental principle expressing the relationship between the pressure and volume of a gas while temperature remains constant: A) Ohm's Law, B) Boyle's Law, C) Newton's Third Law
+58. Output: 
+B) Boyle's Law
+
+59. Instruction: Write a haiku about nature.
+59. Input: 
+<noinput>
+59. Output: 
+Leaves gently flutter,
+A river whispers secrets,
+Nature's silent song.
+
+60. Instruction: Explain the likely cause of the specified problem.
+60. Input: 
+My car won't start, but the battery is not dead.
+60. Output: 
+If your car won't start and the battery is not dead, it could be due to a faulty ignition switch, starter motor, or fuel system issue. It is best to consult a mechanic for proper diagnosis.
+
+61. Instruction: Write a limerick.
+61. Input: 
+<noinput>
+61. Output: 
+There once was a man from Peru,
+Who traveled the world in a canoe,
+He danced on his head,
+With a loaf of French bread,
+And that's how his journey did ensue.
+
+62. Instruction: Name the primary colors in the color wheel.
+62. Input: 
+<noinput>
+62. Output: 
+Red, blue, and yellow
+
+63. Instruction: Identify the scientific field based on the given description.
+63. Input: 
+The study of the behavior and properties of matter, including chemical reactions and molecular composition.
+63. Output: 
+Chemistry
+
+64. Instruction: Compute the area of the given shape.
+64. Input: 
+A rectangle with a length of 10 units and a width of 6 units.
+64. Output: 
+60 square units
+
+65. Instruction: Identify the capital city of the specified country.
+65. Input: 
+Australia
+65. Output: 
+Canberra
+
+66. Instruction: Determine the part of speech of the given word.
+66. Input: 
+Abundance
+66. Output: 
+Noun

@@ -1,0 +1,136 @@
+4. Instruction: Calculate the tip for a restaurant bill.
+4. Input: 
+Bill: $85.40
+Tip Percentage: 18%
+4. Output: 
+$15.37
+
+5. Instruction: Write a haiku about a summer rainstorm.
+5. Input: 
+<noinput>
+5. Output: 
+Summer rain descends,
+Quenching earth's thirst, cooling breeze,
+Nature's gentle peace.
+
+6. Instruction: Convert the temperatures given in degrees Celsius to Fahrenheit.
+6. Input: 
+25°C, 0°C, 40°C, 12°C
+6. Output: 
+77°F, 32°F, 104°F, 53.6°F
+
+7. Instruction: Identify the conflict between these two people based on their conversation.
+
+7. Input: 
+Person A: You always spend our money on unnecessary things. I can't believe you bought another pair of shoes!
+Person B: Unnecessary? At least I don't have a golf club membership that costs a fortune every month.
+7. Output: 
+The conflict between Person A and Person B is about their financial decisions and disagreement on their spending habits.
+
+8. Instruction: Summarize the key points of the given news article.
+
+8. Input: 
+Apple has announced that they will be rolling out their new iOS 15 update in September. This new operating system update is expected to introduce a host of new features, including a redesigned notifications center, enhanced privacy settings, and improved FaceTime capabilities. FaceTime will soon have spatial audio, grid mode, and the option to share your screen with someone during a call. In addition, the update will bring improvements to digital health with new tools to help users better manage their time spent on their devices. Experts predict the announcements of the iOS 15 update will have a positive impact on Apple's stock prices as consumer excitement for these changes grow.
+8. Output: 
+Apple will release iOS 15 in September, featuring a redesigned notifications center, enhanced privacy settings, and improved FaceTime capabilities such as spatial audio, grid mode, and screen sharing. New digital health tools will help users manage time spent on devices. The announcement is expected to positively impact Apple's stock prices.
+
+9. Instruction: Explain the Krebs Cycle in simple terms.
+9. Input: 
+<noinput>
+9. Output: 
+The Krebs Cycle, also known as the Citric Acid Cycle, is a series of chemical reactions that occur in the mitochondria of cells. It is a key part of cellular respiration, where cells break down glucose, oxygen, and other nutrients to generate energy in the form of ATP (adenosine triphosphate) molecules. In the Krebs Cycle, a two-carbon molecule called Acetyl-CoA combines with a four-carbon molecule to form a six-carbon molecule called citrate. Through a series of steps, citrate is ultimately converted back into the original four-carbon molecule while generating ATP, NADH, and FADH2. The NADH and FADH2 molecules generated in the cycle are then used in the electron transport chain to produce even more ATP.
+
+10. Instruction: Spot the grammatical errors in the given paragraph and provide corrections. 
+
+10. Input: 
+Mary going to the store yesterday when she see some beautiful flowers. She decides to buy a bouqet and take it to hers best friend house. She was thinking about to call her friend first, but she wanted it to be a surprise.
+10. Output: 
+Mary _went_ to _(the)_ store yesterday when she _saw_ some beautiful flowers. She _decided_ to buy a _bouquet_ and take it to _her_ best friend's _(friend's)_ house. _(Remove "She")_ She was thinking _of calling_ her friend first, but she wanted it to be a surprise.
+
+11. Instruction: Provide a review of the iPhone 12 with advantages and disadvantages.
+
+11. Input: 
+<noinput>
+11. Output: 
+The iPhone 12 is a popular choice among smartphone users due its sleek design and powerful performance. Advantages of the iPhone 12 include its high-resolution OLED display, excellent camera quality with night mode and Dolby Vision HDR, 5G capabilities, and the new MagSafe technology for easy accessory attachment. However, there are some downsides such as a relatively high starting price, lack of a power adapter and earphones in the box, and the absence of a higher refresh rate display found in some competitors. Overall, the iPhone 12 is a solid choice for those wanting a reliable smartphone with strong features, but potential buyers should weigh the cost against their specific needs and preferences.
+
+12. Instruction: How does photosynthesis work, and how does it benefit plants and the environment?
+
+12. Input: 
+<noinput>
+12. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy in the form of glucose (a type of sugar). It occurs in chlorophyll-containing plant cells called chloroplasts. During photosynthesis, plants absorb carbon dioxide (CO2) from the air and water (H2O) from their roots. Using the light energy absorbed by chlorophyll, these molecules undergo a series of complex reactions, ultimately producing glucose and releasing oxygen (O2) as a byproduct.
+
+Photosynthesis benefits plants by providing them with the energy (glucose) needed for growth, development, and reproduction. It is also essential for maintaining a balanced ecosystem by recycling CO2 and generating O2, which is vital for the respiration of animals and other organisms. Additionally, photosynthesis helps reduce the greenhouse effect by removing CO2, a major greenhouse gas, from the atmosphere.
+
+13. Instruction: Describe the Impressionist art movement and mention a few significant artists associated with it. 
+
+13. Input: 
+<noinput>
+13. Output: 
+The Impressionist art movement was an artistic style that originated in France during the late 19th century. It was characterized by the use of vivid colors, visible brushstrokes, everyday subject matter, and an emphasis on capturing the fleeting moment or atmosphere in a scene. Impressionist paintings often captured the effects of light and movement outdoors, breaking from traditional ideas of formal composition and finish. Some significant artists associated with the Impressionist movement include Claude Monet, Pierre-Auguste Renoir, Alfred Sisley, Edgar Degas, Camille Pissarro, and Berthe Morisot.
+
+14. Instruction: What advice would you give to a struggling college student to help them improve their time management skills?
+
+14. Input: 
+<noinput>
+14. Output: 
+1. Set clear goals: Determine your priorities and establish clear, achievable objectives for both short-term and long-term study plans.
+2. Create a schedule: Designate specific times for study, relaxation, and other daily activities to ensure a balanced lifestyle.
+3. Break tasks into smaller steps: Divide large assignments and projects into smaller, manageable tasks to avoid feeling overwhelmed and track progress more effectively.
+4. Prioritize tasks: Rank tasks in order of importance or due dates, so you can address the most crucial items first.
+5. Minimize distractions: Identify and reduce distractions, like social media or noisy environments, to maximize focus and productivity.
+6. Use a planner: Track assignments, due dates, and appointments to stay organized and avoid forgetting important deadlines.
+7. Set deadlines for yourself: Create personal deadlines for completing tasks ahead of the official due date to avoid last-minute stress.
+8. Take breaks: Take short, regular breaks during study sessions to recharge and maintain focus.
+9. Seek help: Don't hesitate to ask for assistance from peers, professors, or tutors if you need guidance in completing tasks or understanding concepts.
+10. Evaluate and adjust: Periodically review your time management strategies and make adjustments as necessary to suit your needs and preferences.
+
+15. Instruction: Write a short paragraph describing a river scene at sunset. 
+
+15. Input: 
+<noinput>
+15. Output: 
+The golden sun lazily sinks towards the horizon, casting a warm golden hue across the river's gentle ripples. A faint whisper of a breeze stirs the water's surface, sending shimmering reflections of the sky's vibrant colors dancing across the currents. The silhouettes of trees along the banks sway peacefully, creating a harmonious backdrop to the tranquil scene. Birds twitter their final melodies of the day, perched on branches that stretch over the gentle eddies. The serene whispers of the flowing water resonate in the air, embracing the cool, calming atmosphere of the enchanting river at sunset.
+
+16. Instruction: Explain the significance of the Turing Test in Artificial Intelligence.
+
+16. Input: 
+<noinput>
+16. Output: 
+The Turing Test, proposed by British mathematician and computer scientist Alan Turing in 1950, is a criterion for determining whether a machine can exhibit human-like intelligence. The test involves a human judge engaging in natural language conversations with a human and a computer program. If the judge is unable to reliably distinguish which one is the machine and which one is the human solely based on their responses, the machine is considered to have passed the test.
+
+The significance of the Turing Test in Artificial Intelligence (AI) lies in its challenge for AI developers to design computers and systems that can mimic human reasoning and cognitive abilities, advancing the field of AI. Further, it raises important questions about the nature of intelligence, consciousness, and the relationship between humans and machines. Research into AI systems that attempt to meet or surpass the Turing Test's criteria has fueled advances in natural language processing, machine learning, and other critical branches of AI.
+
+17. Instruction: Based on the provided passage, outline its main ideas and supporting points.
+
+17. Input: 
+Sleep is critical to our overall health and well-being, yet many people struggle with getting enough rest. It is a well-known fact that sleep deprivation can lead to a wide range of health problems, from reduced cognitive function to serious physical ailments. One key factor contributing to poor sleep is the profound impact that modern electronic devices have on our sleep patterns. The blue light emitted by screens on devices, such as smartphones and laptops, can disrupt the body's natural sleep rhythms and suppress melatonin production, a hormone responsible for regulating sleep. Additionally, checking emails, browsing social media, or watching TV before bedtime can increase mental activity and delay relaxation, making it harder to fall asleep. To improve sleep quality, experts recommend setting aside electronics at least an hour before bedtime and establishing a relaxing bedtime routine to help the body and mind prepare for rest. Regular physical activity and maintaining a consistent sleep schedule can also contribute to better-quality sleep.
+17. Output: 
+Main Idea: The importance of sleep and the negative effects of electronic devices on sleep patterns.
+1. Sleep deprivation consequences: Reduced cognitive function, serious physical ailments.
+2. Impact of electronic devices: Blue light disrupts sleep rhythms, suppresses melatonin production.
+3. Mental activities before bedtime: Checking emails, social media, or watching TV can delay relaxation and impact sleep.
+4. Recommendations for better sleep: Set aside electronics an hour before bedtime, establish a relaxing bedtime routine, engage in regular physical activity, maintain a consistent sleep schedule.
+
+18. Instruction: Write a motivational quote about overcoming failure.
+18. Input: 
+<noinput>
+18. Output: 
+"Failure is not the opposite of success, but a stepping stone on the journey to growth and triumph."
+
+19. Instruction: Changes you should make to the following passive sentence into a more active form.
+
+19. Input: 
+The award was received by the team from their coach.
+19. Output: 
+The team received the award from their coach.
+
+20. Instruction: Give the geological features and visitor facilities found at Yellowstone National Park.
+
+20. Input: 
+<noinput>
+20. Output: 
+Yellowstone National Park is renowned for its unique geological features, including geysers (such as Old Faithful), hot springs, mud pots, and fumaroles. The park sits atop a volcanic hotspot, resulting in a diverse ecosystem and a dramatic landscape characterized by mountains, forests, lakes, rivers, and abundant wildlife. Yellowstone is home to the Grand Canyon of the Yellowstone, a stunning gorge featuring waterfalls and breathtaking vistas.
+
+Visitor facilities in the park include a range of accommodations, such as lodges, cabins, and campgrounds, as well as visitor centers, museums, and dining options. There are numerous recreational activities available, including guided tours, hiking, fishing, boating, and wildlife viewing. In the winter, visitors can enjoy snow-based activities like cross-country skiing, snowshoeing, and snowmobiling.

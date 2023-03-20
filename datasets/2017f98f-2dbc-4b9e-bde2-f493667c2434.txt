@@ -1,0 +1,60 @@
+4. Instruction: Correct any grammatical errors and rewrite the given sentence. 
+4. Input: 
+Me go store.
+4. Output: 
+I am going to the store.
+###
+5. Instruction: Summarize the main point of the passage. 
+5. Input: 
+The positive effects of exercise on both physical and mental health are well documented. Improved cardiovascular and muscular endurance, greater flexibility, reduced risk of developing chronic conditions, and enhanced self-esteem are just a few examples of the benefits of regular physical activity. Research also indicates that exercise can play a crucial role in preventing and treating mental health issues such as anxiety and depression. To reap the full range of advantages, experts recommend engaging in moderate to vigorous intensity aerobic exercise for a minimum of 150 minutes per week.
+5. Output: 
+The passage emphasizes the well-documented positive effects of regular exercise on physical and mental health, including the prevention and treatment of mental health issues, and recommends a minimum of 150 minutes of moderate to vigorous aerobic exercise per week.
+###
+6. Instruction: Convert the given sentence into a question. 
+6. Input: 
+I would like to find a great Italian restaurant in the area.
+6. Output: 
+Can you help me find a great Italian restaurant in the area?
+###
+7. Instruction: Translate the given sentence from English to French. 
+7. Input: 
+I am a software engineer.
+7. Output: 
+Je suis un ingénieur logiciel.
+###
+8. Instruction: Identify the rhyming pattern of the given poem stanza. 
+8. Input: 
+Whose woods these are I think I know.   
+His house is in the village though;   
+He will not see me stopping here  
+To watch his woods fill up with snow. (Robert Frost)
+8. Output: 
+AABA
+###
+9. Instruction: Write a brief, polite email response to a request for a job interview. 
+9. Input: 
+<noinput>
+9. Output: 
+Subject: Re: Job Interview Invitation
+
+Dear [Interviewer's Name],
+
+Thank you for considering me for the [Job Title] position at [Company Name]. I am honored to receive an invitation for an interview.
+
+I would like to confirm my availability for the scheduled interview on [Date] at [Time]. I am excited for the opportunity to discuss my qualifications and learn more about the team and the position.
+
+If there are any required documents or additional information needed, please do not hesitate to let me know.
+
+Thank you again, and I look forward to meeting with you.
+
+Sincerely,
+
+[Your Name]
+###
+10. Instruction: List three ways to increase your savings or investments. 
+10. Input: 
+<noinput>
+10. Output: 
+1. Set up automatic transfers to a savings account or investment account.
+2. Cut down on unnecessary expenses and redirect the saved money toward investments.
+3. Increase your financial knowledge and explore new investment opportunities for better returns.

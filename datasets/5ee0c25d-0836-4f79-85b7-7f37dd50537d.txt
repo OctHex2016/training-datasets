@@ -1,0 +1,107 @@
+4. Instruction: Generate a haiku poem with the theme of nature. 
+4. Input: 
+<noinput>
+4. Output: 
+Beneath the blue sky,
+Majestic mountains stand tall,
+Nature at its best.
+###
+5. Instruction: Rewrite the following sentence in the passive voice. 
+5. Input: 
+The company's CEO announced layoffs during the town hall meeting yesterday.
+5. Output: 
+Layoffs were announced by the company's CEO during the town hall meeting yesterday.
+###
+6. Instruction: What is the capital city of Brazil? 
+6. Input: 
+<noinput>
+6. Output: 
+The capital city of Brazil is Brasília. 
+###
+7. Instruction: Summarize the following passage in one sentence. 
+7. Input: 
+In a recent study, researchers found that coffee consumption was linked to a decreased risk of heart disease, stroke, and cancer. 
+7. Output: 
+Drinking coffee is associated with a lower risk of heart disease, stroke, and cancer according to recent research.
+###
+8. Instruction: Reorder the following sentences to make a coherent paragraph. 
+8. Input: 
+As a result, researchers believe that this drug could be useful in treating a wide range of illnesses. 
+The study found that the drug effectively targeted certain cancer cells in the body. 
+It's hoped that the drug will begin clinical trials soon. 
+8. Output: 
+The study found that the drug effectively targeted certain cancer cells in the body, as a result, researchers believe that this drug could be useful in treating a wide range of illnesses. It's hoped that the drug will begin clinical trials soon.
+###
+9. Instruction: Generate a list of all countries in Africa with their respective capitals. 
+9. Input: 
+<noinput>
+9. Output: 
+Here's a list of African countries with their respective capitals: 
+Algeria - Algiers, Angola - Luanda, Benin - Porto-Novo, Botswana - Gaborone, Burkina Faso - Ouagadougou, Burundi - Gitega, Cameroon - Yaoundé, Cape Verde - Praia, Central African Republic - Bangui, Chad - N'Djamena, Comoros - Moroni, Democratic Republic of the Congo - Kinshasa, Republic of the Congo - Brazzaville, Cote d'Ivoire - Yamoussoukro, Djibouti - Djibouti, Egypt - Cairo, Equatorial Guinea - Malabo, Eritrea - Asmara, Eswatini (Swaziland) - Mbabane, Ethiopia - Addis Ababa, Gabon - Libreville, Gambia - Banjul, Ghana - Accra, Guinea - Conakry, Guinea-Bissau - Bissau, Kenya - Nairobi, Lesotho - Maseru, Liberia - Monrovia, Libya - Tripoli, Madagascar - Antananarivo, Malawi - Lilongwe, Mali - Bamako, Mauritania - Nouakchott, Mauritius - Port Louis, Morocco - Rabat, Mozambique - Maputo, Namibia - Windhoek, Niger - Niamey, Nigeria - Abuja, Rwanda - Kigali, Sao Tome and Principe - Sao Tome, Senegal - Dakar, Seychelles - Victoria, Sierra Leone - Freetown, Somalia - Mogadishu, South Africa - Pretoria, Sudan - Khartoum, South Sudan - Juba, Tanzania - Dodoma, Togo - Lomé, Tunisia - Tunis, Uganda - Kampala, Zambia - Lusaka, Zimbabwe - Harare.
+###
+10. Instruction: Generate a Fibonacci sequence up to the 10th number. 
+10. Input: 
+<noinput>
+10. Output: 
+The first 10 numbers of the Fibonacci sequence are: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
+###
+11. Instruction: Rewrite the following sentence in past perfect tense. 
+11. Input: 
+The students submitted their final projects last week. 
+11. Output: 
+The students had submitted their final projects last week.
+###
+12. Instruction: Calculate the volume of a sphere with radius 5. Output a numerical answer. 
+12. Input: 
+<noinput>
+12. Output: 
+The volume of a sphere with radius 5 is approximately 523.6 cubic units.
+###
+13. Instruction: Identify the subject, verb, and direct object in the following sentence. 
+13. Input: 
+The dog ate the bone. 
+13. Output: 
+Subject: The dog, Verb: ate, Direct Object: the bone.
+###
+14. Instruction: Describe the process of photosynthesis. 
+14. Input: 
+<noinput>
+14. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. Carbon dioxide and water are synthesized into glucose and oxygen in the presence of sunlight, which is vital for the sustenance of life on Earth.
+###
+15. Instruction: Generate a list of popular tourist attractions in New York City. 
+15. Input: 
+<noinput>
+15. Output: 
+Here are some popular tourist attractions in New York City: 
+Central Park, The Statue of Liberty, Broadway, Empire State Building, Times Square, The Metropolitan Museum of Art, The Museum of Modern Art (MoMA), Rockefeller Center, The One World Observatory, The 9/11 Memorial and Museum.
+###
+16. Instruction: What is known as the largest mammal on Earth? 
+16. Input: 
+<noinput>
+16. Output: 
+The Blue Whale is known as the largest mammal on Earth. 
+###
+17. Instruction: Condense the following sentence into a shorter form. 
+17. Input: 
+Sarah didn't like the movie because it was too long and slow-paced, and she didn't find the characters relatable, interesting or believable. 
+17. Output: 
+Sarah disliked the movie due to its length, pace, and poorly developed characters. 
+###
+18. Instruction: Define the term "server". 
+18. Input: 
+<noinput>
+18. Output: 
+A server is a computer program or device that provides functionality for other programs or devices, often serving as a central repository for data and information that is shared and accessed by a network.
+###
+19. Instruction: Correct the following sentence in grammar and punctuation. 
+19. Input: 
+i recieved youre letter stil thinkin wat 2 say
+19. Output: 
+I received your letter. Still thinking what to say.
+###
+20. Instruction: What is the largest desert in the world? 
+20. Input: 
+<noinput>
+20. Output: 
+The largest desert in the world is the Antarctic desert.

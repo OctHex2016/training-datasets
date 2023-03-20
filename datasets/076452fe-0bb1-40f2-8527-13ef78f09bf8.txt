@@ -1,0 +1,108 @@
+4. Instruction: Write a description of a new ice cream flavor. 
+4. Input: 
+A mixture of vanilla ice cream and chocolate chips, with a peanut butter swirl throughout.
+4. Output: 
+Indulge in our latest flavor creation- Peanut Butter Swirl! Our classic vanilla ice cream has been elevated with the addition of rich chocolate chips and a smooth, creamy peanut butter swirl throughout. Perfect for the peanut butter lover in your life, this flavor is sure to please with every scoop. Try it today!
+###
+5. Instruction: Write a summary of a news article about climate change. 
+5. Input: 
+https://www.nytimes.com/2021/09/19/opinion/climate-change-coal-india-china.html
+5. Output: 
+Coal is the dirtiest and most carbon-intensive way of generating electricity, and the power plants India and China are adding to their national grids threaten more than just climate goals. They contribute to air pollution that kills millions and leaves millions more with chronic illnesses. Simply replacing coal plants isn’t the answer; both nations must aggressively embrace alternatives like wind, solar and storage. ###
+6. Instruction: Describe a famous painting. 
+6. Input: 
+The Starry Night by Vincent van Gogh
+6. Output: 
+The Starry Night is known for its swirling clouds, stars and moon in the night sky over a small village. Renowned for its heavy brushstrokes and bold use of color, van Gogh's masterpiece depicts a vivid and dreamlike landscape that has captivated audiences for over a century. ### 
+7. Instruction: Write a recipe for your favorite dish. 
+7. Input: 
+Mushroom risotto with parmesan and truffle oil. 
+7. Output: 
+Mushroom Risotto:
+- 4 cups vegetable broth
+- 1 tablespoon olive oil
+- 1/2 cup chopped onion
+- 2 cups Arborio rice
+- 1/2 cup dry white wine
+- 4 cups sliced mushrooms
+- 1/2 cup freshly grated Parmesan cheese
+- 2 tablespoons unsalted butter
+- Salt and freshly ground black pepper
+- Truffle oil (optional)
+In a medium-sized pot, bring the vegetable broth to a simmer. In a separate large pot or Dutch oven, heat the olive oil and sauté the chopped onion until translucent. Add the Arborio rice and sauté until the rice grains begin to turn translucent, about 2-3 minutes. Add the white wine to the rice and cook until the wine has been absorbed by the rice.
+Begin adding the hot vegetable broth to the rice, one ladle at a time, stirring constantly and waiting until each ladleful is absorbed before adding the next. Cook the rice until it's al dente, and then add the sliced mushrooms, grated Parmesan cheese, butter and salt and pepper to taste. Serve with a drizzle of truffle oil (optional) on top. Enjoy!
+###
+8. Instruction: Write a tweet about a recent book you've read. 
+8. Input: 
+The Nightingale by Kristin Hannah
+8. Output: 
+Just finished The Nightingale by Kristin Hannah and I cannot recommend it enough. A beautifully written WWII historical fiction that tells the story of two sisters and their heroic role in the French Resistance. A must-read for anyone looking for a powerful and emotional read. #bookrecommendation #historicalfiction ###
+9. Instruction: Write a message to a friend who is studying for an important exam. 
+9. Input: 
+Your friend's name and the type of exam they are studying for. 
+9. Output: 
+Hi [friend's name], just wanted to send some positive energy your way as you prepare for your [type of exam] exam. You've got this! Remember to take breaks, stay well-rested, and most importantly, believe in yourself. Can't wait to celebrate with you once you crush it! ###
+10. Instruction: Write a dialogue between two coworkers discussing a project. 
+10. Input: 
+Employee 1: "I'm having trouble with the design for this new product."
+Employee 2: "Let's work on it together."
+10. Output: 
+Employee 1: "I'm having trouble with the design for this new product."
+Employee 2: "Let's work on it together. What problems are you running into specifically?"
+Employee 1: "I can't seem to find the right balance between form and function. It needs to look good, but it also needs to work well."
+Employee 2: "I see. Well, why don't we brainstorm some ideas and sketch them out? That way we can visualize it better."
+Employee 1: "That's a good idea. How about we meet up tomorrow and update each other with our progress?"
+Employee 2: "Sounds good to me. Let's get this done!"
+### 
+11. Instruction: Find out more about a particular musician or band. 
+11. Input: 
+Tell me about Pink Floyd. 
+11. Output: 
+Pink Floyd was an English rock band formed in London in 1965. They achieved international acclaim for their progressive and psychedelic music. The band consisted of four members: guitarist/vocalist David Gilmour, bassist/vocalist Roger Waters, drummer Nick Mason, and keyboardist/vocalist Richard Wright. Popular Floyd albums include "The Wall," "Dark Side of the Moon," and "Wish You Were Here." ###
+12. Instruction: Write an excerpt of a travel guide. 
+12. Input: 
+Rome, Italy
+12. Output: 
+No other city comes close to Rome as far as history, art, and architecture are concerned. With its remarkable landmarks such as the Colosseum and St. Peter's Basilica, world-class museums and galleries, and mouthwatering cuisine, Rome unsurprisingly remains one of the most visited cities on the planet. Don't miss out on exploring the winding cobblestone streets in Trastevere, trying out traditional Roman dishes such as cacio e pepe, and strolling through the beautiful gardens of Villa Borghese. ###
+13. Instruction: Give feedback to a team member on their presentation. 
+13. Input: 
+Team member's name and the topic of their presentation.
+13. Output: 
+Great job on your presentation, [team member's name]! You did an excellent job explaining the topic of [presentation topic] in an organized and concise manner. One suggestion I have is to incorporate more visual aids to help illustrate your points. Additionally, consider rehearsing your presentation more to help eliminate filler words and unnecessary pauses. Keep up the good work! ###
+14. Instruction: Summarize a movie plot. 
+14. Input: 
+Jurassic Park
+14. Output: 
+Jurassic Park is a science-fiction adventure film directed by Steven Spielberg that tells the story of a wealthy entrepreneur who creates a theme park featuring cloned dinosaurs. When the creatures escape their enclosures and begin running rampant throughout the park, a group of visitors and workers must band together to survive. The film stars Sam Neill, Laura Dern, and Jeff Goldblum. ###
+15. Instruction: Describe a scientific experiment. 
+15. Input: 
+A study on the effects of caffeine on productivity.
+15. Output: 
+In this experiment, participants were randomly assigned to two groups: one that received a moderate dose of caffeine and one that received a placebo. They were then given a task to complete and their productivity was measured. Results show that the caffeine group performed significantly better than the placebo group, indicating that caffeine does have a positive effect on productivity. However, it's important to note that too much caffeine can have negative effects such as anxiety and insomnia. ###
+16. Instruction: Write a list of resume tips. 
+16. Input: 
+<noinput>
+16. Output: 
+- Keep it concise and to the point, ideally one to two pages
+- Use bullet points and action verbs to highlight achievements and responsibilities
+- Tailor your resume to the job you're applying for
+- Use keywords relevant to the industry and job description
+- Have a professional email and phone number listed
+- Include a summary or objective statement to showcase your skills and intent
+- Include relevant experience and education, and avoid including irrelevant information
+- Check for spelling and grammatical errors, and have someone else review it for you. ###
+17. Instruction: Write the opening paragraph of a short story. 
+17. Input: 
+<noinput>
+17. Output:
+Sarah had always been interested in the paranormal. As a child, she would read ghost stories and watch horror movies, much to the chagrin of her parents. When she grew up, she decided to pursue this interest by becoming a paranormal investigator. Despite skepticism and criticism from others, Sarah was determined to prove the existence of ghosts and other supernatural phenomena. Her latest investigation would be her most challenging one yet. ###
+18. Instruction: Write a message to a family member who lives far away. 
+18. Input: 
+Family member's name and your relationship with them.
+18. Output: 
+Hi [family member's name]! I was thinking about you the other day and realized it's been a while since we've caught up properly. I hope everything is going well with you and the family. I miss you all so much and wish we could be closer. Let's plan a virtual call soon so we can catch up properly. Love and miss you! ###
+19. Instruction: Write an email to a boss asking for time off. 
+19. Input: 
+Boss's name and reason for asking for time off.
+19. Output: 
+Dear [boss's name], I hope this email finds you well. I wanted to touch base with you regarding a request for time off. I've been feeling a bit burnt out lately and would like to request some time off from work. Specifically, I'm hoping to take the week of [

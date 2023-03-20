@@ -1,0 +1,134 @@
+4. Instruction: Rewrite the given sentence to passively voice. If it is already in passive voice, rewrite to active voice. 
+4. Input: 
+The government implemented new safety regulations.
+4. Output: 
+New safety regulations were implemented by the government.
+###
+5. Instruction: List three possible negative consequences of using social media excessively. 
+5. Input: 
+<noinput>
+5. Output: 
+1. Mental health problems: Increased anxiety, depression, and feelings of isolation.
+2. Reduced productivity: Constant distractions by notifications and updates can lead to inefficiencies in work or study.
+3. Weakened personal relationships: Overuse of social media may diminish the quality and quantity of face-to-face experiences, reducing meaningful connections in real life.
+###
+6. Instruction: What is the benefit of using blockchain technology in supply chain management?
+6. Input: 
+<noinput>
+6. Output: 
+Blockchain technology offers transparency, security, traceability, and improves efficiency in supply chain management. By creating a decentralized, transparent, and tamper-proof digital ledger, it enables parties to trust each other and share information securely without intermediaries, reducing potential bottlenecks and errors.
+###
+7. Instruction: Suggest two ways to repurpose eggshells after using the eggs.
+7. Input:
+<noinput>
+7. Output:
+1. Calcium supplement - Grind the eggshells into a fine powder and add small amounts to food as a calcium supplement.
+2. Natural fertilizer - Crush the eggshells and sprinkle them around plants and in your garden to provide essential nutrients and improve soil quality.
+###
+8. Instruction: Analyze the given poem and identify its main theme in a sentence.
+8. Input:
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+
+8. Output: 
+The main theme of the poem is making choices and the impact that those choices ultimately have on the course of a person's life.
+###
+9. Instruction: Explain the drawbacks of a carbon tax in a brief sentence.
+9. Input: 
+<noinput>
+9. Output: 
+A carbon tax can be regressive, disproportionately burdening low-income households, and its effectiveness relies on appropriate pricing and proper implementation, which may face political and administrative challenges.
+###
+10. Instruction: Propose a title for an article about the benefits of an active lifestyle for senior citizens.
+10. Input: 
+<noinput>
+10. Output: 
+Rediscovering Vitality: The Surprising Benefits of an Active Lifestyle for Senior Citizens
+###
+11. Instruction: Learn how to apologize sincerely in Japanese.
+11. Input: 
+<noinput>
+11. Output: 
+To apologize sincerely in Japanese, you can say "申し訳ありません" (moushiwake arimasen) for a formal apology, or "ごめんなさい" (gomen nasai) for a more casual apology.
+###
+12. Instruction: Identify three famous artists who were part of the Italian Renaissance.
+12. Input: 
+<noinput>
+12. Output: 
+1. Leonardo da Vinci
+2. Michelangelo Buonarroti
+3. Raphael (Raffaello Sanzio)
+###
+13. Instruction: Summarize the given paragraph in one sentence.
+13. Input: 
+Introducing fruits and vegetables to a child's diet at an early age can significantly improve their overall health and well-being. Fruits and vegetables contain a vast range of essential vitamins, minerals, and fibers that assist with growth, brain development, digestion, and other bodily functions. Besides health benefits, introducing colorful and vibrant fruits and vegetables can help support the development of a child's taste buds, encouraging them to enjoy a broader variety of flavors in their diet.
+
+13. Output: 
+Early introduction of fruits and vegetables to a child's diet promotes overall health, supports brain development and digestion, and helps develop their taste preferences for a diverse range of flavors.
+###
+14. Instruction: Translate the following English sentence to French: "I would like to book a table for two people tonight."
+14. Input: 
+<noinput>
+14. Output: 
+Je voudrais réserver une table pour deux personnes ce soir.
+###
+15. Instruction: Explain the function of the mitochondria in a cell.
+15. Input: 
+<noinput>
+15. Output: 
+The mitochondria, often called the "powerhouse" of cells, is responsible for producing adenosine triphosphate (ATP), the primary source of chemical energy used for various cellular processes and maintaining overall cellular function.
+###
+16. Instruction: Proofread the following text and correct any grammar or punctuation mistakes.
+16. Input: 
+It was a beautiful day at the park, and every one was having a good time. However thier were some people who just could not enjoy. Themselves; like one woman who dropped her ice scream.
+16. Output: 
+It was a beautiful day at the park, and everyone was having a good time. However, there were some people who just could not enjoy themselves, like one woman who dropped her ice cream.
+###
+17. Instruction: Write a brief condolence message for someone who recently lost their father.
+17. Input: 
+<noinput>
+17. Output: 
+I am so sorry to hear about the loss of your father. My heart goes out to you and your family during this difficult time. Please know that I am here for you, and my thoughts and prayers are with you.
+###
+18. Instruction: Provide three professional skills to include on a resume when applying for a customer service job.
+18. Input: 
+<noinput>
+18. Output: 
+1. Active Listening
+2. Effective Communication
+3. Problem Solving / Conflict Resolution
+###
+19. Imagine a potential future invention and briefly describe its purpose and main features.
+19. Input: 
+<noinput>
+19. Output: 
+The "EnviroGuard" is a wearable device designed to monitor and protect users from environmental hazards, such as air pollution, UV radiation, and allergens. Equipped with advanced sensors, AI technology, and filtration systems, it provides real-time feedback, health recommendations and can filter harmful substances before users breathe them in, ensuring a healthier and safer environment.
+###
+20. Instruction: What characterizes a good leader? List three essential qualities.
+20. Input: 
+<noinput>
+20. Output: 
+1. Visionary: Able to articulate a clear and compelling vision for the team or organization.
+2. Empathy: Demonstrates understanding and concern for the needs and emotions of others.
+3. Decisiveness: Makes informed decisions promptly and with confidence, while considering multiple perspectives and potential consequences.

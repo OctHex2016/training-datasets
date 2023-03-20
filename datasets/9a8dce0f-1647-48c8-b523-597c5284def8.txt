@@ -1,0 +1,46 @@
+4. Instruction: Identify the three main philosophical arguments presented in the passage and write them in a concise sentence each.
+
+4. Input: 
+In his work, John encourages the pursuit of happiness, arguing that it is the ultimate purpose of human life. He also claims that knowledge is essential for growth and self-fulfillment, and hence, we should strive to learn something new every day. Finally, John states that ethical living is crucial because without proper morals and values, one cannot truly reach happiness or grow as a person.
+
+4. Output: 
+1. Happiness is the ultimate purpose of human life.
+2. Knowledge is essential for growth and self-fulfillment.
+3. Ethical living is crucial for true happiness and personal growth.
+
+5. Instruction: Summarize the historical event provided in the paragraph below.
+
+5. Input: 
+The Battle of Saratoga was fought in 1777 during the American Revolutionary War. It was a crucial battle that involved British forces led by General John Burgoyne and American forces commanded by General Horatio Gates. The battle consisted of two engagements, the first being the Battle of Freeman's Farm and the second, the Battle of Bemis Heights. Ultimately, the American forces emerged victorious, forcing General Burgoyne to surrender. This win convinced France to support the American cause, making it a turning point in the war.
+
+5. Output: 
+The Battle of Saratoga in 1777 was a significant American Revolutionary War victory, as American forces led by General Gates defeated British forces commanded by General Burgoyne. This victory convinced France to support America, making it a turning point in the war.
+
+6. Instruction: Rewrite the given sentence in a passive voice.
+
+6. Input: 
+The cat chased the mouse across the room.
+
+6. Output: 
+The mouse was chased across the room by the cat.
+
+7. Instruction: Correct any grammatical or punctuation errors in the following paragraph:
+
+7. Input: 
+It was a sunny day, the children was playing by the lake. When suddenly the boys thought they heared something! They walked closer to investigate, the sound came from a bush. one boy peered inside and discovered, a tiny kitten shivering with fear.
+
+7. Output: 
+It was a sunny day; the children were playing by the lake. Suddenly, the boys thought they heard something! They walked closer to investigate; the sound came from a bush. One boy peered inside and discovered a tiny kitten, shivering with fear.
+
+8. Instruction: Provide a step-by-step recipe for preparing a vegetarian lasagna.
+
+8. Input: 
+<noinput>
+
+8. Output: 
+1. Preheat oven to 375°F (190°C).
+2. Prepare tomato sauce by heating olive oil in a saucepan, then adding chopped onions and garlic. Cook until soft, add crushed tomatoes, salt, pepper, and Italian herbs. Simmer for 20 minutes.
+3. In a bowl, mix ricotta cheese, chopped spinach, grated mozzarella, and beaten eggs.
+4. Lightly oil a baking dish, then spread a layer of tomato sauce, followed by a layer of lasagna noodles, then a layer of ricotta mixture, and finally a layer of grated mozzarella. Repeat layers until all ingredients are used, finishing with a layer of mozzarella.
+5. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes or until golden brown.
+6. Allow lasagna to rest for 10 minutes before slicing and serving.

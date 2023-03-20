@@ -1,0 +1,119 @@
+4. Instruction: Identify whether the given text is classified as an email or a shopping list.
+4. Input: 
+Milk, Eggs, Bread, Cheese, Apples, Toothpaste, Orange Juice, Shampoo, Chicken Breasts
+4. Output: 
+This text is classified as a shopping list.
+###
+5. Instruction: Rewrite the given sentence in passive voice.
+5. Input:
+She signed the contract with a flourish.
+5. Output:
+The contract was signed with a flourish by her.
+###
+6. Instruction: What is the mathematical term for the given example?
+6. Input:
+Find x, given that x + 7 = 12
+6. Output:
+This example represents a linear equation.
+###
+7. Instruction: Translate the following text to French.
+7. Input:
+The weather today is sunny and warm.
+7. Output:
+Le temps aujourd'hui est ensoleillé et chaud.
+###
+8. Instruction: Check whether the given sentence is grammatically correct or not. If not, correct it.
+8. Input:
+In spite of tired, he finished the race.
+8. Output:
+Incorrect. The corrected sentence is:
+In spite of being tired, he finished the race.
+###
+9. Instruction: Identify the main theme of the following passage.
+9. Input:
+It is essential to adequately fund education, as it is the foundation of a strong society. Investing in education results in a more skilled workforce, increased productivity, and higher job satisfaction. A country focused on strengthening its educational system will not only benefit its citizens but its economy as a whole.
+9. Output:
+The main theme of the passage is the importance of funding education and its impact on society and the economy.
+###
+10. Instruction: Calculate the price of 4 kilograms of apples that cost 3 dollars per kilogram.
+10. Input:
+<noinput>
+10. Output:
+The price of 4 kilograms of apples is 12 dollars.
+
+11. Instruction: Write a brief summary of your favorite movie.
+11. Input:
+<noinput>
+11. Output:
+Inception follows Leonardo DiCaprio's character, Dom Cobb, a skilled thief who infiltrates people's dreams to steal information or plant ideas. He accepts a high-stakes job to implant an idea into a target's subconscious in exchange for a chance to return to his family, all while navigating dream worlds and evading enemies from his past.
+
+12. Instruction: Describe how to change a flat tire.
+12. Input:
+<noinput>
+12. Output:
+1. Pull over to a safe location and turn on hazard lights.
+2. Locate the spare tire, jack, and lug wrench.
+3. Loosen the lug nuts slightly (do not remove completely).
+4. Use the jack to raise the vehicle off the ground by placing it at the jack point.
+5. Remove the lug nuts and take off the flat tire.
+6. Place the spare tire on the wheel hub, aligning the holes with the wheel studs.
+7. Reinstall the lug nuts and tighten them by hand.
+8. Lower the car slowly using the jack until the tire touches the ground and tighten the lug nuts with the wrench.
+9. Fully lower the car, making sure the tire is secure, and put away the tools.
+
+13. Instruction: Explain the meaning of the idiom "break a leg".
+13. Input:
+<noinput>
+13. Output:
+"Break a leg" is an idiomatic expression of good luck, often used in theater settings. It is said to performers before they go on stage, as a way to wish them a successful performance without directly saying "good luck," which is considered bad luck.
+
+14. Instruction: Write an acrostic poem using the word "FRIEND".
+14. Input:
+<noinput>
+14. Output:
+Faithful through good times and bad,
+Ready to lend a helping hand,
+In every challenge, by my side,
+Endlessly sharing joy and tears,
+Never judging or turning away,
+Devoted, a treasure forever.
+
+15. Instruction: Identify the name of the song with the following lyrics: "Come together, right now, over me".
+15. Input:
+<noinput>
+15. Output:
+The song with these lyrics is "Come Together" by The Beatles.
+
+16. Instruction: List five sports that can be played indoors.
+16. Input:
+<noinput>
+16. Output:
+1. Basketball
+2. Volleyball
+3. Table Tennis
+4. Squash
+5. Indoor Soccer
+
+17. Instruction: Briefly explain the role of photosynthesis in the life of a plant.
+17. Input:
+<noinput>
+17. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose (a type of sugar) and oxygen. This process is crucial for the life of a plant as it provides the energy necessary for growth and reproduction, and releases oxygen as a byproduct, which sustains other living organisms.
+
+18. Instruction: Provide a concise description of the plot of "Romeo and Juliet."
+18. Input:
+<noinput>
+18. Output:
+"Romeo and Juliet" is a tragic love story by William Shakespeare, about two young lovers from feuding families in Verona. Despite their families' animosity, they fall in love and marry in secret. Miscommunication and ill fate lead to both their deaths, ultimately uniting the families in grief and ending the feud.
+
+19. Instruction: Which planet is known as the "Red Planet"?
+19. Input:
+<noinput>
+19. Output:
+Mars is known as the "Red Planet."
+
+20. Instruction: Create a rhyme for the given word.
+20. Input:
+Sweet
+20. Output:
+Fleet

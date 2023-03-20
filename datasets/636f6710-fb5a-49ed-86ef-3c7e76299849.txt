@@ -1,0 +1,42 @@
+4. Instruction: Paraphrase the following quote. 
+4. Input: 
+"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." - Mark Twain
+4. Output: 
+In two decades, you will regret the opportunities you missed more than the actions you took. Release your restraints, leave the safety of the known, and ride the winds of adventure. Venture forth, dream big, and uncover the unknown. - Mark Twain
+
+5. Instruction: Create a short summary for this Airbnb listing.
+5. Input: 
+Welcome to our charming 2-bedroom beachfront apartment in Malibu! This sunny, well-furnished rental features a fully equipped kitchen, comfortable living room, and spacious balcony overlooking the Pacific Ocean. The master bedroom boasts a king-size bed, while the second bedroom has two single beds. Perfect for families and couples, our apartment is ideally located between the Malibu Pier and Zuma Beach for relaxation, shopping, and dining. Plus, enjoy easy access to nearby hiking trails and world-renowned surf spots. Truly the ultimate beach escape!
+5. Output: 
+Stay in a sunny 2-bedroom beachfront apartment in Malibu, complete with a well-equipped kitchen, comfortable living room, and spacious ocean-view balcony. Ideal for families and couples, this lovely rental is close to the Malibu Pier, Zuma Beach, hiking trails, and top surf spots – the perfect beach getaway!
+
+6. Instruction: Classify the following movie as drama, comedy, thriller, or action. Explain your choice.
+6. Input: 
+Forrest Gump is a 1994 American film directed by Robert Zemeckis, starring Tom Hanks. The film follows Forrest Gump, a slow-witted but kind-hearted and athletically-talented man from Alabama, who witnesses and unwittingly influences several historical events in the United States during the 20th century. The movie has elements of friendship, romance, war, and personal growth.
+6. Output: 
+Drama. Forrest Gump is classified as a drama because it focuses on the personal growth and emotional experiences of the main character, as well as his relationships with others, throughout various important historical events in the United States.
+
+7. Instruction: Rewrite the following passage in a formal tone.
+7. Input: 
+Hey, I just wanna say thanks for the awesome time I had at your place last night! The food was delish and the music was totally up my alley. Let's do it again soon, huh?
+7. Output: 
+I would like to express my gratitude for the delightful evening I experienced at your residence last evening. The cuisine was exquisite, and the music selection was in perfect harmony with my preferences. I sincerely hope we can arrange another such event in the near future.
+
+8. Instruction: Write a poetic two-line description of a sunset.
+8. Input: 
+<noinput>
+8. Output: 
+As the sun's radiant embers kiss the horizon goodbye, they paint the sky with hues of orange, gold, and violet.
+
+9. Instruction: Separate the following list of ingredients into wet and dry.
+9. Input: 
+1 cup flour, 3 eggs, 1/4 cup vegetable oil, 1 teaspoon salt, 2 cups milk, 1 teaspoon baking powder, 1 teaspoon sugar, 4 tablespoons melted butter
+9. Output: 
+Wet ingredients: 3 eggs, 1/4 cup vegetable oil, 2 cups milk, 4 tablespoons melted butter
+Dry ingredients: 1 cup flour, 1 teaspoon salt, 1 teaspoon baking powder, 1 teaspoon sugar
+
+10. Instruction: Provide general advice on staying productive during the workday.
+10. Input: 
+<noinput>
+10. Output: 
+Establish a routine by setting goals and prioritizing tasks. Break your day into smaller, manageable time blocks for focused work sessions. Allow for short breaks between tasks, and reduce distractions by establishing a designated workspace or utilizing productivity tools. Remember to stay hydrated, maintain a healthy diet, and ensure that you find time for regular exercise to keep your mind and body in peak condition.

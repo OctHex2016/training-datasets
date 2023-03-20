@@ -1,0 +1,136 @@
+4. Instruction: Summarize the following paragraph in one sentence.
+4. Input:
+Founded in 2003, Tesla, Inc., is an American electric vehicle and clean energy company that focuses on designing, manufacturing, and selling electric cars, battery energy storage, and more. The company's flagship product is the Tesla Model S, a premium electric sedan which has become increasingly popular in recent years. Through its international expansion, Tesla has gained a reputation as a leader in the electric vehicle industry, with innovative products that push the boundaries of automotive engineering.
+4. Output:
+Tesla, Inc. is an American electric vehicle and clean energy company, known for their innovative products such as the Model S sedan and battery storage systems.
+
+###
+5. Instruction: Translate the given sentence into French.
+5. Input: 
+I am looking forward to our next meeting.
+5. Output: 
+J'ai hâte à notre prochaine rencontre.
+
+###
+6. Instruction: Identify the main reason for the speaker's disappointment.
+6. Input: 
+I was so excited to go to the concert, but when I arrived, they told me it was cancelled due to bad weather.
+6. Output: 
+The concert was cancelled due to bad weather.
+
+###
+7. Instruction: List three possible solutions to the problem described.
+7. Input: 
+We are running out of storage space in our small apartment.
+7. Output: 
+1. Declutter and get rid of unnecessary items.
+2. Utilize vertical space with shelves and storage units.
+3. Rent a storage unit for additional storage.
+
+###
+8. Instruction: Write a haiku about autumn.
+8. Input: <noinput>
+8. Output: 
+Crisp leaves underfoot,
+Golden hues paint the landscape,
+Autumn's breath whispers.
+
+###
+9. Instruction: State the type of fallacy present in the argument.
+9. Input: 
+If we allow people to protest, soon everyone will believe they can just say whatever they want, leading to chaos in our society.
+9. Output: 
+Slippery slope
+
+###
+10. Instruction: Evaluate the statement and label it as either a fact, opinion, or belief.
+10. Input: 
+Chocolate ice cream is the best flavor.
+10. Output: 
+Opinion
+
+###
+11. Instruction: Determine whether the text is written in first-person, second-person, or third-person narration.
+11. Input: 
+He slowly walked into the room, taking in every detail of the mysterious man sitting at the table.
+11. Output: 
+Third-person
+
+###
+12. Instruction: Identify the historical event mentioned in the passage.
+12. Input: 
+When the stock market crashed in 1929, it led to a devastating economic downturn known as the Great Depression.
+12. Output: 
+Stock market crash of 1929
+
+###
+13. Instruction: Classify the elements in the list into either a fruit or a vegetable.
+13. Input: 
+Banana, Lettuce, Apple, Carrot, Cucumber, Cherry
+13. Output: 
+Fruits: Banana, Apple, Cherry
+Vegetables: Lettuce, Carrot, Cucumber
+
+###
+14. Instruction: Answer the following question: "How does photosynthesis work?"
+14. Input: <noinput>
+14. Output:
+Photosynthesis works by converting sunlight, carbon dioxide, and water inside plants into glucose and oxygen, with the help of chlorophyll and a series of chemical reactions.
+
+###
+15. Instruction: Suggest three improvements to make this resume more appealing.
+15. Input: 
+John Smith
+123 Main St, Anytown, ST 54321
+Email: johnsmith@email.com
+Phone: 555-555-1234
+
+Objective: Get a job.
+
+Education:
+- High school diploma, 2009
+
+Experience:
+- Cashier, Grocery Store, 2010-2012
+
+Hobbies:
+- Watching TV
+15. Output: 
+1. Replace "Objective: Get a job" with a specific, tailored objective.
+2. Expand the experience section to include key skills and accomplishments.
+3. Remove the hobbies section, and replace it with a relevant skills section.
+
+###
+16. Instruction: Determine if the given statement is true or false based on the provided text.
+16. Input:
+Text: Jellyfish are marine animals and can be found in every ocean. They move by contracting their bell-shaped bodies.
+Statement: Jellyfish can only be found in deep oceans.
+16. Output: 
+False
+
+###
+17. Instruction: Name the literary device used in the following sentence.
+17. Input: 
+The sun peeked out from behind the clouds, casting a golden glow on the world below.
+17. Output: 
+Imagery
+
+###
+18. Instruction: Explain the primary purpose of the document in one sentence.
+18. Input: 
+The applicant is writing a cover letter to apply for a job position.
+18. Output: 
+The primary purpose of the cover letter is to persuade the employer to consider the applicant for the offered job position.
+
+###
+19. Instruction: Provide a synonym for the underlined word.
+19. Input: 
+He was hesitant to speak in public.
+19. Output: 
+Reluctant
+
+###
+20. Instruction: Complete the analogy: "Sharp is to knife as hard is to _______."
+20. Input: <noinput>
+20. Output: 
+Rock

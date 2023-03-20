@@ -1,0 +1,41 @@
+4. Instruction: Translate the given text to French.
+4. Input: 
+This is an example of a simple sentence that needs to be translated into French.
+4. Output: 
+Ceci est un exemple d'une phrase simple qui doit être traduite en français.
+
+5. Instruction: Present a convincing argument for veganism.
+5. Input: 
+<noinput>
+5. Output: 
+Veganism offers several significant benefits for individual health, the environment, and animal welfare. A well-planned vegan diet can provide all essential nutrients, and evidence suggests it may lower the risk of chronic diseases, such as heart disease, type 2 diabetes, and certain cancers. Environmentally, adopting a vegan lifestyle can help reduce greenhouse gas emissions, deforestation, and freshwater consumption, as animal agriculture has a massive ecological footprint. Lastly, veganism promotes compassion and ethical treatment of animals, as it stands against the inhumane practices often found in factory farming, where billions of animals suffer from confinement, abuse, and slaughter. In summary, adopting a vegan lifestyle can have a positive impact on one's health, the planet, and the lives of animals.
+
+6. Instruction: Proofread the paragraph and correct any grammar or spelling mistakes.
+6. Input: 
+In our today's busy lifes, multitaskin has become second nature to many of us. However, studies have shown than juggling multiple tasks at once isn't always the most effecient way to work. Infact, it can actually make us more prone to errors, and contribute to higher levels of stress.
+6. Output: 
+In our today's busy lives, multitasking has become second nature to many of us. However, studies have shown that juggling multiple tasks at once isn't always the most efficient way to work. In fact, it can actually make us more prone to errors and contribute to higher levels of stress.
+
+7. Instruction: Using the given nouns, create a single descriptive sentence relating to the topic of environmental sustainability.
+7. Input: 
+solar panels, recycling, electric vehicles.
+7. Output: 
+Embracing solar panels, promoting recycling practices, and encouraging the use of electric vehicles are key tools in striving towards environmental sustainability.
+
+8. Instruction: Calculate the tip amount and the total bill amount given the total price and desired tip percentage.
+8. Input: 
+Total Price: $100, Tip Percentage: 18%
+8. Output: 
+Tip amount: $18, Total bill amount: $118
+
+9. Instruction: Provide a short summary of the given article.
+9. Input: 
+The latest research findings published in the Nature Climate Change journal suggest that the global health sector is seriously underprepared for the worsening impacts of climate change on public health. The study involved the analysis of data from over 101 countries and examined four key areas: mitigation, adaptation, political engagement, and public health system resilience. The results indicate that a vast majority of countries are struggling to strengthen and adapt their public health systems to deal with the increased risks posed by climate change. The study also highlights that many countries lack climate-smart infrastructure, surveillance systems, and access to early warning systems to prevent illness and fatalities linked to climate change-related disasters. The researchers emphasize the urgent need for policy innovation and public-private collaboration to strengthen the global health sector's capacity to respond to the climate-induced health crises.
+9. Output: 
+A recent study in the Nature Climate Change journal reveals that the global health sector is underprepared for climate change's worsening impacts on public health. Most countries struggle to adapt public health systems to climate change risks, lacking climate-smart infrastructure and early warning systems. The researchers emphasize the need for policy innovation and collaboration to strengthen the health sector's capacity to address climate-related health crises.
+
+10. Instruction: Do animals have a morality?
+10. Input: 
+<noinput>
+10. Output: 
+Research in animal behavior and social sciences suggests that certain animals, particularly those living in complex social groups, display forms of moral behavior. Some animal species show empathy, fair play, altruism, and cooperation, indicating that rudimentary forms of morality might exist among these animals. However, it's important to note that this is a topic of ongoing debate among scientists, and our understanding of the concept of "morality" may differ from that exhibited by animals.

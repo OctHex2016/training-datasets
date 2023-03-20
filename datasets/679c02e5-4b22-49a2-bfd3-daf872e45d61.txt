@@ -1,0 +1,51 @@
+4. Instruction: Summarize the provided passage in one sentence.
+4. Input: 
+Plastic pollution in the ocean is a major problem, causing harm to marine life, birds, and coastal communities. A significant amount of plastic waste makes its way into the ocean through rivers, waterways, and storm drains. Once in the ocean, it can take hundreds or even thousands of years to break down, causing lasting harm to the delicate marine ecosystems. Microplastics, tiny fragments of plastic less than five millimeters in size, are particularly dangerous because they can accumulate in various organisms and work their way up the food chain, eventually ending up on our dinner plates.
+4. Output: 
+Ocean plastic pollution threatens marine ecosystems, wildlife, and human health due to its long degradation process and the accumulation of microplastics in the food chain. 
+
+5. Instruction: Using the input, find the original order of the given scrambled story sentences.
+5. Input: 
+1. Ravi and his brother decided to plant a vegetable garden together.
+2. To stay fit, they both agreed to exercise each day.
+3. They went to the store and bought seeds, gloves, and tools.
+4. After a few months, they enjoyed a delicious harvest of fresh vegetables.
+5. A healthy new routine was started that was beneficial to their well-being.
+6. They worked together preparing the soil and planting the seeds.
+7. Providing their own nutrient-dense foods brought a sense of accomplishment and joy.
+5. Output: 
+1, 3, 6, 2, 5, 4, 7.
+
+6. Instruction: Point out three mistakes in the provided text and write the corrected version.
+6. Input: 
+The gorrilla then proceded too run accross into teh forest, where it swiftly climbed up a tree.
+6. Output: 
+The gorilla then proceeded to run across into the forest, where it swiftly climbed up a tree.
+
+7. Instruction: Provide an alternative title for an article with the given title.
+7. Input: 
+10 Ways to Improve Your Concentration While Working Remotely
+7. Output: 
+Mastering Focus: Effective Strategies for Remote Work Productivity
+
+8. Instruction: Translate the provided sentence from English to Spanish.
+8. Input: 
+Could you please pass the salt?
+8. Output: 
+¿Podrías pasarme la sal, por favor?
+
+9. Instruction: Write a limerick about a man named Joe who lives in a town called Kee.
+9. Input: 
+<noinput>
+9. Output: 
+There once was a man named Joe
+Who lived in a town known as Kee
+He slipped on a peel
+Did a clumsy cartwheel
+And landed by the old oak tree
+
+10. Instruction: Briefly explain the significance of the Wright Brothers in the history of aviation.
+10. Input: 
+<noinput>
+10. Output: 
+The Wright Brothers, Orville and Wilbur, were pioneering inventors who designed, built, and flew the world's first successful motor-operated airplane, revolutionizing the field of aviation.

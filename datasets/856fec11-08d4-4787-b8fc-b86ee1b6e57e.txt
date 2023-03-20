@@ -1,0 +1,55 @@
+4. Instruction: Summarize the main points of the article in 2-3 sentences.
+4. Input: 
+The giant sequoia that survived a wildfire in California last month is now dying because of its damaged root system, according to an ongoing investigation. The tree, named "The Mother of the Forest," is one of the oldest and largest sequoias in Calaveras Big Trees State Park. The park remains closed since the fire occurred on September 11, and visitors first saw smoke coming from the tree on September 15.
+4. Output: 
+The Mother of the Forest, a giant sequoia in Calaveras Big Trees State Park, is dying due to a damaged root system after surviving a wildfire. The park has been closed since the fire on September 11.
+
+5. Instruction: Convert the following recipe into a shopping list.
+5. Input: 
+Spaghetti Carbonara:
+- 12 oz spaghetti
+- 2 large eggs
+- 1 cup grated Pecorino Romano cheese
+- 1 cup diced pancetta or bacon
+- 4 cloves minced garlic
+- Salt and black pepper
+5. Output: 
+- 12 oz spaghetti
+- 2 large eggs
+- 1 cup grated Pecorino Romano cheese
+- 1 cup diced pancetta or bacon
+- 4 cloves garlic
+- Salt
+- Black pepper
+
+6. Instruction: Recommend a book for someone who loves science fiction and is looking for a new, thrilling read.
+6. Input: <noinput>
+6. Output: 
+I recommend "Dune" by Frank Herbert. It's a classic science fiction novel that combines politics, environmental issues, and human emotions into a thrilling adventure.
+
+7. Instruction: Transcribe the English text into International Phonetic Alphabet (IPA) symbols.
+7. Input: 
+The rain in Spain falls mainly on the plain.
+7. Output: 
+ðə reɪn ɪn speɪn fɔlz ˈmeɪnli ɒn ðə pleɪn.
+
+8. Instruction: Convert the given temperature in Fahrenheit to Celsius.
+8. Input: 
+82°F
+8. Output: 
+27.8°C
+
+9. Instruction: Identify the theme or message of the poem.
+9. Input: 
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+- Dylan Thomas
+9. Output: 
+The theme of this poem is about resisting death and fighting against the inevitability of aging and mortality.
+
+10. Instruction: Determine the genre of the movie based on the short description.
+10. Input: 
+A group of teens must work together to save humanity from an alien invasion while navigating the trials and tribulations of high school life.
+10. Output: 
+Science Fiction / Adventure

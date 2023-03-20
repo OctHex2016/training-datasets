@@ -1,0 +1,47 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+The dog chased the cat up the tree.
+4. Output: 
+The cat was chased up the tree by the dog.
+
+5. Instruction: Write a short paragraph summarizing the main idea of the provided text.
+5. Input: 
+Artificial intelligence (AI) refers to the ability of a machine or a computer program to think and learn. It is a field of study that tries to make computers smarter. Researchers and scientists have made great progress in recent years in the field of AI. They have created computer programs that can solve complex problems, recognize patterns in large datasets, and even understand human language. AI has many potential applications, including analyzing data to detect trends, assisting doctors in diagnosing diseases, and guiding driverless cars.
+5. Output: 
+Artificial intelligence is the capacity of machines and computer programs to think and learn, with the aim to make them smarter. Progress in AI has led to advancements in problem solving, pattern recognition, and language understanding. Its applications are vast, such as data analysis, medical diagnostics, and autonomous vehicles.
+
+6. Instruction: Explain the difference between the two terms provided.
+6. Input: 
+Mitosis and Meiosis
+6. Output: 
+Mitosis is the process of cell division that results in two identical daughter cells, each with the same number of chromosomes as the parent cell. This is important for growth and repair in organisms. Meiosis, on the other hand, is a type of cell division that produces four non-identical daughter cells, each with half the number of chromosomes as the parent cell. Meiosis is essential for sexual reproduction, as it creates gametes (sperm and egg cells) with unique genetic combinations.
+
+7. Instruction: Convert the given sentence into a question.
+7. Input: 
+James finished his homework before dinner.
+7. Output: 
+Did James finish his homework before dinner?
+
+8. Instruction: Determine the probable cause of the issue mentioned in the given scenario.
+8. Input: 
+Amelia's computer screen has been freezing periodically for the past few days.
+8. Output: 
+The probable cause could be outdated drivers, insufficient RAM, malware, or issues with installed applications.
+
+9. Instruction: Suggest a suitable title for the given article.
+9. Input: 
+Today, we are going to discuss the best practices of search engine optimization (SEO) to improve the visibility of your website, increase organic traffic and conversion rates, and ultimately boost your profits. We will address keyword research, site structuring, backlinking strategies, mobile device optimization, and more.
+9. Output: 
+Mastering SEO: A Comprehensive Guide to Boosting Your Website's Visibility and Profits
+
+10. Instruction: List three major effects of the event described in the input.
+10. Input: 
+The eruption of Mount Vesuvius in 79 AD
+10. Output: 
+1. The destruction of the cities Pompeii and Herculaneum
+2. The death of an estimated 16,000 people
+3. The preservation of Roman life, culture, and history through the ash and volcanic material
+
+11. Instruction: Write a short letter to the given person about the issue described in the input.
+11. Input: 
+Landlord, leaking faucet

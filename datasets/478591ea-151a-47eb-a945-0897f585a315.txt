@@ -1,0 +1,143 @@
+4. Instruction: Summarize the below article in 2-3 sentences.
+4. Input: 
+Scientists have discovered a new material that has the potential to revolutionize water desalination. This material, called graphene oxide, is capable of filtering salt from seawater more efficiently and sustainably than existing methods. Currently, global water scarcity affects over 2.7 billion people and threatens to become an even more severe crisis by 2025.
+4. Output: 
+Researchers have found a new material called graphene oxide that can improve water desalination efficiency and sustainability. This breakthrough has the potential to alleviate the global water crisis affecting billions of people.
+
+###
+5. Instruction: Correct the grammatical errors in this passage.
+5. Input: 
+There are many people who has been to London. It is interesting place to visiting. The London Eye, a ferris wheel that give tourists a birds-eye view of a city. Buckingham Palace is the essence of royalty and many say it's a must-see attraction.
+5. Output: 
+There are many people who have been to London. It is an interesting place to visit. The London Eye, a ferris wheel, gives tourists a bird's-eye view of the city. Buckingham Palace is the essence of royalty, and many say it's a must-see attraction.
+
+###
+6. Instruction: Identify three possible reasons for the given problem.
+6. Input: 
+A customer has complained that their laptop keeps freezing and crashing.
+6. Output:
+1. Overheating due to insufficient cooling or dust buildup
+2. Hardware issues, such as faulty RAM or hard drive
+3. Software conflicts or malware infections
+
+###
+7. Instruction: Write the main benefits of using the product based on the features provided.
+7. Input: 
+- Solar-powered battery charger
+- Water-resistant design
+- Portable and compact
+- Dual USB outputs
+- Built-in LED flashlight
+7. Output:
+1. Eco-friendly and cost-effective charging with solar power
+2. Protection against water damage, making it suitable for outdoor activities
+3. Easy to carry and transport due to its portable design
+4. Ability to charge multiple devices simultaneously with dual USB outputs
+5. Increased functionality with the integrated LED flashlight
+
+###
+8. Instruction: Hypothesize why the given historical event took place.
+8. Input: 
+The collapse of the Soviet Union in 1991.
+8. Output: 
+The collapse of the Soviet Union in 1991 can be attributed to a combination of economic, political, and social factors, including inefficient central planning, corruption, the arms race with the United States, internal ethnic and nationalist tensions, and the reform efforts by leaders like Mikhail Gorbachev that failed to address the underlying issues.
+
+###
+9. Instruction: What advice would you give to someone who wants to learn how to speak English fluently?
+9. Input: 
+<noinput>
+9. Output:
+1. Immerse yourself in English through books, movies, and music to increase exposure to the language.
+2. Practice speaking regularly with native speakers, either in person or through online platforms.
+3. Develop listening skills by watching English news channels or podcasts with different accents.
+4. Learn grammar and expand your vocabulary through language courses or apps.
+5. Keep a journal to practice writing and reflect on your progress, identifying areas for improvement.
+
+###
+10. Instruction: Categorize the following list of items by their primary function.
+10. Input: 
+hammer, computer, bicycle, carrot, pillow, toothbrush, television, aspirin, frying pan
+10. Output: 
+Tools: hammer
+Electronics: computer, television
+Transportation: bicycle
+Food: carrot
+Comfort items: pillow
+Hygiene: toothbrush
+Medicine: aspirin
+Cookware: frying pan
+
+###
+11. Instruction: Rewrite the given phrase in a more positive way.
+11. Input: 
+Unfortunately, the meeting has been postponed.
+11. Output: 
+The meeting has been rescheduled for a later time.
+
+###
+12. Instruction: Choose the best course of action for the following scenario.
+12. Input: 
+A friend sends you a text message saying they are feeling extremely low and hopeless.
+12. Output: 
+Reach out to your friend immediately, offering support, listening to their concerns, and encouraging them to seek professional help if necessary.
+
+###
+13. Instruction: Write a haiku about the dawning of spring.
+13. Input: 
+<noinput>
+13. Output: 
+Blossoms awaken,
+Chirping birds rejoice anew,
+Spring breathes life once more.
+
+###
+14. Instruction: Identify any logical fallacies in the statement provided.
+14. Input: 
+All smartphones are expensive. My friend Alice has an expensive phone. Therefore, Alice's phone must be a smartphone.
+14. Output: 
+Hasty generalization, Affirming the consequent
+
+###
+15. Instruction: Come up with a creative name for a new dessert that uses strawberries, chocolate, and whipped cream.
+15. Input: 
+<noinput>
+15. Output: 
+Strawberry ChocoCloud
+
+###
+16. Instruction: Explain the main advantage and disadvantage of using public transportation.
+16. Input: 
+<noinput>
+16. Output: 
+Advantage: Public transportation is often more cost-effective and environmentally friendly compared to private vehicles, reducing traffic congestion and emissions.
+Disadvantage: Public transportation may have limited schedule flexibility, route coverage, and convenience for some users, possibly leading to longer travel times and difficulties accessing certain locations.
+
+###
+17. Instruction: List three key aspects of maintaining a healthy lifestyle.
+17. Input: 
+<noinput>
+17. Output: 
+1. Regular physical activity and exercise
+2. Balanced diet and proper nutrition
+3. Adequate sleep and stress management
+
+###
+18. Instruction: Provide a brief explanation of the given term.
+18. Input: 
+Cryptocurrency
+18. Output: 
+Cryptocurrency is a digital or virtual form of currency that uses cryptography for security and operates on decentralized networks, like blockchain technology. It allows for peer-to-peer transactions without the need for a central authority, such as a bank.
+
+###
+19. Instruction: Compose a motivational quote about overcoming adversity.
+19. Input: 
+<noinput>
+19. Output: 
+"Embrace the storm, for it is in the fury of adversity that we discover our inner strength and resilience."
+
+###
+20. Instruction: Describe one possible negative impact of using social media excessively.
+20. Input: 
+<noinput>
+20. Output: 
+Excessive social media use can potentially lead to negative mental health effects, such as increased feelings of anxiety, depression, or loneliness, as users often compare themselves to others and experience fear of missing out (FOMO).

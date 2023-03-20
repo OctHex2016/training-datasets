@@ -1,0 +1,71 @@
+4. Instruction: Write a tweet summarizing the main takeaway from the article with the following link.
+4. Input: 
+Link to article: https://www.bbc.com/news/health-58402907
+4. Output: 
+"COVID-19 antibodies are less effective against the Delta variant, according to recent studies. Vaccination helps boost immunity, but it's important to stay cautious. #COVIDvariant #vaccineupdates" 
+###
+5. Instruction: What is the definition of photosynthesis? 
+5. Input: 
+<noinput>
+5. Output: 
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process releases oxygen as a byproduct.
+###
+6. Instruction: Can you name the capital of Burkina Faso? 
+6. Input: 
+<noinput>
+6. Output: 
+The capital of Burkina Faso is Ouagadougou.
+###
+7. Instruction: Revise the given sentence by removing double negatives. 
+7. Input: 
+"I don't want no part in this."
+7. Output: 
+"I don't want any part in this."
+###
+8. Instruction: Generate a third-person singular present verb form for the following word: "eat". 
+8. Input: 
+<noinput>
+8. Output: 
+The third-person singular present verb form of "eat" is "eats."
+###
+9. Instruction: Edit the given sentence for subject-verb agreement. 
+9. Input: 
+"The data are incorrect." 
+9. Output: 
+"The data is incorrect." 
+###
+10. Instruction: Given an image of a dog, generate a caption describing the dog's appearance and behavior. 
+10. Input: 
+An image of a dog (e.g., a link to a website hosting the image). 
+10. Output: 
+"This friendly golden retriever has fluffy ears and a wagging tail. He loves playing fetch and snuggling with his human friends." 
+###
+11. Instruction: Ask a question that will solicit the provided input. 
+11. Input: 
+I just got back from hiking up Mount Rainier. 
+11. Output: 
+"That sounds like an amazing adventure! How did you find the hike up Mount Rainier?" 
+###
+12. Instruction: Rewrite the following sentence using an active voice. 
+12. Input: 
+"The cake was baked by the baker." 
+12. Output: 
+"The baker baked the cake."
+###
+13. Instruction: Generate a list of three adjectives that best describe the provided input. 
+13. Input: 
+A colorful, bustling street with vendors selling all sorts of foods and trinkets. 
+13. Output: 
+The street is vibrant, busy, and diverse.
+###
+14. Instruction: Write a brief summary of the article using the provided link. 
+14. Input: 
+Link to article: https://www.nytimes.com/2021/09/17/world/europe/german-elections-laschet-baerbock-scholz.html
+14. Output: 
+As German voters prepare to head to the polls for the upcoming general election, the race has narrowed down to three main candidates: Armin Laschet, Annalena Baerbock, and Olaf Scholz. This article provides a breakdown of their respective campaigns and their chances of winning. 
+###
+15. Instruction: Use the given preposition in a sentence. 
+15. Input: 
+About 
+15. Output: 
+"I heard about the new restaurant opening downtown."

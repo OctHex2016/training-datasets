@@ -1,0 +1,38 @@
+4. Instruction: Summarize the given news article. 
+4. Input: 
+Tech giant AbleTo announced today their plan to acquire Oslo-based AI firm Intellibot. Intellibot has been a pioneer in natural language processing and machine learning, making impressive advancements in smart automation. The acquisition will cost AbleTo $120 million and is expected to be completed in the first quarter of 2023. This move is in line with AbleTo's ongoing initiative to increase AI integration within their products, as well as expand its portfolio of AI solutions for a variety of industries. A joint statement from the companies expresses excitement for the synergies between AbleTo's cutting-edge technologies and Intellibot's expertise in the field.
+4. Output: 
+Tech company AbleTo is set to acquire Norwegian AI firm Intellibot, a leader in natural language processing and machine learning, for $120 million. The acquisition, expected to be completed in Q1 2023, supports AbleTo's initiative to enhance AI integration in their products and expand their AI solutions for various industries.
+
+5. Instruction: Translate the given text from English to French.
+5. Input: 
+My favorite color is blue. I find it calming and it reminds me of the ocean and the sky.
+5. Output: 
+Ma couleur préférée est le bleu. Je le trouve apaisant et cela me rappelle l'océan et le ciel.
+
+6. Instruction: Author a brief research abstract on given key findings.
+6. Input: 
+Key findings: 
+- Temperature extremes can impact a bee's foraging behavior
+- Bees are less able to recognize flowers in extreme cold and heat
+- Decline in bee populations may be linked to climate change
+6. Output: 
+In this study, we investigated the effects of temperature extremes on a bee's ability to forage effectively. Our findings indicate that bees struggle to recognize flowers in extreme cold and heat conditions, impacting their foraging behavior. This research suggests that the observed decline in bee populations may be linked to climate change and its impact on the habitat and behavior of these crucial pollinators.
+
+7. Instruction: Describe how to make a fruit salad in 5 steps.
+7. Input: 
+<noinput>
+7. Output: 
+1. Gather a variety of fresh fruits such as bananas, oranges, apples, grapes, and strawberries. Wash and dry them thoroughly.
+2. Peel and slice the bananas into rounds, and separate the orange into segments without the membrane.
+3. Core and chop the apples into bite-sized pieces, and slice strawberries in halves or quarters.
+4. In a large bowl, combine the sliced bananas, orange segments, chopped apples, halved strawberries, and grapes.
+5. Lightly toss the fruit mixture, optionally adding a drizzle of honey or dressing of your choice. Refrigerate for 30 minutes to let the flavors blend, and serve chilled.
+
+8. Instruction: List three possible benefits of using public transport.
+8. Input: 
+<noinput>
+8. Output: 
+1. Environmental benefits: Public transport reduces carbon emissions by using less fuel per passenger compared to private vehicles.
+2. Cost savings: Using public transport can save money on fuel, vehicle maintenance, and insurance expenses.
+3. Reduced traffic congestion: Encouraging more people to use public transport can alleviate traffic congestion, reducing commute times and contributing to better urban mobility.

@@ -1,0 +1,68 @@
+4. Instruction: Translate the given English sentence into French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Proofread the paragraph and correct any spelling or grammatical errors.
+5. Input: 
+Thier was a simplification for the opening ceremony; it was held at a lower capicity due to the pandemik. The atmosfere was still electric, and the athlets were full of enrgy.
+5. Output: 
+There was a simplification for the opening ceremony; it was held at a lower capacity due to the pandemic. The atmosphere was still electric, and the athletes were full of energy.
+###
+6. Instruction: Explain how photosynthesis works in plants.
+6. Input: 
+<noinput>
+6. Output: 
+Photosynthesis is the process by which plants, algae, and some bacteria convert light energy, water, and carbon dioxide into glucose and oxygen. It occurs in chloroplasts, where the green pigment chlorophyll absorbs sunlight. The process consists of two main stages: the light-dependent reactions and the light-independent reactions (Calvin cycle). In the light-dependent reactions, sunlight is captured and used to generate ATP and NADPH, while water is split to release oxygen. In the light-independent reactions (Calvin cycle), the energy from ATP and NADPH is used to fix carbon dioxide into glucose, a sugar that serves as an energy source for the plant.
+###
+7. Instruction: Create a short rhyming couplet about nature.
+7. Input: 
+<noinput>
+7. Output: 
+In nature's arms, a world so vast,
+Where every moment's beauty unsurpassed.
+###
+8. Instruction: Briefly summarize the main point of the given paragraph.
+8. Input: 
+Although self-driving cars have the potential to significantly reduce the number of traffic accidents, fatalities, and injuries, they are still far from becoming mainstream due to several technological and legal concerns. Critics argue that self-driving cars' perception and decision-making algorithms aren't infallible and can still make errors. Moreover, unresolved legal issues surrounding the liability of manufacturers, car owners, and passengers in case of an accident involving a self-driving car remain an obstacle to their widespread acceptance.
+8. Output: 
+Self-driving cars have the potential to reduce traffic accidents, but technological concerns regarding their decision-making algorithms and unresolved legal issues over liability hinder their mainstream adoption.
+###
+9. Instruction: Provide a creative name for a mobile application that connects people who want to learn and practice new languages.
+9. Input: 
+<noinput>
+9. Output: 
+PolyglotPal
+###
+10. Instruction: Write a haiku (5-7-5 syllable pattern) about a tranquil river.
+10. Input: 
+<noinput>
+10. Output: 
+Gentle river flows,
+Whispering secrets of earth,
+Nature's lullaby.
+###
+11. Instruction: Identify which marketing strategy is being used in the given scenario.
+11. Input: 
+A sneaker company collaborates with a famous pop star to create a limited edition sneaker, generating buzz and interest from the pop star's fan base.
+11. Output: 
+Celebrity endorsement
+###
+12. Instruction: Provide a simple recipe for an avocado toast.
+12. Input: 
+<noinput>
+12. Output: 
+Ingredients:
+- 1 ripe avocado
+- 2 slices of bread
+- Salt and pepper
+- Olive oil
+- Optional toppings: red pepper flakes, lemon juice or feta cheese
+
+Instructions:
+1. Toast the slices of bread until golden brown.
+2. Cut the avocado in half and remove the pit. Scoop out the avocado flesh into a bowl and mash it with a fork, leaving some texture.
+3. Mix in a pinch of salt and pepper, and a drizzle of olive oil.
+4. Spread the mashed avocado onto the toasted bread, evenly covering the surface.
+5. Add optional toppings or ingredients of your choice, and enjoy!

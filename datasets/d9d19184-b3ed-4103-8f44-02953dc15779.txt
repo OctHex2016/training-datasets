@@ -1,0 +1,55 @@
+4. Instruction: Convert the given text into a poem.
+4. Input: 
+The ocean waves crash on the shore, leaving patterns in the sand. The sun sets, bathing the beach in golden light with shadows stretching across the dunes.
+4. Output: 
+Ocean waves crash upon the shore,
+Patterns etched into the sand,
+Sun sets, lends its golden glow,
+Shadows stretch across the dunes.
+
+5. Instruction: Write step-by-step instructions on how to prepare a peanut butter and jelly sandwich.
+5. Input: 
+<noinput>
+5. Output: 
+1. Lay out two slices of bread on a clean surface.
+2. Open a jar of peanut butter and, using a knife or spoon, spread a layer of peanut butter on one slice of bread.
+3. Open a jar of jelly or jam and, using a separate utensil or knife, spread a layer of jelly on the other slice of bread.
+4. Bring the two slices of bread together with the peanut butter and jelly sides facing each other.
+5. If desired, cut the sandwich into halves or quarters, and enjoy your peanut butter and jelly sandwich.
+
+6. Instruction: Summarize the given article.
+6. Input: 
+Scientists have discovered a new giant tortoise species on the Galapagos Islands. The new species was found on Santa Cruz Island and is called Chelonoidis porteri. Genetic tests have confirmed that the newly discovered tortoise is a different species than the nearby Chelonoidis duncanensis. It is estimated that there are approximately 250 individuals of this new species. The discovery emphasizes the importance of conservation efforts in the Galapagos to protect unique and diverse wildlife.
+6. Output: 
+A new giant tortoise species, Chelonoidis porteri, has been discovered on Santa Cruz Island in the Galapagos. With around 250 individuals, genetic tests confirm its uniqueness from the nearby Chelonoidis duncanensis. This discovery highlights the importance of Galapagos conservation efforts to protect diverse wildlife.
+
+7. Instruction: Proofread and correct the given text.
+7. Input: 
+Monkeys are in the simian family, wich includes apes and humans. There are many differint types of monkeys, some of witch live in the rainforests and others in the savannaah.
+7. Output: 
+Monkeys are in the simian family, which includes apes and humans. There are many different types of monkeys, some of which live in the rainforests and others in the savannah.
+
+8. Instruction: Create a dialogue between two characters discussing their favorite books.
+8. Input: 
+<noinput>
+8. Output: 
+Alice: Hey, have you read any good books lately?
+Bob: Yeah, I recently read "To Kill a Mockingbird". It was such a great story about justice and moral growth.
+Alice: Oh, I love that book! My all-time favorite is "Pride and Prejudice", though. The wit and romance always leave me enchanted.
+Bob: I've heard great things about that one. I'll have to give it a read!
+
+9. Instruction: Recommend three courses for someone who wants to learn programming.
+9. Input: 
+<noinput>
+9. Output: 
+1. Introduction to Computer Science and Programming: Learn the basics of programming and computer science concepts with Python.
+2. Web Development for Beginners: Discover how to create websites using HTML, CSS, and JavaScript.
+3. Data Structures and Algorithms: Develop a strong foundation in algorithms and data structures to improve the efficiency of your code.
+
+10. Instruction: Suggest three potential implications of artificial intelligence being widely integrated into society.
+10. Input: 
+<noinput>
+10. Output: 
+1. Job displacement: AI has the potential to automate numerous jobs, which may lead to unemployment for certain professions.
+2. Enhanced decision-making: AI could be utilized to analyze data and make more informed decisions in various fields, including medicine, finance, and logistics.
+3. Ethical concerns: The widespread use of AI could raise ethical issues related to privacy, bias, and appropriate usage, requiring a comprehensive legal and regulatory framework.

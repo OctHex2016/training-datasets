@@ -1,0 +1,54 @@
+4. Instruction: Explain what is microbiome and its importance to human health.
+4. Input:
+<noinput>
+4. Output:
+The human microbiome refers to the collection of microorganisms, such as bacteria, fungi, viruses, and archaea, that live in and on the human body. These microorganisms establish a complex ecosystem that plays a crucial role in human health. A balanced microbiome supports digestion, nutrient absorption, and the production of some vitamins. It also assists the immune system in fighting off harmful pathogens and contributes to the regulation of inflammatory response. Imbalances in the microbiome composition, known as dysbiosis, have been associated with various health issues, including obesity, diabetes, allergies, and autoimmune disorders. Maintaining a healthy microbiome is essential for overall wellbeing.
+
+5. Instruction: Correct the spelling errors of the given paragraphs.
+5. Input:
+It was an unprecednted situation for the small town. A large berr was spotted rumagging through garbage cans behind restaraunts. Locals were frightened, and wildelife authorities began to devise plans to capture the unexpeceted visitor. Alerted by the comotion, specialists arrived to handel the situation.
+5. Output:
+It was an unprecedented situation for the small town. A large bear was spotted rummaging through garbage cans behind restaurants. Locals were frightened, and wildlife authorities began to devise plans to capture the unexpected visitor. Alerted by the commotion, specialists arrived to handle the situation.
+
+6. Instruction: Convert the following recipe into a vegetarian recipe by replacing non-vegetarian ingredients.
+6. Input:
+Ingredients:
+1 lb ground beef
+1 small onion, diced
+1 red bell pepper, chopped
+1 can (15 oz) black beans, drained and rinsed
+1 can (10 oz) diced tomatoes with green chilies
+2 cups cooked white rice
+2 tbsp taco seasoning
+1 cup shredded cheddar cheese, divided
+1 cup shredded Monterey Jack cheese, divided
+6. Output:
+Ingredients:
+1 lb vegetarian ground beef substitute (e.g., Beyond Meat, Lightlife)
+1 small onion, diced
+1 red bell pepper, chopped
+1 can (15 oz) black beans, drained and rinsed
+1 can (10 oz) diced tomatoes with green chilies
+2 cups cooked white rice
+2 tbsp taco seasoning
+1 cup shredded vegan cheddar cheese, divided
+1 cup shredded vegan Monterey Jack cheese, divided
+
+7. Instruction: Translate the following sentence from English to French: "Can you please help me find the nearest pharmacy?"
+7. Input:
+<noinput>
+7. Output:
+Pouvez-vous m'aider à trouver la pharmacie la plus proche, s'il vous plaît?
+
+8. Instruction: Identify the tense of the sentence and convert it into the future perfect tense.
+8. Input:
+We had gone to the beach for vacation last year.
+8. Output:
+Tense: Past perfect
+Future perfect: We will have gone to the beach for vacation by next year.
+
+9. Instruction: Write a persuasive argument in favor of adopting renewable energy sources.
+9. Input: 
+<noinput>
+9. Output:
+Adopting renewable energy sources is essential in our quest for a sustainable future. The reliance on fossil fuels has led to significant environmental issues, including air pollution, water contamination, and climate change. By embracing clean energy alternatives such as solar, wind, and hydro power, we can significantly reduce greenhouse gas emissions and mitigate the effects of global warming. Moreover, renewable energy sources are inexhaustible and ensure energy security in the long run. Furthermore, adopting renewable energy can boost job creation and drive economic growth in the green technology sector. In conclusion, transitioning to renewable energy sources is a crucial step towards a sustainable and prosperous future for all.

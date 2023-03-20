@@ -1,0 +1,133 @@
+4. Instruction: Rewrite the following sentence in a more concise manner. 
+4. Input: 
+"The reason I was not able to attend the meeting was due to the fact that my alarm did not go off at the appropriate time in the morning."
+4. Output: 
+"I missed the meeting because my alarm didn't go off on time." 
+### 
+5. Instruction: Convert the given text from lowercase to UPPERCASE.
+5. Input: 
+text = "the quick brown fox jumps over the lazy dog"
+5. Output: 
+TEXT = "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+### 
+6. Instruction: Generate a list of all prime numbers less than the given number. 
+6. Input: 
+40
+6. Output: 
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37]
+### 
+7. Instruction: Correct the spelling mistake in the following sentence.
+7. Input: 
+"I went to collge last year."
+7. Output: 
+"I went to college last year."
+### 
+8. Instruction: Find the synonyms for the word 'amazing'.
+8. Input: 
+<noinput>
+8. Output: 
+astonishing, astounding, incredible, marvellous, staggering, stunning, wonderful, wondrous, remarkable
+### 
+9. Instruction: Sum the values in the given list. 
+9. Input: 
+lst = [1, 2, 3, 4, 5]
+9. Output: 
+15
+### 
+10. Instruction: What is the capital city of Iceland?
+10. Input: 
+<noinput>
+10. Output: 
+Reykjavik 
+### 
+11. Instruction: Write a program to calculate the sum of squares of the given list of numbers. 
+11. Input: 
+a = [1, 2, 3, 4, 5]
+11. Output: 
+Sum of squares = 55
+### 
+12. Instruction: Write a tweet promoting the new flagship smartphone. 
+12. Input: 
+<noinput>
+12. Output: 
+"Meet the amazing flagship smartphone, the ultimate device for making your life smarter, faster and better than ever. Get yours now and experience the power of technology at your fingertips! #tech #smartphone #flagship #innovation" 
+### 
+13. Instruction: Convert the given text to a list of words. 
+13. Input: 
+txt = "The quick brown fox jumps over the lazy dog."
+13. Output: 
+['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog.'] 
+### 
+14. Instruction: Write a code to calculate the volume of a sphere. 
+14. Input: 
+radius = 5
+14. Output: 
+"""
+Calculate the volume of a sphere.
+
+Input:
+radius - the radius of the sphere
+
+Returns:
+the volume of the sphere
+"""
+def volume_of_sphere(radius):
+    volume = (4/3) * 3.14 * (radius**3)
+    return volume
+    
+if __name__ == '__main__':
+    radius = 5
+    print("Volume of sphere with a radius of {} is {}".format(radius, volume_of_sphere(radius)))
+### 
+15. Instruction: Give the antonym for 'beautiful'. 
+15. Input: 
+<noinput>
+15. Output: 
+ugly 
+### 
+16. Instruction: Find the smallest number in the given list. 
+16. Input: 
+lst = [4, 2, 7, 1, 8, 3]
+16. Output: 
+1 
+### 
+17. Instruction: Add a new value to the given dictionary. 
+17. Input: 
+d = {'a': 1, 'b': 2, 'c': 3}
+17. Output: 
+d = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+### 
+18. Instruction: What are the symptoms of COVID-19? 
+18. Input: 
+<noinput>
+18. Output: 
+Common symptoms of COVID-19 include fever, dry cough, tiredness, loss of smell and taste, aches and pains, sore throat, and difficulty breathing or shortness of breath. 
+### 
+19. Instruction: Rearrange the given sentence in correct order. 
+19. Input: 
+"England / amazing / is / place / an."
+19. Output: 
+"England is an amazing place." 
+### 
+20. Instruction: Write a program to find whether a given number is odd or even. 
+20. Input: 
+num = 7
+20. Output: 
+"""
+Determine whether a number is odd or even.
+
+Input:
+num - the number to be checked
+
+Returns:
+"Even" if the number is even, "Odd" if the number is odd
+"""
+def odd_or_even(num):
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+    
+if __name__ == '__main__':
+    num = 7
+    print("The number {} is {}".format(num, odd_or_even(num)))

@@ -1,0 +1,44 @@
+4. Instruction: Summarize the following movie plot in two sentences.
+4. Input: 
+"A young heart surgeon learns about the dangers of a rare blood disease and gets entangled in a plot involving the Russian mob, illegal organ trafficking, and conspiracy. As she tries to help a patient in need of a blood transfusion, she uncovers a network of illegal blood donation centers that prey on destitute people and sell their blood to the highest bidder."
+4. Output: 
+A heart surgeon discovers a plot involving a rare blood disease, the Russian mob, and organ trafficking. She fights to save her patient by exposing a network that exploits impoverished individuals and sells their blood to the highest bidder.
+
+5. Instruction: Create a press release headline for this scientific accomplishment.
+5. Input: 
+Scientists from XYZ Institute have developed a new technology that efficiently converts carbon dioxide emissions into usable electricity, providing a sustainable solution to minimize the impacts of climate change and power our cities.
+5. Output: 
+XYZ Institute Pioneers Game-Changing Technology Converting CO2 Emissions into Clean Electricity for a Greener Future
+
+6. Instruction: Translate the following phrase from English to French: "The weather is beautiful today"
+6. Input: 
+<noinput>
+6. Output: 
+Le temps est magnifique aujourd'hui.
+
+7. Instruction: Create a haiku about the arrival of autumn.
+7. Input: 
+<noinput>
+7. Output: 
+Crisp air whispers change,
+Leaves blush with warm fire's glow,
+Autumn's dance begins.
+
+8. Instruction: Tell me a riddle.
+8. Input: 
+<noinput>
+8. Output: 
+People buy me to eat, but never eat me. What am I?
+Answer: A plate.
+
+9. Instruction: Rewrite the following sentence in passive voice.
+9. Input: 
+The construction crew builds the house next week.
+9. Output: 
+The house will be built by the construction crew next week.
+
+10. Instruction: Determine the grammatical error in the following sentence and correct it.
+10. Input: 
+She wanted to be a astronaut, but her family didn't supportive of her goals.
+10. Output: 
+She wanted to be an astronaut, but her family didn't support her goals.

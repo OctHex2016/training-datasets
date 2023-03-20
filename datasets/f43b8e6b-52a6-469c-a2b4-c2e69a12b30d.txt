@@ -1,0 +1,132 @@
+4. Instruction: Rewrite the given sentence in passive voice.
+4. Input: 
+John cleaned the house last weekend.
+4. Output: 
+The house was cleaned by John last weekend.
+###
+5. Instruction: Identify if there's a logical fallacy in the statement. If there is, specify which fallacy it is. If not, respond with "No fallacy detected."
+5. Input: 
+Even though it's only the first day, I can tell this is going to be a boring course.
+5. Output: 
+Hasty generalization
+###
+6. Instruction: Name the capital city of the given country.
+6. Input: 
+Germany
+6. Output: 
+Berlin
+###
+7. Instruction: Determine the factor by which a car's speed should be converted from kilometers per hour (km/h) to miles per hour (mph).
+7. Input: 
+<noinput>
+7. Output: 
+0.621371
+###
+8. Instruction: List the key differences between the given animals.
+8. Input: 
+Dolphins and sharks
+8. Output: 
+1. Dolphins are mammals, sharks are fish. 
+2. Dolphins have a horizontal tail fin (fluke), sharks have a vertical tail fin. 
+3. Dolphins have a blowhole for breathing, sharks have gills.
+4. Dolphins are generally friendly to humans, while sharks can be dangerous.
+###
+9. Instruction: Outline a short story based on the provided scenario.
+9. Input: 
+A stranded traveler encounters an abandoned cabin in the woods.
+9. Output: 
+1. Introduction: A traveler gets stranded due to a storm and wanders through the woods.
+2. Conflict: The traveler stumbles upon an abandoned cabin and chooses to stay there for the night.
+3. Rising action: Weird noises and creaks prompt the traveler to explore the cabin, uncovering its mysterious past.
+4. Climax: The traveler encounters a ghost or spirit linked to the cabin's history.
+5. Resolution: The traveler helps the spirit find peace, and the spirit, in turn, helps the traveler find a way out of the woods.
+6. Conclusion: The traveler leaves the cabin with a renewed understanding of life, and hope for the future.
+###
+10. Instruction: Analyze the given poem and briefly describe its main theme.
+10. Input: 
+Stopping by Woods on a Snowy Evening
+By Robert Frost
+
+Whose woods these are I think I know.
+His house is in the village though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+
+He gives his harness bells a shake
+To ask if there is some mistake.
+The only other sound's the sweep
+Of easy wind and downy flake.
+
+The woods are lovely, dark, and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
+10. Output: 
+The main theme of the poem is the struggle between the allure of nature and its beauty, and the responsibilities and obligations we have in our lives. The poem emphasizes the attraction of the tranquil and peaceful woods, while the protagonist realizes he must carry on due to his commitments and responsibilities.
+###
+11. Instruction: Identify the most suitable career choice for the person based on their interests and skills.
+11. Input: 
+Interests: technology, problem-solving, innovation
+Skills: programming, analytical thinking, creativity
+11. Output: 
+Software Developer
+###
+12. Instruction: Provide a brief introduction to the given historical event.
+12. Input: 
+The Titanic
+12. Output: 
+The Titanic was a British passenger ship that famously sank on its maiden voyage from Southampton, England to New York City on April 15, 1912. The ship collided with an iceberg in the North Atlantic Ocean, leading to the loss of more than 1,500 lives. It remains one of history's most infamous maritime disasters due to the lack of lifeboats and the belief that the ship was unsinkable.
+###
+13. Instruction: What was the significance of the given scientific discovery or invention?
+13. Input: 
+The invention of the printing press
+13. Output: 
+The invention of the printing press revolutionized communication and education. It enabled the mass production of books, making them more accessible and affordable for the general public. This resulted in the rapid spread of information, ideas, and knowledge, leading to the flourish of literature, science, and arts. The printing press played a crucial role in the Reformation, the Renaissance, and the Scientific Revolution, having a lasting impact on human civilization.
+###
+14. Instruction: Based on the given zodiac sign, provide some general personality traits of an individual.
+14. Input: 
+Libra
+14. Output: 
+Libras are diplomatic, social, and fair-minded individuals. They value harmony and balance in their relationships and seek justice in all aspects of life. Libras also possess a strong aesthetic sense and tend to be artistic or creatively inclined.
+###
+15. Instruction: Give a piece of advice for improving public speaking skills.
+15. Input: 
+<noinput>
+15. Output: 
+Practice active listening and observe other skilled public speakers to learn their techniques, which can help in building confidence and refining your own style of presentation.
+###
+16. Instruction: Determine the marketing strategy used in the given advertisement.
+
+16. Input: 
+"Switch to Sleepwell mattresses and experience the comfort that thousands of people already enjoy!"
+16. Output: 
+Social proof
+###
+17. Instruction: Provide a brief overview of the given concept.
+17. Input: 
+Circular economy
+17. Output: 
+A circular economy is an economic system aimed at eliminating waste and the continual use of resources. It focuses on redesigning products, processes, and business models to minimize resource consumption and maximize the life cycle of materials. Key principles of the circular economy include reducing waste, promoting reuse and recycling, and emphasizing resource efficiency and sustainability.
+###
+18. Instruction: Recommend a genre of music based on the given preferences.
+18. Input: 
+Energetic, upbeat, and dance-friendly tunes
+18. Output: 
+Electronic Dance Music (EDM)
+###
+19. Instruction: Translate the given sentence to French.
+19. Input: 
+I love reading books.
+19. Output: 
+J'aime lire des livres.
+###
+20. Instruction: Describe the function of the given type of cell in the human body.
+20. Input: 
+Red blood cells
+20. Output: 
+Red blood cells, also known as erythrocytes, primarily function to transport oxygen from the lungs to the body's tissues and carry carbon dioxide from the tissues back to the lungs. They contain the protein hemoglobin, which binds to oxygen and enables efficient gas exchange.

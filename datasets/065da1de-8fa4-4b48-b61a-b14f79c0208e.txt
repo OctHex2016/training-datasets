@@ -1,0 +1,55 @@
+4. Instruction: Identify the poem from the given excerpt.
+4. Input: 
+Two roads diverged in a yellow wood, And sorry I could not travel both
+4. Output: 
+The Road Not Taken by Robert Frost
+###
+5. Instruction: Summarize the key points of the given article.
+5. Input: 
+Researchers at the University of California have developed a new type of nanofiber-based material that can remove toxic heavy metals, such as lead and arsenic, from water. The material was tested in lab-scale experiments, and it successfully removed over 99.9% of the contaminants. This could provide a cost-effective and scalable solution for improving drinking water quality in developing nations and a potential solution for cleaning up polluted environments. The study was recently published in the journal Environmental Science & Technology, and the researchers hope to launch field tests soon to determine its effectiveness in real-world conditions.
+5. Output: 
+Researchers from the University of California have created a nanofiber-based material capable of removing over 99.9% of toxic heavy metals like lead and arsenic from water in lab experiments. The low-cost and scalable solution could improve drinking water quality in developing countries and clean polluted environments. The study results were published in Environmental Science & Technology and the researchers plan to conduct field tests to assess its real-world effectiveness.
+###
+6. Instruction: Translate the given quote to English.
+6. Input: 
+La vie est un sommeil, l'amour en est le rêve.
+6. Output:
+Life is a sleep, love is its dream.
+###
+7. Instruction: How many days until Christmas from the date provided?
+7. Input: 
+October 3
+7. Output: 
+83 days until Christmas
+###
+8. Instruction: Convert the cake recipe measurements to metric units.
+8. Input: 
+- 2 cups of all-purpose flour
+- 1 cup of sugar
+- 1/2 cup of unsweetened cocoa powder
+- 1 1/2 teaspoons of baking powder
+- 1/2 cup of vegetable oil
+- 1 cup of milk
+- 3 large eggs
+8. Output: 
+- 240 grams of all-purpose flour
+- 200 grams of sugar
+- 60 grams of unsweetened cocoa powder
+- 7.5 grams of baking powder
+- 120 ml of vegetable oil
+- 240 ml of milk
+- 3 large eggs
+###
+9. Instruction: Assign an appropriate name to the given picture.
+9. Input: 
+A snowy field with a lone tree
+9. Output: 
+Solitude in Winter
+###
+10. Instruction: Create a haiku about the given scenery.
+10. Input: 
+A peaceful forest with a gently flowing river
+10. Output: 
+Whispering leaves fall,
+Gentle river flows through woods,
+Peaceful forest dreams.

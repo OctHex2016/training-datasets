@@ -1,0 +1,147 @@
+4. Instruction: Write a rhyming couplet using the two provided words.
+4. Input: 
+stars and Mars
+4. Output: 
+Gazing upon the twinkling stars, their beauty we cannot mar,
+A connection with the cosmos, a journey beckons us to Mars.
+
+###
+
+5. Instruction: Paraphrase the given quote without losing its original meaning.
+5. Input: 
+Failure is not the opposite of success, it's part of success.
+5. Output: 
+Failing doesn't contradict success; rather, it contributes to it.
+
+###
+
+6. Instruction: Calculate the tip for a bill, given the total amount and desired tip percentage. Return the tip amount.
+6. Input: 
+$48.90, 20%
+6. Output: 
+$9.78
+
+###
+
+7. Instruction: Provide answers to this riddle.
+7. Input: 
+<noinput>
+7. Output: 
+I am taken from a mine, and shut up in a wooden case from which I am never released, and yet I am used by almost every person. What am I?
+Answer: A pencil
+
+###
+
+8. Instruction: List five positive aspects of the given scenario.
+8. Input: 
+Working from home
+8. Output: 
+1. Flexible schedule
+2. Saving on commute time and costs
+3. Improved work-life balance
+4. Wearing comfortable clothing
+5. The ability to create a more personalized work environment
+
+###
+
+9. Instruction: Identify the root cause of the presented problem and suggest a solution.
+9. Input: 
+I have a difficult time waking up early in the morning, which causes me to be late for work.
+9. Output: 
+Root Cause: Inefficient sleep routine or poor sleep quality
+Solution: Establish a consistent bedtime routine, create a conducive sleep environment, and limit caffeine and electronic device usage before bedtime.
+
+###
+
+10. Instruction: Name the literary device used in the given passage.
+10. Input: 
+All the world's a stage, and all the men and women merely players.
+10. Output: 
+Metaphor
+
+###
+
+11. Instruction: Describe the plot of a fictional novel in fifty words or fewer using the given protagonist and setting.
+11. Input: 
+Protagonist: Luna Veritas, Setting: Neo-Tokyo 2178
+11. Output: 
+Luna Veritas, a cyber-detective in Neo-Tokyo 2178, stumbles upon a sinister conspiracy threatening global stability. Armed with her hacking skills and intellect, she exposes the corrupt officials and dismantles the criminal network, ultimately preventing a futuristic apocalypse and earning a reputation as a cyber heroine.
+
+###
+
+12. Instruction: Determine the dominant emotion of the person after reading the following text message.
+12. Input: 
+Hey, we talked with the instructor, and she agreed to let us redo the assignment due to the confusion. We got a one-week extension!
+12. Output: 
+Relief
+
+###
+
+13. Instruction: Translate the given English sentence to French.
+13. Input: 
+I would like a cup of coffee, please.
+13. Output: 
+Je voudrais une tasse de café, s'il vous plaît.
+
+###
+
+14. Instruction: Spot the grammatical error in the given sentence and correct it.
+14. Input: 
+She gave a book to my brother and I.
+14. Output: 
+She gave a book to my brother and me.
+
+###
+
+15. Instruction: Recognize the type of weather described in the following description and state it in one word.
+15. Input: 
+The sun shines brightly, and there's not a single cloud in the sky. The temperature is warm, and a light breeze softly rustles the tree leaves.
+15. Output: 
+Sunny
+
+###
+
+16. Instruction: Suggest three tourist attractions or activities to visit or do in the given city.
+16. Input: 
+Rome, Italy
+16. Output: 
+1. Colosseum
+2. Vatican City
+3. Trevi Fountain
+
+###
+
+17. Instruction: Differentiate a fact from an opinion in the given statement.
+17. Input: 
+Coffee is a popular beverage around the world, but it tastes bitter.
+17. Output: 
+Fact: Coffee is a popular beverage around the world
+Opinion: Coffee tastes bitter
+
+###
+
+18. Instruction: Write a haiku inspired by the given theme.
+18. Input: 
+Moonlit night
+18. Output: 
+Moon's silver embrace,
+Trees cast long, darkened shadows,
+Night whispers secrets.
+
+###
+
+19. Instruction: Provide three synonyms for the specified word.
+19. Input: 
+Enthusiastic
+19. Output: 
+1. Passionate
+2. Eager
+3. Zealous
+
+###
+
+20. Instruction: Identify and fix the logical fallacy present in the following argument.
+20. Input: 
+Everyone I know likes this singer, so she must be good.
+20. Output: 
+Corrected Argument: Just because everyone I know likes this singer does not necessarily mean she is objectively good. People may have different preferences for her music.

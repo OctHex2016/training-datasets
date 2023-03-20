@@ -1,0 +1,59 @@
+4. Instruction: Correct grammar and spelling mistakes in the following paragraph.
+4. Input: 
+In this today's world, every1 wants to acheive ther goals and dreams as qiuickly as posible. They look for shortcuts and way's to reach at the top. But they somtimes forgets that there are many obstacles in real life, and it is not easy to overcome them all.
+4. Output: 
+In today's world, everyone wants to achieve their goals and dreams as quickly as possible. They look for shortcuts and ways to reach the top. But they sometimes forget that there are many obstacles in real life, and it is not easy to overcome them all.
+
+5. Instruction: Summarize the given news article in 2-3 sentences.
+5. Input: 
+Apple Inc. announced on Tuesday that it plans to release its new iPhone model in the near future. This upcoming iPhone, named iPhone 14, will have significant improvements over its predecessor, iPhone 13. Apple has made crucial changes in the design, camera, battery life, and processing speed of the new iPhone, which will be launching in September of this year.
+5. Output: 
+Apple is set to release the iPhone 14, an upgrade from the iPhone 13 with improvements in design, camera, battery life, and processing speed. The launch is scheduled for September this year.
+
+6. Instruction: Translate the following English text into French.
+6. Input:
+The conference will take place in the city center, close to many hotels and restaurants. Kindly register in advance to reserve your seat.
+6. Output:
+La conférence aura lieu dans le centre-ville, à proximité de nombreux hôtels et restaurants. Veuillez vous inscrire à l'avance pour réserver votre place.
+
+7. Instruction: Describe how to care for a rubber plant.
+7. Input: <noinput>
+7. Output:
+To care for a rubber plant, ensure it has bright, indirect sunlight and well-draining potting soil. Water the plant when the top inch of soil is dry, and avoid overwatering. Maintain average room temperature and humidity, and clean the leaves regularly to remove dust. Prune the plant as needed to maintain its shape and size.
+
+8. Instruction: List down the advantages and disadvantages of working from home.
+8. Input: <noinput>
+8. Output:
+Advantages:
+1. Flexible work schedule
+2. Cost savings on commuting and work attire
+3. Increased work-life balance
+4. Personal comfort and customization of the workspace
+5. Enhanced productivity for some individuals
+
+Disadvantages:
+1. Distractions and reduced focus
+2. Potential feelings of isolation and loneliness
+3. Weaker boundaries between work and personal life
+4. Limited face-to-face interaction with colleagues
+5. Challenges in collaboration and communication
+
+9. Instruction: Compare the founding of the United States and the founding of the European Union.
+9. Input: <noinput>
+9. Output:
+The United States was founded in 1776 after declaring independence from British rule, starting with 13 original colonies and later expanding through territorial acquisitions. The founding was marked by the drafting and signing of the U.S. Constitution, establishing a federal government and outlining its framework.
+
+The European Union, on the other hand, was founded in 1993 with the signing of the Maastricht Treaty. It was created as a political and economic union between European countries to promote peace, stability, and economic cooperation. The EU has evolved through several stages, starting as the European Coal and Steel Community in 1951 and the European Economic Community in 1957. The formation of the EU is a result of gradual integration among its member states, rather than a sudden break from a previous ruling power.
+
+10. Instruction: Explain Taekwondo and its origin.
+10. Input: <noinput>
+10. Output:
+Taekwondo is a Korean martial art and sport that emphasizes high, fast kicks, jumping and spinning techniques, as well as striking and self-defense. It originated in Korea and dates back to ancient times, with influences from Chinese martial arts and indigenous Korean combat practices. Taekwondo became more systematized in the mid-20th century, leading to its official establishment on April 11, 1955, by General Choi Hong Hi. Today, it is practiced globally and is an Olympic sport, showcasing the values of discipline, strength, and respect.
+
+11. Instruction: Come up with a hypothetical reason for an employee's poor performance.
+11. Input: <noinput>
+11. Output:
+A possible reason for an employee's poor performance could be personal stress from ongoing family issues, which may be causing a lack of focus and concentration, leading to a decline in work quality.
+
+12. Instruction: Design a 2-week vegetarian meal plan.
+12. Input: <noinput>

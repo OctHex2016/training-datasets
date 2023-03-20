@@ -1,0 +1,45 @@
+4. Instruction: Translate the given English text into French.
+4. Input:
+I would love to learn more about your culture and traditions.
+4. Output:
+J'aimerais beaucoup en savoir plus sur votre culture et vos traditions.
+
+5. Instruction: What are the main ingredients in this recipe?
+5. Input:
+For the delicious lemon basil pesto pasta, you will need 8 oz of spaghetti or any pasta of your choice, 2 cups fresh basil leaves, 1/3 cup pine nuts or almonds, 3 garlic cloves, 1/4 cup freshly grated parmesan cheese, 1/4 cup lemon juice, salt, and pepper to taste, and 1/4 cup of olive oil.
+5. Output:
+The main ingredients of this recipe are spaghetti or preferred pasta, fresh basil leaves, pine nuts or almonds, garlic cloves, grated parmesan cheese, lemon juice, salt, pepper, and olive oil.
+
+6. Instruction: Write the first line of a science fiction short story.
+6. Input:
+<noinput>
+6. Output:
+In the year 2235, humanity had finally unlocked the ability to communicate with parallel universes, a discovery they would soon regret.
+
+7. Instruction: Provide a summary of this news article.
+7. Input:
+The multinational tech giant, Technodrome, has announced early plans for an innovative new electric car that not only boasts a range of 1,200 miles on a single charge but is also built using revolutionary self-charging technology. The company has dedicated years of research and development to the project, with the promising prototype being unveiled earlier this week. Technodrome CEO, Emily Stone, has hinted at an estimated cost of $35,000 for the new vehicle, making it an affordable option for potential buyers. The company is currently working on regulatory approval and expects the automobile to become available to the public within the next 3-5 years.
+7. Output:
+Technodrome has unveiled an innovative electric car prototype that has a range of 1,200 miles and uses self-charging technology. CEO Emily Stone mentioned a price of $35,000, making it an affordable option. The company is seeking regulatory approval and expects it to be available to the public in 3-5 years.
+
+8. Instruction: Edit the grammar and punctuation of the given sentence.
+8. Input:
+The flowers bloomed, in the garden should have been waterd last night.
+8. Output:
+The flowers, blooming in the garden, should have been watered last night.
+
+9. Instruction: Identify the literary device used in the provided sentence.
+9. Input:
+The wind roared like a ferocious lion throughout the night.
+9. Output:
+Simile
+
+10. Instruction: Create a limerick poem about a frog.
+10. Input:
+<noinput>
+10. Output:
+There once was a frog from the bog,
+Who loved sitting on a log,
+He'd jump high and far,
+Reaching for a star,
+Hoping to avoid a sneaky dog!

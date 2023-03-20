@@ -1,0 +1,131 @@
+4. Instruction: Rank these animals in terms of their speed from fastest to slowest: Giraffe, Elephant, Gorilla, Cheetah, Kangaroo. 
+4. Input: 
+<noinput>
+4. Output: 
+Cheetah, Kangaroo, Giraffe, Gorilla, Elephant.
+
+5. Instruction: Modify the given message to use more professional language.
+5. Input: 
+Hey there! Just wanted to let you know the meeting sucked big time. I think we definitely need to look over the slides to make sure they're not super boring.
+5. Output: 
+Hello, I wanted to inform you that the meeting could have been better. I believe we should review the presentation slides to ensure they are engaging and informative.
+
+6. Instruction: Identify two possible themes of the story based on the provided summary.
+6. Input: 
+Ashley is a shy high school student who becomes an online sensation due to her incredible singing voice. As her fame grows, she struggles with maintaining her real-life friendships and navigating the pitfalls of the music industry. Along the way, she learns to embrace her talent and stand up for herself.
+6. Output: 
+1. The conflict between fame and personal relationships.
+2. Embracing one's talents and learning self-confidence.
+
+7. Instruction: Write a haiku about summer. 
+7. Input: 
+<noinput>
+7. Output: 
+Golden rays shimmer,
+Children's laughter fills the air,
+Summer warmth, a gift.
+
+8. Instruction: Analyze the provided data points and determine the overall trend. 
+8. Input: 
+Month | Sales
+---------------
+Jan   | $8,000
+Feb   | $7,500
+Mar   | $8,900
+Apr   | $9,500
+May   | $8,700
+Jun   | $10,000
+8. Output: 
+The overall trend shows that sales are consistently increasing over the given months, with a slightly lower sales figure in February.
+
+9. Instruction: Play a game of rock-paper-scissors. Choose rock, paper, or scissors.
+9. Input: 
+<noinput>
+9. Output: 
+Scissors
+
+10. Instruction: According to the given credit card statement, how much was spent on food expenses?
+10. Input: 
+Credit Card Statement:
+Shell gas station: $62.50
+Online Shopping Store: $120.56
+Pizzeria: $24.90
+Whole Foods: $88.22
+Streaming Service: $14.99
+Coffee Shop: $12.15
+10. Output: 
+$125.27 was spent on food expenses (Pizzeria and Whole Foods).
+
+11. Instruction: Compare the health benefits of cycling and swimming.
+11. Input: 
+<noinput>
+11. Output: 
+Cycling and swimming are both excellent forms of exercise. Cycling improves cardiovascular fitness, strengthens leg muscles, and is a low-impact exercise that can protect the joints. Swimming is a full-body workout that improves cardiovascular endurance, strengthens muscles, and is a low-impact activity that's gentle on the joints. Both exercises can aid in weight management and provide mental health benefits.
+
+12. Instruction: What should happen after the main character finds a mysterious diary in a haunted house?
+12. Input: 
+<noinput>
+12. Output: 
+The main character should begin reading the diary, discovering cryptic messages and clues about the house's disturbing history. As they continue to investigate, they unveil the tragic past of a former occupant and must solve a long-forgotten mystery to put the restless spirit to rest.
+
+13. Instruction: Please check the given paragraph for spelling and grammar mistakes, and correct them.13. Input: 
+As she swam across the lake, the beutiful suuroundings captured her atention. The peacfulnesse of the water was only rivald by the briliance of the colors in the sky abouve.
+13. Output: 
+As she swam across the lake, the beautiful surroundings captured her attention. The peacefulness of the water was only rivaled by the brilliance of the colors in the sky above.
+
+14. Instruction: Write a brief summary of artificial intelligence from a historical perspective.
+14. Input: 
+<noinput>
+14. Output: 
+Artificial intelligence has its roots in the early 20th century, with Alan Turing and his development of the Turing Machine. Through the 1950s and 1960s, AI research gained traction and several AI algorithms were developed. Over the next few decades, AI technologies experienced periods of progress and stagnation. In the 21st century, breakthroughs in machine learning have led to an AI renaissance, with applications in numerous industries and continued advancements in fields like natural language processing and computer vision.
+
+15. Instruction: Identify 3 potential sources of conflict within a group of coworkers in an office environment.
+15. Input: 
+<noinput>
+15. Output: 
+1. Disagreements on task allocation and prioritization.
+2. Personality clashes and communication issues among team members.
+3. Competition for promotions, recognition, or resources.
+
+16. Instruction: Find an appropriate synonym for the word "meticulous" in the context below:
+Sentence: She had a meticulous approach to her work, making sure every detail was perfect.
+16. Input: 
+<noinput>
+16. Output: 
+She had a fastidious approach to her work, making sure every detail was perfect.
+
+17. Instruction: From the information given below, determine the favorite type of workout for participants.
+17. Input: 
+Survey result:
+Yoga: 15%
+Strength training: 25%
+Cardiovascular training: 45%
+Pilates: 10%
+Other: 5%
+17. Output: 
+The participants' favorite type of workout is cardiovascular training (45%).
+
+18. Instruction: Which character from a novel appears to be motivated by self-interest and cunning?
+18. Input: 
+<noinput>
+18. Output: 
+Iago from Shakespeare's play "Othello" appears to be motivated by self-interest and cunning.
+
+19. Instruction: If the given code is a valid function for calculating compound interest, evaluate it using the provided input. If not, correct it.
+19. Input: 
+def compound_interest(principal, rate, time, compounding_rate):
+   amount = principal * (1 + rate / compounding_rate) ** (compounding_rate*time)
+   return amount
+
+Principal: $1,000
+Rate: 5%
+Time: 3 years
+Compounding Rate: 4 times a year
+19. Output: 
+$1,159.27
+
+20. Instruction: Write a persuasive sentence to encourage people to visit a local community garden.
+20. Input: 
+<noinput>
+20. Output: 
+Experience the natural beauty, tranquility, and connection to the earth by visiting our local community garden, where you can cultivate a deeper appreciation for life's simple pleasures.

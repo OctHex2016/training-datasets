@@ -1,0 +1,121 @@
+4. Instruction: Summarize the events in the given text in 1-2 sentences.
+4. Input: 
+In Pride and Prejudice by Jane Austen, the protagonist, Elizabeth Bennet, initially dislikes Darcy, a wealthy gentleman, due to his perceived arrogance. However, over time, Elizabeth learns that Darcy's actions are misunderstood, and the two develop mutual respect and love. They eventually marry, after overcoming family and societal challenges.
+4. Output: 
+Elizabeth Bennet initially dislikes Darcy for his perceived arrogance but eventually learns the truth about his actions. Through mutual respect and love, they overcome challenges and marry.
+
+###
+5. Instruction: Briefly explain the given concept:
+5. Input: 
+Impressionism
+5. Output: 
+Impressionism is an artistic movement that originated in 19th-century France, characterized by the use of short, visible brushstrokes, an emphasis on light and color, and often depicting outdoor scenes to capture fleeting moments.
+
+###
+6. Instruction: Translate the sentence into French.
+6. Input: 
+It is raining heavily outside.
+6. Output: 
+Il pleut beaucoup dehors.
+
+###
+7. Instruction: List three scientific achievements of Marie Curie.
+7. Input: 
+<noinput>
+7. Output: 
+1. Discovered two elements, Polonium and Radium. 2. Won two Nobel Prizes, one in Physics and another in Chemistry. 3. Pioneered the field of radioactivity research.
+
+###
+8. Instruction: Recommend three must-read classic novels.
+8. Input: 
+<noinput>
+8. Output: 
+1. To Kill a Mockingbird by Harper Lee. 2. Pride and Prejudice by Jane Austen. 3. 1984 by George Orwell.
+
+###
+9. Instruction: Identify the major types of the given category.
+9. Input: 
+Rocks
+9. Output: 
+Igneous, Metamorphic, and Sedimentary.
+
+###
+10. Instruction: Analyze the tone of the text and identify whether it is positive, negative, or neutral.
+10. Input: 
+The restaurant's interior design was delightful, and the dishes we ordered were incredibly delicious.
+10. Output: 
+Positive
+
+###
+11. Instruction: Correct any grammatical or spelling errors in the following text.
+11. Input: 
+Theres uv been very little evidense to sugest that these technik has been effective.
+11. Output: 
+There has been very little evidence to suggest that this technique has been effective.
+
+###
+12. Instruction: Calculate the tip for the given bill, with a tip percentage. Round your answer to the nearest dollar.
+12. Input: 
+Bill: $45.32, Tip: 15%
+12. Output: 
+$7
+
+###
+13. Instruction: Provide a synonym and an antonym for the given word.
+13. Input: 
+Difficult
+13. Output: 
+Synonym: Arduous, Antonym: Easy
+
+###
+14. Instruction: Based on the context, explain the meaning of the idiom.
+14. Input: 
+"Don't put all your eggs in one basket" means diversifying your investments.
+14. Output: 
+The idiom "Don't put all your eggs in one basket" means not to rely on a single opportunity or resource and instead, distribute your risks by having multiple alternatives.
+
+###
+15. Instruction: Generate a limerick, a short, humorous poem.
+15. Input: 
+<noinput>
+15. Output: 
+There once was a man from Peru,
+Who dreamed he was eating his shoe.
+He woke with a fright,
+In the middle of the night,
+To find that his dream had come true.
+
+###
+16. Instruction: What is the correct order of steps to perform CPR?
+16. Input: 
+<noinput>
+16. Output: 
+1. Ensure safety and call for help. 2. Check responsiveness and breathing. 3. Place hands on the chest and start compressions. 4. Open the airway and give rescue breaths. 5. Continue CPR until help arrives or the person wakes up.
+
+###
+17. Instruction: Elaborate on the main differences between a dictatorship and a democracy.
+17. Input: 
+<noinput>
+17. Output: 
+A dictatorship is an autocratic system, where power is concentrated in the hands of a single ruler or a small group, and the government exerts strict control over citizens' lives. In contrast, a democracy is a system where power is distributed among citizens, who participate in decision-making processes, have freedom of expression, and enjoy individual rights and liberties.
+
+###
+18. Instruction: Convert the temperature from Celsius to Fahrenheit.
+18. Input: 
+12°C
+18. Output: 
+53.6°F
+
+###
+19. Instruction: In the preference between cats and dogs, classify the person based on the given text.
+19. Input: 
+While I like how low-maintenance cats are, I genuinely enjoy the company of dogs more, as they are loyal and always make me happy with their playful nature.
+19. Output: 
+Dog Person
+
+###
+20. Instruction: Identify which solar system planet the given fact is about.
+20. Input: 
+It is known as the "Red Planet."
+20. Output: 
+Mars

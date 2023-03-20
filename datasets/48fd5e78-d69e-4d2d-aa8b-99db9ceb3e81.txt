@@ -1,0 +1,132 @@
+4. Instruction: Rewrite the following sentence in a more formal tone.
+4. Input: 
+I can't get enough of their killer tunes, man.
+4. Output: 
+I find their music exceptionally enjoyable and captivating.
+
+5. Instruction: Determine if the given statement is a fact or an opinion.
+5. Input: 
+The Great Wall of China is the longest wall in the world.
+5. Output: 
+Fact
+
+6. Instruction: Provide a synonym for the selected word in the context of the given sentence.
+6. Input: 
+Word: messy
+Sentence: Her room was always so messy.
+6. Output: 
+disorganized
+
+7. Instruction: Correct any grammar or spelling errors in the following sentence.
+7. Input: 
+Discovering the live of others always fascinated her.
+7. Output: 
+Discovering the lives of others always fascinated her.
+
+8. Instruction: Calculate the given mathematical expression.
+8. Input: 
+3 * (4 + 5)
+8. Output: 
+27
+
+9. Instruction: Summarize the following text.
+9. Input: 
+Maria is one of the few female engineers at her company. Throughout her career, she has always faced doubts and prejudices about her abilities. While this bothered her at first, she used it as motivation to work harder and prove herself. Through her perseverance and determination, Maria earned multiple promotions and is now considered one of the best engineers at her company.
+9. Output: 
+Maria, a female engineer, faced challenges and prejudices in her career. She used these obstacles as motivation to work harder, ultimately earning numerous promotions and recognition as a top engineer in her company.
+
+10. Instruction: Translate the following sentence into German.
+10. Input: 
+Can you help me find the nearest grocery store, please?
+10. Output: 
+Können Sie mir bitte helfen, den nächsten Lebensmittelladen zu finden?
+
+11. Instruction: Identify the literary device used in the following sentence.
+11. Input: 
+Her voice was like a soft, silky whisper.
+11. Output: 
+Simile
+
+12. Instruction: Provide a short analysis of the given poem.
+12. Input: 
+The Road Not Taken by Robert Frost
+
+Two roads diverged in a yellow wood,
+And sorry I could not travel both
+And be one traveler, long I stood
+And looked down one as far as I could
+To where it bent in the undergrowth;
+
+Then took the other, as just as fair,
+And having perhaps the better claim,
+Because it was grassy and wanted wear;
+Though as for that the passing there
+Had worn them really about the same,
+
+And both that morning equally lay
+In leaves no step had trodden black.
+Oh, I kept the first for another day!
+Yet knowing how way leads on to way,
+I doubted if I should ever come back.
+
+I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I—
+I took the one less traveled by,
+And that has made all the difference.
+12. Output: 
+"The Road Not Taken" by Robert Frost delves into the idea of choices and their consequences. The poem touches on the theme of individuality as the narrator reflects on his decision to take the road less traveled, highlighting the idea that taking a different path can lead to personal growth and fulfillment. The poem demonstrates the difficulty and uncertainty of making choices while acknowledging that each choice ultimately shapes our lives.
+
+13. Instruction: Identify the mentioned fallacy in the following argument.
+13. Input: 
+If we allow gay marriage, then people will start marrying their dogs, and society will collapse.
+13. Output: 
+Slippery slope
+
+14. Instruction: Define the term provided.
+14. Input: 
+Photosynthesis
+14. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into oxygen and glucose, which serves as an energy source for these organisms.
+
+15. Instruction: Provide a fun fact about the given topic.
+15. Input: 
+Pizza
+15. Output: 
+The world's largest pizza was created in Rome, Italy, in 2012, and measured 13,580 square feet.
+
+16. Instruction: Name the capitals of the following countries.
+16. Input: 
+Spain, Greece, Argentina
+16. Output: 
+Spain: Madrid
+Greece: Athens
+Argentina: Buenos Aires
+
+17. Instruction: Explain the main difference between the terms provided.
+17. Input: 
+Weather vs climate
+17. Output: 
+Weather refers to the short-term atmospheric conditions, such as temperature, humidity, and precipitation, at a specific location. Climate, on the other hand, is the long-term average of weather patterns in a particular region over a significant period of time, usually 30 years or more.
+
+18. Instruction: Break down given text into its key points.
+18. Input: 
+Diversity and inclusion at the workplace are becoming important factors for businesses, as they can directly impact employees' job satisfaction, productivity, and company revenues. Having a diverse workforce fosters innovation and creativity, as employees from different backgrounds can bring unique perspectives and ideas to the table. Additionally, promoting inclusion helps reduce turnover rates, leading to a stable and experienced workforce that contributes to the company's success.
+18. Output: 
+1. Diversity and inclusion influence job satisfaction, productivity, and revenues.
+2. A diverse workforce encourages innovation and creativity.
+3. Inclusion reduces turnover, contributing to a stable workforce.
+
+19. Instruction: List three key benefits of the item.
+19. Input: 
+Solar panels
+19. Output: 
+1. Renewable energy source
+2. Reduces electricity bills
+3. Low maintenance and environmental impact
+
+20. Instruction: Briefly describe the life cycle of a butterfly.
+20. Input: 
+<noinput>
+20. Output: 
+The butterfly's life cycle comprises four stages: egg, larva (caterpillar), pupa (chrysalis), and adult butterfly. The adult butterfly lays eggs on a host plant, which hatch into caterpillars. The caterpillars feed on the host plant and grow until they form a chrysalis. Inside the chrysalis, the caterpillar undergoes metamorphosis, eventually emerging as a fully-formed adult butterfly. This transformation, from egg to adult, is called complete metamorphosis.

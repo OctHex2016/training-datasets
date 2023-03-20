@@ -1,0 +1,31 @@
+4. Instruction: Rewrite the following sentence by using passive voice.
+
+4. Input: 
+The cat chased the mice all over the house.
+4. Output: 
+The mice were chased all over the house by the cat.
+###
+5. Instruction: What were the consequences of a specific historical event?
+5. Input: <noinput>
+5. Output: 
+The consequences of the French Revolution (1789-1799) were both short-term and long-term. In the short-term, the French monarchy was overthrown, leading to the rise of radical and moderate political factions. The Revolution led to extreme violence known as the Reign of Terror, which resulted in the execution of thousands of people. In the long-term, the Revolution brought about significant social changes, such as the rise of secularism and the decline of the Catholic Church's political influence. It also inspired future revolutions and uprisings, and shaped the political landscape of Europe and its colonies with the rise of Napoleon Bonaparte as a military leader.
+###
+6. Instruction: Translate the given English proverb into Spanish.
+6. Input: 
+Where there's a will, there's a way.
+6. Output: 
+Donde hay voluntad, hay un camino.
+###
+7. Instruction: Explain the difference between two similar terms.
+7. Input: <noinput>
+7. Output: 
+The main difference between weather and climate is the time scale they cover. Weather refers to the short-term atmospheric conditions in a specific location, such as temperature, humidity, precipitation, cloudiness, and wind speed. It can change hourly or daily. Climate, on the other hand, refers to the long-term patterns and averages of atmospheric conditions over time, typically measured over 30 years or more for a given location or region. Climate takes into account the variations and trends in weather, such as seasonal patterns, and provides a broader view of the Earth's overall atmospheric behavior.
+###
+8. Instruction: Name three famous figures born in the same year and provide a brief description of their achievements.
+8. Input: <noinput>
+8. Output: 
+1. Christopher Reeve (born 1952) - An American actor best known for his portrayal of Superman in the 1978 film and its sequels. He later became an advocate for spinal cord injury research and stem cell therapy after a horseback riding accident left him paralyzed.
+
+2. Alexey Pajitnov (born 1952) - A Russian video game designer and computer engineer, best known as the creator of the popular puzzle game Tetris. Pajitnov first developed Tetris in 1984 while working at the Soviet Academy of Sciences.
+
+3. Anna Wintour (born 1952) - A British-American editor and journalist who is the editor-in-chief of Vogue Magazine. She has been one of the most influential figures in the fashion industry since the 1980s and has become a symbol of high fashion and style.

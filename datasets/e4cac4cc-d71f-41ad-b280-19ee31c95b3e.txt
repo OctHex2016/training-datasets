@@ -1,0 +1,106 @@
+4. Instruction: Find grammatical errors and correct them in the given text.
+4. Input: 
+Despite the rising costs of tuition, there are many reason I believe a college education is still valuable. Firstly, college graduations, on averages, earn significantly more than those who didn't complete a college education.
+4. Output: 
+Despite the rising costs of tuition, there are many reasons I believe a college education is still valuable. Firstly, college graduates, on average, earn significantly more than those who didn't complete a college education.
+
+5. Instruction: Describe the key components of a specific genre of your choice.
+5. Input: 
+<noinput>
+5. Output: 
+Dystopian fiction: Key components include a repressive and controlling government or organization, an alternative reality or future, widespread decline in living conditions, a protagonist who challenges the status quo, a theme of rebellion and resistance, the presence of surveillance and manipulation, loss of individual freedoms, and a stark contrast between the privileged and unprivileged classes.
+
+6. Instruction: Explain which company has higher revenue based on the given information.
+6. Input: 
+Company A had sales of $5 million in products, whereas Company B had $6 million in product sales. However, Company A had an additional 2 million dollars in service revenue.
+6. Output: 
+Company A has higher revenue as they have $7 million in total revenue ($5 million in product sales and $2 million in service revenue) compared to Company B's $6 million in product sales.
+
+7. Instruction: Provide a translation of the given text in French.
+7. Input: 
+This morning, I woke up to the melody of birds singing.
+7. Output: 
+Ce matin, je me suis réveillé au mélodie des oiseaux qui chantent.
+
+8. Instruction: Write a haiku about autumn.
+8. Input: 
+<noinput>
+8. Output: 
+Golden leaves flutter,
+Cool breeze whispers to branches,
+Autumn's warmth arrives.
+
+9. Instruction: Provide advice on how to reduce stress in daily life.
+9. Input: 
+<noinput>
+9. Output: 
+To reduce stress in daily life, consider practicing mindfulness and relaxation techniques, such as meditation or deep breathing exercises. Prioritize self-care by getting regular exercise, eating nutritious meals, and ensuring adequate sleep. Set realistic goals and break tasks into smaller, manageable steps. Make time for hobbies and socializing with friends and family. Finally, consider seeking professional help, such as therapy or counseling, to discuss your individual needs and concerns.
+
+10. Instruction: Identify the thesis statement in the given text.
+10. Input: 
+While fossil fuels continue to be one of the primary sources of energy, they are not a sustainable long-term solution due to their impact on the environment and dwindling resources. One path to a cleaner and brighter future is to invest in the development of renewable energy sources, such as wind, solar, and hydroelectric power. These sources not only offer an alternative to depleting fossil fuels but also contribute to a reduction in greenhouse gas emissions, a significant factor in climate change. The shift toward renewable energy sources is an essential step in the global effort to mitigate environmental damage and ensure energy security for future generations.
+10. Output: 
+The shift toward renewable energy sources is an essential step in the global effort to mitigate environmental damage and ensure energy security for future generations.
+
+11. Instruction: Summarize the given article in a few sentences.
+11. Input: 
+Shares of the electric car manufacturer Tesla surged more than 20% on Monday after its fourth quarter earnings report revealed strong revenue growth and a significant increase in vehicle production. This brings Tesla's market value above $150 billion, which now makes it the second most valuable car company in the world, trailing only Toyota. The report also highlighted Tesla's expansion into international markets, including the construction of a new Gigafactory in Germany and increased sales in China. CEO Elon Musk announced that the company expects to deliver more than 500,000 electric vehicles in 2020.
+11. Output: 
+Tesla's stock jumped by over 20% after a positive Q4 earnings report, propelling the company to the rank of the second most valuable car maker in the world. The report emphasized strong revenue growth, increased vehicle production, and international expansion, including a new Gigafactory in Germany and rising sales in China. Tesla aims to deliver more than 500,000 electric vehicles in 2020.
+
+12. Instruction: Consider both sides of the debate and present an argument for and against a given topic.
+12. Input: 
+Animal testing in scientific research
+12. Output: 
+For: Animal testing has contributed significantly to advances in medicine and scientific understanding, leading to the development of new treatments and therapies for numerous diseases. Using animals in research allows scientists to safely and ethically test drugs and treatments before they reach human trials, potentially reducing risk and harm to humans.
+
+Against: Animal testing raises ethical concerns about the unnecessary suffering and harm inflicted upon animals for human benefit. Additionally, differences in animal physiology may produce results that do not accurately predict human responses to drugs and treatments, leading to ineffective or harmful consequences.
+
+13. Instruction: Convert the given text from first-person to third-person point of view.
+13. Input: 
+I can't believe I forgot to buy milk at the store. Now, I'll have to go back and face the long lines.
+13. Output: 
+He can't believe he forgot to buy milk at the store. Now, he'll have to go back and face the long lines.
+
+14. Instruction: Analyze the given list of items and determine what category they belong to.
+14. Input: 
+Romeo and Juliet, Hamlet, Othello, Macbeth
+14. Output: 
+Shakespearean tragedies
+
+15. Instruction: Write a short paragraph providing a basic explanation of a scientific phenomenon.
+15. Input: 
+<noinput>
+15. Output: 
+The process of photosynthesis is a chemical reaction that occurs in plants, allowing them to convert sunlight into usable energy. Through this reaction, plants are able to take in carbon dioxide and water, and under the presence of sunlight, convert these molecules into glucose (sugar) and oxygen. The glucose serves as a source of energy for the plant's growth and metabolic processes, while the oxygen produced is released into the atmosphere, contributing to the air we breathe.
+
+16. Instruction: Detect and correct the misspelled word in the given sentence.
+16. Input: 
+The architechure of the building was truly breathtaking.
+16. Output: 
+The architecture of the building was truly breathtaking.
+
+17. Instruction: Elaborate on a character's emotions based on the given context.
+17. Input: 
+She had been working on the project for months, and now it had all been ruined.
+17. Output: 
+She felt an intense mixture of emotions, including frustration, shock, and heartache. Her hard work and dedication had been poured into the project, only for it to be carelessly destroyed. The disappointment weighed heavily on her, leaving her struggling to process the devastating outcome.
+
+18. Instruction: Describe the potential challenges faced by businesses during an economic recession.
+18. Input: 
+<noinput>
+18. Output: 
+During an economic recession, businesses may face several challenges, including decreased consumer spending, tightened credit markets, increased competition for customers, reduced access to financing, difficulty in managing inventories, and potential increases in taxes or government regulations. These challenges can lead to declining sales and revenue, reduced profits, workforce layoffs, and potential business closures or bankruptcies.
+
+19. Instruction: Provide a concise definition of the given term.
+19. Input: 
+opportunity cost
+19. Output: 
+Opportunity cost is the value of the next best alternative that is forgone when making a decision, representing the potential benefits an individual or business misses out on when choosing one option over another.
+
+20. Instruction: Choose the most suitable narrative point of view for the given writing prompt and provide an example sentence.
+20. Input: 
+A detective trying to solve a high-profile murder case, while dealing with their own personal struggles.
+20. Output: 
+First-person point of view: "As I sifted through the evidence, trying to piece together the puzzle of this high-profile murder case, I couldn't help but be haunted by my own demons - a constant reminder of the heavy burden I carried."
+

@@ -1,0 +1,51 @@
+4. Instruction: There is a mistake in the following sentences. Edit the text and correct it.
+4. Input:
+The cat are sleeping on the couch.
+She doesn't liked playing outside.
+4. Output:
+The cat is sleeping on the couch.
+She doesn't like playing outside.
+###
+5. Instruction: Read the following ingredients list and then answer whether you can make a serving of guacamole according to the given recipe.
+5. Input: 
+2 ripe avocados
+1/2 teaspoon Kosher salt
+1 tablespoon fresh lime juice or lemon juice
+2 tablespoons to 1/4 cup minced red onion
+2 tablespoons chopped cilantro
+1/2 ripe tomatoes, seeds and pulp removed, chopped
+1-garlic clove-minced
+1 pinch ground cumin
+
+Recipe:
+Mash avocados, mix together avocado, salt, lime juice, onion, cilantro, tomato, garlic, and cumin.
+Question: Can you make guacamole with this recipe?
+5. Output: 
+Yes, you can make guacamole with this recipe.
+###
+6. Instruction: Identify the literary device used in the example sentence.
+6. Input: 
+The world is a stage where we play our parts.
+6. Output: 
+Metaphor
+###
+7. Instruction: Summarize the benefits of learning a second language.
+7. Input: <noinput>
+7. Output:
+Learning a second language enhances cognitive skills, improves employability, broadens cultural understanding, increases social opportunities, and can benefit personal growth and self-confidence.
+###
+8. Instruction: Compare and contrast two philosophical views, utilitarianism and deontological ethics.
+8. Input: <noinput>
+8. Output: 
+Utilitarianism is an ethical theory that focuses on maximizing overall happiness or well-being, while deontological ethics is based on following a set of moral rules or duties. Utilitarianism is often consequentialist, as it evaluates actions by their outcomes, whereas deontology judges actions by their inherent nature or adherence to moral principles.
+###
+9. Instruction: Round the following number to the nearest whole number.
+9. Input: 
+4.6 = _____
+9. Output:
+4.6 = 5
+###
+10. Instruction: Explain the greenhouse effect in simple terms.
+10. Input: <noinput>
+10. Output:
+The greenhouse effect is a natural process where gases in the Earth's atmosphere, like carbon dioxide and water vapor, trap heat from the sun, warming the planet. This effect is important for maintaining the Earth's habitable temperature. However, human activities, such as burning fossil fuels, have increased greenhouse gas concentrations, amplifying the effect and contributing to global warming.

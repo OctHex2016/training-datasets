@@ -1,0 +1,163 @@
+4. Instruction: Generate a brief summary of a given news article.
+4. Input: 
+Article: https://edition.cnn.com/2022/02/28/us/derek-chauvin-appeal-hearing/index.html
+4. Output: 
+Former Police Officer Derek Chauvin's appeal hearing started today in Minneapolis. Chauvin, who was convicted of second-degree murder, third-degree murder, and second-degree manslaughter for the death of George Floyd, is asking for a new trial on multiple grounds. Chauvin's legal team is arguing that the court made multiple errors during the trial. 
+###
+5. Instruction: Re-phrase the given sentence more politely 
+5. Input: 
+Sentence: You are talking too loud.
+5. Output: 
+Could you please lower your voice a bit?
+###
+6. Instruction: Suggest some popular Italian wines.
+6. Input: 
+<noinput>
+6. Output: 
+- Chianti Classico Riserva
+- Barbaresco
+- Brunello di Montalcino
+- Amarone della Valpolicella
+- Barolo
+- Vermentino
+- Nero d'Avola 
+- Moscato d'Asti
+- Franciacorta 
+- Soave
+###
+7. Instruction: Correct the spelling mistake in the given sentence.  
+7. Input: 
+Sentence: I wll meet you at the restaurant.
+7. Output: 
+I will meet you at the restaurant.
+###
+8. Instruction: Provide some useful tips to relieve stress. 
+8. Input: 
+<noinput>
+8. Output: 
+- Practice mindfulness and deep breathing exercises.
+- Exercise regularly.
+- Avoid caffeine, alcohol and nicotine.
+- Get enough sleep.
+- Learn time-management techniques.
+- Connect with friends and family.
+- Take a break from technology.
+- Listen to relaxing music.
+- Take a hot bath.
+###
+9. Instruction: Identify the country where a given city is located.
+9. Input: 
+City: Amsterdam
+9. Output: 
+The Netherlands.
+###
+10. Instruction: Generate a rhyming word for the given word. 
+10. Input: 
+Word: Cat
+10. Output: 
+Mat.
+###
+11. Instruction: Provide some Japanese words related to food.
+11. Input: 
+<noinput>
+11. Output: 
+- Sushi
+- Ramen
+- Udon
+- Miso soup
+- Yakitori
+- Tempura
+- Gyoza
+- Sashimi 
+- Okonomiyaki
+###
+12. Instruction: Suggest some methods to increase productivity while working from home.
+12. Input: 
+<noinput>
+12. Output: 
+- Create a designated workspace.
+- Make a to-do list.
+- Set boundaries with family and friends.
+- Take short breaks.
+- Use productivity apps.
+- Limit time on social media.
+- Avoid multitasking.
+- Reward yourself.
+- Communicate with your colleagues.
+- Take care of your well-being.
+###
+13. Instruction: Complete the given sentence with the appropriate word from the options.
+13. Input: 
+Sentence: The ____ is the smallest unit of memory in a computer.
+Options: byte, bit, pixel, megabyte
+13. Output: 
+The bit is the smallest unit of memory in a computer.
+###
+14. Instruction: Suggest some tourist attractions in a given city. 
+14. Input: 
+City: Paris
+14. Output: 
+- Eiffel Tower
+- Louvre Museum
+- Champs-Elysées Avenue
+- Arc de Triomphe
+- Notre-Dame Cathedral
+- Palace of Versailles
+- Musée d'Orsay
+- Sacré-Coeur Basilica
+- Sainte-Chapelle
+- Montmartre 
+###
+15. Instruction: Fix the grammar mistake in the given sentence. 
+15. Input: 
+Sentence: Me and him went to the movies last night. 
+15. Output: 
+He and I went to the movies last night.
+###
+16. Instruction: Provide some examples of popular TV shows in a given genre. 
+16. Input: 
+Genre: True crime
+16. Output: 
+- Making a Murderer
+- The Jinx
+- The Night Stalker
+- Tiger King
+- Forensic Files
+- Conversations with a Killer: The Ted Bundy Tapes
+- I'll Be Gone in the Dark
+- The Innocence Files
+- Evil Genius
+- The Menendez Murders: Erik Tells All
+### 
+17. Instruction: Identify the meaning of the given word. 
+17. Input: 
+Word: exacerbate
+17. Output: 
+to make something worse.
+###
+18. Instruction: Provide some tips to improve focus and concentration. 
+18. Input: 
+<noinput>
+18. Output: 
+- Create a conducive environment.
+- Break down tasks into smaller chunks.
+- Stay organized.
+- Avoid multitasking.
+- Exercise or do physical activities.
+- Stay hydrated.
+- Take breaks regularly.
+- Meditate or do breathing exercises.
+- Avoid distractions.
+- Get enough sleep.
+###
+19. Instruction: Correct the punctuation mistake in the given sentence. 
+19. Input: 
+Sentence: My favorite foods are pizza pasta and salad. 
+19. Output: 
+My favorite foods are pizza, pasta, and salad.
+###
+20. Instruction: Generate some synonyms of the given word. 
+20. Input: 
+Word: lazy
+20. Output: 
+idle, slothful, indolent, sluggish, lethargic, inactive, inert, languid, listless, torpid.

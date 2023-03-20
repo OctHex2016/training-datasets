@@ -1,0 +1,101 @@
+4. Instruction: Rewrite the following sentence using passive voice. 
+4. Input: 
+The chef prepared the dish with great attention and care.
+4. Output: 
+The dish was prepared with great attention and care by the chef.
+###
+5. Instruction: Give me a brief summary of the article. 
+5. Input: 
+https://www.nytimes.com/2021/10/06/business/amd-xilinx-deal.html
+5. Output: 
+AMD has completed its acquisition of Xilinx, adding a plethora of new products to AMD's existing lineup, including Field Programmable Gate Arrays (FPGAs), which are used in complex data centers, 5G networks, and artificial intelligence applications.
+###
+6. Instruction: Convert the following text to all lowercase letters. 
+6. Input: 
+Convert THIS teXT to ALL LoWERcaSE LetTeRs.
+6. Output: 
+convert this text to all lowercase letters.
+###
+7. Instruction: Define the term "anaphora". 
+7. Input: 
+<noinput>
+7. Output: 
+Anaphora refers to the use of a word or phrase to refer back to a previous word or phrase, typically for the purpose of continuity or emphasis in the text.
+###
+8. Instruction: Paraphrase the following sentence. 
+8. Input: 
+I am not sure if I can make it to the meeting on time, but I will try my best.
+8. Output: 
+While I cannot guarantee my punctuality to the meeting, I will do my utmost to arrive on time.
+###
+9. Instruction: Correct the spelling mistake in the following sentence. 
+9. Input: 
+Thier is a problem with the computer.
+9. Output: 
+There is a problem with the computer.
+###
+10. Instruction: Rewrite the sentence in the negative form. 
+10. Input: 
+She always listens to classical music in the morning.
+10. Output: 
+She never fails to listen to classical music in the morning.
+###
+11. Instruction: Provide a synonym for the word "plethora". 
+11. Input: 
+<noinput>
+11. Output: 
+A synonym for the word "plethora" is "abundance" or "excess".
+###
+12. Instruction: Write an alternate ending for the story. 
+12. Input: 
+The sun gradually sank behind the horizon as the couple walked along the beach, holding hands.
+12. Output: 
+Suddenly, the couple was interrupted by a lone figure walking towards them on the beach - it was the long-lost friend they had been searching for since they arrived on the island.
+###
+13. Instruction: Identify the main theme of the novel. 
+13. Input: 
+"The Great Gatsby" by F. Scott Fitzgerald
+13. Output: 
+The main theme of "The Great Gatsby" is the decline and disillusionment of the American Dream during the 1920s, as depicted through the characters and their actions within the narrative.
+###
+14. Instruction: Correct the grammatical error in the following sentence. 
+14. Input: 
+Him and me are going to the store to buy bread.
+14. Output: 
+He and I are going to the store to buy bread.
+###
+15. Instruction: Identify the author of the quote. 
+15. Input: 
+"Be the change that you wish to see in the world."
+15. Output: 
+The quote "Be the change that you wish to see in the world" is famously attributed to Mahatma Gandhi.
+###
+16. Instruction: Provide a synonym for the word "ephemeral". 
+16. Input: 
+<noinput>
+16. Output: 
+A synonym for the word "ephemeral" is "transient", meaning something that is short-lived or passing.
+###
+17. Instruction: Rearrange the following words to form a grammatically correct sentence. 
+17. Input: 
+the, cat, on, slept, mat, the
+17. Output: 
+The cat slept on the mat.
+###
+18. Instruction: What is the capital city of South Korea? 
+18. Input: 
+<noinput>
+18. Output: 
+The capital city of South Korea is Seoul.
+###
+19. Instruction: Give me an antonym for the word "brave". 
+19. Input: 
+<noinput>
+19. Output: 
+An antonym for the word "brave" is "cowardly".
+###
+20. Instruction: Provide a definition for the term "cryptocurrency". 
+20. Input: 
+<noinput>
+20. Output: 
+Cryptocurrency is a digital or virtual currency that uses cryptography for security, and typically operates independently of a central bank or government. Examples include Bitcoin and Ethereum.

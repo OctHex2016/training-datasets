@@ -1,0 +1,154 @@
+4. Instruction: Convert the given passage from third person to first-person point of view.
+4. Input: 
+John began his day with a healthy breakfast. He went to the gym for his daily workout, followed by a hectic day at work. After work, John met with some of his friends for dinner, and they shared stories about their daily lives.
+4. Output: 
+I began my day with a healthy breakfast. I went to the gym for my daily workout, followed by a hectic day at work. After work, I met with some of my friends for dinner, and we shared stories about our daily lives.
+
+5. Instruction: Translate the given English text into French.
+5. Input: 
+Please find enclosed my resume and cover letter for the position advertised. I look forward to the opportunity to speak with you further regarding my qualifications. Thank you for your time and consideration.
+5. Output: 
+Veuillez trouver ci-joint mon CV et ma lettre de motivation pour le poste annoncé. Je suis enthousiaste à l'idée de discuter de mes qualifications avec vous. Merci pour votre temps et votre considération.
+
+6. Instruction: What is the capital city of the mentioned country?
+6. Input: 
+<noinput>
+6. Output: 
+Please provide the name of the country for which you want to know the capital city.
+
+7. Instruction: Rewrite the given sentence in passive voice.
+7. Input: 
+The dog ate the bone.
+7. Output: 
+The bone was eaten by the dog.
+
+8. Instruction: Identify and correct any grammar mistakes in the following text. 
+8. Input: 
+Their going to the movies this Saturday with they're friends, your invited as well.
+8. Output: 
+They're going to the movies this Saturday with their friends; you're invited as well.
+
+9. Instruction: Create a short, rhyming quatrain poem about nature.
+9. Input: 
+<noinput>
+9. Output: 
+In the gentle woodland breeze,
+Whisper songs, the rustling trees,
+Blooms of colors, nature's treasure,
+Life's pure beauty, beyond measure.
+
+10. Instruction: Given the available balance, calculate the amount withdrawn and output the final balance.
+10. Input: 
+Available balance: $500
+Withdrawal: $120
+10. Output: 
+Amount withdrawn: $120
+Final balance: $380
+
+11. Instruction: List five popular programming languages.
+11. Input: 
+<noinput>
+11. Output: 
+1. Python
+2. JavaScript
+3. Java
+4. C++
+5. C#
+
+12. Instruction: Write a brief thank you email to a customer for their positive feedback.
+12. Input: 
+<noinput>
+12. Output: 
+Subject: Thank You for Your Positive Feedback
+
+Dear Customer,
+
+Thank you for taking the time to provide us with your positive feedback. We are delighted to hear that you had a great experience with our product/service. Your satisfaction is our top priority, and your input helps us to continually improve.
+
+We appreciate your support and look forward to serving you again soon.
+
+Warm regards,
+[Your Name]
+[Company Name]
+
+13. Instruction: Explain the difference between simile and metaphor.
+13. Input: 
+<noinput>
+13. Output: 
+A simile is a figure of speech that directly compares two different things, typically by using the words 'like' or 'as', to emphasize a shared quality or characteristic. For example: "He was strong like an ox."
+
+A metaphor is a figure of speech which indirectly compares two different things by saying one thing is another, representing a shared quality or characteristic without using the words 'like' or 'as'. For example: "He was an ox of a man."
+
+14. Instruction: Who was the third President of the United States?
+14. Input: 
+<noinput>
+14. Output: 
+The third President of the United States was Thomas Jefferson.
+
+15. Instruction: Write a complaint letter to a company regarding a defective product you received.
+15. Input: 
+<noinput>
+15. Output: 
+[Your Name]
+[Your Street Address]
+[City, State, ZIP Code]
+[Phone Number]
+[Email address]
+[Date]
+
+[Company Name]
+[Attn: Customer Service Department]
+[Street Address]
+[City, State, ZIP Code]
+
+Dear Customer Service Team,
+
+I am writing to inform you that I received a defective product from your company. I purchased the [Product Name] on [Date of Purchase] with order number [Order Number]. Upon opening the package and attempting to use the product, I discovered that [explain the defect].
+
+I am extremely disappointed as I expected a quality product from your company. I request a prompt resolution to this issue. Please provide me with either a replacement of the same product or a full refund of my purchase price. I am also enclosing a copy of my proof of purchase for your reference.
+
+I look forward to your prompt response and resolution of this matter. Please contact me within five business days at the email or phone number provided.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+[Your Name]
+
+16. Instruction: Define "cryptocurrency" and explain briefly how it works.
+16. Input: 
+<noinput>
+16. Output: 
+Cryptocurrency is a digital or virtual form of currency that uses cryptography for security and operates on a decentralized technology called blockchain. It works through a network of computers, called nodes, which validate and record transaction data in the form of digital ledgers. This decentralized nature provides increased security and reduces the need for central authorities like banks to oversee transactions.
+
+17. Instruction: What type of work is an "8-bit RPG"?
+17. Input: 
+<noinput>
+17. Output: 
+An "8-bit RPG" is a type of video game that features role-playing elements, such as character development, exploration, and quest completion, while using 8-bit graphics reminiscent of early game consoles like the Nintendo Entertainment System. The term "8-bit" refers to the simple pixel art style and limited color palette typical of games from that era.
+
+18. Instruction: Identify the literary device used in the following sentence: "The walls whispered secrets as the wind blew through the empty house."
+18. Input: 
+<noinput>
+18. Output: 
+The literary device used in the sentence is personification. It attributes human qualities ("whispered secrets") to inanimate objects (the walls).
+
+19. Instruction: List three main components of the air we breathe.
+19. Input: 
+<noinput>
+19. Output: 
+1. Nitrogen
+2. Oxygen
+3. Argon
+
+20. Instruction: Provide two advantages and two disadvantages of using nuclear energy for electricity generation.
+20. Input: 
+<noinput>
+20. Output: 
+Advantages: 
+1. Low greenhouse gas emissions: Nuclear energy emits significantly fewer greenhouse gases compared to fossil fuels, reducing its contribution to climate change.
+2. High energy density: Nuclear power plants require a relatively small amount of fuel to generate large amounts of energy, so they are capable of providing consistent, reliable electricity.
+
+Disadvantages:
+1. Radioactive waste: The disposal and management of radioactive waste produced by nuclear power plants poses significant environmental and safety challenges.
+2. High initial costs: Establishing a nuclear power plant requires high initial investment costs, which can be a drawback compared to other renewable energy sources, such as solar or wind power, which may have lower upfront costs.

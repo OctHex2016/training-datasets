@@ -1,0 +1,140 @@
+4. Instruction: Translate the following sentence from English to French.
+4. Input: 
+I love spending time with my family on weekends.
+4. Output: 
+J'aime passer du temps avec ma famille les week-ends.
+
+###
+5. Instruction: Can you explain the difference between a simile and a metaphor?
+5. Input: 
+<noinput>
+5. Output: 
+A simile is a figure of speech that compares two different things using the words "like" or "as." A metaphor, on the other hand, is a figure of speech that describes one thing as if it were another, without using "like" or "as." Similes make explicit comparisons, while metaphors make implicit comparisons.
+
+###
+6. Instruction: Rewrite the following sentence without using gerunds (-ing words):
+6. Input: 
+Smoking cigarettes is harmful to your health.
+6. Output: 
+Smoking cigarettes harms your health.
+
+###
+7. Instruction: Classify the following animals as vertebrates or invertebrates.
+7. Input: 
+Butterfly, dolphin, spider, frog
+7. Output: 
+Butterfly: Invertebrate
+Dolphin: Vertebrate
+Spider: Invertebrate
+Frog: Vertebrate
+
+###
+8. Instruction: Rearrange the following words into a coherent sentence.
+8. Input: 
+desk a at sitting she is
+8. Output: 
+She is sitting at a desk.
+
+###
+9. Instruction: Write a meal plan for a vegan for one day.
+9. Input: 
+<noinput>
+9. Output: 
+Breakfast: Overnight oats topped with berries
+Lunch: Chickpea salad sandwich with carrots and hummus on the side
+Snack: Apple slices with almond butter
+Dinner: Spaghetti squash with vegan marinara sauce and roasted vegetables
+
+###
+10. Instruction: Provide a brief explanation of how natural selection works.
+10. Input: 
+<noinput>
+10. Output: 
+Natural selection is the process by which the best adapted organisms in a population survive and reproduce, leading to the traits that make them well adapted becoming more common in successive generations. Over time, this can result in a population evolving to be better suited to its environment.
+
+###
+11. Instruction: Write a paragraph describing a serene beach setting.
+11. Input: 
+<noinput>
+11. Output: 
+The sun peeked through a gentle veil of clouds, casting a soft, golden glow upon the serene shoreline. Waves lapped against the pristine, white sand, leaving behind traces of delicate, frothy lace as they retreated back to depths. Tall, swaying palm trees whispered in harmony with the gentle sea breeze, creating an atmosphere of perfect tranquility. Seagulls danced above in the clear sky, their melodic calls blending seamlessly with the ebb and flow of the rhythmic tide. The tranquil setting seemed like a painted dreamscape that could wash away the weariness of the world.
+
+###
+12. Instruction: Correct the punctuation errors in the following sentence:
+12. Input: 
+I bought an apple, banana and grapes: I also purchased milk bread and eggs.
+12. Output: 
+I bought an apple, banana, and grapes; I also purchased milk, bread, and eggs.
+
+###
+13. Instruction: Explain the difference between renewable and non-renewable energy resources.
+13. Input: 
+<noinput>
+13. Output: 
+Renewable energy resources are those that can be replenished indefinitely or within a human timescale, such as solar, wind, and hydroelectric power. Non-renewable energy resources, on the other hand, are derived from finite sources that will eventually be depleted, such as fossil fuels (coal, oil, and natural gas) and nuclear fuels.
+
+###
+14. Instruction: Identify the poetic devices used in the following line: "I wandered lonely as a cloud, that floats on high o'er vales and hills."
+14. Input: 
+<noinput>
+14. Output: 
+Simile (lonely as a cloud), personification (cloud wandering lonely), and metaphor (cloud floating over valleys and hills).
+
+###
+15. Instruction: Write a happy birthday message for a friend turning 30.
+15. Input: 
+<noinput>
+15. Output: 
+Happy 30th birthday, [friend's name]! Cheers to a fabulous new decade filled with growth, love, and adventure. May this year be your best one yet, surrounded by the warmth of friendship and the joy of new experiences. Here's to making unforgettable memories together. Enjoy your special day!
+
+###
+16. Instruction: Develop an itinerary for a 3-day sightseeing trip to Paris.
+16. Input: 
+<noinput>
+16. Output: 
+Day 1:
+- Morning: Visit the Eiffel Tower and enjoy the view from the top
+- Afternoon: Explore the Louvre Museum
+- Evening: Take a romantic Seine River cruise
+
+Day 2:
+- Morning: Explore Montmartre and visit the Sacré-Cœur Basilica
+- Afternoon: Discover the impressive Notre-Dame Cathedral
+- Evening: Attend a live show at the Moulin Rouge or a classical concert
+
+Day 3:
+- Morning: Visit the Palace of Versailles and its beautiful gardens
+- Afternoon: Stroll through the Jardin du Luxembourg
+- Evening: Relax at a local café, and then take a walk along the Champs-Élysées
+
+###
+17. Instruction: Convert the following active voice sentence to passive voice.
+17. Input: 
+The dog chased the cat.
+17. Output: 
+The cat was chased by the dog.
+
+###
+18. Instruction: Describe the process of photosynthesis in plants.
+18. Input: 
+<noinput>
+18. Output: 
+Photosynthesis is the process by which plants convert light energy from the sun into chemical energy in the form of glucose. During photosynthesis, green plants absorb sunlight and carbon dioxide from the atmosphere and water from the soil through their roots. With the help of chlorophyll, which is present within chloroplasts in plant cells, and sunlight, they convert water and carbon dioxide into glucose and oxygen. The glucose produced is used by the plant for its energy needs, growth, and reproduction, while the oxygen is released back into the atmosphere.
+
+###
+19. Instruction: Could you suggest three science-fiction books for someone new to the genre?
+19. Input: 
+<noinput>
+19. Output: 
+1. "Ender's Game" by Orson Scott Card
+2. "Dune" by Frank Herbert
+3. "Neuromancer" by William Gibson
+
+###
+20. Instruction: Write a haiku about a mountain landscape.
+20. Input: 
+<noinput>
+20. Output: 
+Majestic summit
+Silent whispers of the wind
+Nature's breath, unveiled

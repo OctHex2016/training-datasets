@@ -1,0 +1,101 @@
+4. Instruction: Translate the given text into French.
+4. Input: 
+The sun sets in the evening, creating a beautiful play of colors in the sky.
+4. Output: 
+Le soleil se couche le soir, créant un magnifique jeu de couleurs dans le ciel.
+
+5. Instruction: Evaluate the validity of the following statement: All dogs are animals, but not all animals are dogs.
+5. Input: <noinput>
+5. Output: 
+The statement is valid.
+
+6. Instruction: Briefly explain the mechanics of breathing.
+6. Input: <noinput>
+6. Output: 
+Breathing involves inhaling oxygen-rich air into the lungs, where oxygen is exchanged with waste carbon dioxide in the blood. The diaphragm and intercostal muscles contract to increase lung volume, lowering pressure and drawing in outside air. Upon relaxing, these muscles decrease lung volume, raising pressure and pushing out carbon dioxide-rich air.
+
+7. Instruction: Rewrite the given sentences in simple future tense.
+7. Input: 
+I am eating a sandwich. You are painting a picture.
+7. Output: 
+I will eat a sandwich. You will paint a picture.
+
+8. Instruction: Summarize the main idea of this text.
+8. Input: 
+Every time a volcano erupts, it releases a mixture of gases and molten rock into the atmosphere. When the liquid rock hardens, it forms a cone-shaped structure that we call a volcano. Volcanoes have played an important role in shaping the Earth's surface over millions of years, contributing to the formation of land and altering the chemistry of our atmosphere.
+8. Output: 
+Volcanoes release gases and molten rock during eruptions, playing a key role in shaping the Earth's surface and altering atmospheric chemistry over millions of years.
+
+9. Instruction: Convert the given measurements from cups to milliliters (1 cup = 236.59 mL).
+9. Input: 
+0.6 cups, 0.75 cups
+9. Output: 
+141.95 mL, 177.44 mL
+
+10. Instruction: Determine the tone of this passage.
+10. Input: 
+This is terrible! I can’t believe they got rid of her so quickly. She was an excellent employee, thriving in her field, and didn't deserve this at all. What a shame!
+10. Output: 
+Indignant
+
+11. Instruction: Identify the sentence with a punctuation error and correct it.
+11. Input: 
+We went to the beach she brought a picnic basket. Carl enjoyed swimming, and Sarah loved sunbathing.
+11. Output: 
+We went to the beach; she brought a picnic basket.
+
+12. Instruction: Calculate the area of a rectangle with the given dimensions.
+12. Input: 
+length = 8, width = 4
+12. Output: 
+32
+
+13. Instruction: Define and distinguish between intrinsic and extrinsic motivation.
+13. Input: <noinput>
+13. Output: 
+Intrinsic motivation is the inner drive to engage in an activity because it is personally rewarding or enjoyable, while extrinsic motivation is the drive to engage in an activity to achieve external rewards, such as monetary incentives, recognition, or praise.
+
+14. Instruction: Explain the main cause of this incident.
+14. Input: 
+The power outage happened because a major storm knocked down a number of power lines in the area.
+14. Output: 
+The main cause of the power outage was the storm that damaged several power lines in the area.
+
+15. Instruction: Classify this animal into the correct phylum and class.
+15. Input: 
+dolphin
+15. Output: 
+Phylum: Chordata, Class: Mammalia
+
+16. Instruction: Correct the spelling errors in the given sentence.
+16. Input: 
+The moast importent aprt of maintaning a helthy lifesstyle is balenced diet and exersize.
+16. Output: 
+The most important part of maintaining a healthy lifestyle is balanced diet and exercise.
+
+17. Instruction: Simplify the algebraic expression.
+17. Input: 
+(3x - 4) + (x + 2) - (2x - 3)
+17. Output: 
+2x + 1
+
+18. Instruction: Write a limerick.
+18. Input: <noinput>
+18. Output: 
+There once was a man from Peru
+Whose motto was "What would you do?"
+He'd dance on a dime
+And sing all the time,
+That comical man from Peru.
+
+19. Instruction: What is a possible theme in the following story?
+19. Input: 
+The story describes a character who moves to a small town and, over time, learns the importance of community and connections in a close-knit society. The protagonist realizes that the support and camaraderie of the town's people provide a sense of belonging that is crucial for personal well-being.
+19. Output: 
+The importance of community and belonging.
+
+20. Instruction: Merge the following sentences using a semicolon.
+20. Input: 
+My favorite book is Great Expectations. It was written by Charles Dickens.
+20. Output: 
+My favorite book is Great Expectations; it was written by Charles Dickens.

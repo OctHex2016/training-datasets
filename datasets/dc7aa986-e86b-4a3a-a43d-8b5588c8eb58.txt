@@ -1,0 +1,105 @@
+4. Instruction: Translate the following English sentence into French: "The little girl was playing in the park."
+4. Input:
+<noinput>
+4. Output:
+La petite fille jouait dans le parc.
+
+5. Instruction: Proofread the following sentence and correct any errors: "Their are meny way's to learnd about science, includeng reading boocs and atending lectures."
+5. Input:
+<noinput>
+5. Output:
+There are many ways to learn about science, including reading books and attending lectures.
+
+6. Instruction: Summarize the following text in 2 lines: "Neural networks are a series of algorithms attempting to identify relationships in a dataset through a process that mimics the human brain. It consists of interconnected layers of artificial neurons, processing data using a weighted sum function and a nonlinear activation function."
+6. Input:
+<noinput>
+6. Output:
+Neural networks identify relationships in datasets by mimicking the human brain. They use layers of artificial neurons with weighted sum functions and nonlinear activation functions.
+
+7. Instruction: Turn the following subject and predicate into a compound sentence: "She likes dogs" and "He likes cats."
+7. Input:
+<noinput>
+7. Output:
+She likes dogs, and he likes cats.
+
+8. Instruction: Write a brief explanation of photosynthesis.
+8. Input:
+<noinput>
+8. Output:
+Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, providing them with energy and releasing oxygen as a byproduct.
+
+9. Instruction: Create a two-line rhyming stanza describing a romantic walk on the beach during sunset.
+9. Input:
+<noinput>
+9. Output:
+Hand in hand, we stroll along the shore, as the sun dips low,
+Our love ignites, and the colors blend, where sky and ocean flow.
+
+10. Instruction: What is Newton's first law of motion?
+10. Input:
+<noinput>
+10. Output:
+Newton's first law of motion states that an object at rest stays at rest and an object in motion stays in motion with a constant velocity, unless acted upon by an external force.
+
+11. Instruction: Given a list of words, arrange them into a palindrome sentence (ignoring spaces, capitalization, and punctuation).
+11. Input:
+racecar, All, is, it
+11. Output:
+All racecar is it, is racecar all.
+
+12. Instruction: Write a haiku about a peaceful winter night.
+12. Input:
+<noinput>
+12. Output:
+Silent snowflakes fall,
+Cold moonlight on frozen ground,
+Winter's breath whispers.
+
+13. Instruction: Write an opening sentence for a mystery novel.
+13. Input:
+<noinput>
+13. Output:
+As the distant thunder echoed menacingly through the ancient halls of Ravensworth Manor, Detective Peters couldn't shake the foreboding feeling that lingered in the air.
+
+14. Instruction: Compose a melody using the following notes, in any order and rhythm: "C D F G A."
+14. Input:
+<noinput>
+14. Output:
+C - G - A - F - D
+
+15. Instruction: What is the square root of 144?
+15. Input:
+<noinput>
+15. Output:
+The square root of 144 is 12.
+
+16. Instruction: Write a brief description of Albert Einstein's Theory of Relativity.
+16. Input:
+<noinput>
+16. Output:
+Albert Einstein's Theory of Relativity consists of two parts: the Special Relativity and the General Relativity. Special Relativity introduced the concept that time and space are relative, depending on an observer's motion, while General Relativity extended this by incorporating gravity, describing it as a curvature of spacetime caused by mass.
+
+17. Instruction: Write a simile describing how refreshing a cold glass of water can be on a hot day.
+17. Input:
+<noinput>
+17. Output:
+A cold glass of water on a hot day is as refreshing as a gentle breeze sweeping through a sweltering summer afternoon.
+
+18. Instruction: What are the three primary colors?
+18. Input:
+<noinput>
+18. Output:
+The three primary colors are red, blue, and yellow.
+
+19. Instruction: Classify the following animal into a category: "platypus"
+19. Input:
+<noinput>
+19. Output:
+The platypus is a monotreme.
+
+20. Instruction: Given a human resource management problem and a solution, provide a feedback on the solution.
+20. Input:
+Problem: High employee turnover
+Solution: Offering competitive salaries and benefits packages
+20. Output:
+The solution to offer competitive salaries and benefits packages is a good step toward addressing high employee turnover, as it makes your company more attractive to employees and can help retain top talent.

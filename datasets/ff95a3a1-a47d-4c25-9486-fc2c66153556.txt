@@ -1,0 +1,175 @@
+4. Instruction: Evaluate the given movie summary and assign a genre to it.
+4. Input:
+Two teenage cancer patients named Hazel and Augustus meet at a cancer support group session and embark on a life-changing journey of love, friendship, and self-discovery.
+4. Output:
+Drama/Romance
+
+5. Instruction: Write a brief summary of the following article.
+5. Input:
+The World Health Organization (WHO) has declared today that air pollution is a “silent killer” due to the hazardous effects it can have on human health. A new study has estimated that around seven million illnesses are linked to air pollution, with respiratory problems like asthma being the most significant. Most of the deaths and illnesses are linked to fine particles that stay suspended in the air for long periods, which can penetrate deep into the lungs and cause various health problems. Key sources of air pollution include vehicle emissions, agricultural practices, industry activities, and the burning of solid fuels for cooking and heating. The finding highlights the importance of designing public policies that take into account environmental and human health.
+5. Output:
+The World Health Organization declared air pollution a "silent killer" due to its hazardous effects on human health. A study has estimated around seven million illnesses are linked to air pollution, with respiratory problems like asthma being the most significant. Key sources include vehicle emissions, agricultural practices, industry activities, and burning solid fuels. The taking into consideration environmental and human health in public policies is important.
+
+6. Instruction: Based on the given text, answer the following question: What is the reason for the fight?
+6. Input:
+John and Lara had been married for three years, but problems started arising when John got a promotion at work. With his new position, he was working longer hours, neglecting his duties at home, and missing important family events. They found themselves fighting over John's lack of attention.
+6. Output:
+The fight is due to John's lack of attention because of his promotion at work and working longer hours.
+
+7. Instruction: Proofread the text and correct any grammatical and spelling mistakes.
+7. Input:
+Thyre were too many actors on stage that they cooldn't properly koordinate their movemens.
+7. Output:
+There were too many actors on stage that they couldn't properly coordinate their movements.
+
+8. Instruction: Provide a pros vs cons list for remote work.
+8. Input:
+<noinput>
+8. Output:
+Pros:
+1. Flexible schedule
+2. No commute
+3. Increased productivity
+4. Better work-life balance
+
+Cons:
+1. Potential for distractions
+2. Less social interaction
+3. Difficulty separating work from personal life
+4. Limited access to resources
+
+9. Instruction: Write an introduction for an article about the importance of teaching financial literacy to children.
+9. Input:
+<noinput>
+9. Output:
+In today's increasingly complex financial landscape, it is vital that we equip our children with the necessary tools to navigate the world of personal finance. Teaching financial literacy to children not only ensures future generations' financial well-being but also helps foster responsible, confident decision-makers. This article explores the importance of financial education for children, from the fundamentals of basic budgeting to the nuances of investments, and discusses how to make financial lessons engaging and accessible for young minds.
+
+10. Instruction: Write an itinerary for a one-day visit to New York City.
+10. Input:
+<noinput>
+10. Output:
+Morning:
+1. Breakfast at Ess-a-Bagel
+2. Visit Statue of Liberty & Ellis Island
+
+Mid-day:
+3. Stroll through Battery Park
+4. Lunch at Shake Shack
+
+Afternoon:
+5. Visit the 9/11 Memorial & Museum
+6. Ride to the Top of One World Observatory
+
+Evening:
+7. Dinner at Joe's pizza
+8. See a Broadway Show
+9. Nighttime view from the Empire State Building
+
+11. Instruction: Describe the main responsibilities of an event planner.
+11. Input:
+<noinput>
+11. Output:
+1. Client consultation and understanding their vision
+2. Budget creation and monitoring
+3. Venue selection, booking, and management
+4. Coordinating with vendors, including catering, decor, entertainment, and transportation
+5. Managing guest list and RSVPs
+6. Creating and executing event timelines
+7. Day-of event supervision and troubleshooting
+8. Post-event evaluation and feedback
+
+12. Instruction: Provide a brief explanation of blockchain technology.
+12. Input:
+<noinput>
+12. Output:
+Blockchain technology is a decentralized digital ledger that securely stores data across a network of computers. It allows data to be stored in a chain of blocks, where each block contains a set of transactions. These blocks are cryptographically linked to maintain data integrity, preventing any unauthorized changes or tampering. Blockchain is widely known for its role in cryptocurrencies, but it has numerous applications in industries like supply chain management, healthcare, and finance due to its transparency, immutability, and security features.
+
+13. Instruction: Complete the given idiom: "Don't count your chickens before they ____."
+13. Input:
+<noinput>
+13. Output:
+Don't count your chickens before they hatch.
+
+14. Instruction: Recommend three movies to watch for a girls' night in, based on the given preferences.
+14. Input:
+Preferences: Romantic comedies, movies with strong female leads.
+14. Output:
+1. Mean Girls
+2. Legally Blonde
+3. The Devil Wears Prada
+
+15. Instruction: Perform a basic SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis for a small local bookstore.
+15. Input:
+<noinput>
+15. Output:
+Strengths:
+1. Personalized customer service
+2. Knowledge of local preferences
+3. Unique selection of titles
+
+Weaknesses:
+1. Limited inventory
+2. Higher pricing compared to online retailers
+3. Smaller marketing budget
+
+Opportunities:
+1. Collaborations with local businesses and organizations
+2. Hosting author events and book clubs
+3. Expanding into online sales
+
+Threats:
+1. Competition from online retailers like Amazon
+2. Changing consumer preferences toward digital books
+3. Economic downturns affecting sales
+
+16. Instruction: Write a condolence message for someone who has lost a loved one.
+16. Input:
+<noinput>
+16. Output:
+Dear [Name],
+
+I am so deeply sorry for your loss. [Deceased's name] was an amazing person and touched the lives of so many. Please know that my thoughts are with you and your family during this difficult time. Remember all the beautiful memories you shared, and may they bring you comfort and strength through this period of grief. If there is anything I can do to help, please do not hesitate to reach out.
+
+With heartfelt condolences,
+[Your Name]
+
+17. Instruction: Translate the following English text to Spanish.
+17. Input:
+Hello! How are you? I hope everything is going well. Have a great day!
+17. Output:
+¡Hola! ¿Cómo estás? Espero que todo vaya bien. ¡Que tengas un gran día!
+
+18. Instruction: Write a short poem about the sea.
+18. Input:
+<noinput>
+18. Output:
+The sea, it whispers to my soul,
+With waves that crash and spray.
+A wild dance of salty blue,
+In a tempestuous display.
+
+Mermaids sing in the deep embrace,
+Of Neptune’s vast domain.
+Where secrets of the darkest depths,
+Forever shall remain.
+
+In gentle waves, the ocean breathes,
+A calming, soothing balm.
+A sanctuary for hearts that seek,
+A place of peace and calm.
+
+19. Instruction: Based on the given text, what is the author's main argument?
+19. Input:
+Social media has become an essential part of modern society, enabling us to easily connect with one another, share our lives, and access information. However, its negative effects, such as addiction and the decline of genuine human interaction, should not be overlooked. People should make conscious efforts to consume social media mindfully and balance their online and offline engagements.
+19. Output:
+The author's main argument is that while social media offers many benefits, its negative impacts must be addressed and people should strive for a balanced and mindful approach to using it.
+
+20. Instruction: List five health benefits of practicing yoga.
+20. Input:
+<noinput>
+20. Output:
+1. Stress reduction
+2. Improved flexibility and posture
+3. Greater muscle strength and tone
+4. Enhanced focus and mental clarity
+5. Support for a balanced and healthy lifestyle

@@ -1,0 +1,67 @@
+
+
+4. Instruction: Can you translate "Hello, how are you?" into Spanish? 
+4. Input: 
+<noinput>
+4. Output: 
+Hola, ¿cómo estás?
+###
+5. Instruction: Edit the given sentence to correct the grammar mistake. 
+5. Input:
+She don’t like to drink milk.
+5. Output:
+She doesn't like to drink milk.
+###
+6. Instruction: Write an email to follow up on a job application sent a week ago.
+6. Input:
+Dear HR Manager,
+<noinput>
+6. Output:
+Dear HR Manager,
+
+I hope this message finds you well. I recently submitted an application for the position of Marketing Manager, and I wanted to follow up on my application. I am very interested in this opportunity, and I would be grateful if you could provide me with an update.
+
+Thank you for your time, and I look forward to hearing from you soon.
+
+Best regards,
+[Your Name]
+###
+7. Instruction: What are the precautions one should take to avoid getting infected by COVID-19? 
+7. Input: 
+<noinput>
+7. Output: 
+1. Wear a mask
+2. Wash your hands regularly with soap and water
+3. Maintain social distancing
+4. Avoid crowded places
+5. Cover your mouth and nose while sneezing or coughing
+6. Stay home if you are feeling sick
+###
+8. Instruction: Please provide step by step instructions for cooking fried rice. 
+8. Input:
+2 cups leftover white rice
+
+1/2 onion, chopped
+
+2 cloves garlic, minced
+
+1/4 cup peas
+
+1/4 cup carrots, chopped
+
+1 egg
+
+1 tbsp. oil
+
+Soy sauce and black pepper to taste.
+
+8. Output:
+1. Heat oil in a pan, add chopped onion and garlic. Stir until fragrant.
+
+2. Add chopped carrots and peas to the pan. Fry for a few minutes until cooked.
+
+3. Push the vegetables to the edge of the pan, scramble the egg in the middle. Wait until the egg is done before mixing it with the vegetables.
+
+4. Add leftover rice to the pan, fry with the egg and vegetables until everything is heated through.
+
+5. Season with soy sauce and black pepper to taste.

@@ -1,0 +1,161 @@
+4. Instruction: Rephrase the sentence in reported speech.
+4. Input: 
+She asked, "Do you need help with your homework?"
+4. Output: 
+She asked if I needed help with my homework.
+
+5. Instruction: Create a poem using the given words: moon, ocean, dance, stars.
+5. Input: 
+<noinput>
+5. Output: 
+In the moonlight's gentle gaze,
+The ocean's waves join the soiree.
+A celestial dance so enchanting,
+With stars and sea in harmony swaying.
+
+6. Instruction: Identify the author of the given quote.
+6. Input: 
+"The only way to do great work is to love what you do." 
+6. Output: 
+Steve Jobs
+
+7. Instruction: Translate the given text to French.
+7. Input: 
+Life is a beautiful journey, enjoy every moment!
+7. Output: 
+La vie est un voyage magnifique, profitez de chaque instant !
+
+8. Instruction: List three positive and three negative consequences of excessive smartphone usage.
+8. Input: 
+<noinput>
+8. Output: 
+Positive:
+1. Accessibility to information
+2. Communication and social connectivity
+3. Efficient management of tasks and chores
+
+Negative:
+1. Psychological distress and addiction
+2. Social isolation and deteriorating relationships
+3. Eye strain and sleep disturbances
+
+9. Instruction: Recommend a suitable location for a family vacation, considering the interest in hiking, swimming, and exploring historical sites.
+9. Input: 
+<noinput>
+9. Output: 
+Costa Rica
+
+10. Instruction: Correct the grammar and punctuation errors in the given sentence.
+10. Input: 
+You should'nt of left the door open the cats could get out and; they'll run away.
+10. Output: 
+You shouldn't have left the door open; the cats could get out, and they'll run away.
+
+11. Instruction: Explain the meaning of the term "carbon footprint."
+11. Input: 
+<noinput>
+11. Output: 
+A carbon footprint is the total amount of greenhouse gases, mostly carbon dioxide (CO2), emitted by an individual, event, organization, or product directly or indirectly caused by their actions, consumption, or utilization.
+
+12. Instruction: Write a step-by-step guide on how to make scrambled eggs.
+12. Input: 
+<noinput>
+12. Output: 
+1. Crack two to three eggs into a bowl.
+2. Add a pinch of salt and pepper.
+3. Whisk the eggs with a fork or whisk until well-beaten and combined.
+4. Heat a non-stick pan over medium heat and add a tablespoon of butter.
+5. Wait until the butter is melted and begins to bubble.
+6. Pour the beaten eggs into the pan.
+7. Let the eggs cook for a few seconds until the edges begin to set.
+8. Use a spatula or fork to push the edges of the egg mixture toward the center.
+9. Keep moving and folding the eggs until they are mostly solid yet slightly moist.
+10. Remove the eggs from the heat and transfer them to a plate.
+11. Serve immediately with toast, vegetables, or other sides, as desired.
+
+13. Instruction: What is the capital city of Brazil?
+13. Input: 
+<noinput>
+13. Output: 
+Brasília
+
+14. Instruction: Evaluate the given argument, and identify whether it is valid or invalid.
+14. Input: 
+All men are mortal. Socrates is a man. Therefore, Socrates is mortal.
+14. Output: 
+Valid
+
+15. Instruction: Provide a summary of the given passage.
+15. Input: 
+Taking place in a dystopian future, the novel "The Hunger Games" by Suzanne Collins introduces readers to the oppressed society of Panem, a nation consisting of the wealthy Capitol and 12 districts. The story revolves around the protagonist, Katniss Everdeen, a young girl from the impoverished District 12, who is forced to take part in the annual "Hunger Games" competition as a "tribute." Each tribute is a participant who represents their district in an elaborate, televised battle to the death. The Capitol uses these games to demonstrate their power and supremacy over the districts, as well as to keep the districts in a state of submission.
+
+15. Output: 
+"The Hunger Games" is a dystopian novel set in Panem, a society with 12 districts and the wealthy Capitol. The protagonist, Katniss Everdeen, from District 12, is forced to participate in the annual Hunger Games, a televised death match with representatives from each district. The Capitol uses the games to assert its dominance and control over the districts.
+
+16. Instruction: Identify the literary technique used in the following sentence: "The sun smiled down on them as they walked to school."
+16. Input: 
+<noinput>
+16. Output: 
+Personification
+
+17. Instruction: Classify the given email as spam or genuine.
+17. Input: 
+Congratulations, You've won $500,000 in our grand prize lottery draw! Click on the link below to claim your prize now! Hurry up, as the offer expires soon.
+17. Output: 
+Spam
+
+18. Instruction: Convert the given text from passive voice to active voice.
+18. Input: 
+The cake was devoured by the hungry children.
+18. Output: 
+The hungry children devoured the cake.
+
+19. Instruction: List three causes of climate change.
+19. Input: 
+<noinput>
+19. Output: 
+1. Greenhouse gas emissions
+2. Deforestation
+3. Industrial activities
+
+20. Instruction: Draft a formal email requesting a meeting with your supervisor to discuss your job performance.
+20. Input: 
+<noinput>
+20. Output: 
+Subject: Request for Meeting to Discuss Job Performance
+
+Dear [Supervisor's Name],
+
+I hope this email finds you well. I am writing to kindly request a meeting with you to discuss my job performance, as I am eager to review the progress I have made thus far and discuss potential areas for improvement.
+
+If you will be available for such a meeting, I would greatly appreciate it if you could suggest a date and time that works best for you within the next two weeks. Alternatively, please let me know your preferred availability, and I will gladly adjust my schedule to accommodate your preferences.
+
+Thank you in advance for your time, and I look forward to our productive discussion.
+
+Best regards,
+
+[Your Name]
+
+21. Instruction: Is the following statement true or false? Bats are blind.
+21. Input: 
+<noinput>
+21. Output: 
+False
+
+22. Instruction: Rearrange the given words to form a coherent sentence.
+22. Input: 
+inhabits pencil the sharpener a snail
+22. Output: 
+A snail inhabits the pencil sharpener.
+
+23. Instruction: Demonstrate the use of the idiom "break a leg" in a sentence.
+23. Input: 
+<noinput>
+23. Output: 
+Tonight's your big performance on stage, so break a leg!
+
+24. Instruction: Convert the following Fahrenheit temperature to Celsius: 98.6°F.
+24. Input: 
+<noinput>
+24. Output: 
+37°C

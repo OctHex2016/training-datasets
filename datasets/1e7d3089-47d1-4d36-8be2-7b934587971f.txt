@@ -1,0 +1,24 @@
+4. Instruction: Provide an alternative ending for the story in the given input.
+4. Input: 
+Cinderella fled the ball, leaving only a glass slipper behind. The prince, desperate to find the beautiful girl he had danced with, searched the kingdom for the girl whose foot would fit the slipper.
+4. Output: 
+Cinderella lived in a nearby village with her two stepsisters but resisted the prince's efforts to find the girl with the perfect fit. Instead, she formed a strong bond with her kind neighbor, creating a life of love, support and happiness. The prince, unable to find the mysterious girl, grew into a wise ruler, eventually marrying the politician's daughter, forging a strong alliance between two kingdoms. Both Cinderella and the prince found different paths to happiness, yet both lived fulfilling lives.
+
+###
+5. Instruction: Fact-check the following statement and correct it if needed.
+5. Input: 
+The Great Barrier Reef is the world's largest coral reef system, stretching along the west coast of Australia.
+5. Output: 
+The Great Barrier Reef is the world's largest coral reef system; however, it stretches along the east coast of Australia, not the west coast.
+###
+6. Instruction: Based on the input text, identify the film name and its release year.
+6. Input: 
+This 1994 American crime film, directed by Quentin Tarantino and starring Uma Thurman, John Travolta, and Samuel L. Jackson, is known for its nonlinear narrative structure and iconic dance sequences.
+6. Output: 
+Pulp Fiction (1994)
+###
+7. Instruction: Explain the purpose of an executive summary in a business report.
+7. Input: 
+<noinput>
+7. Output: 
+An executive summary in a business report serves as an overview that captures the essential points and key findings of the report. It is designed to be a concise and clear presentation of the report's content, enabling readers, particularly decision-makers or executives, to quickly grasp its main ideas without having to read the entire document. It often includes critical recommendations, results, and conclusions, making it an essential tool for busy professionals to stay informed and make informed decisions.

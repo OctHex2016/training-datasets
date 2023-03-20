@@ -1,0 +1,30 @@
+4. Instruction: Convert the following sentence from passive voice to active voice. 
+4. Input: 
+The ball was thrown by the child.
+4. Output: 
+The child threw the ball.
+###
+5. Instruction: Provide a one-paragraph summary of the given text.
+5. Input: 
+Cryptocurrency mining company Bitmain Technologies is looking to expand its operation in the United States. Bitmain has recently partnered with the Bitcoin Digital Mining Group Inc., a US-based company specializing in providing infrastructure, mining support, and electricity sourcing for the operation of Bitcoin mining facilities. The partnership will allow Bitmain to tap into low-cost, renewable energy resources in the US, primarily comprised of hydroelectric power. The stable energy prices offered by the US present an attractive opportunity for Bitmain as they push to diversify their operations and reduce carbon emissions.
+5. Output: 
+Cryptocurrency mining company Bitmain Technologies plans to expand its US operations by partnering with Bitcoin Digital Mining Group Inc. The partnership will allow Bitmain access to low-cost, renewable energy resources, primarily hydroelectric power, in the US. The stable energy prices in the US and opportunities to diversify operations and reduce carbon emissions make this an attractive move for Bitmain.
+###
+6. Instruction: What are the ingredients needed and steps to follow to make a simple guacamole? 
+6. Input: <noinput>
+6. Output: 
+Ingredients:
+- 2 ripe avocados
+- 1/2 small onion, finely chopped
+- 1 small tomato, finely chopped
+- 1 small jalapeño or serrano pepper, minced (optional)
+- 1/4 cup chopped fresh cilantro
+- Juice of 1 lime
+- Salt, to taste
+
+Steps:
+1. Cut the avocados in half, remove the pit, and scoop out the flesh into a bowl.
+2. Mash the avocado with a fork or potato masher until it reaches your desired consistency.
+3. Add the chopped onion, tomato, jalapeño or serrano (if using), cilantro, and lime juice.
+4. Mix everything well, and season with salt to taste.
+5. Serve with tortilla chips or as a topping for tacos, nachos, or other dishes. Enjoy!

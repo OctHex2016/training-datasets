@@ -1,0 +1,142 @@
+4. Instruction: Convert the provided recipe to a vegetarian version.
+4. Input:
+Chicken Fried Rice:
+- 1 cup cooked white rice
+- 1 cup diced cooked chicken
+- 1 cup mixed vegetables
+- 2 tablespoons soy sauce
+- 2 teaspoons sesame oil
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 1/4 teaspoon ground black pepper
+- 1 tablespoon vegetable oil
+4. Output: 
+Vegetarian Fried Rice:
+- 1 cup cooked white rice
+- 1 cup diced tofu or seitan
+- 1 cup mixed vegetables
+- 2 tablespoons soy sauce
+- 2 teaspoons sesame oil
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon onion powder
+- 1/4 teaspoon ground black pepper
+- 1 tablespoon vegetable oil
+
+5. Instruction: Which famous novel is mentioned in the input and who is the author?
+5. Input: 
+I recently read a classic novel set in 19th-century England, where the protagonist Elizabeth Bennet navigates societal expectations and her own emotions while trying to find love.
+5. Output: 
+"Pride and Prejudice" by Jane Austen.
+
+6. Instruction: Summarize the main idea of the given paragraph.
+6. Input: 
+Modern medicine has made significant advances in recent years, making it easier to identify and treat various diseases. These advances have improved overall health outcomes, enabling people to live longer and healthier lives. Some of the most notable advancements include the development of medical devices like the MRI and CT scanning machines, improved surgical procedures, and increased understanding of genetics and their effects on health.
+6. Output:
+The paragraph discusses recent advancements in modern medicine, such as medical devices, surgical procedures, and genetics, which have contributed to better disease identification, treatment, and improved health outcomes.
+
+7. Instruction: Translate the provided sentence into French.
+7. Input: 
+I would like a cup of coffee, please.
+7. Output: 
+Je voudrais une tasse de café, s'il vous plaît.
+
+8. Instruction: Write a brief thank you message to express gratitude for a gift.
+8. Input: 
+<noinput>
+8. Output:
+Dear [Name],
+
+Thank you so much for the thoughtful gift! I truly appreciate your kindness and generosity. The [gift] will be put to great use and will always remind me of the special connection we share.
+
+Warm regards,
+
+[Your Name]
+
+9. Instruction: Write a short description of the provided image.
+9. Input: 
+A tranquil mountain landscape with a river meandering through lush green fields, with tall pine trees and snow-capped peaks in the background.
+9. Output:
+This serene mountain scene captures the beauty of nature, with a winding river flowing through verdant fields, accompanied by majestic pine trees. The breathtaking snow-capped peaks complete the picturesque panorama.
+
+10. Instruction: Identify the type of rhyme used in the following poem and give examples of the rhyming words.
+10. Input: 
+A dog so large, and fierce, and black,
+He snarled and barked, and bit;
+And once he chased a rooster fleet,
+And caught him by the wits.
+10. Output:
+The poem uses an AABB rhyme scheme. Rhyming words: "black" and "bit," "fleet" and "wits."
+
+11. Instruction: What historical event is mentioned in the provided text?
+11. Input: 
+On April 12, 1961, a landmark event occurred in the space race when the Soviet Union launched Yuri Gagarin into orbit aboard the spacecraft Vostok 1.
+11. Output:
+The historical event mentioned is the Soviet Union launching Yuri Gagarin into orbit aboard Vostok 1 on April 12, 1961.
+
+12. Instruction: Proofread and correct any grammatical errors in the following sentence.
+12. Input: 
+My parrents are on their way too the store and they will be back by dinner time.
+12. Output:
+My parents are on their way to the store and they will be back by dinner time.
+
+13. Instruction: Compare and contrast two given items.
+13. Input: 
+Coffee and tea.
+13. Output:
+Coffee and tea are both popular beverages with a long history of consumption. Coffee is made from roasted coffee beans and has a higher caffeine content, providing a more energetic and stimulating effect. Tea, derived from the tea plant, typically contains less caffeine, offering a more soothing experience. Coffee can have a bold and strong taste due to the roasting process, while tea presents a variety of flavors depending on the type and preparation, ranging from mild to robust. Both drinks offer health benefits and can be consumed hot or cold based on personal preference.
+
+14. Instruction: Write a haiku about the given theme.
+14. Input: 
+Autumn leaves.
+14. Output:
+Crimson leaves flutter,
+Whispers of the autumn breeze,
+Nature's final bow.
+
+15. Instruction: Suggest a useful tip for the given activity.
+15. Input: 
+Photographing food.
+15. Output:
+Use natural light when possible, as it can bring out the true colors and textures of the food, making it appear more appetizing and visually appealing.
+
+16. Instruction: List symptoms associated with the mentioned medical condition.
+16. Input: 
+Migraine headaches.
+16. Output:
+- Throbbing or pulsating pain, often on one side of the head
+- Sensitivity to light, sound, and sometimes smells
+- Nausea and vomiting
+- Visual disturbances or aura
+- Dizziness
+- Fatigue
+
+17. Instruction: State the guidelines for the mentioned writing format.
+17. Input: 
+APA citation style.
+17. Output:
+- Use a standard font, such as 12-point Times New Roman.
+- Double-space lines.
+- Set one-inch margins on all sides of the page.
+- Include a header with the page number on each page.
+- Align the text to the left, with a ragged right edge.
+- Start a new paragraph with each main idea and indent the first line.
+- Use in-text citations in parentheses, with the author's last name and the year of publication.
+- List references on a separate page, alphabetically by the author's last name, and in a hanging indent format.
+
+18. Instruction: What does the given acronym stand for?
+18. Input: 
+AI
+18. Output:
+Artificial Intelligence
+
+19. Instruction: Recommend a suitable exercise routine for the given individual.
+19. Input: 
+A 30-year-old woman with no health issues looking to stay fit and maintain a healthy weight.
+19. Output:
+A balanced exercise routine should include a mix of cardio workouts, strength training, and flexibility exercises. For cardio, consider activities like brisk walking, jogging, or swimming for 30-45 minutes, 3-5 times a week. Strength training can include bodyweight exercises like push-ups, squats, and planks, or using resistance bands or weights; perform 2-3 sets of 8-12 repetitions for each exercise, 2-3 times a week. Finally, incorporate yoga or stretching routines to improve flexibility and relaxation, for 15-20 minutes, 2-3 times a week.
+
+20. Instruction: State the scientific reason behind the mentioned daily phenomenon.
+20. Input: 
+Sunrise and sunset.
+20. Output:
+Sunrise and sunset occur due to the Earth's rotation on its axis. As the Earth rotates, different parts of the planet are exposed to the Sun's light at different times. Sunrise happens when a location moves from the dark (night) side of the Earth into the light (day) side, while sunset occurs when a location moves from the light (day) side into the dark (night) side. The Earth's 24-hour rotation cycle causes the Sun to appear to rise in the east and set in the west daily.

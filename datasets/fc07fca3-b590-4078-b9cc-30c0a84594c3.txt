@@ -1,0 +1,122 @@
+4. Instruction: Summarize the main argument of the author in one sentence. 
+4. Input: 
+"The only way to create a sustainable and well-performing economy is to introduce new regulations and incentives that promote green, clean energy solutions and reduce greenhouse gas emissions."
+4. Output: 
+The author argues that promoting green energy solutions through regulations and incentives is crucial for a sustainable and well-performing economy.
+
+###
+5. Instruction: Identify the type of logical fallacy present in this statement. 
+5. Input: 
+"You must not be a true environmentalist since you drive a car."
+5. Output: 
+No true Scotsman fallacy.
+
+###
+6. Instruction: What would be a fair reverse statement for the given input?
+6. Input: 
+"All cats like fish."
+6. Output: 
+Not all cats dislike fish.
+
+###
+7. Instruction: Edit the given text for grammar and fluency.
+7. Input: 
+"Tom going to soccer practice early he fine place get coffee and newspaper during rush our."
+7. Output: 
+Tom is going to soccer practice early, so he can find a place to get coffee and a newspaper during rush hour.
+
+###
+8. Instruction: Describe the personality of the character in the given input.
+8. Input: 
+"Emma is charming, lively, and always ready to try new things. She enjoys making others feel valued and has a genuine concern for their well-being."
+8. Output: 
+Emma is a charismatic, adventurous, and empathetic person who values and cares for others.
+
+###
+9. Instruction: What's the most likely intention of the writer based on the input?
+9. Input: 
+"The resort offers a plethora of activities such as kayaking, yoga, and mountain biking to keep you entertained throughout your stay."
+9. Output: 
+The writer aims to showcase the variety of activities available at the resort, enticing potential visitors.
+
+###
+10. Instruction: Put the given words in alphabetical order. 
+10. Input: 
+"examine, bloom, elephant, cake, jump"
+10. Output: 
+bloom, cake, elephant, examine, jump
+
+###
+11. Instruction: Create a meaningful sentence using the given words. 
+11. Input: 
+"dreams, limit, only, sky, the"
+11. Output: 
+The only limit to your dreams is the sky.
+
+###
+12. Instruction: How would you start a conversation with a stranger in a coffee shop?
+12. Input: 
+<noinput>
+12. Output: 
+"Excuse me, have you tried their cappuccino here? I am curious to know if it's really as good as people say."
+
+###
+13. Instruction: List three possible topics of discussion about artificial intelligence. 
+13. Input: 
+<noinput>
+13. Output: 
+1. Ethical concerns surrounding AI development.
+2. The impact of AI on job displacement and the workforce.
+3. AI advancements in healthcare and disease diagnosis.
+
+###
+14. Instruction: In the given input, identify the adjectives and write them in plural form.
+14. Input: 
+"The clever fox jumped over the lazy dog."
+14. Output: 
+Clever➡Cleverer, lazy➡lazier.
+
+###
+15. Instruction: Convert the given statement into a passive voice.
+15. Input: 
+"I am playing the guitar."
+15. Output: 
+The guitar is being played by me.
+
+###
+16. Instruction: Design a two-line slogan for a new fitness app.
+16. Input: 
+<noinput>
+16. Output: 
+Unleash your potential.
+Elevate your fitness journey.
+
+###
+17. Instruction: Classify the following situation into an emotion category.
+17. Input: 
+"John spilled his coffee on the table on his first day at work."
+17. Output: 
+Embarrassment
+
+###
+18. Instruction: Correct the misspelled words in the given input.
+18. Input: 
+"recieve, definatly, accomodate, beleive, seperate"
+18. Output: 
+receive, definitely, accommodate, believe, separate
+
+###
+19. Instruction: Explain the meaning of the given idiom in simple terms.
+19. Input: 
+"Bite the bullet"
+19. Output: 
+To face a difficult situation bravely or endure pain without complaining.
+
+###
+20. Instruction: Create a haiku about the beauty of nature.
+20. Input: 
+<noinput>
+20. Output: 
+Majestic mountains,
+Whispers of the dancing trees,
+Nature's symphony.

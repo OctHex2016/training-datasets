@@ -1,0 +1,118 @@
+4. Instruction: Write a haiku about a sunset. 
+4. Input: 
+<noinput>
+4. Output: 
+Blazing orb dips low,
+Golden hues spread cross skyline,
+Peaceful end of day.
+###
+5. Instruction: Given a news article, rewrite its headline to make it clickbait-y. 
+5. Input: 
+"Scientists find evidence of underground lakes on Mars"
+5. Output: 
+"You won't believe what scientists found below the Martian surface!"
+###
+6. Instruction: Write a short product description for a new type of smartphone. 
+6. Input: 
+<noinput>
+6. Output: 
+Our new smartphone has the latest technology, with a sleek design that fits perfectly in your hand. It features a long-lasting battery, top-of-the-line camera, and a vibrant display that brings your apps to life. Get ready to experience a smartphone like never before!
+###
+7. Instruction: Given a short description of a person, write a paragraph about their hobbies and interests. 
+7. Input: 
+John is 35 years old, works in banking, and lives in New York City. 
+7. Output:
+When John isn't at work, you can find him exploring the city's culinary scene, honing his photography skills, or hitting the gym. He's also an avid traveler, always researching his next adventure and planning the perfect itinerary. In his downtime, John enjoys reading historical nonfiction and catching up on the latest Netflix series. ###
+8. Instruction: Write an open letter to a celebrity of your choice. 
+8. Input: 
+<noinput>
+8. Output: 
+Dear [Celebrity Name],
+
+I just wanted to take a moment to tell you how much your work has impacted my life. Your talent, creativity, and dedication have inspired me in so many ways, and I cannot thank you enough for sharing your gifts with the world. Whether it's your music, your films or your activism, you have touched countless lives and made the world a better place. Thank you for being a beacon of hope and a source of joy.
+
+With admiration and gratitude,
+
+[Your Name]
+###
+9. Instruction: Given a topic, write a persuasive paragraph about why everyone should care about it. 
+9. Input: 
+Climate change
+9. Output: 
+Climate change is not just an abstract concept - it's something that affects every single person on this planet. From rising sea levels to extreme weather events, the consequences of our changing climate are already becoming visible. But there is hope. By taking action now, we can mitigate the worst effects of climate change and create a more sustainable future for ourselves and future generations. It's time for all of us to take responsibility and work together to address this urgent issue.
+###
+10. Instruction: Write a summary of a TED talk on the importance of sleep. 
+10. Input: 
+<noinput>
+10. Output: 
+In her TED talk, sleep expert Arianna Huffington explains why getting enough sleep is crucial for our physical and mental health, as well as our productivity and creativity. She cites research showing that lack of sleep can impair our decision-making, increase our risk of depression and obesity, and even shorten our lifespan. Huffington urges us to prioritize our sleep and make it a non-negotiable part of our daily routine. Only then can we fully wake up to our lives and live our best, most fulfilling selves.
+###
+11. Instruction: Given a short story, rewrite it in the style of a fairy tale. 
+11. Input: 
+Maggie is a young girl who has always dreamed of traveling the world. One day, she saves up enough money from her part-time job to buy a plane ticket to Paris. There, she falls in love with the city of lights and decides to stay and start a new life. 
+11. Output: 
+Once upon a time, there was a brave young girl named Maggie. She longed to see the world and all its wonders, but she had no means to do so. Until one day, she stumbled upon a magical coin that granted her enough wealth to travel to far-off lands. Maggie journeyed to the beautiful city of Paris, where she fell under the spell of its enchanting streets and twinkling lights. And as the sun set over the Eiffel Tower, Maggie knew she had found her true home.
+###
+12. Instruction: Given a news article, summarize its key points in 2-3 sentences. 
+12. Input: 
+"Biden unveils $2tn infrastructure plan, saying it will transform America"
+12. Output: 
+US President Joe Biden has announced plans for a $2tn infrastructure and jobs package, describing it as a "once-in-a-generation" investment in American infrastructure. The plan aims to create millions of jobs, reduce carbon emissions, and modernize the country's transportation systems, broadband networks, and energy sector.
+###
+13. Instruction: Given a location, write a short poem about it. 
+13. Input: 
+Central Park
+13. Output: 
+Amidst the concrete jungle,
+A green oasis lies.
+Nature's playground, heart of the city,
+Where beauty never dies.
+###
+14. Instruction: Given a tweet or social media post, write a clever response. 
+14. Input: 
+"Just ate the best pizza of my life - sorry, New York!"
+14. Output: 
+"Don't worry, New York forgives you. It's used to being the gold standard."
+###
+15. Instruction: Write a review for a book you recently read. 
+15. Input:
+<noinput>
+15. Output: 
+I recently finished reading "The Overstory" by Richard Powers, and I have to say it's one of the most beautifully written and thought-provoking books I've ever read. This epic novel weaves together the stories of nine different characters whose lives are deeply connected to trees and the natural world. Through their journeys, we're forced to question our own relationship with nature and the urgent need to protect and preserve it. I highly recommend this book to anyone who cares about the planet and the future of our species.
+###
+16. Instruction: Given a set of grocery items, write a recipe that utilizes them. You may add additional ingredients.  
+16. Input: 
+eggs, spinach, feta cheese, cherry tomatoes
+16. Output: 
+Spinach and feta frittata:  Preheat oven to 350°F. In a mixing bowl, whisk 8 eggs with salt and pepper. Heat a oven-safe skillet over medium heat and sauté cherry tomatoes until they start to blister. Add spinach to skillet and sauté until wilted. Pour egg mixture into skillet and sprinkle with feta cheese. Transfer skillet to oven and bake until frittata is cooked through, about 15-20 minutes.
+###
+17. Instruction: Given a topic, write a short poem about it in the style of a limerick. 
+17. Input: 
+Penguins
+17. Output: 
+There once was a waddling bird
+In tuxedos they always prefer.
+Out on the ice floes,
+They snuggle up close,
+To their mates, forever concurred.
+###
+18. Instruction: Given a news article, write a headline that accurately represents the content but is more attention-grabbing.
+18. Input: 
+"New study shows that regular exercise can improve brain function"
+18. Output: 
+"You won't believe how working out can change your brain!"
+###
+19. Instruction: Rewrite a famous quote or saying in your own words. 
+19. Input: 
+“Be the change that you wish to see in the world.”
+19. Output: 
+If you want to see the world improve,
+Look within, and there you’ll find the clue.
+First change yourself, and then your sphere,
+And watch as the ripple spreads far and near.
+###
+20. Instruction: Given a scenario, write a brief summary of a conversation between two people who are catching up after a long time apart. 
+20. Input: 
+Two childhood friends who haven't seen each other in 10 years meet up for coffee.
+20. Output: 
+After a few awkward seconds of small talk, the friends start reminiscing about old times and laughing about past hijinks. They update each other on their lives - one got married and had kids, the other changed careers and moved across the country. As they hug goodbye, they promise to stay in touch and not let another decade pass before they see each other again.

@@ -1,0 +1,56 @@
+4. Instruction: Summarize the arguments in the given text.
+4. Input: 
+The internet has been one of the greatest innovations of the 21st century, but it has also brought many drawbacks. Although the internet makes it easier to access information and to communicate with people across the world, it also presents new challenges. One of these challenges is cyberbullying, which has become a severe problem in recent years. Cyberbullying can have devastating effects on the mental health of those affected, leading to depression, anxiety, and even suicide. The anonymity provided by the internet makes it easier for bullies to cause harm without facing the consequences of their actions. Furthermore, the widespread nature of social media means that cyberbullying can easily reach a large audience, with the victim's humiliation being amplified by the number of people who see it.
+4. Output: 
+The internet has revolutionized information accessibility and communication but also introduced new challenges, such as cyberbullying. Cyberbullying has a negative impact on mental health, potentially resulting in depression, anxiety, and suicide. The anonymity of the internet allows bullies to avoid consequences, and social media's wide reach amplifies the humiliating effects on victims.
+
+5. Instruction: Rewrite the given sentence in passive voice.
+5. Input: 
+The dog bit the mailman.
+5. Output: 
+The mailman was bitten by the dog.
+
+6. Instruction: Create a poem about the beauty of friendship.
+6. Input: 
+<noinput>
+6. Output: 
+In life's journey through rough seas and fair,
+Friendship shines bright like the moon in the air,
+A beacon of hope, solace, and care,
+Boundless love and kindness to share.
+
+Heart to heart, our spirits unite,
+Turning darkness into radiant light,
+In laughter and joy, in sorrow and strife,
+Friends lift us up and enrich our life.
+
+A cherished bond, deeper than the sea,
+Woven from threads of shared memories,
+In the beauty of friendship, our hearts take flight,
+A loving dance of warmth and delight.
+
+7. Instruction: Recommend three places to visit in Paris and why.
+7. Input: 
+<noinput>
+7. Output: 
+1. Eiffel Tower: As an iconic symbol of Paris, the Eiffel Tower offers stunning views of the city from its three levels and showcases French architecture and ingenuity.
+2. Louvre Museum: Home to the famous Mona Lisa and thousands of other art masterpieces, the Louvre allows visitors to explore centuries of artistic and historical treasures.
+3. Notre-Dame Cathedral: As a prime example of French Gothic architecture, the Notre-Dame Cathedral is both spiritually and historically significant and offers the opportunity to admire intricate stone carvings, stained glass, and breathtaking views from its towers.
+
+8. Instruction: Translate the given English sentence into Spanish.
+8. Input: 
+Can you give me directions to the nearest restaurant, please?
+8. Output: 
+¿Puede darme indicaciones para llegar al restaurante más cercano, por favor?
+
+9. Instruction: Name four renewable energy sources.
+9. Input: 
+<noinput>
+9. Output:
+Solar, wind, hydro, and geothermal energy.
+
+10. Instruction: Edit the given sentence for correct comma usage.
+10. Input:
+My friend, the veterinarian loves cats, dogs, snakes and birds.
+10. Output:
+My friend, the veterinarian, loves cats, dogs, snakes, and birds.

@@ -1,0 +1,111 @@
+4. Instruction: Generate a random blog title about travel. 
+4. Input: 
+<noinput>
+4. Output: 
+"10 Hidden Gems in Europe You Need to Visit in 2022"
+###
+5. Instruction: Correct the grammar in the sentence. 
+5. Input: 
+Me and him is going to the store. 
+5. Output: 
+He and I are going to the store.
+###
+6. Instruction: Provide a synonym for the word "happy." 
+6. Input: 
+<noinput>
+6. Output: 
+Ecstatic. 
+###
+7. Instruction: Given a list of ingredients, write a recipe for a vegetable soup. 
+7. Input: 
+1 onion, 2 garlic cloves, 2 cans of diced tomatoes, 2 cups of water, 2 cups of kale, 1 can of chickpeas, 1 tsp of salt, 1 tsp of black pepper. 
+7. Output: 
+In a large pot, sauté chopped onion and garlic until translucent. Add diced tomatoes, chickpeas, and water. Bring to a boil, then simmer for 10 minutes. Add chopped kale and simmer for another 5 minutes. Season with salt and black pepper. 
+###
+8. Instruction: Given two cities, estimate the travel time by car between them. 
+8. Input: 
+San Francisco, CA and Los Angeles, CA. 
+8. Output: 
+About 6 hours, depending on traffic. 
+###
+9. Instruction: Rewrite the sentence using passive voice. 
+9. Input: 
+The dog bit the mailman. 
+9. Output: 
+The mailman was bitten by the dog. 
+###
+10. Instruction: Describe how to change a tire on a car. 
+10. Input: 
+<noinput>
+10. Output: 
+First, find a flat surface to park your car. Remove the hubcap and use a lug wrench to loosen the lug nuts. Use a jack to lift the car off the ground. Remove the lug nuts and the tire. Put the spare tire on and tighten the lug nuts. Lower the car to the ground and tighten the lug nuts again. 
+###
+11. Instruction: Given a list of names and birthdates, group the names by people who have the same birth month. 
+11. Input: 
+John - 1/4/1990, Sarah - 6/12/1987, Katie - 2/28/1992, David - 1/29/1989, Mark - 3/15/1986. 
+11. Output: 
+January: John, David. 
+February: Katie. 
+March: Mark. 
+June: Sarah. 
+###
+12. Instruction: Find the capital city of a given country. 
+12. Input: 
+What is the capital city of Egypt? 
+12. Output: 
+Cairo. 
+###
+13. Instruction: Write a short essay about your favorite hobby. 
+13. Input: 
+<noinput>
+13. Output: 
+I enjoy hiking in my free time. It allows me to escape into nature and disconnect from technology. I find the beauty of the outdoors to be calming and therapeutic. Plus, the exercise is good for my health. Overall, hiking is a great way for me to recharge and enjoy the simple pleasures of life. 
+###
+14. Instruction: Given an incomplete sentence, fill in the missing word. 
+14. Input: 
+I need to buy _____ from the store. 
+14. Output: 
+groceries. 
+###
+15. Instruction: Write a rhyming poem about autumn. 
+15. Input: 
+<noinput>
+15. Output: 
+The leaves turn red and gold, 
+The air gets crisp and cold. 
+The breeze picks up a song, 
+As autumn moves along. 
+###
+16. Instruction: Given a list of countries, classify them by continent. 
+16. Input: 
+Russia, Brazil, Egypt, Australia, Spain, China. 
+16. Output: 
+Asia: Russia, China. 
+Africa: Egypt. 
+South America: Brazil. 
+Europe: Spain. 
+Oceania: Australia. 
+###
+17. Instruction: Translate a sentence from Spanish to English. 
+17. Input: 
+¿Cómo estás? 
+17. Output: 
+How are you? 
+###
+18. Instruction: Given a recipe, double the ingredients. 
+18. Input: 
+1 cup of flour, 1 tsp of baking powder, 1/4 tsp of salt, 1 egg, 1/2 cup of milk. 
+18. Output: 
+2 cups of flour, 2 tsp of baking powder, 1/2 tsp of salt, 2 eggs, 1 cup of milk. 
+###
+19. Instruction: Given a series of numbers, determine the average. 
+19. Input: 
+2, 5, 7, 9, 12. 
+19. Output: 
+7 (the average of these numbers). 
+###
+20. Instruction: Write a persuasive paragraph about why recycling is important. 
+20. Input: 
+<noinput>
+20. Output: 
+Recycling is essential to maintaining a healthy planet. By recycling materials like plastic, paper, and glass, we reduce the amount of waste in landfills and conserve resources. Recycling also reduces greenhouse gas emissions and helps fight climate change. Overall, recycling is a simple yet effective way to take care of our environment and build a sustainable future.

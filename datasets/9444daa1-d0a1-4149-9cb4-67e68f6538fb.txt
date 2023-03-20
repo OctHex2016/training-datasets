@@ -1,0 +1,108 @@
+4. Instruction: Edit the given paragraph to remove errors in grammar, spelling, and punctuation.
+4. Input:
+As there have been meny changes in the way businesses operate and how they can utilize technology, it's important that you stay educated. It is essencial to continously follow the latest trends in your industry, read articles, attend conferences and participate in online discussion's.
+4. Output:
+As there have been many changes in the way businesses operate and how they can utilize technology, it's important that you stay educated. It is essential to continuously follow the latest trends in your industry, read articles, attend conferences, and participate in online discussions.
+
+5. Instruction: Compose a short poem about the given topic.
+5. Input:
+<noinput>
+5. Output:
+Beneath the silent moonlit sky,
+A gentle breeze whispers by.
+In shadows, nature's beauty lies,
+The world around us intertwines.
+
+6. Instruction: Describe the given image in detail.
+6. Input: 
+A sunset at the beach featuring golden sand, soft waves, and a brightly colored sky with a mixture of orange, pink, and purple. People are walking along the shoreline, and palm trees are in the background.
+6. Output:
+The stunning beach sunset is unfolding its true splendor, with the golden sand glistening as the sunlight begins to fade. Soft, gentle waves caress the shoreline, while the sky above displays a breathtaking mixture of vibrant orange, pink, and purple hues. Silhouettes of people stroll leisurely, enjoying this magical moment as they take in the beauty of their surroundings. Palm trees stand tall in the background, swaying softly in the breeze and perfectly completing this captivating scene.
+
+7. Instruction: Depict the following situation as a math word problem.
+7. Input:
+Tom is twice as old as Jerry, who is 4 years younger than Peter. If Peter's age is 10 years, how old are Tom and Jerry?
+7. Output:
+Tom is twice as old as Jerry, and Jerry is 4 years younger than Peter, who is 10 years old. How old are Tom and Jerry?
+
+8. Instruction: Based on the information provided below, distinguish the real person from the fictional character.
+8. Input:
+Thomas Jefferson: Founding Father of the United States, Theodore Roosevelt: 26th President of the United States, Tom Sawyer: Mark Twain character
+8. Output:
+Tom Sawyer is the fictional character, while Thomas Jefferson and Theodore Roosevelt are real people.
+
+9. Instruction: Convert the passage from future tense to past tense.
+9. Input:
+We will visit the art museum and attend an opera after dinner. They will also stop by the gallery to purchase some artwork.
+9. Output:
+We visited the art museum and attended an opera after dinner. They also stopped by the gallery to purchase some artwork.
+
+10. Instruction: What is the main topic of the given article?
+10. Input:
+The article discusses the benefits of incorporating artificial intelligence (AI) into healthcare practices, including diagnostics, treatment planning, personalized medicine, and drug discovery.
+10. Output:
+The main topic of the article is the benefits and applications of artificial intelligence (AI) in healthcare practices.
+
+11. Instruction: Calculate the amount of time needed to complete the given tasks, and express it in hours and minutes.
+11. Input: 
+Task 1 - 35 minutes;
+Task 2 - 2 hours and 10 minutes;
+Task 3 - 45 minutes.
+11. Output: 
+The total amount of time needed to complete the tasks is 3 hours and 30 minutes.
+
+12. Instruction: What are the benefits of the given activity?
+12. Input:
+Practicing yoga regularly
+12. Output:
+The benefits of practicing yoga regularly include stress reduction, increased flexibility and strength, improved balance and posture, enhanced mental clarity, and enhanced overall health and wellbeing.
+
+13. Instruction: Summarize the given plot.
+13. Input:
+During World War II, a young woman named Liesel Meminger finds comfort in stealing books and sharing them with others. In a dangerous world, she learns valuable life lessons from the people around her and becomes the "book thief."
+13. Output:
+During WWII, young Liesel Meminger copes with a dangerous world by stealing books and sharing them. As the "book thief," she learns valuable life lessons from those around her.
+
+14. Instruction: Rewrite the given sentence using synonyms.
+14. Input:
+The quick brown fox jumps over the lazy dog.
+14. Output:
+The agile chestnut fox leaps over the indolent canine.
+
+15. Instruction: Paraphrase the question given below.
+15. Input:
+What key factors should be considered when building an effective marketing strategy?
+15. Output:
+What are the main elements to take into account when developing a successful marketing plan?
+
+16. Instruction: Correctly punctuate the given sentence.
+16. Input:
+She said Ill go to the store Mark
+16. Output:
+She said, "I'll go to the store, Mark."
+
+17. Instruction: Determine the main idea of the given text
+17. Input:
+Solar power is an innovative and environmentally friendly method of generating electricity. It harnesses the power of the sun, a renewable and abundant energy source, to produce clean energy without producing waste. Countries around the world are investing in solar power development to reduce their dependence on fossil fuels and decrease greenhouse gas emissions.
+17. Output:
+The main idea of the text is that solar power, an eco-friendly and innovative method, uses the sun's renewable energy to generate clean electricity, and it is being adopted worldwide to reduce dependency on fossil fuels and lower greenhouse gas emissions.
+
+18. Instruction: Recommend three things to do when visiting the given location.
+18. Input:
+New York City
+18. Output:
+1. Visit the iconic Statue of Liberty and Ellis Island.
+2. Stroll through Central Park and explore its various attractions.
+3. Explore the art collections at the Museum of Modern Art (MoMA).
+
+19. Instruction: List the given items in alphabetical order.
+19. Input:
+Basketball, Football, Tennis, Baseball, Golf
+19. Output:
+Baseball, Basketball, Football, Golf, Tennis
+
+20. Instruction: Describe the main characteristics of the given animal.
+20. Input:
+Giraffe
+20. Output:
+The main characteristics of a giraffe are its long neck, uniquely patterned fur, large eyes, horn-like ossicones, and long legs, which enable it to reach tall trees and far distances.

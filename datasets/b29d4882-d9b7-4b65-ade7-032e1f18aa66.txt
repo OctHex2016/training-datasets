@@ -1,0 +1,110 @@
+4. Instruction: Provide a summary for the given article text.
+4. Input: 
+Social robots are an emerging technology that is becoming more popular in various industries such as healthcare, education, and retail. These robots can interact with people using natural language processing technologies, enabling them to understand and respond to human language. In recent years, the development of artificial intelligence and machine learning has led to significant improvements in the capabilities of these robots, making them increasingly useful in a variety of settings. While the use of social robots is still in its infancy, there are already signs that they could play a significant role in the economy of the future. Some experts predict that the market for social robots will be worth billions of dollars within the next several years. Despite these advancements, there are also important ethical considerations associated with the development and use of social robots. For example, concerns about privacy and the potential for robots to be used in surveillance have led some experts to suggest that there should be limits on the deployment of this technology.
+4. Output: 
+Social robots are gaining popularity in industries such as healthcare, education, and retail due to advancements in AI and machine learning. They interact with people using natural language processing technologies. Although the market for social robots could be worth billions in the next few years, ethical concerns like privacy and surveillance have led experts to suggest limits on their deployment.
+
+5. Instruction: Translate the following English sentences into French.
+5. Input: 
+I am going to the mall with my friends.
+5. Output: 
+Je vais au centre commercial avec mes amis.
+
+6. Instruction: Develop a short palindrome phrase that forms a coherent message.
+6. Input: 
+<noinput>
+6. Output: 
+A man, a plan, a canal: Panama.
+
+7. Instruction: Rearrange the following scrambled sentences into coherent order.
+7. Input: 
+1. often with communicate gestures their 2. owners by dogs and 3. to body language try
+7. Output: 
+Dogs often try to communicate with their owners by using gestures and body language.
+
+8. Instruction: Correct the grammar and spelling errors in the given text.
+8. Input: 
+Their is an intrestin book on the tabel, witch you might find usfull.
+8. Output: 
+There is an interesting book on the table, which you might find useful.
+
+9. Instruction: Calculate the total cost for a road trip given the distance, fuel price, and fuel efficiency.
+9. Input: 
+Distance: 300 miles
+Fuel Price: $3.50 per gallon
+Fuel Efficiency: 25 miles per gallon
+9. Output: 
+The total cost for the road trip will be $42.
+
+10. Instruction: Tell me a joke.
+10. Input: 
+<noinput>
+10. Output: 
+Why don't scientists trust atoms? Because they make up everything!
+
+11. Instruction: Identify the emotion expressed in the given text.
+11. Input: 
+I cannot believe I finally landed my dream job after months of preparing and applying!
+11. Output: 
+Excitement
+
+12. Instruction: Write a haiku about the ocean.
+12. Input: 
+<noinput>
+12. Output: 
+Waves crash on the shore,
+Endless horizon stretches,
+Deep blue sea whispers.
+
+13. Instruction: Provide a healthy, protein-rich breakfast idea.
+13. Input: 
+<noinput>
+13. Output: 
+Greek yogurt with granola, fresh berries, and a drizzle of honey.
+
+14. Instruction: Explain the term "entropy" in the context of thermodynamics.
+14. Input: 
+<noinput>
+14. Output: 
+In thermodynamics, entropy is a measure of the disorder or randomness in a system. It represents the unavailability of a system's energy for conversion into mechanical work, often indicating thermal energy dissipation and irreversibility.
+
+15. Instruction: Contrast socialism and capitalism with respect to their economic systems.
+15. Input: 
+<noinput>
+15. Output: 
+Socialism is an economic system that emphasizes collective ownership and control of means of production, centralized planning, and wealth redistribution. Capitalism, on the other hand, is an economic system in which an individual or private entities own means of production, markets operate on supply and demand, and there is generally less government intervention in economic activities.
+
+16. Instruction: Construct a limerick using the word "tiger"
+16. Input: 
+<noinput>
+16. Output: 
+A fierce and ferocious young tiger,
+Was known as a powerful figure.
+With stripes on its back,
+It launched an attack,
+Proving size doesn't make some foes bigger.
+
+17. Instruction: Recommend a book to read on the topic of Artificial Intelligence.
+17. Input: 
+<noinput>
+17. Output: 
+I suggest reading "Superintelligence: Paths, Dangers, Strategies" by Nick Bostrom for an insightful exploration of Artificial Intelligence.
+
+18. Instruction: Write a brief explanation of the Doppler effect.
+18. Input: 
+<noinput>
+18. Output: 
+The Doppler effect is the change in frequency or wavelength of a wave in relation to an observer who is moving relative to the wave source. It occurs for any type of wave, including sound waves and electromagnetic waves, such as light. The most common example is the change in pitch of a moving vehicle's siren as it approaches and then passes the observer.
+
+19. Instruction: Explain the meaning of the saying "don't put all your eggs in one basket."
+19. Input: 
+<noinput>
+19. Output: 
+The saying "don't put all your eggs in one basket" advises against concentrating all your efforts, resources, or investments in one area or venture, as it increases the risk of losing everything if that single area or venture fails. Instead, the saying recommends diversifying to spread the risk.
+
+20. Instruction: Identify the subject and the predicate in the given sentence.
+20. Input: 
+The leaves on the trees are turning bright colors.
+20. Output: 
+Subject: The leaves on the trees
+Predicate: are turning bright colors.

@@ -1,0 +1,105 @@
+4. Instruction: Generate a description of the weather for tomorrow in a given city. 
+4. Input: 
+City: New York
+4. Output:
+Tomorrow in New York is forecasted to be mostly cloudy with a high of 71°F (22°C) and a low of 57°F (14°C).
+###
+5. Instruction: Rewrite the given sentence in the passive voice while preserving the meaning. 
+5. Input: 
+The dog chased the cat up the tree.
+5. Output: 
+The cat was chased up the tree by the dog.
+###
+6. Instruction: Classify the given text as positive, negative or neutral sentiment. 
+6. Input: 
+I absolutely loved the movie, the acting was superb and the story was captivating. 
+6. Output: 
+Positive
+###
+7. Instruction: Generate a list of synonyms for a given word. 
+7. Input: 
+Word: happy
+7. Output: 
+gleeful, thrilled, delighted, elated, etc.
+###
+8. Instruction: Correct the spelling and grammar mistakes in the given sentence. 
+8. Input: 
+I is going too the store but their is no milk their. 
+8. Output: 
+I am going to the store but there is no milk there.
+###
+9. Instruction: Suggest a genre for a given set of movie titles. 
+9. Input: 
+The Lion King, Aladdin, The Little Mermaid
+9. Output: 
+Animated Family Films
+###
+10. Instruction: Generate a summary for a given article or passage. 
+10. Input: 
+Article: https://www.nytimes.com/2021/10/28/world/europe/germany-gas-ukraine-russia.html
+10. Output: 
+Germany has agreed to provide financial assistance to Ukraine to help ease its energy crisis caused by the Russian gas pipeline. The move is intended to show unity among European allies and provide options to lessen dependency on Russian energy.
+###
+11. Instruction: Suggest a synonym to replace a given word in the sentence. 
+11. Input: 
+Sentence: The exhausted runner collapsed at the finish line.
+Word: exhausted
+11. Output: 
+The fatigued runner collapsed at the finish line.
+###
+12. Instruction: Generate an alternate ending to the given story. 
+12. Input: 
+Story: Alice fell down the rabbit hole and found herself in a strange, fantastical world full of talking animals and peculiar characters.
+12. Output: 
+As Alice explored the strange world, she stumbled upon a portal which led her back to her own world, just in time for tea with her family. 
+###
+13. Instruction: Construct a haiku poem on a given topic. 
+13. Input: 
+Topic: Autumn
+13. Output: 
+Golden leaves falling,
+Crisp air and pumpkin spice scents,
+Autumn has arrived.
+###
+14. Instruction: Generate the definition for a given word. 
+14. Input: 
+Word: defenestration
+14. Output: 
+Defenestration is the act of throwing someone or something out of a window.
+###
+15. Instruction: Edit the given sentence to be concise while preserving the meaning. 
+15. Input: 
+The reason why I didn't come to class yesterday was that I had to take my dog to the vet after he ate a chocolate bar that was left on the counter.
+15. Output: 
+I missed class because my dog ate a chocolate bar and I had to take him to the vet.
+###
+16. Instruction: Generate a list of antonyms for a given word. 
+16. Input: 
+Word: big
+16. Output: 
+small, tiny, little, miniscule, etc.
+###
+17. Instruction: Edit the given sentence to be grammatically correct. 
+17. Input: 
+Him and me are going to the store.
+17. Output: 
+He and I are going to the store.
+###
+18. Instruction: Generate an analogy for a given pair of words. 
+18. Input: 
+Pair of words: hot : cold
+18. Output: 
+Hot is to cold as fire is to ice.
+###
+19. Instruction: Suggest a recipe for a given ingredient. 
+19. Input: 
+Ingredient: spinach
+19. Output: 
+Spinach and feta stuffed chicken. 
+Ingredients: chicken breasts, fresh spinach, feta cheese, garlic, olive oil, salt and pepper.
+###
+20. Instruction: Generate a list of related words for a given topic. 
+20. Input: 
+Topic: soccer
+20. Output: 
+goal, referee, ball, net, players, stadium, fans, coach, team, match.

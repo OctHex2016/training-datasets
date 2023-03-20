@@ -1,0 +1,48 @@
+4. Instruction: Rearrange the sentences of this input to form a coherent story.
+4. Input:
+Inside the cave, they discovered a treasure chest filled with gold and precious stones. John and his friends decided to go on a hiking adventure in the forest. The trail they took led them to a hidden cave behind a waterfall. They split their riches and vowed to return to the cave in search of more treasures.
+4. Output:
+John and his friends decided to go on a hiking adventure in the forest. The trail they took led them to a hidden cave behind a waterfall. Inside the cave, they discovered a treasure chest filled with gold and precious stones. They split their riches and vowed to return to the cave in search of more treasures.
+
+5. Instruction: Classify the given text as a positive, negative, or neutral review.
+5. Input:
+The staff was friendly and the food was delicious. I would definitely recommend this place to anyone looking for a great dining experience.
+5. Output:
+Positive
+
+6. Instruction: Explain the meaning of the idiom in the example sentence.
+6. Input: 
+It's raining cats and dogs outside.
+6. Output:
+The idiom "raining cats and dogs" means that it is raining very heavily outside.
+
+7. Instruction: Describe possible benefits for a company who implements a successful employee wellness program.
+7. Input:
+<noinput>
+7. Output:
+- Reduced healthcare costs
+- Increased employee productivity
+- Reduced employee absenteeism
+- Improved employee morale
+- Higher employee retention rates
+- Enhanced company reputation
+
+8. Instruction: Identify and correct any spelling and grammatical errors in the given sentence.
+8. Input:
+Me and my frends were plaing soccer, wen that issue acure.
+8. Output:
+My friends and I were playing soccer when that issue occurred.
+
+9. Instruction: Provide a summary of the given text.
+9. Input:
+Alice's Adventures in Wonderland is a novel written by English author Lewis Carroll in 1865. It tells the story of a young girl named Alice, who falls down a rabbit hole into a magical world called Wonderland, filled with peculiar creatures and absurd happenings. Throughout the novel, Alice encounters various bizarre characters like the Cheshire Cat, the Mad Hatter, and the Queen of Hearts, before eventually waking up and realizing it was all just a dream.
+9. Output:
+Alice's Adventures in Wonderland is a 19th-century novel about a young girl, Alice, who enters a magical world called Wonderland through a rabbit hole. She interacts with strange characters and experiences absurd events before waking up and realizing it was all a dream.
+
+10. Instruction: Suggest three possible solutions for a business facing declining sales figures.
+10. Input:
+<noinput>
+10. Output:
+1. Implement marketing campaigns to increase brand awareness and reach new customers
+2. Improve product or service offerings to better meet customer needs and preferences
+3. Offer promotional discounts or incentives to encourage repeat purchases and attract new customers

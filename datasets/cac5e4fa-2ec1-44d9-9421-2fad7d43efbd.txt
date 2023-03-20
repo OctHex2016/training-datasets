@@ -1,0 +1,106 @@
+4. Instruction: Generate a sentence that includes the word "gargantuan".
+4. Input: 
+<noinput>
+4. Output: 
+The newly constructed skyscraper was a gargantuan feat of engineering, towering above the city skyline. 
+###
+5. Instruction: Write a short story that includes a lazy cat and a curious mouse. 
+5. Input: 
+Once upon a time, in a cozy little house by the river, there lived a <mask> and <mask>.
+5. Output: 
+Once upon a time, in a cozy little house by the river, there lived a lazy cat and a curious mouse. One day, while the cat was sleeping in his favorite sunspot, the mouse scurried up to him and asked, "Why do you sleep all day?" The cat yawned and replied, "Because it's better than chasing mice all day like you do." The mouse was puzzled but intrigued and decided to follow the cat around for the day to see for himself. As the day went on, the mouse realized that the cat really did have a pretty cushy life and decided to take a nap too. From that day on, the lazy cat and the curious mouse became unlikely friends and they would often be found lounging together in the sun. 
+###
+6. Instruction: Edit the following paragraph so that it is more concise. 
+6. Input: 
+Ever since he was a little boy, John had dreamed of becoming a professional basketball player. He would practice for hours every day, and he would watch every game that he could. Over the years, he became quite good at the sport, but there were definitely times when he doubted himself. However, he never gave up on his dream, and he kept working hard, even when things were tough. Eventually, his perseverance paid off, and he was offered a spot on the local high school basketball team. He was thrilled, and he played his heart out every game, impressing everyone with his skill and dedication. Today, John is a professional basketball player, and he loves every minute of it. 
+6. Output: 
+From a young age, John aspired to be a professional basketball player. He practiced daily and avidly watched games. Despite doubt and challenges, John persisted and was eventually offered a spot on the high school team, impressing everyone with his skill and dedication. Today, he is a successful professional basketball player. 
+###
+7. Instruction: Generate a title for a news article about a new scientific discovery. 
+7. Input: 
+A team of researchers has just discovered a new type of <mask>.
+7. Output: 
+"Scientists Discover New Type of Microorganism With Potential for Medical Breakthroughs" 
+###
+8. Instruction: Write a social media post offering tips for staying motivated during workouts. 
+8. Input: 
+<noinput>
+8. Output: 
+"Struggling to stay motivated during your workouts? Here are some tips that work for me: 1) Set a clear goal for each workout, 2) Switch up your routine to avoid monotony, 3) Listen to music or a podcast to keep yourself entertained, and 4) Reward yourself for a job well done afterwards! What are your go-to strategies for staying motivated?" 
+###
+9. Instruction: Write a product description for a new camera model. 
+9. Input: 
+Introducing the new <mask> camera, complete with advanced features and high-quality imaging capabilities.
+9. Output: 
+Introducing the new Apex camera, designed for professional photographers and enthusiasts alike. Equipped with cutting-edge technology, the Apex boasts high-quality imaging capabilities, lightning-fast autofocus, and a user-friendly interface. Extended battery life and durable construction make it the perfect companion for on-the-go shooting. Capture every moment with stunning clarity and detail using the Apex camera. 
+###
+10. Instruction: Create a slogan for a coffee shop. 
+10. Input: 
+Welcome to <mask>, where our passion for coffee is only matched by our love for our customers.
+10. Output: 
+"Fuel your day with us! Come savor our expertly roasted coffee and experience the warmth of our community." 
+###
+11. Instruction: Edit the following sentence to eliminate redundancy. 
+11. Input: 
+The reason why I didn't come to work yesterday is because I woke up with a terrible headache. 
+11. Output: 
+I didn't come to work yesterday because I woke up with a terrible headache. 
+### 
+12. Instruction: Write an essay on the benefits of learning a second language. 
+12. Input: 
+Learning a second language can offer many benefits, including <mask> and <mask>.
+12. Output: 
+Learning a second language can offer many benefits, including enhanced cognitive abilities and increased job opportunities. Studies have shown that learning another language can help improve memory, problem-solving skills, and even boost creativity. Additionally, in today's global economy, being bilingual can be a major asset in the job market, opening up a world of career opportunities. From personal growth to professional advancement, there are numerous advantages to learning a second language. 
+###
+13. Instruction: Generate a short poem about the autumn season. 
+13. Input: 
+<noinput>
+13. Output: 
+As trees shed their coats of green,
+Crimson leaves adorn the scene,
+A crispness fills the morning air,
+Announcing autumn, fair and rare. 
+###
+14. Instruction: Classify the following animals into categories based on their diet: lion, rabbit, hawk, and cow. 
+14. Input: 
+<noinput>
+14. Output: 
+Lion and hawk are carnivorous animals, while rabbit and cow are herbivorous. 
+###
+15. Instruction: Edit the following sentence to ensure subject-verb agreement. 
+15. Input: 
+Despite their differences, neither the president nor the senators was willing to compromise. 
+15. Output: 
+Despite their differences, neither the president nor the senators were willing to compromise. 
+###
+16. Instruction: Write a user review for a new restaurant in town. 
+16. Input: 
+I recently tried out <mask>, and I was pleasantly surprised by <mask> and <mask>.
+16. Output: 
+I recently tried out the Bistro on Main, and I was pleasantly surprised by the delicious food and charming ambiance. From the moment we walked in, we were greeted with warm smiles and attentive service. The menu offered a wide variety of dishes, and everything we ordered was prepared to perfection. I especially loved the homemade pasta and the decadent desserts. Overall, I highly recommend the Bistro on Main for a delightful dining experience. 
+### 
+17. Instruction: Generate 3 interview questions to ask a candidate for a software engineering position. 
+17. Input: 
+<noinput>
+17. Output: 
+1) Can you walk us through your experience with debugging software? 
+2) How do you prioritize and manage competing deadlines on multiple software projects? 
+3) Have you ever implemented a new technology or programming language into an existing system? If so, can you tell us about the process and challenges you faced? 
+###
+18. Instruction: Write a how-to article about making a homemade face mask. 
+18. Input: 
+Making your own face mask is surprisingly easy! All you need is a few simple ingredients, including <mask>, <mask>, and <mask>.
+18. Output: 
+Making your own face mask is a natural, affordable way to keep your skin looking healthy and refreshed. To start, mix together one ripe avocado, one tablespoon of honey, and a teaspoon of turmeric in a bowl. Apply the mixture to your face, leave it on for 20 minutes, then rinse off with warm water. The avocado provides hydration and vitamin E, while honey is antibacterial and turmeric is anti-inflammatory. Use this mask once a week for glowing, rejuvenated skin. 
+###
+19. Instruction: Summarize the plot of a recent movie you've watched. 
+19. Input: 
+I recently watched <mask>, which tells the story of <mask> and <mask>.
+19. Output: 
+I recently watched the film Minari, which tells the story of a Korean-American family who moves to rural Arkansas in pursuit of the American Dream. The parents struggle to assimilate while raising their two children, and tensions rise when the grandparents move in with them. Through heartwarming and heartbreaking moments, the family learns to navigate their new surroundings and find their place in the world. 
+###
+20. Instruction: Generate a persuasive argument for why people should switch to using renewable energy. 
+20. Input: 
+Using renewable energy is a crucial step in reducing our carbon footprint and <mask>.
+20. Output: 
+Using renewable energy is not only a crucial step in reducing our carbon footprint, but it is also essential for preserving the health of our planet and future generations. Fossil fuels are finite resources that contribute to air pollution, climate change, and geopolitical conflicts. By transitioning to renewable energy sources such as wind, solar, and hydro power, we can create a more sustainable and stable energy future. Not only does renewable energy offer a cleaner and safer alternative, but it can also create new jobs and boost economic growth. By making the switch to renewable energy, we can foster a healthier and more prosperous world for all.

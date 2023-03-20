@@ -1,0 +1,118 @@
+4. Instruction: Convert the given temperature from Celsius to Fahrenheit.
+4. Input:
+25°C
+4. Output:
+77°F
+###
+5. Instruction: Write a limerick about the given subject. Make sure it has five lines with an AABBA rhyme scheme.
+5. Input:
+A sneaky raccoon
+5. Output:
+There once was a sneaky raccoon,
+Whose heists were all done by the moon,
+He'd steal and he'd run,
+Just having some fun,
+Till the farmer chased him with a spoon.
+###
+6. Instruction: Paraphrase the given sentence.
+6. Input:
+To avoid potential disappointment, travelers should book their tickets as early as possible.
+6. Output:
+It's best for travelers to reserve their tickets as soon as they can to prevent possible dissatisfaction.
+###
+7. Instruction: Evaluate the given argument and provide a counterargument.
+7. Input:
+People should not consume fruits because they contain too much sugar.
+7. Output:
+While it's true that fruits do contain natural sugars, they are also packed with essential vitamins, minerals, and dietary fiber, all of which are essential for a healthy and balanced diet. So, the benefits of consuming fruits, in moderation, far outweigh the concerns over their sugar content.
+###
+8. Instruction: Find the internal inconsistencies within the given statement.
+8. Input:
+Aliens from space have been observing Earth for centuries, yet they have never bothered to make contact due to their shy nature. They don't want to frighten us, and they are very disappointed when they see conspiracy theories claiming that they plan to invade our planet and destroy humanity.
+8. Output:
+Inconsistency 1: If aliens have been observing Earth for centuries, it is inconsistent with them being shy and not wanting to frighten us since they know that people are aware of their existence due to conspiracy theories.
+Inconsistency 2: If aliens do not want to make contact due to their shy nature, it doesn't make sense that they would become disappointed when conspiracy theories claim they plan to invade our planet. Shy beings would prefer not to be noticed at all.
+###
+9. Instruction: Explain the term "sharing economy" in a few sentences.
+9. Input:
+<noinput>
+9. Output:
+The sharing economy is a socio-economic model based on the sharing of resources, goods, and services between individuals, usually through digital platforms or peer-to-peer networks. It emphasizes collaborative consumption, where individuals have access to shared services or products instead of owning them. Examples include ride-sharing services like Uber, accommodation sharing platforms like Airbnb, and peer-to-peer lending services.
+###
+10. Instruction: List four potential effects of poor time management.
+10. Input:
+<noinput>
+10. Output:
+1. Increased stress and anxiety
+2. Missed deadlines and poor work performance
+3. Imbalance between work and personal life
+4. Loss of opportunities and hindered career growth
+### 
+
+11. Instruction: Read the given text and identify the main idea.
+11. Input:
+Climate change is one of the most pressing issues facing humanity today. It is primarily caused by the accumulation of greenhouse gases (GHG) in the Earth's atmosphere, which leads to global warming. The primary culprit for producing these gases is the burning of fossil fuels, such as coal, oil, and natural gas. As a result, there's been a push to transition to renewable energy sources, such as solar, wind, and hydro power. These clean, sustainable energy sources can help reduce GHG emissions and combat climate change.
+11. Output:
+The main idea is that the transition to renewable energy sources can help reduce greenhouse gas emissions and combat climate change, which is primarily caused by the burning of fossil fuels.
+###
+12. Instruction: Give three examples of metaphors that can be used to convey the concept of "struggle."
+12. Input:
+<noinput>
+12. Output:
+1. Life is an uphill battle.
+2. She had been swimming against the tide for years.
+3. Every step felt like climbing a mountain.
+###
+13. Instruction: List five popular tourist attractions in Paris, France.
+13. Input:
+<noinput>
+13. Output:
+1. Eiffel Tower
+2. Louvre Museum
+3. Notre-Dame Cathedral
+4. Sacré-Cœur Basilica
+5. Champs-Élysées and Arc de Triomphe
+###
+14. Instruction: Report any factual errors in the provided text.
+14. Input:
+The human brain is comprised of approximately 20 billion neurons, and its appearance somewhat resembles that of a walnut. The largest part of the brain, the cerebrum, is responsible for higher order thinking, while the cerebellum plays a role in controlling balance and complex motor functions. Neurons communicate with each other chemically across specialized spaces called synapses.
+14. Output:
+Factual error: The human brain, in fact, contains approximately 86 billion neurons, not 20 billion.
+###
+15. Instruction: From the given ingredients, suggest a simple recipe idea.
+15. Input:
+Salmon fillets, lemon, asparagus, olive oil, garlic, salt, pepper
+15. Output:
+Garlic Lemon Roasted Salmon with Asparagus: Season the salmon fillets with salt and pepper. In a baking dish, place the salmon fillets next to trimmed asparagus. Drizzle olive oil and lemon juice over the salmon and asparagus, then sprinkle minced garlic on top. Roast in a preheated oven at 400°F (200°C) for 15-20 minutes, or until the salmon is cooked through and the asparagus is tender.
+###
+16. Instruction: Identify any logical fallacies within the given argument.
+16. Input:
+People who advocate for exercising regularly overlook the fact that there are individuals who suffer from chronic injuries that prevent them from engaging in physical activity. Therefore, exercise proves to be an ineffective solution for overall health concerns.
+16. Output:
+The logical fallacy in the argument is a hasty generalization. The argument assumes that because exercise is not a feasible solution for a specific group of individuals (those with chronic injuries), it is an ineffective solution for overall health concerns. This ignores the numerous benefits of exercise for those who can safely participate in physical activity.
+###
+17. Instruction: Provide an example of a simile to describe a person's eyes.
+17. Input:
+<noinput>
+17. Output:
+Her eyes were as blue as the clear summer sky.
+###
+18. Instruction: Edit the given sentence for clarity and conciseness.
+18. Input:
+The beautiful and sometimes mysterious moon, which is Earth's natural satellite, is recognized as the planet's one and only natural satellite.
+18. Output:
+The beautiful and mysterious moon is Earth's only natural satellite.
+###
+19. Instruction: Describe the importance of having a healthy work-life balance.
+19. Input:
+<noinput>
+19. Output:
+Maintaining a healthy work-life balance is crucial for overall well-being. It helps to prevent burnout and reduces stress, which can lead to mental and physical health issues. A good balance ensures that individuals have enough time and energy to focus on their professional goals while also nurturing their personal relationships and engaging in leisure activities. In turn, this contributes to a happier, more fulfilling life, with greater productivity at work and stronger, more meaningful personal connections.
+###
+20. Instruction: Write a haiku about a thunderstorm.
+20. Input:
+<noinput>
+20. Output:
+Dark clouds gather near,
+Thunder roars, lightning flashes,
+Nature's dance in fear.

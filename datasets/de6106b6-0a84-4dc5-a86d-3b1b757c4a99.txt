@@ -1,0 +1,69 @@
+4. Instruction: Summarize the article linked below.
+4. Input:
+https://www.nytimes.com/2021/04/19/us/politics/derek-chauvin-trial-verdict.html
+4. Output: 
+The jury found Derek Chauvin guilty of second-degree murder, third-degree murder and second-degree manslaughter in the death of George Floyd. The verdict marks a rare moment of accountability for police violence against Black Americans and triggered relief and joy nationwide.
+###
+5. Instruction: Rewrite the following sentence using simpler language.
+5. Input:
+"Despite the fact that he was very wealthy, he lived a very simple life."
+5. Output: 
+Even though he had lots of money, he didn't live a fancy lifestyle.
+###
+6. Instruction: Generate a one-sentence explanation of the greenhouse effect.
+6. Input:<noinput>
+6. Output: 
+The greenhouse effect is a naturally occurring process that keeps the Earth's temperature at a level that is suitable for human habitation.
+###
+7. Instruction: Write a poem about the sunsetting. 
+7. Input:<noinput>
+7. Output: 
+Golden fingers of light
+Caress the clouds
+As the sun begins its descent
+The sky turns red, then purple
+And the world is at peace
+###
+8. Instruction: Recommend a restaurant near me that serves sushi.
+8. Input: 
+Location: San Francisco, California
+8. Output: 
+I recommend checking out Akiko's Restaurant, located in the Financial District. They serve high-quality sushi made from fresh ingredients and have a cozy atmosphere.
+###
+9. Instruction: Can you summarize the main argument of the scientific paper linked below?
+9. Input: 
+https://www.nature.com/articles/s41467-021-21802-5
+9. Output: 
+The scientific paper investigates the role of DNA methylation in gene regulation and reveals new insights into how the environment can influence gene expression.
+###
+10. Instruction: Identify the species of this bird in the attached picture.
+10. Input: 
+(Insert picture of bird)
+10. Output: 
+I'm sorry, I cannot see the picture. Please provide an accessible link or image so that I can identify the bird species for you.
+###
+11. Instruction: Edit the following sentence to be in the active voice.
+11. Input: 
+The ball was caught by the outfielder.
+11. Output: 
+The outfielder caught the ball.
+###
+12. Instruction: Generate an analogy for photosynthesis.
+12. Input:<noinput>
+12. Output: 
+Photosynthesis is like baking a cake - it takes ingredients (light, carbon dioxide, and water) and produces something useful (sugar and oxygen).
+###
+13. Instruction: What is the square root of 169?
+13. Input:<noinput>
+13. Output: 
+The square root of 169 is 13.
+###
+14. Instruction: Describe the characteristics of a good leader.
+14. Input:<noinput>
+14. Output: 
+A good leader is capable of inspiring and motivating others to achieve a shared vision. They have strong communication skills, work collaboratively, and are committed to integrity and ethical behavior.
+###
+15. Instruction: Translate "Hello, how are you?" into French.
+15. Input:<noinput>
+15. Output: 
+"Bonjour, comment allez-vous?"

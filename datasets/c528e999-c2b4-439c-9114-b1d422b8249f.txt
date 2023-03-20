@@ -1,0 +1,128 @@
+4. Instruction: Generate a rhyming poem about a sunset. 
+4. Input: 
+<noinput>
+4. Output: 
+The sun sets in the western sky,
+As orange and red dance on by,
+A sky of blue fading to black,
+Birds fly home, it's time to unpack.
+###
+5. Instruction: Write a product review for the AirPods Pro. 
+5. Input: 
+I recently purchased AirPods Pro and used them while traveling in a noisy airplane.
+5. Output: 
+AirPods Pro is a game changer when it comes to noise cancellation. I was able to ignore other passengers around me and just listen to my music. They fit comfortably and stayed in place for the entire flight. I highly recommend this product to anyone who frequently travels or commutes in a loud environment.
+###
+6. Instruction: Rewrite the given sentence using a different tense. 
+6. Input: 
+He will eat pizza for dinner tonight.
+6. Output: 
+He ate pizza for dinner last night.
+###
+7. Instruction: Generate a list of five healthy breakfast options for a person on a low-carb diet. 
+7. Input: 
+<noinput>
+7. Output: 
+- Greek yogurt with berries and nuts
+- Veggie omelette with cheese and avocado
+- Smoked salmon and cream cheese on a low-carb wrap
+- Chia seed pudding with almond milk and cinnamon
+- Spinach and mushroom frittata with turkey sausage
+###
+8. Instruction: Correct the given sentence for spelling and grammar. 
+8. Input: 
+Im going too the store and then im going too the park.
+8. Output: 
+I'm going to the store and then I'm going to the park.
+###
+9. Instruction: Generate a witty response to a friend who asks "What's up?" 
+9. Input: 
+<noinput>
+9. Output: 
+If I knew, I'd tell you! How about you tell me what's up in your world?
+###
+10. Instruction: Answer the given question. 
+10. Input: 
+What is the highest peak in the world?
+10. Output: 
+Mount Everest, located in the Himalayas, is the highest peak in the world at an elevation of 29,029 feet. 
+###
+11. Instruction: Generate a descriptive paragraph about a beach. 
+11. Input: 
+<noinput>
+11. Output: 
+The beach is a serene paradise, with glistening sand and rolling waves caressing the shore. The salty breeze and warm sun beckon visitors to relax and soak in the beauty, while the ocean offers endless options for adventure, from surfing to paddleboarding. The beach is a perfect escape from the hustle and bustle of daily life.
+###
+12. Instruction: Complete the given analogy with a correct word. 
+12. Input: 
+As coffee is to morning, ______ is to evening.
+12. Output: 
+wine
+###
+13. Instruction: Generate a list of three easy dinner recipes for a busy parent. 
+13. Input: 
+<noinput>
+13. Output: 
+- One-Pot Pasta with Spinach and Tomatoes
+- Slow Cooker Taco Soup
+- Lemon Chicken with Asparagus
+###
+14. Instruction: Summarize the given news article in one sentence. 
+14. Input: 
+News Article: Apple released a new iPhone model with a faster processor and better camera.
+14. Output: 
+Apple introduced an updated iPhone model featuring several upgrades, including a faster chip and improved camera functionality.
+###
+15. Instruction: Provide an appropriate headline for the given news article. 
+15. Input: 
+News Article: Scientists discover new species of colorful butterfly in South America.
+15. Output: 
+Newly Discovered Colorful Butterfly Species Found in South America.
+###
+16. Instruction: Edit the given paragraph to make it more concise. 
+16. Input: 
+During the summer months, my family and I often like to take weekend trips to the beach so we can relax and soak up the sun. We usually choose to drive instead of flying because it saves us money, and it's more convenient because we can bring all of our beach gear. Sometimes, we'll rent a beach house for a few days, and other times we'll stay in a hotel near the beach.
+16. Output: 
+During summer, my family drives to the beach, bringing our own gear and staying in a rental house or hotel.
+###
+17. Instruction: Generate a set of instructions for making chocolate chip cookies. 
+17. Input: 
+<noinput>
+17. Output: 
+1. Preheat oven to 375°F (190°C) and line a baking sheet with parchment paper.
+2. In a mixing bowl, cream together butter, white sugar, and brown sugar until smooth.
+3. Beat in eggs one at a time, then stir in vanilla extract.
+4. Combine flour, baking soda, and salt in a separate bowl.
+5. Gradually stir the dry ingredients into the butter mixture.
+6. Fold in chocolate chips.
+7. Drop spoonfuls of dough onto the prepared baking sheet and bake for 8-10 minutes.
+###
+18. Instruction: Generate a persuasive argument for adopting a shelter pet instead of buying from a breeder. 
+18. Input: 
+<noinput>
+18. Output: 
+Adopting a pet from a shelter is a compassionate and thoughtful choice. Not only are there plenty of amazing animals to choose from, but you're saving a life and supporting a valuable cause. Plus, shelter animals are often up-to-date on their vaccinations and spayed/neutered, saving you additional costs. Choosing a pet from a breeder perpetuates the cycle of animal overpopulation and contributes to breed-specific health problems.
+###
+19. Instruction: Generate a list of ten packing essentials for a hiking trip. 
+19. Input: 
+<noinput>
+19. Output: 
+- Backpack with hydration system
+- Hiking shoes/boots
+- Quick-dry moisture-wicking clothing
+- Waterproof and windproof jacket
+- Hat (sun protection)
+- Sunglasses
+- Sunscreen
+- Insect repellent
+- Map/compass
+- First aid kit
+###
+20. Instruction: Write a letter to your future self describing your current goals and aspirations. 
+20. Input: 
+<noinput>
+20. Output: 
+Dear future self, 
+As I write this, I am determined to achieve several goals, including advancing in my career, traveling to new places, and building better relationships with my loved ones. I hope when you read this, you can acknowledge the hard work and dedication that went into achieving these aspirations. Remember to always focus on the present moment and stay true to your values. 
+Best, 
+Your past self.

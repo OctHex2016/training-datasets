@@ -1,0 +1,62 @@
+4. Instruction: Which plants are suitable for an indoor vertical garden? 
+4. Input: 
+<noinput>
+4. Output: 
+- Pothos
+- Spider Plant
+- Ficus
+- Snake Plant
+- Philodendron
+- English Ivy
+- Ferns
+- Aeschynanthus (Lipstick plant)
+- ZZ Plant
+- String of Pearls
+- Dracaena 
+- Peace Lily
+###
+5. Instruction: Summarize the key points of the given text.
+5. Input: 
+Between 80,000 to 100,000 people in the United States start experiencing symptoms of Parkinson's disease each year. Parkinson's disease is a progressive disorder of the nervous system that affects movement. As the disease progresses, it can lead to tremors, slowed movement, and stiffness of the limbs. Other non-motor symptoms can include anxiety, depression, and cognitive impairment. While there is no known cure, treatment options are available to help manage symptoms.
+5. Output: 
+Approximately 80,000 to 100,000 people in the U.S. encounter Parkinson's disease symptoms annually. It is a progressive nervous system disorder affecting movement and characterized by tremors, slowed movement, limb stiffness, anxiety, depression, and cognitive impairment. No cure is known, but treatment can help manage symptoms.
+###
+6. Instruction: Modify the given recipe to make it vegetarian.
+6. Input: 
+Ingredients:
+- 1 lb ground beef
+- 1 onion, chopped
+- 2 garlic cloves, minced
+- 1 bell pepper, chopped
+- 1 can (15 oz) black beans, drained and rinsed
+- 1 can (10 oz) diced tomatoes and green chilies
+- 2 tsp chili powder
+- 1 tsp cumin
+- Salt and pepper to taste
+Instructions:
+1. In a large skillet, cook ground beef over medium heat until browned.
+2. Add onion, garlic, and bell pepper and cook for about 5 minutes.
+3. Stir in black beans, tomatoes, chili powder, cumin, salt, and pepper.
+4. Bring to a boil, then reduce heat and simmer for 20 minutes.
+6. Output: 
+Ingredients:
+- 1 lb meat substitute (e.g., crumbled tempeh, soy crumbles, or lentils)
+- 1 onion, chopped
+- 2 garlic cloves, minced
+- 1 bell pepper, chopped
+- 1 can (15 oz) black beans, drained and rinsed
+- 1 can (10 oz) diced tomatoes and green chilies
+- 2 tsp chili powder
+- 1 tsp cumin
+- Salt and pepper to taste
+Instructions:
+1. In a large skillet, cook meat substitute over medium heat until browned.
+2. Add onion, garlic, and bell pepper and cook for about 5 minutes.
+3. Stir in black beans, tomatoes, chili powder, cumin, salt, and pepper.
+4. Bring to a boil, then reduce heat and simmer for 20 minutes.
+###
+7. Instruction: Briefly describe the behavior of a typical house cat.
+7. Input: 
+<noinput>
+7. Output: 
+A typical house cat is a solitary and territorial animal. It sleeps for around 12-16 hours a day, is mostly nocturnal, and often engages in instinctual hunting behaviors like stalking and pouncing. House cats are known for their grooming habits and have complex communication methods, including vocalizations (meowing, purring), body language, and scent marking. They may display both affectionate and aloof behaviors, varying with individual personalities.

@@ -1,0 +1,106 @@
+4. Instruction: Translate the given phrase from English to German. 
+4. Input:
+Phrase: "How was your day?"
+4. Output:
+Wie war dein Tag?
+
+5. Instruction: Create a short weather forecast based on the provided data.
+5. Input:
+Temperature: 32 F, Humidity: 75%, Precipitation: 60%, Location: Chicago, Date: January 12th
+5. Output:
+Ladies and gentlemen, for January 12th in Chicago, we will see a cold day with a high of 32 F. Humidity will be at 75%, making it feel a bit chilly. Also, we have a 60% chance of precipitation, so don't forget to carry an umbrella.
+
+6. Instruction: Act as my nutritionist and analyze the health of the given meal. 
+6. Input:
+Food: Baked chicken with an orange glaze, green beans, quinoa, and Greek yogurt
+6. Output:
+It looks like a healthy balanced meal. Baked chicken is a lean source of protein, while green beans provide vitamins and minerals. Quinoa is a nutritious grain that includes fiber, and Greek yogurt adds some healthy fats and probiotics.
+
+7. Instruction: Revise the given sentence to convey the same meaning in a more concise way.
+7. Input:
+Sentence: "The meeting was very important and very crucial, because we had to discuss the project."
+7. Output: 
+The meeting was essential, as we had to discuss the project.
+
+8. Instruction: Is the provided information correct or incorrect? 
+8. Input: 
+<noinput>
+8. Output:
+Unclear
+
+9. Instruction: Identify the most appropriate genre for the given movie description. 
+9. Input:
+Movie Description: "When a group of friends ventures into a haunted house, they must survive a series of supernatural events that force them to question reality and the bonds of friendship."
+9. Output:
+Horror
+
+10. Instruction: Write a sentence using the given words.
+10. Input:
+Words: train, journey, friends
+10. Output:
+My friends and I are excited for our train journey across the country.
+
+11. Instruction: Generate a mildly humorous limerick.
+11. Input: 
+<noinput>
+11. Output:
+There once was a llama named Sue,
+Who decided to go to the zoo.
+She met a giraffe,
+Which made her laugh,
+And they danced the night through.
+
+12. Instruction: Write a rhyming couplet using the given words.
+12. Input:
+Words: rain, gain
+12. Output:
+In the midst of the rain, our spirits won't wane,
+For after the storm, comes new growth to gain.
+
+13. Instruction: Correct any grammatical or punctuation errors in the given sentence.
+13. Input:
+Sentence: "The dog chased it's tail spinning, in circle's."
+13. Output:
+The dog chased its tail, spinning in circles.
+
+14. Instruction: Reflect on the question and provide a thoughtful answer.
+14. Input:
+Question: How can individuals contribute to a more sustainable future?
+14. Output:
+Individuals can contribute to a more sustainable future by adopting eco-friendly practices like recycling, reducing energy consumption, using sustainable products, and promoting green initiatives in their communities. Supporting businesses that prioritize sustainability and raising awareness among friends and family members can also create positive change.
+
+15. Instruction: Determine if the statement is a fact or an opinion.
+15. Input:
+Statement: "Pineapple on pizza is the best topping combination."
+15. Output:
+Opinion
+
+16. Instruction: Identify the primary source of conflict in the given story.
+16. Input:
+Story: "Timmy was feeling overwhelmed with the number of chores he needed to complete before his friends arrived for their weekend sleepover. He felt as if he couldn't finish everything on time, and his stress level intensified when his younger brother requested help with his homework."
+16. Output:
+Time pressure and the number of chores Timmy had to complete
+
+17. Instruction: Place the dates in chronological order.
+17. Input:
+Dates: May 23rd, 2018; January 10th, 2020; December 9th, 2019
+17. Output:
+May 23rd, 2018; December 9th, 2019; January 10th, 2020
+
+18. Instruction: Write an motivational quote.
+18. Input:
+<noinput>
+18. Output:
+Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.
+
+19. Instruction: Paraphrase the provided quote.
+19. Input:
+Original Quote: "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. - Albert Einstein"
+19. Output:
+The power of imagination surpasses knowledge, as creativity can inspire advancement and drive progress, while knowledge has its limits. - Albert Einstein
+
+20. Instruction: Name a famous historical figure related to mathematics.
+20. Input:
+<noinput>
+20. Output:
+Isaac Newton

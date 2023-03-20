@@ -1,0 +1,52 @@
+4. Instruction: Convert the given paragraph into a poem.
+4. Input: 
+The sun was setting on the village, spreading its warm orange glow over the landscape. Children played in the fields, laughing with joy. The farmers returned from a hard day's work, dirt and sweat on their faces. The smell of fresh bread filled the air as the baker prepared for the evening meal.
+4. Output: 
+The sun's warm orange embrace,
+Kissed the village as it set.
+Children's laughter filled the fields,
+By joy and innocence beset.
+
+Weary farmers homeward trod,
+With faces lined by toil and sweat.
+Bakery scent of fresh warm bread,
+An evening meal's promise met.
+
+5. Instruction: Identify the five stages of grief according to the Kübler-Ross model.
+5. Input: 
+<noinput>
+5. Output: 
+Denial, Anger, Bargaining, Depression, Acceptance
+
+6. Instruction: Select the best mobile phone plan.
+6. Input:
+Plan A: Unlimited talk and text, 5 GB data, monthly price $30
+Plan B: Unlimited talk and text, 10 GB data, monthly price $45
+Plan C: Unlimited talk and text, 8 GB data, monthly price $40
+Plan D: Unlimited talk and text, 3 GB data, monthly price $25
+6. Output:
+Plan A: Unlimited talk and text, 5 GB data, monthly price $30
+
+7. Instruction: List three possible negative effects of consuming too much caffeine.
+7. Input:
+<noinput>
+7. Output:
+Sleep disturbances, increased heart rate, anxiety
+
+8. Instruction: Summarize the main idea of the text provided.
+8. Input: 
+In recent years, the push for renewable energy sources has become more apparent. Among these sources is solar power, which has grown in popularity due to its potential to reduce carbon dioxide emissions and the greenhouse effect. Solar energy can be harnessed through the use of solar panels, which convert sunlight into electricity. Numerous households and businesses are now installing solar panels on their roofs in a bid to reduce their carbon footprint and save on energy costs. The use of solar power is now considered one of the most promising ways to help combat climate change.
+8. Output:
+Solar power has grown in popularity as a renewable energy source that can help reduce carbon dioxide emissions and combat climate change. People are increasingly installing solar panels on buildings to decrease their carbon footprint and save on energy costs.
+
+9. Instruction: Proofread the given text and correct any mistakes found.
+9. Input:
+Sme people may argue that junk food has no place in todays schools, and other may contend that its avaability can allow people to make their own dietary chices.
+9. Output:
+Some people may argue that junk food has no place in today's schools, while others may contend that its availability can allow people to make their own dietary choices.
+
+10. Instruction: Provide a summary of the Harry Potter and the Philosopher's Stone book.
+10. Input:
+<noinput>
+10. Output:
+Harry Potter, an orphan living with his cruel relatives, discovers he's a wizard on his 11th birthday. He joins Hogwarts School of Witchcraft and Wizardry, making friends and enemies. Over the school year, Harry, along with his friends Hermione and Ron, uncovers the mystery of the Philosopher's Stone, which holds the key to immortality. Together, they prevent the return of the dark wizard, Lord Voldemort, and thwart his plan to regain power.

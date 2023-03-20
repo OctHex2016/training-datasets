@@ -1,0 +1,131 @@
+4. Instruction: Unscramble these words to form a meaningful English sentence: hot, tea, to, and, like, milk, add.
+4. Input: 
+<noinput>
+4. Output: 
+Add milk and hot tea to like.
+
+5. Instruction: Summarise the main theme or story in given text.
+5. Input: 
+The animal farm is a satirical story about a group of animals who rebel against their human farm owner to establish an independent farm. They attempt to create a society where they can live happily ever after. However, some of the animals crave power, leading to conflict and eventually, an oppressive new order resembling the old one. The story serves as a metaphor for political issues and corruption.
+5. Output: 
+Animal Farm is a satirical story about animals rebelling against their human owner, trying to create an ideal society, but ultimately facing power struggles and a return to an oppressive regime, reflecting political issues and corruption.
+
+6. Instruction: Explain the impact of the given historical event.
+6. Input: 
+The fall of the Berlin Wall
+6. Output: 
+The fall of the Berlin Wall marked the end of the division between East and West Germany, ultimately leading to the reunification of the country. This event symbolized the end of the Cold War and the decline of communism in Eastern Europe. It paved the way for political and economic changes, including the spread of democracy and the integration of East Germany into the European Union and NATO.
+
+7. Instruction: Suggest a possible career path based on the given person's interest.
+7. Input: 
+My name is Sarah, and I love learning about space, planets, and the universe. I enjoy solving mathematical problems and analyzing data.
+7. Output: 
+Sarah, given your interest in space, planets, and the universe, as well as your enjoyment of solving mathematical problems and analyzing data, a suitable career path for you could be becoming an astrophysicist, astronomer, or aerospace engineer.
+
+8. Instruction: Create a business idea based on the given concept.
+8. Input:
+Eco-friendly gym
+8. Output: 
+GreenFit: A sustainable gym powered by renewable energy that integrates clean energy technologies like solar panels and kinetic energy conversion systems from workout equipment to produce electricity. The facility would promote a healthy lifestyle while reducing its carbon footprint, offering eco-friendly workout gear, recycled flooring materials, and a focus on waste reduction, such as a water bottle refill station.
+
+9. Instruction: Describe the personality traits of the given zodiac sign.
+9. Input: 
+Leo
+9. Output: 
+Leos are known for their ambitious, confident, and charismatic nature. They are natural-born leaders who inspire others with their creativity, passion, and loyalty. Leos love to be the center of attention and enjoy being complimented. They can also be stubborn, prideful, and sometimes egotistical. Leos thrive in social situations and are generous, warm-hearted, and affectionate.
+
+10. Instruction: Give a movie recommendation satisfying the given criteria.
+10. Input: 
+Action-packed and featuring time travel
+10. Output: 
+Consider watching "Edge of Tomorrow" (2014), an action-packed sci-fi film that features time travel, aliens, and exciting battle scenes, starring Tom Cruise and Emily Blunt.
+
+11. Instruction: Suggest a workout routine for the given purpose.
+11. Input: 
+lose belly fat
+11. Output: 
+1. Warm-up: 5-min light cardio (jogging or jumping jacks)
+2. Plank: 3 sets x 1 min, 30-sec rest between sets
+3. Bicycle Crunches: 3 sets x 15 reps per side, 30-sec rest between sets
+4. Russian Twists: 3 sets x 15 reps per side, 30-sec rest between sets
+5. Mountain Climbers: 3 sets x 40-sec, 20-sec rest between sets
+6. Leg raises: 3 sets x 10-15 reps, 30-sec rest between sets
+7. Cool down: 5-min gentle stretching
+
+12. Instruction: Compare and contrast two given objects or concepts.
+12. Input: 
+Fruits and Vegetables
+12. Output: 
+Fruits and vegetables are both nutritious, providing essential vitamins and minerals. Fruits are generally sweeter, higher in sugar, and can be eaten as a snack or dessert. Vegetables tend to be lower in calories and sugar, with higher fiber content, making them ideal for weight management and nutrition. They can be consumed raw, steamed, or roasted as a side dish, salad, or main course. There is some overlap, however, as some foods like tomatoes, bell peppers, and cucumbers are botanically classified as fruits but are commonly referred to as vegetables in culinary contexts.
+
+13. Instruction: Explain the given scientific concept in simple terms.
+13. Input: 
+Quantum entanglement
+13. Output: 
+Quantum entanglement is a phenomenon in quantum physics where two or more particles become connected in such a way that the state of one particle is directly related to the state of the other, even over vast distances. It's like having two coins that are so connected that if you flip one and it shows heads, you know the other one will also show heads, no matter how far apart they are.
+
+14. Instruction: Write a short motivational message incorporating the given quote.
+14. Input: 
+"Even the darkest night will end, and the sun will rise."
+14. Output: 
+When times are tough and you feel lost in the darkness, remember that "Even the darkest night will end, and the sun will rise." Have faith that brighter days are coming, and you will emerge stronger and more resilient.
+
+15. Instruction: List three possible destinations for a weekend getaway based on the person's preferences.
+15. Input: 
+Enjoy hiking, nature, and photography
+15. Output: 
+1. Yosemite National Park, California 
+2. Zion National Park, Utah
+3. Smoky Mountains National Park, Tennessee 
+
+16. Instruction: Give an explanation or origin of the given idiom.
+16. Input: 
+Bite the bullet
+16. Output: 
+"Bite the bullet" is an idiom that means to face a difficult or unpleasant situation with courage and resolution. The origin of the phrase dates back to the early 19th century when injured soldiers, during surgery or the removal of a bullet, would literally bite on a lead bullet to endure the pain without screaming or flinching.
+
+17. Instruction: Suggest a recipe using the given ingredient as a main component.
+17. Input: 
+Avocado
+17. Output: 
+Avocado Egg Salad:
+Ingredients:
+- 2 ripe avocados
+- 4 hard-boiled eggs
+- 1/4 cup finely chopped celery
+- 1/4 cup chopped green onions
+- 1/4 cup chopped fresh cilantro
+- 2 tablespoons mayonnaise
+- 2 tablespoons lemon juice
+- Salt and pepper, to taste
+Instructions:
+1. Peel and dice avocados and hard-boiled eggs.
+2. In a mixing bowl, combine avocado, eggs, celery, green onions, and cilantro.
+3. Add mayonnaise and lemon juice, mix well.
+4. Season with salt and pepper, taste and adjust as needed.
+5. Enjoy as a sandwich filling, wrapped in a lettuce leaf, or on its own.
+
+18. Instruction: Rewrite the given sentence in the passive voice.
+18. Input: 
+The dog chased the cat.
+18. Output: 
+The cat was chased by the dog.
+
+19. Instruction: Give tips or advice for the given situation.
+19. Input: 
+Sleeping better at night
+19. Output: 
+1. Maintain a consistent sleep schedule - go to bed and wake up at the same time every day.
+2. Create a relaxing bedtime routine, like reading, meditating, or taking a warm bath.
+3. Limit exposure to blue light from screens at least 1 hour before bedtime.
+4. Keep the bedroom cool, dark, and quiet.
+5. Invest in a comfortable mattress and pillows.
+6. Avoid caffeine, nicotine, and alcohol close to bedtime.
+7. Exercise regularly, but not too close to bedtime.
+8. Address sources of stress and practice relaxation techniques.
+
+20. Instruction: Provide a brief overview of the given medical condition.
+20. Input: 
+Parkinson's disease
+20. Output: 
+Parkinson's disease is a progressive neurological disorder that affects movement, leading to tremors, stiffness, and difficulty with balance and coordination. The disease is caused by the loss of dopamine-producing brain cells, although the exact cause is still unknown. Symptoms usually begin slowly and worsen over time. There is no cure for Parkinson's disease, but treatments can help manage symptoms, including medications, physical therapy, and, in some cases, surgery to stimulate the brain.

@@ -1,0 +1,58 @@
+4. Instruction: Rewrite the following sentence in passive voice: "The baker is baking a cake for the party."
+4. Input: 
+Sentence: The baker is baking a cake for the party.
+4. Output: 
+Sentence: A cake is being baked by the baker for the party.
+###
+5. Instruction: Suggest a fitting title for the following story: "A young girl named Emily finds a magical garden in her backyard. The garden transforms with her thoughts, taking her on adventures and teaching her valuable life lessons."
+5. Input: 
+<noinput>
+5. Output: 
+Title: "Emily's Enchanted Garden: Journeys Through a Magical Realm"
+###
+6. Instruction: Given the following summarized financial report, estimate the percentage increase in sales: "Company XYZ reported sales of $25 million in 2020 and $30 million in 2021."
+6. Input: 
+Financial Report Summary: Company XYZ reported sales of $25 million in 2020 and $30 million in 2021.
+6. Output: 
+The estimated percentage increase in sales is 20%. 
+###
+7. Instruction: State whether each historical event listed below is true (T) or false (F).
+7. Input: 
+1. The Great Wall of China was built to protect China from Mongol invasions.
+2. Marie Antoinette famously said, "Let them eat cake," during the French Revolution.
+3. The famous scientist Albert Einstein wrote the Theory of Evolution.
+4. The Trojan War was a series of conflicts between the Greeks and the ancient city of Troy.
+
+7. Output: 
+1. T
+2. F
+3. F
+4. T
+###
+8. Instruction: Edit the following paragraph for grammar, punctuation, and sentence structure.
+
+8. Input: 
+Paragraph: "My frend and me went too the store we're going too make homemaid pizza. There were so many choises of topings to pick from, mushrooms pepporoni onion and even pineaple. I like the tast of pineapple so I put it on my pizza my friend doesnt like pineapple on his pizza I dont understand why. 
+
+8. Output: 
+Paragraph: "My friend and I went to the store because we were going to make homemade pizza. There were so many choices of toppings to pick from: mushrooms, pepperoni, onion, and even pineapple. I like the taste of pineapple, so I put it on my pizza. My friend doesn't like pineapple on his pizza; I don't understand why."
+###
+9. Instruction: Propose a scientific experiment to test the effects of caffeine on memory.
+9. Input: 
+<noinput>
+9. Output: 
+Experiment: The effects of caffeine on memory 
+
+1. Participants: Recruit a group of 50 volunteers, ensuring an even distribution of ages, genders, and general health profiles.
+
+2. Pre-test: Administer a memory test to establish baseline performance scores for each participant. Record each score.
+
+3. Group division: Randomly divide the participants into two groups: the caffeine group and the control group.
+
+4. Intervention: For two weeks, provide a daily dose of caffeine (in the form of a beverage, pill, or gum) to the caffeine group, and an identical-looking placebo to the control group. Ensure both the participants and the researchers conducting the experiment are blinded to the group assignments.
+
+5. Post-test: Administer the same memory test to both groups at the end of the two-week period. Record each score.
+
+6. Data analysis: Compare the pre- and post-test scores, calculating the average change in memory performance for each group. Use a t-test to determine if there is a statistically significant difference in memory improvement between the caffeine group and the control group.
+
+7. Conclusion: Based on the data analysis, determine whether caffeine has a significant effect on memory performance.

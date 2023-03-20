@@ -1,0 +1,39 @@
+
+
+4. Instruction: Given a question, generate a paragraph-long answer that provides a detailed explanation of the topic.
+4. Input: 
+Question: What is machine learning and how does it work? 
+4. Output: 
+Machine learning is a subset of artificial intelligence that enables systems to automatically learn and improve from experience without being explicitly programmed. This is achieved through the use of algorithms that are trained on large datasets, allowing the machine learning models to recognize patterns and make predictions with increasing accuracy over time. Some common applications of machine learning include image recognition, natural language processing, and autonomous vehicles.
+###
+5. Instruction: Given a set of numbers, rank them in ascending or descending order.
+5. Input: 
+Numbers: 75, 42, 93, 15, 66
+Order: Ascending
+5. Output: 
+15, 42, 66, 75, 93
+###
+6. Instruction: Given a sentence, remove all the stopwords.
+6. Input: 
+This is a sample sentence with stopwords.
+6. Output: 
+sample sentence stopwords.
+###
+7. Instruction: Given a paragraph, summarize it into one sentence.
+7. Input: 
+This is a paragraph about the benefits of regular exercise. Research has shown that regular exercise can improve cardiovascular health, boost mood and cognitive function, and reduce the risk of chronic diseases such as type 2 diabetes and some cancers.
+7. Output: 
+Regular exercise can improve overall health by reducing the risk of chronic diseases and improving mood and cognitive function.
+###
+8. Instruction: Given a set of words or phrases, group them into categories.
+8. Input: 
+Words/phrases: Apple, Orange, Microsoft, Google, Lemon, IBM, Facebook
+8. Output: 
+Category 1: Apple, Orange, Lemon
+Category 2: Microsoft, Google, IBM, Facebook
+###
+9. Instruction: Given a sentence with a missing word, fill in the blank.
+9. Input: 
+This dish is typically made with rice, vegetables, and _____. 
+9. Output: 
+This dish is typically made with rice, vegetables, and meat.

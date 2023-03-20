@@ -1,0 +1,152 @@
+4. Instruction: Explain the significance of following quote in the context of the story.
+4. Input: 
+"The best laid schemes o' Mice an' Men, Gang aft agley."
+— "To a Mouse" by Robert Burns
+4. Output: 
+In the context of the story, this quote indicates that even the most well-thought-out plans can go awry or fail. The quote is used to remind the reader that, despite the intentions and efforts of the characters, their plans might not come to fruition due to unforeseen circumstances or fate.
+
+###
+
+5. Instruction: List three reasons why solar panels are beneficial for the environment.
+5. Input: 
+<noinput>
+5. Output:
+1. Solar panels produce clean energy with no greenhouse gas emissions, reducing our reliance on fossil fuels.
+2. They help conserve natural resources by providing a renewable source of energy.
+3. The use of solar panels has a lower carbon footprint compared to traditional energy generation methods.
+
+###
+
+6. Instruction: Write an appropriate explanation based on the following customer complaint.
+6. Input:
+I ordered a red sweater in a size small, but I received a blue sweater in size large.
+6. Output:
+Dear customer, we apologize for the inconvenience you have experienced. It appears there has been a mix-up in our warehouse, and we have sent you the wrong item. We will arrange for the return of the incorrect item and expedite the dispatch of the correct red sweater in size small. Thank you for your understanding and patience.
+
+###
+
+7. Instruction: Determine if the given password meets the following criteria: at least 8 characters, uppercase and lowercase letters, at least one number, and at least one special character (!, @, #, $, %, ^, &, *).
+7. Input:
+Password123!
+7. Output:
+Meets criteria.
+
+###
+
+8. Instruction: Add punctuation marks to the text to make the transcription grammatically correct.
+8. Input:
+This is my first visit to New York City I am super excited about seeing the Statue of Liberty and the Empire State Building also we are going to Broadway to watch a musical
+8. Output:
+This is my first visit to New York City. I am super excited about seeing the Statue of Liberty and the Empire State Building! Also, we are going to Broadway to watch a musical.
+
+###
+
+9. Instruction: Identify the logical fallacy in the argument.
+9. Input:
+Everyone in my family loves spicy food, so spicy food must be popular all around the world.
+9. Output:
+Hasty generalization.
+
+###
+
+10. Instruction: Make a suggestion for a suitable title for the article based on the given excerpt.
+10. Input:
+The article discusses the importance of mental health for overall well-being and emphasizes various techniques, like meditation, therapy, sleep, and exercise, that contribute to a balanced mental state.
+10. Output:
+Title Suggestion: "Achieving Balance: Strategies for Enhancing Mental Health and Overall Well-being"
+
+###
+
+11. Instruction: Summarize the content of the email in one sentence.
+11. Input:
+We are reaching out to inform you that your subscription to our ABC magazine has lapsed, and since you have been a loyal customer for the last three years, we would like to offer you a 30% discount on a one-year renewal, which can be claimed by using the promo code "LOYALTY30" when you check out.
+11. Output:
+Your ABC magazine subscription has expired; as a loyal customer, enjoy a 30% discount on a one-year renewal with promo code "LOYALTY30."
+
+###
+
+12. Instruction: What is the figurative meaning of the idiom "don't put all your eggs in one basket"?
+12. Input:
+<noinput>
+12. Output:
+Diversify your investments or avoid focusing all your efforts on one thing, as the failure might lead to considerable losses or negative outcomes.
+
+###
+
+13. Instruction: Identify the singer, song title, and the year of release for the provided lyrics.
+13. Input:
+'Cause, baby, you're a firework
+Come on, show them what you're worth
+Make them go, "Ah, ah, ah"
+As you shoot across the sky
+13. Output:
+Singer: Katy Perry
+Song Title: "Firework"
+Year of Release: 2010
+
+###
+
+14. Instruction: Based on the provided ingredients, suggest a possible dish to create.
+14. Input:
+ground beef, onions, tomato sauce, garlic, pasta, Parmesan cheese, basil
+14. Output:
+Spaghetti Bolognese
+
+###
+
+15. Instruction: Write a thank-you note for the birthday gift you received.
+15. Input:
+Gift: A set of headphones
+Giver: Aunt Emily
+15. Output:
+Dear Aunt Emily,
+
+I wanted to express my gratitude for the amazing set of headphones you gifted me for my birthday. Your thoughtfulness never ceases to amaze me, and I am truly in love with the sound quality they provide. I can't wait to enjoy my favorite tunes even more now!
+
+Thank you once again for your generous gift.
+
+Sincerely,
+[Your Name]
+
+###
+
+16. Instruction: Translate the following sentence from English to French.
+16. Input:
+The weather is nice today. We should go for a walk in the park.
+16. Output:
+Le temps est beau aujourd'hui. Nous devrions aller nous promener dans le parc.
+
+###
+
+17. Instruction: Identify the poetic structure of the following stanza.
+17. Input:
+Had I the heavens' embroidered cloths,
+Enwrought with golden and silver light,
+The blue and the dim and the dark cloths
+Of night and light and the half-light,
+17. Output:
+Quatrain
+
+###
+
+18. Instruction: Provide the boiling point of water in the Kelvin temperature scale.
+18. Input:
+<noinput>
+18. Output:
+373.15 K
+
+###
+
+19. Instruction: Describe the setting of the book "To Kill a Mockingbird" by Harper Lee.
+19. Input:
+<noinput>
+19. Output:
+The setting for "To Kill a Mockingbird" is the small, racially-divided Southern town of Maycomb, Alabama, in the 1930s during the Great Depression.
+
+###
+
+20. Instruction: Correct the spelling mistakes in the given passage.
+20. Input:
+Once apon a time, in the anshanet kingdom of Mythrida, rulled by the benevelent King Mortimus and his wife, Queen Elinora, there was a mighty hero naned Galanor.
+20. Output:
+Once upon a time, in the ancient kingdom of Mythrida, ruled by the benevolent King Mortimus and his wife, Queen Elinora, there was a mighty hero named Galanor.

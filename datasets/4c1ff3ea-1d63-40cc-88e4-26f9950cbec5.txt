@@ -1,0 +1,49 @@
+4. Instruction: Summarize the passage provided in one sentence.
+4. Input: 
+Whales are the biggest animals on Earth today. They evolved from land-dwelling animals related to the hippopotamus that lived around 50 million years ago. The two main types of modern whales are toothed whales and baleen whales. Toothed whales, such as orcas and sperm whales, have teeth for hunting and feed primarily on fish and squid. Baleen whales, on the other hand, like blue whales and humpback whales, have baleen plates that enable them to filter-feed on tiny krill and small fish present in massive quantities in the ocean.
+4. Output: 
+Whales, Earth's largest animals, evolved from land-dwelling ancestors around 50 million years ago, and are classified into toothed whales, which hunt fish and squid, and baleen whales that filter-feed on krill and small fish.
+
+5. Instruction: Edit and rewrite the following passage, correcting the grammatical and spelling errors.
+5. Input: 
+Their are alot of misconseptions about gemstoens energetiks. Many people believe that differnt gemstones carry specifc energetik frequencies that can be used to heal, protect, and alleviate various issues related to emtional well being. Buy healing gemstones, such as ametist, rose quartz or aquamarine, at a metaphisical shop or online.
+5. Output: 
+There are many misconceptions about gemstone energetics. People often believe that different gemstones carry specific energetic frequencies that can be used to heal, protect, and alleviate various emotional well-being issues. Purchase healing gemstones, such as amethyst, rose quartz, or aquamarine, from a metaphysical shop or online.
+
+6. Instruction: Suggest a creative and memorable restaurant name based on the following theme: 
+6. Input: 
+Mediterranean and Middle Eastern fusion cuisine.
+6. Output: 
+Medi-East Feast
+
+7. Instruction: Estimate how many calories are contained in a balanced meal for an average adult, consisting of:
+7. Input: 
+<noinput>
+7. Output: 
+A balanced meal for an average adult typically contains around 600 to 800 calories.
+
+8. Instruction: Turn the following recipe ingredients list into a complete shopping list:
+8. Input: 
+1 tablespoon olive oil, 1 onion, 1 clove garlic, 500g ground beef, 3/4 teaspoon salt, 1/4 teaspoon ground black pepper, 400g canned diced tomatoes, 450g spaghetti, 1/4 cup grated Parmesan cheese
+8. Output: 
+1. 1 tablespoon olive oil
+2. 1 onion
+3. 1 clove garlic
+4. 500g ground beef
+5. Salt
+6. Ground black pepper
+7. 400g canned diced tomatoes
+8. 450g spaghetti
+9. 1/4 cup grated Parmesan cheese
+
+9. Instruction: Write an appropriate introduction for an article about "The Positive Impacts of Owning a Pet".
+9. Input: 
+<noinput>
+9. Output: 
+Pets play a significant role in our lives and contribute immensely to our overall well-being. In this article, we will explore the various ways in which pet ownership positively impacts us, touching upon aspects like physical health, mental well-being, companionship, and socialization.
+
+10. Instruction: What are the primary colors used in art and design?
+10. Input: 
+<noinput>
+10. Output: 
+The primary colors used in art and design are red, blue, and yellow.

@@ -1,0 +1,70 @@
+4. Instruction: Summarize the given article in 2-3 sentences.
+4. Input: 
+"New AI Technology Identifies Cancer Cells
+Researchers from the University of Tokyo have recently developed a groundbreaking AI technology that can detect and identify cancer cells with high accuracy. This technology uses machine learning algorithms to analyze microscopic images of individual cells in real-time. With its ability to process large amounts of data, the new AI system can help to significantly speed up the diagnosis process and assist in developing more effective treatment plans."
+4. Output: 
+Researchers at the University of Tokyo have created an AI technology that accurately detects and identifies cancer cells through real-time analysis of microscopic cell images. This innovation promises to expedite diagnosis and contribute to more effective treatment strategies.
+
+5. Instruction: Translate the given sentence into Spanish.
+5. Input: 
+I love to travel but sometimes I miss my family.
+5. Output: 
+Me encanta viajar, pero a veces extraño a mi familia.
+
+6. Instruction: Describe the process to make scrambled eggs.
+6. Input: 
+<noinput>
+6. Output: 
+1. Crack eggs into a bowl and beat them with a fork or whisk.
+2. Add milk or cream, salt, and pepper, and mix well.
+3. Heat a non-stick pan over medium heat and add butter or oil.
+4. Pour the egg mixture into the pan and let it sit for a few seconds.
+5. Gently stir and fold the eggs with a spatula, allowing the uncooked mixture to reach the pan's surface.
+6. Continue stirring until the eggs are cooked to your desired consistency.
+7. Remove the scrambled eggs from the pan and serve immediately.
+
+7. Instruction: List the top 3 common reasons for procrastination.
+7. Input: 
+<noinput>
+7. Output: 
+1. Fear of failure or perfectionism
+2. Lack of motivation or interest
+3. Poor time management or distractions
+
+8. Instruction: Identify the writing style implemented in the given text.
+8. Input: 
+"Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+While I nodded, nearly napping, suddenly there came a tapping,
+As of someone gently rapping, rapping at my chamber door."
+8. Output: 
+Gothic and poetic
+
+9. Instruction: Correct any grammatical errors in the following sentence.
+9. Input: 
+Me and him went to see the movie after eating an pizza together.
+9. Output: 
+He and I went to see the movie after eating a pizza together.
+
+10. Instruction: Create a haiku about nature.
+10. Input: 
+<noinput>
+10. Output: 
+Whispering breeze speaks
+Rustling leaves in harmony
+Nature breathes in peace
+
+11. Instruction: Arrange these events in chronological order: American Civil War, World War II, French Revolution, World War I.
+11. Input: 
+<noinput>
+11. Output: 
+French Revolution, American Civil War, World War I, World War II
+
+12. Instruction: Identify the independent and dependent variables in the given statement: "Students who eat breakfast perform better on their exams."
+12. Input: 
+<noinput>
+12. Output: 
+Independent variable: Eating breakfast
+Dependent variable: Exam performance
+
+13. Instruction: What is the square root of 81?

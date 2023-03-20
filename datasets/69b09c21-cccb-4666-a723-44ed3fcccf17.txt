@@ -1,0 +1,52 @@
+4. Instruction: Compose a short limerick about a person named John.
+4. Input:
+<noinput>
+4. Output:
+There once was a fellow named John,
+Whose laughter seemed much like a song,
+He skipped and he twirled,
+All around the world,
+And danced where the shadows are long.
+
+5. Instruction: Summarize the following text about climate change.
+5. Input:
+Climate change refers to the long-term alterations in the Earth's climate patterns, such as temperature, precipitation, and wind, over the span of many decades or longer. Climate change is caused primarily by an increase of greenhouse gases, such as carbon dioxide and methane, which are released into the atmosphere through human activities like burning fossil fuels, deforestation, and industrial processes. As a result, the Earth's average temperature rises, leading to more extreme weather, rising sea levels, and adverse effects on ecosystems and human health. To mitigate the consequences of climate change, actions such as reducing greenhouse gas emissions, transitioning to renewable energy sources, and promoting sustainable land use are crucial.
+5. Output:
+Climate change, a long-term shift in Earth's climate patterns, is caused mainly by greenhouse gas emissions from human activities like fossil fuel burning, deforestation, and industry. It results in increased global temperatures, extreme weather, rising sea levels, and negative impacts on ecosystems and human health. Mitigation strategies include reducing emissions, using renewable energy, and embracing sustainable land use.
+
+6. Instruction: Provide advice on reducing anxiety before a job interview.
+6. Input:
+<noinput>
+6. Output:
+To reduce anxiety before a job interview, try these tips:
+1. Prepare well by researching the company, practicing common interview questions, and knowing your strengths and weaknesses.
+2. Visualize a successful outcome and focus on positive self-talk.
+3. Get a good night's sleep and eat a nourishing meal prior to the interview.
+4. Dress professionally and arrive early to avoid added stress.
+5. Practice deep breathing or mindfulness techniques to stay calm in the moment.
+6. Remind yourself that interviews are also an opportunity to evaluate the company and ask questions.
+
+7. Instruction: Correct grammatical errors in the following text.
+7. Input:
+Do its important to be on time at they're work to shows you are serious about youre job. When your late for meetings you not only affect your own productivity but also others employee it's.
+7. Output:
+It's important to be on time at their work to show you are serious about your job. When you're late for meetings, you not only affect your own productivity but also that of other employees.
+
+8. Instruction: Rewrite the following recipe instructions in the imperative mood.
+8. Input:
+Begin by preheating your oven to 350°F (175°C). In a large bowl, mix the flour, sugar, and salt. Next, cut the butter into small pieces and blend it into the flour mixture with your fingers. When the butter is evenly mixed, press the dough into a well-greased rectangular pan. You will need to bake it for 20 minutes or until the edges are slightly golden.
+8. Output:
+Preheat the oven to 350°F (175°C). Mix the flour, sugar, and salt in a large bowl. Cut the butter into small pieces and blend it into the flour mixture using your fingers. Press the dough into a well-greased rectangular pan. Bake for 20 minutes or until the edges are slightly golden.
+
+9. Instruction: Explain the process of photosynthesis in brief.
+9. Input:
+<noinput>
+9. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight, carbon dioxide (CO2), and water (H2O) into glucose and oxygen (O2). In the presence of sunlight, plants use chlorophyll (a green pigment) in their chloroplasts to absorb light energy. This energy is used to split water molecules into hydrogen and oxygen. The hydrogen combines with CO2 to form glucose, which serves as the plant's energy source, while the excess oxygen is released into the atmosphere.
+
+10. Instruction: Calculate how many liters of paint are needed to cover a room's walls, given the dimensions and coverage per liter.
+10. Input:
+Room dimensions: length 6 meters, width 4 meters, height 3 meters
+Paint coverage: 1 liter covers 12 square meters
+10. Output:
+The walls' total surface area is calculated as (2 x height x length) + (2 x height x width) = (2 x 3 x 6) + (2 x 3 x 4) = 36 + 24 = 60 square meters. With the paint covering 12 square meters per liter, you'll need 60 / 12 = 5 liters of paint to cover the room's walls.

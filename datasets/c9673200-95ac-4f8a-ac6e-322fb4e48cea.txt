@@ -1,0 +1,44 @@
+4. Instruction: Correct the grammar and punctuation mistakes in the given text.
+4. Input: 
+we was at the store, when we herd the news that the store was closer? she whispered that i should go; back home which,I immediately did.
+4. Output: 
+We were at the store when we heard the news that the store was closed. She whispered that I should go back home, which I immediately did.
+
+5. Instruction: Summarize the main idea of the given text.
+5. Input: 
+Global warming is a long-term process of rising average temperature of the Earth's landmass and oceans. The major cause of this increase is the excessive release of carbon dioxide and greenhouse gases into the atmosphere. These gases trap heat within the Earth's atmosphere, which leads to an increase in global temperatures. The consequence of this rising temperature includes extreme weather events like floods, hurricanes, and droughts, as well as loss of biodiversity and sea level rise. The increasing economic cost and humanitarian impact make it necessary for governments and industries to reduce emissions and invest in sustainable energy sources.
+5. Output: 
+Global warming, mainly caused by excessive carbon dioxide and greenhouse gas emissions, leads to rising temperatures and devastating consequences such as extreme weather events, loss of biodiversity, and sea level rise. Addressing this crisis requires reducing emissions and investing in sustainable energy.
+
+6. Instruction: Translate the following sentence from English to French.
+6. Input: 
+Please bring me a glass of water.
+6. Output: 
+S'il vous plaît, apportez-moi un verre d'eau.
+
+7. Instruction: Write an Amazon review for a recently bought Bluetooth speaker, focusing on its sound quality and design.
+7. Input: <noinput>
+7. Output:
+I recently purchased this Bluetooth speaker, and I must say I'm very impressed with its sound quality and design. The high and low frequencies are well-balanced, creating a crisp and clear listening experience. This speaker also gets pretty loud without any distortion, which is perfect for parties and gatherings.
+
+Furthermore, the design is sleek and modern, adding a touch of elegance to any room. It's easy to connect to my devices, and the built-in battery lasts for hours of continuous listening. Overall, I am genuinely delighted with this Bluetooth speaker and highly recommend it to anyone in need of quality audio and stylish design.
+
+8. Instruction: List the five downsides of working from home.
+8. Input: <noinput>
+8. Output:
+1. Lack of social interaction with colleagues
+2. Difficulty in separating work and personal life
+3. Distractions from household tasks or family members
+4. Limited opportunities for networking and career development
+5. Potential issues with communication and collaboration
+
+9. Instruction: Determine the risk level of the investment from the given information (low, moderate, or high risk).
+9. Input:
+The investment offers a steady annual return of 3%. It is backed by government bonds and considered as one of the most secure and stable investment options.
+9. Output: 
+low risk
+
+10. Instruction: Write a condolence message for the loss of someone's beloved pet.
+10. Input: <noinput>
+10. Output:
+I am so sorry to hear about the loss of your beloved pet. I know how much they meant to you, and the bond you shared was truly special. During this difficult time, I hope you find comfort in the love, memories, and the joy they brought into your life. Please know that I am here for you, and you have my deepest sympathy.

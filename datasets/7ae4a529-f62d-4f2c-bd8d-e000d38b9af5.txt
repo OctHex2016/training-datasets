@@ -1,0 +1,110 @@
+4. Instruction: Edit the following sentence to make it grammatically correct: "Me and my friends is going to the beach." 
+4. Input: 
+<noinput>
+4. Output: 
+My friends and I are going to the beach. 
+###
+5. Instruction: Summarize the main idea of the article titled "How to Improve Your Memory" in one sentence. 
+5. Input: 
+<noinput>
+5. Output: 
+The article describes various strategies including association, visualization, and repetition to aid in memory improvement. 
+###
+6. Instruction: Generate a list of the top 5 highest-paid actors in Hollywood in descending order based on their income in 2021. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Dwayne "The Rock" Johnson 
+2. Ryan Reynolds 
+3. Mark Wahlberg 
+4. Ben Affleck
+5. Vin Diesel
+###
+7. Instruction: Write a short story about a cat who gets lost and eventually finds its way back home. 
+7. Input: 
+<noinput>
+7. Output: 
+Once upon a time, a curious cat named Tom wandered outside his home and got lost. As it got darker, Tom became scared, but eventually he found his way back home by following the sound of his owners' voices. From then on, Tom never wandered away again. 
+###
+8. Instruction: Find the nearest Italian restaurant to me and provide its address and phone number. 
+8. Input: 
+<noinput>
+8. Output: 
+The nearest Italian restaurant to you is "Luigi's Italian Restaurant" located at 123 Main St. Its phone number is (555) 123-4567. 
+###
+9. Instruction: Classify the following sentence as simple, compound, or complex: "I went to the store and bought some milk." 
+9. Input: 
+<noinput>
+9. Output: 
+Compound: two independent clauses joined by the coordinating conjunction "and." 
+###
+10. Instruction: Explain the difference between a renewable and non-renewable energy source. 
+10. Input: 
+<noinput>
+10. Output: 
+Renewable energy sources, such as wind and solar, are replenished naturally and can be used indefinitely. Non-renewable energy sources, such as coal and oil, are finite and cannot be replaced once they are used up. 
+###
+11. Instruction: Write a poem about the changing of the seasons from Summer to Fall. 
+11. Input: 
+<noinput>
+11. Output: 
+The leaves of green, now turn to gold,
+As summer's warmth begins to fold.
+The air grows crisp, the days grow short,
+But Autumn's beauty will not abort. 
+###
+12. Instruction: Correct the spelling of the word and use it in a sentence: "Recomend" 
+12. Input: 
+<noinput>
+12. Output: 
+Recommend. Sentence: I would strongly recommend that you try the lasagna at that restaurant. 
+###
+13. Instruction: Answer the following math problem: "What is the area of a rectangle with length of 5 units and width of 10 units?" 
+13. Input: 
+<noinput>
+13. Output: 
+50 square units. 
+###
+14. Instruction: How many countries are there in Europe? 
+14. Input: 
+<noinput>
+14. Output: 
+There are 44 countries in Europe. 
+###
+15. Instruction: Name some popular tourist attractions in New York City. 
+15. Input: 
+<noinput>
+15. Output: 
+Some popular tourist attractions in New York City include the Statue of Liberty, Central Park, the Empire State Building, and the Metropolitan Museum of Art. 
+###
+16. Instruction: Edit the following sentence to make it concise: "In my personal opinion, I believe that the new policy implemented by the company is not beneficial for its employees." 
+16. Input: 
+<noinput>
+16. Output: 
+"I believe the new policy is not beneficial for employees." 
+###
+17. Instruction: Generate a funny joke about a dog and a bone. 
+17. Input: 
+<noinput>
+17. Output: 
+Why did the dog bury his bone? Because he didn't want to pay taxes on his "bone-us"! 
+###
+18. Instruction: What is the capital city of Australia? 
+18. Input: 
+<noinput>
+18. Output: 
+Canberra. 
+###
+19. Instruction: Write a book review for the novel "To Kill a Mockingbird" 
+19. Input: 
+<noinput>
+19. Output: 
+"To Kill a Mockingbird" is a classic American novel that explores themes of prejudice, injustice, and morality during the 1930s in the South. The characters are well-developed and the plot is engaging, making it a must-read for anyone interested in American literature. 
+###
+20. Instruction: Generate a function in Python to calculate the area of a circle given the radius. 
+20. Input: 
+<noinput>
+20. Output: 
+def area_of_circle(radius):
+    return 3.14 * radius * radius 
+###

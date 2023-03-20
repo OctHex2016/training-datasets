@@ -1,0 +1,103 @@
+4. Instruction: Rewrite the given sentence using passive voice.
+4. Input:
+John built the house in six months.
+4. Output:
+The house was built by John in six months.
+###
+5. Instruction: Translate the following sentence from English to French.
+5. Input:
+I love going for long walks in nature.
+5. Output:
+J'aime faire de longues promenades dans la nature.
+###
+6. Instruction: Explain the main difference between two given concepts.
+6. Input:
+Theory and hypothesis
+6. Output:
+A theory is a well-established explanation of a phenomenon based on a vast body of evidence, while a hypothesis is a proposed explanation of a phenomenon that requires further testing and investigation.
+###
+7. Instruction: Write a brief summary of the given passage.
+7. Input:
+Solar energy is a renewable source of power that is becoming increasingly popular. It is produced by converting sunlight into electricity through the use of photovoltaic cells or solar panels. The energy generated can be stored in batteries or fed directly into the electrical grid. One of the major advantages of solar energy is that it is a clean form of energy, as it does not release any harmful greenhouse gases, unlike fossil fuels. Additionally, the widespread use of solar energy has the potential to significantly reduce our reliance on oil, coal, and natural gas for power generation.
+7. Output:
+Solar energy is a renewable power source produced by converting sunlight into electricity. It is environmentally-friendly and can reduce our reliance on fossil fuels. The energy generated can be stored or directly used in the electrical grid.
+###
+8. Instruction: Suggest two similar alternatives given the specific product.
+8. Input:
+Apple iPhone 12
+8. Output:
+Samsung Galaxy S21 and Google Pixel 5
+###
+9. Instruction: Provide the chemical formula for the given chemical compound.
+9. Input:
+Water
+9. Output:
+H2O
+###
+10. Instruction: Write a haiku about the given topic.
+10. Input:
+Autumn leaves falling
+10. Output:
+Leaves falling gently,
+A tapestry of color,
+Autumn's breath whispers.
+###
+11. Instruction: Compose a motivational quote on the given subject.
+11. Input:
+Overcoming obstacles
+11. Output:
+"Obstacles are a path to greatness; embrace the challenge, and you will find your strength."
+###
+12. Instruction: Classify the movie given into a specific genre.
+12. Input: 
+Inception
+12. Output:
+Science fiction thriller
+###
+13. Instruction: Describe an imaginary scene based on the given theme.
+13. Input: 
+Abandoned amusement park
+13. Output:
+Overgrown with plants, the once vibrant carousel stands still, its colorful horses frozen in time. The wind gently whispers through the rusted metal of the abandoned roller coaster, a haunting reminder of laughter long gone. A faded sign of the entrance, almost illegible, hints at a world of joy now overtaken by nature's unrelenting grasp.
+###
+14. Instruction: Explain the importance of the given event in history.
+14. Input: 
+Signing of the Declaration of Independence
+14. Output:
+The signing of the Declaration of Independence marked the formal adoption of the principles that led to the establishment of the United States. It asserted America's independence from Britain and expressed the nation's commitment to freedom, equality, and self-governance. This significant event laid the groundwork for the development of a new, democratic country.
+###
+15. Instruction: Create an original tongue twister using the given word. 
+15. Input: 
+Sheep
+15. Output:
+Sheepishly shifting sheep sheared sheer sheets swiftly, sheep sweepers swept sleek sheep sleepily.
+###
+16. Instruction: Propose a potential solution to the given problem.
+16. Input:
+Air pollution in big cities
+16. Output:
+One potential solution is to promote the use of public transport and electric vehicles, as well as implementing stricter regulations on industrial emissions.
+###
+17. Instruction: In a few lines, describe the effect of the given imagery in a poem.
+17. Input:
+"Two roads diverged in a yellow wood" - from "The Road Not Taken" by Robert Frost
+17. Output:
+The imagery of "two roads diverged in a yellow wood" creates a sense of choice and uncertainty, symbolizing the difficult decisions we face in life. The yellow wood signifies change or transition, as in the autumn season when leaves turn yellow.
+###
+18. Instruction: List three potential risks associated with the given activity.
+18. Input:
+Online banking
+18. Output:
+1. Account hacking or stealing personal information 2. Scams or phishing attempts 3. Technical issues leading to incorrect transactions or inability to access funds
+###
+19. Instruction: Critique the given artwork in a few sentences.
+19. Input: 
+Persistence of Memory by Salvador Dalí
+19. Output:
+The Persistence of Memory is a remarkable and thought-provoking piece by Salvador Dalí. The distorted, melting clocks explore the concept of time and its fleeting nature. While the surreal imagery can be subject to various interpretations, the painting's technical precision and balance harmonize its unsettling elements, making it an unforgettable work of art.
+###
+20. Instruction: What is the significance of the given element in the periodic table?
+20. Input: 
+Helium
+20. Output:
+Helium is an inert, lightweight gas with the lowest boiling point of any element. Its properties make it highly valuable for applications such as cooling in MRI scanners, inflating balloons, and maintaining the low temperatures required for space exploration and scientific research in superconductivity.

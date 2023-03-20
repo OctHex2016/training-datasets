@@ -1,0 +1,101 @@
+4. Instruction: Create a tweet that includes the hashtag #NewYearNewMe and shares a goal for the new year.
+4. <noinput>
+4. Output: 
+Excited to work towards my goal of becoming a morning person in the new year! #NewYearNewMe 
+###
+5. Instruction: Given a sentence, replace all nouns with their plural form.
+5. Input: 
+I have a cat and a dog in my house.
+5. Output: 
+I have cats and dogs in my house.
+###
+6. Instruction: Given a movie title, provide the release year of the movie.
+6. Input: 
+The Godfather
+6. Output: 
+1972
+###
+7. Instruction: Rewrite the following sentence in past tense. 
+7. Input: 
+She plays the piano beautifully.
+7. Output: 
+She played the piano beautifully.
+###
+8. Instruction: Given an equation, solve for x.
+8. Input: 
+2x - 6 = 12
+8. Output: 
+x = 9
+###
+9. Instruction: Come up with a haiku poem about nature.
+9. <noinput>
+9. Output: 
+Foggy mountains call,
+Whispers of trees gently sway,
+Peaceful eyes close in.
+###
+10. Instruction: Given a word, provide the definition of the word. 
+10. Input: 
+Obsequious
+10. Output: 
+obedient or attentive to an excessive or servile degree
+###
+11. Instruction: Given a paragraph about a company or organization, summarize it in one sentence.
+11. Input: 
+Google is a multinational technology company that specializes in internet-related services and products including search engines, online advertising technologies, software, and hardware. 
+11. Output: 
+Google is a tech company that provides online-related services and products. 
+###
+12. Instruction: Given a set of keywords, generate a list of books that match the set of keywords.
+12. Input: 
+humorous, mystery, female detective, cozy
+12. Output: 
+1. "Don't Look Down" by Libby Fischer Hellmann
+2. "The Housewife Assassin's Handbook" by Josie Brown
+3. "On What Grounds" by Cleo Coyle
+###
+13. Instruction: Given a sentence, provide the longest word in the sentence.
+13. Input: 
+The quick brown fox jumps over the lazy dog.
+13. Output: 
+jumped
+###
+14. Instruction: Come up with a joke about a profession.
+14. <noinput>
+14. Output: 
+Why was the math book sad? Because it had too many problems. 
+###
+15. Instruction: Given a list of cities, rank them by population from highest to lowest.
+15. Input: 
+Los Angeles, New York City, Chicago, Houston
+15. Output: 
+New York City, Los Angeles, Chicago, Houston
+###
+16. Instruction: Given a sentence, provide the shortest word in the sentence.
+16. Input: 
+The cat sat on the mat.
+16. Output: 
+on
+###
+17. Instruction: Given a set of directions, provide the estimated time to reach the destination.
+17. Input: 
+Directions from my home to JFK airport.
+17. Output: 
+45 minutes 
+###
+18. Instruction: Come up with a metaphor about happiness.
+18. <noinput>
+18. Output: 
+Happiness is a warm blanket that comforts you on a cold winter night.
+###
+19. Instruction: Given a sentence with a missing word, provide the correct word to complete the sentence.
+19. Input: 
+I ___ weather like this.
+19. Output: 
+love
+###
+20. Instruction: Given a list of ingredients, create a recipe for a main dish.
+20. Input: 
+chicken breast, potatoes, carrots, onions, garlic
+20. Output: 
+Garlic and herb roasted chicken with roasted carrots, onions and potatoes.

@@ -1,0 +1,51 @@
+4. Instruction: Provide a summary of the given article.
+4. Input: 
+The U.S. FDA approved a new drug called Aduhelm, developed by Biogen, as the first treatment to slow cognitive decline in Alzheimer's patients in June 2021. Although Aduhelm was initially met with enthusiasm, controversy quickly arose about its cost and effectiveness. The drug's annual cost is over $56,000 per patient, putting a significant financial burden on families and healthcare systems. Additionally, several studies yielded conflicting results on Aduhelm's effectiveness, leading to divided opinions among medical professionals. Due to limited availability, some patients are traveling to other states to get the drug, while several major hospitals in the U.S. have decided not to offer Aduhelm at this time.
+4. Output: 
+The FDA approved Aduhelm, a drug developed by Biogen, as the first treatment to slow Alzheimer's cognitive decline in June 2021. However, its high cost of over $56,000 per patient and conflicting study results on its effectiveness have led to controversy and divided opinions among medical professionals. Some patients are even traveling to other states for the drug, while various major U.S. hospitals refuse to offer it.
+
+5. Instruction: Rewrite the given paragraph to make it sound more formal.
+5. Input: 
+Hey, guess what? I've been accepted into the program I wanted! Can you believe it? I'm super stoked about it! I'll be moving to a new city and meeting tons of new people. What a ride this is gonna be!
+5. Output: 
+I am pleased to inform you that I have been accepted into my desired program. This achievement is truly remarkable, and I am extremely excited about it. I will be relocating to a new city and forming connections with numerous new individuals. This journey is bound to be an incredible experience.
+
+6. Instruction: Identify the cause and effect in the given sentence.
+6. Input: 
+Due to the heavy snowfall, many schools were closed for two days.
+6. Output: 
+Cause: Heavy snowfall
+Effect: Schools closed for two days
+
+7. Instruction: What is the significance of the Turing Test in Artificial Intelligence?
+7. Input: <noinput>
+7. Output: 
+The Turing Test is a significant concept in Artificial Intelligence because it serves as a criterion for determining whether an AI system can exhibit human-like intelligence. If a machine can engage in a conversation with a human such that the human cannot distinguish between the machine and another human, the machine is said to have passed the Turing Test, demonstrating a high level of AI intelligence and capability.
+
+8. Instruction: What is the probability of getting heads twice in a row when flipping a fair coin three times?
+8. Input: <noinput>
+8. Output: 
+The probability of getting heads twice in a row when flipping a fair coin three times is 3/8 or 37.5%. This can happen in these scenarios: HHT, THH, or HHH.
+
+9. Instruction: Analyze the pros and cons of owning electric vehicles.
+9. Input: <noinput>
+9. Output: 
+Pros:
+- Lower operating costs, with cheaper electricity than gasoline
+- Low maintenance, as electric motors have fewer moving parts
+- No tailpipe emissions, reducing air pollution
+- Quieter operation, contributing to reduced noise pollution
+
+Cons:
+- Limited range compared to gasoline-powered vehicles
+- Longer refueling times, needing hours to charge instead of minutes
+- Lower availability of charging infrastructure compared to gas stations
+- Higher initial purchase costs, though this is decreasing over time
+
+10. Instruction: Explain what each letter stands for in the acronym "SWOT analysis."
+10. Input: <noinput>
+10. Output: 
+S - Strengths
+W - Weaknesses
+O - Opportunities
+T - Threats

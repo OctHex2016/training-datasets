@@ -1,0 +1,120 @@
+4. Instruction: Translate the following English phrase into French.
+4. Input: 
+The sun is shining today.
+4. Output: 
+Le soleil brille aujourd'hui.
+
+5. Instruction: Identify the grammatical error(s) and provide a corrected version of the sentence.
+5. Input: 
+She go to the gym everyday to workout.
+5. Output: 
+She goes to the gym every day to work out.
+
+6. Instruction: Write a haiku about the ocean.
+6. Input: 
+<noinput>
+6. Output: 
+Waves crash on the shore,
+Endless dance of sea and sand,
+Ocean's voice resounds.
+
+7. Instruction: Suggest a new name for a coffee shop.
+7. Input: 
+<noinput>
+7. Output: 
+Brews of Inspiration
+
+8. Instruction: Summarize the following paragraph.
+8. Input: 
+Throughout history, the Earth has experienced significant changes in temperature, weather patterns, and other climate factors. Many of these natural changes are linked to cyclic patterns present in the Earth's orbit. However, in the last century, we have observed an increase in global temperatures due primarily to human activities, such as the burning of fossil fuels, deforestation, and an increase in greenhouse gases. These actions contribute to global warming and result in negative impacts on ecosystems, leading to changes in wildlife habitats, weather patterns, and rising sea levels.
+8. Output: 
+Historically, Earth has undergone climate changes due to natural cycles, but the recent rise in global temperatures primarily results from human activities causing an increase in greenhouse gases. These actions negatively affect ecosystems, wildlife habitats, weather patterns, and contribute to rising sea levels.
+
+9. Instruction: Write a short book review about the novel Pride and Prejudice by Jane Austen.
+9. Input: 
+<noinput>
+9. Output: 
+Pride and Prejudice by Jane Austen is a timeless classic that masterfully explores the complexities of love, social class, and human character. Set in rural England in the early 19th century, the novel follows the spirited protagonist, Elizabeth Bennet, as she navigates the societal expectations of marriage and encounters the enigmatic Mr. Darcy. Austen's witty and engaging writing style creates a rich narrative and social commentary on the constraints faced by women during that era. It is a must-read for lovers of romance and literature alike.
+
+10. Instruction: Calculate the compound interest earned on a $10,000 investment at a 5% interest rate compounded annually for 5 years. Round your answer to the nearest dollar.
+10. Input: 
+<noinput>
+10. Output: 
+$2,577
+
+11. Instruction: Explain the difference between conduction, convection, and radiation.
+11. Input: 
+<noinput>
+11. Output: 
+Conduction is the transfer of heat between two solid objects in direct contact with each other through particle vibrations. Convection is the transfer of heat in liquids or gases as they circulate in response to temperature changes, where warmer fluid rises and colder fluid sinks. Radiation is the transfer of heat through electromagnetic waves and does not require a medium, meaning it can travel through a vacuum, such as space.
+
+12. Instruction: Write a persuasive argument to encourage people to adopt a vegetarian lifestyle.
+12. Input: 
+<noinput>
+12. Output: 
+Adopting a vegetarian lifestyle has numerous benefits for individuals, animals, and the planet. By cutting out meat, you can improve your overall health, as plant-based diets often lead to lower levels of cholesterol, blood pressure, and heart disease. Additionally, a vegetarian lifestyle helps combat animal cruelty practices in the meat industry by reducing the demand for such products. Lastly, the meat industry generates significant amounts of greenhouse gases, contributing to climate change; switching to a vegetarian diet will help reduce your carbon footprint and protect the planet. Consider these compelling reasons to make a positive change in your life and embrace a vegetarian lifestyle. 
+
+13. Instruction: Identify the main idea of the following paragraph and provide a summarizing sentence.
+13. Input: 
+Michael Jordan, a retired basketball player, is widely regarded as one of the greatest athletes of all time. He was a six-time NBA champion, a five-time MVP, and an Olympic gold medalist. His impact on the game has been immense, and he has inspired multiple generations of players. Jordan also managed to build an incredibly successful brand in collaboration with Nike, making his Air Jordan sneakers a cultural phenomenon.
+13. Output: 
+Michael Jordan's legendary basketball career, inspiring influence on the sport, and successful brand collaborations have solidified his reputation as one of the greatest athletes of all time.
+
+14. Instruction: Write a congratulatory message for a friend who just got a new job.
+14. Input: 
+<noinput>
+14. Output: 
+Hey [Friend's Name], congratulations on landing your new job! I am incredibly proud of your accomplishment, and I know your hard work and dedication have brought you to this moment. I can't wait to hear all about your new experiences and watch you excel in your career. Best of luck and enjoy this exciting new chapter!
+
+15. Instruction: Create a budget plan for a $2,000 salary per month.
+15. Input: 
+<noinput>
+15. Output: 
+- Rent/Housing: $800 (40% of income)
+- Utilities (Water, Gas, Electricity): $100 (5% of income)
+- Groceries/Food: $300 (15% of income)
+- Transportation: $200 (10% of income)
+- Health Insurance: $100 (5% of income)
+- Savings: $200 (10% of income)
+- Entertainment: $100 (5% of income)
+- Miscellaneous: $200 (10% of income)
+
+16. Instruction: Evaluate the pros and cons of a "work from home" policy for a company.
+16. Input: 
+<noinput>
+16. Output: 
+Pros:
+- Reduced overhead costs for office space and utilities
+- Increased flexibility and work-life balance for employees
+- Potential for increased productivity due to fewer office distractions
+- Access to a wider pool of talent without geographical restrictions
+
+Cons:
+- Possible communication and collaboration challenges among remote team members
+- Difficulties in building and maintaining company culture
+- Potential for decreased accountability or motivation for some employees
+- Security and privacy concerns for sensitive company data
+
+17. Instruction: Identify the incorrect word(s) in the sentence and provide the correct word(s) to replace them.
+17. Input: 
+The graph is detailing the company's growth through the ears.
+17. Output: 
+The graph is detailing the company's growth through the years.
+
+18. Instruction: Write an eloquent toast to celebrate a couple's 50th wedding anniversary.
+18. Input: 
+<noinput>
+18. Output: 
+Ladies and gentlemen, if I may have your attention, please. Today we gather to honor and celebrate a love that has withstood the test of time, transcending through fifty incredible years of marriage. A love that has inspired all of us who have had the fortune of witnessing its strength, resilience, and unwavering commitment. So, let us raise our glasses and toast to [Couple's Names], a shining example of what true love looks like. May their love continue to flourish in the years to come, and may their bond be everlasting. Cheers!
+
+19. Instruction: Provide a brief analysis of the following Shakespeare quote: "To be, or not to be, that is the question."
+19. Input: 
+<noinput>
+19. Output: 
+"To be, or not to be, that is the question" is one of the most famous lines from Shakespeare's play Hamlet, uttered by the protagonist in Act 3, Scene 1. It represents a moment of contemplation for Hamlet as he meditates on the nature of existence, life, and death. He weighs the suffering and emotional turmoil he faces in life against the uncertainty and fear of what awaits in the afterlife. This introspection highlights the complicated emotions and philosophical struggle the character endures throughout the play.
+
+20. Instruction: Calculate the total cost of a trip to Disneyland for a family of four, including ticket prices and parking fees.
+20. Input: 
+Ticket price for an adult: $150, Ticket price for a child: $130, Parking fee: $20 per car. 
+20. Output: 
+$640

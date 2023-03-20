@@ -1,0 +1,43 @@
+4. Instruction: Compose a short poem containing the given words.
+4. Input: 
+Midnight, moonlight, whispers, dreams
+4. Output: 
+In the midnight hour, bathed in moonlight beams,
+Soft whispers float through hallowed halls,
+Where dreams awaken and each secret calls.
+###
+5. Instruction: Translate the given text into simple English.
+5. Input: 
+The perspicacious individual cogently articulated his aversion to the verbose exposition.
+5. Output: 
+The insightful person clearly expressed their dislike of the wordy explanation.
+###
+6. Instruction: Create a sales pitch for the given product.
+6. Input: 
+Ultra Durable Gaming Keyboard
+6. Output: 
+Introducing the Ultra Durable Gaming Keyboard, your ultimate gaming companion! Get ready to level up your gaming experience like never before. With exceptional durability, battle through intense gaming sessions without worry. Enjoy the tactile feedback that this expertly engineered keyboard provides. Don't just beat the game; own it. Grab your Ultra Durable Gaming Keyboard now and dominate the competition with every keystroke!
+###
+7. Instruction: How to safely clean a computer keyboard?
+7. Input: <noinput>
+7. Output: 
+To safely clean your computer keyboard, follow these steps: 1) Power off your computer and unplug the keyboard. 2) Gently shake the keyboard upside-down to remove debris. 3) Use compressed air to clean between the keys. 4) Wipe the surface of the keys with a microfiber cloth dampened with a mild cleaning solution. 5) Carefully clean the gaps between the keys using a cotton swab or a soft brush. 6) Allow the keyboard to dry completely before plugging it back in and powering on the computer.
+###
+8. Instruction: Review and improve the grammar of the provided text.
+8. Input: 
+Her dog was older, but still fulling of energy, at times even too much so.
+8. Output: 
+Her dog was older, but still full of energy; at times, even a bit too much.
+###
+9. Instruction: Come up with a creative name and backstory for a superhero.
+9. Input: 
+Superpower: Time manipulation
+9. Output: 
+Name: ChronoGuardian
+
+Backstory: Vibrant physicist Dr. Aaron West accidentally discovered the mysterious "Chrono Crystal" during a top-secret experiment. The otherworldly crystal granted him the power to manipulate time. With his newfound abilities, Dr. West became the ChronoGuardian, fighting against evildoers who threaten the fabric of time and reality. Aaron's mission is to protect the past, present, and future as the guardian of the timeline.
+###
+10. Instruction: Explain what a black hole is and how it forms.
+10. Input: <noinput>
+10. Output: 
+A black hole is a region of spacetime with an extremely powerful gravitational pull. It forms when a massive star's core collapses, and the immense gravity causes the formation of a point of infinite density, called a singularity. Due to the overwhelming gravity, the escape velocity within a certain boundary (the event horizon) exceeds the speed of light; therefore, nothing, even light, can escape the black hole's gravitational pull.

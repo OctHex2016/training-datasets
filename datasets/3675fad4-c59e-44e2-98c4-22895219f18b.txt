@@ -1,0 +1,75 @@
+4. Instruction: What language does the following sentence come from, and what is its translation to English?
+4. Input: 
+Je ne sais pas.
+4. Output: 
+Language: French
+Translation: I don't know.
+
+5. Instruction: Rewrite the sentence provided in the passive voice.
+5. Input: 
+The dog chased the rabbit.
+5. Output: 
+The rabbit was chased by the dog.
+
+6. Instruction: Identify the following statement as a fact or an opinion, and answer with 'fact' or 'opinion'.
+6. Input: 
+Carrots are the best vegetable.
+6. Output: 
+opinion
+
+7. Instruction: Write a brief summary of the given paragraph.
+7. Input: 
+Terrestrial planets, also known as rocky planets, are characterized by their solid surfaces composed primarily of silicate rock and metal. They are much smaller and denser than their gas giant counterparts. The four terrestrial planets within our solar system are Mercury, Venus, Earth, and Mars. All four of these planets have a similar structure – a central metallic core, surrounded by a silicate mantle, and a solid, rocky crust on the surface.
+7. Output: 
+Terrestrial planets, or rocky planets, include Mercury, Venus, Earth, and Mars, and are smaller and denser than gas giants. They are composed of a central metallic core, a silicate mantle, and a solid, rocky crust.
+
+8. Instruction: Correct any grammatical errors in the sentence provided.
+8. Input: 
+Me and my friend goes to the park everyday for getting some exercise.
+8. Output: 
+My friend and I go to the park every day to get some exercise.
+
+9. Instruction: What is the missing word in the proverb? Include the full proverb in your response.
+9. Input: 
+<noinput>
+9. Output: 
+An apple a day keeps the doctor away.
+
+10. Instruction: Which type of literary device is used in the example provided?
+10. Input: 
+The sun smiled down on the small town.
+10. Output: 
+Personification
+
+11. Instruction: Convert the given sentence from direct speech to reported speech.
+11. Input: 
+He said, "I am not feeling well."
+11. Output: 
+He said that he was not feeling well.
+
+12. Instruction: Evaluate if the quoted statement is true or false: "The shortest war in history lasted for only 45 minutes."
+12. Input: 
+<noinput>
+12. Output: 
+True
+
+13. Instruction: Write a haiku about the beauty of autumn.
+13. Input: 
+<noinput>
+13. Output: 
+Crimson leaves falling,
+Cool breeze whispers to the trees,
+Autumn's breath, so calm.
+
+14. Instruction: Provide a synonym and an antonym for the given word.
+14. Input: 
+valiant
+14. Output: 
+Synonym: brave
+Antonym: cowardly
+
+15. Instruction: Classify the following situation as irony, coincidence, or neither. Answer with 'irony', 'coincidence', or 'neither'.
+15. Input: 
+Two friends independently decided to surprise each other with tickets to the same concert.
+15. Output: 
+coincidence

@@ -1,0 +1,55 @@
+4. Instruction: Identify the three main causes of the conflict described in the passage.
+4. Input:
+In the late 19th century, rising tensions between Russia and Japan about control over territory and resources in East Asia eventually led to the Russo-Japanese War. Both countries were interested in gaining access to warm water ports, evolving economically, and expanding their influence. Moreover, Russia and Japan had competing interests in the Korean Peninsula and Manchuria, further fueling the conflict.
+4. Output:
+1. Control over territory and resources in East Asia
+2. Access to warm water ports for economic development and expansion
+3. Competing interests in the Korean Peninsula and Manchuria
+
+5. Instruction: Translate the following sentence to French: "She will visit her grandmother on Sunday."
+5. Input:
+<noinput>
+5. Output:
+Elle rendra visite à sa grand-mère dimanche.
+
+6. Instruction: Calculate the total cost of items in the given shopping list, including 5% sales tax for all items except medicines.
+6. Input:
+3 apples - $0.50 each
+2 toothpaste - $1.25 each
+1 Vicks vaporub - $5.00 (medicine)
+6. Output:
+Total cost without tax = (3 * $0.50) + (2 * $1.25) + $5.00 = $1.50 + $2.50 + $5.00 = $9.00
+Total tax = ((3 * $0.50) + (2 * $1.25)) * 0.05 = $4.00 * 0.05 = $0.20
+Total cost = $9.00 + $0.20 = $9.20
+
+7. Instruction: Name three children's movies/books featuring a central animal character.
+7. Input:
+<noinput>
+7. Output:
+1. The Lion King (movie)
+2. Charlotte's Web (book)
+3. The Jungle Book (movie/book)
+
+8. Instruction: Provide a suggestion on how to improve the following passage.
+8. Input:
+"The boy walked down the road. Stopping at a store, the boy buys candies."
+8. Output:
+Revised Passage: "The boy walked down the road and stopped at a store to buy candies."
+
+9. Instruction: What is the full scientific name (genus and species) of the Giant Panda?
+9. Input:
+<noinput>
+9. Output:
+Ailuropoda melanoleuca
+
+10. Instruction: Given the ingredients and their quantities, calculate how much of each ingredient is needed to double the recipe.
+10. Input:
+1.5 cups flour
+1 cup sugar
+0.5 cup butter
+2 eggs
+10. Output:
+3 cups flour
+2 cups sugar
+1 cup butter
+4 eggs

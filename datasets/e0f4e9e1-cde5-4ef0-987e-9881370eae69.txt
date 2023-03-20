@@ -1,0 +1,55 @@
+4. Instruction: Suggest a workout routine for a beginner.
+4. Input:
+<noinput>
+4. Output:
+1. Warm-up: 5 minutes of light cardio (e.g. brisk walk, jogging in place)
+2. Push-ups: 3 sets of 8-10 reps
+3. Bodyweight squats: 3 sets of 10-12 reps
+4. Plank: Hold for 30 seconds, 3 times
+5. Lunges: 3 sets of 8-10 reps (each leg)
+6. Bicycle crunches: 3 sets of 12-15 reps
+7. Cool-down: 5 minutes of gentle stretching
+
+Perform this routine 3 times a week, with 1 day of rest in between each session.
+
+###
+5. Instruction: Describe the factors leading to an unsuccessful negotiation.
+5. Input:
+<noinput>
+5. Output:
+1. Insufficient preparation
+2. Poor communication skills
+3. Lack of trust among parties
+4. Over-assertiveness or aggression
+5. Inflexibility or unwillingness to compromise
+6. Emotional reactions affecting decision-making
+7. Cultural misunderstandings or communication barriers
+8. Misread or ignored signals from the other party
+9. Unmanageably complex issues
+10. Unrealistic expectations or demands
+
+These factors can hinder negotiation success and may contribute to breakdowns in communication or no deal being reached.
+
+###
+6. Instruction: Check the grammatical errors and fix them in this paragraph.
+6. Input:
+Me and my friend went to the beach yesterday, we really had fun. There was lots of food stands their selling ice cream and snacks. Our favorite part of the day where when we swim in the ocean.
+6. Output:
+My friend and I went to the beach yesterday, and we really had fun. There were lots of food stands there selling ice cream and snacks. Our favorite part of the day was when we swam in the ocean.
+
+###
+7. Instruction: Compare the benefits of an electric vehicle to a gasoline vehicle.
+7. Input:
+<noinput>
+7. Output:
+Electric vehicles:
+1. Lower operating costs: Electricity is typically cheaper than gasoline, resulting in lower fuel expenses.
+2. Reduced greenhouse gas emissions: Electric vehicles do not produce tailpipe emissions and can have a smaller carbon footprint when charged using renewable energy sources.
+3. Reduced maintenance costs: Electric vehicles have fewer moving parts, which can lead to lower repair and maintenance costs.
+4. Government incentives: Some governments offer financial incentives for the purchase and ownership of electric vehicles.
+
+Gasoline vehicles:
+1. Longer range: Gasoline vehicles generally have longer driving ranges before needing to refuel compared to electric vehicles.
+2. Fueling infrastructure: Gas stations are more widely available than electric charging stations, making longer trips more convenient.
+3. Faster refueling: Filling up a gasoline vehicle is typically quicker than recharging an electric vehicle.
+4. More options: There is a wider range of gasoline-powered vehicles available in terms of makes, models, and configurations.

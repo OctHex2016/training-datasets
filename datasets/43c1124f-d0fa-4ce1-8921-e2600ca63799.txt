@@ -1,0 +1,31 @@
+4. Instruction: Design a three-day travel itinerary for someone visiting New York City.
+4. Input: 
+<noinput>
+4. Output: 
+Day 1:
+Morning: Visit Central Park and stroll through the scenic pathways.
+Afternoon: Visit the American Museum of Natural History and the Metropolitan Museum of Art.
+Evening: Watch a Broadway show.
+Day 2:
+Morning: Head to Battery Park and take the ferry to the Statue of Liberty and Ellis Island.
+Afternoon: Explore the Financial District, Wall Street, and visit the 9/11 Memorial.
+Evening: Go to Times Square for shopping, dinner, and nighttime entertainment.
+Day 3:
+Morning: Enjoy The High Line and Chelsea Market for shopping and food.
+Afternoon: Visit the Museum of Modern Art (MoMA) and Rockefeller Center (Top of the Rock Observation Deck).
+Evening: Walk across the Brooklyn Bridge and dine at one of the waterfront restaurants in Dumbo.
+
+5. Instruction: Identify the main claim and three supporting arguments for the claim from the given text.
+5. Input: 
+The administration of COVID-19 vaccines to children aged 12-17 is crucial for mitigating the pandemic. First, vaccinating this age group helps reduce the overall transmission of the virus in society. Adolescents can spread the virus to adults and to more vulnerable individuals. Second, vaccines provide significant personal health benefits, including lowering the risk of infection, severe symptoms, and long-term complications. Finally, widespread vaccination among this age group could help reopen schools for in-person learning, leading to improved mental health and educational outcomes.
+5. Output: 
+Main Claim: COVID-19 vaccines for children aged 12-17 are crucial for mitigating the pandemic.
+Supporting Argument 1: Reduces overall transmission of the virus.
+Supporting Argument 2: Provides personal health benefits.
+Supporting Argument 3: Improves mental health and educational outcomes by helping to safely reopen schools.
+
+6. Instruction: Summarize the given article in 2-3 sentences.
+6. Input: 
+Google recently announced its plans to discontinue the Google Glass Explorer program after a two-year run. The tech company admitted that it had been an experimental project aimed at learning about the wearable technology market. However, Google also stated that the Glass program would be shifting its focus to enterprise applications and leaving the consumer market, as it has found success in various industries and organizations.
+6. Output: 
+Google is discontinuing its Google Glass Explorer program, admitting that it was an experimental project for learning about the wearable technology market. The company will shift its focus to enterprise applications, as Glass has found success in industries and organizations, rather than the consumer market.

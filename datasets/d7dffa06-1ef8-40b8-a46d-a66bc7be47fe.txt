@@ -1,0 +1,56 @@
+4. Instruction: Rewrite the following news headline to make it more engaging and click-worthy.
+4. Input: 
+Researchers Discover New Treatment for Alzheimer's Disease
+4. Output: 
+Amazing Breakthrough: Revolutionary Alzheimer's Treatment Unveiled by Researchers!
+
+5. Instruction: Identify and correct any grammar or punctuation errors in the given text.
+5. Input: 
+Despite their bright plummage, parots blend rather well with their environment such that predator"s, surprisingly cannot spot them easily.
+5. Output: 
+Despite their bright plumage, parrots blend rather well with their environment, such that predators, surprisingly, cannot spot them easily.
+
+6. Instruction: Can you provide a brief summary of the following text?
+6. Input: 
+Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Five companies in the U.S. information technology industry, along with Amazon, Google, Microsoft, and Meta Platforms. Some of Apple's products include the iPhone smartphone, iPad tablet computer, Mac personal computer, iPod portable media player, Apple Watch smartwatch, Apple TV digital media player, and the HomePod smart speaker. Apple's software includes macOS, iOS, iPadOS, watchOS, and tvOS operating systems, the Safari web browser, the iTunes media player, the GarageBand music application, and the iWork and iMovie creativity applications.
+6. Output: 
+Apple Inc., an American multinational technology company, designs, develops, and sells consumer electronics, computer software, and online services. As one of the Big Five companies in the IT industry, their product range includes the iPhone, iPad, Mac computers, iPod, Apple Watch, Apple TV, and HomePod. They also develop software such as macOS, iOS, iPadOS, watchOS, tvOS, Safari, iTunes, GarageBand, iWork, and iMovie.
+
+7. Instruction: Write a limerick with the following theme: A man who enjoys playing chess.
+7. Input: 
+<noinput>
+7. Output:
+There once was a man from Loch Ness,
+Whose life was consumed by chess.
+He'd play night and day,
+With knights leading the way,
+Obsessed with his strategic finesse.
+
+8. Instruction: Provide three alternative names for a tropical-flavored smoothie.
+8. Input: 
+<noinput>
+8. Output: 
+1. Island Breeze Bliss
+2. Paradise Passion Punch
+3. Tropic Haven Delight
+
+9. Instruction: Evaluate the given argument, stating whether it is valid or invalid and explaining the reasons.
+9. Input: 
+All dogs are animals.
+Max is an animal.
+Therefore, Max is a dog.
+9. Output: 
+Invalid. The argument commits the fallacy of affirming the consequent, meaning that it assumes that if the consequent (being an animal) is true, then the antecedent (being a dog) must also be true. However, this is not necessarily the case, as there are many other types of animals besides dogs.
+
+10. Instruction: Describe the Chocolate Hills in the Philippines using a poetic approach.
+10. Input: 
+<noinput>
+10. Output: 
+Amidst the verdant land they rise,
+A thousand mounds of earthen guise,
+Seemingly scattered by heavenly hand,
+These wondrous hills of chocolate stand.
+As seasons pass, their hues transform,
+From emerald greens to sunburned forms.
+A testament to nature's grace,
+The Chocolate Hills, a magical place.

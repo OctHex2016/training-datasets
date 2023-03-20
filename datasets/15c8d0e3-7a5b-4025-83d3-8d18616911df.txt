@@ -1,0 +1,113 @@
+4. Instruction: Summarize the following text.
+4. Input: 
+NASA's Ingenuity Mars Helicopter has successfully completed its 12th flight on Mars, demonstrating its continuing capabilities beyond its initial 30-day mission. The compact aircraft, which began operating on April 19, has traveled more than 2 kilometers across the Martian surface, surveyed various terrains, and captured stunning images. The data collected by Ingenuity provides valuable insights for future robotic and human missions to Mars. NASA plans to continue pushing the helicopter's limits and testing its ability to traverse longer distances, navigate more complex environments, and explore new regions during future flights. 
+4. Output: 
+NASA's Ingenuity Mars Helicopter completed its 12th flight, going beyond its primary 30-day mission. It has traveled 2 kilometers, surveyed various terrains, and captured images, providing data valuable for future Mars missions. NASA aims to test Ingenuity's capabilities further by exploring new regions and navigating complex environments.
+
+5. Instruction: Identify the theme of the following poem and summarize it in a single sentence.
+5. Input: 
+Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour.
+Then leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day.
+Nothing gold can stay.
+5. Output: 
+The theme of the poem is the transience of beauty and youth, highlighting that everything beautiful and pure eventually fades away.
+
+6. Instruction: Rewrite the following sentence to make it more positive without changing its meaning.
+6. Input: 
+It's impossible for me to focus and study when the room is so noisy.
+6. Output: 
+I can focus and study better when the room is quiet.
+
+7. Instruction: Determine the total expense of this shopping trip.
+7. Input: 
+3 apples @ $1.00 each
+5 chocolate bars @ $1.50 each
+2 loaves of bread @ $2.00 each
+1 gallon of milk @ $3.50
+7. Output: 
+$14.00
+
+8. Instruction: Analyze the given situation and suggest what a person should do.
+8. Input: 
+A person is facing difficulties at work and feels overwhelmed with stress and anxiety.
+8. Output: 
+The person should seek help from a supervisor, talk with colleagues to share their concerns, prioritize tasks, take breaks when needed, and consider practicing stress-management techniques such as meditation or exercise.
+
+9. Instruction: Briefly explain the concept of supply and demand in economics.
+9. Input: 
+<noinput>
+9. Output: 
+Supply and demand are economic principles describing the relationship between the availability of a product (supply) and the desire of consumers to purchase it (demand). Price typically adjusts to achieve equilibrium where the quantity supplied equals the quantity demanded.
+
+10. Instruction: Edit the following paragraph to correct any grammatical errors.
+10. Input: 
+Their is know denying that technology has brought much conveniences into our lifes. For example, having acess to internet services through you're smartphone have made it easier then ever to stay connected with loved ones, and to find informations at the touch of a button. But, as reliance on these devices grow, some people starting to question whether the sacrifice of personal privacy may be to much to bear.
+10. Output: 
+There is no denying that technology has brought much convenience into our lives. For example, having access to internet services through your smartphone has made it easier than ever to stay connected with loved ones and find information at the touch of a button. But, as reliance on these devices grows, some people are starting to question whether the sacrifice of personal privacy may be too much to bear.
+
+11. Instruction: Identify which of the three given movie titles is likely to be a romantic comedy. 
+11. Input: 
+A. "Night of the Living Dead"
+B. "Moonlit Serenade"
+C. "Predator"
+11. Output: 
+B. "Moonlit Serenade"
+
+12. Instruction: Compose an encouraging message to someone who is about to take a difficult exam.
+12. Input: 
+<noinput>
+12. Output: 
+You've worked hard preparing for this exam, and I believe in your abilities! Stay focused, take your time, and trust your instincts. You're going to do great!
+
+13. Instruction: Write an opening line for a mystery novel.
+13. Input: 
+<noinput>
+13. Output: 
+As the moon cast a sinister shadow over the abandoned mansion, Detective Jameson stumbled upon a clue that would unravel the darkest mystery of his career.
+
+14. Instruction: Identify the main antagonist in the novel "1984" by George Orwell.
+14. Input: 
+<noinput>
+14. Output: 
+Big Brother
+
+15. Instruction: Assess the given situation and suggest the best course of action for the company.
+15. Input: 
+A small business is struggling to keep up with increased demand and cannot afford to hire additional staff.
+15. Output: 
+The company should consider optimizing its operations, automating repetitive tasks, and exploring outsourcing options to cope with increased demand without hiring additional staff.
+
+16. Instruction: Explain why sleeping is important for our health.
+16. Input: 
+<noinput>
+16. Output: 
+Sleeping is important for our health because it allows our bodies to repair and rejuvenate, consolidates memory, regulates mood, and supports immune function, proper metabolism, and overall well-being.
+
+17. Instruction: Write a polite email subject line for a request to change an upcoming meeting date.
+17. Input: 
+<noinput>
+17. Output: 
+Request for Rescheduling: Upcoming Meeting Date
+
+18. Instruction: Classify the following sentence into active or passive voice.
+18. Input: 
+The project was successfully completed by the team.
+18. Output: 
+passive
+
+19. Instruction: Estimate how many calories are burned during a 30-minute run by a person who weighs 150 pounds.
+19. Input: 
+<noinput>
+19. Output: 
+Approximately 300 calories
+
+20. Instruction: Provide a recommendation for a solo traveler planning a first-time visit to Europe.
+20. Input: 
+<noinput>
+20. Output: 
+I recommend visiting Paris, France, as it offers world-class attractions, rich history, diverse cuisine, and an easily accessible public transportation system, making it an ideal destination for first-time solo travelers in Europe.

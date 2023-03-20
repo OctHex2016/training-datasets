@@ -1,0 +1,141 @@
+4. Instruction: Convert the given text into passive voice.
+4. Input: 
+John wrote the letter for the president.
+4. Output:
+The letter was written by John for the president.
+
+5. Instruction: Compose a limerick about a man named Pete.
+5. Input: 
+<noinput>
+5. Output:
+There once was a man named Pete
+Who thought he had very large feet
+He bought massive shoes
+That gave him the blues
+For they made him trip on the street
+
+6. Instruction: Provide a summarized version of the given passage.
+6. Input: 
+In the 1930s, movies were a popular form of entertainment as they helped provide a temporary escape from the harsh reality of the Great Depression. At the same time, radio became increasingly widespread, attracting millions of listeners globally. Both the radio and motion pictures industries played vital roles in not only keeping people's spirits high, but in shaping popular culture during this difficult period. Big band music, swing dance, and fashion trends dominated the era, and many individuals looked up to screen and radio stars as role models. In these tough times, entertainment served as a powerful coping mechanism for many people.
+6. Output: 
+During the 1930s, movies and radio gained popularity as they provided an escape from the Great Depression, shaping popular culture through big band music, swing dance, and fashion trends. Entertainment played a significant role in boosting people's spirits and serving as a coping mechanism during hard times.
+
+7. Instruction: List the different elements that should be included in an estate plan.
+7. Input:
+<noinput>
+7. Output:
+1. Last will and testament
+2. Durable power of attorney
+3. Health care proxy or medical power of attorney
+4. Living will or advance health care directive
+5. Beneficiary designations for life insurance policies, retirement accounts, and bank accounts
+6. Trusts for asset protection and distribution
+7. Guardianship designations for children
+8. Review of property titles and deeds
+9. Digital assets management, including usernames and passwords
+10. Funeral, burial, or cremation instructions
+
+8. Instruction: Translate the given sentence into French.
+8. Input: 
+I would like to order a pizza, please.
+8. Output:
+Je voudrais commander une pizza, s'il vous plaît.
+
+9. Instruction: Write an opening line for a horror story involving a haunted house.
+9. Input:
+<noinput>
+9. Output:
+As I stood in the threshold of the dilapidated house, I could feel an unsettling chill pierce the air, hinting at the sinister secrets hidden within its ancient walls.
+
+10. Instruction: Identify the idiom in the following sentence and explain its meaning.
+10. Input: 
+Don't put all your eggs in one basket when it comes to investing.
+10. Output:
+Idiom: Don't put all your eggs in one basket
+Meaning: Don't risk everything by relying on or investing in a single venture or opportunity; diversify your resources or efforts.
+
+11. Instruction: Write a short poem about the beauty of autumn.
+11. Input:
+<noinput>
+11. Output:
+Golden hues dance upon the trees,
+As autumn whispers through the breeze,
+Crisp leaves fall and gently sway,
+In this symphony of decay,
+
+The air is cool, the sun is low,
+Nature's masterpiece on full show,
+Harvest time and pumpkin spice,
+Oh, the beauty of autumn's vice.
+
+12. Instruction: Edit the given text to improve clarity and conciseness.
+12. Input: 
+I am having the feeling that my personal cellular device is extremely necessary in order to carry out a lot of tasks I do daily, and it gives me a sense of convenience.
+12. Output:
+My smartphone is essential for many daily tasks and provides great convenience.
+
+13. Instruction: Explain the benefits of using LED light bulbs over traditional incandescent bulbs.
+13. Input:
+<noinput>
+13. Output:
+1. Energy efficiency: LED light bulbs consume up to 90% less energy than incandescent bulbs, leading to lower energy bills.
+2. Longevity: LED bulbs have a longer lifespan, lasting up to 25 times longer than incandescent bulbs.
+3. Eco-friendly: LEDs produce less heat and do not contain toxic materials like mercury, making them better for the environment.
+4. Improved brightness: LEDs provide consistent, bright light and maintain their color temperature over time.
+5. Cost savings: Although initial costs are higher, the long-term savings from reduced energy consumption and less frequent replacements make LED bulbs more cost-effective.
+
+14. Instruction: Describe how meditation can help manage stress.
+14. Input:
+<noinput>
+14. Output:
+Meditation is an effective tool for managing stress, promoting relaxation and improving emotional well-being. By focusing the mind on a single point of reference, such as the breath or a mantra, meditation helps to clear away distractions and reduce the barrage of thoughts that contribute to feelings of stress and anxiety. With regular practice, meditation fosters a sense of balance and control, enabling individuals to develop better coping mechanisms and respond to stressors in a healthier, more adaptive manner.
+
+15. Instruction: Write a short advice about overcoming the fear of public speaking.
+15. Input:
+<noinput>
+15. Output:
+To overcome the fear of public speaking, practice regularly and gradually increase your exposure to speaking in front of others. Start by rehearsing your speech or presentation alone, then in front of a mirror, and finally with trusted friends or family. Build familiarity with your material, learn to manage your breathing, and develop your own speaking style. Additionally, focus on the message you want to convey, rather than on the audience's judgment, to help shift your perspective from fear to empowerment.
+
+16. Instruction: Define and explain the term "cognitive dissonance".
+16. Input:
+<noinput>
+16. Output:
+Cognitive dissonance is a psychological phenomenon in which a person experiences mental discomfort or psychological tension due to holding two or more contradictory beliefs, values, or attitudes simultaneously. This discomfort arises because humans naturally strive for consistency in their thoughts and beliefs. To resolve cognitive dissonance, individuals may modify their beliefs, justify the inconsistency, or engage in behaviors to reconcile the conflicting perspectives, thereby restoring a sense of harmony and balance.
+
+17. Instruction: Write a recipe for a healthy, protein-rich smoothie.
+17. Input:
+<noinput>
+17. Output:
+Protein-Packed Berry Smoothie:
+
+Ingredients:
+- 1 cup mixed berries (fresh or frozen)
+- 1 small banana
+- 1 cup unsweetened almond milk (or any milk of your choice)
+- 1 scoop vanilla protein powder
+- 1 tablespoon chia seeds
+- 1 cup spinach or kale (optional)
+
+Instructions:
+1. Add mixed berries, banana, almond milk, vanilla protein powder, and chia seeds to a blender.
+2. If desired, add a handful of spinach or kale for added nutrition.
+3. Blend until smooth and creamy. If the smoothie is too thick, you can add more milk or water until your desired consistency is reached.
+4. Pour into a glass, garnish with a few berries, if desired, and enjoy!
+
+18. Instruction: Write a motivational quote about persistence.
+18. Input:  
+<noinput>
+18. Output:
+When the road seems long and every step a struggle, remember that perseverance is the key to success – for even the mightiest river began as a humble drop of rain.
+
+19. Instruction: Provide constructive criticism for an employee who comes in late on a regular basis.
+19. Input:  
+<noinput>
+19. Output:
+Although you are a valuable team member with strong skills, your frequent tardiness is affecting your credibility and impacting the team's productivity. It is important to address this issue to ensure the smooth operation of the team and demonstrate your commitment to the job. Make conscious efforts to arrive on time by adjusting your morning routine, setting earlier alarms, or addressing any personal challenges that may be causing the tardiness. Punctuality is vital for professional success, and maintaining it will greatly benefit you and the team.
+
+20. Instruction: Write an encouraging message for someone who is planning to take a big step in their life.
+20. Input:  
+<noinput>
+20. Output:
+As you embark on this new journey, embrace the exhilaration of change with open arms and trust in your own inner strength. May this bold step lead you to discover new horizons and limitless opportunities. Remember that you are capable, resilient, and deserving of every success that comes your way. Wishing you immense happiness and growth in this exciting new chapter of your life!

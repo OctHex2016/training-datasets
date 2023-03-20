@@ -1,0 +1,94 @@
+4. Instruction: Generate a summary for the following article on machine learning.
+4. Input:
+Article: https://www.forbes.com/sites/janakirammsv/2021/08/04/what-is-the-difference-between-neural-networks-and-machine-learning/?sh=6eb0787166b5
+4. Output:
+Machine learning and neural networks are not the same things, although they are often used interchangeably. Machine learning is a subset of artificial intelligence that focuses on making machines learn from data and improve their performance on a specific task, while neural networks are one of the many ways machine learning can be implemented.
+###
+5. Instruction: Edit the following sentence to remove any redundancy.
+5. Input:
+Sentence: The reason why I didn't attend the meeting was because I forgot to put it in my calendar.
+5. Output:
+I didn't attend the meeting because I forgot to put it in my calendar.
+###
+6. Instruction: Based on the given sentiment, provide an appropriate reply.
+6. Input:
+Sentiment: Positive
+6. Output:
+That's great to hear! Can you tell me more about why you feel positive about it?
+###
+7. Instruction: Generate a question that can be used to start a conversation about movies.
+7. Input: <noinput>
+7. Output:
+What's the best movie you've watched recently?
+###
+8. Instruction: Rewrite the following sentence in the active voice.
+8. Input:
+Sentence: The cake was eaten by the dog.
+8. Output:
+The dog ate the cake.
+###
+9. Instruction: Find the antonym of the word "timid".
+9. Input: <noinput>
+9. Output:
+Bold.
+###
+10. Instruction: Given a number, calculate its square root.
+10. Input:
+Number: 144
+10. Output:
+12
+###
+11. Instruction: Provide two sentences that use the same word with different meanings.
+11. Input:
+Word: Bat
+11. Output:
+I like to play baseball with a bat. / The bat hanging from the tree was very large.
+###
+12. Instruction: Write a sentence using a gerund.
+12. Input: <noinput>
+12. Output:
+Swimming is one of my favorite hobbies.
+###
+13. Instruction: Give a synonym for the word "happy".
+13. Input: <noinput>
+13. Output:
+Joyful.
+###
+14. Instruction: Based on the given genre, suggest a book.
+14. Input:
+Genre: Mystery
+14. Output:
+The Da Vinci Code by Dan Brown.
+###
+15. Instruction: Write a sentence using a superlative adjective.
+15. Input: <noinput>
+15. Output:
+That was the best cake I've ever tasted!
+###
+16. Instruction: Find the topic of the following paragraph.
+16. Input:
+Paragraph: "Recently, there has been a lot of discussion around the use of facial recognition technology in public spaces. While some argue it is a useful tool for law enforcement and public safety, others raise concerns about privacy and potential misuse of the technology."
+16. Output:
+Facial recognition technology in public spaces.
+###
+17. Instruction: Edit the following sentence to change its tense from past to present perfect.
+17. Input:
+Sentence: I ate dinner at 6 PM.
+17. Output:
+I have eaten dinner at 6 PM.
+###
+18. Instruction: Ask a question that requires a numerical answer.
+18. Input: <noinput>
+18. Output:
+How many siblings do you have?
+###
+19. Instruction: Write a sentence using an oxymoron.
+19. Input: <noinput>
+19. Output:
+The midnight sun was shining brightly.
+###
+20. Instruction: Provide an appropriate response to the following question.
+20. Input:
+Question: Can you tell me how to get to the nearest gas station?
+20. Output:
+Sure, take a right at the traffic light and it will be on your left-hand side.

@@ -1,0 +1,44 @@
+4. Instruction: Write a short biography of a randomly generated character, including their name, age, occupation, hobbies, and some interesting facts.
+4. Input:
+<noinput>
+4. Output:
+Robin Thompson is a 35-year-old professional chef living in Boston. Graduated from culinary school, Robin has been working in the restaurant industry for over 10 years. In their free time, Robin enjoys painting and exploring local art galleries. They are also an avid soccer fan and play in a local amateur league during weekends. As a passionate animal lover, Robin volunteers at a nearby animal shelter and has even fostered several rescue pets. Robin has been featured in a regional culinary magazine and dreams of starting their own cooking show someday.
+
+5. Instruction: Rewrite the input paragraph by using positive language.
+5. Input:
+I feel miserable and sad because I can't deal with my job anymore. The pressure is unbearable, and my boss is always critical and unsupportive. My colleagues are always gossiping around, and I just hate how they treat me.
+5. Output:
+It's becoming a challenge staying motivated and happy at work due to my current environment. The pressure can be intense, but I'm seeking ways to cope effectively. Although my boss provides criticism, I focus on using it as constructive feedback. Despite some colleagues not being as positive, I hope to build stronger relationships with them and create a more supportive workplace.
+
+6. Instruction: List down three alternative titles for the novel "To Kill a Mockingbird" by Harper Lee.
+6. Input:
+<noinput>
+6. Output:
+1. Shadows Over Maycomb
+2. A Time of Innocence and Injustice
+3. Defending the Voiceless
+
+7. Instruction: Given a word, provide a synonym.
+7. Input:
+Impressive
+7. Output:
+Remarkable
+
+8. Instruction: In three sentences, summarize the plot of the movie "The Lion King".
+8. Input:
+<noinput>
+8. Output:
+The Lion King tells the story of Simba, a young lion cub and heir to the throne, who is deceived by his scheming uncle, Scar, into believing he caused his father's death. Simba runs away in exile and is raised by a carefree duo, Timon, and Pumbaa. As a young adult, he meets his childhood friend Nala, who convinces him to return and reclaim the throne from Scar.
+
+9. Instruction: Please edit this sentence for proper grammar and punctuation.
+9. Input:
+i have recently, learned that their gonna hold a big conference over at the, PlazaHotel.
+9. Output:
+I have recently learned that they're going to hold a big conference over at the Plaza Hotel.
+
+10. Instruction: Identify the main problem and suggest a solution in the given situation.
+10. Input:
+Craig has three young children, and every morning they all have to get ready for school at the same time, which results in a chaotic house, arguments, and delays.
+10. Output:
+Problem: Chaotic mornings with children getting ready for school simultaneously.
+Solution: Create a staggered morning schedule, assigning specific times for each child to use the bathroom, get dressed, and eat breakfast, reducing chaos and arguments.

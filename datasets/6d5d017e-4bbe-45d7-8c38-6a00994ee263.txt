@@ -1,0 +1,113 @@
+4. Instruction: Given two dates, calculate the difference between them in years, months, and days. 
+4. Input: 
+Date 1: Jan 1 2020 
+Date 2: Dec 31 2021
+4. Output: 
+The difference between the two dates is 1 year, 11 months, and 30 days.
+### 
+5. Instruction: Generate a summary of the provided text below. 
+5. Input: 
+According to a new study, conducted by the Harvard School of Public Health, people who ate a healthy diet, which was high in vegetables, fruits, and nuts, and low in sugar and refined grains, experienced a lowered risk of depression. The findings add to a growing body of research linking diet and mental health. 
+5. Output: 
+A new study conducted by the Harvard School of Public Health suggests that a healthy diet that is high in fruits, vegetables, and nuts and low in sugar and refined grains can reduce the risk of depression. These findings contribute to an increasing volume of research that establishes a connection between nutrition and mental wellbeing.
+### 
+6. Instruction: Given a list of numbers, find the median. For an odd number of inputs, it is the middle number. For an even number of inputs, it is the average of the two middle numbers. 
+6. Input: 
+1, 2, 3, 4, 5, 6
+6. Output: 
+The median of the given input is 3.5.
+### 
+7. Instruction: Rewrite the following text to improve its conciseness and clarity without losing any meaning. 
+7. Input: 
+The reason why the performance of the laptop is slow is mainly because there are too many programs running in the background which are consuming a lot of the laptop's processing power, and thus making it difficult for the laptop to keep up with the demands placed on it. 
+7. Output: 
+The laptop's poor performance is due to too many programs running in the background, causing high CPU consumption and difficulty keeping up with demands. 
+### 
+8. Instruction: Given a set of products and their prices, find the product that has the highest price. 
+8. Input: 
+Product 1: Nike shoes $120 
+Product 2: Apple Watch $399 
+Product 3: Bose headphones $299
+8. Output: 
+The product with the highest price is the Apple Watch with a price of $399.
+### 
+9. Instruction: Given a sentence, arrange the words in alphabetical order. 
+9. Input: 
+The quick brown fox jumps over the lazy dog.
+9. Output: 
+brown dog fox jumps lazy over quick the The.
+### 
+10. Instruction: In what year did the Titanic sink? 
+10. Input: 
+<noinput>
+10. Output: 
+The Titanic sank on April 15, 1912. 
+### 
+11. Instruction: Add an exclamation mark to the end of the following sentence. 
+11. Input: 
+You are doing a great job 
+11. Output: 
+You are doing a great job!
+### 
+12. Instruction: Find the derivative of the following equation: y = 3x^2 + 5x - 7 
+12. Input: 
+<noinput>
+12. Output: 
+The derivative of y = 3x^2 + 5x - 7 is y' = 6x + 5.
+### 
+13. Instruction: Given a paragraph of text, change all instances of "he" to "she." 
+13. Input: 
+Throughout his career, he has been a strong advocate for workers' rights. He believes that every employee deserves to be treated with respect and dignity. He is committed to fighting for better wages and better working conditions for all workers. 
+13. Output: 
+Throughout her career, she has been a strong advocate for workers' rights. She believes that every employee deserves to be treated with respect and dignity. She is committed to fighting for better wages and better working conditions for all workers.
+### 
+14. Instruction: What is the capital of Australia? 
+14. Input: 
+<noinput>
+14. Output: 
+The capital of Australia is Canberra. 
+### 
+15. Instruction: Given a sentence, replace all instances of "very" with "extremely." 
+15. Input: 
+She was very happy with her test results. 
+15. Output: 
+She was extremely happy with her test results. 
+### 
+16. Instruction: Given a set of images, identify and describe any people in them, and estimate their ages. 
+16. Input: 
+Images provided in the folder named "Images".
+16. Output: 
+Image 1: The photo shows three people, two young men and a middle-aged woman. The men appear to be in their early 20s, while the woman seems to be in her mid-40s.
+Image 2: The picture shows a group of five children playing in a park. The children are all between the ages of 6 and 10.
+Image 3: The photograph shows a couple enjoying the sunset on the beach. The man appears to be in his early 30s, while the woman looks to be in her late 20s.
+### 
+17. Instruction: Given the title of a book, provide a brief summary of its plot. 
+17. Input: 
+Title: Harry Potter and the Philosopher's Stone
+17. Output: 
+Harry Potter and the Philosopher's Stone is the first book in J.K. Rowling's Harry Potter series. It follows the story of a young orphan boy named Harry Potter who discovers he is a wizard and sets out to learn magic at Hogwarts School of Witchcraft and Wizardry. Along with his friends Ron Weasley and Hermione Granger, Harry uncovers a plot by the evil Lord Voldemort to steal the Philosopher's Stone and become immortal. 
+### 
+18. Instruction: Given a set of words, find the word that appears the most. 
+18. Input: 
+apple, banana, orange, apple, pear, strawberry, apple
+18. Output: 
+The word that appears the most frequently is "apple." 
+### 
+19. Instruction: Given a sentence, change all instances of "I" to "you," and vice versa. 
+19. Input: 
+I am going to the store later. 
+19. Output: 
+You are going to the store later.
+### 
+20. Instruction: Given a set of images with their corresponding labels, classify each image into the appropriate category. 
+20. Input: 
+Images:
+image1.jpg, label: cat
+image2.jpg, label: dog
+image3.jpg, label: bird
+image4.jpg, label: cat
+20. Output: 
+Image 1: The photograph shows a cat.
+Image 2: The photograph shows a dog.
+Image 3: The picture shows a bird.
+Image 4: The photograph shows a cat.

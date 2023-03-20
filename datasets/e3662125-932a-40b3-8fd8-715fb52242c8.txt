@@ -1,0 +1,35 @@
+4. Instruction: Can you suggest some good movies to watch during the weekend? 
+4. Input: 
+<noinput>
+4. Output: 
+Sure! Here are some options:
+1. The Shawshank Redemption
+2. The Godfather
+3. The Dark Knight
+4. The Godfather: Part II
+5. 12 Angry Men
+6. Schindler's List
+7. The Lord of the Rings: The Return of the King
+8. Pulp Fiction
+9. Forrest Gump
+10. Goodfellas
+### 
+5. Instruction: How can I optimize my website speed and performance? 
+5. Input: 
+<noinput>
+5. Output: 
+Here are some tips:
+1. Optimize images by compressing them
+2. Use a Content Delivery Network (CDN)
+3. Minimize HTTP requests
+4. Reduce server response time
+5. Minimize CSS and JS files
+6. Implement browser caching
+7. Use Gzip compression
+8. Optimizing website database
+### 
+6. Instruction: Can you rewrite this sentence to make it simpler? 
+6. Input: 
+The politician's rhetoric is often esoteric, leading to partial clarity on their stance on the issue.
+6. Output: 
+Politicians often use complex language, making it hard to understand their views on an issue.

@@ -1,0 +1,104 @@
+4. Instruction: Given a list of words, generate a sentence that includes each word.
+4. Input: 
+Words: cat, hat, sat, chat, mat
+4. Output:
+I saw a cat in a hat sat next to me as we had a chat on a mat.
+###
+5. Instruction: Rewrite the following sentence to have a positive sentiment. 
+5. Input: 
+I hate waiting for the bus that is always late. 
+5. Output: 
+I am looking forward to the bus arriving on time so I can get to my destination without any delays.
+###
+6. Instruction: Generate a rhyming couplet 
+6. Input: 
+Word: moon
+6. Output:
+The moon invites everyone to swoon 
+Under its light, the night will soon loom.
+###
+7. Instruction: Summarize the following paragraph in one sentence. 
+7. Input: 
+The Covid-19 pandemic undeniably wreaked havoc on many individuals’ health and finances. In addition, real estate markets have been hit hard by the economic uncertainty resulting from the pandemic.
+7. Output: 
+The Covid-19 pandemic caused financial struggles for many, including the real estate market.
+###
+8. Instruction: Provide three different synonyms for the word “happy."
+8. Input: 
+Word: happy
+8. Output:
+Content, Joyful, Delighted
+###
+9. Instruction: Convert the given numeric date into a written date. 
+9. Input: 
+Date: 08/26/2022
+9. Output: 
+August 26, 2022
+###
+10. Instruction: Provide a recipe for a vegetarian chili. 
+10. Input: 
+<noinput>
+10. Output: 
+Vegetarian Chili Recipe: In a large pot, saute onions and garlic, add a can of tomatoes, kidney beans, corn, and chili powder. Finally, let it simmer for an hour before serving.
+###
+11. Instruction: Name two famous authors and their works. 
+11. Input: 
+<noinput>
+11. Output: 
+JK Rowling - Harry Potter series, Jane Austen - Pride and Prejudice
+###
+12. Instruction: Identify the subject, verb, and object in the following sentence. 
+12. Input: 
+Sentence: The cat chased the mouse. 
+12. Output: 
+Subject: Cat, Verb: Chased, Object: Mouse
+###
+13. Instruction: Write instructions for making pie dough. 
+13. Input: 
+<noinput>
+13. Output: 
+Pie Dough Recipe: Mix flour, cold butter, sugar, and salt in a food processor. Gradually add water until dough forms. Roll the dough on a floured surface until it reaches the desired size.
+###
+14. Instruction: Identify the main theme of the novel "The Great Gatsby" by F. Scott Fitzgerald.
+14. Input: 
+<noinput>
+14. Output: 
+The main theme of "The Great Gatsby" is the corrupting influence of wealth.
+###
+15. Instruction: Generate a haiku poem.
+15. Input: 
+<noinput>
+15. Output: 
+A yellow leaf falls,
+Paving the way for winter,
+Nature's constant change. 
+###
+16. Instruction: Write a brief summary of the plot of the movie "Titanic."
+16. Input: 
+<noinput>
+16. Output: 
+The movie "Titanic" tells the story of a romance that blossoms between an upper-class woman and a poor artist on the ill-fated voyage of the RMS Titanic.
+###
+17. Instruction: Rearrange the words to form a grammatically correct sentence. 
+17. Input: 
+Words: ran, the, cat, across, the, street.
+17. Output: 
+The cat ran across the street.
+###
+18. Instruction: Identify the key features of a financial statement. 
+18. Input: 
+<noinput>
+18. Output: 
+The main components of a financial statement are the balance sheet, income statement, and cash flow statement.
+###
+19. Instruction: Modify the given sentence to be in the present continuous tense. 
+19. Input: 
+Sentence: I eat breakfast at 7 am every day.
+19. Output: 
+I am eating breakfast at 7 am today.
+###
+20. Instruction: Provide instructions for making scrambled eggs. 
+20. Input: 
+<noinput>
+20. Output: 
+Scrambled Eggs Recipe:  Whisk eggs in a bowl, add salt and pepper. Melt butter in a heated pan and pour the egg mixture in. Scramble the eggs until set and not runny. Serve hot.

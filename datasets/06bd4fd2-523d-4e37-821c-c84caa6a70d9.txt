@@ -1,0 +1,55 @@
+4. Instruction: Translate the given English sentence to French.
+4. Input: 
+The weather is beautiful today.
+4. Output: 
+Le temps est magnifique aujourd'hui.
+###
+5. Instruction: Proofread the given text and suggest an edited version with improved grammar, punctuation, and readability.
+5. Input: 
+My appartment on a top floor theirs a lot of advantages to living in it. The view is niceb, less noisy and more privacy
+5. Output: 
+My apartment is on the top floor, and there are many advantages to living in it. The view is pleasing, it's less noisy, and there's more privacy.
+###
+6. Instruction: Analyze the poem given and provide a brief summary of the theme and main message.
+6. Input: 
+Stopping by Woods on a Snowy Evening by Robert Frost
+
+Whose woods these are I think I know.
+His house is in the village, though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+
+He gives his harness bells a shake
+To ask if there is some mistake.
+The only other sound's the sweep
+Of easy wind and downy flake.
+
+The woods are lovely, dark, and deep,
+But I have promises to keep,
+And miles to go before I sleep,
+And miles to go before I sleep.
+6. Output: 
+This poem explores the theme of the conflict between the beauty of nature and the obligations of life. The speaker enjoys the serenity of the woods but is reminded of the promises and responsibilities he must uphold, as he still has miles to go before he can rest.
+###
+7. Instruction: Which country does the given ingredient primarily come from?
+7. Input: 
+Wasabi
+7. Output: 
+Japan
+###
+8. Instruction: Calculate the following mathematical expression and provide the result.
+8. Input: 
+(3+5)² * (7-3)
+8. Output: 
+256
+###
+9. Instruction: Please provide a summary of the given news article.
+9. Input: 
+Apple's latest flagship device, the iPhone 14 Pro, has just been released, bringing a host of exciting new features to the table. This year's model boasts an enhanced A16 chip for faster performance, a larger and more vibrant OLED display, and a revolutionary triple-lens camera system with impressive low-light capabilities. Furthermore, the iPhone 14 Pro comes with a higher-capacity battery, ensuring longer usage times between charges. The device also features improved water and dust resistance, alongside a more durable design.
+9. Output: 
+Apple has released the iPhone 14 Pro with several notable upgrades, including the A16 chip for better performance, a larger OLED display, a triple-lens camera with low-light capabilities, an improved battery life, and enhanced water, dust resistance and durability.

@@ -1,0 +1,105 @@
+4. Instruction: Rewrite the following sentence in active voice.
+4. Input: 
+The cake was eaten by John.
+4. Output: 
+John ate the cake.
+###
+5. Instruction: Summarize the given paragraph in two sentences. 
+5. Input: 
+In recent years, the use of renewable energy has been on the rise as society moves towards cleaner and more sustainable energy sources. Wind power is a particularly promising source of renewable energy due to its low cost and abundance in many areas around the world.
+5. Output: 
+Renewable energy is gaining popularity globally as society moves towards sustainable energy sources. Wind power is particularly promising because of its low cost and abundance in many areas.
+###
+6. Instruction: Generate a creative headline for the following news article. 
+6. Input: 
+Economy shrinks by 3% in the second quarter of 2020.
+6. Output: 
+Economic downturn continues as GDP drops by 3% in Q2 2020.
+###
+7. Instruction: Convert the following temperature from Celsius to Fahrenheit. 
+7. Input: 
+32 degrees Celsius.
+7. Output: 
+The temperature is 89.6 degrees Fahrenheit.
+###
+8. Instruction: Rewrite the following sentence in a formal tone. 
+8. Input: 
+Wanna grab some dinner later?
+8. Output: 
+Would you like to join me for dinner later?
+###
+9. Instruction: Generate an appropriate closing line for the following sales email. 
+9. Input: 
+Dear [Client Name], Would you like to schedule a call next week to discuss our product further? Thank you, [Your Name].
+9. Output: 
+Let me know if this works for you, I’m looking forward to discussing this further with you!
+###
+10. Instruction: Write a tagline for a new product. 
+10. Input: 
+New organic shampoo. 
+10. Output: 
+"Love your hair and the earth with our organic shampoo." 
+###
+11. Instruction: Define the following term. 
+11. Input: 
+Algorithm.
+11. Output: 
+An algorithm is a set of instructions or rules that a computer program follows to solve a problem or complete a task. It is a sequence of steps that can be executed by a computer until the desired result is obtained.
+### 
+12. Instruction: List three benefits of meditation. 
+12. Input: 
+<noinput>
+12. Output: 
+Meditation increases a sense of calmness and awareness, reduces stress levels, and promotes better sleep quality.
+### 
+13. Instruction: Identify the author of the given quote.
+13. Input: 
+"In three words I can sum up everything I've learned about life: it goes on."
+13. Output: 
+The author of the quote is Robert Frost.
+### 
+14. Instruction: Provide a synonym for the following word. 
+14. Input: 
+Famous.
+14. Output: 
+Renowned. 
+### 
+15. Instruction: Create an acrostic poem for the word "OCEAN". 
+15. Input: 
+<noinput>
+15. Output: 
+Ocean waves crash 
+Carefree beach days 
+Endless horizon 
+Awe-inspiring depth 
+Nature's beauty 
+### 
+16. Instruction: Rewrite the following sentence to make it a conditional statement. 
+16. Input: 
+I don't have any cash. 
+16. Output: 
+If I had cash, then I could buy it.
+### 
+17. Instruction: Define the term "synergy". 
+17. Input: 
+<noinput>
+17. Output: 
+Synergy refers to the cooperative interaction of two or more elements that produce a combined effect greater than the sum of their separate effects. In other words, the whole is greater than the sum of its parts.
+### 
+18. Instruction: List three popular tourist attractions in London. 
+18. Input: 
+<noinput>
+18. Output: 
+The London Eye, the Tower of London, and the British Museum are some popular tourist attractions in London.
+### 
+19. Instruction: Correct the following sentence for grammatical errors. 
+19. Input: 
+Him and me went to the store. 
+19. Output: 
+He and I went to the store.
+### 
+20. Instruction: Identify the capital city of Australia. 
+20. Input: 
+<noinput>
+20. Output: 
+The capital city of Australia is Canberra.

@@ -1,0 +1,46 @@
+4. Instruction: Choose a suitable name for the new character in the story based on their description.
+4. Input: 
+This character is a wise old chef who owns a popular restaurant in the magical realm. They have a long, silvery beard and wear a tall hat with stars and moons on it. They create delightful dishes using secret ingredients gathered from enchanted forests, and love to share their culinary wisdom with young apprentices.
+4. Output: 
+Alaric Moonshadow
+
+5. Instruction: Read the brief customer review and rate it based on the severity of their complaint from 1 (least severe) to 5 (most severe).
+5. Input: 
+I got my food quickly, and the server was really friendly, but my burger was slightly undercooked. I didn't complain, though, because it was still pretty tasty.
+5. Output: 
+2
+
+6. Instruction: Retell the story in your own words.
+6. Input: 
+Once upon a time in a quaint village, there lived a young girl named Cinderella. Her mother passed away when she was a child, and her father remarried a woman with two daughters, Anastasia and Drizella. Cinderella's stepmother and stepsisters mistreated her, making her do chores and tending to their every need. When the king announced a royal ball, Cinderella's Fairy Godmother magically transformed her into a beautiful princess, allowing her to attend incognito. At the ball, she captured the heart of the prince, but when the clock struck midnight, her enchantment ended, leaving only a glass slipper behind. The prince searched the kingdom for the girl who fit the slipper, eventually finding Cinderella and they lived happily ever after.
+6. Output: 
+Long ago in a small village, a girl named Cinderella lived with her widowed father, her wicked stepmother, and her two stepsisters, Anastasia and Drizella. Cinderella was mistreated by her new family, having to do all the household chores. When the king hosted a royal ball, her Fairy Godmother appeared and turned Cinderella into a stunning princess so she could attend. While there, the prince fell in love with her, but when the clock hit midnight, the spell broke, leaving behind only a glass slipper. The prince searched until he found Cinderella as the rightful owner of the slipper, and they shared a blissful life together.
+
+7. Instruction: Explain how this idiom originated and what it means.
+7. Input: 
+A picture is worth a thousand words
+7. Output: 
+The origin of the idiom "A picture is worth a thousand words" is attributed to Frederick R. Barnard, an American newspaper editor and advertiser, who used it in 1921 in an article titled "One Look Is Worth A Thousand Words" to emphasize the effectiveness of images in advertising. The phrase means that a visual image can convey a complex idea or information more effectively than a lengthy description. Instead of using many words to describe something, a single image can illustrate the concept more quickly and easily.
+
+8. Instruction: Translate the given text from English to French.
+8. Input: 
+Today, it is cloudy with a chance of rain. Please remember to bring an umbrella with you.
+8. Output: 
+Aujourd'hui, il fait nuageux avec un risque de pluie. N'oubliez pas d'apporter un parapluie avec vous.
+
+9. Instruction: Based on the given situation, suggest possible reasons the computer isn't turning on.
+9. Input: 
+John tried to turn on his computer, but it didn't power on. He checked the power cable, and it was correctly connected to an active power strip and the computer. He also tested another device on the power strip, and it worked.
+9. Output: 
+1. Dead or failing power supply unit.
+2. Faulty or improperly connected internal hardware components.
+3. Motherboard failure.
+4. Dead or failing CMOS battery.
+5. Power button or front panel connector issues.
+
+10. Instruction: Identify the error in the sentence and provide the corrected version.
+10. Input: 
+The breathtaking views, comfortable accommodations, and wonderful food for were reasons why our trip to the mountains was fantastic.
+10. Output: 
+Error: The word "for" is misplaced.
+Corrected Version: The breathtaking views, comfortable accommodations, and wonderful food were reasons why our trip to the mountains was fantastic.

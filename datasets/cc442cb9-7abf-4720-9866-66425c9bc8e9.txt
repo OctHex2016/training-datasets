@@ -1,0 +1,120 @@
+4. Instruction: Translate the following sentence into French.
+4. Input: 
+I like reading books and traveling to different places.
+4. Output: 
+J'aime lire des livres et voyager dans différents endroits.
+###
+5. Instruction: Identify the logical fallacy in the given argument.
+5. Input: 
+You should try this new weight loss pill. All famous people are using it, so it must work!
+5. Output: 
+Appeal to Authority
+###
+6. Instruction: Suggest a suitable title for the given essay.
+6. Input: 
+In the essay, I will discuss the impact of technology on education, focusing on the pros and cons of online learning, its influence on classroom dynamics, and the future of education with the integration of artificial intelligence.
+6. Output: 
+Navigating the Digital Shift: Evaluating the Influence of Technology on Education
+###
+7. Instruction: Describe the steps to follow if an individual encounters a bears while hiking.
+7. Input: 
+<noinput>
+7. Output: 
+1. Remain calm and avoid sudden movements.
+2. Speak calmly and firmly to the bear, and make yourself look as large as possible by raising arms and standing on tiptoes.
+3. Slowly back away without turning your back on the bear, maintaining eye contact.
+4. Do not run, as this might trigger a chase.
+5. Keep your backpack on since it can provide protection.
+6. If the bear is not approaching, observe its behavior and give it a chance to leave the area.
+7. If the bear approaches or charges, use bear spray or make loud noises to scare it away.
+8. In the rare case of a physical attack, play dead by lying on your stomach, legs spread apart, and covering your head and neck with your arms.
+###
+8. Instruction: What are the main differences between plant cells and animal cells?
+8. Input: 
+<noinput>
+8. Output: 
+1. Plant cells have a cell wall, while animal cells have a cell membrane only.
+2. Plant cells contain chloroplasts for photosynthesis, while animal cells do not.
+3. Plant cells have larger central vacuoles that store water and nutrients, while animal cells have smaller vacuoles or none at all.
+4. Animal cells have centrioles, which are involved in cell division, while plant cells typically do not.
+5. Plant cells have a fixed, rectangular shape, while animal cells have a more flexible, irregular shape.
+###
+9. Instruction: Reformulate the following sentence to use a passive voice.
+9. Input: 
+The dog chased the cat up the tree.
+9. Output: 
+The cat was chased up the tree by the dog.
+###
+10. Instruction: Which amendment in the United States Constitution addresses the right to bear arms?
+10. Input: 
+<noinput>
+10. Output: 
+The Second Amendment
+###
+11. Instruction: Calculate the Body Mass Index (BMI) given a person's height and weight. The formula is BMI = weight (kg) / (height (m))^2.
+11. Input: 
+Height: 1.75 meters; Weight: 70 kilograms
+11. Output: 
+22.86
+###
+12. Instruction: Provide a definition for the term "operating system" in the context of computers.
+12. Input: 
+<noinput>
+12. Output: 
+An operating system (OS) is a software program that manages computer hardware, software resources, and provides a consistent environment for other software applications to run smoothly on a computer.
+###
+13. Instruction: Based on the given scenario, recommend a potential solution.
+13. Input: 
+A small business owner is finding it difficult to manage all customer orders manually and track the inventory efficiently.
+13. Output: 
+The business owner should consider adopting an inventory management software, which will help automate the order tracking and inventory management, improving efficiency, and reducing errors.
+###
+14. Instruction: Write a haiku about spring.
+14. Input: 
+<noinput>
+14. Output: 
+Blooms awaken earth,
+Nature's symphony begins,
+Spring renews the world.
+###
+15. Instruction: List three positive impacts of the Industrial Revolution.
+15. Input: 
+<noinput>
+15. Output: 
+1. Technological advancements: Innovation in manufacturing, transportation, and communication.
+2. Economic growth: Increased productivity and income, leading to improved living standards.
+3. Urbanization: Development of cities and infrastructure, providing more opportunities for employment and education.
+###
+16. Instruction: Edit the following paragraph to correct any grammatical errors.
+16. Input: 
+The United States have a presidential election every four years. The two major parties in the US are the Republicans and the Democrat. A president count to serve a maximum of two four-year terms.
+16. Output: 
+The United States has a presidential election every four years. The two major parties in the US are the Republicans and the Democrats. A president can serve a maximum of two four-year terms.
+###
+17. Instruction: Recommend three essential items to pack for a camping trip.
+17. Input: 
+<noinput>
+17. Output: 
+1. Tent or shelter
+2. Sleeping bag or bedding
+3. Cooking equipment and food supplies
+###
+18. Instruction: Write a short summary of the Shakespearean play "Macbeth."
+18. Input: 
+<noinput>
+18. Output: 
+"Macbeth" is a tragedy by William Shakespeare that follows the story of Macbeth, a Scottish general, who is consumed by ambition and the prophecy of three witches, who foretell that he will become King of Scotland. Driven by these prophecies, Macbeth and his wife, Lady Macbeth, orchestrate a series of murders to fulfill their ambitions, ultimately leading to their tragic downfall.
+###
+19. Instruction: Explain how photosynthesis works in plants.
+19. Input: 
+<noinput>
+19. Output: 
+Photosynthesis is a process by which plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. This process occurs in the chloroplasts of plant cells, which contain pigments such as chlorophyll that absorb sunlight. During photosynthesis, light energy is absorbed and used to generate energy-rich molecules, namely ATP and NADPH. These molecules, along with carbon dioxide, are then used in the Calvin cycle to produce glucose, which serves as an energy source for the plant. Oxygen is released as a by-product of this process.
+###
+20. Instruction: List the three main forms of geological rock types.
+20. Input: 
+<noinput>
+20. Output: 
+1. Igneous rocks
+2. Sedimentary rocks
+3. Metamorphic rocks

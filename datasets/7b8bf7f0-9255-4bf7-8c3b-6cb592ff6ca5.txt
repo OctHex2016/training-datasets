@@ -1,0 +1,107 @@
+4. Instruction: Given a sentence, remove all the vowels from it.
+4. Input: 
+The quick brown fox jumps over the lazy dog.
+4. Output: 
+Th qck brwn fx jmps vr th lzy dg.
+###
+5. Instruction: Given a sentence, change every other word to its antonym.
+5. Input: 
+The sun was shining on the sea, shining with all its might.
+5. Output: 
+The sun was dimming on the sea, dimming with all its weakness.
+###
+6. Instruction: Given a set of coordinates, find the distance between them in miles. 
+6. Input:
+(40.7128° N, 74.0060° W), (34.0522° N, 118.2437° W)
+6. Output: 
+Approximately 2,791 miles.
+###
+7. Instruction: Given a sentence with a missing word, fill in the blank space with an appropriate word. Output the filled-in sentence.
+7. Input: 
+The _______ climbed up the tree to rescue the cat.
+7. Output: 
+The firefighter climbed up the tree to rescue the cat.
+###
+8. Instruction: Given a brief plot summary of a movie, output the title of the movie. 
+8. Input: 
+A young boy and his grandmother have a run-in with a coven of witches and their leader. 
+8. Output: 
+The Witches.
+###
+9. Instruction: Given a list of ingredients, output a recipe for a dish that includes all of them. 
+9. Input: 
+Ingredients: Rice, chicken, bell pepper, onion. 
+9. Output: 
+Chicken Fried Rice Recipe. Heat 2 tablespoons of oil in a large skillet or wok over medium-high heat. Add 1 pound chicken breasts or thighs and let cook undisturbed for 4-5 minutes until browned. Turn the chicken over and cook the other side, then remove from the pan and let cool. In the same pan, add 1 sliced onion, 1 diced bell pepper, and 2 minced garlic cloves. Cook until softened, then add 3 cups of cooked rice and the cooked chicken. Stir to combine and serve hot.
+###
+10. Instruction: Given historical events, arrange them in chronological order. 
+10. Input: 
+Event 1: Alexander Graham Bell invents the telephone. 
+Event 2: The first successful powered flight occurs in North Carolina. 
+Event 3: Julius Caesar crosses the Rubicon. 
+10. Output: 
+Julius Caesar crosses the Rubicon, Alexander Graham Bell invents the telephone, and the first successful powered flight occurs in North Carolina.
+###
+11. Instruction: Given a product idea, come up with a slogan for it. 
+11. Input: 
+A new brand of shampoo that contains all-natural ingredients. 
+11. Output: 
+"Nature's Secret to Healthy Hair".
+###
+12. Instruction: Given a sentence, make the first letters of each word capital letters.
+12. Input: 
+i am a student at a university. 
+12. Output: 
+I Am A Student At A University.
+###
+13. Instruction: Given a sentence, change each word to its synonym. 
+13. Input: 
+The cat is asleep on the bed. 
+13. Output: 
+The feline is dozing on the bed.
+###
+14. Instruction: Given a mathematical expression, solve for x.
+14. Input: 
+3x + 27 = 36
+14. Output: 
+x = 3.
+###
+15. Instruction: Given a word, tell me the number of syllables in the word. 
+15. Input:
+Television
+15. Output: 
+4 syllables.
+###
+16. Instruction: Given a quote, determine who said it. 
+16. Input: 
+"The only true wisdom is in knowing you know nothing."
+16. Output: 
+Socrates.
+###
+17. Instruction: Given a year, output the winner of that year's Academy Award for Best Picture.
+17. Input: 
+2019
+17. Output: 
+Green Book.
+###
+18. Instruction: Given a company name, output its founding date. 
+18. Input: 
+Microsoft.
+18. Output: 
+April 4, 1975.
+###
+19. Instruction: Given a list of book titles, categorize them as either fiction or nonfiction. 
+19. Input: 
+1. To Kill a Mockingbird by Harper Lee. 
+2. Astrophysics for People in a Hurry by Neil DeGrasse Tyson. 
+3. Gone with the Wind by Margaret Mitchell. 
+4. A Brief History of Time by Stephen Hawking. 
+19. Output: 
+Fiction: To Kill a Mockingbird by Harper Lee, Gone with the Wind by Margaret Mitchell.
+Nonfiction: Astrophysics for People in a Hurry by Neil DeGrasse Tyson, A Brief History of Time by Stephen Hawking.
+###
+20. Instruction: Given a sentence, remove all punctuation. 
+20. Input: 
+My dog, a golden retriever, loves to play fetch with a tennis ball!
+20. Output: 
+My dog a golden retriever loves to play fetch with a tennis ball.

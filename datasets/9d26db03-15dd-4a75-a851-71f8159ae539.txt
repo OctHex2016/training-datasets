@@ -1,0 +1,71 @@
+4. Instruction: Translate the given English text into French.
+4. Input: 
+English Text: How does the train system work in Paris?
+4. Output: 
+Comment fonctionne le système de trains à Paris?
+
+###
+5. Instruction: Provide a vegetarian recipe for a quick lunch.
+5. Input: 
+<noinput>
+5. Output: 
+Vegan Chickpea Salad Sandwich:
+Ingredients:
+- 1 can chickpeas, drained and rinsed
+- 1/4 cup vegan mayo
+- 1 tbsp Dijon mustard
+- 1 tbsp maple syrup
+- 1/4 cup diced red onion
+- 1/4 cup diced celery
+- Salt and pepper to taste
+- 8 slices of whole grain bread
+- Lettuce, tomato, and cucumber slices for serving
+
+Instructions:
+1. In a medium-sized bowl, mash the chickpeas using a fork or a potato masher until a rough texture is achieved.
+2. Add the vegan mayo, Dijon mustard, maple syrup, diced red onion, and celery to the mashed chickpeas. Mix well.
+3. Season the chickpea mixture with salt and pepper to taste.
+4. Assemble the sandwich by placing a layer of lettuce, followed by a tomato, and cucumber slice on one slice of bread.
+5. Spread a generous amount of the chickpea mixture on the other slice of bread, then close the sandwich.
+6. Repeat steps 4 and 5 for the remaining sandwiches.
+7. Serve the sandwiches with a side of your choice, such as fresh fruit or vegetable sticks.
+
+###
+6. Instruction: Explain the difference between vector and raster graphics. 
+6. Input: 
+<noinput>
+6. Output: 
+Vector graphics utilize mathematical equations and geometric shapes (lines, curves, points, polygons) to create images. These graphics are resolution-independent, meaning they can be scaled to any size without losing quality and remain crisp and smooth at any zoom level.
+
+Raster graphics (or bitmap graphics) represent an image by encoding a grid of individual pixels, with each pixel assigned a specific color or shade. When zoomed in or enlarged, raster graphics can lose quality, appearing pixelated, because they are resolution-dependent.
+
+In summary, vector graphics excel in scalability, maintaining image quality at any size, while raster graphics are better for detailed images and complex color gradients but can lose quality when resized or zoomed in on.
+
+###
+7. Instruction: Write a paragraph describing what happens during a total solar eclipse.
+7. Input:
+<noinput>
+7. Output:
+During a total solar eclipse, the Moon passes directly between the Earth and the Sun, temporarily blocking the Sun's light from reaching Earth. As the Moon's shadow races across the Earth's surface, the size of its umbra (the darkest part of the shadow) determines the area where the total eclipse is visible. Observers within this area witness a dramatic show as the sky darkens and the Sun's outer atmosphere, called the solar corona, becomes visible. This creates a breathtaking halo effect around the Sun's silhouette, and the temperature can drop significantly during this brief period. A total solar eclipse is a rare phenomenon, and each event can be seen from a specific geolocation for a few minutes before the Moon continues its orbit and the Sun's light gradually returns.
+
+###
+8. Instruction: Identify the genre of the given movie plot and suggest a suitable title.
+8. Input:
+Movie Plot: The story revolves around a group of space explorers who set off on a mission to find another habitable planet. Soon, they discover a planet that seems perfect, but they later uncover a terrifying secret about its past that threatens their survival.
+8. Output:
+Genre: Science Fiction
+Title: Forbidden Planet: The Dark Secret
+
+###
+9. Instruction: Rewrite the following paragraph to create a persuasive version.
+9. Input: 
+Paragraph: The local community center offers a variety of fitness classes for people of all ages. These classes are a great way for people to stay healthy and maintain an active lifestyle. People can take classes like yoga, dance, or even martial arts.
+9. Output: 
+Imagine a place where people of all ages can come together to improve their health and wellbeing with the support of their local community. The local community center offers a diverse range of fitness classes designed to suit everybody's interests and abilities. Classes like revitalizing yoga, invigorating dance, and empowering martial arts not only help you stay healthy but also provide a sense of camaraderie as you engage in activities you love. Don't miss this amazing opportunity to maintain an active lifestyle, make new friends, and discover hidden talents – join our fitness classes today!
+
+###
+10. Instruction: Imagine you are a teacher. Provide feedback to improve the following sentence written by a student.
+10. Input: 
+Sentence: She seen the dog, it chased her before, so she was afraid!
+10. Output:
+Consider revising the sentence to correct the verb tense, improve sentence structure, and separate the related ideas with proper punctuation. Here's a suggestion: "She had seen the dog before, and it had chased her, so she was afraid."

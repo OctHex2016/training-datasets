@@ -1,0 +1,147 @@
+4. Instruction: Identify the poetic device used in the given line.
+4. Input:
+"She sells sea shells by the seashore."
+4. Output:
+Tongue twister, alliteration
+
+###
+5. Instruction: Determine whether the statement is a fact or an opinion.
+5. Input:
+Traveling to space is an exhilarating experience.
+5. Output:
+Opinion
+
+###
+6. Instruction: Translate the following English sentence to French.
+6. Input:
+The quick brown fox jumps over the lazy dog.
+6. Output:
+Le renard brun rapide saute par-dessus le chien paresseux.
+
+###
+7. Instruction: Rewrite the sentence in passive voice.
+7. Input:
+The artist painted the masterpiece.
+7. Output:
+The masterpiece was painted by the artist.
+
+###
+8. Instruction: Summarize the main idea of the given passage.
+8. Input:
+Yoga is a great form of exercise that has numerous physical and mental benefits. Not only can yoga help to build muscle, stretch limbs, and improve balance, it also promotes relaxation, concentration, and discipline. Practicing yoga has a profound impact on mental health and general well-being, and many people find that it helps reduce stress and anxiety while promoting a sense of inner peace.
+8. Output:
+Yoga is a multifaceted exercise that offers both physical and mental advantages, such as building muscle, improving balance, promoting relaxation, enhancing concentration, and boosting overall well-being.
+
+###
+9. Instruction: Explain the difference between weather and climate.
+9. Input:
+<noinput>
+9. Output:
+Weather refers to the atmospheric conditions, such as temperature, precipitation, humidity, and wind, at a specific place and time. Climate, on the other hand, represents the long-term averages and patterns of weather in a particular region, usually observed and analyzed over a period of 30 years or more.
+
+###
+10. Instruction: Find the grammatical error in the sentence and correct it.
+10. Input:
+She don't like to eat seafood.
+10. Output:
+She doesn't like to eat seafood.
+
+###
+11. Instruction: Identify the protagonist and antagonist in the given plot summary.
+11. Input:
+In a small town, a group of kids known as the Losers Club battle a shape-shifting entity known only as It. As they get older, the entity returns to wreak havoc on the town. The now-adult Losers Club reunites to face off against the horror they thought they left behind.
+11. Output:
+Protagonist: The Losers Club
+Antagonist: It (the shape-shifting entity)
+
+###
+12. Instruction: Calculate the tip for the given bill amount.
+12. Input:
+Bill amount: $75
+Tip percentage: 20%
+12. Output:
+Tip amount: $15
+
+###
+13. Instruction: Convert the provided recipe from servings to half servings.
+13. Input:
+Chocolate Chip Cookies (yields 24 cookies):
+- 2 cups all-purpose flour
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 3/4 cup unsalted butter, melted
+- 1 cup packed brown sugar
+- 1/2 cup white sugar
+- 1 tablespoon vanilla extract
+- 1 egg
+- 1 egg yolk
+- 2 cups semisweet chocolate chips
+13. Output:
+Chocolate Chip Cookies (yields 12 cookies):
+- 1 cup all-purpose flour
+- 1/4 teaspoon baking soda
+- 1/4 teaspoon salt
+- 6 tablespoons unsalted butter, melted
+- 1/2 cup packed brown sugar
+- 1/4 cup white sugar
+- 1/2 tablespoon vanilla extract
+- 1/2 egg
+- 1/2 egg yolk
+- 1 cup semisweet chocolate chips
+
+###
+14. Instruction: Recommend a book for someone interested in entrepreneurship.
+14. Input:
+<noinput>
+14. Output:
+"The Lean Startup" by Eric Ries
+
+###
+15. Instruction: Create a limerick.
+15. Input:
+<noinput>
+15. Output:
+There once was a man from Peru
+Who dreamed he was eating his shoe
+He woke with a fright
+In the middle of the night
+To find that his dream had come true
+
+###
+16. Instruction: Compare the style and features of Android smartphones and iPhones.
+16. Input:
+<noinput>
+16. Output:
+Android smartphones typically offer a more open and customizable experience, with many brands and models to choose from, varying in design, features, and price range. They support a wider range of apps and often come with expandable storage.
+
+iPhones, on the other hand, are exclusively designed and manufactured by Apple, with a more controlled and uniform experience. They generally have a sleek and minimalist design and a strong emphasis on user-friendliness. iPhones have a consistent and regular software update schedule and are well known for their camera quality and performance.
+
+###
+17. Instruction: Choose the correct word to fill in the blank.
+17. Input:
+To avoid confusion and miscommunication, it is important to be concise and ________ when giving instructions.
+17. Output:
+clear
+
+###
+18. Instruction: Write a haiku about a rainstorm.
+18. Input:
+<noinput>
+18. Output:
+Turbulent sky roars
+Raindrops crash like thunder's call
+Nature's symphony
+
+###
+19. Instruction: What is the capital city of Australia?
+19. Input:
+<noinput>
+19. Output:
+Canberra
+
+###
+20. Instruction: Rearrange the following words to form a meaningful sentence.
+20. Input:
+cat a was and playful lazy sunny day it outside on
+20. Output:
+On a sunny and lazy day, it was a playful cat outside.

@@ -1,0 +1,127 @@
+4. Instruction: Rewrite the following sentence in passive voice.
+4. Input: 
+Researchers analyzed the data using advanced statistical methods.
+4. Output: 
+The data was analyzed using advanced statistical methods by researchers.
+
+###
+5. Instruction: Come up with an interesting fact about Earth.
+5. Input:
+<noinput>
+5. Output:
+Earth is the only known planet in the universe to have a unique phenomenon known as plate tectonics, causing continents to move around over time.
+
+###
+6. Instruction: Write a short review of a movie you recently watched.
+6. Input:
+<noinput>
+6. Output:
+I recently watched "The Grand Budapest Hotel" and fell in love with its quirky humor and unique visual style. Wes Anderson's attention to detail, the colorful characters, and the unpredictable plot kept me captivated from start to finish. I highly recommend this movie for anyone who enjoys offbeat comedies and unforgettable stories.
+
+###
+7. Instruction: Identify the errors in the text and suggest corrections.
+7. Input:
+I hopes to visit Kyoto, Japans leats sprig. Kiyomizu-dera is a temple I reely want to see.
+7. Output:
+I hope to visit Kyoto, Japan's latest spring. Kiyomizu-dera is a temple I really want to see.
+
+###
+8. Instruction: Convert these percentages to decimals.
+8. Input:
+45%, 8%, 100%, 0.5%
+8. Output:
+0.45, 0.08, 1.00, 0.005
+
+###
+9. Instruction: Provide a brief explanation for the phenomenon of gravity.
+9. Input:
+<noinput>
+9. Output:
+Gravity is a natural force that causes objects with mass to attract one another. This force is directly proportional to the mass of the objects and inversely proportional to the square of the distance between them. On Earth, gravity pulls objects towards the center of the planet, giving us the sensation of weight and keeping us grounded.
+
+###
+10. Instruction: Translate the following English text to French.
+10. Input:
+I visited Paris last summer and loved the beautiful architecture and delicious food.
+10. Output:
+J'ai visité Paris l'été dernier et j'ai adoré la magnifique architecture et la délicieuse nourriture.
+
+###
+11. Instruction: Write an acronymn for the phrase "Artificial General Intelligence".
+11. Input:
+<noinput>
+11. Output:
+AGI
+
+###
+12. Instruction: Choose the appropriate preposition to complete the sentence.
+12. Input:
+She was standing ___ the bus stop, waiting for her ride.
+12. Output:
+She was standing at the bus stop, waiting for her ride.
+
+###
+13. Instruction: Write a limerick.
+13. Input:
+<noinput>
+13. Output:
+There once was a man from Peru,
+Who dreamed he was eating his shoe.
+He woke with a fright,
+In the middle of the night,
+And found that his dream had come true.
+
+###
+14. Instruction: What type of galaxies are M31 and Milky Way classified as?
+14. Input:
+<noinput>
+14. Output:
+M31 (Andromeda Galaxy) and the Milky Way are both classified as spiral galaxies.
+
+###
+15. Instruction: Determine the winners in each match based on the scores provided.
+15. Input:
+Chelsea 3 - 1 Arsenal
+Tottenham 2 - 2 Liverpool
+Manchester United 0 - 0 Manchester City
+Real Madrid 4 - 2 Barcelona
+15. Output:
+Chelsea, Draw (Tottenham vs Liverpool), Draw (Manchester United vs Manchester City), Real Madrid
+
+###
+16. Instruction: Explain the greenhouse effect in simple terms.
+16. Input:
+<noinput>
+16. Output:
+The greenhouse effect is a natural process where certain gases in Earth's atmosphere, called greenhouse gases, trap heat from the Sun. These gases, such as carbon dioxide and methane, allow sunlight to pass through the atmosphere and warm the Earth's surface. As the surface gets warm, it emits heat as infrared radiation, which is then trapped by greenhouse gases, keeping the Earth warm and habitable.
+
+###
+17. Instruction: Write a haiku about nature.
+17. Input:
+<noinput>
+17. Output:
+Waterfall echoes,
+Misty leaves sing with the wind,
+Nature's song resounds.
+
+###
+18. Instruction: Which planet in our solar system has the longest day?
+18. Input:
+<noinput>
+18. Output:
+Venus has the longest day in our solar system.
+
+###
+19. Instruction: Write a tongue twister using the phrase "spikey seashell".
+19. Input:
+<noinput>
+19. Output:
+She sells spikey seashells, surely some shallow shore,
+Seascape sights store spikey seashells, seashell sales soar!
+
+###
+20. Instruction: Compare the Python programming language with Java in terms of their syntax and application.
+20. Input:
+<noinput>
+20. Output:
+Python's syntax is concise, clean, and easy to read, while Java's syntax is more complex and verbose. Python's readability promotes faster development, making it a popular choice for scripting, data analysis, and web development. Java's syntax, on the other hand, emphasizes object-oriented programming and is designed for application development with strong cross-platform compatibility. Both languages are powerful, but Python is often preferred for its simplicity, while Java is chosen for its robustness, especially in large-scale applications.

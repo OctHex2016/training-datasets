@@ -1,0 +1,150 @@
+4. Instruction: Transform these sentences into passive voice.
+4. Input:
+She submitted the report on time. They completed the project successfully. The dog bit the mailman.
+
+4. Output:
+The report was submitted on time by her. The project was successfully completed by them. The mailman was bitten by the dog.
+
+###
+5. Instruction: Describe the advantages and drawbacks of online versus in-person shopping.
+5. Input: 
+<noinput>
+5. Output:
+Advantages of online shopping include convenience, wider product selection, lower prices, and the ability to easily compare products and prices. Drawbacks of online shopping include shipping costs, possible delays in delivery, inability to try before buying, and lack of face-to-face customer service. Advantages of in-person shopping include immediate access to products, personal assistance, the ability to try before buying, and building relationships with local communities. Drawbacks of in-person shopping include limited selection, higher prices, time-consuming travel to stores, and difficulty comparing products and prices.
+
+###
+6. Instruction: Find the missing word in the following sentence: "Despite the heavy rain, the event was held _____ plan."
+6. Input:
+<noinput>
+6. Output:
+The missing word is "as": "Despite the heavy rain, the event was held as planned."
+
+###
+7. Instruction: Rewrite the given sentence into a limerick.
+7. Input: 
+A man went to the store to buy some groceries.
+7. Output:
+There once was a man from town,
+Who went to the store with a frown.
+He needed some food,
+To lighten his mood,
+And now he's no longer feeling down.
+
+###
+8. Instruction: Write a thank you note to a friend who gifted me a unique kitchen gadget.
+8. Input:
+<noinput>
+8. Output:
+Dear [Friend's Name],
+
+Thank you so much for the unique kitchen gadget you gave me! I've been enjoying using it, and it has truly made a difference in my kitchen adventures. Your thoughtfulness never ceases to amaze me, and I'm truly grateful for your kind gesture.
+
+Thank you once again for your thoughtful present, and I can't wait to catch up soon to let you know all the creative dishes I've whipped up using it.
+
+Warmly,
+[Your Name]
+
+###
+9. Instruction: Explain the difference between weather and climate.
+9. Input:
+<noinput>
+9. Output:
+Weather refers to the short-term atmospheric conditions in a specific location, such as temperature, humidity, precipitation, and wind. It can change rapidly from day to day or even hour to hour. Climate, on the other hand, refers to the long-term average of weather patterns in a region over an extended period (usually 30 years or more). It provides a broader perspective, describing the average weather conditions and range of possible variations in factors like temperature, precipitation, and seasonal changes.
+
+###
+10. Instruction: Summarize the following paragraph.
+10. Input:
+In the world of investing, several choices exist for those who want to grow their money. One common type of investment is called a stock, which represents partial ownership in a company. When you purchase a stock, you own a small piece of the company and can make a profit when the company's value goes up. Another type of investment is a bond, which is a loan made to a company or government with the promise that they'll pay back the borrowed money plus interest. Both stocks and bonds carry risks and can produce returns, but investors should do their research to make informed decisions about which opportunities best align with their financial goals and risk tolerance.
+10. Output:
+Investing offers several options like stocks and bonds to grow money. Stocks provide partial ownership in a company with potential profit as its value increases, while bonds involve loaning money to a company or government, expecting repayment with interest. Risks and returns vary, so investors should research to choose investments that match their financial goals and risk tolerance.
+
+###
+11. Instruction: Translate the given text to French.
+11. Input:
+Hello, my name is John, and I would like to visit your beautiful country soon. Can you recommend some interesting places to see and things to do?
+11. Output:
+Bonjour, je m'appelle John et j'aimerais bientôt visiter votre magnifique pays. Pouvez-vous me recommander des endroits intéressants à voir et des choses à faire?
+
+###
+12. Instruction: Identify and correct any spelling errors in the given text.
+12. Input:
+The quick brown foks jumped oevr the lazyy dog.
+12. Output:
+The quick brown fox jumped over the lazy dog.
+
+###
+13. Instruction: Convert the given text into a haiku.
+13. Input:
+Leaves are falling, and the wind is blowing. Autumn has arrived.
+13. Output:
+Leaves falling gently,
+The wind whispers through the trees,
+Autumn's embrace comes.
+
+###
+14. Instruction: Put these words into alphabetical order.
+14. Input:
+wonderful, gregarious, reluctant, innovative, capable, dubious
+14. Output:
+capable, dubious, gregarious, innovative, reluctant, wonderful
+
+###
+15. Instruction: Explain how photosynthesis works.
+15. Input:
+<noinput>
+15. Output:
+Photosynthesis is a process used by plants, algae, and some bacteria to convert light energy from the sun into chemical energy in the form of glucose or other sugars. In the presence of sunlight, carbon dioxide (CO2) from the atmosphere and water (H2O) from the roots are absorbed by chlorophyll-containing cells inside chloroplasts in the plant's leaves. The light-dependent reactions capture energy from the sun in the form of ATP and NADPH, while the light-independent reactions (Calvin cycle) use these energy carriers to fix CO2 into glucose. Oxygen (O2) is released as a byproduct of the process.
+
+###
+16. Instruction: Write a short scene for a play involving two friends discussing their favorite movie.
+16. Input:
+<noinput>
+16. Output:
+Title: Favorite Movie
+
+(Scene: Two friends sit on a couch, relaxed and drinking coffee.)
+
+Friend 1: (enthusiastically) You know, I've been rewatching movies lately, and I just can't help but marvel at how fantastic "The Empire Strikes Back" is! The storyline, the twists, the characters – everything is so captivating.
+
+Friend 2: Oh, I totally agree! "The Empire Strikes Back" is also one of my all-time favorites. That moment when Darth Vader reveals his true identity to Luke? Mind-blowing!
+
+Friend 1: Absolutely! And don't forget about the soundtrack – John Williams' music adds so much depth to the whole experience. I could watch this movie on repeat every day and never get tired of it.
+
+Friend 2: (laughs) Same here! It's a true classic. They just don't make movies like that anymore.
+
+(The friends continue to discuss their favorite movie moments, growing more animated and excited as they relive the experience together.)
+
+(END SCENE)
+
+###
+17. Instruction: Determine the title of this book by completing the given phrase: "To Kill a _____"
+17. Input:
+<noinput>
+17. Output:
+To Kill a Mockingbird
+
+###
+18. Instruction: Write a palindrome that contains the word "level."
+18. Input:
+<noinput>
+18. Output:
+A man, a plan, a canal: level
+
+###
+19. Instruction: Come up with an acrostic using the word "FRIEND."
+19. Input:
+<noinput>
+19. Output:
+Faithful in tough times,
+Respectful and understanding,
+In tune with my thoughts,
+Encouraging my dreams,
+Never leaving my side,
+Dedicated to our friendship.
+
+###
+20. Instruction: Identify and explain the logical fallacy in the following statement: "If we allow people to wear hats in school, chaos will ensue."
+20. Input:
+<noinput>
+20. Output:
+The logical fallacy in this statement is the slippery slope fallacy. The slippery slope fallacy occurs when the argument assumes that a relatively small first step will inevitably lead to extreme, unfavorable consequences without providing evidence for this chain of events. In this case, the statement implies that simply allowing hats in school would automatically lead to chaos, without providing any logical reasoning or evidence for such a dramatic conclusion.

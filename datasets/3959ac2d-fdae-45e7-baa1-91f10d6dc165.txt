@@ -1,0 +1,50 @@
+4. Instruction: Summarize the main idea of this paragraph in one sentence.
+4. Input: 
+Deep learning has revolutionized the field of artificial intelligence in recent years. It is a subset of machine learning that involves training deep neural networks to recognize patterns in data. These networks can then be used to generate insights, make predictions, and solve complex problems. A popular application of deep learning is in image recognition, where deep neural networks are used to classify and recognize objects within images. As deep learning technology continues to evolve, it is becoming more prevalent, and its full potential is yet to be realized.
+4. Output: 
+Deep learning is a transformative artificial intelligence technology that uses deep neural networks for pattern recognition and problem-solving in various applications such as image recognition.
+
+5. Instruction: Based on the argument provided, decide if "AI-generated news articles will cause public chaos."
+5. Input: 
+The concern with AI-generated news articles is that they can potentially create more disinformation than ever before. Though it can generate fast news and automatic responses, these AI models might not have the human ability to discern factual information from fake information. If such AI-generated fake news spreads quickly, then the public may be misinformed, and this could lead to confusion and chaos.
+5. Output: 
+Yes, AI-generated news articles have the potential to cause public chaos due to their ability to spread disinformation rapidly.
+
+6. Instruction: Provide a brief explanation of how photosynthesis works in plants.
+6. Input: <noinput>
+6. Output: 
+Photosynthesis is a process by which plants convert light energy into chemical energy stored in the form of glucose. It occurs primarily in the chloroplasts of plant cells, where light-absorbing pigments such as chlorophyll capture sunlight. During photosynthesis, carbon dioxide is absorbed through the stomata, and water is absorbed through the roots. These resources are combined with light energy to produce glucose and oxygen. The glucose is used as energy for the plant's growth, while the oxygen is released into the atmosphere as a byproduct.
+
+7. Instruction: Put the following sentences into a logical order to create a structured text.
+7. Input: 
+- Eventually, raindrops fall to the ground as precipitation.
+- Water evaporates from the Earth's surface, forming water vapor.
+- This process is essential to the Earth's water cycle.
+- When enough moisture accumulates, water droplets form clouds.
+7. Output: 
+Water evaporates from the Earth's surface, forming water vapor. When enough moisture accumulates, water droplets form clouds. Eventually, raindrops fall to the ground as precipitation. This process is essential to the Earth's water cycle.
+
+8. Instruction: What are three pros and three cons of using social media?
+8. Input: <noinput>
+8. Output: 
+Pros:
+1. Easy communication and networking with people around the world.
+2. Access to valuable information and the latest news.
+3. Promotion of businesses and creative content.
+
+Cons:
+1. Privacy concerns and potential data breaches.
+2. The spread of fake news and misinformation.
+3. Negative impact on mental health and well-being.
+
+9. Instruction: Correct grammar and punctuation mistakes in the following sentence: 
+9. Input: 
+ally went market to buy it was warm sunny day and she happy walkng there becouse she like the place.
+9. Output: 
+Ally went to the market to buy. It was a warm, sunny day, and she was happy walking there because she likes the place.
+
+10. Instruction: Based on this article's passage, do you think the author believes cryptocurrency will create a global economic revolution?
+10. Input: 
+Cryptocurrencies might not be the utopian dream that people hoped for, but they could represent an important step toward a more equitable, transparent, and efficient global economy. By breaking down barriers and enabling easy, secure financial transactions worldwide, digital currencies like Bitcoin have the potential to make a major impact. However, the path to mass adoption of cryptocurrencies will be fraught with obstacles including regulatory concerns and volatile markets, but for those who can navigate these issues successfully, the potential rewards are substantial.
+10. Output: 
+Yes, the author believes that cryptocurrency has the potential to create a more equitable and efficient global economy, though obstacles will need to be overcome for mass adoption.

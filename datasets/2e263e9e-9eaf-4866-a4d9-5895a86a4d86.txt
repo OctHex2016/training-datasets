@@ -1,0 +1,104 @@
+4. Instruction: Edit the following sentence so that it uses the past tense verb:
+4. Input: 
+She walks her dog every morning.
+4. Output: 
+She walked her dog every morning. 
+### 
+5. Instruction: Find the antonym of a word in a sentence. 
+5. Input: 
+The weather today is hot and humid. What is the antonym of "hot"? 
+5. Output: 
+The antonym of "hot" is "cold". 
+### 
+6. Instruction: Complete the following analogy: 
+6. Input: 
+dog : bark :: cat : ?
+6. Output:
+Cat: meow. 
+### 
+7. Instruction: Rewrite the following sentence by changing the adjective in boldfaced to a synonym:
+7. Input: 
+The large cat was sleeping under the couch. 
+7. Output: 
+The big cat was sleeping under the couch. 
+### 
+8. Instruction: Identify the part of speech of a word in a sentence. 
+8. Input: 
+The quick brown fox jumped over the lazy dog. What part of speech is "fox"? 
+8. Output: 
+"Fox" is a noun. 
+### 
+9. Instruction: Translate the following sentence to Spanish. 
+9. Input: 
+I like to play soccer with my friends. 
+9. Output:
+Me gusta jugar al fútbol con mis amigos. 
+### 
+10. Instruction: Identify the topic or theme of a paragraph. 
+10. Input: 
+In the following paragraph, what is the main topic or theme?
+There are many different types of fruits, such as apples, oranges, bananas, and grapes. Some fruits are good sources of vitamin C and fiber, while others are high in sugar. It is important to eat a variety of fruits as part of a healthy diet.
+10. Output:
+The main topic of the paragraph is about different types of fruits and their nutritional values. 
+### 
+11. Instruction: Generate a word that is an antonym of the following word. 
+11. Input: 
+What is an antonym of the word "happy"? 
+11. Output: 
+The antonym of "happy" is "sad". 
+### 
+12. Instruction: Correct the spelling mistake in the following sentence:
+12. Input: 
+I am goig to the store to buy some grocceries. 
+12. Output: 
+I am going to the store to buy some groceries. 
+### 
+13. Instruction: Complete the following sentence:
+13. Input: 
+The hardest thing about learning a new skill is … 
+13. Output: 
+… staying motivated even when it gets difficult. 
+### 
+14. Instruction: Identify the author of the following book.
+14. Input: 
+Who is the author of "To Kill a Mockingbird"? 
+14. Output: 
+The author of "To Kill a Mockingbird" is Harper Lee. 
+### 
+15. Instruction: Organize the following dates in chronological order. 
+15. Input: 
+December 7, 1941; July 4, 1776; November 22, 1963 
+15. Output: 
+July 4, 1776; December 7, 1941; November 22, 1963 
+
+* The dates correspond to US Independence Day, the attack on Pearl Harbor, and the assassination of JFK.
+### 
+16. Instruction: Identify the country that corresponds to the following flag. 
+16. Input: 
+What country does this flag belong to? (insert an image of the flag of Japan) 
+16. Output: 
+The flag belongs to Japan. 
+### 
+17. Instruction: Tell me an interesting fact about the Egyptian pyramids. 
+17. Input: 
+<noinput>
+17. Output: 
+The Great Pyramid of Giza is the oldest and largest of the Egyptian pyramids, and is the only remaining wonder of the ancient world. 
+### 
+18. Instruction: Complete the following sentence:
+18. Input: 
+The best way to learn a new language is … 
+18. Output: 
+… to immerse yourself in the language, by speaking with native speakers, watching movies or TV shows in the language, and practicing consistently. 
+### 
+19. Instruction: Rearrange the following sentence to make it more grammatically correct:
+19. Input: 
+Writing essays, I find very difficult. 
+19. Output: 
+I find writing essays very difficult. 
+### 
+20. Instruction: Define the following word. 
+20. Input: 
+What does the word "intrepid" mean? 
+20. Output: 
+"Intrepid" means fearless, adventurous, and not easily discouraged.

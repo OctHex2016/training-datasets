@@ -1,0 +1,101 @@
+4. Instruction: Write a one-sentence weather forecast for the day.
+4. Input: 
+<noinput>
+4. Output: 
+Today will be partly cloudy with a high of 75°F and a 20% chance of rain.
+
+5. Instruction: Construct a rhyming couplet based on the given phrase.
+5. Input: 
+A star shining bright in the sky
+5. Output: 
+A star shining bright in the sky, darkness fades as night whispers goodbye.
+
+6. Instruction: Calculate the area of a rectangle with the given dimensions.
+6. Input: 
+Length: 10, Width: 5
+6. Output: 
+50
+
+7. Instruction: Provide a book recommendation based on the given genre preference.
+7. Input: 
+Mystery and Thriller
+7. Output: 
+I would recommend "Gone Girl" by Gillian Flynn for a gripping mystery and thriller novel.
+
+8. Instruction: Translate the given text to French.
+8. Input: 
+I will visit France next summer.
+8. Output: 
+Je visiterai la France l'été prochain.
+
+9. Instruction: Fact-check the statement and provide the correct information if necessary.
+9. Input: 
+The Pyramids of Giza were built by the ancient Greeks.
+9. Output: 
+Incorrect. The Pyramids of Giza were built by the ancient Egyptians, not Greeks.
+
+10. Instruction: Simile or Metaphor - Identify the figure of speech present in the given expression.
+10. Input: 
+The world is a stage.
+10. Output: 
+Metaphor
+
+11. Instruction: Identify the main theme of the provided short passage.
+11. Input: 
+After failing his exam, Jack realized the importance of hard work and dedication. He swore never to procrastinate again and started studying regularly, which eventually helped him improve his grades.
+11. Output: 
+The importance of hard work and dedication
+
+12. Instruction: Based on the description, name the animal.
+12. Input: 
+It is a black and white bear native to China, primarily feeds on bamboo and is an endangered species.
+12. Output: 
+Giant Panda
+
+13. Instruction: Apply appropriate punctuation to the given text.
+13. Input: 
+yesterday mary went shopping she bought a dress shoes and a purse
+13. Output: 
+Yesterday, Mary went shopping. She bought a dress, shoes, and a purse.
+
+14. Instruction: Create a simile based on the noun.
+14. Input: 
+Moon
+14. Output: 
+As beautiful as the moon on a cloudless night
+
+15. Instruction: Define the scientific term.
+15. Input: 
+Photosynthesis
+15. Output: 
+Photosynthesis is the process by which green plants and some other organisms convert sunlight into chemical energy, specifically glucose, using carbon dioxide and water and releasing oxygen as a byproduct.
+
+16. Instruction: Assess the overall tone of the statement and respond with "Positive", "Negative", or "Neutral".
+16. Input: 
+I am feeling pretty great about my progress and have high hopes for my future.
+16. Output: 
+Positive
+
+17. Instruction: Arrange the words provided in alphabetical order.
+17. Input: 
+Cat, Apple, Banana, Elephant, Dog
+17. Output: 
+Apple, Banana, Cat, Dog, Elephant
+
+18. Instruction: Help to expand the abbreviation.
+18. Input: 
+ASAP
+18. Output: 
+As Soon As Possible
+
+19. Instruction: Rewrite the sentence given, avoiding passive voice.
+19. Input: 
+The cake was eaten by Sam.
+19. Output: 
+Sam ate the cake.
+
+20. Instruction: Identify the capital city of the country provided.
+20. Input: 
+Italy
+20. Output: 
+Rome

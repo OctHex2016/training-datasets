@@ -1,0 +1,126 @@
+4. Instruction: Edit the following sentence and correct any spelling, grammar or punctuation errors.
+4. Input: 
+It's amazeing that their are aloot of people who doesn't used proper grammar now'days.
+4. Output: 
+It's amazing that there are a lot of people who don't use proper grammar nowadays.
+
+5. Instruction: Write a brief summary of the following paragraph in your own words.
+5. Input: 
+Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction. Learning pertains to acquiring new, or modifying existing, knowledge, behaviors, skills, or preferences. Reasoning is the process of forming conclusions, judgments or inferences from facts or premises. Self-correction is the ability to adjust and adapt to changes and continually improve based on feedback.
+5. Output: 
+Artificial intelligence (AI) refers to computer systems that mimic human intelligence by learning, reasoning, and self-correcting. Learning involves obtaining or adapting knowledge and behaviors, while reasoning involves drawing conclusions from information. Self-correction allows AI to continually improve and adapt based on feedback.
+
+6. Instruction: Translate the following sentence into French.
+6. Input: 
+The weather is beautiful today, and I'm going for a walk.
+6. Output: 
+Le temps est beau aujourd'hui, et je vais faire une promenade.
+
+7. Instruction: Write a haiku poem about nature.
+7. Input: 
+<noinput>
+7. Output: 
+Gentle morning breeze,
+Whispers through the swaying trees,
+Nature's symphony.
+
+8. Instruction: Explain how to make scrambled eggs in a few simple steps.
+8. Input: 
+<noinput>
+8. Output: 
+1. Crack 2-3 eggs into a bowl.
+2. Add a splash of milk and a pinch of salt.
+3. Whisk the mixture together.
+4. Heat a pan with a knob of butter over medium heat.
+5. Pour the egg mixture into the pan.
+6. Stir gently and continuously until the eggs are cooked to your desired consistency.
+7. Serve with your choice of sides.
+
+9. Instruction: Classify the following statement as fact, opinion, or a mix of both.
+9. Input: 
+All dogs are better pets than cats.
+9. Output: 
+Opinion
+
+10. Instruction: Identify the logical fallacy in the following argument.
+10. Input: 
+If you get a college degree, you'll be successful. John doesn't have a college degree, so he won't be successful.
+10. Output: 
+Affirming the consequent
+
+11. Instruction: Recommend three healthy breakfast options.
+11. Input: 
+<noinput>
+11. Output: 
+1. Greek yogurt with fresh fruit and nuts.
+2. Overnight oats topped with berries.
+3. Whole-grain avocado toast with cherry tomatoes and a poached egg.
+
+12. Instruction: Suppose a user wants to buy a gift for their friend's birthday. Advise them on what factors they should consider when choosing an appropriate gift. 
+12. Input: 
+<noinput>
+12. Output: 
+1. Consider the friend's interests and hobbies.
+2. Assess your budget for the gift.
+3. Reflect on the occasion, and choose a gift that is suitable.
+4. Think about the durability and practicality of the gift.
+5. Personalize the gift, if possible, to add sentimental value.
+
+13. Instruction: Briefly explain the process of photosynthesis.
+13. Input: 
+<noinput>
+13. Output: 
+Photosynthesis is the process used by plants and some algae to convert sunlight, carbon dioxide, and water into glucose and oxygen. This process mainly occurs in the chloroplasts, which contain the pigment chlorophyll. Chlorophyll captures sunlight, providing the energy needed for the chemical reactions in photosynthesis. In this process, carbon dioxide and water combine, producing glucose, which serves as the plant's energy source, and oxygen, which is released as a byproduct.
+
+14. Instruction: Convert the following Celsius temperature to Fahrenheit: 25°C.
+14. Input: 
+<noinput>
+14. Output: 
+(25 * 9/5) + 32 = 77°F
+
+15. Instruction: Identify the protagonist and the antagonist in the following sentence.
+15. Input: 
+In the midst of a fierce battle, Lucy bravely fought against the evil sorcerer who sought to destroy her homeland.
+15. Output: 
+Protagonist: Lucy
+Antagonist: The evil sorcerer
+
+16. Instruction: Evaluate the given pro and con argument and provide an overall decision based on the two arguments. 
+16. Input: 
+Pro: The broadband connection upgrade will significantly increase internet speed for all users in the neighborhood.
+Con: The broadband connection upgrade will cause temporary service disruptions during regular working hours.
+16. Output: 
+Considering the long-term benefits of a significantly increased internet speed for users in the neighborhood, the temporary inconvenience of the service disruption during regular working hours seems justified. The upgrade should be done after weighing the duration of disruption against the benefits.
+
+17. Instruction: Identify two possible themes in the following sentence.
+17. Input: 
+Two young children become fast friends despite coming from families deeply embroiled in a bitter feud spanning generations.
+17. Output: 
+1. Overcoming the barriers of prejudice and animosity.
+2. The innocence of childhood transcending familial conflicts.
+
+18. Instruction: List three world-famous inventors and their notable inventions.
+18. Input: 
+<noinput>
+18. Output: 
+1. Thomas Edison: the light bulb
+2. Alexander Graham Bell: the telephone
+3. Nikola Tesla: the alternating current (AC) electrical system
+
+19. Instruction: Rewrite the following sentence as a question.
+19. Input: 
+You went to the store.
+19. Output: 
+Did you go to the store?
+
+20. Instruction: List two pros and two cons for using social media.
+20. Input: 
+<noinput>
+20. Output: 
+Pros:
+1. Staying connected to friends, family, and worldwide news.
+2. Convenient platform for self-expression and content sharing.
+
+Cons:
+1. Increased risks of privacy invasion and cyberbullying.
+2. Overuse of social media can result in addiction and reduced productivity.

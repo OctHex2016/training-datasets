@@ -1,0 +1,139 @@
+4. Instruction: Identify any mistakes in this sentence and rewrite it in corrected form.
+4. Input:
+Their's a small error in the text wich we should fix it right away.
+4. Output:
+There's a small error in the text which we should fix right away.
+
+5. Instruction: Propose two interesting topics for a research paper related to renewable energy.
+5. Input:
+<noinput>
+5. Output:
+1. Examining the potential impact of smart grid technologies on renewable energy integration.
+2. Analyzing the economic and environmental benefits of deploying renewable energy storage solutions.
+
+6. Instruction: Translate the following text into French.
+6. Input:
+This is my favorite restaurant in town.
+6. Output:
+C'est mon restaurant préféré en ville.
+
+7. Instruction: Write a brief summary of the following paragraph.
+7. Input:
+Bitcoin is a type of cryptocurrency that uses a decentralized digital ledger called blockchain to track and record transactions. It is maintained by a network of computers that work together to validate each transaction. Bitcoin was created in 2009 by an unknown person or group using the pseudonym Satoshi Nakamoto. Thousands of merchants and consumers now use Bitcoin to buy and sell goods and services, as well as other digital assets like Ethereum and Litecoin.
+7. Output:
+Bitcoin is a cryptocurrency that uses blockchain technology for decentralized tracking of transactions. Created in 2009 by an anonymous entity, it is now widely used for buying goods, services, and other digital assets.
+
+8. Instruction: Which ethical principle is being violated in this scenario? Explain your answer.
+8. Input:
+A doctor prescribes medication to a patient without explaining the potential side effects.
+8. Output:
+The ethical principle of informed consent is being violated. The doctor has failed to inform the patient about the potential side effects of the medication, preventing the patient from making an educated decision about their treatment.
+
+9. Instruction: Recommend two alternatives to fossil fuels as primary energy sources.
+9. Input:
+<noinput>
+9. Output:
+1. Solar energy
+2. Wind energy
+
+10. Instruction: Create an acrostic poem using the word RAINBOW.
+10. Input:
+<noinput>
+10. Output:
+Radiant colors stretch across the sky,
+Amber and sapphire beaming high,
+Indigo tint with a touch of blue,
+Nobel shades, changing hues,
+Bringing joy to those who look,
+Overpriced landscapes of nature's textbook,
+Wonderous arch ends on each side, a treasure untold lies.
+
+11. Instruction: Write a 4-line rhyming couplet about friendship.
+11. Input:
+<noinput>
+11. Output:
+Friends forever, side by side,
+Together strong, we shall not hide.
+In joy and sorrow, laughter and strife,
+We'll face the world, hand in hand, enjoying life.
+
+12. Instruction: What are three benefits of physical exercise on mental health?
+12. Input:
+<noinput>
+12. Output:
+1. Reduces stress and anxiety
+2. Improves cognitive function and memory
+3. Boosts mood and self-esteem
+
+13. Instruction: Spot any logical fallacy in the statement and name it.
+13. Input:
+Either you support the latest environmental regulations, or you hate our planet and want it to be destroyed.
+13. Output:
+False dilemma: The statement presents only two extreme options while ignoring other potential and moderate views.
+
+14. Instruction: Write a brief overview of the role of artificial intelligence in medicine.
+14. Input:
+<noinput>
+14. Output:
+Artificial intelligence (AI) is transforming medicine by improving diagnostic accuracy, enhancing treatment planning, and creating personalized treatment options. AI algorithms analyze vast amounts of data to identify patterns, enabling early disease detection and prevention. Additionally, AI-powered solutions assist in drug discovery, optimizing treatment strategies, and predicting patient outcomes, thereby enhancing overall patient care.
+
+15. Instruction: Identify the literary device used in this sentence: "The world is a stage, and we are merely players."
+15. Input:
+<noinput>
+15. Output:
+Metaphor
+
+16. Instruction: Write a formal letter expressing interest in an internship position at a marketing agency.
+16. Input:
+<noinput>
+16. Output:
+[Your Name]
+[Your Address]
+[City, State, Zip Code]
+[Your Email Address]
+[Today's Date]
+
+[Recipient's Name]
+[Marketing Agency]
+[Address]
+[City, State, Zip Code]
+
+Dear [Recipient's Name],
+
+I am writing to express my interest in the marketing intern position at your esteemed marketing agency. I came across the opportunity on your agency's website, and after reviewing the job description, I am confident that my academic background and relevant experience make me a strong candidate for this position.
+
+Currently, I am pursuing a Bachelor's degree in Marketing from XYZ University, and I have participated in several marketing projects that have sharpened my skills in market research, content creation, and social media management. My commitment to excel in the field of marketing and my strong communication skills would make me a valuable asset to your agency and a dedicated contributor to the team's projects.
+
+I am excited about the opportunity to join your agency and learn from the industry's top professionals. The hands-on experience that your internship program offers would be an invaluable part of my educational journey and future career growth.
+
+I have attached my résumé for your review and would appreciate the opportunity to discuss my candidacy further. Thank you for considering my application. I look forward to the possibility of contributing to your agency's success.
+
+Sincerely,
+
+[Your Name]
+
+17. Instruction: Calculate the perimeter of a rectangle with length 10 units and width 5 units.
+17. Input:
+<noinput>
+17. Output:
+Perimeter = 2 (length + width) = 2 (10 + 5) = 30 units
+
+18. Instruction: Rewrite the following passage in third person perspective.
+18. Input:
+I walked into the room and looked around. I didn't recognize anyone, so I took a seat in the corner.
+18. Output:
+He walked into the room and looked around. He didn't recognize anyone, so he took a seat in the corner.
+
+19. Instruction: List three major reasons people may choose to adopt a vegan diet.
+19. Input:
+<noinput>
+19. Output:
+1. Health benefits
+2. Environmental sustainability
+3. Animal welfare and ethical concerns
+
+20. Instruction: Develop a thesis statement for an argumentative essay on the impact of artificial intelligence on the job market.
+20. Input:
+<noinput>
+20. Output:
+Although artificial intelligence has the potential to increase efficiency and productivity in the job market, it also raises concerns about widespread job displacement and the need for upskilling the workforce to adapt to a rapidly evolving employment landscape.

@@ -1,0 +1,108 @@
+4. Instruction: Translate the given phrase from English to Spanish.
+4. Input: 
+How are you today?
+4. Output: 
+¿Cómo estás hoy?
+
+5. Instruction: Write a limerick with the given first line.
+5. Input: 
+There once was a curious bear
+5. Output: 
+There once was a curious bear,
+Who lived in a forest so rare,
+He grew very wise,
+With his round, shiny eyes,
+And danced in the moonlit air.
+
+6. Instruction: Identify if the message is formal or informal.
+6. Input: 
+Hey, what's up? How's the project going?
+6. Output: 
+informal
+
+7. Instruction: Is the statement true or false?
+7. Input: 
+The adult human body has 206 bones.
+7. Output: 
+true
+
+8. Instruction: Describe the personality of the movie character based on the quote.
+8. Input: 
+"I'm king of the world!" - Jack Dawson, Titanic
+8. Output: 
+Confident, enthusiastic, and adventurous
+
+9. Instruction: Continue the story in the given direction.
+9. Input: 
+It was a dark and stormy night. A little girl named Lucy was alone in her room, frightened by the crashing thunder outside. Begin the story with Lucy finding a magical object that takes her on an incredible adventure.
+9. Output: 
+It was a dark and stormy night. A little girl named Lucy was alone in her room, frightened by the crashing thunder outside. As lightning illuminated her room, she noticed a shimmering object tucked in the corner. Drawing closer, she discovered a beautiful, glowing pendant. Intrigued, Lucy picked it up and felt a sudden surge of energy. The pendant began to levitate, and with her curiosity piqued, she followed it through her window and into a world filled with enchanting creatures, unimaginable landscapes, and unexpected twists at every turn.
+
+10. Instruction: Explain the basic meaning of the idiom.
+10. Input:
+Bite the bullet
+10. Output:
+To face a difficult situation or endure pain with courage.
+
+11. Instruction: Determine whether the sentence requires the use of "who" or "whom."
+11. Input:
+(blank) are you writing to?
+11. Output:
+Who
+
+12. Instruction: Correct any grammatical errors in the given sentence.
+12. Input:
+We was enjoying the ice-cream before the sun start to melt it.
+12. Output:
+We were enjoying the ice cream before the sun started to melt it.
+
+13. Instruction: Transform the e-mail address into Pig Latin.
+13. Input:
+john.smith@email.com
+13. Output:
+ohnjay.ithsmay@emayil.com
+
+14. Instruction: Do a sentiment analysis of the sentence.
+14. Input:
+I absolutely love the stunning sunset view from my balcony.
+14. Output:
+Positive
+
+15. Instruction: Enumerate the pros and cons of the situation.
+15. Input:
+Using public transportation instead of a personal car
+15. Output:
+Pros: Cost-effective, environmentally friendly, reduces traffic congestion, less stress from driving.
+Cons: Limited routes, scheduling dependency, travel time may be longer, possible overcrowding.
+
+16. Instruction: Rewrite the sentence in the passive voice.
+16. Input:
+The cat chased the mouse out of the house.
+16. Output:
+The mouse was chased out of the house by the cat.
+
+17. Instruction: Write the slogan for a fictional brand of luxury sports cars.
+17. Input: 
+<noinput>
+17. Output:
+Elevate Your Drive - Unleash the Icon Within
+
+18. Instruction: Identify the primary theme of the poem.
+18. Input:
+Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.
+18. Output:
+Resistance to death and fighting against the inevitability of aging.
+
+19. Instruction: Determine the scientific name for the given species.
+19. Input: 
+Polar bear
+19. Output:
+Ursus maritimus
+
+20. Instruction: What advice would you give to someone going through a tough breakup?
+20. Input: 
+<noinput>
+20. Output:
+Take time to grieve the relationship, focus on self-care, seek support from friends and family, take on new activities and hobbies, and remember that healing is a gradual process.

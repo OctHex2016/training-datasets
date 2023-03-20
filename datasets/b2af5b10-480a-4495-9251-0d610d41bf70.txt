@@ -1,0 +1,105 @@
+4. Instruction: Write a motivational quote to inspire someone facing a difficult time.
+4. Input: 
+<noinput>
+4. Output: 
+"Every struggle in your life has shaped you into the person you are today. Be proud of your scars and know that they only make you stronger."
+
+5. Instruction: Convert the given text to the past tense.
+5. Input: 
+She runs to the store to buy some groceries for dinner.
+5. Output: 
+She ran to the store to buy some groceries for dinner.
+
+6. Instruction: Based on the given movie plot, suggest a title.
+6. Input: 
+The story is about a world-weary detective who gets a chance at redemption when he must save the president from an impending assassination while also protecting the daughter he never knew he had.
+6. Output: 
+"Redemption at Last"
+
+7. Instruction: Write a conclusion to the provided essay text.
+7. Input: 
+In conclusion, adopting sustainable practices and investing in green technologies is vital for the economic and environmental longevity of our planet. Efforts made by individuals, corporations, and governments will contribute greatly to preserving ecosystems for future generations. By recognizing the potential damage of unsustainable practices, working together to reduce environmental impacts, and investing in long-term solutions, we can secure a brighter future for both humanity and the planet.
+
+8. Instruction: Summarize the given news article.
+8. Input: 
+The city of Marrakech is set to become home to the world's largest green hydrogen facility. The Moroccan government has partnered with German technology firm Siemens Energy to develop the solar and wind-powered project. Set to produce approximately 100,000 tons of green hydrogen annually, the site will play a key role in reducing greenhouse gas emissions and significantly decreasing Morocco's dependence on foreign energy sources. With an investment of $5 billion, construction is expected to begin in 2022, and the facility should be fully operational by 2026.
+8. Output: 
+Marrakech will host the world's largest green hydrogen facility after the Moroccan government collaborates with Siemens Energy. The solar and wind-powered facility will produce 100,000 tons of green hydrogen yearly, reducing greenhouse gas emissions and Morocco's reliance on foreign energy. The project, costing $5 billion, is set to start construction in 2022 and function fully by 2026.
+
+9. Instruction: Correct the grammar and punctuation errors in the following sentence.
+9. Input: 
+theres a few things you should bring with ou when your going to beach, like a towel sunscreen and a hat
+9. Output: 
+There are a few things you should bring with you when you're going to the beach, like a towel, sunscreen, and a hat.
+
+10. Instruction: Write an opening line of a mystery novel.
+10. Input: 
+<noinput>
+10. Output: 
+"On a foggy autumn night, Detective Mason stepped off the train and found himself inexplicably drawn to the distant glow of a single lamppost in the once-forgotten town of Wayward Hollow."
+
+11. Instruction: Recommend three popular science books that are accessible and engaging to the average reader.
+11. Input: 
+<noinput>
+11. Output: 
+1. "A Brief History of Time" by Stephen Hawking
+2. "The Selfish Gene" by Richard Dawkins
+3. "Cosmos" by Carl Sagan
+
+12. Instruction: Rewrite the given paragraph so that it focuses on the positive aspects instead of the negative ones.
+12. Input: 
+She never thought she would be able to get that far, constantly doubting her abilities and fearing what others would think. The overwhelming stress made her want to quit, and she was constantly comparing herself to others who seemed to have it easier.
+12. Output: 
+She was always surprised by her own progress, actively recognizing her growing abilities and learning not to worry about others' opinions. Embracing challenges, she found the strength to persevere, and she began celebrating her accomplishments rather than comparing herself to others who seemed to have it easier.
+
+13. Instruction: What is the main idea of the following paragraph?
+13. Input: 
+Early human farming communities placed great importance on sustainable practices, which allowed their societies to grow and prosper for thousands of years. They ensured that resources were used efficiently and appropriately, and waste was kept to a minimum. In addition, they often rotated crops and practiced intercropping to maintain soil fertility and prevent erosion. These ancient wisdoms provide valuable lessons for modern societies struggling with issues of sustainability and environmental management.
+13. Output: 
+The main idea is that early human farming communities valued and practiced sustainable agricultural methods, which can serve as valuable lessons for modern societies facing sustainability and environmental challenges.
+
+14. Instruction: Create a haiku about nature.
+14. Input: 
+<noinput>
+14. Output: 
+Majestic mountains,
+Whispering winds through the trees,
+Nature's symphony.
+
+15. Instruction: Provide three synonyms for the word "clever".
+15. Input: 
+<noinput>
+15. Output: 
+1. Ingenious
+2. Smart
+3. Witty
+
+16. Instruction: Explain the process of photosynthesis in simple terms.
+16. Input: 
+<noinput>
+16. Output: 
+Photosynthesis is the process plants use to make their own food. They take in sunlight, carbon dioxide from the air, and water from the soil, and they use these ingredients to create glucose, which is their food, and oxygen, which they release back into the air.
+
+17. Instruction: Write a brief description of the given painting.
+17. Input: 
+The painting portrays a quiet, serene lake surrounded by lush green trees with tall, snow-covered mountains in the background. The sky above is a beautiful mixture of pink, orange, and purple hues, indicating a breathtaking sunset.
+17. Output: 
+The picturesque scene captures a tranquil lake, encircled by verdant trees, with snow-capped mountains tower in the distance. The sky, adorned with captivating shades of pink, orange, and purple, hints at a mesmerizing sunset, wrapping the landscape in a soft embrace.
+
+18. Instruction: Can you paraphrase this famous quote by Albert Einstein?
+18. Input: 
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+18. Output: 
+"Creative thinking holds greater value than mere learning, as it allows for unlimited possibilities and inspires advancement, leading to growth and change."
+
+19. Instruction: Translate the given text from English to French.
+19. Input: 
+Could you please help me find my way to the train station? I'm not familiar with this area. Thank you.
+19. Output: 
+Pouvez-vous m'aider à trouver mon chemin jusqu'à la gare ? Je ne connais pas ce quartier. Merci.
+
+20. Instruction: What is the primary purpose of a cover letter?
+20. Input: 
+<noinput>
+20. Output: 
+The primary purpose of a cover letter is to introduce yourself to a potential employer, highlight your relevant skills and experiences, and express your interest in the job position, ultimately convincing the employer to consider you for an interview.

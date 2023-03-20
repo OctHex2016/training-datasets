@@ -1,0 +1,138 @@
+4. Instruction: Arrange these historical events in chronological order.
+4. Input: 
+- The invention of the steam engine
+- The Wright Brothers' first flight
+- The Battle of Hastings
+- The American Civil War
+- The signing of the Declaration of Independence
+4. Output: 
+1. The Battle of Hastings
+2. The invention of the steam engine
+3. The signing of the Declaration of Independence
+4. The American Civil War
+5. The Wright Brothers' first flight
+
+###
+5. Instruction: Write a Haiku about the given image.
+5. Input: 
+A lonely tree standing by the edge of a lake, surrounded by autumn leaves.
+5. Output: 
+Lonely tree keeps watch
+Edge of the lake, leaves fall
+Autumn whispers soft
+
+###
+6. Instruction: Identify the logical fallacy in the following argument.
+6. Input: 
+If you don't like pineapple on pizza, then you must not be a true pizza lover.
+6. Output: 
+No True Scotsman fallacy
+
+###
+7. Instruction: Explain the differences between plant cells and animal cells.
+7. Input: 
+<noinput>
+7. Output: 
+Plant cells and animal cells share similarities, but they also have several key differences. Plant cells have a rigid cell wall made of cellulose, while animal cells do not have a cell wall, only a cell membrane. Plant cells also contain chloroplasts for photosynthesis, which are absent in animal cells. Another distinguishing factor is that plant cells have large central vacuoles for storing water and nutrients, whereas animal cells have smaller vacuoles, if present at all. Animal cells are usually round in shape, while plant cells have a more rectangular appearance due to their cell wall.
+
+###
+8. Instruction: Provide two pros and two cons of using nuclear energy as a power source.
+8. Input: 
+<noinput>
+8. Output: 
+Pros:
+1. Nuclear energy produces low greenhouse gas emissions compared to fossil fuel-based power plants, so it contributes less to climate change.
+2. Nuclear power plants typically have a high energy output, providing a large and stable energy supply with relatively small amounts of fuel.
+
+Cons:
+1. Disposal of nuclear waste is a significant issue; it remains radioactive and hazardous for thousands of years and requires safe, long-term storage facilities.
+2. The risk of nuclear accidents, such as the Chernobyl and Fukushima disasters, poses significant environmental and health concerns if containment fails.
+
+###
+9. Instruction: Transform the text into passive voice.
+9. Input: 
+The team finished the project before the deadline.
+9. Output: 
+The project was finished by the team before the deadline.
+
+###
+10. Instruction: Write the description of a painting in a detective novel.
+10. Input: 
+<noinput>
+10. Output: 
+The dimly lit study concealed a painting that caught the detective's keen eye – an oil portrait of a mysterious woman. Her piercing gaze bestowed a sense of unease upon the room. Draped in somber shades of crimson, she appeared to emerge from the darkness, the shadows accentuating her defined cheekbones. A sense of foreboding hung in the air, as if the femme fatale had witnessed yet untold secrets, her lips sealed with knowledge of the nefarious acts hidden within the manor's murky past.
+
+###
+11. Instruction: Write an unbiased passage comparing renewable and non-renewable energy sources.
+11. Input: 
+<noinput>
+11. Output: 
+Renewable energy sources, such as solar, wind, and hydro power, are sustainable, inexhaustible options for generating electricity. They have minimal environmental impact and contribute less to climate change, as they produce low greenhouse gas emissions compared to non-renewable sources. However, renewable energy generation can be less predictable due to weather conditions, and the current infrastructure required for storage and output lags behind non-renewable methods.
+
+Non-renewable energy sources, like coal, oil, and natural gas, are finite resources relied upon for the majority of global energy consumption. Non-renewable energy plants often have a high energy output and provide a stable power supply. Yet, they also emit significant greenhouse gases and other pollutants, contributing to global warming, air pollution, and environmental degradation. Additionally, the extraction, transportation, and processing of these resources can harm ecosystems and local communities.
+
+Both renewable and non-renewable energy sources have advantages and drawbacks to consider when assessing their viability in current and future energy systems.
+
+###
+12. Instruction: Determine the category of the given occupation.
+12. Input: 
+Chef
+12. Output: 
+Culinary arts
+
+###
+13. Instruction: Give a concise summary of the main points from the given text.
+13. Input: 
+The fusion of entertainment and social networking has played a significant role in changing the way people interact with one another. Social media platforms like TikTok, Instagram, and YouTube have increasingly infused videos, pictures, and other entertainment elements into their core services. This shift is creating opportunities for influencers to become successful creators who reach millions of followers, ultimately expanding their reach through collaborations, merchandising, and advertising. As a result, businesses are adapting their marketing strategies to be more aligned with these new forms of content consumption. However, the vulnerability of user data and publicity of controversial topics remain persistent issues as social networking platforms continue to evolve.
+13. Output: 
+Entertainment and social networking are merging, with platforms such as TikTok, Instagram, and YouTube incorporating various media formats. This trend has led to more successful influencers and changed marketing strategies to align with new content consumption habits. However, user data vulnerability and controversial topics still pose challenges.
+
+###
+14. Instruction: Write a short review for a new line of vegan-friendly body lotions.
+14. Input: 
+<noinput>
+14. Output: 
+I recently tried the new line of vegan-friendly body lotions, and I've been thoroughly impressed. Not only is the texture smooth and non-greasy, but the formula absorbs effortlessly into the skin for long-lasting hydration. The range features a variety of captivating scents derived from natural ingredients, catering to various preferences. Additionally, it's gratifying to know that no animals were harmed in the making of these products. This line of body lotions proves that ethical, cruelty-free formulas can deliver exceptional results.
+
+###
+15. Instruction: Suggest two podcasts related to the topics given.
+15. Input: 
+Artificial intelligence, climate change
+15. Output: 
+1. For artificial intelligence: Artificial Intelligence (AI) Podcast with Lex Fridman
+2. For climate change: The Climate Conversation by MIT Environmental Solutions Initiative
+
+###
+16. Instruction: Accurately punctuate this sentence.
+16. Input: 
+She said it was going to rain today however it looks sunny outside.
+16. Output: 
+She said it was going to rain today; however, it looks sunny outside.
+
+###
+17. Instruction: Explain the main concept of blockchain technology.
+17. Input: 
+<noinput>
+17. Output: 
+Blockchain technology is a decentralized, distributed digital ledger system used to record transactions across many computers, ensuring security and transparency in the process. Blocks of encrypted data include transaction information and reference previous blocks, making it virtually tamper-proof. Due to its decentralized nature, it operates without a central authority, and every participant can validate and verify transactions, thus preventing fraud and eliminating the need for intermediaries.
+
+###
+18. Instruction: Classify the given animal into the correct category.
+18. Input: 
+Giraffe
+18. Output: 
+Mammal
+
+###
+19. Instruction: Write an advertising slogan for a new zero-waste grocery store.
+19. Input: 
+<noinput>
+19. Output: 
+"Shop Sustainably, Live Abundantly – Your Zero-Waste Lifestyle Starts Here"
+
+###
+20. Instruction: Rewrite the following sentence to remove redundancies.
+20. Input: 
+She got an advance warning before the actual announcement.
+20. Output: 
+She received a warning before the announcement.

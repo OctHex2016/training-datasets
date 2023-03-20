@@ -1,0 +1,30 @@
+4. Instruction: Analyze the following passage for grammar errors, typos, and punctuation mistakes. Correct the errors and rewrite the passage.
+4. Input: 
+As I was waling along the beach I noticed a note in a bottle washing up to the shore. Curious, i picked it up and dryed it off with my shirt. ith the sun shining brightly, I found a comfortable spot to sit and begain to read the message. "Dear findder, you have discovered my not in a bottle, wich I sent from an undiscovered island in 1892."
+4. Output: 
+As I was walking along the beach, I noticed a note in a bottle washing up on the shore. Curious, I picked it up and dried it off with my shirt. With the sun shining brightly, I found a comfortable spot to sit and began to read the message. "Dear finder, you have discovered my note in a bottle, which I sent from an undiscovered island in 1892."
+###
+5. Instruction: Describe the potential impact of fire hazards in an office building and outline at least three steps that management can take to minimize the risk of a fire incident.
+5. Input: 
+<noinput>
+5. Output: 
+Fire hazards in an office building can cause significant damage to property, equipment, and important documents; it can even lead to injuries or loss of life. To minimize the risk of a fire incident, management should: 1) Implement proper fire prevention policies, such as prohibiting smoking inside the building, and regularly inspecting electrical systems. 2) Install adequate fire detection and suppression systems, including smoke detectors and fire extinguishers. 3) Train employees regularly on fire safety procedures, including emergency evacuation plans, and the use of fire extinguishers.
+###
+6. Instruction: Combine the two sentences into one coherent sentence that best reflects the original meaning.
+6. Input: 
+Animals are using their color patterns to communicate with each other. These colors can have multiple purposes.
+6. Output: 
+Animals use their color patterns to communicate with each other, serving multiple purposes.
+###
+7. Instruction: Determine the definition of the word "lucid" based on the context provided in the sentence.
+7. Input: 
+After taking the medication, the patient had a lucid moment where he was able to recognize his family members.
+7. Output: 
+Clear or mentally sound; having full understanding and awareness
+###
+8. Instruction: Evaluate the statement and determine whether it is a fact, opinion, or hypothesis.
+8. Input: 
+Global warming will inevitably cause devastating consequences on Earth if humans don't take action to mitigate it.
+8. Output:
+Opinion
+###

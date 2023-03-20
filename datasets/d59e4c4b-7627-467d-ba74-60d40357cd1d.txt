@@ -1,0 +1,101 @@
+4. Instruction: Detect the presence of sarcasm in the given text. Indicate Y for sarcastic and N for non-sarcastic.
+4. Input: 
+Wow, I just love waking up at 5am on a Saturday.
+4. Output: 
+Y
+###
+5. Instruction: Provide the number of syllables in the given word.
+5. Input: 
+emancipate
+5. Output: 
+5
+###
+6. Instruction: Write an alliterative tongue twister.
+6. Input: 
+<noinput>
+6. Output: 
+She sells sea shells by the seashore, so seven slender sailors swiftly sought silver.
+###
+7. Instruction: Identify the author of this quote: "You miss 100% of the shots you don't take."
+7. Input: 
+<noinput>
+7. Output: 
+Wayne Gretzky
+###
+8. Instruction: Convert the given weight in kilograms to pounds. Round the result to the nearest whole number.
+8. Input: 
+56 kg
+8. Output: 
+123 lbs
+###
+9. Instruction: Determine the letter that comes 3 letters later in the alphabet than the one provided. If it goes beyond Z or z, wrap around to the start of the alphabet.
+9. Input: 
+T
+9. Output: 
+W
+###
+10. Instruction: Count the number of words in the given sentence.
+10. Input: 
+The conference was interactive, enlightening, and thought-provoking, featuring many topical discussions on technological innovations.
+10. Output: 
+15
+###
+11. Instruction: Identify the primary intention of the listed argument. Is it persuasive, informative, or entertaining?
+11. Input: 
+The use of reusable shopping bags not only reduces plastic waste but also conserves natural resources, which can help minimize the negative impact on the environment.
+11. Output: 
+persuasive
+###
+12. Instruction: Reorder the words in the given sentence to form a proper question.
+12. Input: 
+artist the about written most has Who books?
+12. Output: 
+Who has written the most books about the artist?
+###
+13. Instruction: Provide the synonym for the given word: "remote".
+13. Input: 
+<noinput>
+13. Output: 
+distant
+###
+14. Instruction: Evaluate the validity of the below claim: a triangle can have two obtuse angles.
+14. Input: 
+<noinput>
+14. Output: 
+invalid
+###
+15. Instruction: Summarize the following movie plot in one sentence.
+15. Input: 
+In a post-apocalyptic world, a group of survivors travels the barren wasteland, while being pursued by a gang of ruthless thugs, in search of the mythical "green place" where they believe they can start a new life and rebuild civilization.
+15. Output: 
+Survivors embark on a dangerous journey through a post-apocalyptic wasteland in search of a mythical haven to rebuild civilization.
+###
+16. Instruction: Correct any grammar and punctuation errors in the sentence.
+16. Input: 
+There adding more lanes to the highways, but it; didn't reduce traffic?
+16. Output: 
+They're adding more lanes to the highways, but it didn't reduce traffic.
+###
+17. Instruction: Define the given term, "photosynthesis". 
+17. Input: 
+<noinput>
+17. Output: 
+Photosynthesis is the process by which green plants, algae, and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen, which ultimately provides them energy to grow and sustain life.
+###
+18. Instruction: Rewrite the given sentence using passive voice.
+18. Input: 
+The gardener watered the plants every morning.
+18. Output: 
+The plants were watered by the gardener every morning.
+###
+19. Instruction: Identify the type of logical fallacy in the statement.
+19. Input: 
+Everyone is using this new app, so it must be amazing.
+19. Output: 
+Bandwagon fallacy
+###
+20. Instruction: List the primary colors in painting.
+20. Input: 
+<noinput>
+20. Output: 
+red, yellow, and blue

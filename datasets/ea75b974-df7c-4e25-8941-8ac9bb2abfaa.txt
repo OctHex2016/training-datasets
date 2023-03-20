@@ -1,0 +1,110 @@
+4. Instruction: Convert the text into a limerick, a humorous poem consisting of five lines.
+4. Input: 
+There once was a man from Spain,
+Who went to the beach in the rain,
+But he slipped and fell,
+Then rang a loud bell,
+And blamed it on the weather's gain.
+4. Output: 
+A man from a Spanish town came,
+To a beach in a downpour's domain,
+He slipped, took a dive,
+Rang a bell quite alive,
+And cursed as the skies took the blame.
+
+5. Instruction: Predict the sports based on the given description.
+5. Input: 
+Two teams of 11 players each, try to score goals by sending a ball into the opposing team's net using primarily their feet, torso, or head.
+5. Output: 
+Soccer (Football)
+
+6. Instruction: What is the most likely diagnosis given the medical symptoms?
+6. Input: 
+Persistent cough, shortness of breath, wheezing, chest tightness, and excessive mucus production.
+6. Output: 
+Chronic obstructive pulmonary disease (COPD)
+
+7. Instruction: Rewrite the given sentence in passive voice.
+7. Input: 
+They published her first book last year.
+7. Output: 
+Her first book was published last year.
+
+8. Instruction: Translate the given sentence into Spanish.
+8. Input: 
+What time does the train leave?
+8. Output: 
+¿A qué hora sale el tren?
+
+9. Instruction: Debate in favor of adopting a vegan lifestyle.
+9. Input: <noinput>
+9. Output: 
+Adopting a vegan lifestyle has myriad advantages, including reducing cruelty to animals, benefiting the environment, and improving one's health. By eliminating animal products, you abstain from supporting industries that exploit and harm animals. On the environmental front, a vegan diet results in reduced greenhouse gas emissions and land usage compared to a non-vegan diet. Lastly, numerous studies show that a well-planned vegan diet can provide all essential nutrients while reducing the risk of chronic diseases like heart disease, type-2 diabetes, and certain cancers.
+
+10. Instruction: Provide detailed instructions on how to tie a windsor knot.
+10. Input: <noinput>
+10. Output: 
+1. Start with the wide end of the tie on your right and the smaller end on your left, crossing the wide end over the smaller end.
+2. Bring the wide end up through the neck loop, passing between your collar and your tie, and then back down through the loop you just made.
+3. Pass the wide end underneath the narrow end from left to right.
+4. Pull the wide end back up through the neck loop, from the right to the left this time.
+5. Fold the wide end over the front of the knot, from left to right, creating a horizontal band.
+6. Bring the wide end up through the neck loop, from underneath.
+7. Slide the wide end through the horizontal band created in step 5.
+8. Tighten the knot by holding the narrow end with one hand and pulling the wide end upward.
+9. Center the knot symmetrically between your collar, then secure the tie by tucking the narrow end through the loop behind the knot.
+
+11. Instruction: Describe the main differences between mitosis and meiosis.
+11. Input: <noinput>
+11. Output: 
+Mitosis is a form of cell division that produces two identical daughter cells, each with the same number of chromosomes as the original cell. Mitosis is used for growth, repair, and asexual reproduction in multicellular organisms. Meiosis, on the other hand, is a form of cell division that results in the production of four non-identical daughter cells, each containing half the number of chromosomes as the original cell. Meiosis is primarily involved in sexual reproduction, as it generates the cells required for fertilization, like sperm and egg cells.
+
+12. Instruction: Given the input sentence, create a haiku (5-7-5 syllable poem) that includes the sentence's subject.
+12. Input: 
+A cat sleeps soundly
+12. Output: 
+Silent whiskers twitch
+Moonlight in warm fur lies curled
+A cat sleeps soundly
+
+13. Instruction: Identify the logical fallacy in the given argument.
+13. Input: 
+Vaccines aren't natural, so they must be dangerous.
+13. Output: 
+Appeal to Nature Fallacy
+
+14. Instruction: Write a sales pitch for a phone with a 100-day battery life.
+14. Input: <noinput>
+14. Output: 
+Introducing the revolutionary new smartphone that keeps you connected without charging worries! Imagine a world where your phone battery easily lasts 100 days, giving you the freedom to travel, work, and play without needing to find an outlet. Thanks to groundbreaking technology, this mind-blowing phone effortlessly carries you through months of adventures without losing a beat. Say goodbye to charging cords and power banks, and experience unparalleled convenience with our astounding 100-day battery life smartphone today!
+
+15. Instruction: Provide a tip for practicing mindfulness in daily life.
+15. Input: <noinput>
+15. Output: 
+Set aside a few minutes each day to consciously focus on your breath. Close your eyes, inhale deeply through your nose, and then exhale slowly through your mouth. As you breathe, concentrate on the sensation of the air entering and leaving your body. Return your focus to your breath whenever your mind begins to wander. This simple exercise can be practiced anywhere and designed to help you cultivate mindfulness in your daily life.
+
+16. Instruction: Summarize the plot of George Orwell's book "1984."
+16. Input: <noinput>
+16. Output: 
+1984, written by George Orwell, is a dystopian novel set in Airstrip One, a totalitarian society ruled by the Party and its leader, Big Brother. The protagonist, Winston Smith, works at the Ministry of Truth, where he alters historical records to fit the Party's propaganda. Winston becomes increasingly dissatisfied with the oppressive regime and secretly rebels by starting a love affair with a woman named Julia. Upon joining a secret underground resistance group, Winston and Julia are eventually caught and brutally punished. In the end, Winston submits to the Party, fully embracing its control over his thoughts and reality.
+
+17. Instruction: Complete the given analogy.
+17. Input: 
+Heart : Pump :: Kidney : ?
+17. Output: 
+Filter
+
+18. Instruction: Write a simile that compares two seemingly unrelated things.
+18. Input: <noinput>
+18. Output: 
+Her laugh was like the sound of champagne bubbles popping in a crystal glass.
+
+19. Instruction: Briefly explain quantum entanglement.
+19. Input: <noinput>
+19. Output: 
+Quantum entanglement is a phenomenon in which the quantum states of two or more particles are linked together, even across vast distances. When the particles are entangled, the properties of one particle become dependent on the properties of the other, such that measuring one particle instantly determines the properties of the other. This connection happens instantly, regardless of the distance between the particles, which led Einstein to call it "spooky action at a distance."
+
+20. Instruction: Give a travel recommendation for a first-time visitor to Paris, France.
+20. Input: <noinput>
+20. Output: 
+As a first-time visitor to Paris, don't miss a visit to the iconic Eiffel Tower. Marvel at its architectural beauty by day, and gaze at the mesmerizing light display by night. Afterward, take a leisurely stroll along the Seine River or head over to the Louvre Museum to admire the renowned Mona Lisa painting and other masterpieces. For an unforgettable view, climb the Montmartre hill to the Basilica of the Sacred Heart and soak in the panoramic vista of Paris!

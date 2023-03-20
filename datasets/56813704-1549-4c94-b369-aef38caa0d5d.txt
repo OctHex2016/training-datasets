@@ -1,0 +1,139 @@
+4. Instruction: Identify any five English words that can be created from the given set of letters. Use each letter only once.
+4. Input: 
+Set of letters: M, A, G, E, L, S, T, J
+4. Output: 
+1. Jams
+2. Game
+3. Slate
+4. Agile
+5. Smelt
+
+###
+5. Instruction: Check if the statement is true or false: Japan is the largest country by population.
+5. Input: <noinput>
+5. Output: 
+False
+
+###
+6. Instruction: Create a short rhyming couplet about space travel.
+6. Input: <noinput>
+6. Output: 
+To the stars we soar anew, a cosmic journey with a daring crew.
+Exploring worlds both near and far, our dreams taking us beyond the stars.
+
+###
+7. Instruction: Convert the given Fahrenheit temperature to Celsius.
+7. Input: 
+Temperature: 95 degrees Fahrenheit
+7. Output: 
+35 degrees Celsius
+
+###
+8. Instruction: List four musical instruments that you can find in a classical symphony orchestra.
+8. Input: <noinput>
+8. Output: 
+1. Violin
+2. Cello
+3. Flute
+4. French Horn
+
+###
+9. Instruction: Correct any grammatical or punctuation errors in the sentence provided.
+9. Input: 
+She have a favorite cafe where her go,every morning since she live in the neighborhood.
+9. Output: 
+She has a favorite cafe where she goes every morning since she's lived in the neighborhood.
+
+###
+10. Instruction: Summarize the given paragraph about augmented reality.
+10. Input: 
+Augmented reality (AR) technology overlays digital content and information onto the physical world, creating an enhanced experience for users. By combining elements of the physical and digital, AR experiences can be both immersive and engaging. With the advancement of hardware and software technologies, AR has become more accessible for various industries, including gaming, healthcare, and education. Companies like Snapchat, Apple, and Microsoft are continually working on innovative AR applications, and as a result, AR is expected to have a considerable impact on our everyday lives in the near future.
+10. Output: 
+Augmented reality (AR) enriches user experiences by overlaying digital information onto the real world. Growing advancements in technology have made AR more accessible, resulting in its adoption across industries like gaming, healthcare, and education. Major companies are developing innovative AR applications, which will likely impact our daily lives in the near future.
+
+###
+11. Instruction: What are the three primary colors?
+11. Input: <noinput>
+11. Output: 
+1. Red
+2. Blue
+3. Yellow
+
+###
+12. Instruction: Briefly analyze the given poem.
+12. Input: 
+Stopping by Woods on a Snowy Evening by Robert Frost:
+
+Whose woods these are I think I know.
+His house is in the village, though;
+He will not see me stopping here
+To watch his woods fill up with snow.
+
+My little horse must think it queer
+To stop without a farmhouse near
+Between the woods and frozen lake
+The darkest evening of the year.
+12. Output: 
+In "Stopping by Woods on a Snowy Evening," Robert Frost explores the beauty of nature and the allure of solitude amidst a snow-covered landscape. The speaker is momentarily hypnotized by the quiet snowfall and the mystical atmosphere of the woods but is reminded by his horse that he must continue his journey. The poem evokes themes of introspection, the passage of time, and the conflict between the natural world and human obligation.
+
+###
+13. Instruction: Evaluate the expression provided: (15 - 3 * 4) / (2 + 1)
+13. Input: <noinput>
+13. Output: 
+2
+
+###
+14. Instruction: Describe the main features of the Mediterranean climate zone.
+14. Input: <noinput>
+14. Output: 
+The Mediterranean climate is characterized by hot, dry summers and mild, wet winters. It typically has warm temperatures throughout the year with moderate seasonal variation. The region receives most of its rainfall during the winter months, while summers are marked by drought-like conditions. Vegetation in the Mediterranean climate includes sclerophyllous plants, such as olive trees, and evergreen shrubs adapted to withstand the dry summers.
+
+###
+15. Instruction: Restate the given sentence in the passive voice.
+15. Input: 
+The talented dancer received a prestigious award in the ceremony.
+15. Output: 
+A prestigious award was received by the talented dancer in the ceremony.
+
+###
+16. Instruction: Explain the term "onomatopoeia" with an example.
+16. Input: <noinput>
+16. Output: 
+Onomatopoeia refers to a word that phonetically imitates or suggests the sound that it represents. An example of onomatopoeia is the word "buzz," which mimics the sound made by a bee or a vibrating object.
+
+###
+17. Instruction: Use the provided keywords to form a coherent and informative paragraph.
+17. Input: 
+Keywords: Renewable energy, wind turbines, clean, environment, electricity
+17. Output: 
+Renewable energy, such as that harnessed by wind turbines, is crucial to the ongoing efforts to create a cleaner and more sustainable environment. Wind turbines convert the kinetic energy of wind into electricity, providing a clean and virtually inexhaustible source of power. By adopting renewable energy solutions like wind turbines, we can reduce our reliance on fossil fuels and minimize the harmful impacts of energy production on both our planet and its inhabitants.
+
+###
+18. Instruction: Arrange the given events in chronological order based on their occurrence in history.
+18. Input: 
+1. American Civil War
+2. Industrial Revolution
+3. World War II
+4. Ancient Rome
+5. Space Race
+18. Output: 
+1. Ancient Rome
+2. Industrial Revolution
+3. American Civil War
+4. World War II
+5. Space Race
+
+###
+
+19. Instruction: Provide an appropriate synonym for the given word.
+19. Input: 
+Word: Obstinate
+19. Output: 
+Stubborn
+
+###
+
+20. Instruction: What is the square root of 256?
+20. Input: <noinput>
+20. Output: 
+16

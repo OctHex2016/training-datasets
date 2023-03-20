@@ -1,0 +1,129 @@
+4. Instruction: Rewrite the following sentence in active voice:
+4. Input: 
+The package was delivered by the courier this morning.
+4. Output: 
+The courier delivered the package this morning.
+
+###
+5. Instruction: Pick the best metaphor for the given scenario: 
+5. Input: 
+Trying to complete a project while battling interruption after interruption.
+5. Output: 
+Herding cats.
+
+###
+6. Instruction: From Shakespeare's Hamlet, paraphrase this soliloquy in modern English:
+6. Input: 
+To be, or not to be? That is the question—
+Whether ’tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles,
+And, by opposing, end them?
+6. Output: 
+To exist or not to exist? That's the question—
+Is it more noble to endure life's miseries and hardships,
+Or to fight back against the multitude of problems,
+And, by confronting them, put an end to it all?
+
+###
+7. Instruction: Write a haiku about the ocean.
+7. Input: 
+<noinput>
+7. Output: 
+Endless horizon,
+Waves whisper secrets to shore,
+Ocean's deep embrace.
+
+###
+8. Instruction: Identify the tone and style of the following passage:
+8. Input: 
+It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.
+8. Output: 
+Tone: Ominous, bleak
+Style: Descriptive, narrative
+
+###
+9. Instruction: Summarize the main point of these lyrics:
+9. Input: 
+Hello darkness, my old friend
+I've come to talk with you again
+Because a vision softly creeping
+Left its seeds while I was sleeping
+And the vision that was planted in my brain
+Still remains
+Within the sound of silence
+9. Output: 
+The lyrics describe the speaker's return to a familiar state of darkness and solitude, seeking comfort and finding meaning within their own thoughts and visions amidst the silence.
+
+###
+10. Instruction: What is the significance of "The Inferno" in the context of Dante's Divine Comedy?
+10. Input: 
+<noinput>
+10. Output: 
+"The Inferno" is the first part of Dante's epic poem, the Divine Comedy. It depicts Dante's journey through Hell, guided by the ancient Roman poet Virgil. The Inferno serves as an allegory for the soul's journey towards God and introduces the reader to the intricate, imaginative structure of Dante's vision of the afterlife. The poem presents a moral framework for understanding sin and the consequences of human choices, resonating with the reader's own self-reflection and spiritual journey.
+
+###
+11. Instruction: Explain how to tie a Windsor knot:
+11. Input: 
+<noinput>
+11. Output: 
+1. Drape the tie around your collar with the wide end on your right side, extending about 12 inches below the narrow end.
+2. Cross the wide end over the narrow end, forming an X near the collar.
+3. Loop the wide end around and behind the narrow end.
+4. Pull the wide end up through the neck loop, bringing it back down towards the front.
+5. Pass the wide end behind the narrow end to your right side.
+6. Guide the wide end across the front from your right to your left.
+7. Pull the wide end up through the neck loop again, this time behind the knot.
+8. Thread the wide end through the loop you made in the front.
+9. Adjust the knot by holding the narrow end while gently sliding the knot up towards the collar.
+10. Make sure the knot looks symmetrical and ensure that the wide end ends just below the belt buckle, while the narrow end is concealed behind the wide end.
+
+###
+12. Instruction: Turn the following sentence from positive to negative:
+12. Input: 
+She is always attentive and helpful.
+12. Output: 
+She is seldom inattentive and unhelpful.
+
+###
+13. Instruction: Describe a typical day of a software developer.
+13. Input: 
+<noinput>
+13. Output: 
+A software developer's typical day starts with reviewing their emails and schedule, followed by daily stand-up meetings to discuss progress and any roadblocks. They then divide their time between building new software features, writing and refactoring code, debugging issues, and peer code reviews. Developers collaborate with project managers, team members, and clients to refine requirements and design solutions. They often participate in research to stay updated on new technologies and approaches. Lunch breaks and occasional mental breaks are important for productivity. As the day ends, developers may update project progress, outline tasks for the next day, and enhance documentation.
+
+###
+14. Instruction: Outline five steps on how to build an e-commerce website from scratch.
+14. Input: 
+<noinput>
+14. Output: 
+1. Conduct market research and identify your niche, target audience, and competitors.
+2. Develop a business plan, including branding strategy, your products or services offering, and pricing structure.
+3. Choose a suitable domain name and buy it. Select a web hosting provider and plan.
+4. Select an e-commerce platform (e.g., Shopify, WooCommerce, or Magento) and customize the design and features based on your branding strategy.
+5. Implement product pages, a shopping cart, a secure checkout process, and integrate with relevant payment gateways. Ensure SEO best practices and create compelling content.
+
+###
+15. Instruction: Choose the best idiom that describes a situation in which people have different opinions or experiences.
+15. Input: 
+<noinput>
+15. Output: 
+Different strokes for different folks.
+
+###
+16. Instruction: Write a fictional scene where the main character faces their greatest fear.
+16. Input: 
+<noinput>
+16. Output: 
+As Jessica stepped onto the narrow, rickety bridge, her heart began pounding in her chest. Each step felt like an eternity, the rushing river below only amplifying her crippling fear of heights. Grasping the worn wooden railing with sweaty palms, she gasped as it wobbled beneath her touch. Her eyes darted around in desperation, searching for a safer route across.
+
+Sensing her panic, her best friend Sarah slowly approached, reaching for her trembling hand. "You're not alone, Jess. We'll cross this together, one step at a time," she whispered soothingly. With Sarah's steady support, Jessica inhaled deeply and took another tentative step forward, determined to face her greatest fear head-on.
+
+###
+17. Instruction: What are three ethical concerns that arise in the development and deployment of artificial intelligence technologies?
+17. Input: 
+<noinput>
+17. Output: 
+1. Bias and discrimination: AI algorithms can perpetuate and even exacerbate existing biases in society, affecting access to resources, opportunities, and decision-making.
+2. Privacy and surveillance: The collection and analysis of large quantities of personal data by AI systems can potentially infringe on individual privacy rights and enable intrusive surveillance practices.
+3. Accountability and responsibility: Determining responsibility in case of harm or damage caused by AI systems can be challenging, as the decision-making process is often opaque and human involvement may be limited or removed.

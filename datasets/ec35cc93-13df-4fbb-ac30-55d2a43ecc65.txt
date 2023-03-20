@@ -1,0 +1,103 @@
+4. Instruction: Rewrite the given sentence into a question.
+4. Input: 
+She bought a new car last week.
+4. Output: 
+Did she buy a new car last week?
+###
+5. Instruction: Identify the grammatical error in the sentence and correct it.
+5. Input: 
+He plays a guitar, but he not like singing.
+5. Output: 
+He plays guitar, but he does not like singing.
+###
+6. Instruction: List three potential consequences of the given scenario.
+6. Input: 
+A factory is releasing toxic chemicals into a nearby river.
+6. Output: 
+1. Contamination of the water supply.
+2. Negative impact on aquatic life.
+3. Health issues for communities living downstream.
+###
+7. Instruction: Assess the validity of the argument provided. If it is not valid, explain why.
+7. Input: 
+All birds can fly. Penguins are birds. Therefore, penguins can fly.
+7. Output: 
+The argument is not valid because the premise "all birds can fly" is not true. Some birds, like penguins, are flightless.
+###
+8. Instruction: Provide a solution for the given problem.
+8. Input: 
+A student is struggling to stay awake during early morning classes.
+8. Output: 
+The student could try going to bed earlier, maintaining a consistent sleep schedule, or drinking a caffeinated beverage before class to help stay awake.
+###
+9. Instruction: Determine if the word is a noun, verb, adjective, or adverb.
+9. Input: 
+quickly
+9. Output: 
+adverb
+###
+10. Instruction: Describe the main function of the provided object.
+10. Input: 
+refrigerator
+10. Output: 
+The main function of a refrigerator is to store perishable food items at a low temperature, which slows down the growth of bacteria and helps preserve the food for a longer period.
+###
+11. Instruction: Write an alternative version of the given idiom without changing its meaning.
+11. Input: 
+Don't judge a book by its cover.
+11. Output: 
+Don't judge something based on its appearance alone.
+###
+12. Instruction: Name a famous person who is associated with the provided field.
+12. Input: 
+quantum physics
+12. Output: 
+Albert Einstein
+###
+13. Instruction: Summarize the key message of the provided text.
+13. Input: 
+Global warming is a serious issue. Human activities, such as burning fossil fuels and deforestation, are contributing to the rise in greenhouse gas emissions. These emissions trap heat in the Earth's atmosphere, leading to a rise in global temperatures. This increase in temperature results in melting ice caps, rising sea levels, and more extreme weather events. To combat global warming, we must reduce our greenhouse gas emissions by embracing cleaner energy sources, conserving energy, and protecting our forests.
+13. Output: 
+Global warming, caused mainly by human activities, is leading to rising temperatures, melting ice caps, and extreme weather events. We must reduce greenhouse gas emissions by adopting cleaner energy sources, conserving energy, and protecting forests.
+###
+14. Instruction: Translate the given sentence into Spanish.
+14. Input: 
+I love eating pizza with my friends.
+14. Output: 
+Me encanta comer pizza con mis amigos.
+###
+15. Instruction: Explain the purpose of the provided quote in your own words.
+15. Input: 
+"The only way to do great work is to love what you do." - Steve Jobs
+15. Output: 
+The quote suggests that true excellence in work can only be achieved when one is passionate about what they do.
+###
+16. Instruction: Reorder the words to form a coherent sentence.
+16. Input: 
+pizza I tomorrow night eat will
+16. Output: 
+I will eat pizza tomorrow night.
+###
+17. Instruction: Suggest a suitable title for the given article.
+17. Input: 
+In the article, the author discusses the impact of social media on mental health, focusing on how excessive use can lead to feelings of isolation, anxiety, and depression, and providing tips on how to establish a healthy balance.
+17. Output: 
+The Dark Side of Social Media: How Excessive Usage Impacts Mental Health and Finding Balance
+###
+18. Instruction: Briefly describe the primary goal of the specified technology.
+18. Input: 
+augmented reality
+18. Output: 
+The primary goal of augmented reality is to overlay digital information or images onto the user's real-world environment, enhancing their perception and interaction with their surroundings.
+###
+19. Instruction: Provide a synonym for the given word.
+19. Input: 
+enormous
+19. Output: 
+immense
+###
+20. Instruction: Answer the following question. Is it likely to rain tomorrow in Paris? Remember to support your answer with a plausible reason if it is not possible to answer accurately.
+20. Input: 
+<noinput>
+20. Output: 
+As an AI, I am unable to provide real-time weather forecasts. Please check a reliable weather website or app for accurate information about tomorrow's weather in Paris.

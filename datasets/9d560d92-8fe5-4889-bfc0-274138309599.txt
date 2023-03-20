@@ -1,0 +1,113 @@
+4. Instruction: Recommend a book to read based on the given interests.
+4. Input: 
+I'm interested in cognitive psychology, self-improvement, and productivity.
+4. Output: 
+I recommend reading "Thinking, Fast and Slow" by Daniel Kahneman.
+
+###
+5. Instruction: Calculate the percentage change between the two numbers.
+5. Input: 
+Initial price: 150, Final price: 170
+5. Output: 
+Percentage change: 13.33%
+
+###
+6. Instruction: Write a brief summary of the following news article.
+6. Input: 
+Apple has announced its new iPhone 13 model, featuring advanced 5G support, a new A15 Bionic chip, and a revamped camera system. The new device promises better battery life and improved durability with ceramic shield front cover. Prices for the iPhone 13 start at $799 for the base model, and preorders begin on September 17. Early reviews praise the improvements in battery life, processing speed, and camera features, but some critics argue that the changes are not significant enough to warrant upgrading from the iPhone 12.
+6. Output: 
+Apple unveiled the iPhone 13 with enhanced 5G support, a new A15 Bionic chip, and an improved camera system. The device offers better battery life and durability, starting at $799. While initial reviews praise the battery, speed, and camera improvements, some critics question if the changes are substantial enough for iPhone 12 users to upgrade.
+
+###
+7. Instruction: Discuss the advantages and disadvantages of remote work.
+7. Input: <noinput>
+7. Output: 
+Advantages of remote work include increased flexibility, reduced commuting time and costs, better work-life balance, and the ability to work from various locations. Disadvantages may include feelings of isolation, difficulty in separating work and personal life, decreased opportunities for networking and collaboration, and potential distractions in a home environment.
+
+###
+8. Instruction: Convert the following text from passive voice to active voice.
+8. Input: 
+The book was written by Jane Austen.
+8. Output: 
+Jane Austen wrote the book.
+
+###
+9. Instruction: Identify the grammatical error(s) in the sentence.
+9. Input: 
+She has went to the store yesterday.
+9. Output: 
+The error is in the verb tense: "has went" should be "went" or "has gone."
+
+###
+10. Instruction: Rearrange the following words to form a coherent sentence.
+10. Input: 
+salaries employees received higher last year
+10. Output: 
+Employees received higher salaries last year.
+
+###
+11. Instruction: Provide a synonym for the following word.
+11. Input: 
+Strenuous
+11. Output: 
+Exhausting
+
+###
+12. Instruction: Correctly punctuate the following sentence.
+12. Input: 
+Today I saw a cat in the yard it was chasing a squirrel
+12. Output: 
+Today, I saw a cat in the yard; it was chasing a squirrel.
+
+###
+13. Instruction: Explain what the greenhouse effect is.
+13. Input: <noinput>
+13. Output: 
+The greenhouse effect is a natural process in which certain gases in the Earth's atmosphere, such as carbon dioxide, water vapor, and methane, trap heat from the Sun. These gases allow sunlight to pass through but absorb and radiate heat back to Earth, effectively warming the planet's surface and maintaining a habitable temperature.
+
+###
+14. Instruction: Write a brief opening statement for a debate on the topic of universal basic income (UBI).
+14. Input: <noinput>
+14. Output: 
+Ladies and gentlemen, as we begin our debate on universal basic income, let's consider its potential to create a more equitable society by providing every citizen with a stable financial foundation, reducing poverty, and mitigating the negative effects of technological unemployment. However, we must also address concerns about its feasibility, potential impact on work incentives, and the allocation of resources.
+
+###
+15. Instruction: Translate the following sentence to Spanish.
+15. Input: 
+We are traveling to Europe next month.
+15. Output: 
+Vamos a viajar a Europa el próximo mes.
+
+###
+16. Instruction: Generate a haiku about autumn.
+16. Input: <noinput>
+16. Output: 
+Crisp leaves underfoot,
+Golden hues paint the landscape,
+Autumn whispers change.
+
+###
+17. Instruction: Write a catchy slogan for an eco-friendly cleaning product.
+17. Input: <noinput>
+17. Output: 
+Clean with a green sheen: Nature's power for a spotless hour!
+
+###
+18. Instruction: Classify the following email subject as spam or not spam.
+18. Input: 
+Congratulations! You've won $10,000 in our cash giveaway!
+18. Output: 
+Spam
+
+###
+19. Instruction: Provide an alternative and healthier option for the following food item.
+19. Input: 
+Potato chips
+19. Output: 
+Baked veggie chips
+
+###
+20. Instruction: Write an attention-grabbing first line for a science fiction novel.
+20. Input: <noinput>
+20. Output: 
+As the last stars flickered out, Jeriah knew humanity had reached the threshold of a new, boundless era.

@@ -1,0 +1,155 @@
+4. Instruction: Rewrite the story in third person perspective.
+4. Input: 
+When I was a child, I dreamed about having my own candy shop. I spent countless hours fantasizing about creating sweet masterpieces and catering to people's sweet tooth.
+4. Output: 
+When she was a child, she dreamed about having her own candy shop. She spent countless hours fantasizing about creating sweet masterpieces and catering to people's sweet tooth.
+
+5. Instruction: Describe the process of photosynthesis in simple terms.
+5. Input: 
+<noinput>
+5. Output: 
+Photosynthesis is the process through which plants absorb sunlight and use it to convert carbon dioxide and water into glucose, which is their food source. Oxygen is released as a byproduct of the process.
+
+6. Instruction: Correct the grammatical errors in the sentences.
+6. Input: 
+There are several reason why we should travel. Firstly you gets to learn more about different culture.
+6. Output: 
+There are several reasons why we should travel. Firstly, you get to learn more about different cultures.
+
+7. Instruction: What is the capital of Indonesia, and what is its official currency?
+7. Input: 
+<noinput>
+7. Output: 
+The capital of Indonesia is Jakarta, and its official currency is the Indonesian Rupiah.
+
+8. Instruction: Enumerate some benefits of daily exercising.
+8. Input: 
+<noinput>
+8. Output: 
+1. Improved cardiovascular health
+2. Enhanced muscle strength and flexibility
+3. Better mental health and reduced stress
+4. Weight management and increased metabolism
+5. Improved immune system and overall wellbeing
+
+9. Instruction: Provide a summary of the article.
+9. Input: 
+The renowned car manufacturer, Tesla, has just announced that they will soon release a highly anticipated, affordable electric vehicle. This new model, called the Tesla Model X, is projected to have a price tag below $25,000, which will make electric cars more accessible to the general public. The Model X is expected to have a range of over 200 miles per charge, and it will also be compatible with the current Tesla Supercharger network. The automaker is hoping that this new model will accelerate the adoption of electric vehicles worldwide and contribute to the global effort to reduce greenhouse gas emissions.
+9. Output: 
+Tesla plans to release an affordable electric vehicle called the Model X with a price below $25,000. With a range of over 200 miles, compatibility with Tesla's Supercharger network, and efforts to make electric cars accessible to the public, the company aims to promote the adoption of electric vehicles and reduce greenhouse gas emissions worldwide.
+
+10. Instruction: Analyze the strength and weaknesses of the argument.
+10. Input: 
+Some people argue that college education is not worth the cost because many graduates still struggle to find employment, and they acquire significant student loan debt. While it's true that some college graduates experience difficulty in finding a suitable job and may have loan debt, the benefits of higher education go beyond securing good-paying jobs. Acquiring critical thinking skills, professional development, and networking opportunities make pursuing a college degree valuable in long-term personal and social growth.
+10. Output: 
+Strengths: The argument acknowledges the challenges faced by college graduates in terms of employment and student loan debt.
+Weaknesses: The argument does not provide quantitative evidence or statistics to support its assertions and does not directly address the issue of cost in relation to the benefits of higher education.
+
+11. Instruction: How do you make a classic Margherita pizza?
+11. Input: 
+<noinput>
+11. Output: 
+1. Preheat the oven to 500°F (260°C).
+2. Prepare pizza dough and stretch it into a 12-inch round.
+3. Spread a thin layer of tomato sauce over the dough, leaving a small border.
+4. Scatter fresh mozzarella slices evenly on top of the sauce.
+5. Add fresh basil leaves, spaced out across the pizza.
+6. Drizzle with olive oil and season with salt.
+7. Bake the pizza for 10-12 minutes or until the crust is golden and the cheese is bubbly.
+8. Remove the pizza from the oven and let it cool for a few minutes before slicing and serving.
+
+12. Instruction: Assess the potential impact of climate change on agriculture.
+12. Input: 
+<noinput>
+12. Output: 
+Climate change can affect agriculture through variable precipitation patterns, increased temperatures, and extreme weather events. These factors could lead to reduced crop yields, alterations in crop growth cycles, increased pest and disease pressure, and potential declines in the nutritional quality of certain crops. Additionally, food security may be threatened in vulnerable regions, causing socioeconomic and political instability.
+
+13. Instruction: Discuss the key differences between the Android and iOS operating systems.
+13. Input: 
+<noinput>
+13. Output: 
+Key differences between Android and iOS include:
+
+1. Openness: Android is an open-source platform, which allows developers more freedom and customization. iOS is closed-source and more restricted.
+2. App Store: The Google Play Store has more available apps, while the Apple App Store is known for better quality control.
+3. Device Variety: Android OS is available on a wide range of devices, while iOS is exclusive to Apple products.
+4. User Interface: Android offers more customization options, while iOS has a more simplistic and user-friendly design.
+
+14. Instruction: Proofread and edit the resume extract for better clarity and conciseness.
+14. Input: 
+I have been employed for the last three years as a sales manager. In my role, it was my job to oversee and manage the sales team as they went about their duties. It was also important that I was able to provide the necessary training and support in order to ensure the team's productivity and effectiveness.
+14. Output: 
+Over the past three years, I have worked as a sales manager, overseeing and managing the sales team. My responsibilities included providing training and support to enhance team productivity and effectiveness.
+
+15. Instruction: Create a short poem about the beauty of the night sky.
+15. Input: 
+<noinput>
+15. Output: 
+Beneath the moon's soft silvery light,
+The stars shimmer in the tranquil night.
+A cosmic dance in endless space,
+The night sky bridges time and place.
+
+16. Instruction: Explain how the colors of a sunset occur.
+16. Input: 
+<noinput>
+16. Output: 
+Sunset colors occur due to a phenomenon called Rayleigh scattering. As the sun gets lower in the sky, its light passes through a thicker layer of the Earth's atmosphere. The atmosphere filters out shorter wavelengths, like blue and green, scattering them away from our line of sight. Red, orange, and yellow wavelengths, which are longer, continue to pass through the atmosphere and reach our eyes, resulting in the warm sunset colors we enjoy.
+
+17. Instruction: Make a catchy slogan for a new fitness center.
+17. Input: 
+<noinput>
+17. Output: 
+"Energize Your Life: Ignite Your Fitness Journey Today!"
+
+18. Instruction: Advise on ways to build stronger communication skills.
+18. Input: 
+<noinput>
+18. Output: 
+1. Active listening: Give your full attention to the speaker, and avoid interrupting.
+2. Empathy: Understand and acknowledge the feelings of others.
+3. Clarity: Use clear, concise, and straightforward language.
+4. Nonverbal communication: Pay attention to body language and facial expressions.
+5. Confidence: Speak with assuredness and maintain eye contact.
+6. Feedback: Provide and encourage constructive feedback.
+7. Adaptability: Adjust your communication style based on the situation and audience.
+8. Patience: Take the time to communicate effectively, even during challenging situations.
+
+19. Instruction: Compare and contrast living in an urban city versus living in a rural area.
+19. Input: 
+<noinput>
+19. Output: 
+Urban City:
+1. Faster pace of life
+2. Higher population density
+3. Greater job opportunities and diverse industries
+4. More entertainment and cultural options
+5. Better public transportation
+6. Higher cost of living
+
+Rural Area:
+1. Slower pace of life
+2. Lower population density
+3. Limited job opportunities and industry focus
+4. Fewer entertainment and cultural options
+5. Limited public transportation
+6. Lower cost of living
+
+20. Instruction: Write an invitation email for an office team-building event.
+20. Input: 
+<noinput>
+20. Output: 
+Subject: [Company Name] Team Building Event - Save the Date!
+
+Dear Team,
+
+We're excited to announce our upcoming team-building event! Please mark your calendars for Saturday, [Date], from 12 pm to 5 pm.
+
+Join us for a fun-filled day of activities designed to build camaraderie and teamwork, including friendly competitions, games, and a delicious lunch. Get ready to engage with your colleagues, embrace new challenges, and have a fantastic time!
+
+More details and RSVP information will be sent in a follow-up email. We look forward to seeing you there!
+
+Best regards,
+
+[Your Name]
+[Your Title]

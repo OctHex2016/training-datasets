@@ -1,0 +1,124 @@
+4. Instruction: What are the three primary colors of light?
+4. Input: 
+<noinput>
+4. Output: 
+Red, green, and blue.
+
+###
+5. Instruction: Reorder the following words to form a grammatically correct sentence.
+5. Input: 
+gym to go after to I have work the
+5. Output: 
+I have to go to the gym after work.
+
+###
+6. Instruction: Choose the most appropriate preposition to fill in the blank.
+6. Input: 
+She is interested _______ learning a new language.
+6. Output: 
+in
+
+###
+7. Instruction: Convert the following text into a haiku (5-7-5 syllables format).
+7. Input: 
+The sun sets behind the mountains, and its fading light illuminates the red sky. Night comes, and the stars begin to shine brightly.
+7. Output: 
+Sun sets behind hills,
+Fading light paints sky in red,
+Stars emerge at night.
+
+###
+8. Instruction: Translate the following English sentence into French.
+8. Input: 
+The cat is sleeping on the couch.
+8. Output: 
+Le chat dort sur le canapé.
+
+###
+9. Instruction: Expand the following abbreviation.
+9. Input: 
+PTO
+9. Output: 
+Please Turn Over
+
+###
+10. Instruction: Paraphrase the following sentence.
+10. Input: 
+Famous artists like Leonardo da Vinci and Michelangelo were the pioneers of the Renaissance period.
+10. Output: 
+Renowned creators such as Leonardo da Vinci and Michelangelo led the way during the Renaissance era.
+
+###
+11. Instruction: Summarize the main point of the following paragraph.
+11. Input: 
+As climate change continues to be a global issue, it's becoming more important for consumers to be conscious of their individual carbon footprints. Reducing personal energy consumption is one way to help limit environmental impact. By using energy-efficient products, changing daily habits, and supporting renewable energy initiatives, individuals can make a significant difference when it comes to conserving resources and protecting the planet.
+11. Output: 
+Mitigating climate change by reducing personal energy consumption through energy-efficient products and sustainable habits benefits the environment.
+
+###
+12. Instruction: Identify the false statement about pandas from the given options.
+12. Input: 
+A. Pandas are native to China. B. Pandas are herbivores. C. Pandas belong to the canid family. D. Pandas eat bamboo.
+12. Output: 
+C
+
+###
+13. Instruction: Check if the following statement is grammatically correct or not. State 1 if it's correct and 0 if incorrect.
+13. Input: 
+She walk to the store every day.
+13. Output: 
+0
+
+###
+14. Instruction: List the 4 major macromolecules found in living organisms.
+14. Input: 
+<noinput>
+14. Output: 
+Proteins, carbohydrates, lipids, nucleic acids.
+
+###
+15. Instruction: Describe, in a brief sentence, the function of mitochondria in cells.
+15. Input: 
+<noinput>
+15. Output: 
+Mitochondria are cellular organelles that produce energy in the form of ATP through cellular respiration.
+
+###
+16. Instruction: Extract the adjective from the given sentence.
+16. Input: 
+The tall tree in the park provides a lot of shade.
+16. Output: 
+tall
+
+###
+17. Instruction: Suggest a suitable title for the following story.
+17. Input: 
+Anna, a shy and quiet girl, discovers a hidden garden behind her grandparents' house. Amidst the beautiful flowers and trees, she meets the guardian of the garden, a magical creature that only she can see. As she helps the guardian heal the garden, Anna finds her own strength and confidence, ultimately transforming her life.
+17. Output: 
+Anna and the Secret Garden Guardian
+
+###
+18. Instruction: Provide a suitable closing for a formal email.
+18. Input: 
+<noinput>
+18. Output: 
+Sincerely,
+[your name]
+
+###
+19. Instruction: Compose a limerick (a humorous poem) with 5 lines and an AABBA rhyme scheme.
+19. Input: 
+<noinput>
+19. Output: 
+There once was a man from the city,
+Whose laugh was remarkably witty,
+He'd roll on the floor,
+Until he couldn't no more,
+While birds in the trees showed no pity.
+
+###
+20. Instruction: Identify the physics term described: the force that opposes the motion of one surface sliding across another.
+20. Input: 
+<noinput>
+20. Output: 
+Friction

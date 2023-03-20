@@ -1,0 +1,64 @@
+4. Instruction: Write an acrostic poem using the word BICYCLE.
+4. Input:
+<noinput>
+4. Output:
+Breezing through the path, we soar,
+Invigorating wind rushes past us,
+Cycling, a journey on two-wheeled wings,
+Yearning to explore the world around,
+Calmly pedaling, we embrace freedom,
+Leaving behind the mundane routine,
+Escaping, as the tires spin wildly.
+
+###
+5. Instruction: Develop a short dialogue between a customer and a salesperson at a clothing store.
+5. Input: 
+<noinput>
+5. Output:
+Customer: Excuse me, where can I find men's t-shirts?
+
+Salesperson: You can find our men's t-shirts on the second floor. Please take the escalator up and they will be on your left.
+
+Customer: Thank you. Is there any ongoing sale or discount on t-shirts?
+
+Salesperson: Yes, currently we have a buy two, get one free offer on selected t-shirts. Just look for the items with a green tag.
+
+Customer: Great! I'll go take a look. Thanks for your help.
+
+Salesperson: You're welcome. If you need any assistance, feel free to ask. Enjoy your shopping!
+###
+6. Instruction: Identify three logical fallacies in the following argument.
+6. Input:
+In my experience, popular kids in school always become successful in life. My neighbor, John, was very popular in school and he now runs a successful company. Therefore, all unpopular kids in school will never become successful in life.
+6. Output:
+1. Hasty Generalization - The argument generalizes that all popular kids will be successful based on limited examples.
+2. Anecdotal Evidence - The argument relies heavily on the personal experience of John to make a general claim.
+3. False Dichotomy - The argument creates a false division by assuming that being successful is exclusive to popular kids, without considering other possibilities.
+###
+7. Instruction: Summarize the given article in 2-3 sentences by mentioning its main idea. 
+7. Input: 
+The U.S. Census Bureau released new data stating that the bulk of hiring since the pandemic began has been for remote work. The figures revealed that 'work-from-anywhere' jobs gained a tenfold increase, representing the largest share of new jobs available. Employers who hire remote workers now target talent in smaller cities and rural areas, providing opportunities for those who face limited job prospects in their regions.
+7. Output:
+The U.S. Census Bureau's data shows a significant increase in remote job hiring since the pandemic started. The majority of new available jobs are now 'work-from-anywhere' positions, expanding employment opportunities in smaller cities and rural areas.
+###
+8. Instruction: Which career would be the most suitable for the person described below, and why?
+8. Input: 
+Sara is a creative individual who loves to work with her hands. She has a natural inclination towards colors, patterns, and textures. She enjoys working on craft projects in her spare time and often shares her work on social media. Sara has a gift for turning ordinary objects into unique works of art.
+8. Output:
+A suitable career for Sara would be a professional artist or craftsman. Her creativity, passion for working with her hands, and aptitude for colors, patterns, and textures are characteristics that align well with careers in the arts. Additionally, her engagement on social media can help her promote and sell her work in today's digital world.
+###
+9. Instruction: Suggest three activities that can help improve concentration and focus.
+9. Input: 
+<noinput>
+9. Output:
+1. Practicing mindfulness meditation, which encourages awareness of the present moment and helps reduce distractions.
+2. Engaging in regular physical exercise, as it increases blood flow to the brain, promoting focus and concentration.
+3. Taking breaks and adopting the Pomodoro Technique, which involves setting intervals of work followed by short breaks, can help maintain focus over longer periods of time.
+###
+10. Instruction: Does this statement agree or disagree with the passage? Explain your answer.
+10. Input:
+Passage: Having a dog can help reduce stress levels in humans. Interaction with dogs has been proven to lower cortisol levels, which is responsible for stress, and increase oxytocin, a hormone that promotes feelings of happiness and bonding.
+
+Statement: Having a dog increases stress levels.
+10. Output:
+The statement disagrees with the passage. The passage emphasizes that interaction with dogs reduces stress levels in humans by lowering cortisol levels and elevating oxytocin levels, resulting in feelings of happiness and bonding.

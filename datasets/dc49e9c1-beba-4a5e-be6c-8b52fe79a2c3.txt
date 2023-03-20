@@ -1,0 +1,127 @@
+4. Instruction: Summarize the customer complaint in the given feedback.
+4. Input: 
+This service is absolutely terrible! I waited for almost an hour just to be seated, and even when I finally got a table, the staff made no attempt to apologize or offer a complimentary drink. The food, when it arrived, was cold and bland. The restaurant was also overcrowded and noisy, which made the dining experience even worse.
+4. Output: 
+The customer experienced a long wait time, unapologetic staff, cold and bland food, and an overcrowded, noisy environment.
+
+###
+5. Instruction: Identify the grammatical error in the sentence and correct it.
+5. Input: 
+If you would've called me earlier, I would of come to help.
+5. Output: 
+If you would've called me earlier, I would have come to help.
+
+###
+6. Instruction: What are the differences between aerobic and anaerobic exercises?
+6. Input:
+<noinput>
+6. Output:
+Aerobic exercises require oxygen for energy, are low to moderate intensity, and long duration, like jogging and swimming. Anaerobic exercises do not rely on oxygen for energy, are high intensity, and short duration, such as sprinting and weightlifting.
+
+###
+7. Instruction: Paraphrase the following sentence.
+7. Input:
+Digital technology has completely transformed the way we live, work, and communicate.
+7. Output: 
+Digital advancements have revolutionized our lifestyles, workplaces, and modes of communication.
+
+###
+8. Instruction: Convert the given sentence to passive voice.
+8. Input: 
+The mechanic fixed my car yesterday.
+8. Output: 
+My car was fixed by the mechanic yesterday.
+
+###
+9. Instruction: For the entered text, determine the author's tone and provide three keywords that convey the tone.
+9. Input: 
+I can't believe they expect us to swallow this absurd proposal! It's the most ridiculous thing I've ever heard, and I refuse to take it seriously.
+9. Output: 
+Sarcastic tone. Keywords: absurd, ridiculous, refuse.
+
+###
+10. Instruction: List the benefits of maintaining a healthy lifestyle.
+10. Input: 
+<noinput>
+10. Output: 
+Improved mood, increased energy levels, better sleep, weight management, disease prevention, longer lifespan, and less stress.
+
+###
+11. Instruction: Analyze the given movie scene and identify which type of conflict is present - man vs. man, man vs. nature, or man vs. self.
+11. Input: 
+Two characters are stranded alone on an island, struggling for survival in harsh weather conditions and unforgiving terrain.
+11. Output: 
+Man vs. nature
+
+###
+12. Instruction: Determine the rhyme scheme of the given poem.
+12. Input: 
+Once upon a midnight dreary,
+while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore—
+While I nodded, nearly napping, suddenly there came a tapping,
+As of someone gently rapping, rapping at my chamber door.
+12. Output: 
+AABCCB
+
+###
+13. Instruction: Translate the following phrase from French to English.
+13. Input: 
+L'amour conquiert tout.
+13. Output: 
+Love conquers all.
+
+###
+14. Instruction: Briefly describe the main responsibilities of a human resources manager.
+14. Input: 
+<noinput>
+14. Output: 
+Recruitment and hiring, employee relations and conflict resolution, performance management, policy development, training, benefits and compensation management, and legal compliance.
+
+###
+15. Instruction: Identify the adverbs in the provided sentence and their function.
+15. Input: 
+She quickly finished her homework and quietly left the room.
+15. Output: 
+"Quickly" modifies "finished," describing how she finished her homework. "Quietly" modifies "left," describing how she left the room.
+
+###
+16. Instruction: Provide a concise explanation of the Pythagorean theorem.
+16. Input: 
+<noinput>
+16. Output: 
+The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.
+
+###
+17. Instruction: Explain the metaphor in this sentence.
+17. Input: 
+The world is your oyster.
+17. Output: 
+The metaphor implies that the world is full of opportunities for you to discover and enjoy, just as an oyster holds a possible valuable pearl.
+
+###
+18. Instruction: Organize the provided three events in chronological order.
+18. Input: 
+The American Revolution, The Civil War, The War of 1812
+18. Output: 
+The American Revolution, The War of 1812, The Civil War
+
+###
+19. Instruction: Based on the given passage, what can be inferred about John's feelings?
+19. Input: 
+As John walked through the door, he sighed heavily and hung his head. He couldn't look his parents in the eye, and his shoulders slumped.
+19. Output: 
+John likely feels sad, ashamed, or guilty.
+
+###
+20. Instruction: Outline the stages of the scientific method.
+20. Input: 
+<noinput>
+20. Output: 
+1. Observation
+2. Question formulation
+3. Hypothesis
+4. Experimentation
+5. Data collection and analysis
+6. Conclusion
+7. Communication of results

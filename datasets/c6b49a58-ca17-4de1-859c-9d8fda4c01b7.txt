@@ -1,0 +1,134 @@
+4. Instruction: Write a haiku about the provided picture.
+4. Input: 
+A majestic waterfall surrounded by lush greenery and mist.
+4. Output: 
+Water whispers down
+Mist and verdant dreams embrace
+Nature's symphony
+
+###
+5. Instruction: Based on the provided symptoms and duration, suggest a potential medical condition.
+5. Input: 
+Fever, fatigue, sore throat, swollen glands, headache, and muscle aches for a week.
+5. Output: 
+Mononucleosis (Mono)
+
+###
+6. Instruction: Identify the logical fallacy in the given statement.
+6. Input: 
+You can't believe Sarah about climate change because she drives a gas-guzzling SUV.
+6. Output: 
+Ad Hominem
+
+###
+7. Instruction: Provide a healthy dinner recipe idea incorporating the specified ingredients.
+7. Input: 
+Chicken breast, quinoa, and vegetables.
+7. Output: 
+Grilled Chicken Breast with Quinoa and Roasted Vegetables:
+1. Marinate chicken breasts in olive oil, garlic, salt, and pepper.
+2. Grill the chicken until cooked through.
+3. Cook quinoa according to package instructions.
+4. Toss vegetables in olive oil, salt, and pepper, and roast in the oven until tender.
+5. Serve the grilled chicken on top of quinoa with a side of roasted vegetables.
+
+###
+8. Instruction: Calculate the tax amount owed based on the given numbers and tax rate.
+8. Input: 
+Income: $50,000, Tax rate: 25%
+8. Output: 
+$12,500
+
+###
+9. Instruction: Rewrite the provided sentence in passive voice.
+9. Input: 
+The cat chased the mouse around the room.
+9. Output: 
+The mouse was chased around the room by the cat.
+
+###
+10. Instruction: According to the context provided, choose the most appropriate word to use between British and American English.
+10. Input: 
+When visiting London, be sure to try their delicious desserts like sticky toffee pudding and trifle.
+10. Output: 
+British English
+
+###
+11. Instruction: Explain the historical significance of the given event.
+11. Input: 
+The Boston Tea Party
+11. Output: 
+The Boston Tea Party was a significant event in American history, as it marked the increasing colonial resistance to British taxation and control. On December 16, 1773, American colonists, disguised as Native Americans, destroyed a shipment of tea belonging to the British East India Company by dumping it into the Boston Harbor. This act of defiance fueled tensions between Britain and the colonies, and ultimately played a role in inspiring the American Revolutionary War.
+
+###
+12. Instruction: Which famous person is associated with the quote provided?
+12. Input: 
+"Injustice anywhere is a threat to justice everywhere."
+12. Output: 
+Martin Luther King Jr.
+
+###
+13. Instruction: Convert the provided military time to standard 12-hour time format.
+13. Input: 
+1830 hours
+13. Output: 
+6:30 PM
+
+###
+14. Instruction: Appropriately split the provided bill based on the given information.
+14. Input: 
+Total bill: $100, Number of people: 4, Service charge: 18%
+14. Output: 
+Each person's share: $29.50
+
+###
+15. Instruction: Advise how to properly care for the stated plant species.
+15. Input: 
+Spider plant (Chlorophytum comosum)
+15. Output: 
+To care for a Spider plant, keep it in bright, indirect sunlight. Water it moderately, allowing the top inch of soil to dry out between waterings. Provide well-draining soil and a pot with drainage holes to prevent root rot. Fertilize with a balanced houseplant fertilizer every two months during the growing season (spring & summer). Spider plants are sensitive to tap water containing fluoride or chlorine, so it is best to use distilled or filtered water.
+
+###
+16. Instruction: List suitable native plants for the specified U.S. climate region.
+16. Input: 
+Pacific Northwest
+16. Output: 
+1. Western Sword Fern
+2. Oregon Grape
+3. Red Flowering Currant
+4. Douglas Fir
+5. Vine Maple
+
+###
+17. Instruction: Choose the correct preposition for the given sentence.
+17. Input: 
+She decided to walk _ the park instead of going shopping.
+17. Output: 
+through
+
+###
+18. Instruction: Make a one-week plan to improve the user's sleep hygiene based on the given sleep pattern description.
+18. Input: 
+Stays up late on phone, irregular bedtime, difficulty falling asleep, and frequent nighttime awakenings.
+18. Output: 
+Monday: Set a consistent bedtime, start a relaxing bedtime routine.
+Tuesday: Put phone away one hour before bedtime, replace with a calming activity like reading.
+Wednesday: Keep bedroom cool, dark, and quiet for sleep.
+Thursday: Limit heavy meals and caffeine intake in the evening.
+Friday: Avoid napping during the day.
+Saturday: Exercise daily but not right before bedtime.
+Sunday: Reassess sleep habits and make adjustments as needed.
+
+###
+19. Instruction: Assign an appropriate movie genre to the given film title.
+19. Input: 
+"The Time Traveler's Dilemma"
+19. Output: 
+Science Fiction
+
+###
+20. Instruction: Convert the provided temperature from Fahrenheit to Celsius.
+20. Input: 
+86°F
+20. Output: 
+30°C

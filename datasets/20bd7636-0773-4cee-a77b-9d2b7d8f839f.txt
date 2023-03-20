@@ -1,0 +1,108 @@
+4. Instruction: Write a haiku about a beautiful sunset.
+4. Input:
+<noinput>
+4. Output: 
+Crimson sky aflame,
+Sun sinks low, beyond the sea,
+Night's embrace begins.
+
+5. Instruction: Which animals are considered the "Big Five" in Africa?
+5. Input:
+<noinput>
+5. Output: 
+The "Big Five" animals in Africa are the lion, leopard, elephant, buffalo, and rhinoceros.
+
+6. Instruction: Convert the given sentence into passive voice.
+6. Input:
+The cat chased the mouse.
+6. Output: 
+The mouse was chased by the cat.
+
+7. Instruction: Briefly summarize the text.
+7. Input:
+Aristotle (384-322 BC) was a Greek philosopher and scientist who contributed greatly to Western intellectual thought. He was a student of Plato and later became a teacher to the famous conqueror, Alexander the Great. Aristotle wrote about a wide range of subjects, including physics, biology, zoology, metaphysics, logic, ethics, aesthetics, poetry, theater, music, rhetoric, linguistics, politics, and government. He made lasting contributions to many of these fields, and his ideas continue to have a significant impact on modern philosophy.
+7. Output: 
+Aristotle, a Greek philosopher and scientist, was a student of Plato and teacher of Alexander the Great. He wrote about numerous subjects, including physics, biology, politics, and philosophy. His ideas have a lasting impact on modern philosophy.
+
+8. Instruction: Identify the main problem in the passage and suggest a solution.
+8. Input:
+The customers frequently complain about the long waiting times at our restaurant. It seems our kitchen staff is overwhelmed during peak hours, which leads to slow service and unsatisfied customers. Some patrons have even left without receiving their meals.
+8. Output:
+The main problem is the long waiting times caused by an overwhelmed kitchen staff during peak hours. A solution could be to hire more kitchen staff or implement a more efficient system to manage and prepare orders during busy times.
+
+9. Instruction: Translate the sentence into Spanish.
+9. Input:
+Thank you for the beautiful flowers.
+9. Output: 
+Gracias por las hermosas flores.
+
+10. Instruction: Proofread and correct any grammatical errors in the text.
+10. Input:
+I loves eating pizza, specially when it has a lots of cheese and fresh toppings. My favorite type are deep dish, although thin crust is scrumptious to.
+10. Output: 
+I love eating pizza, especially when it has a lot of cheese and fresh toppings. My favorite type is deep dish, although thin crust is scrumptious too.
+
+11. Instruction: Write a persuasive argument in favor of renewable energy.
+11. Input:
+<noinput>
+11. Output: 
+Renewable energy is essential for our future, as it has numerous advantages over non-renewable energy sources. It reduces dependence on fossil fuels, which are harmful to the environment and contribute to climate change. Renewable energy is sustainable and inexhaustible, and it can help reduce our carbon footprint, reduce air and water pollution, and create jobs. By investing in renewable energy, we ensure a cleaner, healthier environment for future generations.
+
+12. Instruction: List four benefits of regular exercise.
+12. Input:
+<noinput>
+12. Output: 
+1. Improved cardiovascular health.
+2. Increased muscle strength and endurance.
+3. Better mental health, including reduced stress and anxiety.
+4. Weight management and maintaining a healthy body weight.
+
+13. Instruction: Describe what the term "Monty Hall problem" means.
+13. Input: 
+<noinput>
+13. Output: 
+The Monty Hall problem is a probability puzzle based on a game show scenario, where a contestant has to choose between three doors. Behind one door is a prize, while the other two have goats. After the initial choice, the host, Monty Hall, opens one of the remaining doors with a goat behind it. The contestant can then either stick with their original choice or switch to the other unopened door. The Monty Hall problem deals with the counterintuitive probability that switching doors actually increases the chances of winning the prize.
+
+14. Instruction: Write a short motivational quote about success.
+14. Input:
+<noinput>
+14. Output: 
+Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.
+
+15. Instruction: What is the primary function of hemoglobin in the blood?
+15. Input: 
+<noinput>
+15. Output:
+The primary function of hemoglobin in the blood is to transport oxygen from the lungs to the body's tissues and to carry carbon dioxide from the tissues back to the lungs.
+
+16. Instruction: Name three countries in South America.
+16. Input:
+<noinput>
+16. Output: 
+1. Brazil
+2. Argentina
+3. Peru
+
+17. Instruction: Find the sum of the two numbers.
+17. Input:
+12, 7
+17. Output:
+19
+
+18. Instruction: What are the three primary colors in the RGB color model?
+18. Input:
+<noinput>
+18. Output: 
+The three primary colors in the RGB color model are red, green, and blue.
+
+19. Instruction: Write a brief congratulatory message for someone who has just graduated from college.
+19. Input:
+<noinput>
+19. Output: 
+Congratulations on your college graduation! This is a tremendous achievement, and you should be proud of your hard work and dedication. Wishing you all the best as you embark on your next adventure. Cheers to your future successes!
+
+20. Instruction: Determine whether the given sentence is in active voice or passive voice.
+20. Input:
+The cake was baked by Sarah.
+20. Output: 
+Passive voice

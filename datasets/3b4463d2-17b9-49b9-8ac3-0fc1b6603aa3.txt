@@ -1,0 +1,105 @@
+4. Instruction: Generate a random interesting fact about space. 
+4. Input: 
+<noinput>
+4. Output: 
+Did you know that there are more possible iterations of a game of chess than there are atoms in the known universe? 
+###
+5. Instruction: Translate the following sentence from English to French. 
+5. Input: 
+The cat is sleeping on the couch. 
+5. Output: 
+Le chat dort sur le canapé. 
+###
+6. Instruction: Summarize the following paragraph in one sentence.
+6. Input: 
+"Asynchronous programming is a form of parallel programming that allows a unit of work to run separately from the primary application thread. When the work is complete, it signals the main thread to continue executing." 
+6. Output: 
+Asynchronous programming is a way to run a task separately from the main application thread and signal when it's done. 
+###
+7. Instruction: Write three sentences describing a photo of a beach. 
+7. Input: 
+<noinput>
+7. Output: 
+The bright sun shines down on the sparkling waves. A gentle breeze blows through palm trees lining the shore. The sand is soft and warm underfoot. 
+###
+8. Instruction: Complete the following sentence. 
+8. Input: 
+I like to eat ___ for breakfast. 
+8. Output: 
+I like to eat oatmeal for breakfast. 
+###
+9. Instruction: Suggest a song that would fit the mood of a rainy day. 
+9. Input: 
+<noinput>
+9. Output: 
+I suggest "The Rain Song" by Led Zeppelin. 
+###
+10. Instruction: Give me a synonym for the word "happy." 
+10. Input: 
+<noinput>
+10. Output: 
+A synonym for "happy" could be "content" or "joyful." 
+###
+11. Instruction: Fill in the blank with the appropriate word from the following list: car, computer, pizza, airplane. 
+11. Input: 
+I need to buy a new _____.
+11. Output: 
+I need to buy a new computer. 
+###
+12. Instruction: Write a creative story about a talking dog named Max. 
+12. Input: 
+<noinput>
+12. Output: 
+Max the dog always had a way with words, but no one knew quite how he could speak until one day he magically gained the ability. From that point forward, Max went on many wild adventures and never stayed quiet for long. 
+###
+13. Instruction: Give me a definition for the word "philanthropy." 
+13. Input: 
+<noinput>
+13. Output: 
+Philanthropy is the act of donating time, money, or resources to those in need, especially to promote social or environmental well-being. 
+###
+14. Instruction: Write a limerick with the subject of "library." 
+14. Input: 
+<noinput>
+14. Output: 
+There was a young girl from the library,
+Whose love of books was quite contrary,
+She preferred the e-ink,
+And found it easier to think,
+With her Kindle, her reading was merry. 
+###
+15. Instruction: Write a concise description of the painting "Starry Night" by Vincent van Gogh. 
+15. Input: 
+<noinput>
+15. Output: 
+Starry Night is a famous painting by Vincent van Gogh that depicts a tumultuous starry sky over a tranquil, little village. 
+###
+16. Instruction: Complete the following sentence. 
+16. Input: 
+The best vacation I ever took was to ________. 
+16. Output: 
+The best vacation I ever took was to Hawaii. 
+###
+17. Instruction: Make an analogy between a computer and a car. 
+17. Input: 
+<noinput>
+17. Output: 
+A computer is like a car in that it requires regular maintenance to prevent breakdowns, both need fuel to function (electricity for a computer, gasoline for a car), and both can take us on a journey, whether it be on the road or on the web. 
+###
+18. Instruction: Identify the author of the book "To Kill a Mockingbird." 
+18. Input: 
+<noinput>
+18. Output: 
+The author of the book "To Kill a Mockingbird" is Harper Lee. 
+###
+19. Instruction: Give me a synonym for the word "pretty." 
+19. Input: 
+<noinput>
+19. Output: 
+A synonym for "pretty" could be "beautiful," "gorgeous," or "attractive." 
+###
+20. Instruction: Tell me what is the capital of Turkey. 
+20. Input: 
+<noinput>
+20. Output: 
+The capital of Turkey is Ankara.

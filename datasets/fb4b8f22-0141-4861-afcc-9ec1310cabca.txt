@@ -1,0 +1,111 @@
+4. Instruction: Summarize the following passage in 30 words or less.
+4. Input: 
+Our company has been dealing with high employee turnover rates throughout the years. Interestingly, recent surveys and exit interviews have shown that multiple reasons are behind this unwanted phenomenon. First, employees feel that they are underpaid and not receiving enough benefits compared to their significant workload. Second, workers also complain about limited opportunities for professional growth within the company. Finally, the overall work environment has been reported to be toxic and unconducive to productivity.
+4. Output:
+High employee turnover is due to underpayment, insufficient benefits, limited professional growth opportunities, and a toxic work environment.
+
+5. Instruction: Classify if the following statement is a fact or opinion.
+5. Input: 
+Dogs are the best pets.
+5. Output:
+Opinion
+
+6. Instruction: Translate the given sentence to French.
+6. Input: 
+Can you give me directions to the train station?
+6. Output:
+Pouvez-vous me donner les directions pour la gare?
+
+7. Instruction: Tell me the capital city of this country.
+7. Input: 
+Austria
+7. Output:
+Vienna
+
+8. Instruction: Write a brief review about the meal you had last night.
+8. Input: 
+<noinput>
+8. Output:
+The meal I had last night was delightful. I had grilled salmon, lemon-parmesan asparagus, and garlic mashed potatoes. All the flavors were well-balanced, and the salmon was perfectly cooked with a crispy skin. I was impressed by the presentation and the overall quality of the meal.
+
+9. Instruction: Suggest a title for a novel based on this short synopsis.
+9. Input: 
+A young scientist discovers an ancient artifact that unleashes a deadly, invisible force. He must find a way to stop a mysterious organization attempting to use it to destroy the world.
+9. Output:
+Invisible Apocalypse
+
+10. Instruction: List three countries that are members of the European Union.
+10. Input: 
+<noinput>
+10. Output:
+France, Germany, Italy
+
+11. Instruction: Explain the benefits of the following product.
+11. Input: 
+A waterproof, wireless speaker with a 10-hour battery life.
+11. Output:
+This waterproof, wireless speaker is perfect for any outdoor event, such as pool parties or beach gatherings, thanks to its water resistance. Moreover, the 10-hour battery life ensures that your music will play continuously without interruptions. Finally, the wireless feature offers convenient, hassle-free connectivity and an enjoyable music listening experience.
+
+12. Instruction: Come up with a sentence using the following word.
+12. Input: 
+Serendipity
+12. Output:
+In an unexpected moment of serendipity, I found my long-lost friend while we were both waiting for the same train.
+
+13. Instruction: Develop a limerick about a curious cat.
+13. Input: 
+<noinput>
+13. Output:
+There was a young curious cat,
+Who looked for adventure in his hat,
+He jumped in the air,
+And landed on a chair,
+Finding a mouse with a satisfying pat.
+
+14. Instruction: Identify an error in the following sentence and correct it.
+14. Input: 
+She went to the store and bought milk, bread, egg and some vegetables.
+14. Output:
+She went to the store and bought milk, bread, eggs, and some vegetables.
+
+15. Instruction: Tell me the author of the following book.
+15. Input: 
+To Kill a Mockingbird
+15. Output:
+Harper Lee
+
+16. Instruction: Provide three activities one can do while visiting this city.
+16. Input: 
+Venice
+16. Output:
+1. Take a gondola ride through the canals.
+2. Visit St. Mark's Square and the Doge's Palace.
+3. Explore the Peggy Guggenheim Collection modern art museum.
+
+17. Instruction: Describe ways to improve energy efficiency in a home.
+17. Input:
+<noinput>
+17. Output:
+1. Use LED light bulbs and turn off lights when not in use.
+2. Opt for energy-efficient appliances and electronics.
+3. Insulate your home, seal air leaks, and maintain proper ventilation.
+   
+18. Instruction: Define this phrase.
+18. Input: 
+Break a leg
+18. Output:
+"Break a leg" is a colloquial expression used to wish someone good luck, especially before a performance, such as theatre or music recitals.
+
+19. Instruction: Create a haiku that evokes a feeling of peace.
+19. Input: 
+<noinput>
+19. Output:
+Gentle breeze whispers,
+Softly touching the green leaves,
+Nature's calm embrace.
+
+20. Instruction: Recommend a tourist attraction to visit in this city.
+20. Input: 
+Sydney
+20. Output:
+Visit the Sydney Opera House, an architectural icon and a world-class performing arts venue.

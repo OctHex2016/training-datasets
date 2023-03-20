@@ -1,0 +1,155 @@
+4. Instruction: Identify the common mistakes in the given paragraph and provide the corrected version.
+4. Input: 
+Their watching TV in the livingroom, which its a little bit disorganazed. John told me their going to fix it over weekend. None the less, I;m glad their enjoying themselfs despite the mess.
+4. Output: 
+They're watching TV in the living room, which is a little bit disorganized. John told me they're going to fix it over the weekend. Nonetheless, I'm glad they're enjoying themselves despite the mess.
+
+5. Instruction: What factors should I consider before adopting a dog?
+5. Input: 
+<noinput>
+5. Output: 
+1. Your lifestyle - activity level, work schedule, and living space.
+2. Size and energy level of the dog.
+3. Time commitment for training, grooming, and exercising.
+4. Dog's age, temperament, and potential health issues.
+5. Financial commitment - ongoing costs for food, vet care, and other supplies.
+6. Breed-specific traits and tendencies.
+7. Local regulations and restrictions on pet ownership.
+
+6. Instruction: List 5 strengths and 5 weaknesses of the protagonist in the provided story excerpt.
+6. Input: 
+Jack always looked after his family. He made sure they had everything they needed and even went for the extra mile to make them happy. However, he couldn't accept criticism very well, and his temper was quite short when someone mentioned his failures. Although he was always punctual and hardworking, he struggled to admit when he needed help. His siblings praised his dedication to their happiness, but they wished he would open up more about his struggles.
+6. Output: 
+Strengths:
+1. Protective of his family.
+2. Goes the extra mile for their happiness.
+3. Punctual and hardworking.
+4. Self-sufficient to an extent.
+5. Cares deeply about his siblings' opinions.
+
+Weaknesses:
+1. Difficulty accepting criticism.
+2. Short temper regarding failures.
+3. Struggles to ask for help.
+4. Doesn't open up about his own issues.
+5. Prone to bottling up emotions.
+
+7. Instruction: Provide a definition and an example for the trope known as "damsel in distress."
+7. Input: 
+<noinput>
+7. Output: 
+Definition: A damsel in distress is a trope in literature, art, and media where a female character is in a perilous situation and needs to be rescued by a male character, usually a hero.
+
+Example: Princess Peach being kidnapped by Bowser in the Mario series of video games, where Mario has to save her.
+
+8. Instruction: Convert the ingredients list into a recipe for spaghetti with marinara sauce.
+8. Input: 
+Ingredients:
+- 1 pound of spaghetti
+- Olive oil
+- 1 onion
+- 2 cloves of garlic
+- 1 can of crushed tomatoes
+- Salt and pepper
+- Fresh basil leaves
+- Parmesan cheese
+8. Output: 
+1. Bring a large pot of salted water to a boil. Cook the spaghetti according to the package instructions until al dente, and then drain.
+2. While the spaghetti is cooking, heat a few tablespoons of olive oil in a large skillet over medium heat. Dice the onion and mince the garlic. Add the onion to the skillet and sauté until softened and translucent, about 5 minutes. Add the minced garlic and cook for another 1-2 minutes.
+3. Pour the can of crushed tomatoes into the skillet and season with salt and pepper. Let the sauce simmer on low heat for about 15 minutes, stirring occasionally.
+4. While the sauce simmers, tear or chop the fresh basil leaves. Add the basil to the sauce just before it's done cooking, stirring it through the sauce.
+5. Add the cooked spaghetti to the sauce and toss well to coat. Serve with freshly grated Parmesan cheese on top.
+
+9. Instruction: Identify the main topic and the supporting details in the following passage.
+9. Input: 
+Growing your own vegetable garden can be a rewarding experience. Not only do you get to enjoy the delicious produce you grow yourself, but it's also a great way to save money on groceries while maintaining a healthier diet. In addition, gardening is good exercise, encouraging people to spend more time outdoors and engaging in light physical activity. Lastly, growing your own vegetables reduces the need for transportation and packaging, which can have a positive impact on the environment.
+9. Output: 
+Main Topic: Benefits of growing your own vegetable garden
+
+Supporting Details:
+1. Enjoying delicious home-grown produce.
+2. Saving money on groceries.
+3. Encouraging healthier eating habits.
+4. Providing light exercise through gardening activities.
+5. Having a positive environmental impact by reducing transportation and packaging.
+
+10. Instruction: Write a 50-word conclusion summarizing the benefits of using a standing desk for work.
+10. Input:
+<noinput>
+10. Output: 
+In conclusion, using a standing desk offers significant advantages for health, productivity, and well-being. It helps alleviate issues related to sitting for long periods, such as back pain and poor posture, while promoting enhanced focus and energy levels. Embracing a standing desk can positively transform your work experience and overall lifestyle.
+11. Instruction: Explain how to perform a basic CPR procedure on an adult.
+11. Input: 
+<noinput>
+11. Output: 
+1. Ensure the scene is safe, and then approach the person.
+2. Tap the person's shoulders and shout, "Are you OK?" to check responsiveness. If unresponsive, call for help or have someone call emergency services.
+3. Position the person on their back on a firm, flat surface.
+4. Kneel beside the person and place one hand on their forehead and the other under their chin. Tilt the head back and lift the chin to open the airway.
+5. Check for signs of normal breathing for no more than 10 seconds. If not breathing or gasping, begin CPR.
+6. Place the heel of one hand in the center of the person's chest, and the other hand on top, interlocking your fingers. Keep your arms straight and your shoulders above your hands.
+7. Perform 30 chest compressions, pushing straight down about 2 inches and allowing the chest to recoil back up between compressions. The rate should be 100-120 compressions per minute.
+8. After 30 compressions, give 2 rescue breaths by tilting the person's head back, pinching their nose closed, and breathing into their mouth until you see their chest rise. Each breath should take about 1 second.
+9. Continue the cycle of 30 compressions and 2 breaths without pausing, until the person starts breathing, professional help arrives, or an AED is ready for use.
+
+12. Instruction: Paraphrase the following text.
+12. Input: 
+The leader held a rousing speech that incited the crowd to cheer and clap. Strength and courage exuded from his voice as he declared the need for change in the community.
+12. Output: 
+The chief delivered an inspiring oration that led the audience to applaud and celebrate. His voice radiated strength and bravery, emphasizing the necessity for transformation within the society.
+
+13. Instruction: Create a logical, concise argument for the importance of the responsible use of social media.
+13. Input: 
+<noinput>
+13. Output: 
+The responsible use of social media is crucial, as it is a powerful platform that shapes public opinion and affects mental health. Misinformation can undermine credibility and disrupt societal cohesion, while excessive or unhealthy social media use may contribute to anxiety, depression, and addiction. Therefore, practicing responsible social media usage benefits individuals and society as a whole by promoting well-informed discussions and positive mental well-being.
+
+14. Instruction: Suggest 3 potential solutions to deforestation.
+14. Input: 
+<noinput>
+14. Output: 
+1. Reforestation and afforestation: Actively re-planting and establishing new forests to counterbalance the loss of trees.
+2. Sustainable logging practices: Implementing responsible forest management strategies, such as selective logging or clear-cutting smaller areas with long recovery periods.
+3. Promoting alternatives to wood products: Encouraging the use of alternative materials like bamboo or recycled products, reducing the demand for traditional wood.
+
+15. Instruction: Write a haiku about a mountain landscape. The first line of the poem should contain 5 syllables, the second line 7 syllables, and the third line 5 syllables.
+15. Input: 
+<noinput>
+15. Output: 
+Majestic mountains
+Standing tall, touching the sky
+Silent guardians
+
+16. Instruction: Rewrite the given sentence using reported speech.
+16. Input: 
+"Can you help me with the groceries?" Susan asked her neighbor.
+16. Output: 
+Susan asked her neighbor if he could help her with the groceries.
+
+17. Instruction: Estimate the amount of protein in grams needed per day for an individual weighing 70 kg (154 lbs) based on a daily protein intake of 0.8 grams per kg.
+17. Input: 
+<noinput>
+17. Output: 
+For a 70 kg individual, the protein requirement would be 70 kg x 0.8 g/kg = 56 grams of protein per day.
+
+18. Instruction: Compose a short, simple condolence message for someone who has just lost a loved one.
+18. Input: 
+<noinput>
+18. Output: 
+I am deeply saddened to hear about your loss. My heart goes out to you during this difficult time. Please accept my sincere condolences and know that I am here for you if you need anything.
+
+19. Instruction: List 5 important qualities a good teacher should possess.
+19. Input: 
+<noinput>
+19. Output: 
+1. Patience
+2. Adaptability
+3. Strong communication skills
+4. Empathy and understanding
+5. Passion for teaching and continuous learning
+
+20. Instruction: Describe the basic structure of a plant cell.
+20. Input: 
+<noinput>
+20. Output: 
+A plant cell consists of a cell wall made of cellulose for rigidity and protection, surrounding the cell membrane. Inside the cell, the cytoplasm houses various organelles such as the nucleus (containing DNA), chloroplasts (location of photosynthesis), mitochondria (energy production), and endoplasmic reticulum (protein and lipid synthesis). The central vacuole stores water and nutrients, maintaining turgor pressure and cell shape.

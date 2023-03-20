@@ -1,0 +1,117 @@
+4. Instruction: Paraphrase the sentence.
+4. Input:
+The great city of Rome was built along the banks of the Tiber River.
+4. Output:
+The magnificent metropolis of Rome was constructed on the shores of the Tiber River.
+
+5. Instruction: What are the primary colors of light and the primary colors of pigment?
+5. Input:
+<noinput>
+5. Output:
+The primary colors of light are red, green, and blue (RGB). The primary colors of pigment are cyan, magenta, and yellow (CMY).
+
+6. Instruction: Write a short thank you note.
+6. Input:
+<noinput>
+6. Output:
+Dear [Name],
+
+Thank you very much for your thoughtful gift. I truly appreciate your generosity and kindness, and I can't wait to put the present to good use. Your support means a great deal to me.
+
+Warm regards,
+
+[Your Name]
+
+7. Instruction: Translate the sentence to Spanish.
+7. Input:
+I need help with my homework.
+7. Output:
+Necesito ayuda con mi tarea.
+
+8. Instruction: Write a limerick based on the city of Paris.
+8. Input:
+<noinput>
+8. Output:
+There once was a man in Paris,
+Whose talents for art would not perish,
+He painted with flair,
+With style so debonair,
+And his art the museums would cherish.
+
+9. Instruction: Determine if the given statement is true or false.
+9. Input:
+The Moon orbits around the Earth in about 28 days.
+9. Output:
+True
+
+10. Instruction: Describe a recipe for a simple tomato and basil pasta.
+10. Input:
+<noinput>
+10. Output:
+Bring a large pot of water to a boil and cook pasta as directed on the package. In the meantime, heat olive oil in a pan over medium heat. Add minced garlic and cook until aromatic, 1-2 minutes. Add chopped fresh basil and stir, cooking for another 30 seconds. Add halved cherry tomatoes and cook for a few minutes, allowing them to soften. Once pasta is done cooking, drain and add to the tomato basil sauce, mixing well. Season with salt and freshly ground black pepper, garnish with grated Parmesan cheese, and serve hot.
+
+11. Instruction: Explain why the water amount in a rain gauge may differ among observers.
+11. Input:
+<noinput>
+11. Output:
+The water amount in a rain gauge may differ among observers due to various factors such as differences in gauge location and exposure, or inaccuracies in reading and reporting measurements. Environmental factors like wind, temperature, and humidity can also affect the readings.
+
+12. Instruction: Turn the following statement into a question.
+12. Input:
+She works at the bakery.
+12. Output:
+Does she work at the bakery?
+
+13. Instruction: Explain the difference between a resume and a CV.
+13. Input:
+<noinput>
+13. Output:
+A resume is a brief, concise document that typically highlights your work experience and relevant skills tailored to the job you're applying for. A CV, or curriculum vitae, is a more comprehensive document that provides an in-depth overview of your entire academic and professional history, including publications, presentations, and academic achievements.
+
+14. Instruction: Provide a solution for reducing plastic waste.
+14. Input:
+<noinput>
+14. Output:
+To reduce plastic waste, one effective solution is promoting the use of reusable products such as cloth shopping bags, refillable water bottles, and reusable containers. Implementing recycling and plastic waste management programs also helps, as well as supporting policies and regulations that reduce single-use plastics.
+
+15. Instruction: Calculate the monthly payment for a $200,000 mortgage with a 30-year term and a 3% interest rate.
+15. Input:
+<noinput>
+15. Output:
+Given a $200,000 mortgage with a 30-year (360 months) term and a 3% interest rate, the monthly mortgage payment can be calculated using the loan payment formula:
+
+P = L[r(1+r)^n] / [(1+r)^n – 1]
+
+Where P is the monthly payment, L is the loan amount, r is the monthly interest rate (annual rate / 12), and n is the loan term in months.
+
+Using that formula, your monthly payment would be approximately $843.21.
+
+16. Instruction: Give a brief overview of photosynthesis.
+16. Input:
+<noinput>
+16. Output:
+Photosynthesis is the process by which plants, green algae and some bacteria convert sunlight, carbon dioxide, and water into glucose and oxygen. It comprises two stages: the light-dependent reactions that convert light into chemical energy in the form of ATP and NADPH, and the light-independent reactions (Calvin Cycle) that convert carbon dioxide into glucose using the chemical energy.
+
+17. Instruction: Create a one-sentence summary of the provided text.
+17. Input:
+The ambitious young entrepreneur embarked on a journey to establish her own fashion label, overcoming numerous obstacles and working tirelessly to make her mark in the fashion industry, and proving to all that hard work and determination pay off in the end.
+17. Output:
+A tenacious young entrepreneur defies challenges and diligently works her way to success, establishing her own fashion label.
+
+18. Instruction: Identify the genre of the provided movie description.
+18. Input:
+In a post-apocalyptic world, a group of survivors led by a strong-willed woman struggles to find resources and fight off dangerous mutated creatures while searching for a safe haven.
+18. Output:
+Science fiction / post-apocalyptic
+
+19. Instruction: Explain the importance of washing hands regularly.
+19. Input:
+<noinput>
+19. Output:
+Washing hands regularly is crucial because it helps prevent the spread of germs and infectious diseases, protecting both individuals and communities. Proper handwashing can reduce the risk of illnesses like colds, flu, and gastrointestinal infections, and is especially important during outbreaks and pandemics to mitigate transmission and protect public health.
+
+20. Instruction: Write a tongue twister using the letter "S".
+20. Input:
+<noinput>
+20. Output:
+Six slippery snakes swiftly slithered through sheer, slender, slippery slopes, sending soft, smooth, subtle sounds, slyly stealing silvery, silky scarfs.

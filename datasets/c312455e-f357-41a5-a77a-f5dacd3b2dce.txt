@@ -1,0 +1,146 @@
+4. Instruction: Please answer the question.
+4. Input: 
+What is the world's tallest mountain?
+4. Output: 
+The world's tallest mountain is Mount Everest.
+
+###
+5. Instruction: Use the information given to output a suitable date for the birthday party. 
+5. Input: 
+Samantha's birthday is on September 15th. She would like to throw a party on a Saturday, and her friends are available the weekend before and after her birthday.
+5. Output: 
+A suitable date for Samantha's birthday party would be September 17th, which is the Saturday after her birthday.
+
+###
+6. Instruction: Provide an alternative word for the given word. 
+6. Input: 
+happy
+6. Output: 
+joyful
+
+###
+7. Instruction: Correct the grammatical errors in the sentence.
+7. Input: 
+She have two cats, which usually sleeps under the bed when are raining.
+7. Output: 
+She has two cats, which usually sleep under the bed when it is raining.
+
+###
+8. Instruction: Analyze the text to detect its primary emotion.
+8. Input: 
+I can't believe I aced the exam! This is the best day of my life!
+8. Output: 
+Excitement
+
+###
+9. Instruction: Explain the difference between the two given words. 
+9. Input: 
+affective vs. effective
+9. Output: 
+Affective is related to emotions and feelings, while effective is about producing the desired result or being efficient in doing so.
+
+###
+10. Instruction: Summarize the given text.
+10. Input: 
+The Shakespearean tragedy 'Romeo and Juliet' is a play about two young lovers from feuding families in Verona. The intense rivalry between the Montagues and the Capulets makes it impossible for the couple to be openly together, ultimately leading to their untimely deaths. The tragic demise of the young lovers serves as a catalyst for reconciliation between the two feuding families.
+10. Output: 
+'Romeo and Juliet' is a Shakespearean tragedy about young lovers from feuding families whose tragic deaths lead to the reconciliation of the Montagues and Capulets.
+
+###
+11. Instruction: Identify the type of logical fallacy in the given sentence.
+11. Input: 
+You're not a vegetarian, so you obviously don't care about the environment.
+11. Output: 
+False Dichotomy
+
+###
+12. Instruction: Convert the provided recipe to vegan.
+12. Input: 
+Ingredients:
+- 2 eggs
+- 1/2 cup milk
+- 1 cup all-purpose flour
+- 1 tablespoon sugar
+- 1/4 teaspoon salt
+
+Instructions:
+1. In a large bowl, whisk together the eggs and milk, then add the flour, sugar, and salt.
+2. Heat a non-stick skillet over medium heat and pour in a small amount of batter, swirling it around to cover the bottom. Cook for 1-2 minutes or until lightly golden, flip and cook for an additional 1 minute. 
+
+12. Output: 
+Ingredients:
+- 2 flax eggs (2 tbsp ground flaxseed + 6 tbsp water)
+- 1/2 cup almond milk
+- 1 cup all-purpose flour
+- 1 tablespoon sugar
+- 1/4 teaspoon salt
+
+Instructions:
+1. In a small bowl, prepare flax eggs by mixing ground flaxseed and water. Let it sit for 5 minutes to thicken.
+2. In a large bowl, whisk together the flax eggs and almond milk, then add the flour, sugar, and salt.
+3. Heat a non-stick skillet over medium heat and pour in a small amount of batter, swirling it around to cover the bottom. Cook for 1-2 minutes or until lightly golden, flip and cook for an additional 1 minute.
+
+###
+13. Instruction: Who is the protagonist of the given text?
+13. Input: 
+In J.R.R. Tolkien's classic novel 'The Hobbit', Bilbo Baggins, a small and unassuming hobbit, is chosen by Gandalf the Grey to accompany a group of dwarves on a mission to reclaim their stolen treasure from the fearsome dragon Smaug.
+13. Output: 
+Bilbo Baggins
+
+###
+14. Instruction: Explain the concept mentioned in the text.
+14. Input: 
+Kintsugi is a Japanese art form where broken pottery is repaired with gold, silver, or platinum lacquer.
+14. Output: 
+Kintsugi is a traditional Japanese art form that involves repairing broken pottery with gold, silver, or platinum lacquer, highlighting and embracing the breaks and imperfections, giving the pottery a new form of beauty and history.
+
+###
+15. Instruction: Write a haiku about the given subject.
+15. Input: 
+falling leaves
+15. Output: 
+Leaves gently descend,
+Crimson, orange, gold and brown,
+Autumn's whispered touch.
+
+###
+16. Instruction: Order the events in the correct sequence.
+16. Input: 
+1. Put on sunscreen
+2. Arrive at the beach
+3. Swim in the ocean
+4. Go to the beach
+
+16. Output: 
+1. Go to the beach
+2. Arrive at the beach
+3. Put on sunscreen
+4. Swim in the ocean
+
+###
+17. Instruction: Rewrite the given sentence in passive voice.
+17. Input: 
+We built the house in 2010.
+17. Output: 
+The house was built by us in 2010.
+
+###
+18. Instruction: Identify the literary device used in the sentence.
+18. Input: 
+The sun was shining brightly, as if it was trying to make up for all the rainy days that had come before.
+18. Output: 
+Personification
+
+###
+19. Instruction: Choose the best synonym for the given word.
+19. Input: 
+malicious
+19. Output: 
+spiteful
+
+###
+20. Instruction: Determine the author's purpose behind writing the following text.
+20. Input: 
+In conclusion, there are multiple compelling reasons to ban single-use plastic. By implementing such restrictions, we can make a powerful impact on the environment and work towards a cleaner, more sustainable future.
+20. Output: 
+To persuade the audience to support a ban on single-use plastic for a cleaner and more sustainable environment.

@@ -1,0 +1,109 @@
+4. Instruction: Translate the following sentence into French.
+4. Input: 
+The weather is nice today; let's go for a walk.
+4. Output:
+Le temps est agréable aujourd'hui; allons faire une promenade.
+
+###
+5. Instruction: Summarize the main idea of the passage below.
+5. Input: 
+Middle child syndrome refers to the belief that middle children are often overlooked in a family due to their birth order. As the middle child is not the oldest nor the youngest, they may feel lost or uncertain about their role within the family unit. This can lead to feelings of inadequacy and a lack of self-confidence. However, recent research has found that birth order does not necessarily determine a child's personality or development. Instead, it is the unique experiences and relationships each child has within the family that shape their character and abilities.
+5. Output: 
+Middle child syndrome suggests middle children may feel overlooked and lack self-confidence due to their birth order, but recent research shows that it is their unique experiences and relationships within the family which influence their character and abilities.
+
+###
+6. Instruction: Explain the difference between alternating current (AC) and direct current (DC) in layman's terms.
+6. Input: <noinput>
+6. Output:
+Alternating current (AC) is electricity that changes direction periodically, flowing back and forth in a circuit. Direct current (DC) is electricity that flows consistently in one direction. AC is commonly used in households and for power distribution, whereas DC is typically used in batteries and electronic devices.
+
+###
+7. Instruction: Edit the following sentence to make it more concise.
+7. Input: 
+The committee members will have a meeting on Tuesday at 3 p.m., during which they will discuss and finalize the details of the coming conference.
+7. Output:
+The committee will meet on Tuesday at 3 p.m. to finalize details of the upcoming conference.
+
+###
+8. Instruction: Determine whether the following statement is a fact or an opinion.
+8. Input: 
+Cats make better pets than dogs.
+8. Output: 
+Opinion
+
+###
+9. Instruction: Name three famous science fiction authors.
+9. Input: <noinput>
+9. Output: 
+Isaac Asimov, Arthur C. Clarke, Philip K. Dick
+
+###
+10. Instruction: Provide an example of a metaphor.
+10. Input: <noinput>
+10. Output: 
+Time is a thief.
+
+###
+11. Instruction: Write a short rhyming couplet in iambic pentameter.
+11. Input: <noinput>
+11. Output: 
+Upon the waves, I sail the foamy seas,
+In search of lands beyond the setting breeze.
+
+###
+12. Instruction: Identify the logical fallacy in the statement below.
+12. Input: 
+You can't believe what Jack says about the environment because he drives a gas-guzzling car.
+12. Output: 
+Ad Hominem
+
+###
+13. Instruction: Suggest a healthier alternative for each ingredient listed.
+13. Input: 
+white rice, white bread, sugar, whole milk
+13. Output: 
+brown rice, whole-grain bread, stevia, skim milk
+
+###
+14. Instruction: Describe the plot of Romeo and Juliet in one sentence.
+14. Input: <noinput>
+14. Output: 
+Romeo and Juliet is a tragic love story about two star-crossed lovers from feuding families who defy societal boundaries but ultimately meet a tragic end.
+
+###
+15. Instruction: Identify two positives and two negatives of using public transportation.
+15. Input: <noinput>
+15. Output: 
+Positives: Reduces pollution and traffic congestion
+Negatives: Can be crowded and sometimes unreliable
+
+###
+16. Instruction: What are the three states of matter?
+16. Input: <noinput>
+16. Output: 
+Solid, Liquid, Gas
+
+###
+17. Instruction: List five instruments commonly found in a symphony orchestra.
+17. Input: <noinput>
+17. Output: 
+violin, cello, flute, trumpet, percussion
+
+###
+18. Instruction: Paraphrase the following sentence to avoid plagiarism.
+18. Input: 
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+18. Output: 
+Nelson Mandela emphasized that the most impactful tool for transforming the world is education.
+
+###
+19. Instruction: Determine the credibility of the following source: "10 Tips to Lose Weight Fast" by a lifestyle blogger.
+19. Input: <noinput>
+19. Output: 
+Potentially less credible, as the author is a lifestyle blogger and may not have professional expertise in health or nutrition.
+
+###
+20. Instruction: Write a six-word story.
+20. Input: <noinput>
+20. Output: 
+Stranded astronaut, waving; Earth waves back.

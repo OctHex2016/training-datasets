@@ -1,0 +1,50 @@
+4. Instruction: Write the conclusion paragraph for the provided story.
+4. Input: 
+Jennifer had always dreamed of working in Antarctica as a researcher. In her late 20s, she finally got a job as a field biologist with the British Antarctic Survey. Her first month in Antarctica was difficult as she struggled to adapt to the harsh environment and isolation. But, as time went on, Jennifer found new friendships among her colleagues and started enjoying her research. One day, during a snowstorm, Jennifer spotted a rare antarctic bird that had been missing for many years. Filled with excitement, Jennifer shared her discovery with her colleagues, making a significant contribution to the understanding of antarctic ecosystems.
+4. Output: 
+As Jennifer's time in Antarctica continued, a once-daunting place gradually transformed into an environment where she thrived. The friendships she formed, coupled with her inspiring research encounters, proved that she was capable of overcoming challenges and making meaningful contributions to the field. The rare bird discovery was a testament to her tenacity and served as a reminder that true growth and success come from stepping out of one's comfort zone and embracing the unknown.
+
+5. Instruction: Rewrite the given paragraph with a more positive tone.
+5. Input: 
+The sales results were terrible this quarter, leaving everyone feeling upset and defeated. Stock prices dropped drastically, and there was a significant decrease in productivity levels as employees started looking for other jobs, fearing the worst for the company.
+5. Output: 
+Though the sales results for this quarter were not as expected, it provides everyone an opportunity for reflection and growth. The market fluctuation was a learning experience, and it can help identify areas of improvement, allowing the company and its employees to bounce back stronger and more prepared for future challenges, ultimately fueling success.
+
+6. Instruction: Check if the following sentences require a colon, a semicolon or nothing at all, and add the appropriate punctuation if necessary.
+6. Input: 
+- She has three hobbies swimming, reading, and painting
+- Your task is threefold research the topic, write the report, and submit it on time
+- She knew the answer however, she didn't raise her hand in class
+- It was a dark and stormy night nevertheless, the guests had a great time at the party
+6. Output: 
+- She has three hobbies: swimming, reading, and painting.
+- Your task is threefold: research the topic, write the report, and submit it on time.
+- She knew the answer; however, she didn't raise her hand in class.
+- It was a dark and stormy night; nevertheless, the guests had a great time at the party.
+
+7. Instruction: Provide the definition of infrared radiation.
+7. Input: 
+<noinput>
+7. Output: 
+Infrared radiation is a type of electromagnetic wave with wavelengths longer than those of visible light but shorter than those of microwaves. Infrared radiation ranges in wavelength from approximately 700 nanometers (nm) up to 1 millimeter (mm) and is predominantly produced by objects that emit heat, such as the Sun, fire, and warm-blooded organisms. Often used in applications like remote sensing, thermal imaging, and communication systems, infrared radiation has many practical uses in everyday life.
+
+8. Instruction: Summarize the premise of the movie "Inception" in one or two sentences.
+8. Input: 
+<noinput>
+8. Output: 
+Inception is a mind-bending science-fiction film in which a highly-skilled thief, Dom Cobb, specializes in stealing information from people's subconscious through their dreams. Cobb is offered a chance to right past wrongs in exchange for performing an inception — planting an idea inside a target's mind, rather than extracting information.
+
+9. Instruction: List the qualities necessary for success in a customer service position.
+9. Input: 
+<noinput>
+9. Output: 
+- Excellent communication skills
+- Active listening
+- Empathy and understanding
+- Strong problem-solving abilities
+- Patience and persistence
+- Adaptability and flexibility
+- Time management skills
+- Positive attitude
+- Knowledge of the company and its products/services
+- Teamwork and cooperation

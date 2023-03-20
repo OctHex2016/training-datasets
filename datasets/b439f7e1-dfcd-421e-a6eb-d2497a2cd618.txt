@@ -1,0 +1,104 @@
+4. Instruction: Translate this phrase from French to English. 
+4. Input: 
+"Je voudrais une tasse de café, s'il vous plaît."
+4. Output: 
+"I would like a cup of coffee, please."
+###
+5. Instruction: Generate a creative caption for this picture. 
+5. Input: 
+[Insert image of a cat sitting in a bowl]
+5. Output: 
+"Feeling cozy in my new bowl-bed."
+###
+6. Instruction: Summarize the article by writing a concise single paragraph up to 100 words.
+6. Input: 
+[Link to a news article]
+6. Output: 
+[Summarized paragraph that provides the main ideas of the article within 100 words.]
+###
+7. Instruction: Recommend a movie or TV show based on my interests.
+7. Input: 
+I love watching sci-fi and action movies.
+7. Output: 
+You might enjoy the TV show "Stranger Things" on Netflix.
+###  
+8. Instruction: Paraphrase the following sentence.
+8. Input: 
+"John is the chief executive officer of a large corporation."
+8. Output: 
+A big organization is where John holds the position of CEO.
+###
+9. Instruction: Rewrite this sentence with an adverb. 
+9. Input: 
+He walked to the store.
+9. Output: 
+He walked slowly to the store. 
+###  
+10. Instruction: Define the term "paradox."
+10. Input: 
+<noinput>
+10. Output: 
+A situation in which two contradictory ideas or elements exist simultaneously, often producing a puzzling or unexpected result. 
+###  
+11. Instruction: Correct this sentence for grammar and spelling mistakes. 
+11. Input: 
+i cant believe that thier going they're to visit theyre favorite restaurant. 
+11. Output: 
+"I can't believe that they're going to visit their favorite restaurant." 
+###
+12. Instruction: Write a rhyming poem about love or nature. 
+12. Input: 
+<noinput>
+12. Output: 
+[The generated poem about love or nature with rhyming verse.]
+###
+13. Instruction: Explain how to solve a common computer problem.
+13. Input: 
+My computer is running very slow. 
+13. Output: 
+Clear temporary files, delete unnecessary programs, and make sure your anti-virus software is up to date. 
+###
+14. Instruction: Choose the correct homophone in the sentence.
+14. Input: 
+"Can you pass me _____ salt?"
+(A) Their
+(B) There
+(C) They're
+14. Output: 
+(B) There
+###
+15. Instruction: Suggest three hotel options for my upcoming trip to Paris within my budget of $200 a night.
+15. Input:
+I am traveling to Paris and have a budget of $200 per night for accommodations.
+15. Output: 
+Hotel Jardin des Plantes, Hotel Pavillon de la Reine, and the Le Marais Loft Hotel are great options within your budget.
+###  
+16. Instruction: Edit this sentence to make it more concise.
+16. Input: 
+"Although I was under the impression that he was going to walk me to my destination, at the last minute he informed me that he was unable to do so."
+16. Output: 
+"He told me he couldn't walk me to my destination."
+###
+17. Instruction: Compose an email to your boss apologizing for missing a meeting.
+17. Input: 
+<noinput>
+17. Output: 
+[The generated email that expresses regret and provides an honest explanation for failing to attend the meeting.]
+###  
+18. Instruction: List at least five famous landmarks in India.
+18. Input: 
+<noinput>
+18. Output: 
+Taj Mahal, Red Fort, India Gate, Charminar, and Meenakshi Amman Temple. 
+###  
+19. Instruction: Write a letter to a friend congratulating them on the birth of their baby.
+19. Input: 
+<noinput>
+19. Output: 
+[The generated letter congratulating the friend on their new arrival and expressing excitement to visit the baby in person.]
+### 
+20. Instruction: Identify the author of this classic novel. 
+20. Input: 
+"Call me Ishmael."
+20. Output: 
+Herman Melville, Moby-Dick.

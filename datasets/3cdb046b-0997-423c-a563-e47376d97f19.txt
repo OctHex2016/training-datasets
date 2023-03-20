@@ -1,0 +1,46 @@
+4. Instruction: Identify the main idea of the passage.
+4. Input: 
+Innovation is the key to success in any industry. Companies that continuously innovate and develop new products are the ones that will stay ahead of the competition. The process of innovation involves coming up with new ideas, testing them, and then launching them in the market. This process allows companies to stay relevant and provide customers with better products and services. It also promotes economic growth and job creation.
+4. Output: 
+The main idea of the passage is that innovation is crucial for a company's success, and it involves developing new ideas, testing, and launching products to stay ahead of competitors and foster economic growth.
+
+5. Instruction: Compare and contrast two given subjects.
+5. Input: 
+Subject A: Computer programming,
+Subject B: Graphic design
+5. Output: 
+Computer programming involves writing code for software and applications, while graphic design focuses on the visual aspects, such as logos, images, layouts, etc. Programming requires knowledge of programming languages, such as Python or Java, whereas graphic design requires expertise in design tools like Adobe Photoshop or Illustrator. However, both fields are essential components of the modern digital world and require creativity, problem-solving, and attention to detail. Additionally, professionals in both fields often work together to develop software with user-friendly designs.
+
+6. Instruction: Describe the benefits of exercise for human health.
+6. Input: 
+<noinput>
+6. Output: 
+Exercise provides numerous health benefits, including improved cardiovascular health, stronger muscles and bones, increased energy levels, better flexibility, and balance. It also aids weight management, reduces the risk of chronic diseases, improves mental health, reduces stress and anxiety, boosts mood, and promotes better sleep. Regular exercise contributes to a healthier and more active lifestyle, leading to overall improvements in well-being.
+
+7. Instruction: Identify the errors and correct them in the following sentence.
+7. Input: 
+The dogs runs quickly, it's tail wagging behind he.
+7. Output: 
+The dog runs quickly, its tail wagging behind him.
+
+8. Instruction: Summarize the main points of the following article.
+8. Input: 
+A recent study has shown that adopting a plant-based diet can be beneficial for cardiovascular health. The study, conducted on over 10,000 participants, found that those who mainly consumed plant-based foods had a lower risk of heart diseases, such as heart attacks and strokes. This is because a plant-based diet is typically associated with lower cholesterol levels and blood pressure. However, it is important to note that the quality of the plant-based foods consumed also plays a significant role in determining its health benefits. Whole, unprocessed foods are known to be more beneficial than heavily processed plant-based foods. Experts recommend incorporating more plant-based meals into one's diet while ensuring that the majority of the food consumed is unprocessed and nutritious.
+8. Output: 
+The study finds that a plant-based diet can be beneficial for cardiovascular health, lowering the risk of heart diseases, cholesterol levels, and blood pressure. The quality of plant-based foods, especially unprocessed ones, is crucial for maximizing health benefits. Experts advise incorporating more nutritious plant-based meals into one's diet.
+
+9. Instruction: Suggest a title for the following paragraph.
+9. Input: 
+It has been observed that urbanization and modernization have led to a decrease in green spaces, which negatively impacts mental health. Studies have shown that exposure to natural environments can improve our well-being by reducing stress, anxiety, and mental fatigue. Access to green spaces can also facilitate physical activity, which has additional benefits on mental health. Therefore, the importance of urban green spaces should be recognized, and efforts should be made to incorporate them into urban development plans.
+9. Output: 
+"Preserving Urban Green Spaces: A Key to Enhancing Mental Health and Well-being"
+
+10. Instruction: List five questions a buyer may ask before purchasing a used car.
+10. Input: 
+<noinput>
+10. Output: 
+1. What is the car's mileage and service history?
+2. How many previous owners has the car had?
+3. Are there any mechanical issues or past accidents I should be aware of?
+4. Can I take the car for a pre-purchase inspection by a mechanic?
+5. Is the price negotiable, and does it align with the car's current market value?

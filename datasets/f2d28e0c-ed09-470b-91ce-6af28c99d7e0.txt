@@ -1,0 +1,49 @@
+4. Instruction: Convert the given paragraph to simple English by simplifying the vocabulary and sentence structure.
+4. Input: 
+The company's implementation strategy will involve a phased approach, commencing with the execution of the minimum viable product, followed by iterative improvements. The highly skilled team will be made up of software engineers who possess expertise in various programming languages and development methodologies, ultimately ensuring the project's success.
+4. Output: 
+The company will start its plan in steps. First, they will make the simplest working product, then keep making it better. The team will have skilled people who know a lot about computer languages and ways to build things. This will help make the project successful.
+
+5. Instruction: Please give a brief synopsis, covering the main points, of the following news article.
+5. Input: 
+Amazon’s New Headquarters Just Announced for Nashville
+
+Amazon has just revealed its plans to create a new major base in Nashville, Tennessee, in a move that is expected to bring at least 5,000 high-paying jobs to the area. The company will invest $230 million into a new site located in downtown Nashville, part of the ongoing strategy to grow the company into the largest online retail powerhouse. The project, named "Operations Center of Excellence", will be focused on expanding Amazon’s logistics and supply chain network to cope with the increasing demands placed upon it by the business's expansion. Nashville was selected as the ideal city, thanks to its skilled labor pool and attractive location for new businesses.
+5. Output: 
+Amazon has announced plans for a new major headquarters in Nashville, Tennessee, which is expected to create at least 5,000 high-paying jobs. The company will invest $230 million in the project, named "Operations Center of Excellence." This center aims to expand Amazon's logistics and supply chain network to support its growth strategy. Nashville was chosen for its skilled workforce and favorable business environment.
+
+6. Instruction: Translate the following sentence into French.
+6. Input: 
+These guidelines will help you plan your trip effectively.
+6. Output: 
+Ces directives vous aideront à planifier efficacement votre voyage.
+
+7. Instruction: Identify the fallacies present in the given argument, if any.
+7. Input: 
+Everyone else is downloading and streaming movies illegally, so it must be fine for me to do it too.
+7. Output: 
+Bandwagon Fallacy
+
+8. Instruction: Correct grammar and punctuation errors in the text provided.
+8. Input: 
+its important to be keeping a consistent sleep schedule, going to bed and waking up at the same time every day, including weekends. this will help train the body’s internal clock wich can really aid in falling asleep and waking up more consitently.
+8. Output: 
+It's important to keep a consistent sleep schedule, going to bed and waking up at the same time every day, including weekends. This will help train the body's internal clock, which can really aid in falling asleep and waking up more consistently.
+
+9. Instruction: What are the advantages of using solar energy?
+9. Input: 
+<noinput>
+9. Output: 
+1. Renewable and sustainable energy source.
+2. Reduces electricity bills.
+3. Low maintenance costs.
+4. Environmental-friendly: reduces carbon footprint.
+5. Can be used for various applications (heating, lighting, etc.).
+6. Provides energy independence and security.
+7. Opportunities for job creation within the industry.
+
+10. Instruction: Summarize the plot of the movie "Inception" in one sentence.
+10. Input: 
+<noinput>
+10. Output: 
+A skilled thief who steals corporate secrets through dream-sharing technology assembles a team for one final, complex heist to plant an idea inside a target's subconscious rather than steal it.

@@ -1,0 +1,59 @@
+4. Instruction: Revise the following paragraph to sound more professional.
+4. Input: 
+OMG, last week at work was like super sucky because we had so many things going on! We had inventory stuff and a bunch of customer issues that I had to sort out. Even though everything was cray-cray, I managed to handle it all and my boss was happy. Yay me!
+4. Output: 
+Last week at work proved to be particularly challenging with numerous tasks to attend to. We had to manage inventory and address several customer concerns. Despite the demanding situation, I successfully handled all responsibilities, resulting in my supervisor expressing satisfaction with my performance.
+
+5. Instruction: What are three popular dog breeds that are hypoallergenic and their general characteristics?
+5. Input:
+<noinput>
+5. Output: 
+1. Poodle: Poodles are intelligent, playful, and friendly dogs, known for their low-shedding curly coat.
+2. Maltese: Maltese dogs are affectionate, gentle, and energetic with a long, silky coat that does not shed excessively.
+3. Yorkshire Terrier: Yorkshire Terriers are small, confident, and loving dogs with a silky, single coat that sheds very little.
+
+6. Instruction: Compose a brief poem about the beauty of a winter night. 
+6. Input: 
+<noinput>
+6. Output:
+A moonlit dance on winter's stage,
+Where breaths appear as wisps of smoke,
+Snowflakes twirl with graceful rage,
+Beneath the oaks where shadows cloak.
+
+Silent whispers of the breeze,
+Caress the cold and crystalline,
+Illuminated treasures freeze,
+In mirrored forms, the night divine.
+
+7. Instruction: Write advice for someone who wants to start learning a new musical instrument.
+7. Input:
+<noinput>
+7. Output:
+1. Choose the right instrument: Pick an instrument that resonates with you, considering factors like sound, playability, and availability.
+2. Set realistic goals: Break down your learning into small, achievable steps and celebrate progress along the way.
+3. Be consistent with practice: Dedicate time to practice regularly, focusing on techniques, challenging passages, and performance.
+4. Take lessons: Consider taking lessons from a qualified teacher or using online resources to learn proper techniques and avoid bad habits.
+5. Be patient: Understand that learning an instrument takes time and effort; embrace the journey and enjoy the process of growth.
+
+8. Instruction: Paraphrase the following sentence: "The sky was cloudy and the rain started to pour, causing the streets to glisten under the streetlights."
+8. Input:
+<noinput>
+8. Output:
+As the rain began falling heavily from the overcast sky, the streets shimmered beneath the illumination of the street lamps.
+
+9. Instruction: What are the basic steps for performing the Heimlich maneuver on a choking adult?
+9. Input:
+<noinput>
+9. Output:
+1. Stand behind the choking person and wrap your arms around their waist.
+2. Make a fist with one hand and place the thumb-side of the fist slightly above the person's navel.
+3. Grasp your fist with your other hand, keeping your elbows out.
+4. Perform quick, inward, and upward thrusts with your hands, in an effort to dislodge the obstruction.
+5. Continue these thrusts until the object is expelled or the person can breathe again, and call for emergency help if necessary.
+
+10. Instruction: Edit the following text to fix grammar and punctuation errors.
+10. Input:
+Why people afraid of thunderstorms? Maybe its due to loud noise's, maybe its becouse of having the,, horror movies where the storm is sign of this doom, or maby. the fear is a product of the possibility of being struck by lightning. Either way many persons can feel anxious or uneasy when a storm arrives.
+10. Output:
+Why are people afraid of thunderstorms? Maybe it's due to loud noises, maybe it's because of horror movies where the storm signifies doom, or maybe the fear is a product of the possibility of being struck by lightning. Either way, many individuals can feel anxious or uneasy when a storm arrives.

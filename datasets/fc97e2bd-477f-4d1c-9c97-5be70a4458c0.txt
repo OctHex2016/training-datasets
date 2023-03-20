@@ -1,0 +1,56 @@
+4. Instruction: Classify the following paragraph as fiction, non-fiction, or poetry.
+4. Input:
+Deep in the Amazon rainforest, a group of scientists stumbled upon a new species of insect. The tiny creature, no larger than a grain of rice, had iridescent wings and a distinctive pattern on its back. Intrigued, the scientists collected several specimens to study. Little did they know, this discovery would spark a groundbreaking revolution in the world of entomology.
+4. Output:
+Non-fiction
+
+5. Instruction: Explain the concept of photosynthesis in simple terms.
+5. Input:
+<noinput>
+5. Output:
+Photosynthesis is a process where plants use sunlight, water, and carbon dioxide to create their food, which is glucose, and produce oxygen as a byproduct. In simple words, it is a way for plants to convert sunlight into energy for themselves to grow and flourish.
+
+6. Instruction: Proofread the following passage and correct any mistakes.
+6. Input:
+It's no secret that the English language can be a bit confusing. With it's myriad of rules and exeptions, it's easy to see why people stugle with it. Not to mention the numerous homophones that can complicate things even further.
+6. Output:
+It's no secret that the English language can be a bit confusing. With its myriad of rules and exceptions, it's easy to see why people struggle with it. Not to mention the numerous homophones that can complicate things even further.
+
+7. Instruction: Write a Haiku about springtime.
+7. Input:
+<noinput>
+7. Output:
+Cherry blossoms bloom,
+Soft whispers of springtime breeze,
+Nature awakes, smiles.
+
+8. Instruction: Identify the logical fallacy in the following argument.
+8. Input:
+You can't trust the safety guidelines for vaccines since they come from the same companies that profit from selling them.
+8. Output:
+Ad Hominem (Circumstantial)
+
+9. Instruction: Provide a brief overview of the role of adjectives in the English language.
+9. Input:
+<noinput>
+9. Output:
+Adjectives in the English language are words used to describe or modify nouns and pronouns. Their primary role is to give additional information about the attributes, characteristics, or qualities of the nouns/pronouns, such as size, color, shape, number, emotional state, or opinions. Adjectives typically precede the noun they modify, although they can also follow linking verbs in predicative constructions.
+
+10. Instruction: Summarize the main ideas of the article given in the following input.
+10. Input:
+A new study conducted by researchers at the Green Institute indicates that eating five portions of fruits and vegetables daily has a significant positive effect on mental wellbeing. The participants of the study, aged between 25-40 years old, showed improved mental health and a decrease in anxiety levels after maintaining this diet for six months. As a result, the researchers have suggested promoting the intake of fruits and vegetables to reduce the increasing prevalence of depression in today's society. Furthermore, they highlighted the need for public health policies to emphasize the importance of balanced diets to support psychological wellbeing.
+10. Output:
+Eating five portions of fruits and vegetables daily has a significant positive impact on mental wellbeing, according to a study by the Green Institute. This diet has been linked to improved mental health and decreased anxiety levels in participants aged 25-40. The researchers suggest promoting fruit and vegetable intake as a means to combat depression and emphasize the role of public health policies in endorsing balanced diets for psychological wellbeing.
+
+11. Instruction: Convert the given text into a third person narrative.
+11. Input:
+I walked into the coffee shop, hoping to find a place to sit and get some work done. I ordered my usual latte and found a quiet corner near the window. As I settled down to work, I couldn't help but notice the beautiful street art across the road.
+11. Output:
+He walked into the coffee shop, hoping to find a place to sit and get some work done. He ordered his usual latte and found a quiet corner near the window. As he settled down to work, he couldn't help but notice the beautiful street art across the road.
+
+12. Instruction: Tell a funny joke about dogs. 
+12. Input:
+<noinput>
+12. Output:
+Why did the scarecrow adopt a dog?
+Because he needed some "barking" support!

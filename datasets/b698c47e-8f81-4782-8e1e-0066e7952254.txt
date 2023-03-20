@@ -1,0 +1,127 @@
+4. Instruction: Write a brief summary of the following news article.
+4. Input: 
+Apple announced today that its new iPhone 14 would be launched on October 12th with an innovative biodegradable design. The environment-friendly phone will feature a completely plastic-free body made of a biodegradable polymer. In addition to typical iPhone features, the iPhone 14 will include a solar charging feature to cater to the eco-conscious market. Apple has partnered with several environmental organizations to educate users on best practices for disposing of the device once it reaches its end-of-life stage.
+4. Output: 
+Apple is set to launch its environmentally-friendly iPhone 14 on October 12th. The phone features a biodegradable polymer body and solar charging capabilities. Apple has teamed up with environmental organizations to promote proper disposal practices for the device at the end of its life cycle.
+
+5. Instruction: Translate the following English text into French.
+5. Input: 
+"I can't wait to go on a vacation! I need a break from work and daily stress."
+5. Output: 
+"J'ai hâte de partir en vacances ! J'ai besoin d'une pause loin du travail et du stress quotidien."
+
+6. Instruction: Reorder the list of achievements chronologically.
+6. Input: 
+A) Discovered Neptune
+B) Discovered Pluto
+C) Landed a probe on Mars
+D) Gagarin becomes the first person in space
+
+6. Output: 
+D) Gagarin becomes the first person in space
+A) Discovered Neptune
+B) Discovered Pluto
+C) Landed a probe on Mars
+
+7. Instruction: What is the main theme of the following poem?
+7. Input: 
+Not that I loved the summer less,
+I simply held a fondness for
+The gentle dancing autumn leaves,
+Whimsical and soft, that's how
+Autumn feels.
+
+7. Output: 
+The main theme of the poem is the appreciation of autumn.
+
+8. Instruction: Proofread and correct any grammar or punctuation errors in the given paragraph.
+8. Input: 
+I don't know whether their party are still on, or whether it has been cancelled? I asked Annie, but she didn't no the answer either! Maybe, we should just call them and find out for sure.
+8. Output: 
+I don't know whether their party is still on or whether it has been cancelled. I asked Annie, but she didn't know the answer either! Maybe we should just call them and find out for sure.
+
+9. Instruction: Classify the following animal species into the correct class (Mammal, Bird, Reptile, Amphibian, or Fish)
+9. Input: 
+1) Dolphin
+2) Python
+3) Pigeon
+4) Trout
+5) Salamander
+9. Output: 
+1) Dolphin - Mammal
+2) Python - Reptile
+3) Pigeon - Bird
+4) Trout - Fish
+5) Salamander - Amphibian
+
+10. Instruction: Describe the main features of the Baroque art style.
+10. Input:
+<noinput>
+10. Output:
+Baroque art is characterized by dramatic use of light and shadow, rich colors, elaborate ornamentation, and intricate detailing. It is often grand and exaggerated, focusing on heightened emotional expression, and can include dynamic movement and energy as key features. In addition, Baroque art frequently features religious and historical subjects with theatrical and immersive compositions.
+
+11. Instruction: Identify the adjectives in the following sentence:
+11. Input: 
+The joyful little fox played in the mysterious, dark forest.
+11. Output: 
+joyful, little, mysterious, dark
+
+12. Instruction: Write a 50-word story based on the given theme.
+12. Input: 
+Theme: A lost pet finding its way home
+12. Output: 
+Amid a heavy snowstorm, Otis the cat wandered far from home. Exhausted and disoriented, he slept beneath a tree. The next morning, the sun emerged, illuminating a familiar path. Each step on the glistening snow carried him closer to his family's warm embrace. They found each other at the doorstep, reunited.
+
+13. Instruction: Explain the greenhouse effect in simple terms.
+13. Input: 
+<noinput>
+13. Output: 
+The greenhouse effect is a natural process where certain gases, mainly carbon dioxide, methane, and water vapor, trap heat in the Earth's atmosphere. These gases allow sunlight to pass through but trap heat radiated from the Earth's surface. This trapped heat warms our planet, making it habitable; however, an excess of these gases can lead to dangerous levels of global warming.
+
+14. Instruction: Rewrite the given sentence in passive voice.
+14. Input: 
+Scientists discovered a new species of fish in the deep ocean.
+14. Output: 
+A new species of fish was discovered by scientists in the deep ocean.
+
+15. Instruction: List three consequences of deforestation.
+15. Input: 
+<noinput>
+15. Output: 
+1) Loss of biodiversity
+2) Increased greenhouse gas emissions
+3) Disruption of water cycles
+
+16. Instruction: Calculate the compound interest for a principal amount of $5000, an annual interest rate of 4%, compounded quarterly, for three years.
+16. Input: 
+<noinput>
+16. Output: 
+The compound interest for the given scenario is $642.48.
+
+17. Instruction: Identify the logical fallacy in the following argument.
+17. Input: 
+"Many people are buying the latest iPhone, so it must be the best phone available."
+17. Output: 
+Bandwagon fallacy
+
+18. Instruction: Create an acrostic poem using the word "DREAM".
+18. Input: 
+<noinput>
+18. Output: 
+Daring to embrace the unknown
+Reaching for the stars above
+Every adventure a stepping stone
+Aspirations taking flight on a dove
+Moments becoming cherished memories
+
+19. Instruction: Convert the following Celsius temperature to Fahrenheit: 25°C.
+19. Input: 
+<noinput>
+19. Output: 
+77°F
+
+20. Instruction: Name two ancient civilizations that developed in the region now known as Mexico and Central America.
+20. Input: 
+<noinput>
+20. Output: 
+Two ancient civilizations in the area of present-day Mexico and Central America are the Maya and the Aztec.

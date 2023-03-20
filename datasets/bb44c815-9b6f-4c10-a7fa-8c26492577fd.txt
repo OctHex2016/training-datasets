@@ -1,0 +1,25 @@
+4. Instruction: Compose a brief sales pitch for a new high-tech vacuum cleaner. 
+4. Input: 
+<noinput>
+4. Output: 
+Introducing our latest high-tech vacuum cleaner: The CleanSweep 3000! This smart, powerful, and highly efficient vacuum cleaner is equipped with a state-of-the-art HEPA filter, ensuring allergens never stand a chance. With advanced AI navigation, it effortlessly maps your home and leaves your floors spotless while avoiding obstacles. Plus, its lightweight and sleek design mean it's easy to store and looks great too. Experience hassle-free cleaning with the CleanSweep 3000 - Get yours today and upgrade to the modern cleaning solution! 
+###
+5. Instruction: Evaluate and correct any punctuation and grammar errors in the given paragraph. 
+5. Input: 
+Caroline was planning a vacation . She wanted to visit Spain but; she wasn't sure which city to choose. Eventually,, after consulting friends and conducting some research online she decided on Barcelona: it had beautiful architecture, amazing food, and buzzing nightlife.
+5. Output: 
+Caroline was planning a vacation. She wanted to visit Spain, but she wasn't sure which city to choose. Eventually, after consulting friends and conducting some research online, she decided on Barcelona. It had beautiful architecture, amazing food, and buzzing nightlife.
+###
+6. Instruction: Describe the steps someone should follow to bake chocolate chip cookies from scratch. 
+6. Input: 
+<noinput>
+6. Output: 
+1. Preheat oven to 350°F (175°C).
+2. In a large bowl, cream together butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla extract.
+3. Combine flour, baking soda, and salt in a separate bowl. Gradually blend the dry mixture into the creamed butter mixture.
+4. Fold in chocolate chips.
+5. Drop rounded tablespoons of dough onto ungreased cookie sheets.
+6. Bake for 10-12 minutes in the preheated oven, or until edges are lightly golden.
+7. Allow the cookies to cool on a wire rack before serving.
+
+Enjoy your homemade chocolate chip cookies!

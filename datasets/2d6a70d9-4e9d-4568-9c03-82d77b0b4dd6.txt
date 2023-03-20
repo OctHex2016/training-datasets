@@ -1,0 +1,101 @@
+4. Instruction: Find the sum of all the even numbers from 1 to 50. 
+4. Input: 
+<noinput>
+4. Output: 
+The sum of all even numbers from 1 to 50 is 650.
+###
+5. Instruction: In the following sentence, replace the word "sad" with a synonym. 
+5. Input: 
+I felt sad after watching the movie.
+5. Output: 
+I felt sorrowful after watching the movie.
+###
+6. Instruction: Given a set of 10 numbers, find the maximum value. 
+6. Input: 
+4, 18, 7, 22, 13, 45, 2, 9, 34, 28
+6. Output: 
+The maximum value of the set is 45.
+###
+7. Instruction: Rewrite the following sentence using passive voice. 
+7. Input: 
+The cat chased the mouse around the room.
+7. Output: 
+The mouse was chased around the room by the cat.
+###
+8. Instruction: In the following paragraph, change all instances of "American" to "Canadian". 
+8. Input: 
+Many Americans celebrate the 4th of July by having barbecues and watching fireworks. It is a holiday that commemorates the United States' independence from Great Britain.
+8. Output: 
+Many Canadians celebrate the 4th of July by having barbecues and watching fireworks. It is a holiday that commemorates the United States' independence from Great Britain.
+###
+9. Instruction: Given a list of names, sort them alphabetically. 
+9. Input: 
+Jenny, Mark, Tom, Sarah, Andy, Samantha
+9. Output: 
+The sorted list of names is: Andy, Jenny, Mark, Samantha, Sarah, Tom.
+###
+10. Instruction: Rewrite the following sentence in a negative form. 
+10. Input: 
+He will attend the meeting tomorrow.
+10. Output: 
+He will not miss the meeting tomorrow.
+###
+11. Instruction: Generate a brief job description for a Web Developer. 
+11. Input: 
+<noinput>
+11. Output: 
+A web developer designs and develops websites, creates and tests website applications, and ensures that the website is visually engaging and easy to use. They also work with clients to ensure that the website meets their needs and objectives.
+###
+12. Instruction: Complete the following sentence with appropriate information. 
+12. Input: 
+The boiling point of water is ___________.
+12. Output: 
+The boiling point of water is 100 degrees Celsius (212 degrees Fahrenheit).
+###
+13. Instruction: Can you recommend a good book on programming for beginners? 
+13. Input: 
+<noinput>
+13. Output: 
+"Python Crash Course" by Eric Matthes is a great book for beginners interested in learning programming. It covers the basics of Python and includes several exercises and projects to test your knowledge.
+###
+14. Instruction: Edit the following sentence to remove redundancy. 
+14. Input: 
+He repeated the same mistake again.
+14. Output: 
+He repeated the mistake.
+###
+15. Instruction: Generate a headline for a news article about climate change. 
+15. Input: 
+<noinput>
+15. Output: 
+"As Climate Change Intensifies, Experts Gather to Discuss Solutions at Global Summit"
+###
+16. Instruction: Write a question to gather information about a person's work experience. 
+16. Input: 
+<noinput>
+16. Output: 
+What is your previous work experience, and how do you think it could be useful in the role that you are applying for?
+###
+17. Instruction: In the following paragraph, replace the word "large" with a synonym. 
+17. Input: 
+The elephant was very large, and it was difficult to fit through the narrow doorway.
+17. Output: 
+The elephant was very big, and it was difficult to fit through the narrow doorway.
+###
+18. Instruction: Given a set of 5 numbers, find the smallest number. 
+18. Input: 
+14, 26, 8, 37, 11
+18. Output: 
+The smallest number in the set is 8.
+###
+19. Instruction: Rewrite the following sentence to use a different verb. 
+19. Input: 
+She runs for 30 minutes every day before work.
+19. Output: 
+She exercises for 30 minutes every day before work.
+###
+20. Instruction: In the following paragraph, replace the word "happy" with a synonym. 
+20. Input: 
+After getting a promotion at work, she was very happy and celebrated by going out to dinner with her family.
+20. Output: 
+After getting a promotion at work, she was very delighted and celebrated by going out to dinner with her family.

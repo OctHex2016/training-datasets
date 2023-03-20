@@ -1,0 +1,124 @@
+4. Instruction: Describe the process of photosynthesis in simple terms.
+4. Input:
+<noinput>
+4. Output:
+Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into chemical energy. They absorb light and use it to convert carbon dioxide and water into glucose, which is their food, and oxygen as a byproduct. This occurs mainly in the leaves through tiny structures called chloroplasts, which contain the green pigment chlorophyll.
+
+###
+5. Instruction: Fact-check this claim: Chocolate milk contains more calcium than regular milk.
+5. Input:
+<noinput>
+5. Output:
+False
+
+###
+6. Instruction: Identify any punctuation mistakes in the following text and correct them.
+6. Input:
+The plane landed in Paris, France; after a long flight Pam, the travel blogger and her friend Ayla took a train to their hotel.
+6. Output:
+The plane landed in Paris, France; after a long flight, Pam, the travel blogger, and her friend Ayla took a train to their hotel.
+
+###
+7. Instruction: Convert the given sentence to passive voice.
+7. Input:
+Leaves absorb carbon dioxide from the atmosphere.
+7. Output:
+Carbon dioxide is absorbed from the atmosphere by leaves.
+
+###
+8. Instruction: Rank these three pizza toppings in alphabetical order.
+8. Input:
+Mushrooms, Pepperoni, Sausage
+8. Output:
+Mushrooms, Pepperoni, Sausage
+
+###
+9. Instruction: Write a rhyming couplet using the word "laughter".
+9. Input:
+<noinput>
+9. Output:
+In the room, echoes of joyous laughter,
+Creating memories, to be cherished ever after.
+
+###
+10. Instruction: Summarize the following text in 20 words or less.
+10. Input:
+The industrialization of agriculture has led to many negative consequences for the environment, including deforestation, soil degradation, and loss of biodiversity. Additionally, excessive use of chemical fertilizers and pesticides has resulted in serious health problems for humans, animals, and plants. Moreover, the mass production of low-quality food has contributed to health issues like obesity, diabetes, and heart disease. To combat these issues, many people are turning to sustainable agriculture practices such as organic farming, permaculture, and agroforestry.
+10. Output:
+Industrialized agriculture damages the environment and human health; sustainable practices like organic farming and permaculture provide eco-friendly alternatives.
+
+###
+11. Instruction: Suggest a possible theme for the following story idea.
+11. Input:
+A high school student discovers a rare book that contains the stories of everyone who has ever lived or will live.
+11. Output:
+The power and responsibility of knowledge.
+
+###
+12. Instruction: Translate the following text into French.
+12. Input:
+I would like to purchase a train ticket to Lyon.
+12. Output:
+Je voudrais acheter un billet de train pour Lyon.
+
+###
+13. Instruction: Create a poetic line using alliteration or assonance.
+13. Input:
+<noinput>
+13. Output:
+Silent shadows swiftly sweep softly, singing solemn songs.
+
+###
+14. Instruction: Provide an example where the straw man fallacy is used in an argument.
+14. Input:
+<noinput>
+14. Output:
+Person A: "I believe we should have stricter gun control laws."
+Person B: "Why do you want to leave people defenseless and helpless against criminals?"
+
+###
+15. Instruction: Solve this mathematical equation: (3x + 2) = 17
+15. Input:
+<noinput>
+15. Output:
+x = 5
+
+###
+16. Instruction: Name the five oceans on Earth.
+16. Input:
+<noinput>
+16. Output:
+Arctic, Atlantic, Indian, Pacific, Southern
+
+###
+17. Instruction: Are the following statements about chickens and roosters true or false?
+- Chickens lay eggs.
+- Roosters lay eggs.
+- Roosters can fertilize eggs.
+17. Input:
+<noinput>
+17. Output:
+- Chickens lay eggs: True
+- Roosters lay eggs: False
+- Roosters can fertilize eggs: True
+
+###
+18. Instruction: Write a tongue twister using the letter "P."
+18. Input:
+<noinput>
+18. Output:
+Perky pen-wielding penguins persistently pursued precarious purple pebbles, perplexing passing perplexed pedestrians.
+
+###
+19. Instruction: Explain the main difference between renewable and non-renewable energy resources.
+19. Input:
+<noinput>
+19. Output:
+Renewable energy resources can be replenished naturally over a short period of time, while non-renewable resources are finite and deplete over time.
+
+###
+20. Instruction: Unscramble these letters to form a word: CFAOEF
+20. Input:
+<noinput>
+20. Output:
+Coffee

@@ -1,0 +1,105 @@
+4. Instruction: Create a headline for the given news article. 
+4. Input: 
+Article: The COVID-19 pandemic has caused drastic changes to the sports industry, particularly with the suspension or cancellation of many major sporting events. 
+4. Output: 
+"COVID-19 alters landscape of sports industry with major events suspended or cancelled"
+###
+5. Instruction: Describe the main themes of the given book in one sentence. 
+5. Input: 
+Book: "To Kill a Mockingbird" by Harper Lee
+5. Output: 
+The themes of "To Kill a Mockingbird" include racial injustice, morality, and the loss of innocence.
+###
+6. Instruction: Rewrite the following sentence to be in the active voice. 
+6. Input: 
+Passive sentence: The ball was caught by the outfielder. 
+6. Output: 
+The outfielder caught the ball.
+###
+7. Instruction: Translate the following sentence from English to Spanish. 
+7. Input: 
+English sentence: My favorite color is blue. 
+7. Output: 
+Mi color favorito es el azul.
+###
+8. Instruction: Edit the given sentence to be grammatically correct. 
+8. Input: 
+Sentence with error: It don't matter what you do, I'm gonna always be proud of you.
+8. Output: 
+"It doesn't matter what you do, I'm always going to be proud of you."
+###
+9. Instruction: Retrieve the definition of the given word. 
+9. Input: 
+Word: Facetious 
+9. Output: 
+Facetious: (adj.) treating serious issues with deliberately inappropriate humor; flippant.
+###
+10. Instruction: Generate a haiku poem based on the given topic. 
+10. Input: 
+Topic: Cherry Blossoms 
+10. Output: 
+Pink and white petals, 
+Dancing in the spring breeze, 
+Cherry blossoms bloom.
+###
+11. Instruction: Write a tweet about the current weather using the provided location and today's date. 
+11. Input: 
+Location: New York City 
+Date: September 5th, 2021 
+11. Output: 
+"What a beautiful day in #NYC today! The sun is shining and the temperature is just right ☀️🌡️ #SundayFunday #SeptemberVibes"
+###
+12. Instruction: Generate a pun using the given keyword. 
+12. Input: 
+Keyword: Alpaca 
+12. Output: 
+Why did the alpaca cross the road? To get to the other herd!
+###
+13. Instruction: Rewrite the following sentence using a different verb. 
+13. Input: 
+Original sentence: The cat was sleeping on the windowsill. 
+13. Output: 
+The cat was lounging on the windowsill.
+###
+14. Instruction: Correctly punctuate the given sentence. 
+14. Input: 
+Sentence: After work we went to the store to buy milk eggs and bread. 
+14. Output: 
+"After work, we went to the store to buy milk, eggs, and bread."
+###
+15. Instruction: Give a synonym for the provided word. 
+15. Input: 
+Word: Ephemeral 
+15. Output: 
+Synonym: Transient
+###
+16. Instruction: Identify the author of the given quote. 
+16. Input: 
+Quote: "Be the change you wish to see in the world." 
+16. Output: 
+Author: Mahatma Gandhi
+###
+17. Instruction: Correctly spell the given word. 
+17. Input: 
+Word: Recieve 
+17. Output: 
+"Receive"
+###
+18. Instruction: Generate a recommendation for a restaurant based on the provided city and cuisine type. 
+18. Input: 
+City: Los Angeles 
+Cuisine: Italian 
+18. Output: 
+"If you're looking for some delicious Italian food in LA, you should try Osteria Mozza - their pasta dishes are amazing!"
+###
+19. Instruction: Provide a synonym for the given word. 
+19. Input: 
+Word: Arduous 
+19. Output: 
+Synonym: Difficult
+###
+20. Instruction: Rewrite the following sentence to be in the past tense. 
+20. Input: 
+Present tense sentence: The dog runs through the park every morning. 
+20. Output: 
+The dog ran through the park every morning.

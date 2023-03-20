@@ -1,0 +1,166 @@
+9. What kind of cuisine do you prefer?
+10. How often do you try new recipes?
+11. Do you prefer to cook alone or with others?
+12. How often do you grocery shop?
+13. Do you follow a meal plan?
+14. Do you usually eat breakfast, lunch, and dinner, or do you have a different eating schedule?
+15. Do you enjoy trying different food from other countries?
+16. What type of ingredients do you prefer: fresh, frozen or canned?
+17. What is your favorite kitchen gadget or appliance?
+18. Do you consider yourself a picky eater?
+19. Do you watch cooking shows or follow any food blogs?
+20. Are there any foods or dishes you would never eat?
+
+###
+4. Instruction: What are five different ways that the tourists can spend their day in a new city?
+4. Input: 
+<noinput>
+4. Output: 
+1. Explore the city's museums and art galleries.
+2. Take a guided walking or bicycle tour of the city.
+3. Visit the local markets and try the regional cuisine.
+4. Attend a cultural event, such as a concert, theater performance, or festival.
+5. Go on a day trip to a nearby natural attraction, like a national park, beach, or scenic viewpoint.
+
+###
+5. Instruction: Identify the pros and cons of living in a big city.
+5. Input: 
+<noinput>
+5. Output: 
+Pros:
+1. Better job opportunities.
+2. Diverse entertainment, events, and cultural experiences.
+3. Access to quality healthcare and educational institutions.
+4. Well-developed public transportation systems.
+5. Larger social network and opportunities to meet new people.
+
+Cons:
+1. Higher cost of living.
+2. Traffic, congestion and lack of parking.
+3. Noise and air pollution.
+4. Higher crime rates.
+5. Less personal space and smaller living spaces.
+
+###
+6. Instruction: Rewrite the given paragraph in a more concise way.
+6. Input: 
+In order to become successful in today's society, it's of the utmost importance that one learns and adopts skills related to time management. The benefits that result from this are innumerable. Not only will you be much more organized and efficient, but you will also have the chance to lead a significantly less stress-filled lifestyle. Given the fact that we are leading very busy lives, being capable of making the most out of the time we have becomes a priceless skill.
+6. Output: 
+To succeed in today's society, mastering time management skills is essential. The benefits are numerous, including improved organization and efficiency, leading to a significantly less stressful lifestyle. As we lead busy lives, the ability to maximize our available time becomes invaluable.
+
+###
+7. Instruction: Explain the concept of "opportunity cost" in simple terms. 
+7. Input: 
+<noinput>
+7. Output: 
+Opportunity cost is the value of the best alternative you give up when you choose one option over another. It represents the benefits you could have received by choosing the next best option, but didn't because you went with a different choice.
+
+###
+8. Instruction: Name three factors that can affect a stock's price. 
+8. Input: 
+<noinput>
+8. Output: 
+1. Company earnings and financial performance.
+2. Market sentiment and investor confidence.
+3. Economic indicators and broader market conditions.
+
+###
+9. Instruction: Suggest three possible ways to improve public transportation in a city.
+9. Input: 
+<noinput>
+9. Output: 
+1. Increase the frequency and capacity of buses and trains.
+2. Enhance the reliability and on-time performance of transit systems.
+3. Improve the coverage and accessibility of public transportation networks, including services for people with disabilities.
+
+###
+10. Instruction: Translate the English text into simple French.
+10. Input: 
+The weather is nice today.
+10. Output: 
+Le temps est beau aujourd'hui.
+
+###
+11. Instruction: Summarize the plot of the novel "To Kill a Mockingbird."
+11. Input: 
+<noinput>
+11. Output: 
+"To Kill a Mockingbird" revolves around the Finch family living in a small town in Alabama during the 1930s. The novel, narrated by young Scout Finch, follows her father, Atticus Finch, a lawyer who defends a Black man, Tom Robinson, unjustly accused of raping a white woman. Meanwhile, Scout and her brother Jem befriend their mysterious and reclusive neighbor Boo Radley. The story explores themes of racism, prejudice, and moral growth as the children learn the importance of empathy and standing up for justice.
+
+###
+12. Instruction: Provide a brief summary of the company Tesla, Inc.
+12. Input: 
+<noinput>
+12. Output: 
+Tesla, Inc. is an American electric vehicle (EV) and clean energy company founded by Elon Musk and others in 2003. The company designs and manufactures electric cars, battery energy storage solutions, solar energy systems, and related products. Tesla aims to make renewable energy and electric transportation more accessible, in order to reduce the world's dependence on fossil fuels and combat climate change.
+
+###
+13. Instruction: Write a short birthday greeting for a friend.
+13. Input: 
+<noinput>
+13. Output: 
+Happy Birthday, [friend's name]! Wishing you a day full of joy, laughter, and love. May this year be filled with great memories and exciting adventures. Celebrate and have a blast!
+
+###
+14. Instruction: Provide a simple recipe for making pasta with tomato sauce.
+14. Input: 
+<noinput>
+14. Output: 
+Ingredients:
+- 8 oz pasta of your choice
+- 2 cups tomato sauce
+- 1 garlic clove, minced
+- 1 tbsp olive oil
+- Salt and pepper to taste
+- Fresh basil leaves for garnish
+
+Instructions:
+1. Cook pasta in a large pot of boiling salted water, following the package's cooking time instructions. Drain and set aside.
+2. In a saucepan, heat olive oil over medium heat. Add minced garlic and cook for 1-2 minutes, or until fragrant.
+3. Add tomato sauce to the saucepan, and season with salt and pepper. Simmer for 10-15 minutes, stirring occasionally.
+4. Toss cooked pasta with the tomato sauce and mix well.
+5. Serve pasta with tomato sauce, topped with fresh basil leaves.
+
+###
+15. Instruction: Write a short description of a product called "Smart Wallet".
+15. Input: 
+<noinput>
+15. Output: 
+The Smart Wallet is a sleek and innovative accessory designed to keep your personal belongings secure and organized. This high-tech wallet features RFID-blocking technology to protect your sensitive card information from theft. It also includes a built-in GPS tracking system, allowing you to locate your lost wallet through a smartphone app. The slim design features multiple card slots, a cash compartment, and a durable material for everyday use. Upgrade to the Smart Wallet for added security and convenience.
+
+###
+16. Instruction: Calculate the tip for a restaurant bill of $60 at a rate of 18%.
+16. Input: 
+<noinput>
+16. Output: 
+$10.80
+
+###
+17. Instruction: Reformulate the given question in a different way.
+17. Input: 
+What is your favorite color?
+17. Output: 
+Which color do you prefer the most?
+
+###
+18. Instruction: Write a short motivational quote about perseverance.
+18. Input: 
+<noinput>
+18. Output: 
+"When you feel like giving up, remember why you held on for so long in the first place."
+
+###
+19. Instruction: Suggest three team-building activities for a company retreat.
+19. Input: 
+<noinput>
+19. Output: 
+1. Scavenger hunt: Create a fun and challenging scavenger hunt that requires teamwork and problem-solving skills.
+2. Escape room: Participate in an escape room experience, which encourages collaboration and critical thinking.
+3. Group cooking or baking: Have teams work together to create a meal or dessert from scratch, promoting communication and collaboration.
+
+###
+20. Instruction: Provide a brief explanation of what the greenhouse effect is.
+20. Input: 
+<noinput>
+20. Output: 
+The greenhouse effect is a natural process that occurs when certain gases in Earth's atmosphere, such as carbon dioxide, water vapor, and methane, trap heat from the sun, preventing it from escaping back into space. This trapped heat warms the Earth's surface, maintaining a habitable temperature for life. However, increased levels of greenhouse gases due to human activities can exacerbate the greenhouse effect, leading to global warming and climate change.
